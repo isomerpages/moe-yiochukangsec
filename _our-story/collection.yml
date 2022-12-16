@@ -2,6 +2,7 @@ collections:
   our-story:
     output: true
     order:
+      - Organisation Chart/Non Teaching Staff.md
       - Organisation Chart/.keep
       - History.md
       - Achievements/School.md
