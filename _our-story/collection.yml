@@ -2,6 +2,7 @@ collections:
   our-story:
     output: true
     order:
+      - Organisation Chart/.keep
       - History.md
       - Achievements/School.md
       - Achievements/Alumni.md
