@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - Students/Information for Parents of YCKSS Secondary 1 (2022).md
       - Students/Student Handbook 2022.md
       - Students/Assessment & Promotion.md
       - Students/Booklist.md
