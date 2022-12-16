@@ -2,5 +2,6 @@ collections:
   our-family:
     output: true
     order:
+      - School Advisory Committee.md
       - Alumni.md
       - Parents Gateway.md
