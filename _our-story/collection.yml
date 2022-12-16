@@ -1,4 +1,5 @@
 collections:
   our-story:
     output: true
-    order: []
+    order:
+      - YCKSS 57th Speech & Prize Giving Day.md
