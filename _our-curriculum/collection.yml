@@ -2,5 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Non Academic Programmes/Environmental Education through the Eco Ace
+        Programme.md
       - Non Academic Programmes/Student Leadership.md
       - Non Academic Programmes/.keep
