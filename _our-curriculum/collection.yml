@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Distinctive Programmes/.keep
       - Academic Programmes/Academic Programmes.md
       - Academic Programmes/Design and Enterprise.md
       - Academic Programmes/English.md
