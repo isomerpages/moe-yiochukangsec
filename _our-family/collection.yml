@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - Students/Students Code of Conduct.md
       - Students/Financial Assistance.md
       - Students/School Uniform.md
       - Students/Useful Links.md
