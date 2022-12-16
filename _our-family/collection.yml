@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - Staff/SWC Activities.md
       - Staff/Useful Links.md
       - Staff/Organisation Chart.md
       - Staff/.keep
