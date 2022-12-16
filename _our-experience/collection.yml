@@ -2,5 +2,6 @@ collections:
   our-experience:
     output: true
     order:
+      - In Our Community.md
       - Connecting Globally.md
       - The Horizon (newsletter).md
