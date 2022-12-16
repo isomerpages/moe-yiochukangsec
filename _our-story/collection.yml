@@ -2,6 +2,7 @@ collections:
   our-story:
     output: true
     order:
+      - Organisation Chart/School Leaders.md
       - Organisation Chart/Key Personnel.md
       - Organisation Chart/Teaching Staff.md
       - Organisation Chart/Non Teaching Staff.md
