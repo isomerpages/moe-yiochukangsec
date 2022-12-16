@@ -2,6 +2,7 @@ collections:
   our-story:
     output: true
     order:
+      - Achievements/Alumni.md
       - Achievements/.keep
       - E Open House.md
       - YCKSS 57th Speech & Prize Giving Day.md
