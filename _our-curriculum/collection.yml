@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Distinctive Programmes/Learning for Life Programme.md
       - Distinctive Programmes/Service Learning through Issue Investigation.md
       - Distinctive Programmes/.keep
       - Academic Programmes/Academic Programmes.md
