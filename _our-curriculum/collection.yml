@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Academic Programmes/Design and Enterprise.md
       - Academic Programmes/English.md
       - Academic Programmes/Humanities.md
       - Academic Programmes/Mother Tongue Languages.md
