@@ -1,4 +1,5 @@
 collections:
   our-curriculum:
     output: true
-    order: []
+    order:
+      - Non Academic Programmes/.keep
