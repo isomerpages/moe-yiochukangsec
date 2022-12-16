@@ -2,4 +2,5 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Non Academic Programmes/Student Leadership.md
       - Non Academic Programmes/.keep
