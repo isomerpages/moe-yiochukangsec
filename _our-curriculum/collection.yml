@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Academic Programmes/Normal Technical Special Subjects.md
       - Academic Programmes/Physical Education.md
       - Academic Programmes/Science.md
       - Academic Programmes/Mathematics and Principles of Accounts (POA).md
