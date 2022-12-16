@@ -1,0 +1,4 @@
+collections:
+  our-family:
+    output: true
+    order: []
