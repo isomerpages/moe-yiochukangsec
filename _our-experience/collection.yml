@@ -1,4 +1,5 @@
 collections:
   our-experience:
     output: true
-    order: []
+    order:
+      - The Horizon (newsletter).md
