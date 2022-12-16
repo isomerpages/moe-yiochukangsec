@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - Staff/Organisation Chart.md
       - Staff/.keep
       - Parents Connect/Parents Connect.md
       - Parents Connect/Principal's Letters to Parents.md
