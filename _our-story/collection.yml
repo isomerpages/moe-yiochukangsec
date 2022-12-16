@@ -2,6 +2,7 @@ collections:
   our-story:
     output: true
     order:
+      - School Song.md
       - School Theme.md
       - School Facilities.md
       - The YCKSians.md
