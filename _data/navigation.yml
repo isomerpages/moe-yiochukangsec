@@ -1,2 +1,10 @@
 logo: /images/Homepage/SchoolLogo.png
-links: []
+links:
+  - title: Our Story
+    collection: our-story
+  - title: Our Curriculum
+    collection: our-curriculum
+  - title: Our Experience
+    collection: our-experience
+  - title: Our Family
+    collection: our-family
