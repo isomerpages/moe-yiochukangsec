@@ -2,4 +2,5 @@ collections:
   our-experience:
     output: true
     order:
+      - Connecting Globally.md
       - The Horizon (newsletter).md
