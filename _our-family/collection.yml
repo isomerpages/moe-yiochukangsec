@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - Parents Connect/.keep
       - School Advisory Committee.md
       - Alumni.md
       - Parents Gateway.md
