@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Academic Programmes/Mathematics and Principles of Accounts (POA).md
       - Academic Programmes/.keep
       - Full Subject Based Banding.md
       - Non Academic Programmes/Non Academic Programmes.md
