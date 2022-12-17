@@ -14,3 +14,5 @@ The **three segments** also suggest seeds beginning to burst open with energy 
 A strong **“Y”** in the centre not only stands for Yio Chu Kang Secondary School, but also suggests a tree trunk with branches pointing skyward in **open embrace of learning and service to others**.  
   
 The **circle** that brings all the elements together forms a never ending ring to symbolise the **collaborative synergy of staff, students and the community** working together in a spirit of inclusivity.
+
+**Extra Information below**
