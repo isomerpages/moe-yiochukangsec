@@ -24,4 +24,4 @@ Principal, Yio Chu Kang Secondary School
   
   
 
-![](/images/Our%20Story/Principal's%20Message/P2.png) 
+![](/images/Our%20Story/Principal's%20Message/P2.png)
