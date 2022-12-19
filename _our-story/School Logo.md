@@ -23,7 +23,7 @@ The **circle** that brings all the elements together forms a never ending ring
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Booklists</label>
+    <label for="accordion1">The Story of the Original YCKSS School Logo</label>
 
     <div>
 
@@ -36,7 +36,7 @@ The **circle** that brings all the elements together forms a never ending ring
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Exam Timetables</label>
+    <label for="accordion2">A Brand New Design for a New Beginning - The Circle Design</label>
 
     <div>
 
@@ -50,7 +50,7 @@ The **circle** that brings all the elements together forms a never ending ring
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Letter to Parents 2022</label>
+    <label for="accordion3">The Chong Boon School Logo - The Golden Tree Design</label>
 
     <div>
 
@@ -64,7 +64,7 @@ The **circle** that brings all the elements together forms a never ending ring
 
     <input type="checkbox" id="accordion4">
 
-    <label for="accordion4">PDLP 2022</label>
+    <label for="accordion4">The Chong Boon School Logo - The Scenic Tree Design</label>
 
     <div>
 
@@ -78,7 +78,7 @@ The **circle** that brings all the elements together forms a never ending ring
 
     <input type="checkbox" id="accordion5">
 
-    <label for="accordion5"> HBL </label>
+    <label for="accordion5">Merged School - The Circle Design with Fresh Interpretation</label>
 
     <div>
 
