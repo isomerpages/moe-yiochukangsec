@@ -3,7 +3,7 @@ title: School Logo
 permalink: /our-story/School-Logo/
 description: ""
 ---
-![YCKSS-School-Logo.png](https://yiochukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u133/Our%20Story/School%20Logo/YCKSS-School-Logo.png)
+<img style="width:20%;height:50%" src="/images/Our%20Story/School%20Logo/School%20Logo/S1.png">
 
   
 
