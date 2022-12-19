@@ -37,9 +37,6 @@ GROWTH
 
 Gratitude, Respect, Optimism, Wholeheartedness, Teamwork, Honesty
 
-  
-
-| ![Gratitudev2.jpg](https://yiochukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u133/Our%20Story/School%20Logo/Gratitudev2.jpg) | ![Respectv3.jpg](https://yiochukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u133/Our%20Story/School%20Logo/Respectv3.jpg) |
-| --- | --- |
-| ![Optimismv2.jpg](https://yiochukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u133/Our%20Story/School%20Logo/Optimismv2.jpg) | ![Wholeheartedness v2.jpg](https://yiochukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u133/Our%20Story/School%20Logo/Wholeheartedness%20v2.jpg) |
-| ![Teamworkv2.jpg](https://yiochukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u133/Our%20Story/School%20Logo/Teamworkv2.jpg) | ![Honestyv2.jpg](https://yiochukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u133/Our%20Story/School%20Logo/Honestyv2.jpg) |
+![](/images/Our%20Story/School%20Vision,%20Mission/V1.png)
+![](/images/Our%20Story/School%20Vision,%20Mission/V2.png)
+![](/images/Our%20Story/School%20Vision,%20Mission/V3.png)
