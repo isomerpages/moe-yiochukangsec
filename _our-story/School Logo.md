@@ -27,7 +27,18 @@ The **circle** that brings all the elements together forms a never ending ring
 
     <div>
 
-			<p> </p>
+<p> <b>In the beginning – The Shield Design</b>
+	
+<img style="width:100%;height:50%" src="/images/Our%20Story/School%20Logo/The%20Story%20Original%20YCKSS%20Sch/S1.png">
+			
+<b>Interpretation (1965-1981)</b>  
+  
+
+*   Shaped to resemble a shield, the logo carries the words Pursuit, Knowledge, and Service in English and in Chinese. These words represent the school’s desire for students to continually improve themselves, to utilize their spare time to enrich their knowledge and put their skill to good practice and be useful citizens.   
+    
+*   A prominent feature of the badge is a burning torch glowing with three full fingers of flame, expressing the enduring and inspiring nature of the three ideals of Pursuit, Knowledge, and Service.   
+    
+*   The school name is also written in both languages to indicate that it is an English-Chinese stream school.</p>
 
     </div>
 
