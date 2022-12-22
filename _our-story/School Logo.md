@@ -66,7 +66,7 @@ The **circle** that brings all the elements together forms a never ending ring
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion3">
 
@@ -74,7 +74,7 @@ The **circle** that brings all the elements together forms a never ending ring
 
     <div>
 
-			<p> 
+<p> 
 <img style="width:100%;height:50%" src="/images/Our%20Story/School%20Logo/The%20CBSL%20%20%20The%20Golden%20Tree/S1.png"><br>
 				
 <b>Interpretation (1994-2005)</b><br>  
@@ -90,7 +90,7 @@ The **circle** that brings all the elements together forms a never ending ring
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion4">
 
