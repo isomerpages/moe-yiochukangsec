@@ -20,7 +20,7 @@ Today, the school continues to be an example of the national social and educatio
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">\[Campus Transformation 1\]</label>
+    <label for="accordion1">Campus Transformation 1</label>
 
     <div>
 
@@ -35,7 +35,7 @@ Today, the school continues to be an example of the national social and educatio
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">\[Campus Transformation 2\]</label>
+    <label for="accordion2">Campus Transformation 2</label>
 
     <div>
 
@@ -50,7 +50,7 @@ Today, the school continues to be an example of the national social and educatio
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">\[Campus Transformation 3\]</label>
+    <label for="accordion3">Campus Transformation 3</label>
 
     <div>
 
@@ -65,7 +65,7 @@ Today, the school continues to be an example of the national social and educatio
 
     <input type="checkbox" id="accordion4">
 
-    <label for="accordion4">\[Campus Transformation 4\]</label>
+    <label for="accordion4">Campus Transformation 4</label>
 
     <div>
 
