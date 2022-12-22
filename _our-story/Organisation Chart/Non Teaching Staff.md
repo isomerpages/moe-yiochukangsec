@@ -22,7 +22,7 @@ third_nav_title: Organisation Chart
     </div>
 
 </li>
-	<li>
+<li>
 
     <input type="checkbox" id="accordion2">
 
@@ -36,7 +36,7 @@ third_nav_title: Organisation Chart
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion3">
 
@@ -44,13 +44,15 @@ third_nav_title: Organisation Chart
 
     <div>
 
-			<p> </p>
+<p> 
+<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Non%20Teaching%20Staff/Technical%20Support/T1.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Non%20Teaching%20Staff/Technical%20Support/T2.png"></p>
 
     </div>
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion4">
 
