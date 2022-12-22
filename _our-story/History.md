@@ -54,7 +54,8 @@ Today, the school continues to be an example of the national social and educatio
 
     <div>
 
-			<p> </p>
+<p> 
+<img style="width:100%;height:50%" src="/images/Our%20Story/History/Campus%20Transformation%203/CT1.png"> </p>
 
     </div>
 
@@ -68,7 +69,15 @@ Today, the school continues to be an example of the national social and educatio
 
     <div>
 
-			<p> </p>
+<p> In 2017, with the anticipated changes to the school as a Merged School, a growing Pathlight Satellite School, and to cater to more small group teaching, some classrooms were installed with partitions. Fortunately timed with the merger was the General Renovation and Repair (GR&R) Exercise at the end of 2017, during which the entire school was repainted with a fresh colour scheme and a new look was given to the school foyer and the staff cabinets outside the main staff room.<br>  
+  
+To echo the Merged School identity, a new school sign was erected at the main gate to display the name of the school in English and the adoption of Chong Boon’s Chinese name, 崇 文 中 学. Forty-Nine Solar Panels from Chong Boon, a legacy of her strong environmental education programme, were installed in Yio Chu Kang Secondary School.<br>  
+
+To accommodate the larger staff and student strength due to the school merger, several changes were made to the existing infrastructure. This included a new staff room that was set up on level 3 to accommodate the English Department. To make room for more classes for teaching and learning, the Needlework room was converted into a normal classroom with flexible configuration. Several open spaces were converted into study hubs for student to gather after school hours. This gave students additional options to do self-study, hold consultations with teachers, or to hold discussions with schoolmates and collaborate informally on learning projects.<br>
+
+As a satellite school for Pathlight School, 14 classrooms were converted progressively since 2014 for Pathlight students. In 2017, a new classroom block was constructed to provide YCKSians with additional classrooms and a covered void deck for student activities. The new block was opened for use on 2 Jan 2020 with the Secondary Four and Five students occupying it.<br>
+	
+<img style="width:100%;height:50%" src="/images/Our%20Story/History/Campus%20Transformation%204/CT1.png"> </p>
 
   </div>
 
