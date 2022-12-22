@@ -111,7 +111,20 @@ This programme aims to help our students better understand the challenges our he
 
     <div>
 
-<p> </p>
+<p> <iframe width="560" height="315" src="https://www.youtube.com/embed/nZCKqhtKvpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			  
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Science/S2.png">
+	<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Science/S3.png">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Science/S4.png">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Science/S5.png">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Science/S6.png">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Science/S7.png">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Science/S8.png">
+	<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Science/S9.png">
+
+
+
+July 13</p>
 
     </div>
 
