@@ -14,7 +14,7 @@ third_nav_title: Achievements
 
     <div>
 
-			<p> </p>
+<p> </p>
 
     </div>
 
@@ -33,7 +33,7 @@ third_nav_title: Achievements
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion3">
 
@@ -41,13 +41,13 @@ third_nav_title: Achievements
 
     <div>
 
-			<p> </p>
+<p> </p>
 
     </div>
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion4">
 
@@ -55,7 +55,7 @@ third_nav_title: Achievements
 
     <div>
 
-			<p> </p>
+<p> </p>
 
   </div>
 
@@ -74,3 +74,8 @@ third_nav_title: Achievements
     </div>
 
 </li>
+	
+	
+
+	
+</ul>
