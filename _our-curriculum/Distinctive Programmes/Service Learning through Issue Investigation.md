@@ -34,3 +34,13 @@ They will then proceed to gather data and evaluate what are the crucial needs of
 
   
 **Key Personnel IC: Ms Chen Huijun (HOD Humanities)**
+
+### **Photo Gallery**
+
+![](/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/S2.png)
+![](/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/S3.png)
+![](/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/S4.png)
+![](/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/S5.png)
+![](/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/S6.png)
+
+
