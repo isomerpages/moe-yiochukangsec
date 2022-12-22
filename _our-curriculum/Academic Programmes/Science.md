@@ -121,10 +121,7 @@ This programme aims to help our students better understand the challenges our he
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Science/S7.png">
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Science/S8.png">
 	<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Science/S9.png">
-
-
-
-July 13</p>
+</p>
 
     </div>
 
@@ -137,7 +134,11 @@ July 13</p>
 
     <div>
 
-  <p> </p>
+  <p> “Throughout this journey, I learnt that with hardwork and teamwork, the output will be fruitful. I felt that my teammates and I supported each other well. One example was the presentation in front of a panel of judges. My teammates' confidence boosted my morale and helped me deliver my lines effectively. Without their support, I never would have been able to overcome my nervousness.”  <b>Kim Seulkichan, 4E1</b><br><br>
+
+“The entirety of Elementz was filled with fun. I was able to further bond with my classmates as we came up with the hypothesis for the project and executed it. I was glad to be part of my Elementz team and we even brought back a Silver medal! All in all, I felt that Elementz has allowed me to apply the concepts that I learnt in Biology to solve problems, other than the usual class work. Given the chance, I would definitely sign up for a research project again."  <b>Dion Kuoh Zixian, 4E1</b><br><br> 
+
+The healthcare mentorship programme has been very fruitful and it has inspired me to work in the healthcare industry and contribute to society. I felt it was a once in a lifetime experience for a 15-year-old like me to be able to be part of this extraordinary programme. It has encouraged me to study harder for Biology. I hope future participants can reap as many benefits as I had from the experiences.”  <b>Tan Huey Shin, 4E2</b> </p>
 
     </div>
 
