@@ -10,7 +10,7 @@ third_nav_title: Distinctive Programmes
 
 <figcaption>
 
-<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+<strong> APPLIED LEARNING PROGRAMME </strong>
 
 </figcaption>
 
@@ -22,7 +22,7 @@ third_nav_title: Distinctive Programmes
 
 <figcaption>
 
-<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+<strong> LEARNING FOR LIFE PROGRAMME </strong>
 
 </figcaption>
 
@@ -34,7 +34,7 @@ third_nav_title: Distinctive Programmes
 
 <figcaption>
 
-<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+<strong> SERVICE LEARNING THROUGH ISSUE INVESTIGATION </strong>
 
 </figcaption>
 
