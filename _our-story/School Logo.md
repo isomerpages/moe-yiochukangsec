@@ -98,7 +98,17 @@ The **circle** that brings all the elements together forms a never ending ring
 
     <div>
 
-			<p> </p>
+<p> 
+<img style="width:100%;height:50%" src="/images/Our%20Story/School%20Logo/The%20CBSL%20%20%20The%20Scenic%20Tree/S1.png"><br>
+			
+<b>Interpretation (2006 – 2017)</b>  
+  
+
+*   The school logo features a circle containing a silhouette, in dark blue and white, of a tree with prominent roots and two birds flying in the sky. The circular shape symbolises the desire to nurture students to be gracious all-rounders. The flow of the horizon reflects the ease that students feel in embracing a holistic education.<br>   
+    
+*   The roots branch out in five directions symbolising the core values of Perseverance, Respect, Integrity, Dedication, and Excellence (PRIDE). The roots are the foundation for the tree to grow and flourish. The tree reaching towards the sky symbolises the students acquiring social and emotional competencies and maximising their potential in whatever they do.<br>   
+    
+*   The birds flying in the sky represent the creative and entrepreneurial spirit. They represent our students going beyond the school and its curriculum to venture into uncharted territories in their pursuit of lifelong learning. With moral courage, confidence and resilience, they will go the extra mile to serve the nation.<br></p>
 
   </div>
 
@@ -112,7 +122,7 @@ The **circle** that brings all the elements together forms a never ending ring
 
     <div>
 
-      	<p> </p>
+      	<p> <img style="width:100%;height:50%" src="/images/Our%20Story/School%20Logo/Merged%20Sch%20The%20Circle%20Design/S1.png"> </p>
 
     </div>
 
