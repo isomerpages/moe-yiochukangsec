@@ -24,7 +24,9 @@ Today, the school continues to be an example of the national social and educatio
 
     <div>
 
-			<p> </p>
+<p>   
+<img style="width:100%;height:50%" src="/images/Our%20Story/History/Campus%20Transformation%201/CT1.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Story/History/Campus%20Transformation%201/CT2.png"></p>
 
     </div>
 
@@ -37,7 +39,8 @@ Today, the school continues to be an example of the national social and educatio
 
     <div>
 
-      <p> </p>
+      <p> <img style="width:100%;height:50%" src="/images/Our%20Story/History/Campus%20Transformation%202/CT1.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Story/History/Campus%20Transformation%202/CT2.png"></p>
 
     </div>
 
