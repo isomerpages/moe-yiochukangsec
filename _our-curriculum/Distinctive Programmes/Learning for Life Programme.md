@@ -176,7 +176,11 @@ The TAP aims to develop the talent of students in various visual art forms and t
 
 The learning journey to Gilman Barrack allows students to understand the creative process of Ideation, Interpretation and Realisation and to appreciate the local art scene. Students were engaged in a step-by-step process using various techniques of clay work, colouring, air dry and varnishing to create their 2-dimension and 3-dimension artwork.<br>
 			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Distinctive%20Programmes/Learning%20for%20Life%20Programme/Arts%20Enrichment/A5.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Distinctive%20Programmes/Learning%20for%20Life%20Programme/Arts%20Enrichment/A6.png"></p>
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Distinctive%20Programmes/Learning%20for%20Life%20Programme/Arts%20Enrichment/A6.png"><br>
+	*<b>Metal Tooling (Secondary 3)</b><br>  
+    
+
+This course aims to enhance students’ aesthetic learning experience by encouraging them to explore their creativity. Student will create their own recycled copper tooling though the use of the different techniques, while being taught the art of modern contemporary art. They will be introduced to the Elements and Principles of Art and Design as they learn basic copper tooling technique to create their artwork.</p>
 
   </div>
 
@@ -190,7 +194,7 @@ The learning journey to Gilman Barrack allows students to understand the creativ
 
     <div>
 
-    <p> </p>
+    <p> YCKSS Showtime! gives students the opportunity to showcase their talents and interest in the performing arts. In a casual and relaxed setting, students perform to their peers a variety of song and dance items ranging from K-Pop dance and rock band performances to solo dance and solo vocal rendition. </p>
 
     </div>
 
