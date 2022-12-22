@@ -55,6 +55,3 @@ Students who have a keen interest in STEM can further hone their knowledge and s
 ![](/images/Our%20Curriculum/Distinctive%20Programmes/Applied%20Learning%20Programme/A6.png)
 ![](/images/Our%20Curriculum/Distinctive%20Programmes/Applied%20Learning%20Programme/A7.png)
 ![](/images/Our%20Curriculum/Distinctive%20Programmes/Applied%20Learning%20Programme/A8.png)
-
-
-
