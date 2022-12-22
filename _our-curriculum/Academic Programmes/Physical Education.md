@@ -212,3 +212,5 @@ offered by the school:
 ![](/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/P4.gif)
 
 **HOD PE & CCA: Ms Irene Heng \[ext 116\]**
+
+### **Photo Gallery**
