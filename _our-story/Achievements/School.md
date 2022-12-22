@@ -1164,7 +1164,259 @@ third_nav_title: Achievements
 
     <div>
 
-      	<p> </p>
+      	<p> <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yst8{background-color:#FFF;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-mmvt{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-mmvt" colspan="2"><span style="color:#EEE;background-color:#2A2A2A">Uniformed Groups</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">NCDCC</span></td>
+    <td class="tg-yst8">Unit Overall Proficiency Award (UOPA) Gold Award<br><br>SCDF-NCDCC Pinnacle Badge<br><br>Marcus Ho Geng Yip, Sec 4<br><br>Urrutia Andreas Luis Prospero, Sec 4</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">NPCC</span></td>
+    <td class="tg-yst8">Unit Overall Proficiency Award (UOPA)<br>Gold Award (CBSS)<br>Silver Award (YCKSS)<br><br>SPF-NPCC Badge<br>Low Yi San, Sec 4</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">Red Cross Youth</span></td>
+    <td class="tg-yst8">Excellent Unit Award (EUA)<br>Gold Award<br><br>Director’s Award<br>Maneesha, Sec 4</td>
+  </tr>
+</tbody>
+</table><br>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yst8{background-color:#FFF;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-mmvt{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-mmvt" colspan="2"><span style="color:#EEE;background-color:#2A2A2A">Sports</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">Badminton</span></td>
+    <td class="tg-zr06">North Zone - Quarter Finals (B Girls)</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">Netball</span></td>
+    <td class="tg-zr06">North Zone Second Round (B Girls)<br>M1 Schools Challenge League Championship - Champions (C Girls)</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">Taekwondo</span></td>
+    <td class="tg-yst8">National School Games Taekwondo Championship 2018 (Kyorugi Medallists)<br>C Division Female Red Belt Under 42kg<br>3rd Place - Lim Zi Xuan, Sec 1<br><br>B Division Male Black Belt Under 60kg<br>3rd Place - Klyde Phua, Sec 4<br><br>B Division Male Red Belt Under 81kg<br>1st Place - Brandon Lin Hui, Sec 4</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">Sailing</span></td>
+    <td class="tg-yst8">National School Games Sailing Championship 2018<br>C Division Byte Girls<br>4th – Koh Bee Ling, Regina, Sec 1</td>
+  </tr>
+</tbody>
+</table><br>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-mmvt{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-mmvt" colspan="2"><span style="color:#EEE;background-color:#2A2A2A">Aesthetics</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">Choir</span></td>
+    <td class="tg-zr06">SYF Presentation 2017 - Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">Band</span></td>
+    <td class="tg-zr06">SYF Presentation 2017 - Certificate of Accomplishment</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">Chinese Dance</span></td>
+    <td class="tg-zr06">SYF Presentation 2017 - Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">Drama</span></td>
+    <td class="tg-zr06">SYF Presentation 2017 - Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">Indian Dance</span></td>
+    <td class="tg-zr06">SYF Presentation 2017 - Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">Malay Dance</span></td>
+    <td class="tg-zr06">SYF Presentation 2017 - Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">Modern Dance</span></td>
+    <td class="tg-zr06">SYF Presentation 2017 - Certificate of Accomplishment</td>
+  </tr>
+</tbody>
+</table><br>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8rcp{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-mmvt{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-mmvt" colspan="2"><span style="color:#EEE;background-color:#2A2A2A">Environment</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-8rcp">School’s Green Award 2018 <br></td>
+    <td class="tg-8rcp">Yellow Flame Award <br></td>
+  </tr>
+  <tr>
+    <td class="tg-8rcp">School’s Green Award 2017</td>
+    <td class="tg-8rcp">Lotus Award  </td>
+  </tr>
+</tbody>
+</table><br>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3r84{background-color:#2A2A2A;border-color:inherit;color:#EEE;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-33e1{background-color:#FFF;border-color:inherit;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-nbj5{background-color:#FFF;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-jxgv{background-color:#FFF;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-pdeq{background-color:#FFF;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-3r84" colspan="2"><span style="color:#EEE;background-color:#2A2A2A">Others</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pdeq">Unity Scientific Innovation Challenge 2019<br></td>
+    <td class="tg-33e1">Team Category<br>Top 10 Finalists<br></td>
+  </tr>
+  <tr>
+    <td class="tg-nbj5"><br>40th International C.B. Paul Science Quiz <br></td>
+    <td class="tg-33e1">Individual Category<br>Silver Award<br><br> Hur Sun Ho, 4E1<br><br>Bronze Award<br><br>Tan Wei Song Russell Bryan, 4E1<br><br>Commendation Award<br><br>Cheah Suan Yi, 4E1<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq">International Biomedical Quiz 2019</td>
+    <td class="tg-33e1">Individual Category<br>Silver Award<br><br>Pey Kiet Lin, 4E2<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq">20th Elementz International Science Research Conference &amp; Competition </td>
+    <td class="tg-33e1">All 6 groups received an award<br>Silver award - 1<br>Bronze awards - 2<br>Certificates of Commendation – 3<br></td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq">Singapore Junior Chemistry Olympiad (SJChO) 2019<br></td>
+    <td class="tg-33e1">Individual Category<br>Bronze Award<br><br>Lin Bin, 4E1<br><br>Merit Award<br><br>Won Jun, 4E1<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq">Singapore and Asian Schools Math Olympiad (SASMO)<br></td>
+    <td class="tg-jxgv">4  Bronze, 2 Silver &amp; 1 Gold<br></td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq">Singapore Mathematical Olympiad (SMO)<br></td>
+    <td class="tg-jxgv">1   Honourable Mention &amp; 2 Bronze</td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq">University of New South Wales (UNSW) Mathematics Competition<br></td>
+    <td class="tg-jxgv">Secondary 2  <br><br>1 High Distinction<br>7 Distinctions <br>5 Credits <br>4 Merits<br><br>Secondary 3  <br><br>Distinctions<br>3 Credits<br>2 Merits<br><br><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq">National Chinese Challenge 2019 - Secondary School</td>
+    <td class="tg-jxgv">Excellence Award (Individual)<br><br>Xu Yi Xuan, Sec 4E1<br></td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq">9th SCCCE Art Festival Competition</td>
+    <td class="tg-jxgv">Gold Award<br><br>Lim Wen Han, Sec 4E1<br></td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq">My Story 2019 Public Speaking Competition</td>
+    <td class="tg-jxgv">Merit Award<br><br>Chen Zhehai, Sec 4E2<br></td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq">4th Sing Chu National Students Chinese Callgraphy Competition 2019</td>
+    <td class="tg-jxgv">Merit Award<br><br>Lim Wen Han, Sec 4E1<br></td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq">National Chinese Pen Calligraphy Competition</td>
+    <td class="tg-jxgv">First Prize<br><br>Lim Wen Han, Sec 4E1<br></td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq">North Zone Malay Language Scrabble Competition</td>
+    <td class="tg-jxgv">3rd Prize (Team)<br></td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq">RI Tamil Literary Competitions 2019  - Drama Competition</td>
+    <td class="tg-jxgv">4th Prize (Team)<br></td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq">Teck Ghee CC Tamil Literary Competitions</td>
+    <td class="tg-jxgv">Language Quiz(pair): 1st Prize<br><br>Sakthi Priya, Sec 4E4<br>Kandasamy Nandakumar, Sec 4E1<br><br><br>Word Game(pair): 2nd Prize<br><br>S Mithraa, Sec 2E1<br>Namasivayam Senthil Kannan Raagavi, Sec 2E3<br><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq">A Budding Writers’ &amp; Budding Artistes’ Programme (NOP) by CPDD</td>
+    <td class="tg-jxgv">Silver Award<br><br>S Mithraa, Sec 2E1<br>Ashwin S/O Balamurugan, Sec 2A1<br>G B Durgesh, Sec 2T1<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq">Your Talent Our Pride For Kids (by YCK CC)</td>
+    <td class="tg-jxgv">1st Prize<br><br>Zameer Shareef S/o Nisardeen, Sec 1A12nd Prize<br><br><br><br>Raenisha Sheriidan, Sec 1E2<br></td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq">National Creative Story Writing Competition for Secondary Students</td>
+    <td class="tg-jxgv">Distinguished Achievement Award<br><br>Chen Kewei, Sec 2E3<br><br><br>Excellence Awards<br><br>Bi Hexin, Sec 4E1<br>Wang Shijia, Sec 4E1<br>Lim Qian Tong, Sec 5A1<br>Liu Zhen, Sec 5A1<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq">EBS Enterprise Deal Competition 2019</td>
+    <td class="tg-jxgv">Two winning teams (out of 3 participating teams)<br></td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq">Crea8 Sustainability Competition 2019<br>(Infocomm Club – Digital Animation) <br></td>
+    <td class="tg-jxgv">1st Runner-up (Upper Sec Category)<br>2nd Runner-up (Lower Sec Category)</td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq">University of New South Wales (UNSW) English Competition<br></td>
+    <td class="tg-jxgv">Secondary 2<br><br>1 Credit<br><br><br>Secondary 3 <br><br>1 Credit<br><br><br>Secondary 4<br><br>1 Merit<br>2 Credit<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq">Republic Polytechnic<br>Hospitality Race 2019</td>
+    <td class="tg-33e1">Consolation Prize<br><br>Ho Chian Cee Caapri, Sec 3<br>Nur Shafiqa Leong, Sec 3<br> Arjun Jayakumar, Sec 3</td>
+  </tr>
+</tbody>
+</table> </p>
 
     </div>
 
