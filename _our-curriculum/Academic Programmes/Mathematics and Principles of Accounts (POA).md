@@ -69,3 +69,12 @@ Authentic learning in POA
 
 **HOD Mathematics: Mdm Goh Shwu Jun \[ext 114\]**
 
+### **Photo Gallery**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FdvsS_kXSp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![](/images/Our%20Curriculum/Academic%20Programmes/Mathematics%20and%20POA/M2.png)
+![](/images/Our%20Curriculum/Academic%20Programmes/Mathematics%20and%20POA/M3.png)
+![](/images/Our%20Curriculum/Academic%20Programmes/Mathematics%20and%20POA/M4.png)
+
+
