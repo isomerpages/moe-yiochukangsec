@@ -49,3 +49,23 @@ Our department believes in offering innovative approaches to help our students g
 ****Algebra Games**** 
 
 *   **_The Smart City Explorer_** is the invention of our teachers who have designed it to create joy in learning algebraic concepts in the lower secondary mathematics classroom through play. Using this games based approach, students learn in teams and become more competent and confident about their abilities in algebraic manipulations.
+
+Principles of Accounts  
+
+  
+
+To provide a conducive learning environment for students to develop proper values, attitudes and life-skills through the learning of accounting.  
+
+  
+
+Authentic learning in POA
+
+  
+
+*   Solving real world problems through different accounting scenarios. 
+*   Infusing problems involving real world context into the POA syllabus. 
+*   Developing positive traits such as having integrity and being meticulous through the  use of the accounting system.   
+    
+
+**HOD Mathematics: Mdm Goh Shwu Jun \[ext 114\]**
+
