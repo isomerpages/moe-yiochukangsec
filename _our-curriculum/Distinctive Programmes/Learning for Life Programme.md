@@ -104,7 +104,20 @@ Successful DSA applicants through AMD are expected to enrol in the relevant perf
 
     <div>
 
-     <p> </p>
+     <p>   
+Each year, 5 individuals from each of the 5 modules will be awarded the Outstanding Student Award. These students are awarded for being positive role models to their peers in their pursuit to hone their craft in Arts, Media and Design.   
+  
+2018 Secondary 2 Cohort  
+
+*   Nur Fae'iqa Ruqayyah Binte Abdullah (Class 2E2) for Modern Dance  
+    
+*   Liu Chang Bo (Class 2E2) for Drama  
+    
+*   Dacanay Norvin Cj Marc Gongon (Class 2A1) for Music (Rock & Pop)   
+    
+*   Jensen Lee Ming Heng (Class 2E2) for Short Film Production  
+    
+*   Huang Zihang (Class 2E2) for Interior Design </p>
 
     </div>
 
