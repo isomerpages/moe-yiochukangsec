@@ -101,7 +101,7 @@ The **circle** that brings all the elements together forms a never ending ring
 <p> 
 <img style="width:100%;height:50%" src="/images/Our%20Story/School%20Logo/The%20CBSL%20%20%20The%20Scenic%20Tree/S1.png"><br>
 			
-<b>Interpretation (2006 – 2017)</b>  
+<b>Interpretation (2006 – 2017)</b><br>  
   
 
 *   The school logo features a circle containing a silhouette, in dark blue and white, of a tree with prominent roots and two birds flying in the sky. The circular shape symbolises the desire to nurture students to be gracious all-rounders. The flow of the horizon reflects the ease that students feel in embracing a holistic education.<br>   
