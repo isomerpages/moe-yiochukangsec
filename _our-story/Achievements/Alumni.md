@@ -10,11 +10,11 @@ third_nav_title: Achievements
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Booklists</label>
+    <label for="accordion1">2021 Alumni Achievements</label>
 
     <div>
 
-			<p> </p>
+<p> </p>
 
     </div>
 
@@ -23,7 +23,7 @@ third_nav_title: Achievements
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Exam Timetables</label>
+    <label for="accordion2">2020 Alumni Achievements</label>
 
     <div>
 
@@ -33,30 +33,35 @@ third_nav_title: Achievements
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Letter to Parents 2022</label>
+    <label for="accordion3">2019 Alumni Achievements</label>
 
     <div>
 
-			<p> </p>
+<p> </p>
 
     </div>
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion4">
 
-    <label for="accordion4">PDLP 2022</label>
+    <label for="accordion4">2018 Alumni Achievements</label>
 
     <div>
 
-			<p> </p>
+<p> </p>
 
   </div>
 
 </li>
+	
+	
+
+	
+</ul>
