@@ -131,7 +131,24 @@ Each year, 5 individuals from each of the 5 modules will be awarded the Outstand
 
     <div>
 
-<p> </p>
+<p> Students will be get to watch local and international productions and appreciate how the synergy and collaboration between the various modules they have learned through AMD can create a stage production:  
+  
+Production in 2108:  
+
+*   The Curious Incident of the Dog in the Night Time @ Esplanade Theatre  
+    
+*   Julius Caesar: Shakespeare in the Park @ Fort Canning Park  
+    
+*   The Lion King Musical @ Marina Bay Sands Theatre  
+    
+
+  
+
+Upcoming productions in 2019:\\
+
+*   Matilda The Musical @ Marina Bay Sands Theatre
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Distinctive%20Programmes/Learning%20for%20Life%20Programme/Arts%20Exposure!/A1.png"><br>
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Distinctive%20Programmes/Learning%20for%20Life%20Programme/Arts%20Exposure!/A2.png"></p>
 
     </div>
 
