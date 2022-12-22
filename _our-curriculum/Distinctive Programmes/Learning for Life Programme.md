@@ -81,11 +81,11 @@ Successful DSA applicants through AMD are expected to enrol in the relevant perf
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Booklists</label>
+    <label for="accordion1">Photo Gallery</label>
 
     <div>
 
-			<p> </p>
+<p> </p>
 
     </div>
 
@@ -94,39 +94,39 @@ Successful DSA applicants through AMD are expected to enrol in the relevant perf
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Exam Timetables</label>
+    <label for="accordion2">Outstanding Student Award (AMD 2018)</label>
 
     <div>
 
-      <p> </p>
+     <p> </p>
 
     </div>
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Letter to Parents 2022</label>
+    <label for="accordion3">Arts Exposure!</label>
 
     <div>
 
-			<p> </p>
+<p> </p>
 
     </div>
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion4">
 
-    <label for="accordion4">PDLP 2022</label>
+    <label for="accordion4">Arts Enrichment</label>
 
     <div>
 
-			<p> </p>
+<p> </p>
 
   </div>
 
@@ -136,11 +136,11 @@ Successful DSA applicants through AMD are expected to enrol in the relevant perf
 
     <input type="checkbox" id="accordion5">
 
-    <label for="accordion5"> HBL </label>
+    <label for="accordion5">YCKSS Showtime!</label>
 
     <div>
 
-      	<p> </p>
+    <p> </p>
 
     </div>
 
@@ -150,11 +150,11 @@ Successful DSA applicants through AMD are expected to enrol in the relevant perf
 
     <input type="checkbox" id="accordion6">
 
-    <label for="accordion6">FAS Information</label>
+    <label for="accordion6">Sec 2 AMD Showcase</label>
 
     <div>
 
-			<p> </p>
+<p> </p>
 
     </div>
 
