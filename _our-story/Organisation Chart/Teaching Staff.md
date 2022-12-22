@@ -34,7 +34,8 @@ third_nav_title: Organisation Chart
       <p> 
 				<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Humanities%20Department/H1.png">
 			<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Humanities%20Department/H2.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Humanities%20Department/H3.png"></p>
+			<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Humanities%20Department/H3.png">
+			</p>
 
     </div>
 
@@ -52,7 +53,8 @@ third_nav_title: Organisation Chart
 <img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Mathematics%20and%20%20POA%20Dpt/M1.png">
 			<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Mathematics%20and%20%20POA%20Dpt/M2.png">
 			<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Mathematics%20and%20%20POA%20Dpt/M3.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Mathematics%20and%20%20POA%20Dpt/M4.png"></p>
+			<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Mathematics%20and%20%20POA%20Dpt/M4.png">
+			</p>
 
     </div>
 
@@ -66,7 +68,12 @@ third_nav_title: Organisation Chart
 
     <div>
 
-			<p> </p>
+<p>
+<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/MTL%20Department/M1.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/MTL%20Department/M2.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/MTL%20Department/M3.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/MTL%20Department/M4.png">
+			</p>
 
   </div>
 
