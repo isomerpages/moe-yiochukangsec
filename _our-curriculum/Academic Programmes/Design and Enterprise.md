@@ -91,3 +91,7 @@ world situations.
 **HOD D&E: Ms Hoon Siew Hui \[ext: 206\]**
 
 ### **Photo Gallery**
+
+![](/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D3.png)
+![](/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D4.png)
+![](/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D5.png)
