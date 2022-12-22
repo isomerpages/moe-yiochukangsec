@@ -107,7 +107,7 @@ This programme aims to help our students better understand the challenges our he
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Booklists</label>
+    <label for="accordion1">Photo Gallery</label>
 
     <div>
 
@@ -120,7 +120,7 @@ This programme aims to help our students better understand the challenges our he
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Exam Timetables</label>
+    <label for="accordion2">Voices of Science</label>
 
     <div>
 
