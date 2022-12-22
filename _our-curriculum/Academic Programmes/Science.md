@@ -111,7 +111,7 @@ This programme aims to help our students better understand the challenges our he
 
     <div>
 
-			<p> </p>
+<p> </p>
 
     </div>
 
@@ -124,7 +124,7 @@ This programme aims to help our students better understand the challenges our he
 
     <div>
 
-      <p> </p>
+  <p> </p>
 
     </div>
 
