@@ -6,7 +6,7 @@ third_nav_title: Distinctive Programmes
 ---
 <figure>
 
-<a href="/images/Capture.jpg" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Distinctive%20Programmes/Distinctive%20Programmes/D1.png"></a>
+<a href="/our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Distinctive%20Programmes/Distinctive%20Programmes/D1.png"></a>
 
 <figcaption>
 
@@ -18,7 +18,7 @@ third_nav_title: Distinctive Programmes
 
 <figure>
 
-<a href="/images/Capture.jpg" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Distinctive%20Programmes/Distinctive%20Programmes/D2.png"></a>
+<a href="/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Distinctive%20Programmes/Distinctive%20Programmes/D2.png"></a>
 
 <figcaption>
 
@@ -30,7 +30,7 @@ third_nav_title: Distinctive Programmes
 
 <figure>
 
-<a href="/images/Capture.jpg" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Distinctive%20Programmes/Distinctive%20Programmes/D3.png"></a>
+<a href="/our-curriculum/Distinctive-Programmes/Service-Learning-through-Issue-Investigation/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Distinctive%20Programmes/Distinctive%20Programmes/D3.png"></a>
 
 <figcaption>
 
