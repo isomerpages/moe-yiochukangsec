@@ -42,5 +42,3 @@ They will then proceed to gather data and evaluate what are the crucial needs of
 ![](/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/S4.png)
 ![](/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/S5.png)
 ![](/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/S6.png)
-
-
