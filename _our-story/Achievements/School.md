@@ -234,6 +234,98 @@ third_nav_title: Achievements
     <td class="tg-89xa">National Top 50<br>Derrick See Kar Xun</td>
   </tr>
 </tbody>
+</table><br>
+			<b>Language Related</b>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-6xsg{background-color:#FFD;color:#00693E;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-h8d7{background-color:#FFD;color:#00693E;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-xrm1{background-color:#FFF;color:#666;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-89xa{background-color:#FFF;color:#666;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-6xsg"><span style="font-weight:700">University of New South Wales (UNSW) English</span></th>
+    <th class="tg-h8d7">Secondary 2<br>1 Distinction, 3 Credits, 4 Merits<br>Secondary 3<br>2 Merits</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-xrm1"><span style="font-weight:bolder">University of New South Wales (UNSW) Writing</span></td>
+    <td class="tg-89xa">Secondary 2<br>1 Credit, 1 Merit<br>Secondary 3<br>1 Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-xrm1"><span style="font-weight:bolder">2022 Inter-Secondary School</span><br><span style="font-weight:bolder">Translation Competition: 3T</span><br><span style="font-weight:bolder">(Teriemah-Tutur-Tepat)</span></td>
+    <td class="tg-89xa">Third Place<br>•  Illya Batrisyah Putri Mohamad Bakri<br>•  Nur Rashiqa Bite Muhammad Risman<br>•  Siti Syahira Bite Muhammad Rashid<br><br>Best Translator<br>•  Siti Syahira Binte Muhammad Rashid</td>
+  </tr>
+  <tr>
+    <td class="tg-xrm1"><span style="font-weight:bolder">2022 National Tamil Language Speakers Competition</span></td>
+    <td class="tg-89xa">Second Place<br>•  Yoganandhan Harini Sai</td>
+  </tr>
+  <tr>
+    <td class="tg-xrm1"><span style="font-weight:bolder">2022 National Tamil Creative Writing Competition</span></td>
+    <td class="tg-89xa">Third Place<br>•  John Britto Jeronicca Queen</td>
+  </tr>
+  <tr>
+    <td class="tg-xrm1"><span style="font-weight:bolder">Vetri Vizha 2022 - Budding Writers’ and Budding Artistes’ Programme</span></td>
+    <td class="tg-89xa">National Top 10 (Budding Writers)<br>•  Harshini Elangovan<br>•  Anas Mahmood Bin Abdul Quadir<br>National Top 10 (Budding Artistes)<br>•  Janesh Raj S/o Logaraj Shashi Kumar<br>•  Vetriyalagan Sivadharsan<br>•  Dishika Angeline Anbalagan</td>
+  </tr>
+</tbody>
+</table><br>
+			<b>STEM Related</b>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-6xsg{background-color:#FFD;color:#00693E;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-h8d7{background-color:#FFD;color:#00693E;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-xrm1{background-color:#FFF;color:#666;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-89xa{background-color:#FFF;color:#666;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-6xsg"><span style="font-weight:700">2022 All Singapore Mathematics Competition for Normal Course</span></th>
+    <th class="tg-h8d7">National Top 20 (Upper Sec NT Category)<br>•  Ong Shun Jie Vincent (11th position)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-xrm1"><span style="font-weight:bolder">Singapore Mathematical Olympiad (SMO)</span></td>
+    <td class="tg-89xa">Honourable Mention<br>•  Lim Xu You,Alden<br>•  Lim Wei Heng<br>•  Ong Jun Xi Darryl</td>
+  </tr>
+  <tr>
+    <td class="tg-xrm1"><span style="font-weight:bolder">Singapore and Asian Schools Math Olympiad (SASMO)</span></td>
+    <td class="tg-89xa">Silver Award<br>•  Clariss Ong Li Rong<br>•  Lim Wei Heng<br>•  Wang Yihan<br>•  Soo Yong Qi<br>Bronze Award<br>•  Zaven Pang Xing Yu<br>•  Nur Naurah Darwisyah Binte Mohamed Hafiz<br>•  Josua Valencia Van Mook<br>•  Ong Jun Xi Darryl<br>•  Kang Pin Xian<br>•  Ong Zhi Yuan<br>•  Khoo Corey<br>•  Ren Yanjia<br>•  Nah Ee Heng, Ian<br>Honourable Mention<br>•  Janice Lye Yu Tiam<br>•  Gee Ming Xi<br>•  Julian Koh Jun Rui<br>•  Teo Kai En, Alivia<br>•  Phey Kai En Karina<br>•  Alarick Ong Tze Hou<br>•  Tan You Ren, Zuriel</td>
+  </tr>
+  <tr>
+    <td class="tg-xrm1"><span style="font-weight:bolder">11th International Biomedical Quiz 2022</span></td>
+    <td class="tg-89xa">Bronze<br>•  Koh Ruo Le<br>Merit<br>•  Tan Ying Shan<br>•  Leora Wang Meize</td>
+  </tr>
+  <tr>
+    <td class="tg-xrm1"><span style="font-weight:bolder">23rd International Elementz Fair 2022</span></td>
+    <td class="tg-89xa">Gold – Team 4<br>•  Joash Emmanuel<br>•  Sam Michelle<br>•  Charmaine Lee<br>•  Priscilla Loh Hui Ying<br>•  Raenisha Sherridan<br>Silver – Team 2<br>•  Elisha Gabrielle d/o Nicholas<br>•  Liew Tze Wan<br>•  Ng Li Lin<br>•  Nisrina Shaheen d/o Jamshaid Khan<br>Bronze – Team 1<br>•  Dela Cruz Nicole Aira Hernandez<br>•  Ikjeen New<br>•  Jason Neo Jie Sen<br>•  Yoganandahan Hairini Sai</td>
+  </tr>
+  <tr>
+    <td class="tg-xrm1"><span style="font-weight:bolder">43rd International C.B. Paul Science Quiz 2022</span></td>
+    <td class="tg-89xa">Individual Gold<br>•  Li Nuofan<br>Individual Bronze<br>•  Cui Zixuan<br>•  Koh Ruo Le<br>•  Tan Ying Shan Leora<br>Individual Merit<br>•  Chu Jinyu<br>•  Ng Guo Shen</td>
+  </tr>
+  <tr>
+    <td class="tg-xrm1"><span style="font-weight:bolder">2022 Singapore Junior Chemistry Olympiad</span></td>
+    <td class="tg-89xa">Individual Merit Award<br>•  Yong Tuck Lam<br>•  Wang Meize</td>
+  </tr>
+  <tr>
+    <td class="tg-xrm1"><span style="font-weight:bolder">Unity Scientific Innovation Challenge</span></td>
+    <td class="tg-89xa">Consolation Prize 1<br>•  Yoganandhan Harini Sai<br>•  Ikjeen New<br>•  Liew Tze Wan<br>•  Jason Neo Jie Sen</td>
+  </tr>
+</tbody>
 </table>
 			</p>
 
