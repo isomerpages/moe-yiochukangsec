@@ -101,3 +101,31 @@ This programme aims to help our students better understand the challenges our he
 
 **HOD Science: Ms Alicia Lock \[ext 207\]**
 
+<ul class="jekyllcodex_accordion">
+
+  <li>
+
+    <input type="checkbox" id="accordion1">
+
+    <label for="accordion1">Booklists</label>
+
+    <div>
+
+			<p> </p>
+
+    </div>
+
+</li>
+	<li>
+
+    <input type="checkbox" id="accordion2">
+
+    <label for="accordion2">Exam Timetables</label>
+
+    <div>
+
+      <p> </p>
+
+    </div>
+
+</li>
