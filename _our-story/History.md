@@ -43,7 +43,7 @@ Today, the school continues to be an example of the national social and educatio
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion3">
 
@@ -57,7 +57,7 @@ Today, the school continues to be an example of the national social and educatio
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion4">
 
