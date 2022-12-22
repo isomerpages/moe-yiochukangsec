@@ -31,7 +31,10 @@ third_nav_title: Organisation Chart
 
     <div>
 
-      <p> </p>
+      <p> 
+				<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Humanities%20Department/H1.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Humanities%20Department/H2.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Humanities%20Department/H3.png"></p>
 
     </div>
 
