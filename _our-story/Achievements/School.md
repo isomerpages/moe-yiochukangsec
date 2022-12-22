@@ -10,7 +10,7 @@ third_nav_title: Achievements
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Booklists</label>
+    <label for="accordion1">Achievements 2022</label>
 
     <div>
 
@@ -23,7 +23,7 @@ third_nav_title: Achievements
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Exam Timetables</label>
+    <label for="accordion2">Achievements 2021</label>
 
     <div>
 
@@ -37,7 +37,7 @@ third_nav_title: Achievements
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Letter to Parents 2022</label>
+    <label for="accordion3">Achievements 2020</label>
 
     <div>
 
@@ -51,7 +51,7 @@ third_nav_title: Achievements
 
     <input type="checkbox" id="accordion4">
 
-    <label for="accordion4">PDLP 2022</label>
+    <label for="accordion4">Achievements 2019</label>
 
     <div>
 
@@ -65,7 +65,7 @@ third_nav_title: Achievements
 
     <input type="checkbox" id="accordion5">
 
-    <label for="accordion5"> HBL </label>
+    <label for="accordion5">Achievements 2018</label>
 
     <div>
 
