@@ -12,3 +12,61 @@ Since then, the school has undergone **four campus transformations**, reflectin
 Today, the school continues to be an example of the national social and educational initiatives to meet emerging needs. In 2014, the school became the second Pathlight Satellite School, hosting students in an innovative commitment to create sustained and regular opportunities for authentic academic and social integration of students with different learning abilities. In 2018, the school merged with Chong Boon Secondary School. In many fundamental ways, the Merged School seeks to capture the school’s long story and half a century of DNA. It respects the long heritage and deep roots of both schools, while demonstrating through its remarkable story of how it is agile in change.
 
 ![](/images/Our%20Story/History/History/H1.png)
+
+
+<ul class="jekyllcodex_accordion">
+
+  <li>
+
+    <input type="checkbox" id="accordion1">
+
+    <label for="accordion1">Booklists</label>
+
+    <div>
+
+			<p> </p>
+
+    </div>
+
+</li>
+	<li>
+
+    <input type="checkbox" id="accordion2">
+
+    <label for="accordion2">Exam Timetables</label>
+
+    <div>
+
+      <p> </p>
+
+    </div>
+
+</li>
+	
+	<li>
+
+    <input type="checkbox" id="accordion3">
+
+    <label for="accordion3">Letter to Parents 2022</label>
+
+    <div>
+
+			<p> </p>
+
+    </div>
+
+</li>
+	
+	<li>
+
+    <input type="checkbox" id="accordion4">
+
+    <label for="accordion4">PDLP 2022</label>
+
+    <div>
+
+			<p> </p>
+
+  </div>
+
+</li>
