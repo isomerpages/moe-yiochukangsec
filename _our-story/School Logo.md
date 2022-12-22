@@ -29,16 +29,16 @@ The **circle** that brings all the elements together forms a never ending ring
 
 <p> <b>In the beginning – The Shield Design</b>
 	
-<img style="width:100%;height:50%" src="/images/Our%20Story/School%20Logo/The%20Story%20Original%20YCKSS%20Sch/S1.png">
+<img style="width:100%;height:50%" src="/images/Our%20Story/School%20Logo/The%20Story%20Original%20YCKSS%20Sch/S1.png"><br>
 			
-<b>Interpretation (1965-1981)</b>  
+<b>Interpretation (1965-1981)</b><br>  
   
 
-*   Shaped to resemble a shield, the logo carries the words Pursuit, Knowledge, and Service in English and in Chinese. These words represent the school’s desire for students to continually improve themselves, to utilize their spare time to enrich their knowledge and put their skill to good practice and be useful citizens.   
+*   Shaped to resemble a shield, the logo carries the words Pursuit, Knowledge, and Service in English and in Chinese. These words represent the school’s desire for students to continually improve themselves, to utilize their spare time to enrich their knowledge and put their skill to good practice and be useful citizens.<br>   
     
-*   A prominent feature of the badge is a burning torch glowing with three full fingers of flame, expressing the enduring and inspiring nature of the three ideals of Pursuit, Knowledge, and Service.   
+*   A prominent feature of the badge is a burning torch glowing with three full fingers of flame, expressing the enduring and inspiring nature of the three ideals of Pursuit, Knowledge, and Service.<br>   
     
-*   The school name is also written in both languages to indicate that it is an English-Chinese stream school.</p>
+*   The school name is also written in both languages to indicate that it is an English-Chinese stream school.<br></p>
 
     </div>
 
@@ -51,7 +51,16 @@ The **circle** that brings all the elements together forms a never ending ring
 
     <div>
 
-      <p> </p>
+      <p> <img style="width:100%;height:50%" src="/images/Our%20Story/School%20Logo/A%20Brand%20New%20Design%20for%20a%20New%20B/S1.png"><br>
+			
+<b>Interpretation (1982-2017)</b><br>  
+  
+
+*   The school logo is symbolised by a generator surrounded by a circle. The core of the generator is the letter Y which stands for Yio Chu Kang Secondary School <br>   
+    
+*   The generator consists of three components and these symbolise pursuit, knowledge, and service. They also represent the students, the staff and the stakeholders, and their inter-connection pushes the school to excel.<br>  
+    
+*   The circle symbolises the bond between the students and the management and the teaching staff of the school. Together they make the generator functional so that the students can be inspired to pursue knowledge and equip themselves to be useful citizens to serve the nation.<br></p>
 
     </div>
 
@@ -65,7 +74,17 @@ The **circle** that brings all the elements together forms a never ending ring
 
     <div>
 
-			<p> </p>
+			<p> 
+<img style="width:100%;height:50%" src="/images/Our%20Story/School%20Logo/The%20CBSL%20%20%20The%20Golden%20Tree/S1.png"><br>
+				
+<b>Interpretation (1994-2005)</b><br>  
+  
+
+*   The towering and prolific tree symbolises success in one’s undertaking.<br>  
+    
+*   The flaming branches are the academic, moral, social and physical areas that the school aims to excel in. The roots remind students to learn to share and care, and to be courageous and tenacious in upholding integrity amidst change and transience.<br>   
+    
+*   Thus students are guided with a firm hand and yet are given liberty to discover for themselves, and about themselves, so that they grow to be unique and distinct personalities, capable of independent thought and expression, and equipped for the world of work.<br></p>
 
     </div>
 
