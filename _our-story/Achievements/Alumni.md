@@ -163,7 +163,154 @@ The Module Prize is awarded to students with outstanding academic performance in
 
     <div>
 
-      <p> </p>
+<p> <b>At Junior Colleges / Pre-University at Central Institutes</b>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2705{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-3i8o{background-color:#2A2A2A;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Name of Alumni</span></th>
+    <th class="tg-3i8o">Achievement at A-Levels<br></th>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Sec Sch CCA</span></th>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Year Graduated from us</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ktyi">Hai Oufan</td>
+    <td class="tg-ktyi">Graduated from Raffles Institution with 5 distinctions and a University Admissions Score of 85.5 out of 90 possible points.<br></td>
+    <td class="tg-ktyi">Basketball<br>Track &amp; Field</td>
+    <td class="tg-zr06">YCKSS 2017</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Oh Jia Shang</td>
+    <td class="tg-zr06">Graduated from Raffles Institution with 7 distinctions and a University Admissions Score of 90 out of 90 possible points. A perfect score.<br></td>
+    <td class="tg-ktyi">Chinese Dance (Chairperson)</td>
+    <td class="tg-zr06">YCKSS 2017</td>
+  </tr>
+</tbody>
+</table><br>
+			<b>At Republic Polytechnic</b>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2705{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-3i8o{background-color:#2A2A2A;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Name of Alumni</span></th>
+    <th class="tg-3i8o">Award Earned<br></th>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Diploma </span></th>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Sec Sch CCA</span></th>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Year Graduated from us</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-zr06">Justin Ng Kum Fook</td>
+    <td class="tg-zr06">Diploma with Merit</td>
+    <td class="tg-zr06">Integrated Events Management with Merit</td>
+    <td class="tg-ktyi">Basketball (Team Captain)</td>
+    <td class="tg-zr06">YCKSS 2016</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Sim Pei Yee</td>
+    <td class="tg-zr06">Diploma with Merit</td>
+    <td class="tg-zr06">Design for User Experience with Merit</td>
+    <td class="tg-ktyi">Band</td>
+    <td class="tg-zr06">YCKSS 2016<br></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Vivhetha d/o Supramany</td>
+    <td class="tg-zr06">Diploma with Merit </td>
+    <td class="tg-zr06">Health Services Management</td>
+    <td class="tg-ktyi"> Drama</td>
+    <td class="tg-zr06"> YCKSS 2016</td>
+  </tr>
+</tbody>
+</table>
+			*The Diploma with Merit is awarded to students who are in the top 10% for each graduating course cohort.<br>
+			<b>At Singapore Polytechnic</b>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2705{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-3i8o{background-color:#2A2A2A;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Name of Alumni</span></th>
+    <th class="tg-3i8o">Award Earned<br></th>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Diploma </span></th>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Sec Sch CCA</span></th>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Year Graduated from us</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-zr06">Kok Yen Chin Kenneth</td>
+    <td class="tg-zr06">SP Engineering Scholarship</td>
+    <td class="tg-zr06">Diploma in Civil Engineering in Business</td>
+    <td class="tg-ktyi">Drama</td>
+    <td class="tg-zr06">YCKSS 2018</td>
+  </tr>
+</tbody>
+</table><br>
+			<b>At Temasek Polytechnic</b>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2705{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-3i8o{background-color:#2A2A2A;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Name of Alumni</span></th>
+    <th class="tg-3i8o">Award Earned<br></th>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Diploma </span></th>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Sec Sch CCA</span></th>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Year Graduated from us</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-zr06">Ong Xiang Ting</td>
+    <td class="tg-zr06">TP Engineering Scholar</td>
+    <td class="tg-zr06">Diploma in Green Building and Sustainability</td>
+    <td class="tg-ktyi">Band</td>
+    <td class="tg-zr06">YCKSS 2018</td>
+  </tr>
+</tbody>
+</table>
+			</p>
 
     </div>
 
