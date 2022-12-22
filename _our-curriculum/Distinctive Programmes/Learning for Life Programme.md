@@ -39,7 +39,7 @@ In Secondary Two and Three, students who are keen can further hone their talents
 ![](/images/Our%20Curriculum/Distinctive%20Programmes/Learning%20for%20Life%20Programme/Learning%20for%20Life%20Programme/L3.jpg)
   
 
-Direct School Admission (DSA)  
+**Direct School Admission (DSA)**  
 
   
 
@@ -47,7 +47,7 @@ Successful DSA applicants through AMD are expected to enrol in the relevant perf
 
   
 
-Arts, Media & Design Related CCAs
+**Arts, Media & Design Related CCAs**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
