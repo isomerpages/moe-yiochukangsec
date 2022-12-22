@@ -208,7 +208,9 @@ This course aims to enhance students’ aesthetic learning experience by encoura
 
     <div>
 
-<p> </p>
+<p> The Sec 2 AMD Showcase is a culmination of the learning of the Arts, Media and Design modules throughout the year. Students perform an assembly show for the whole school through their song, dance and drama performances. Students from Short Film Production and Interior Design will also showcase their work and explain to the audience their creative process and what they have learnt.<br>
+	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6jdhzGQqs1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
     </div>
 
