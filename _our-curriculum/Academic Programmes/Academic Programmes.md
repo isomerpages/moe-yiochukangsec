@@ -6,7 +6,7 @@ third_nav_title: Academic Programmes
 ---
 <figure>
 
-<a href="/our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Academic%20Programmes/DESIGN%20AND%20ENTERPRISE.png"></a>
+<a href="/our-curriculum/Academic-Programmes/Design-and-Enterprise/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Academic%20Programmes/DESIGN%20AND%20ENTERPRISE.png"></a>
 
 <figcaption>
 
@@ -17,7 +17,7 @@ third_nav_title: Academic Programmes
 </figure>
 <figure>
 
-<a href="/our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Academic%20Programmes/ENGLISH.png"></a>
+<a href="/our-curriculum/Academic-Programmes/English/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Academic%20Programmes/ENGLISH.png"></a>
 
 <figcaption>
 
@@ -28,7 +28,7 @@ third_nav_title: Academic Programmes
 </figure>
 <figure>
 
-<a href="/our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Academic%20Programmes/HUMANITIES.png"></a>
+<a href="/our-curriculum/Academic-Programmes/Humanities/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Academic%20Programmes/HUMANITIES.png"></a>
 
 <figcaption>
 
@@ -39,7 +39,7 @@ third_nav_title: Academic Programmes
 </figure>
 <figure>
 
-<a href="/our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Academic%20Programmes/MATHEMATICS%20AND%20PRINCIPLES%20OF%20ACCOUNTS%20(POA).png"></a>
+<a href="/our-curriculum/Academic-Programmes/Mathematics-and-Principles-of-Accounts-POA/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Academic%20Programmes/MATHEMATICS%20AND%20PRINCIPLES%20OF%20ACCOUNTS%20(POA).png"></a>
 
 <figcaption>
 
@@ -51,7 +51,7 @@ third_nav_title: Academic Programmes
 </figure>
 <figure>
 
-<a href="/our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Academic%20Programmes/MOTHER%20TONGUE%20LANGUAGES.png"></a>
+<a href="/our-curriculum/Academic-Programmes/Mother-Tongue-Languages/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Academic%20Programmes/MOTHER%20TONGUE%20LANGUAGES.png"></a>
 
 <figcaption>
 
@@ -62,7 +62,7 @@ third_nav_title: Academic Programmes
 </figure>
 <figure>
 
-<a href="/our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Academic%20Programmes/NORMAL%20TECHNIC%20SUBJECTS.png"></a>
+<a href="/our-curriculum/Academic-Programmes/Normal-Technical-Special-Subjects/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Academic%20Programmes/NORMAL%20TECHNIC%20SUBJECTS.png"></a>
 
 <figcaption>
 
@@ -73,7 +73,7 @@ third_nav_title: Academic Programmes
 </figure>
 <figure>
 
-<a href="/our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Academic%20Programmes/PHYSICAL%20EDUCATION.png"></a>
+<a href="/our-curriculum/Academic-Programmes/Physical-Education/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Academic%20Programmes/PHYSICAL%20EDUCATION.png"></a>
 
 <figcaption>
 
@@ -84,7 +84,7 @@ third_nav_title: Academic Programmes
 </figure>
 <figure>
 
-<a href="/our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Academic%20Programmes/SCIENCE.png"></a>
+<a href="/our-curriculum/Academic-Programmes/Science/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Academic%20Programmes/SCIENCE.png"></a>
 
 <figcaption>
 
