@@ -85,7 +85,13 @@ Successful DSA applicants through AMD are expected to enrol in the relevant perf
 
     <div>
 
-<p> </p>
+<p> <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Distinctive%20Programmes/Learning%20for%20Life%20Programme/Photo%20Gallery/P1.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Distinctive%20Programmes/Learning%20for%20Life%20Programme/Photo%20Gallery/P2.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Distinctive%20Programmes/Learning%20for%20Life%20Programme/Photo%20Gallery/P3.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Distinctive%20Programmes/Learning%20for%20Life%20Programme/Photo%20Gallery/P4.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Distinctive%20Programmes/Learning%20for%20Life%20Programme/Photo%20Gallery/P5.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Distinctive%20Programmes/Learning%20for%20Life%20Programme/Photo%20Gallery/P6.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Distinctive%20Programmes/Learning%20for%20Life%20Programme/Photo%20Gallery/P7.png"></p>
 
     </div>
 
