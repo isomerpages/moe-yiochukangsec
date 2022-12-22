@@ -515,7 +515,168 @@ This is a record of the 2019 achievements of our alumni from both Chong Boon Sec
 
     <div>
 
-<p> </p>
+<p> This is a record of the 2018 achievements of our alumni from both Chong Boon Secondary School (CBSS) and Yio Chu Kang Secondary School (YCKSS). We are very proud of them and wish them continued success in their endeavours.<br>
+	<b>At Nanyang Polytechnic</b>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2705{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-3i8o{background-color:#2A2A2A;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Name of Alumni</span></th>
+    <th class="tg-3i8o">Award Earned<br></th>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Diploma </span></th>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Sec Sch CCA</span></th>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Year Graduated from us</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-zr06">Ong Xue Quan</td>
+    <td class="tg-zr06">Cheers Holdings Bronze Medal</td>
+    <td class="tg-zr06">Marketing</td>
+    <td class="tg-ktyi">Drama Club <br><br>Interact Club<br></td>
+    <td class="tg-zr06">CBSS 2014</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Seng Tze Yun Gareth </td>
+    <td class="tg-zr06">Accor Hotels Singapore Silver Medal</td>
+    <td class="tg-zr06">Hospitality &amp; Tourism Management</td>
+    <td class="tg-ktyi">Drama Club<br></td>
+    <td class="tg-zr06">YCKSS 2014 </td>
+  </tr>
+</tbody>
+</table><br>
+			<b>At Ngee Ann Polytechnic</b>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2705{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-3i8o{background-color:#2A2A2A;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Name of Alumni</span></th>
+    <th class="tg-3i8o">Award Earned<br></th>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Diploma </span></th>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Sec Sch CCA</span></th>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Year Graduated from us</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-zr06">Chloe Ng Jing Xian</td>
+    <td class="tg-zr06">Diploma with Merit</td>
+    <td class="tg-zr06">International Logistics &amp;Supply Chain Management</td>
+    <td class="tg-ktyi">Band<br></td>
+    <td class="tg-zr06">YCKSS 2013</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Dela Cruz Miguel Pocholo Bautista</td>
+    <td class="tg-zr06">Diploma with Merit</td>
+    <td class="tg-zr06">Film, Sound &amp; Video</td>
+    <td class="tg-ktyi">Infocomm Club <br><br>Class Chairman<br></td>
+    <td class="tg-zr06">YCKSS 2014</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Han Boyang</td>
+    <td class="tg-zr06">Diploma with Merit</td>
+    <td class="tg-zr06">Early Childhood Education</td>
+    <td class="tg-ktyi">Chinese Dance <br><br>Student Council Vice President<br></td>
+    <td class="tg-zr06">YCKSS 2014</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Tan De Xuan, Desmond</td>
+    <td class="tg-zr06">Litewell Engineering Prize</td>
+    <td class="tg-zr06">Electrical Engineering</td>
+    <td class="tg-ktyi">Band<br><br>Class Chairman<br></td>
+    <td class="tg-zr06">YCKSS 2014</td>
+  </tr>
+</tbody>
+</table>
+			*The Diploma with Merit is awarded to students who are in the top 10% for each graduating course cohort.<br>
+			<b>At Republic Polytechnic</b>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2705{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-3i8o{background-color:#2A2A2A;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Name of Alumni</span></th>
+    <th class="tg-3i8o">Award Earned<br></th>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Diploma </span></th>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Sec Sch CCA</span></th>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Year Graduated from us</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-zr06">Chin Jin Han</td>
+    <td class="tg-zr06">Diploma with Merit*</td>
+    <td class="tg-zr06">Aerospace Engineering</td>
+    <td class="tg-ktyi">Basketball <br><br>Vice-Captain<br></td>
+    <td class="tg-zr06">YCKSS 2014</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Darren Thyng Chuan Sik</td>
+    <td class="tg-zr06">Diploma with Merit*</td>
+    <td class="tg-zr06">Information Technology</td>
+    <td class="tg-ktyi">Media Club<br></td>
+    <td class="tg-zr06">CBSS 2015</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Irwin Ng Hong Liang</td>
+    <td class="tg-zr06">Diploma with Merit*</td>
+    <td class="tg-zr06">Integrated Events Management</td>
+    <td class="tg-ktyi">NCDCC<br></td>
+    <td class="tg-zr06">YCKSS 2014</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Steven Imanuel</td>
+    <td class="tg-zr06">Diploma with Merit*</td>
+    <td class="tg-zr06">Media Production and Design</td>
+    <td class="tg-ktyi">Volleyball<br><br>Media Club<br><br>Student Council Exec Member<br><br>House Captain<br></td>
+    <td class="tg-zr06">CBSS 2014</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Jasmine Tan Shi Min</td>
+    <td class="tg-zr06">Lee Foundation Scholarship</td>
+    <td class="tg-zr06">(School of Technology for the Arts)</td>
+    <td class="tg-ktyi">Netball<br></td>
+    <td class="tg-zr06">CBSS 2015</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Ahmad Fikri Bin Ahmad Fahmi</td>
+    <td class="tg-zr06">Module Prize</td>
+    <td class="tg-zr06">IT in Business Processes</td>
+    <td class="tg-ktyi">Drama Club<br></td>
+    <td class="tg-zr06">YCKSS 2013</td>
+  </tr>
+</tbody>
+</table>
+			*The Diploma with Merit is awarded to students who are in the top 10% for each graduating course cohort.</p>
 
   </div>
 
