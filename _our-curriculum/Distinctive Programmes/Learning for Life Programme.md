@@ -105,9 +105,9 @@ Successful DSA applicants through AMD are expected to enrol in the relevant perf
     <div>
 
      <p>   
-Each year, 5 individuals from each of the 5 modules will be awarded the Outstanding Student Award. These students are awarded for being positive role models to their peers in their pursuit to hone their craft in Arts, Media and Design.   
+Each year, 5 individuals from each of the 5 modules will be awarded the Outstanding Student Award. These students are awarded for being positive role models to their peers in their pursuit to hone their craft in Arts, Media and Design.<br>   
   
-2018 Secondary 2 Cohort  
+2018 Secondary 2 Cohort<br>  
 
 *   Nur Fae'iqa Ruqayyah Binte Abdullah (Class 2E2) for Modern Dance  
     
@@ -131,9 +131,9 @@ Each year, 5 individuals from each of the 5 modules will be awarded the Outstand
 
     <div>
 
-<p> Students will be get to watch local and international productions and appreciate how the synergy and collaboration between the various modules they have learned through AMD can create a stage production:  
+<p> Students will be get to watch local and international productions and appreciate how the synergy and collaboration between the various modules they have learned through AMD can create a stage production:<br>  
   
-Production in 2108:  
+Production in 2108:<br>  
 
 *   The Curious Incident of the Dog in the Night Time @ Esplanade Theatre  
     
@@ -146,7 +146,7 @@ Production in 2108:
 
 Upcoming productions in 2019:\\
 
-*   Matilda The Musical @ Marina Bay Sands Theatre
+*   Matilda The Musical @ Marina Bay Sands Theatre<br>
 			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Distinctive%20Programmes/Learning%20for%20Life%20Programme/Arts%20Exposure!/A1.png"><br>
 			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Distinctive%20Programmes/Learning%20for%20Life%20Programme/Arts%20Exposure!/A2.png"></p>
 
@@ -162,7 +162,21 @@ Upcoming productions in 2019:\\
 
     <div>
 
-<p> </p>
+<p> *<b>Transformative Arts Programme (TAP) (Secondary 1 & 2)</b><br>  
+    
+
+The TAP aims to develop the talent of students in various visual art forms and to use teachable moments to inculcate values such as Respect and Teamwork. The students showcased their artwork at an exhibition booth during the Yellowren Arts Festival where they gained confidence through explaining their artwork to the members of the public.<br>
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Distinctive%20Programmes/Learning%20for%20Life%20Programme/Arts%20Enrichment/A1.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Distinctive%20Programmes/Learning%20for%20Life%20Programme/Arts%20Enrichment/A2.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Distinctive%20Programmes/Learning%20for%20Life%20Programme/Arts%20Enrichment/A3.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Distinctive%20Programmes/Learning%20for%20Life%20Programme/Arts%20Enrichment/A4.png"><br>
+			
+<b>*Mixed Media Art at Gilman Barrack (Secondary 3)</b><br>   
+    
+
+The learning journey to Gilman Barrack allows students to understand the creative process of Ideation, Interpretation and Realisation and to appreciate the local art scene. Students were engaged in a step-by-step process using various techniques of clay work, colouring, air dry and varnishing to create their 2-dimension and 3-dimension artwork.<br>
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Distinctive%20Programmes/Learning%20for%20Life%20Programme/Arts%20Enrichment/A5.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Distinctive%20Programmes/Learning%20for%20Life%20Programme/Arts%20Enrichment/A6.png"></p>
 
   </div>
 
