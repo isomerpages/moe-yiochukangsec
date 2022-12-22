@@ -619,7 +619,254 @@ third_nav_title: Achievements
 
     <div>
 
-<p> </p>
+<p> <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-525v{background-color:#F2F9FF;color:#222;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-auhb{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-muqq{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-auhb"><span style="font-weight:700;color:#F2F9FF;background-color:#1F8CE4">nnovations</span></th>
+    <th class="tg-auhb"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-muqq"><span style="font-weight:bolder">MOE Innergy (Schools) Award 2020</span></td>
+    <td class="tg-525v">Commendation<br>Personal Mastery Dashboard - Visual Dashboard of Student Learning Progress</td>
+  </tr>
+</tbody>
+</table><br>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-jurv{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-8wja{background-color:#FBFFFA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-mbcl{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-5env{background-color:#FBFFFA;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-jurv"><span style="color:#FBFFFA;background-color:#22A114">Environment </span></th>
+    <th class="tg-mbcl"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-8wja"><span style="font-weight:bolder">Schools' Green Award</span></td>
+    <td class="tg-5env">Vanda Ms Joaquim Award (2019) – to be updated in Nov/Dec 2020</td>
+  </tr>
+</tbody>
+</table><br>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ighf{background-color:#E31D3C;color:#FFFCFD;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-3jjr{background-color:#FFFCFD;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-ddmb{background-color:#E31D3C;color:#FFFCFD;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-k2va{background-color:#FFFCFD;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ddmb"><span style="color:#FFFCFD;background-color:#E31D3C">Staff</span></th>
+    <th class="tg-ighf"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-k2va"><span style="font-weight:bolder">SPH Distinguished Chinese Language Teachers Award</span></td>
+    <td class="tg-3jjr"><span style="color:#222;background-color:#FFFCFD">Teacher Ms Tan Ting</span></td>
+  </tr>
+</tbody>
+</table><br>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-525v{background-color:#F2F9FF;color:#222;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-8s0f{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-auhb{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-muqq{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-8s0f"><span style="color:#F2F9FF;background-color:#1F8CE4">Uniformed Groups </span></th>
+    <th class="tg-auhb"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-muqq"><span style="font-weight:bolder">NCDCC</span></td>
+    <td class="tg-525v">Unit Overall Proficiency Award (UOPA)<br><br>Gold Award</td>
+  </tr>
+  <tr>
+    <td class="tg-muqq"><span style="font-weight:bolder">NPCC</span></td>
+    <td class="tg-525v">Unit Overall Proficiency Award (UOPA)<br><br>Gold Award SPF-NPCC Badge<br><br>Alvin Tan Zhen Song (4NA)</td>
+  </tr>
+  <tr>
+    <td class="tg-muqq"><span style="font-weight:bolder">Red Cross Youth</span></td>
+    <td class="tg-525v">Excellent Unit Award (EUA)<br><span style="color:#222;background-color:#F2F9FF">Gold Award</span><br>Director's Award<br><span style="color:#222;background-color:#F2F9FF">Mavise Lim (4E1)</span><br><br>Disaster Risk Reduction Championship<br><span style="color:#222;background-color:#F2F9FF">Gold</span><br><br>Ambassadors of Blood Donation Competition<br><span style="color:#222;background-color:#F2F9FF">Silver</span><br><br>First Aid Competition (Junior) 2020<br><span style="color:#222;background-color:#F2F9FF">Silver</span><br><br>Trailblazer 2020<br><span style="color:#222;background-color:#F2F9FF">Finalist</span> (Finals did not take place due to Covid-19 safety measures)</td>
+  </tr>
+</tbody>
+</table><br>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8rcp{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-yst8{background-color:#FFF;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ta95{background-color:#FD7E00;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-82dz{background-color:#FD7E00;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ta95"><span style="color:#FFF;background-color:#FD7E00">Sports</span></th>
+    <th class="tg-82dz"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-8rcp">Sailing</td>
+    <td class="tg-yst8"><span style="font-weight:normal">National Colours Award</span><br><span style="font-weight:normal">Koh Poh Ling Abigail (2E) - Distinction</span></td>
+  </tr>
+</tbody>
+</table><br>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ighf{background-color:#E31D3C;color:#FFFCFD;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-3jjr{background-color:#FFFCFD;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-ddmb{background-color:#E31D3C;color:#FFFCFD;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-k2va{background-color:#FFFCFD;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ddmb"><span style="color:#FFFCFD;background-color:#E31D3C">Aesthetics</span><br></th>
+    <th class="tg-ighf"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-k2va"><span style="font-weight:bolder">Choir</span></td>
+    <td class="tg-3jjr"><span style="color:#222;background-color:#FFFCFD">SYF Presentation 2019 - Certificate of Accomplishment</span></td>
+  </tr>
+  <tr>
+    <td class="tg-k2va"><span style="font-weight:bolder">Band</span></td>
+    <td class="tg-3jjr"><span style="color:#222;background-color:#FFFCFD">SYF Presentation 2019 - Certificate of Accomplishment</span></td>
+  </tr>
+  <tr>
+    <td class="tg-k2va"><span style="font-weight:bolder">Chinese Dance</span></td>
+    <td class="tg-3jjr"><span style="color:#222;background-color:#FFFCFD">SYF Presentation 2019 - Certificate of Distinction</span></td>
+  </tr>
+  <tr>
+    <td class="tg-k2va"><span style="font-weight:bolder">Drama</span></td>
+    <td class="tg-3jjr"><span style="color:#222;background-color:#FFFCFD">SYF Presentation 2019 - Certificate of Accomplishment</span></td>
+  </tr>
+  <tr>
+    <td class="tg-k2va"><span style="font-weight:bolder">Indian Dance</span></td>
+    <td class="tg-3jjr"><span style="color:#222;background-color:#FFFCFD">SYF Presentation 2019 - Certificate of Distinction</span></td>
+  </tr>
+  <tr>
+    <td class="tg-k2va"><span style="font-weight:bolder">Malay Dance</span></td>
+    <td class="tg-3jjr"><span style="color:#222;background-color:#FFFCFD">SYF Presentation 2019 - Certificate of Accomplishment</span></td>
+  </tr>
+</tbody>
+</table><br>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-e14l{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-yst8{background-color:#FFF;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-f8vp{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-f8vp"><span style="color:#666;background-color:#DDD">Others</span></th>
+    <th class="tg-e14l"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">Unity Scientific Innovation Challenge 2020</span><br></td>
+    <td class="tg-yst8">Team Category<br>2 teams in the top 10 Finalists (one of 8 schools):<br><br>Outstanding Project Silver <br>For project entitled "Reducing Indoor Temperatures Using Transition Windows"<br>Consolation<br>For project entitled "Powering Mass Rapid Transit (MRT) Trains Using Wind Energy"<br><br><br><br>Both teams also received the Young Engineer Award (Achievement) from Singapore Polytechnic<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><br><span style="font-weight:bolder">9th International Biomedical Quiz 2020</span><br>Theme: Otorhinolaryngology<br></td>
+    <td class="tg-yst8">Individual Category<br><br><br>Merit Award to Nguyen Truong Tung, Sec 4 Exp<br>Honorable Mention to Ng Yan Yee, Sec 4 Exp<br>Honorable Mention to Liu Zhixian, Sec 4 Exp<br><br><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">21st Elementz International Science Research Conference &amp; Competition </span></td>
+    <td class="tg-yst8">Team Category<br>1 Gold, 1 Silver, 3 Commendation</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">International Science Drama Competition 2020</span></td>
+    <td class="tg-yst8">Team Category<br>Certificate of Participation</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"> <span style="font-weight:bolder">Singapore Mathematics Olympiad</span></td>
+    <td class="tg-yst8">Individual Category<br>Chen Kewei - Silver Award<br>Cao Yurong - Honourable Mention<br><br>School Category<br>Commendation</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">Singapore and Asian Schools Math Olympiad (SASMO)</span></td>
+    <td class="tg-zr06"> 4 Bronze, 2 Silver, 2 Gold</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">University of New South Wales (UNSW) Mathematics Competition</span></td>
+    <td class="tg-zr06">Secondary 1: 9 Credits, 1 Merit<br>Secondary 2: 1 Distinction, 3 Credits, 2 Merits<br>Secondary 3: 1 Higher Distinction, 7 Credits, 3 Merits<br></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">All Singapore Mathematics Competition for Normal Course Students 2020</span></td>
+    <td class="tg-yst8">Lower Secondary Normal Academic Individual Category<br>Tan Jia Yu (2A) - 10th position<br></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">Tamil Essay writing Competition 2020 Organised by Makkal Kavignar Mandram In Conjunction with NLB </span></td>
+    <td class="tg-zr06"> Haniya D/O Mohamed Basurudeen (2E) - Consolation prize</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">18th National Secondary School Chinese Creative Writing Competition (Xin Lei Jiang) </span></td>
+    <td class="tg-zr06"> Hang Zhengyang (4E) - Bronze Award</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">17th National Secondary School Chinese Creative Writing Competition </span></td>
+    <td class="tg-yst8">Distinguished Achievement Award (Lower Sec) 4 were given out nationally<br>Chen Kewei (3E) – one of 4 national winners<br>Excellence Awards (Upper Sec) 16 were given out nationally<br>Bi Hexin<br>Lim Qian Tong<br>Liu Zhen<br>Wang Shijia</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">University of New South Wales (UNSW) Writing</span><br></td>
+    <td class="tg-yst8">Individual Awards<br><br><br>High Distinction - 1<br>Merit - 3<br>Credit – 4</td>
+  </tr>
+</tbody>
+</table>
+			</p>
 
     </div>
 
