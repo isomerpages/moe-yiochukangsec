@@ -58,7 +58,24 @@ The Malay Dance CCA aims to instill the importance of self-discipline, confidenc
 
     <div>
 
-      <p> </p>
+<p> <b>2021</b> ‘Perlindungan’ SYF Arts Presentation - Certificate of Accomplishment<br><br>  
+	<b>2019</b> ‘Tampi’ SYF Arts Presentation - Certificate of Accomplishment<br><br>
+<b>2017</b> National Day Parade Performance (Thriving Together)<br><br>
+<b>2016</b> Participate in Chinese New Year Celebrations<br> Chingay Parade 2016<br> Muara Festival in 2016<br><Br>  
+	<b>2015</b> Participation in Youth Celebrate<br> Muara Festival in 2015<br><br>  
+	<b>2013</b> ‘Topeng’ SYF Arts Presentation - Certificate of Distinction<br><br>
+	<b>2011</b> ‘Rindu’ (SYF Central Judging - Gold Award)<br><br>
+	<b>2009</b> ‘Jati’ (SYF Central Judging - Gold with Honour Award) Perform @ Kallang Theatre<br><br>
+	<b>2007</b> Zapin Tandak’ (SYF Central Judging - Gold Award)<br><br>
+	<b>2005</b> ‘Belenggu’ (SYF Central Judging - Gold Award) Perform @ Sentosa<br><br>
+	<b>2003</b> ‘Zapin Aksi’ (SYF Central Judging - Gold Award) Perform @ Bird<br>
+	<b>2003</b> Park and SYF at the park.<br><br>
+	<b>2001</b> ‘Tarian Piring’ (SYF Central Judging - Gold Award, Top Dance Malay Dance Category) Perform @ SYF Presentation.<br><br>
+	<b>1997</b> ‘Ceremonial Feast’ (SYF Central Judging - Gold Award, SYF Top Dance) Perform @ SYF Presentation 1<br><br>
+	<b>1996</b> 1996 - ‘1st Prize, RI Inter-school Malay Dance Competition<br><br>
+	<b>1995</b> Zapin Budi’ (SYF Certificate of Merit) (1st Prize in RI inter-school Malay Dance Competition)<br><br>
+	<b>1993</b>‘Rentak Saji’(SYF Central Judging - Certificate of Merit) 
+			</p>
 
     </div>
 
