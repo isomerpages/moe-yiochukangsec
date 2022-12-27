@@ -13,7 +13,7 @@ third_nav_title: Clubs
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Booklists</label>
+    <label for="accordion1">Training Schedule</label>
 
     <div>
 
@@ -26,7 +26,7 @@ third_nav_title: Clubs
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Exam Timetables</label>
+    <label for="accordion2">Events/Competitions & Our Proudest Moments</label>
 
     <div>
 
@@ -40,7 +40,7 @@ third_nav_title: Clubs
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Letter to Parents 2022</label>
+    <label for="accordion3">Gallery</label>
 
     <div>
 
