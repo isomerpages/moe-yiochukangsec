@@ -44,7 +44,8 @@ In the English Drama Club, we teach students that drama is more than just acting
     <td class="tg-osv9"><span style="font-weight:bolder">Every Tuesday</span><br>3pm to 5pm<br><span style="font-weight:bolder">Venue</span><br>Dance Studio 2</td>
   </tr>
 </tbody>
-</table> </p>
+</table>
+			</p>
 
     </div>
 
@@ -66,7 +67,8 @@ In the English Drama Club, we teach students that drama is more than just acting
 2009 SYF Central Judging (Drama) Gold Award<br>  
 2007 SYF Central Judging (Drama) Bronze Award<br>  
 2005 SYF Central Judging (Drama) Gold Award - Performed at The Esplanade during SYF Opening Ceremony<br>  
-2003 SYF Central Judging (Drama) Silver Award<br> </p>
+2003 SYF Central Judging (Drama) Silver Award
+			</p>
 
     </div>
 
@@ -80,7 +82,11 @@ In the English Drama Club, we teach students that drama is more than just acting
 
     <div>
 
-<p> </p>
+<p> Singapore Youth Festival Arts Presentation<br>  
+Speech Day<br>  
+Chinese New Year Celebrations<br>  
+National Day Celebrations
+			</p>
 
     </div>
 
@@ -94,7 +100,10 @@ In the English Drama Club, we teach students that drama is more than just acting
 
     <div>
 
-<p> </p>
+<p>   
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/English%20Drama/E2.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/English%20Drama/E3.png">
+			</p>
 
   </div>
 
