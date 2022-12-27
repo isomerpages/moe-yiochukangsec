@@ -24,17 +24,17 @@ In the English Drama Club, we teach students that drama is more than just acting
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-6bix{background-color:#FFF;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-h2tw{background-color:#FFF;color:#330001;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-osv9{background-color:#F1F1F1;text-align:center;vertical-align:top}
-.tg .tg-xv4p{background-color:#FFF;color:#ffce93;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-b4ld{background-color:#FFF;color:#ffccc9;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-euwl{background-color:#FFF;color:#333333;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-htrf{background-color:#FFF;color:#000000;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-6bix"><span style="color:#FFCCC9">Teachers in-charge</span></th>
-    <th class="tg-b4ld">Committee Members</th>
-    <th class="tg-xv4p">Training Information</th>
+    <th class="tg-euwl">Teachers in-charge</th>
+    <th class="tg-h2tw">Committee Members</th>
+    <th class="tg-htrf">Training Information</th>
   </tr>
 </thead>
 <tbody>
