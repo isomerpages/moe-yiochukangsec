@@ -89,7 +89,9 @@ The Malay Dance CCA aims to instill the importance of self-discipline, confidenc
 
     <div>
 
-<p> </p>
+<p> Singapore Youth Festival – Arts Presentation<br>  
+School Speech Day
+			</p>
 
     </div>
 
