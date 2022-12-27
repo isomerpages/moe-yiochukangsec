@@ -53,17 +53,17 @@ CCE lessons are also a platform to deliver the National Education (NE) experienc
     <div>
 
 <p>   
-Education and Career Guidance (ECG) is about engaging, inspiring and challenging students to develop aspirations and plan proactively for their future. The acquisition of knowledge about self and opportunities in education and work will enable students to apply decision-making skills and develop plans to achieve their career aspirations and life goals. Through ECG, social emotional competencies such as proactivity, adaptability and resilience are developed to prepare students for the 21st Century workforce.  
+Education and Career Guidance (ECG) is about engaging, inspiring and challenging students to develop aspirations and plan proactively for their future. The acquisition of knowledge about self and opportunities in education and work will enable students to apply decision-making skills and develop plans to achieve their career aspirations and life goals. Through ECG, social emotional competencies such as proactivity, adaptability and resilience are developed to prepare students for the 21st Century workforce.<br><br>  
   
-Through the ECG Curriculum, we aim to:  
+Through the ECG Curriculum, we aim to:<br>  
 
 > • deepen students’ understanding of self and relate schooling to the different education and career pathways  
 > • enable students to synthesise information gathered from relevant sources to make sound educational and career decisions
 
   
-At Yio Chu Kang Secondary School, the ECG curriculum is delivered through the following three modes:  
+At Yio Chu Kang Secondary School, the ECG curriculum is delivered through the following three modes:<br>  
   
-1. **ECG Curriculum**  
+1. <b>ECG Curriculum</b><br>  
   
 
 *   Structured ECG Lessons  
