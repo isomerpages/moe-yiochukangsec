@@ -12,7 +12,7 @@ The CCA Programme provides our students with a platform to discover their intere
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Booklists</label>
+    <label for="accordion1">Clubs</label>
 
     <div>
 
@@ -25,7 +25,7 @@ The CCA Programme provides our students with a platform to discover their intere
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Exam Timetables</label>
+    <label for="accordion2">Performing Arts</label>
 
     <div>
 
@@ -39,7 +39,7 @@ The CCA Programme provides our students with a platform to discover their intere
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Letter to Parents 2022</label>
+    <label for="accordion3">Physical Sports</label>
 
     <div>
 
@@ -53,7 +53,7 @@ The CCA Programme provides our students with a platform to discover their intere
 
     <input type="checkbox" id="accordion4">
 
-    <label for="accordion4">PDLP 2022</label>
+    <label for="accordion4">Uniformed Groups</label>
 
     <div>
 
@@ -67,7 +67,7 @@ The CCA Programme provides our students with a platform to discover their intere
 
     <input type="checkbox" id="accordion5">
 
-    <label for="accordion5"> HBL </label>
+    <label for="accordion5">CCA Schedule</label>
 
     <div>
 
@@ -81,7 +81,7 @@ The CCA Programme provides our students with a platform to discover their intere
 
     <input type="checkbox" id="accordion6">
 
-    <label for="accordion6">FAS Information</label>
+    <label for="accordion6">CCA Learning Outcomes & Policy</label>
 
     <div>
 
