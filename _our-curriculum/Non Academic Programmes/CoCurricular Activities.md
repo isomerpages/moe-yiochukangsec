@@ -88,8 +88,8 @@ The CCA Programme provides our students with a platform to discover their intere
     <div>
 
 			<p> 
-<a href="/cca/Uniformed-Groups/NPCC/" target = "\_blank">ss</a><br>
-<a href="/cca/Uniformed-Groups/NPCC/" target = "\_blank">ss</a><br>
+<a href="files/CCA%20Schedule/2021%20eCCA%20Schedule%20October%20-%20November%202021.pdf" target = "\_blank">2021 e-CCA Training schedule October - November holidays (Updated on 28 Oct 2021)</a><br>
+<a href="/cca/Uniformed-Groups/NPCC/" target = "\_blank">2021 e-CCA Training schedule October - November holidays</a><br>
 <a href="/cca/Uniformed-Groups/NPCC/" target = "\_blank">ss</a><br>
 <a href="/cca/Uniformed-Groups/NPCC/" target = "\_blank">ss</a><br>
 			</p>
