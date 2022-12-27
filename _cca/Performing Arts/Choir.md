@@ -68,7 +68,15 @@ The YCKSS Choir consists of members who share a passion for singing and music. W
 
     <div>
 
-<p> </p>
+<p> Year Performances<br>  
+2017 Participation in 2017 NDP Performance<br>  
+2016 Limelight 2016<br>  
+SYF Outreach @ the Malls<br>  
+2015 SYF 2015<br>  
+49th Speech Day 2015<br>  
+2014 48th Speech Day 2014<br>  
+Limelight 2014 
+			</p>
 
     </div>
 
