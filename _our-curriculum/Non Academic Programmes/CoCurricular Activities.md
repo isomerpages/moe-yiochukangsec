@@ -161,7 +161,43 @@ Recognition of Students’ Level of Attainment<br>
 
 At the end of the graduating year, students’ co-curricular attainment will be recognised according to Excellent/Good/Fair.<br> 
 
-The level of attainment will be converted to a bonus point(s) which can be used for admission to Junior Colleges/ Polytechnics/ Institutes of Technical Education (JC/Poly/ITE). </p>
+The level of attainment will be converted to a bonus point(s) which can be used for admission to Junior Colleges/ Polytechnics/ Institutes of Technical Education (JC/Poly/ITE).<br>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8rcp{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-8rcp">Co-Curricular Experience (Grade)</th>
+    <th class="tg-8rcp">Basic Requirement for Level of Attainment in Domains (LAPS)</th>
+    <th class="tg-8rcp">Bonus Points</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-zr06">Excellent</td>
+    <td class="tg-zr06">4, 3, 3, 3</td>
+    <td class="tg-zr06">2</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Good</td>
+    <td class="tg-zr06">4, 1, 1, 1<br>3, 2, 1, 1<br>2, 2, 2, 1</td>
+    <td class="tg-zr06">1</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Fair</td>
+    <td class="tg-zr06">Did not meet any of the above requirement Student’s attainment in co-curricular will not translate into any bonus points</td>
+    <td class="tg-zr06">0</td>
+  </tr>
+</tbody>
+</table><br>
+			For more information on LEAPS 2.0, please refer to the following website: [https://www.moe.gov.sg/docs/default-source/document/education/programmes/co-curricular-activities/leaps-2.pdf](https://www.moe.gov.sg/docs/default-source/document/education/programmes/co-curricular-activities/leaps-2.pdf)</p>
 
     </div>
 
