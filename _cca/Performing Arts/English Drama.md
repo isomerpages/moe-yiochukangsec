@@ -57,7 +57,16 @@ In the English Drama Club, we teach students that drama is more than just acting
 
     <div>
 
-      <p> </p>
+      <p> 2021 SYF Arts Presentation – Certificate of Accomplishment<br> 
+2019 SYF Arts Presentation – Certificate of Commendation<br>  
+2017 SYF Arts Presentation - Certificate of Distinction<br>  
+2015 SYF Arts Presentation - Certificate of Distinction<br>  
+2013 SYF Arts Presentation - Certificate of Distinction<br>  
+2011 SYF Central Judging (Drama) Bronze Award<br>  
+2009 SYF Central Judging (Drama) Gold Award<br>  
+2007 SYF Central Judging (Drama) Bronze Award<br>  
+2005 SYF Central Judging (Drama) Gold Award - Performed at The Esplanade during SYF Opening Ceremony<br>  
+2003 SYF Central Judging (Drama) Silver Award<br> </p>
 
     </div>
 
