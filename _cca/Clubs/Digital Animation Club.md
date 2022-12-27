@@ -14,7 +14,7 @@ third_nav_title: Clubs
 
     <div>
 
-			<p> </p>
+<p> </p>
 
     </div>
 
@@ -27,13 +27,13 @@ third_nav_title: Clubs
 
     <div>
 
-      <p> </p>
+    <p> </p>
 
     </div>
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion3">
 
@@ -41,8 +41,13 @@ third_nav_title: Clubs
 
     <div>
 
-			<p> </p>
+<p> </p>
 
     </div>
 
 </li>
+	
+	
+
+	
+</ul>
