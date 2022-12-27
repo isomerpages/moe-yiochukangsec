@@ -197,7 +197,8 @@ The level of attainment will be converted to a bonus point(s) which can be used 
   </tr>
 </tbody>
 </table><br>
-			For more information on LEAPS 2.0, please refer to the following website: [https://www.moe.gov.sg/docs/default-source/document/education/programmes/co-curricular-activities/leaps-2.pdf](https://www.moe.gov.sg/docs/default-source/document/education/programmes/co-curricular-activities/leaps-2.pdf)</p>
+			For more information on LEAPS 2.0, please refer to the following website:
+			</p>
 
     </div>
 
