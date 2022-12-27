@@ -134,7 +134,10 @@ The MARs (Mechatronics, Aeronautics and Robotics) Club was set up in January 201
 
     <div>
 
-<p> </p>
+<p>   
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/MARs%20Club/M2.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/MARs%20Club/M3.png">
+			</p>
 
     </div>
 
