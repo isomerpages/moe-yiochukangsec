@@ -153,7 +153,79 @@ In YCKSS-RCY, we believe in developing caring and responsible individuals, who s
 
     <div>
 
-<p> </p>
+<p> <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-mnhx{background-color:#fe0000;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-mnhx">Internal Programmes</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Sec 3 Leadership Training Course</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Speech Day &amp; National Day Parades</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">First Aid Coverage for school events like Sports Carnival, Health Fiesta, etc</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Annual Home Visit</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Fund raising for Singapore Red Cross</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Unit Camp</td>
+  </tr>
+</tbody>
+</table><br>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-mnhx{background-color:#fe0000;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-mnhx">HQ Programmes</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Gold Modular Workshops (First Aid/ Red Cross Knowledge/ Youth Ambassador Blood Programme/ Disaster Management)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">World Red Cross Day</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Central District Orientation</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Red Cross Flag Day</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Warrant Officers Programme</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Central District Leadership Workshop</td>
+  </tr>
+</tbody>
+</table>
+			</p>
 
     </div>
 
@@ -167,7 +239,8 @@ In YCKSS-RCY, we believe in developing caring and responsible individuals, who s
 
     <div>
 
-<p> </p>
+<p> <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R2.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R3.png"></p>
 
   </div>
 
