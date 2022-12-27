@@ -18,7 +18,32 @@ The Basketball CCA aims to develop qualities such as positive self-esteem and sp
 
     <div>
 
-<p> </p>
+<p> <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-osv9{background-color:#F1F1F1;text-align:center;vertical-align:top}
+.tg .tg-htrf{background-color:#FFF;color:#000000;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-htrf">Teachers in-charge</th>
+    <th class="tg-htrf">Committee Members</th>
+    <th class="tg-htrf">Training Information</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-osv9">Ms Anna Leong (ext 175)<br>Mr Jude Ang (ext 150)<br>Ms Lau Yuh Yan (ext 130)<br></td>
+    <td class="tg-osv9"><span style="font-weight:bolder">'B' Division Captain</span><br>JOE ONG JUN YANG (4E3)<br><br><span style="font-weight:bolder">'B' DivisionVice-Captain</span><br>WILSON LIM (3A2)<br><br><span style="font-weight:bolder">'C' Division Captain</span><br>NG YONG MENG (2A2)<br><br><span style="font-weight:bolder">'C' DivisionVice-Captain</span><br>JERRY LOO KANG LE (2T1)<br><br></td>
+    <td class="tg-osv9"><span style="font-weight:bolder">Every Tuesday and Thursday</span><br>3pm to 6pm<br><br><span style="font-weight:bolder">Venue</span><br>Indoor Sports Hall Level 2</td>
+  </tr>
+</tbody>
+</table>
+			</p>
 
     </div>
 
@@ -31,7 +56,10 @@ The Basketball CCA aims to develop qualities such as positive self-esteem and sp
 
     <div>
 
-      <p> </p>
+      <p> 2021 S7 Cluster Games 1st and 2nd place<br>  
+2019 Bowen Cup ‘C’ Diversion Champions<br>
+2019 YCKSS Cup ‘B’ Diversion 2nd Runner-up 
+			</p>
 
     </div>
 
