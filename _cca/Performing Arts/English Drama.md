@@ -18,7 +18,33 @@ In the English Drama Club, we teach students that drama is more than just acting
 
     <div>
 
-<p> </p>
+<p> <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-6bix{background-color:#FFF;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-osv9{background-color:#F1F1F1;text-align:center;vertical-align:top}
+.tg .tg-xv4p{background-color:#FFF;color:#ffce93;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-b4ld{background-color:#FFF;color:#ffccc9;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-6bix"><span style="color:#FFCCC9">Teachers in-charge</span></th>
+    <th class="tg-b4ld">Committee Members</th>
+    <th class="tg-xv4p">Training Information</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-osv9">Ms Jezreel Lau (ext 135)<br>Mr Jeremy Chen (ext 145)<br>Mdm Nirmala Devi (ext 133)<br><br></td>
+    <td class="tg-osv9"><span style="font-weight:bolder">President</span><br>Priscilla Loi Hui Ying (3E1)<br><br><span style="font-weight:bolder">Vice-President</span><br>Lee Kim Hao Benny (3A1)<br><br><span style="font-weight:bolder">Publicity</span><br>Meca Ella Canada Mabugat (3E2)<br><br><span style="font-weight:bolder">Logistics</span><br>Tiara Camila Khairunnisa Binti Suhaimi (2E2)<br><br></td>
+    <td class="tg-osv9"><span style="font-weight:bolder">Every Tuesday</span><br>3pm to 5pm<br><span style="font-weight:bolder">Venue</span><br>Dance Studio 2</td>
+  </tr>
+</tbody>
+</table> </p>
 
     </div>
 
