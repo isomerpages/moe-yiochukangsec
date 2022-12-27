@@ -27,7 +27,8 @@ Our photography programme offers students structured training that equips them w
 
     <div>
 
-<p> </p>
+<p> <b>The Media Club (Audio-Visual, Photography & Videography)</b><br>
+			</p>
 
     </div>
 
