@@ -4,6 +4,12 @@ permalink: /cca/Uniformed-Groups/Red-Cross-Youth/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R1.jpg)
+The primary goal of YCKSS’s Red Cross Youth Unit is to instill core values of compassion for humanity and a strong sense of civic responsibility. It also aims to impart skills and knowledge to its cadets to manage emergency scenarios and to make a difference to the lives of those in their community. The slogan for Red Cross Youth is _“Humanity in our Hands”_.
+
+In YCKSS-RCY, we believe in developing caring and responsible individuals, who serve with humility, integrity and excellence.
+
+
 <ul class="jekyllcodex_accordion">
 
   <li>
@@ -14,7 +20,33 @@ third_nav_title: Uniformed Groups
 
     <div>
 
-<p> </p>
+<p> <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sjx8{background-color:#fe0000;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-osv9{background-color:#F1F1F1;text-align:center;vertical-align:top}
+.tg .tg-1hsk{background-color:#F1F1F1;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-sjx8">Teachers-in-charge</th>
+    <th class="tg-sjx8">Committee Members</th>
+    <th class="tg-sjx8">Training Information</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-osv9">Ms Tiffany Ng (ext. 198)<br>Mr Chong Kai Yang (ext. 133)<br>Ms Lim Li Whey (ext. 176)<br>Mr Lim Chee Wee (ext. 126)<br>Ms Foo Ger Maine (ext. 137)<br></td>
+    <td class="tg-1hsk"><span style="font-weight:bolder">Chairperson</span><br>MUHAMMAD HAZMI BIN SUHAIMI (3T1)<br><span style="font-weight:bolder">Vice-chairperson</span><br>ADRIAN CHAI YU ZHE (3E1)<br>ERWIN BIN KASSIM (3A1)<br><span style="font-weight:bolder">Logistics</span><br>WONG JUN XI (3E3)<br>ONG ZHENG XUN EUGENE (3E3)<br><span style="font-weight:bolder">Level Heads</span><br>Sec 1: SOH SHI LING YUKI (3T2)<br>Sec 2: SIGIT SNG KIM HUI (3A1)<br>Sec 3: KOH JIA XIN, ERIKA (3T2)<br><span style="font-weight:bolder">Publicity</span><br>CHLOE CHAI ZHI QI (3E1)<br>SACHIEL D'SILVA (3T2)</td>
+    <td class="tg-1hsk"><span style="font-weight:bolder">Every Tuesday</span><br>3pm – 6pm<br><span style="color:#F0506E">Saturdays and/or Sundays</span><br><span style="color:#F0506E">(for some involvement at HQ events)</span><br><span style="font-weight:bolder">Venue</span><br>Report at Block G</td>
+  </tr>
+</tbody>
+</table>
+			</p>
 
     </div>
 
