@@ -2,4 +2,5 @@ collections:
   cca:
     output: true
     order:
+      - Physical Sports/.keep
       - Uniformed Groups/.keep
