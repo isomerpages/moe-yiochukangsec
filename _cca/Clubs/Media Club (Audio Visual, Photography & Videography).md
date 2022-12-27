@@ -174,7 +174,9 @@ Our photography programme offers students structured training that equips them w
     <div>
 
 <p>   
-<img style="width:70%;height:50%" src="/images/Hockey/photo6181643878654914881.jpg"> </p>
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Media%20Club/M2.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Media%20Club/M3.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Media%20Club/M4.png"></p>
 
     </div>
 
