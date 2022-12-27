@@ -35,7 +35,26 @@ The YCKSS Choir consists of members who share a passion for singing and music. W
 
     <div>
 
-      <p> </p>
+<p> <b>2019</b><br>  
+
+*   SYF Presentation  - Certificate of Accomplishment<br><br>
+
+<b>2017</b><br>  
+
+*   2017 SYF Certificate of Distinction<br><br>
+
+<b>2015</b><br>  
+
+*   2015 SYF Certificate of Distinction<br><br>
+
+<b>2013</b><br>  
+
+*   2013 SYF Certificate of Distinction<br><br>
+
+<b>2011</b><br>  
+
+*   2011 SYF Gold with Honours
+			</p>
 
     </div>
 
