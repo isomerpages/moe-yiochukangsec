@@ -60,7 +60,18 @@ TThe Indian Dance CCA aims to help develop and nurture the pupils holistically. 
 
     <div>
 
-      <p> </p>
+<p> <b>2021</b> SYF Arts Presentation - Certificate of Distinction<br>  
+				<b>2019 SYF</b> Arts Presentation - Certificate of Distinction<br>  
+				<b>2018</b> SYF Festival at Esplanade / National Day Observance Ceremony<br> 
+	<b>2018</b> YCK community Celebration<br>  
+	<b>2017</b> National Day Parade Performance<br>  
+	<b>2016</b> Chingay Parade<br>  
+	<b>2015</b> SG 50 Youth Celebration<br>  
+	<b>2013</b> SYF Arts Presentation - Certificate of Distinction<br>  
+	<b>2011</b> SYF Central Judging - Gold Award for SYF<br>  
+	<b>2009/2007/2005</b> SYF Central Judging - Gold with Honours for SYF<br>  
+	<b>2008</b> Arts Biennale at Victoria Theatre (School event)
+			</p>
 
     </div>
 
