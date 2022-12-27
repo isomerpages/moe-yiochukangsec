@@ -16,7 +16,7 @@ The CCA Programme provides our students with a platform to discover their intere
 
     <div>
 
-			<p> </p>
+<p> </p>
 
     </div>
 
@@ -35,7 +35,7 @@ The CCA Programme provides our students with a platform to discover their intere
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion3">
 
@@ -43,13 +43,13 @@ The CCA Programme provides our students with a platform to discover their intere
 
     <div>
 
-			<p> </p>
+<p> </p>
 
     </div>
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion4">
 
@@ -57,7 +57,7 @@ The CCA Programme provides our students with a platform to discover their intere
 
     <div>
 
-			<p> </p>
+<p> </p>
 
   </div>
 
@@ -85,7 +85,7 @@ The CCA Programme provides our students with a platform to discover their intere
 
     <div>
 
-			<p> </p>
+<p> </p>
 
     </div>
 
