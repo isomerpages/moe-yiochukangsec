@@ -46,7 +46,7 @@ CCE lessons are also a platform to deliver the National Education (NE) experienc
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Booklists</label>
+    <label for="accordion1">Education and Career Guidance (ECG)</label>
 
     <div>
 
@@ -59,7 +59,7 @@ CCE lessons are also a platform to deliver the National Education (NE) experienc
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Exam Timetables</label>
+    <label for="accordion2">National Education (NE)</label>
 
     <div>
 
@@ -73,7 +73,7 @@ CCE lessons are also a platform to deliver the National Education (NE) experienc
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Letter to Parents 2022</label>
+    <label for="accordion3">Sexuality Education (SEd)</label>
 
     <div>
 
