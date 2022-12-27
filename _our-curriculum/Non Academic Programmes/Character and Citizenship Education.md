@@ -4,7 +4,40 @@ permalink: /our-curriculum/Non-Academic-Programmes/Character-and-Citizenship-Edu
 description: ""
 third_nav_title: Non Academic Programmes
 ---
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/CCE/C01.jpg)
 
+**Department Vision**  
+Every YCKsian is grounded in sound values to serve the nation.   
+  
+**Department Mission**  
+To instil in all students the school's core values embodied in the word GROWTH  
+Gratitude  
+Respect  
+Optimism  
+Wholeheartedness  
+Teamwork  
+Honesty  
+  
+The goal of Character and Citizenship Education (CCE) is to inculcate values and build competencies in our students to help them grow to be good individuals and useful citizens. In Yio Chu Kang Secondary School, every teacher is a CCE teacher who engages the students to develop knowledge, skills and attitude to make informed and responsible choices in their lives. This is done through CCE lessons where our teachers facilitate students’ learning for building positive character and citizenry according to the following themes.  
+
+> • The Leader Within  
+> • Family Our Foundation  
+> • Being a Positive Influence  
+> • Thinking Hearts, Feeling Minds  
+> • U & I in the Community  
+> • This is Home Truly  
+> • The World in Singapore
+
+  
+To develop social and emotional competencies in students, the following programmes are incorporated into CCE lessons:  
+
+> • Cyber Wellness   
+> • Education and Career Guidance   
+> • Sexuality Education   
+> • Values in Action 
+
+  
+CCE lessons are also a platform to deliver the National Education (NE) experience. \[link to NE webpage\]
 
 
 <ul class="jekyllcodex_accordion">
