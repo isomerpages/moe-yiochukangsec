@@ -126,7 +126,7 @@ More specifically,<br>
 *   The Uniformed Groups develop students into good citizens by inculcating in them self-reliance, resilience, discipline and a spirit of service to others.<br>
 *   The Clubs allow students to explore and extend their interests in wide-ranging and specialised areas which may be knowledge-based or skills-based.<br>
 
-	<b>CCA Policy</b>
+	<b>CCA Policy</b><br>
 
 	*   CCA participation in school is <b>compulsory</b> for all students in secondary schools. Students are required to be <b>active in at least one CCA</b>. As we strive to meet the diverse needs of the students, there is a quota in the number of members a CCA can offer due to constraint in facilities and/or manpower.<br> 
       
@@ -140,26 +140,26 @@ More specifically,<br>
 	*   All students must attain a <b>minimum of 75% attendance</b> in their 1st CCA in order for points to be computed.<Br>  
       
     
-*   The School Band and the National Uniformed Groups, comprising the National Cadet Corps (NCC), National Civil Defence Cadet Corps (NCDCC) and National Police Cadet Corps (NPCC) <b>are mandatory CCA</b> for all secondary schools. <b>Students in any one of the mandatory CCA are not permitted to change his/her CCA throughout their secondary school years, except for medical reasons, or once at the end of Secondary 1 or 2.</b>   
+*   The School Band and the National Uniformed Groups, comprising the National Cadet Corps (NCC), National Civil Defence Cadet Corps (NCDCC) and National Police Cadet Corps (NPCC) <b>are mandatory CCA</b> for all secondary schools. <b>Students in any one of the mandatory CCA are not permitted to change his/her CCA throughout their secondary school years, except for medical reasons, or once at the end of Secondary 1 or 2.</b><br>   
       
     
-	*   Students who wish to <b>change CCA</b> may opt for a change in CCA at the <b>beginning</b> of each academic year. Each student can only opt for change of CCA once either at the end of Sec One or Sec Two.   
+	*   Students who wish to <b>change CCA</b> may opt for a change in CCA at the <b>beginning</b> of each academic year. Each student can only opt for change of CCA once either at the end of Sec One or Sec Two.<br>   
       
     
-*   The number of training sessions ranges from one to two in a week. Note that during peak season of the CCA, training sessions may increase up to three times a week.
+*   The number of training sessions ranges from one to two in a week. Note that during peak season of the CCA, training sessions may increase up to three times a week.<br>
 
   
 
   
 
-	<b>CCA Stand Down for Exams</b>  
+	<b>CCA Stand Down for Exams</b><br>  
 
-In general, CCAs will stand down 2 weeks before the start of examinations. If there are CCAs still in competitions or completing badge work in UGs, they will stand down immediately after the last day of competition. CCAs will resume after the last day of exams.  
+In general, CCAs will stand down 2 weeks before the start of examinations. If there are CCAs still in competitions or completing badge work in UGs, they will stand down immediately after the last day of competition. CCAs will resume after the last day of exams.<br>  
   
 
-Recognition of Students’ Level of Attainment
+Recognition of Students’ Level of Attainment<br>
 
-At the end of the graduating year, students’ co-curricular attainment will be recognised according to Excellent/Good/Fair. 
+At the end of the graduating year, students’ co-curricular attainment will be recognised according to Excellent/Good/Fair.<br> 
 
 The level of attainment will be converted to a bonus point(s) which can be used for admission to Junior Colleges/ Polytechnics/ Institutes of Technical Education (JC/Poly/ITE). </p>
 
