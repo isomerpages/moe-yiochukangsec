@@ -39,6 +39,8 @@ To develop social and emotional competencies in students, the following programm
   
 CCE lessons are also a platform to deliver the National Education (NE) experience. \[link to NE webpage\]
 
+**Key Personnel in charge: Ms Sin Puay San \[HOD CCE\] (ext: 109)**
+
 
 <ul class="jekyllcodex_accordion">
 
