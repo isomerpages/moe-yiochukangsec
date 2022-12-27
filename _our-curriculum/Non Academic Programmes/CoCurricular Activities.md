@@ -106,7 +106,62 @@ The CCA Programme provides our students with a platform to discover their intere
 
     <div>
 
-<p> </p>
+<p> <b>CCA Learning Outcomes</b><br><br>
+
+  
+
+Through participating in the CCAs, we help students develop and demonstrate the following:<br>
+
+*   passion<br>
+*   leadership and teamwork<br>
+*   friendship and a sense of belonging<br>
+*   spirit of service to the community<br>
+*   knowledge, skills and values related to the students’ chosen CCA<br>
+*   Core values, social and emotional competencies and the emerging 21st century competencies as articulated in MOE’s 21st Century Competencies Framework<br>
+
+More specifically,<br>
+
+*   The Physical Sports develop robustness, fair play and team spirit in students.<br>
+*   The Visual and Performing Arts instil in students a sense of graciousness and an appreciation for the rich culture and heritage of a multi-racial society.<br>
+*   The Uniformed Groups develop students into good citizens by inculcating in them self-reliance, resilience, discipline and a spirit of service to others.<br>
+*   The Clubs allow students to explore and extend their interests in wide-ranging and specialised areas which may be knowledge-based or skills-based.<br>
+
+	<b>CCA Policy</b>
+
+	*   CCA participation in school is <b>compulsory</b> for all students in secondary schools. Students are required to be <b>active in at least one CCA</b>. As we strive to meet the diverse needs of the students, there is a quota in the number of members a CCA can offer due to constraint in facilities and/or manpower.<br> 
+      
+    
+	*   A student may opt to participate in <b>more than one CCA</b> to broaden his/her experience, gain more exposure and learn a wider range of skills. Such involvement will be <b>passion-driven</b> and students <b>will not be awarded a higher attainment</b> for the participation in an additional CCA.<br>  
+      
+    
+*   Continuous involvement in and commitment to the same CCA will be rewarded, and this is reflected through a higher level of attainment assigned to students who stay with the same CCA over the years.<br>  
+      
+    
+	*   All students must attain a <b>minimum of 75% attendance</b> in their 1st CCA in order for points to be computed.<Br>  
+      
+    
+*   The School Band and the National Uniformed Groups, comprising the National Cadet Corps (NCC), National Civil Defence Cadet Corps (NCDCC) and National Police Cadet Corps (NPCC) <b>are mandatory CCA</b> for all secondary schools. <b>Students in any one of the mandatory CCA are not permitted to change his/her CCA throughout their secondary school years, except for medical reasons, or once at the end of Secondary 1 or 2.</b>   
+      
+    
+	*   Students who wish to <b>change CCA</b> may opt for a change in CCA at the <b>beginning</b> of each academic year. Each student can only opt for change of CCA once either at the end of Sec One or Sec Two.   
+      
+    
+*   The number of training sessions ranges from one to two in a week. Note that during peak season of the CCA, training sessions may increase up to three times a week.
+
+  
+
+  
+
+	<b>CCA Stand Down for Exams</b>  
+
+In general, CCAs will stand down 2 weeks before the start of examinations. If there are CCAs still in competitions or completing badge work in UGs, they will stand down immediately after the last day of competition. CCAs will resume after the last day of exams.  
+  
+
+Recognition of Students’ Level of Attainment
+
+At the end of the graduating year, students’ co-curricular attainment will be recognised according to Excellent/Good/Fair. 
+
+The level of attainment will be converted to a bonus point(s) which can be used for admission to Junior Colleges/ Polytechnics/ Institutes of Technical Education (JC/Poly/ITE). </p>
 
     </div>
 
