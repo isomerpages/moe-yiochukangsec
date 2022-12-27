@@ -18,8 +18,9 @@ The CCA Programme provides our students with a platform to discover their intere
 
 <p> 
 <a href="/images/Capture.jpg" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/CA1.png"></a><br>
-
- </p>
+	<a href="/images/Capture.jpg" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/CA2.png"></a><br>
+	<a href="/images/Capture.jpg" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/CA3.png"></a>
+</p>
 
     </div>
 
