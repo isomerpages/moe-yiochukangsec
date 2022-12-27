@@ -158,7 +158,8 @@ Our photography programme offers students structured training that equips them w
     <td class="tg-0lax">Khoo Teck Puat (Yishun Community Hospital) Opening Launch with Photography Exhibition</td>
   </tr>
 </tbody>
-</table> </p>
+</table> 
+			</p>
 
     </div>
 
@@ -172,7 +173,8 @@ Our photography programme offers students structured training that equips them w
 
     <div>
 
-<p> </p>
+<p>   
+<img style="width:70%;height:50%" src="/images/Hockey/photo6181643878654914881.jpg"> </p>
 
     </div>
 
