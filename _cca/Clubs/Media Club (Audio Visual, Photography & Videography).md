@@ -67,7 +67,98 @@ Our photography programme offers students structured training that equips them w
 
     <div>
 
-      <p> </p>
+      <p> <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">2022</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Beacon of Light Photo-essay</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">- by Xin Lei Jiang</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">The 20th National Secondary School Chinese Creative Writing with Photography</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">- by Singapore Hokkien Huay Kuan, Singapore Literature Society, Nan Chiau High School and Zaobao</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SYFgoesOnline! Pixel Perfect (GRATITUDE IN LIFE) by MOE</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">- showcasing Kayla Wong Eu Tung's video</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">"Our Schools, Our Stories" Photo &amp; Video Contest by MOE with the:</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Best Video Award – “What I Go To School For”</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">- by Yet Yan Shen, Derrick See Kar Xun and Neo Jun Yuan</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Best Photo Story Award – “Our School Community”</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">- by Wirdatul Marsya Binte Mohammad Fazuli, Siti Nurasyirah Binte Mohammad Hery and Sukainah Binte Mohammad Fahrur Razi</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2021</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Lions Home Video Competition</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2020</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Safety Starts with Me Competition (WSH)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Public Utilities Board (PUB) Annual Photography Competition</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">National Kidney Foundation National Photography Competition (First Prize)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2019</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">PCNB DrugFreeSg Video Competition Participation (National level)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Urban Redevelopment Authority (URA) Public Photography Exhibition showcasing the development of Kampong Glam</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2018</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">第十一届全国中学及初院华语短片制作赛 Participation (National Level)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">CNB Anti Drug Video Competition Participation (National Level)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Event coverage for SYF celebrations at Esplanade</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Khoo Teck Puat (Yishun Community Hospital) Opening Launch with Photography Exhibition</td>
+  </tr>
+</tbody>
+</table> </p>
 
     </div>
 
