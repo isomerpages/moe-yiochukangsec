@@ -52,7 +52,29 @@ CCE lessons are also a platform to deliver the National Education (NE) experienc
 
     <div>
 
-<p> </p>
+<p>   
+Education and Career Guidance (ECG) is about engaging, inspiring and challenging students to develop aspirations and plan proactively for their future. The acquisition of knowledge about self and opportunities in education and work will enable students to apply decision-making skills and develop plans to achieve their career aspirations and life goals. Through ECG, social emotional competencies such as proactivity, adaptability and resilience are developed to prepare students for the 21st Century workforce.  
+  
+Through the ECG Curriculum, we aim to:  
+
+> • deepen students’ understanding of self and relate schooling to the different education and career pathways  
+> • enable students to synthesise information gathered from relevant sources to make sound educational and career decisions
+
+  
+At Yio Chu Kang Secondary School, the ECG curriculum is delivered through the following three modes:  
+  
+1. **ECG Curriculum**  
+  
+
+*   Structured ECG Lessons  
+    Time in the curriculum is put aside to introduce students to information about careers and future education options.  We encourage students to take ownership of their own learning and development, and understand the importance of continued learning as they progress beyond secondary school years.
+
+*   MySkillsFuture portal  
+    This is an online portal that facilitates education and career development among students. Students are introduced to this tool to help them uncover their attributes,find out more about different careers that they might be interested in and chart their educational pathways to achieve their aspirations. Students will have guided lessons on how to use this portal and it can be accessed from home.
+
+2. **ECG Experience**  
+  
+To make the learning real and to equip students with a better understanding of the multiple pathways to success, students go through the following ECG experiences. </p>
 
     </div>
 
