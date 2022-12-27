@@ -100,7 +100,9 @@ National Day Celebrations
 
     <div>
 
-<p>   
+<p> 
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/gSzsy84HO2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+	
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/English%20Drama/E2.png">
 			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/English%20Drama/E3.png">
 			</p>
