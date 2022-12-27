@@ -86,7 +86,12 @@ The Concert Band aims to develop a dedicated group of musicians who strive to ac
 
     <div>
 
-<p> </p>
+<p> Chinese New Year celebrations<br>  
+Singapore Youth Festival<br>  
+Singapore International Band Festival<br>  
+School National Day Celebration<br>  
+Exchange Concerts with Sembawang Wind Orchestra
+			</p>
 
     </div>
 
