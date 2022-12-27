@@ -53,10 +53,10 @@ The CCA Programme provides our students with a platform to discover their intere
 
     <div>
 
-<p> <a href="/images/Capture.jpg" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PS1.png"></a><br>
-			<a href="/images/Capture.jpg" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PS2.png"></a><br>
-			<a href="/images/Capture.jpg" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PS3.png"></a><br>
-			<a href="/images/Capture.jpg" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PS4.png"></a>
+<p> <a href="/cca/Physical-Sports/Badminton-Boys-Girls/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PS1.png"></a><br>
+			<a href="/cca/Physical-Sports/Basketball-Boys/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PS2.png"></a><br>
+			<a href="/cca/Physical-Sports/Floorball-Boys/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PS3.png"></a><br>
+			<a href="/cca/Physical-Sports/Netball/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PS4.png"></a>
 			</p>
 
     </div>
@@ -71,8 +71,8 @@ The CCA Programme provides our students with a platform to discover their intere
 
     <div>
 
-<p> <a href="/images/Capture.jpg" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/UG1.png"></a><br>
-			<a href="/images/Capture.jpg" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/UG2.png"></a>
+<p> <a href="/cca/Uniformed-Groups/NPCC/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/UG1.png"></a><br>
+			<a href="/cca/Uniformed-Groups/Red-Cross-Youth/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/UG2.png"></a>
 			</p>
 
   </div>
