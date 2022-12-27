@@ -90,7 +90,8 @@ Limelight 2014
 
     <div>
 
-<p> </p>
+<p> <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Choir/C2.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Choir/C3.jpg"></p>
 
   </div>
 
