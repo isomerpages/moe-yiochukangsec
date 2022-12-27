@@ -16,7 +16,10 @@ The CCA Programme provides our students with a platform to discover their intere
 
     <div>
 
-<p>  </p>
+<p> 
+<a href="/images/Capture.jpg" target = "\_blank"> <img style="width:100%" src="/images/Capture.jpg"></a><br>
+
+ </p>
 
     </div>
 
