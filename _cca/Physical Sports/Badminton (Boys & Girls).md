@@ -76,7 +76,9 @@ The Badminton CCA aims to equip students with the fundamentals of the sport as w
 
     <div>
 
-<p> </p>
+<p> 2020 - Nil<br>  
+2019 - 'C’ Division Girls Top 8 North Zone Badminton Championships<br>  
+2018 - 'B' Division Girls Top 8 North Zone Badminton Championships </p>
 
     </div>
 
@@ -90,7 +92,8 @@ The Badminton CCA aims to equip students with the fundamentals of the sport as w
 
     <div>
 
-<p> </p>
+<p>   
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Badminton%20(Boys%20&%20Girls)/B2.png">\<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Badminton%20(Boys%20&%20Girls)/B3.png"> </p>
 
   </div>
 
