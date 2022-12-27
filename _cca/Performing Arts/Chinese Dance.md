@@ -304,7 +304,8 @@ The Chinese Dance Club aims to engage the dancers in fun and interesting ways. W
 
     <div>
 
-<p>   
+<p> <iframe width="560" height="315" src="https://www.youtube.com/embed/PKtc-skdeVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+	
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C4.png">
 			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C5.png">
 			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C6.png"></p>
