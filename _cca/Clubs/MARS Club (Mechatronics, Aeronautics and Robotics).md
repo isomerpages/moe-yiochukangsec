@@ -59,7 +59,68 @@ The MARs (Mechatronics, Aeronautics and Robotics) Club was set up in January 201
 
     <div>
 
-      <p> </p>
+      <p> <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">2022</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Ignite Skills Challenge</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">AI Car Challenge - 2nd Runner Up</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Digital Making using Microbit - Finalist</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2021</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ignite Skills Challenge</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Robo Genius Global Online Competition</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ninja ball challenge - Bronze Medal</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2019</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">One World Robotics Competition - 2nd Runner Up &amp; Winner of the Solution presentation</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ripple UX Challenge - Champion, 1st Runner Up &amp; 2nd Runner Up</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Micro:bit tinkering competition for secondary school</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">N6 Event</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2018</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ripple UX Challenge - 2nd Runner Up &amp; Fastest Robot</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Robotics Challenge - Merit award for Creative Category</td>
+  </tr>
+</tbody>
+</table> </p>
 
     </div>
 
