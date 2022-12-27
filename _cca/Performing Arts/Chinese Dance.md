@@ -62,7 +62,119 @@ The Chinese Dance Club aims to engage the dancers in fun and interesting ways. W
 
     <div>
 
-      <p> </p>
+      <p> <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">2021</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">SYF Arts Presentation - Certificate of Accomplishment</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2019</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SYF Arts Presentation - Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Performance @ Yio Chu Kang National Day Observance Ceremony</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2018</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Performance @ SYF Celebrations at Esplanade</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Performance @ YCKSS National Day Celebration</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Performance @ Yio Chu Kang National Day Observance Ceremony</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Performance @ Yio Chu Kang Community Day</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2017</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SYF Arts Presentation: Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">National Day Parade Mass Display 2017</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2016</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Chingay Parade 2016</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2015</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Fusion Dance @ Public Service Leadership Dinner Performance 2015</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Youth Celebrate! 2015 (SG 50)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SYF Arts Presentation: Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2013</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SYF Arts Presentation: Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2011</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SYF: Silver Award</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2009</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SYF: Gold Award</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2007</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SYF: Gold with Honours Award</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2005</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SYF: Gold Award</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2003</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SYF: Gold Award</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2001</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SYF: Gold Award</td>
+  </tr>
+</tbody>
+</table> </p>
 
     </div>
 
