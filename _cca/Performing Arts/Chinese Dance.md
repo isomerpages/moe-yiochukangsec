@@ -21,7 +21,35 @@ The Chinese Dance Club aims to engage the dancers in fun and interesting ways. W
 
     <div>
 
-<p> </p>
+<p> <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lqrs{background-color:#FDD;text-align:center;vertical-align:top}
+.tg .tg-457i{background-color:#E91E63;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-fvdm{background-color:#2196F3;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-duc4{background-color:#4CAF50;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-sqly{background-color:#DFF;text-align:center;vertical-align:top}
+.tg .tg-bpmc{background-color:#DFD;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-457i"><span style="color:#FFF;background-color:#E91E63">Teachers in-charge</span></th>
+    <th class="tg-fvdm"><span style="color:#FFF;background-color:#2196F3">Committee Members</span></th>
+    <th class="tg-duc4"><span style="color:#FFF;background-color:#4CAF50">Training Information</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lqrs"><span style="color:#000;background-color:#FDD">Ms Teo Hwee Hong (ext 123)</span><br><span style="color:#000;background-color:#FDD">Ms Tan Chun Buei (ext 172)</span><br><span style="color:#000;background-color:#FDD">Mdm Ye YuLuan (ext 175)</span><br><br></td>
+    <td class="tg-sqly"><span style="font-weight:bolder">President</span><br><span style="color:#000;background-color:#DFF">Tan Jia Yu (3A1)</span><br><br><span style="font-weight:bolder">Vice-President</span><br><span style="color:#000;background-color:#DFF">Koh Ruo Le (3E1)</span><br><br></td>
+    <td class="tg-bpmc"><span style="font-weight:bolder">Every Tuesday</span><br><span style="color:#000;background-color:#DFD">3pm to 5:45pm</span><br><br><span style="font-weight:bolder">Every Thursday</span><br><span style="color:#000;background-color:#DFD">3pm to 5.45pm</span><br><br><span style="font-weight:bolder">Venue:</span><br><span style="color:#000;background-color:#DFD">Hall/Dance Studio</span><br></td>
+  </tr>
+</tbody>
+</table> </p>
 
     </div>
 
