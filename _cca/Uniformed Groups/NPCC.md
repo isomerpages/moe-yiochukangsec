@@ -65,4 +65,3 @@ third_nav_title: Uniformed Groups
 
 	
 </ul>
-</ul>
