@@ -89,7 +89,8 @@ Active SG - Singapore Floorball Association 'C'-Division Plate / Bowl Championsh
 
 <b>2018</b>
 
-National 'B' and 'C'-Division Floorball Championships </p>
+National 'B' and 'C'-Division Floorball Championships 
+			</p>
 
     </div>
 
