@@ -33,7 +33,13 @@ The CCA Programme provides our students with a platform to discover their intere
 
     <div>
 
-      <p> </p>
+      <p> <a href="/images/Capture.jpg" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA1.png"></a><br>
+			<a href="/images/Capture.jpg" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA2.png"></a><br>
+			<a href="/images/Capture.jpg" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA3.png"></a><br>
+			<a href="/images/Capture.jpg" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA4.png"></a><br>
+			<a href="/images/Capture.jpg" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA5.png"></a><br>
+			<a href="/images/Capture.jpg" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA6.png"></a>
+			</p>
 
     </div>
 
