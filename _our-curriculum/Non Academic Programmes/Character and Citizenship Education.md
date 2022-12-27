@@ -72,7 +72,7 @@ At Yio Chu Kang Secondary School, the ECG curriculum is delivered through the fo
 *   MySkillsFuture portal<br>  
     This is an online portal that facilitates education and career development among students. Students are introduced to this tool to help them uncover their attributes,find out more about different careers that they might be interested in and chart their educational pathways to achieve their aspirations. Students will have guided lessons on how to use this portal and it can be accessed from home.<br><br>
 
-	2. <b>ECG Experience</b><br>  
+2. <b>ECG Experience</b><br>  
   
 To make the learning real and to equip students with a better understanding of the multiple pathways to success, students go through the following ECG experiences.<br>
 		<style type="text/css">
@@ -127,7 +127,12 @@ To make the learning real and to equip students with a better understanding of t
     <td class="tg-ktyi" colspan="4">JIE Briefing during GCE N-level exam results release<br><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/Our%20Curriculum/Non%20academic%20Programmes/cce/1.%202018%20N-level%20Pathways%20Briefing.pdf"><span style="text-decoration:none;color:#1E87F0">2018 N-level Pathways Briefing</span></a><br><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/Our%20Curriculum/Non%20academic%20Programmes/cce/2.%202018%20N-level%20JIE%20Briefing.pdf"><span style="text-decoration:none;color:#1E87F0">2018 N-level JIE Briefing</span></a><br><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/Our%20Curriculum/Non%20academic%20Programmes/cce/GCE%20O/JIE%20Booklet%202019.pdf"><span style="text-decoration:none;color:#1E87F0">JIE Booklet 2019</span></a><br><br>JAE Briefing during O-level results release<br><br><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/Our%20Curriculum/Non%20academic%20Programmes/cce/GCE%20O/1.%202018%20O-level%20Pathways%20Briefing.pdf"><span style="text-decoration:none;color:#1E87F0">2018 O-level Pathways Briefing</span></a><br><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/Our%20Curriculum/Non%20academic%20Programmes/cce/GCE%20O/2.%202018%20O-level%20JAE%20Briefing.pdf"><span style="text-decoration:none;color:#1E87F0">2018 O-level JAE Briefing</span></a><br><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/Our%20Curriculum/Non%20academic%20Programmes/cce/GCE%20O/JAE%20Booklet%202019.pdf"><span style="text-decoration:none;color:#1E87F0">JAE Booklet 2019</span></a></td>
   </tr>
 </tbody>
-</table>	</p>
+</table><br><br>
+			
+3. <b>ECG Counselling</b>   
+
+> • One-to-One conferencing with FTs during chit chat sessions of FT Time  
+> • Career consultations with our ECG Counsellor, Mr Elvis Sio				</p>
 
     </div>
 
