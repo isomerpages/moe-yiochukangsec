@@ -19,7 +19,34 @@ The MARs (Mechatronics, Aeronautics and Robotics) Club was set up in January 201
 
     <div>
 
-<p> </p>
+<p> <b>MARs Club (Mechatronics, Aeronautics and Robotics)</b><br>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ozs2{background-color:#F1F1F1;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-70mf{background-color:#FFF;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-jikt{background-color:#F1F1F1;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-70mf">Teachers-in-charge</th>
+    <th class="tg-70mf">Committee Members</th>
+    <th class="tg-70mf">Training Information</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-jikt">Mr Wee Daiqi (ext 217)<br>Mr Foo Sian Kok,<br>Simon (ext 142),<br>Mr Vijeyaa Kumaran (ext 129)</td>
+    <td class="tg-ozs2"><span style="font-weight:bolder">President</span><br>Muhammad Aslam Bin Mohamad Fazli<br><span style="font-weight:bolder">Vice-President</span><br>Nathan Ian Arollado</td>
+    <td class="tg-ozs2"><span style="font-weight:bolder">Every Tuesday &amp; Thursday</span><br>3:15pm to 5:15pm<br><span style="font-weight:bolder">Venue :</span> Techno Sphere</td>
+  </tr>
+</tbody>
+</table>
+</p>
 
     </div>
 
