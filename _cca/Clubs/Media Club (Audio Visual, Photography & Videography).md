@@ -28,6 +28,32 @@ Our photography programme offers students structured training that equips them w
     <div>
 
 <p> <b>The Media Club (Audio-Visual, Photography & Videography)</b><br>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ozs2{background-color:#F1F1F1;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-70mf{background-color:#FFF;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-jikt{background-color:#F1F1F1;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-70mf">Teachers-in-charge</th>
+    <th class="tg-70mf">Committee Members</th>
+    <th class="tg-70mf">Training Information</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-jikt">Mr Ng Mang Chung (ext 143)<br>Mr Brandon Chin (ext 136)<br>Mdm Doreen Ng (ext 134)<br>Ms Xu Xiaohong (ext 174)<br>Mr Yip Seng Yiam (ext 125)<br></td>
+    <td class="tg-ozs2"><span style="font-weight:bolder">President</span><br>Lee En Ting, Charlene<br><span style="font-weight:bolder">Vice-President</span><br>Ngan Kwan Teng n</td>
+    <td class="tg-ozs2"><span style="font-weight:bolder">Every Tuesday &amp; Thursday</span><br>3:15pm to 5:45pm<br><span style="font-weight:bolder">Venue :</span> EBS Lab/ Hall Gallery</td>
+  </tr>
+</tbody>
+</table>
 			</p>
 
     </div>
