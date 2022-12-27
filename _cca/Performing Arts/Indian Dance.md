@@ -85,7 +85,42 @@ TThe Indian Dance CCA aims to help develop and nurture the pupils holistically. 
 
     <div>
 
-<p> </p>
+<p> <b>2021</b><br>  
+SYF Certificate of Distinction<br><br>  
+  
+<b>2020</b><br>  
+Chinese New Year Celebrations<br><br>  
+  
+<b>2019</b><br>   
+SYF Certificate of Distinction<br><br>  
+  
+<b>2018</b><br>  
+National Day Observance ceremony and community celebration<br>  
+Esplanade SYF Celebration<br>  
+Speech Day<br><br>  
+  
+<b>2016</b><br>  
+Chingay Parade<br>  
+Speech Day<br><br>
+  
+<b>2015</b>  
+SG 50 Youth Celebration<br><br>  
+  
+<b>2014</b><br>  
+Speech Day<br><br>  
+  
+<b>2012</b>  
+Arts Festival<br><br>  
+  
+<b>2005,2007,2009,2011,2013</b><br>  
+Singapore Youth Festival - Gold with Honours<br><br>  
+  
+<b>2008</b><br>  
+Arts Biennale at Victoria Theatre<br><br>  
+  
+<b>2007</b><br>  
+23rd Asian Council of Teachers Convention 
+			</p>
 
     </div>
 
