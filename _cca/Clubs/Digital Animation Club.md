@@ -108,7 +108,10 @@ third_nav_title: Clubs
 
     <div>
 
-<p> </p>
+<p>   
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/D2.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/D3.png">
+			</p>
 
     </div>
 
