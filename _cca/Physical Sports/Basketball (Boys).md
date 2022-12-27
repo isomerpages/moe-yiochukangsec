@@ -120,7 +120,9 @@ Yio Chu Kang Youth Sports Fiesta 2018 Basketball 3-on-3 Tournament – 3rd and 4
 
     <div>
 
-<p> </p>
+<p>   
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Basketball%20(Boys)/B2.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Basketball%20(Boys)/B3.png"></p>
 
   </div>
 
