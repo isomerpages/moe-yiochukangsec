@@ -4,6 +4,9 @@ permalink: /cca/Clubs/Digital-Animation-Club/
 description: ""
 third_nav_title: Clubs
 ---
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/D1.png)
+
+
 <ul class="jekyllcodex_accordion">
 
   <li>
