@@ -16,7 +16,7 @@ The Concert Band aims to develop a dedicated group of musicians who strive to ac
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Booklists</label>
+    <label for="accordion1">Training Schedule</label>
 
     <div>
 
@@ -29,7 +29,7 @@ The Concert Band aims to develop a dedicated group of musicians who strive to ac
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Exam Timetables</label>
+    <label for="accordion2">Proudest Moments</label>
 
     <div>
 
@@ -43,7 +43,7 @@ The Concert Band aims to develop a dedicated group of musicians who strive to ac
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Letter to Parents 2022</label>
+    <label for="accordion3">Events/Competitions</label>
 
     <div>
 
@@ -57,7 +57,7 @@ The Concert Band aims to develop a dedicated group of musicians who strive to ac
 
     <input type="checkbox" id="accordion4">
 
-    <label for="accordion4">PDLP 2022</label>
+    <label for="accordion4">Gallery</label>
 
     <div>
 
