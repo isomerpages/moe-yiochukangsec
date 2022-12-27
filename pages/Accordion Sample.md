@@ -13,7 +13,7 @@ description: ""
 
     <div>
 
-			<p> </p>
+<p> </p>
 
     </div>
 
@@ -32,7 +32,7 @@ description: ""
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion3">
 
@@ -40,13 +40,13 @@ description: ""
 
     <div>
 
-			<p> </p>
+<p> </p>
 
     </div>
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion4">
 
@@ -54,7 +54,7 @@ description: ""
 
     <div>
 
-			<p> </p>
+<p> </p>
 
   </div>
 
@@ -82,7 +82,7 @@ description: ""
 
     <div>
 
-			<p> </p>
+<p> </p>
 
     </div>
 
@@ -96,7 +96,7 @@ description: ""
 
     <div>
 
-		<p> </p>
+<p> </p>
 
     </div>
 
