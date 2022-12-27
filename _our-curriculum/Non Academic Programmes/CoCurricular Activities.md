@@ -87,11 +87,11 @@ The CCA Programme provides our students with a platform to discover their intere
 
     <div>
 
-			<p> 
+<p> 
 <a href="files/CCA%20Schedule/2021%20eCCA%20Schedule%20October%20-%20November%202021.pdf" target = "\_blank">2021 e-CCA Training schedule October - November holidays (Updated on 28 Oct 2021)</a><br>
 <a href="files/CCA%20Schedule/2021%20eCCA%20Schedule%201st%20%204th%20Week%20of%20June%20Holidays%2024%20May%20to%2004%20June%20%2021%20to%2025%20June%202021.pdf" target = "\_blank">2021 e-CCA Training schedule June holidays Updated on 28 May 2021)</a><br>
-<a href="/cca/Uniformed-Groups/NPCC/" target = "\_blank">ss</a><br>
-<a href="/cca/Uniformed-Groups/NPCC/" target = "\_blank">ss</a><br>
+<a href="/cca/Uniformed-Groups/NPCC/" target = "\_blank">2021 March Holidays CCA Training schedule (Updated on 9 March 2021)</a><br>
+<a href="/cca/Uniformed-Groups/NPCC/" target = "\_blank">2021 CCA schedule - Semester 1 (Updated on 5 Jan 2021)</a><br>
 			</p>
 
     </div>
