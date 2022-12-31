@@ -129,10 +129,12 @@ To make the learning real and to equip students with a better understanding of t
 </tbody>
 </table><br><br>
 			
-3. <b>ECG Counselling</b>   
+3. <b>ECG Counselling</b><br>   
 
 > • One-to-One conferencing with FTs during chit chat sessions of FT Time  
-> • Career consultations with our ECG Counsellor, Mr Elvis Sio				</p>
+> • Career consultations with our ECG Counsellor, Mr Elvis Sio<br> 
+			  
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/ECG/E1.jpg"> </p>
 
     </div>
 
