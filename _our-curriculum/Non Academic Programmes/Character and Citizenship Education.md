@@ -147,7 +147,11 @@ To make the learning real and to equip students with a better understanding of t
 
     <div>
 
-      <p> </p>
+      <p> National Education is experienced through the 4 key NE celebrations that are run throughout the year. Total Defence Day, International Friendship Day, Racial Harmony Day and National Day.<br>
+  
+Through a variety of activities ranging from learning packages to cultural displays and parades, students immerse themselves in the uniqueness that is Singapore.<br>  
+  
+The NE Unit also seeks for opportunities to work with partners to enhance the celebrations. Partners we have worked with include Parents and the International Students Integration Programme group.<br> </p>
 
     </div>
 
