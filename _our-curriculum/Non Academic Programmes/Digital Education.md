@@ -174,7 +174,11 @@ MOE Hotline<br>
 
     <div>
 
-<p> </p>
+<p> The programme ignites students’ passion for technology via engaging and experiential activities and encourages creators and makers of technology to be creative and daring to explore.<br>
+
+Students had the opportunity to try and experiment with the various cool new tech exhibits on board such as Virtual Reality, Augmented Reality, Artificial Intelligence and Cybersecurity, and learnt about how these technologies can be useful in everyday lives.<br><br>
+	<b>IMDA Lab on Wheels @ YCKSS Photos</b><br><br>
+		<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/IMDA%20Lab%20on%20Wheels%20@%20YCKSS/I1.png">	</p>
 
     </div>
 
