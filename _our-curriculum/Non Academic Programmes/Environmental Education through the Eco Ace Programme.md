@@ -22,3 +22,46 @@ The Environmental Education Programme in Yio Chu Kang Secondary School, known as
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/Environ%20Edu%20Eco%20Ace%20Program/Environ%20Edu%20Eco%20Ace%20Program/E2.png)
 
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/Environ%20Edu%20Eco%20Ace%20Program/Environ%20Edu%20Eco%20Ace%20Program/E3.png)
+
+<ul class="jekyllcodex_accordion">
+
+  <li>
+
+    <input type="checkbox" id="accordion1">
+
+    <label for="accordion1">Booklists</label>
+
+    <div>
+
+<p> </p>
+
+    </div>
+
+</li>
+	<li>
+
+    <input type="checkbox" id="accordion2">
+
+    <label for="accordion2">Exam Timetables</label>
+
+    <div>
+
+      <p> </p>
+
+    </div>
+
+</li>
+	
+<li>
+
+    <input type="checkbox" id="accordion3">
+
+    <label for="accordion3">Letter to Parents 2022</label>
+
+    <div>
+
+<p> </p>
+
+    </div>
+
+</li>
