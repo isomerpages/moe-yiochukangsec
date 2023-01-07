@@ -43,7 +43,22 @@ At all levels, students continue to have opportunities to take on informal leade
 
     <div>
 
-<p> </p>
+<p> Students who are identified with the potential and suitability to take on official appointments within the class (i.e. Class Leaders), CCA (i.e. CCA Leaders) or at school-level (i.e. Student Councillors and Sports Leaders) will be given different opportunities and platforms to develop their leadership competencies.<br>   
+
+The following outlines the key groups of Student Leaders in Yio Chu Kang Secondary School.<br><br>
+
+i. <b>Class Leaders</b> play an integral role in forging a strong class spirit while assisting teachers with simple administrative duties. A Class Committee is established in every class and comprises a Class Chairperson, Vice-Chairpersons, as well as Subject Representatives for each subject the class is taking (including non-examinable areas as determined by the teachers). Students will have opportunities to volunteer for an appointment in the Committee or be nominated by the teacher if they are deemed suitable for a specific role (e.g., Class Chairperson).<br>
+
+ii.<b>Peer Support Leaders</b> will be appointed within each class to actively look out for their peers and promote help-seeking and help-giving behaviour.  Students with suitable dispositions or leadership qualities may be nominated by their teachers and appointed as Peer Support Leaders.  This group of Student Leaders will play a crucial role in forging a caring school community with strong networks of positive relationships within and beyond the classroom, to ensure members of the school community feel safe and have a sense of belonging.<br>
+
+iii.<b>CCA Leaders</b> are appointed in each CCA. They work closely with the CCA teachers-in-charge to shape the culture of the CCA, mentor their juniors, as well as role-model positive qualities that are key to achieving success in the various CCAs (e.g., commitment, sportsmanship, discipline). Depending on the needs and profile of the CCA, CCA Leaders are often appointed at Secondary 2 and/ or 3. The appointment of CCA Leader(s) is done by the CCA teachers-in-charge after close discussion and careful deliberation.<br>
+
+iv.<b>Student Councillors</b> advocate for the student body on general schooling or student matters. Student Councillors work in close partnership with the school management, staff, and students to surface key concerns amongst students and propose suggested solutions. They also have opportunity to plan and implement school-wide activities and serve in key school events. This leadership opportunity is suitable for students who are keen to serve the school and student body. Interested Secondary 1 or 2 students can apply; however, only suitable students will be appointed following several rounds of selections by a team of teachers. The <b>Student Council EXCO</b> is the pinnacle group of Student Leaders who are voted in and selected to lead the Student Council and student body.   
+
+v.<b>Sports Leaders</b> are sports ambassadors and advocates of an active and healthy lifestyle. Similar to their peers in the Student Council, the Sports Leaders work in close partnership with the school management, staff, and students to plan and implement school-wide sporting- and health-related activities. They also have opportunity to support sports events beyond the school-level. This leadership opportunity is suitable for students with a strong passion for sports and sporting-related activities.  Interested Secondary 1 or 2 students can apply; however, only suitable students will be appointed following several rounds of selections by a team of teachers.<br> 
+
+To forge a caring school community where students feel safe and have a sense of belonging, the school has been strengthening its efforts in peer support and relationships.  To this end, students with suitable dispositions or leadership qualities have been identified and appointed <b>Peer Support Ambassadors</b>. Peer Support Ambassadors play a crucial role in looking out for their peers and building strong networks of positive relationships within and beyond the classroom. Currently, a student can only be appointed a PSA through teachers’ nomination. 
+</p>
 
     </div>
 
