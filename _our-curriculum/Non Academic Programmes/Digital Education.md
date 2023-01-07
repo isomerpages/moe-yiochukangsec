@@ -158,7 +158,9 @@ MOE Hotline<br>
 
     <div>
 
-      <p> </p>
+<p> The workshop seeks to equip students with the knowledge and skills in using G-suite for Education to communicate and collaborate with their peers, as well as to co-create digital products.<br><br>
+					<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/GSuite%20for%20Education%20Workshop/G1.png">
+			</p>
 
     </div>
 
