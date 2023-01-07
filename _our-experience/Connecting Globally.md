@@ -14,3 +14,4 @@ To find out more details of each activity, please go to [The Horizon (Our Newsl
 
 
 ![](/images/Our%20Experience/Connecting%20Globally/C2.jpg)
+[The Horizon Issue 1 (Page 17)](/The-Horizon-Issue-1-Page-17/)
