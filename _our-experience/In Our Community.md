@@ -20,7 +20,8 @@ Look out for the more details in [The Horizon, Issue 2](/files/In%20Our%20Commu
     <div>
 
 <p> <img style="width:100%;height:50%" src="/images/Our%20Experience/In%20Our%20Community/Community%20Events/C1.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Experience/In%20Our%20Community/Community%20Events/C2.png"></p>
+			<img style="width:100%;height:50%" src="/images/Our%20Experience/In%20Our%20Community/Community%20Events/C2.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Experience/In%20Our%20Community/Community%20Events/C3.png"></p>
 
     </div>
 
