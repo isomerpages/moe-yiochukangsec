@@ -28,7 +28,78 @@ Recognising that through the digital tools, students have a window to the world,
 			
 Digital Literacies better enable our students, at different stages of their education journey, to acquire the digital skills required to navigate the digital age through four mutually reinforcing components in the <a href="https://www.moe.gov.sg/microsites/cos2020/refreshing-our-curriculum/strengthen-digital-literacy.html">‘Find, Think, Apply and Create’</a>  framework. 
 
-At YCKSS, we have customised this into <b>our Digital Education Framework.</b><br><br> </p>
+At YCKSS, we have customised this into <b>our Digital Education Framework.</b><br><br> 
+	<b>Personal Learning Device (PLD) for Secondary School Students</b><br><br>
+			After careful considerations based on portability, durability and T&L affordance, the PLD selected for use at YCKSS is the <b>Apple iPad (2021 9th Generation)</b> with the accompanying <b>Apple Pencil</b> and <b>Keyboard Combo</b>.<br>
+
+The device will be used to facilitate an environment that encourages personalised learning where students will be engaged in technology-enabled active learning activities using the iPad.<br><br> 
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/NDLP%20@%20YCKSS/N2.png"><br>
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/NDLP%20@%20YCKSS/N3.jpg"><br>
+	<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/NDLP%20@%20YCKSS/N4.jpg"><br><br>
+	
+<b>Warranty and Insurance</b><br>
+	The device bundle will come with <b>3-Year AppleCare+ Warranty and 3-Year Insurance.</b><br>
+	<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-6cv8{background-color:#616161;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-jikt{background-color:#F1F1F1;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-6cv8">Insurance Coverage</th>
+    <th class="tg-6cv8">Claimable</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-jikt">Fire</td>
+    <td class="tg-jikt"> </td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Lightning</td>
+    <td class="tg-ktyi"> </td>
+  </tr>
+  <tr>
+    <td class="tg-jikt">Power Surges</td>
+    <td class="tg-jikt">2 repairs or 1 replacement</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Accidental Damage <span style="color:#000;background-color:#F1F1F1">?</span><br></td>
+    <td class="tg-ktyi">(within the 3-year insurance coverage)</td>
+  </tr>
+  <tr>
+    <td class="tg-jikt">Theft due to forcible entry</td>
+    <td class="tg-jikt"> </td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Robbery</td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table><br>
+			 Accidental loss will not be covered by insurance.<br><br>
+			<b>Purchase of PLD</b><br><br>
+			Singapore Citizen students can use their available <b>Edusave balance</b> to pay for the PLD after setting aside provision for payment of 2nd tier miscellaneous fees.<br>
+
+MOE has provided a one-off Edusave top-up of $200 in 2020, to all eligible Singaporean students in primary and secondary schools. This is on top of the annual Edusave contribution of $290 for secondary students and $230 for primary students.<br>
+
+<b>Subsidies</b> are available for students who require financial assistance to purchase a PLD.<br>
+			
+Please note that it is compulsory for all existing students on the MOE Financial Assistance Scheme to use their Edusave to pay for the PLD, after subsidies have been granted.<br>
+			
+Students under the MOE Financial Assistance _(FAS)_ Scheme for the year will automatically be subsidised for the PLD.<br>
+			
+Students who are currently not under the MOE Financial Assistance Scheme may apply for additional subsidy if their <b>Gross Household Income (GHI)</b> is $4,000 or less, or <b>Per Capita Income (PCI)</b> is $1,000 or less.Please collect the application form at the General Office.<br>
+			
+<b>“PCI”</b> refers to the Gross Household Income divided by the total number of family members in the household.
+			</p>
 
     </div>
 
