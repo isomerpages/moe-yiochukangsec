@@ -10,6 +10,7 @@ These programmes are specially designed with learning objectives, complemented w
 To find out more details of each activity, please go to [The Horizon (Our Newsletter)](https://yiochukangsec.moe.edu.sg/our-experience/the-horizon-newsletter) and also our [YCKSS Facebook Page](https://www.facebook.com/yiochukangsec) and [Instagram](https://www.instagram.com/yoloyio/)for the latest updates.
 
 ![](/images/Our%20Experience/Connecting%20Globally/C1.jpg)
+[The Horizon Issue 1 (Page 15)](/The-Horizon-Issue-1-Page-15/)
 
 
 ![](/images/Our%20Experience/Connecting%20Globally/C2.jpg)
