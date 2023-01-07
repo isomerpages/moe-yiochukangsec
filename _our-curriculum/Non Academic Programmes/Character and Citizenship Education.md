@@ -151,7 +151,9 @@ To make the learning real and to equip students with a better understanding of t
   
 Through a variety of activities ranging from learning packages to cultural displays and parades, students immerse themselves in the uniqueness that is Singapore.<br>  
   
-The NE Unit also seeks for opportunities to work with partners to enhance the celebrations. Partners we have worked with include Parents and the International Students Integration Programme group.<br> </p>
+The NE Unit also seeks for opportunities to work with partners to enhance the celebrations. Partners we have worked with include Parents and the International Students Integration Programme group.<br><br>
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/National%20Education%20(NE)/N1.png"><br>
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/National%20Education%20(NE)/N2.png"></p>
 
     </div>
 
