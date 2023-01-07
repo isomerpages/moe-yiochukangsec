@@ -33,7 +33,21 @@ The Environmental Education Programme in Yio Chu Kang Secondary School, known as
 
     <div>
 
-<p> </p>
+<p> <i>A community of leaders who advocates green habits and influence others in making positive impact to the environment.</i><br><br>  
+  
+
+<b>Advocating a Green Culture among Staff and Students</b><br>
+
+Staff and students practise and champion green habits of reducing, reusing, recycling and repurposing.<br>
+	
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Environ%20Edu%20Eco%20Ace%20Program/Advocate/A1.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Environ%20Edu%20Eco%20Ace%20Program/Advocate/A2.png"><br><br>
+			
+<b>Outreach Programmes</b><br>  
+  
+Through various platforms such as Values-in-Action Programme, Service Learning and other outreach programmes, students have the opportunities to spread their green messages to the community.<br><br>
+			<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Environ%20Edu%20Eco%20Ace%20Program/Advocate/A3.png">
+			<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Environ%20Edu%20Eco%20Ace%20Program/Advocate/A4.png"><img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Environ%20Edu%20Eco%20Ace%20Program/Advocate/A5.png"><img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Environ%20Edu%20Eco%20Ace%20Program/Advocate/A6.png"></p>
 
     </div>
 
