@@ -24,7 +24,7 @@ Recognising that through the digital tools, students have a window to the world,
 
     <div>
 
-<p> </p>
+<p> <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/NDLP%20@%20YCKSS/N1.png"> </p>
 
     </div>
 
