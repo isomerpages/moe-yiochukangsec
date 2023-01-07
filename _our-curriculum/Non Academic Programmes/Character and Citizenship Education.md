@@ -213,17 +213,17 @@ b.    Character and Citizenship Education (CCE)<br><br>
 
 9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.<br><br>
 
-You may click [here](https://yiochukangsec.moe.edu.sg/qql/slot/u133/Our%20Curriculum/Non%20academic%20Programmes/cce/YCKSS%20Sexuality%20Education%202022.pdf) for more information on YCKSS Sexuality Education.<br><br>
+You may click <a href="files/Sexuality%20Education%20(SEd)/YCKSS%20Sexuality%20Education%202022.pdf">here</a> for more information on YCKSS Sexuality Education.<br><br>
 
 <b>Information for Parents</b><br><br>
 
 10. Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.<br><br>
 
-11. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://yiochukangsec.moe.edu.sg/qql/slot/u133/Our%20Curriculum/Non%20academic%20Programmes/cce/2022%20Sex%20Ed%20Letter%20and%20Opt%20Out%20Form%20Hardcopy_signed.pdf). The completed form is to be submitted by 25/01/2022.<br><br>
+	11. Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="files/Sexuality%20Education%20(SEd)/2022%20Sex%20Ed%20Letter%20and%20Opt%20Out%20Form%20Hardcopy_signed.pdf">here</a>. The completed form is to be submitted by 25/01/2022.<br><br>
 
-12. Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://yiochukangsec.moe.edu.sg/qql/slot/u133/Our%20Curriculum/Non%20academic%20Programmes/cce/2022%20S3%20eTeens%20Parents%20Opt-out%20Form%20Hardcopy.pdf).  The completed form is to be submitted by 25/01/2022.<br><br>
+	12. Parents who wish to opt their children out of the <b>_eTeens programme</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="files/Sexuality%20Education%20(SEd)/2022%20S3%20eTeens%20Parents%20Opt-out%20Form%20Hardcopy.pdf">here</a>.  The completed form is to be submitted by 25/01/2022.<br><br>
 
-13. Parents can contact the school at 64560669 or email the school, [yckss@moe.edu.sg](mailto:yckss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.<br><br>
+13. Parents can contact the school at 64560669 or email the school, <a href="mailto:yckss@moe.edu.sg">yckss@moe.edu.sg</a> for discussion or to seek clarification about the school’s sexuality education programme.<br><br> 
 
 14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</p>
 
