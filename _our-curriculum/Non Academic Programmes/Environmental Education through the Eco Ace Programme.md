@@ -47,7 +47,8 @@ Staff and students practise and champion green habits of reducing, reusing, recy
   
 Through various platforms such as Values-in-Action Programme, Service Learning and other outreach programmes, students have the opportunities to spread their green messages to the community.<br><br>
 			<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Environ%20Edu%20Eco%20Ace%20Program/Advocate/A3.png">
-			<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Environ%20Edu%20Eco%20Ace%20Program/Advocate/A4.png"><img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Environ%20Edu%20Eco%20Ace%20Program/Advocate/A5.png"><img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Environ%20Edu%20Eco%20Ace%20Program/Advocate/A6.png"></p>
+			<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Environ%20Edu%20Eco%20Ace%20Program/Advocate/A4.png"><img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Environ%20Edu%20Eco%20Ace%20Program/Advocate/A5.png"><img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Environ%20Edu%20Eco%20Ace%20Program/Advocate/A6.png">
+			</p>
 
     </div>
 
@@ -68,7 +69,8 @@ The school also has 59 solar panels that are grid-tied to a utilities company. T
 
 With their creativity, students have participated in external competitions and programmes to show their commitment towards environment conservation.<br>
 			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Environ%20Edu%20Eco%20Ace%20Program/Create/C1.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Environ%20Edu%20Eco%20Ace%20Program/Create/C2.png"></p>
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Environ%20Edu%20Eco%20Ace%20Program/Create/C2.png">
+			</p>
 
     </div>
 
