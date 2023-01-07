@@ -121,10 +121,10 @@ The <b>Acceptable Use Policy (AUP)</b> sets out the rules and regulations that
 <b>References & Enquiries</b><br><br>
 			
 Parents/Guardians can refer to the following materials listed below for additional information on the NDLP:<br><br>
-			<a href="link">text</a><br>
-			<a href="link">text</a><br>
-			<a href="link">text</a><br>
-			<a href="link">text</a><br>
+			<a href="link">NDLP Principal's Letter to Parents/Guardians</a><br>
+			<a href="link">NDLP Parents' Briefing Slides (With FAQs)</a><br>
+			<a href="link">Parent Handbook I (Learning with a Personal Learning Device)</a><br>
+			<a href="link">Parent Handbook II (Learning with a Personal Learning Device)</a><br>
 			</p>
 
     </div>
