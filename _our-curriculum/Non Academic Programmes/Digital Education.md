@@ -20,7 +20,7 @@ Recognising that through the digital tools, students have a window to the world,
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Booklists</label>
+    <label for="accordion1">National Digital Literacy Programme (NDLP) @ YCKSS</label>
 
     <div>
 
@@ -33,7 +33,7 @@ Recognising that through the digital tools, students have a window to the world,
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Exam Timetables</label>
+    <label for="accordion2">G-Suite for Education Workshop</label>
 
     <div>
 
@@ -47,7 +47,7 @@ Recognising that through the digital tools, students have a window to the world,
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Letter to Parents 2022</label>
+    <label for="accordion3">IMDA Lab on Wheels @ YCKSS</label>
 
     <div>
 
@@ -61,7 +61,7 @@ Recognising that through the digital tools, students have a window to the world,
 
     <input type="checkbox" id="accordion4">
 
-    <label for="accordion4">PDLP 2022</label>
+    <label for="accordion4">Digital Wellness</label>
 
     <div>
 
