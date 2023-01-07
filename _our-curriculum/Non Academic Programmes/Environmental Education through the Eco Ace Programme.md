@@ -42,7 +42,7 @@ The Environmental Education Programme in Yio Chu Kang Secondary School, known as
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Exam Timetables</label>
+    <label for="accordion2">Create</label>
 
     <div>
 
@@ -56,7 +56,7 @@ The Environmental Education Programme in Yio Chu Kang Secondary School, known as
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Letter to Parents 2022</label>
+    <label for="accordion3">Educate</label>
 
     <div>
 
