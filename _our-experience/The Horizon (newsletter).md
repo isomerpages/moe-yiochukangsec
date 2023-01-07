@@ -43,3 +43,16 @@ You can read the articles or watch the news broadcast via the links below.
 *   [REUTERS](https://www.reuters.com/article/us-health-coronavirus-singapore-reopenin/schools-reopen-as-singapore-eases-lockdown-restrictions-idUSKBN2390G8)
 *   [YAHOO! SINGAPORE](https://sg.news.yahoo.com/schools-reopen-singapore-eases-lockdown-045107168.html)
 
+### **All Issues of The Horizon**
+
+*   [ISSUE 8 (JUN - DEC 2022)](https://yiochukangsec.moe.edu.sg/qql/slot/u133/Our%20Experience/The%20Horizon/Horizon%202022/YCKSS%20Sem%202%202022%20NEWSLETTER.pdf) NEW!
+    
+*   [ISSUE 7 (JAN - MAY 2022)](https://yiochukangsec.moe.edu.sg/qql/slot/u133/Our%20Experience/The%20Horizon/Horizon%202022/YCKSS%202022%20SEM%201%20MAGAZINE_v3pdf.pdf)
+*   [ISSUE 6 (JUN - OCT 2021)](https://yiochukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u133/Our%20Experience/The%20Horizon/2021/THE%20HORIZON%20SEM%202%202021.pdf)
+*   [ISSUE 5 (JAN - MAY 2021)](https://yiochukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u133/Our%20Experience/The%20Horizon/2021/2021%20Jan-May.pdf)
+*   Journey through 2020: Video Edition  
+    ( [PART 1](https://www.youtube.com/watch?v=lOQVsDo-_AI&feature=youtu.be) | [PART 2](https://www.youtube.com/watch?v=mYRZgy5c-fs&feature=youtu.be) | [PART 3](https://youtu.be/BDBEUba8dyc) )
+*   [ISSUE 4 (JUN - NOV 2019)](https://yiochukangsec.moe.edu.sg/qql/slot/u133/Our%20Experience/The%20Horizon/2019/June%20-%20Nov%2019/Newsletter%204.pdf)
+*   [ISSUE 3 (JAN – MAY 2019)](https://yiochukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u133/Our%20Experience/The%20Horizon/2019/Jan%20-%20May%202019/Newsletter%20Issue%203%20Final%20Update.pdf)
+*   [ISSUE 2 (JULY – NOV 2018)](https://yiochukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u133/Our%20Experience/The%20Horizon/Horizon%20Issue%202/The%20Horizon%20Issue%202%20(July%20-%20Nov%202018).pdf)
+*   [ISSUE 1 (JAN – JUN 2018)](https://yiochukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u133/Our%20Experience/The%20Horizon/The%20Horizon%20Issue%201.pdf)
