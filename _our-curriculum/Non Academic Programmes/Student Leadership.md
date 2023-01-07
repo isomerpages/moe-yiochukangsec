@@ -71,7 +71,22 @@ To forge a caring school community where students feel safe and have a sense of 
 
     <div>
 
-      <p> </p>
+      <p> The school provides customised training for the various groups of Student Leaders, in addition to our school-wide approach. This is because the needs and skills required for each group of Student Leaders are different.<br>  
+
+1.  Student Leaders in general may have the opportunity to attend dialogue sessions, conferences, workshops or even camps. Some of these events are organised by MOE HQ, other schools, or vendors.<br> 
+    
+      
+    
+2.  Peer Support Ambassadors will be trained to hone his/ her skills in active listening, communication, and self-management, which are important qualities to prepare our students to be future-ready.  This group of Student Leaders will also be given opportunities to spearhead, plan and execute school-wide initiatives on various peer-support related topics such as mental health, cyber wellness and building friendships in school.<br>
+       
+3.  CCA Leaders may be selected to attend camps or trainings which are useful to impart CCA-specific leadership skills and technical knowledge. Each CCA also nominates selected students to attend the Youth Leadership Development Camp, an annual leadership camp planned and executed by selected Student Councillors and Sports Leaders.<br>
+       
+4.  Sports Leaders have the opportunity to plan and execute sporting-related activities in the school, such as a week-long Recess Challenge where students come together to do a short 1-minute sporting challenge.  Sports Leaders also assist in the execution of the school’s annual Sports Carnival.<br>
+    
+5.  Student Councillors play an integral role in many school events.  They provide support through various functions such as reception, ushering or even emceeing.  Student Councillors also have the opportunity to work with teacher mentors to conceptualise, plan and execute school events such as Teachers’ Day or Secondary 1 Orientation. Some Councillors may also have the opportunity to serve as Ambassadors to carry out school-wide campaigns on themes such as Kindness or Digital Wellness.<br> 
+    
+6.  The Student Council EXCO receives dedicated mentorship from teachers and are engaged in conversations involving more complex topics, such as leadership principles or suggestions for school improvement. They are responsible for the committees they lead, ensuring they set clear direction in their planning and execution to achieve desired outcomes. Some key events spearheaded by the Student Council EXCO included Teachers’ Day Celebrations and the Youth Leadership Development Camp.  This camp is held for CCA nominees, Student Councillors and Sports Leaders. Participants will hone their leadership competencies in areas such as teamwork, project management and public speaking.<br> 
+			</p>
 
     </div>
 
