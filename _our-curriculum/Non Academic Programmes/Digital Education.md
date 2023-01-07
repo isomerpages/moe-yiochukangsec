@@ -124,7 +124,27 @@ Parents/Guardians can refer to the following materials listed below for addition
 			<a href="files/NDLP%20@%20YCKSS/YCKSS%20NDLP%20-%20Letter%20to%20Parents%202022%20Final.pdf">NDLP Principal's Letter to Parents/Guardians</a><br>
 			<a href="files/NDLP%20@%20YCKSS/For%20Sharing%20NDLP%20-%20Briefing%20for%20Parents%2015%20Jan%202022.pdf">NDLP Parents' Briefing Slides (With FAQs)</a><br>
 			<a href="files/NDLP%20@%20YCKSS/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf">Parent Handbook I (Learning with a Personal Learning Device)</a><br>
-			<a href="files/NDLP%20@%20YCKSS/IP3%20-%20Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf">Parent Handbook II (Learning with a Personal Learning Device)</a><br>
+			<a href="files/NDLP%20@%20YCKSS/IP3%20-%20Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf">Parent Handbook II (Learning with a Personal Learning Device)</a><br><br>
+			You may contact the following personnel:<br>
+			<b>For Programme Matters :</b><br>
+
+Mr Desmond Pang<br>  
+(HOD ICT)<br>  
+6456 0669 (ext. 115)<br><br>
+
+Mr Brandon Chin<br>  
+(SH Digital Learning)<br>  
+6456 0669 (ext. 136)<br><br>
+
+<b>For Finance & Subsidy Matters</b><br>
+
+Ms Zama Bte Adim (Admin Executive)<br>  
+6456 0669 (ext. 103)<br><br>
+
+<b>For Edusave</b><br>
+
+MOE Hotline<br>  
+6260 0777<br>
 			</p>
 
     </div>
