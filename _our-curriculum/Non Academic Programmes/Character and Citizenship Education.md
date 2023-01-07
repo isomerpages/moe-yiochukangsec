@@ -124,7 +124,7 @@ To make the learning real and to equip students with a better understanding of t
   </tr>
   <tr>
     <td class="tg-9hzb"><span style="font-weight:bolder">Graduated</span><br><span style="font-weight:bolder">Students</span></td>
-    <td class="tg-ktyi" colspan="4">JIE Briefing during GCE N-level exam results release<br><a href="files/ECG/1%202018%20N-level%20Pathways%20Briefing.pdf"><span style="text-decoration:none;color:#1E87F0">2018 N-level Pathways Briefing</span></a><br><a href="files/ECG/2%202018%20N-level%20JIE%20Briefing.pdf"><span style="text-decoration:none;color:#1E87F0">2018 N-level JIE Briefing</span></a><br><a href="files/ECG/JIE%20Booklet%202019.pdf"><span style="text-decoration:none;color:#1E87F0">JIE Booklet 2019</span></a><br><br>JAE Briefing during O-level results release<br><br><a href="files/ECG/1%202018%20O-level%20Pathways%20Briefing.pdf"><span style="text-decoration:none;color:#1E87F0">2018 O-level Pathways Briefing</span></a><br><a href="files/ECG/2%202018%20O-level%20JAE%20Briefing.pdf"><span style="text-decoration:none;color:#1E87F0">2018 O-level JAE Briefing</span></a><br><a href="files/ECG/JAE%20Booklet%202019.pdf"><span style="text-decoration:none;color:#1E87F0">JAE Booklet 2019</span></a></td>
+    <td class="tg-ktyi" colspan="4">JIE Briefing during GCE N-level exam results release<br><a href="/files/ECG/1%202018%20N-level%20Pathways%20Briefing.pdf"><span style="text-decoration:none;color:#1E87F0">2018 N-level Pathways Briefing</span></a><br><a href="/files/ECG/2%202018%20N-level%20JIE%20Briefing.pdf"><span style="text-decoration:none;color:#1E87F0">2018 N-level JIE Briefing</span></a><br><a href="/files/ECG/JIE%20Booklet%202019.pdf"><span style="text-decoration:none;color:#1E87F0">JIE Booklet 2019</span></a><br><br>JAE Briefing during O-level results release<br><br><a href="/files/ECG/1%202018%20O-level%20Pathways%20Briefing.pdf"><span style="text-decoration:none;color:#1E87F0">2018 O-level Pathways Briefing</span></a><br><a href="/files/ECG/2%202018%20O-level%20JAE%20Briefing.pdf"><span style="text-decoration:none;color:#1E87F0">2018 O-level JAE Briefing</span></a><br><a href="/files/ECG/JAE%20Booklet%202019.pdf"><span style="text-decoration:none;color:#1E87F0">JAE Booklet 2019</span></a></td>
   </tr>
 </tbody>
 </table><br><br>
@@ -213,15 +213,15 @@ b.    Character and Citizenship Education (CCE)<br><br>
 
 9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.<br><br>
 
-You may click <a href="files/Sexuality%20Education%20(SEd)/YCKSS%20Sexuality%20Education%202022.pdf">here</a> for more information on YCKSS Sexuality Education.<br><br>
+You may click <a href="/files/Sexuality%20Education%20(SEd)/YCKSS%20Sexuality%20Education%202022.pdf">here</a> for more information on YCKSS Sexuality Education.<br><br>
 
 <b>Information for Parents</b><br><br>
 
 10. Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.<br><br>
 
-	11. Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="files/Sexuality%20Education%20(SEd)/2022%20Sex%20Ed%20Letter%20and%20Opt%20Out%20Form%20Hardcopy_signed.pdf">here</a>. The completed form is to be submitted by 25/01/2022.<br><br>
+	11. Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Sexuality%20Education%20(SEd)/2022%20Sex%20Ed%20Letter%20and%20Opt%20Out%20Form%20Hardcopy_signed.pdf">here</a>. The completed form is to be submitted by 25/01/2022.<br><br>
 
-	12. Parents who wish to opt their children out of the <b>_eTeens programme</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="files/Sexuality%20Education%20(SEd)/2022%20S3%20eTeens%20Parents%20Opt-out%20Form%20Hardcopy.pdf">here</a>.  The completed form is to be submitted by 25/01/2022.<br><br>
+	12. Parents who wish to opt their children out of the <b>_eTeens programme</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Sexuality%20Education%20(SEd)/2022%20S3%20eTeens%20Parents%20Opt-out%20Form%20Hardcopy.pdf">here</a>.  The completed form is to be submitted by 25/01/2022.<br><br>
 
 13. Parents can contact the school at 64560669 or email the school, <a href="mailto:yckss@moe.edu.sg">yckss@moe.edu.sg</a> for discussion or to seek clarification about the school’s sexuality education programme.<br><br> 
 
