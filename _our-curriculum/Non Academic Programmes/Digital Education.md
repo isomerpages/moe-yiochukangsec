@@ -116,7 +116,11 @@ The role of the parent is also key in partnering the school to support your chil
 
 The <b>Acceptable Use Policy (AUP)</b> sets out the rules and regulations that govern the use of PLD by students. This policy will serve to ensure the safe and secure use of the device, and facilitate effective learning with technology. The AUP can be found in the YCKSS Digital Student Handbook 2022.<br>
 			
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/NDLP%20@%20YCKSS/N6.jpg">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/NDLP%20@%20YCKSS/N6.jpg"><br><br>
+			
+<b>References & Enquiries</b><br><br>
+			
+			Parents/Guardians can refer to the following materials listed below for additional information on the NDLP:
 			</p>
 
     </div>
