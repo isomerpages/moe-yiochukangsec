@@ -122,8 +122,8 @@ The <b>Acceptable Use Policy (AUP)</b> sets out the rules and regulations that
 			
 Parents/Guardians can refer to the following materials listed below for additional information on the NDLP:<br><br>
 			<a href="files/NDLP%20@%20YCKSS/YCKSS%20NDLP%20-%20Letter%20to%20Parents%202022%20Final.pdf">NDLP Principal's Letter to Parents/Guardians</a><br>
-			<a href="link">NDLP Parents' Briefing Slides (With FAQs)</a><br>
-			<a href="link">Parent Handbook I (Learning with a Personal Learning Device)</a><br>
+			<a href="files/NDLP%20@%20YCKSS/For%20Sharing%20NDLP%20-%20Briefing%20for%20Parents%2015%20Jan%202022.pdf">NDLP Parents' Briefing Slides (With FAQs)</a><br>
+			<a href="files/NDLP%20@%20YCKSS/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf">Parent Handbook I (Learning with a Personal Learning Device)</a><br>
 			<a href="link">Parent Handbook II (Learning with a Personal Learning Device)</a><br>
 			</p>
 
