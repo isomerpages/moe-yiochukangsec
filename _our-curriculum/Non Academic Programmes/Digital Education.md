@@ -120,7 +120,11 @@ The <b>Acceptable Use Policy (AUP)</b> sets out the rules and regulations that
 			
 <b>References & Enquiries</b><br><br>
 			
-			Parents/Guardians can refer to the following materials listed below for additional information on the NDLP:
+Parents/Guardians can refer to the following materials listed below for additional information on the NDLP:<br><br>
+			<a href="link">text</a><br>
+			<a href="link">text</a><br>
+			<a href="link">text</a><br>
+			<a href="link">text</a><br>
 			</p>
 
     </div>
