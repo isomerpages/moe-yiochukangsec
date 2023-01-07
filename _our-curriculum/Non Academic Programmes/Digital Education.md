@@ -24,7 +24,11 @@ Recognising that through the digital tools, students have a window to the world,
 
     <div>
 
-<p> <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/NDLP%20@%20YCKSS/N1.png"> </p>
+<p> <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/NDLP%20@%20YCKSS/N1.png"><br>
+			
+Digital Literacies better enable our students, at different stages of their education journey, to acquire the digital skills required to navigate the digital age through four mutually reinforcing components in the <a href="https://www.moe.gov.sg/microsites/cos2020/refreshing-our-curriculum/strengthen-digital-literacy.html">‘Find, Think, Apply and Create’</a> framework. 
+
+At YCKSS, we have customised this into <b>our Digital Education Framework.</b><br><br> </p>
 
     </div>
 
