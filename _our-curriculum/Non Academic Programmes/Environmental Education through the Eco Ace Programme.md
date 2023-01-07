@@ -60,7 +60,15 @@ Through various platforms such as Values-in-Action Programme, Service Learning a
 
     <div>
 
-      <p> </p>
+<p> <i>A community of innovators who creates sustainable ideas and green initiatives.</i><br>
+
+As a community of innovators, the school created and installed its own rainwater harvesting system. The rainwater collected in these tanks is used to water the green scape and for general cleaning of the school.<br>
+
+The school also has 59 solar panels that are grid-tied to a utilities company. These panels generate a significant amount of solar energy for the school. Additional solar panels, which were installed within the sight of students, serve as an authentic learning resource for students to engage in multi-disciplinary discussions.<br>
+
+With their creativity, students have participated in external competitions and programmes to show their commitment towards environment conservation.<br>
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Environ%20Edu%20Eco%20Ace%20Program/Create/C1.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Environ%20Edu%20Eco%20Ace%20Program/Create/C2.png"></p>
 
     </div>
 
