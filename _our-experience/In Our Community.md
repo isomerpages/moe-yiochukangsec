@@ -8,3 +8,32 @@ YCKSS taps into the community resources and platforms to create opportunities to
 To find out more details of each activity, please go to [The Horizon (Our Newsletter)](https://yiochukangsec.moe.edu.sg/our-experience/the-horizon-newsletter) and also our [YCKSS Facebook Page](https://www.facebook.com/yiochukangsec) and [Instagram Posts](https://www.instagram.com/yoloyio/) for the latest updates.
 
 Look out for the more details in [The Horizon, Issue 2](/files/In%20Our%20Community/The%20Horizon%20Issue%202%20(July%20-%20Nov%202018).pdf).
+
+<ul class="jekyllcodex_accordion">
+
+  <li>
+
+    <input type="checkbox" id="accordion1">
+
+    <label for="accordion1">Booklists</label>
+
+    <div>
+
+<p> </p>
+
+    </div>
+
+</li>
+	<li>
+
+    <input type="checkbox" id="accordion2">
+
+    <label for="accordion2">Exam Timetables</label>
+
+    <div>
+
+      <p> </p>
+
+    </div>
+
+</li>
