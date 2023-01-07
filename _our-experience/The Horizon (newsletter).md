@@ -29,3 +29,17 @@ FULL HBL AND MAY SCHOOL HOLIDAYS](https://www.youtube.com/watch?v=mYRZgy5c-fs&fe
 
 [PART 3 - JUNE TO OCTOBER  
 SCHOOL RE-OPENS TO A NEW NORMAL](https://youtu.be/BDBEUba8dyc)
+
+
+### **Additional Articles & News Broadcast**
+
+The first day of school re-opening on 2 June 2020, saw reporters from different news channels visiting the school.
+
+You can read the articles or watch the news broadcast via the links below.
+
+*   [MINISTRY OF EDUCATION](https://twitter.com/moesg/status/1267807153559007234?lang=en)
+*   [8视界新闻新加坡 8WORLD NEWS](https://www.8world.com/news/singapore/article/singapore-covid-19-school-reopen-1150671?fbclid=IwAR0W4o5g-hJD0xwqvStdhjnBfx5AOTNY2Wye3-OPIzB379FV5JwfKnJgJ6w)
+*   [MOTHERSHIP.SG](https://mothership.sg/2020/06/schools-post-circuit-breaker/)
+*   [REUTERS](https://www.reuters.com/article/us-health-coronavirus-singapore-reopenin/schools-reopen-as-singapore-eases-lockdown-restrictions-idUSKBN2390G8)
+*   [YAHOO! SINGAPORE](https://sg.news.yahoo.com/schools-reopen-singapore-eases-lockdown-045107168.html)
+
