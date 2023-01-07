@@ -34,7 +34,7 @@ Look out for the more details in [The Horizon, Issue 2](/files/In%20Our%20Commu
 
     <div>
 
-      <p> </p>
+<p>The <b>Media & Design Festival</b> has been organised annually since 2003 to promote Infocomm Technology (ICT) excellence among N6 Cluster Primary four, five and six students, as well as to develop the leadership capacity of Yio Chu Kang Secondary School students in playing the role of student instructors. </p>
 
     </div>
 
