@@ -192,7 +192,40 @@ Students had the opportunity to try and experiment with the various cool new tec
 
     <div>
 
-<p> </p>
+<p> The annual <b>YCKSS Cyber Wellness Week</b> provides a platform for students to advocate and raise awareness of key cyber wellness messages among their peers.<br>
+
+Organised by the team of <b>Cyber Wellness Student Ambassadors</b>, the activities include:<br><br>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Morning assembly programmes through student-led presentations, videos and quizzes;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Booths &amp; activities during recess and after school</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Poster displays around our school and classrooms</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Cyber wellness booth by Fei Yue Community Services</td>
+  </tr>
+</tbody>
+</table><br><br>
+
+<b>Cyberwellness Week Photos</b><br>
+			
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/Digital%20Wellness/D1.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/Digital%20Wellness/D2.png"></p>
 
   </div>
 
