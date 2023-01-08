@@ -150,7 +150,110 @@ Students’ overall results (except those of graduating classes) are based on bo
 
     <div>
 
-      <p> </p>
+<p> <b>Express Course</b><br>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9hzb"><span style="font-weight:bolder">Level</span></th>
+    <th class="tg-9hzb"><span style="font-weight:bolder">Criteria for Promotion</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7yig">1E</td>
+    <td class="tg-ktyi">Pass in EL and a pass  in overall percentage of all subjects combined</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">2E</td>
+    <td class="tg-ktyi">Pass in EL and a pass  in overall percentage of all subjects combined</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">3E</td>
+    <td class="tg-ktyi">Grade 6 or better in EL and 2 other subjects</td>
+  </tr>
+</tbody>
+</table><br><br>
+			<b>Normal (Academic) Course</b>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9hzb"><span style="font-weight:bolder">Level</span></th>
+    <th class="tg-9hzb"><span style="font-weight:bolder">Criteria for Promotion</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7yig">1N(A)</td>
+    <td class="tg-ktyi">Grade 5 or better in<br><br>EL and 2 other subjects or<br><br>4 subjects<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">2N(A)</td>
+    <td class="tg-ktyi">Grade 5 or better in<br><br>EL and 2 other subjects or<br><br>4 subjects<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">3N(A)</td>
+    <td class="tg-ktyi">Grade 5 or better in<br><br>EL and 2 other subjects or<br><br>4 subjects<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">4N(A)</td>
+    <td class="tg-ktyi"><br>ELMAB3 (English Language, Mathematics and best three other subjects) aggregate score of 19 points or less; and,<br><br>At least an N(A)-level grade 5 for all subjects used in the computation of ELMAB3.<br><br>Additional Pathways for Sec 4N(A) graduates include the following:<br><br>Direct –Entry-Scheme to Polytechnic Programme (DPP)<br>Polytechnic Foundation Programme (PFP)</td>
+  </tr>
+</tbody>
+</table><br><br>
+			<b>Normal (Technical) Course</b><br>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9hzb"><span style="font-weight:bolder">Level</span></th>
+    <th class="tg-9hzb"><span style="font-weight:bolder">Criteria for Promotion</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7yig">1N(T)</td>
+    <td class="tg-ktyi">Grade D or better in 2 subjects, one of which should be EL or Math</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">2N(T)</td>
+    <td class="tg-ktyi">Grade D or better in 2 subjects, one of which should be EL or Math</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">3N(T)</td>
+    <td class="tg-ktyi">Grade D or better in 2 subjects, one of which should be EL or Math</td>
+  </tr>
+</tbody>
+</table>
+			</p>
 
     </div>
 
