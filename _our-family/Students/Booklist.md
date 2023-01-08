@@ -51,3 +51,25 @@ third_nav_title: Students
   </tr>
 </tbody>
 </table>
+
+Casco Educational Supply Pte Ltd
+
+10 Ubi Crescent #01-02
+
+Ubi Tech Park
+
+Singapore 408564
+
+Tel : (65) 65474203 
+
+Fax : (65) 65474305
+
+Website : www.cascoedusupply.com.sg
+
+  
+
+School term opening hours 
+
+Monday to Thursday : 7.30am to 3.00pm
+
+Friday : 7.30am to 2.00pm
