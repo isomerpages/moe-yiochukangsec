@@ -166,10 +166,10 @@ Click the links below for details. This will be refreshed for each term.
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/2022%20Term3%20Assessment/Sec%204NT%20Prelim%20Schedule%20003.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 4NT </span></a></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/Sec%204NT%20Prelim%20Schedule%20003.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 4NT </span></a></td>
   </tr>
   <tr>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/2022%20Term3%20Assessment/Sec%204NA%20Prelim%20Schedule.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 4NA </span></a></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/Sec%204NA%20Prelim%20Schedule.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 4NA </span></a></td>
   </tr>
 </tbody>
 </table>
