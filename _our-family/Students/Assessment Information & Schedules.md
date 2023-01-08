@@ -14,7 +14,7 @@ Click the links below for details. This will be refreshed for each term.
 
 #### **Assessment Rules & Regulations**
 
- [Weighted Assessment Rules & Regulations 2022](https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/YCKSS%20Weighted%20Assessment%20Rules%20and%20Regulations.pdf) **(updated on 27 Jan 2022)**
+ [Weighted Assessment Rules & Regulations 2022](/files/Students/Assessment%20Information%20Sche/YCKSS%20Weighted%20Assessment%20Rules%20and%20Regulations.pdf) **(updated on 27 Jan 2022)**
 
 #### **EOY Examination Schedule 2022** 
 **(updated on 27 Sep 2022)**
