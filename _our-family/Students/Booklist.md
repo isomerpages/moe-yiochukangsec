@@ -26,28 +26,28 @@ third_nav_title: Students
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7q4r"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Booklist/2023%20Booklist/Secondary%201%20Express%20updated%2019%20Dec.pdf"><span style="text-decoration:none;color:#1E87F0">Secondary 1 Express</span></a><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Booklist/2023%20Booklist/Secondary%201%20Express%20updated%2019%20Dec.pdf"> </a>(updated 19 Dec 22)<br></td>
-    <td class="tg-7q4r"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Booklist/2023%20Booklist/Secondary%202%20Express.pdf"><span style="text-decoration:none;color:#1E87F0">Secondary 2 Express</span></a> (updated 26 Oct 22)<br></td>
-    <td class="tg-7q4r"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Booklist/2023%20Booklist/Secondary%203%20Express.pdf"><span style="text-decoration:none;color:#1E87F0">Secondary 3 Express</span></a> (updated 26 Oct 22)<br></td>
-    <td class="tg-7q4r"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Booklist/2023%20Booklist/Secondary%204%20Express.pdf"><span style="text-decoration:none;color:#1E87F0">Secondary 4 Express </span></a>(updated 26 Oct 22)<br></td>
+    <td class="tg-7q4r"><a href="/files/Students/Booklist/Secondary%201%20Express%20updated%2019%20Dec.pdf"><span style="text-decoration:none;color:#1E87F0">Secondary 1 Express</span></a><a href="/files/Students/Booklist/Secondary%201%20Express%20updated%2019%20Dec.pdf"> </a>(updated 19 Dec 22)<br></td>
+    <td class="tg-7q4r"><a href="/files/Students/Booklist/Secondary%202%20Express.pdf"><span style="text-decoration:none;color:#1E87F0">Secondary 2 Express</span></a> (updated 26 Oct 22)<br></td>
+    <td class="tg-7q4r"><a href="/files/Students/Booklist/Secondary%203%20Express.pdf"><span style="text-decoration:none;color:#1E87F0">Secondary 3 Express</span></a> (updated 26 Oct 22)<br></td>
+    <td class="tg-7q4r"><a href="/files/Students/Booklist/Secondary%204%20Express.pdf"><span style="text-decoration:none;color:#1E87F0">Secondary 4 Express </span></a>(updated 26 Oct 22)<br></td>
   </tr>
   <tr>
-    <td class="tg-7q4r"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Booklist/2023%20Booklist/Secondary%201%20Normal%20Academic%20updated%2019%20Dec.pdf"><span style="text-decoration:none;color:#1E87F0">Secondary 1 Normal (Academic)</span></a>  ( updated 19 Dec 22)</td>
-    <td class="tg-7q4r"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Booklist/2023%20Booklist/Secondary%202%20Normal%20Academic.pdf"><span style="text-decoration:none;color:#1E87F0">Secondary 2 Normal (Academic) </span></a> (updated 26 Oct 22)<br></td>
-    <td class="tg-ktyi"> <a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Booklist/2023%20Booklist/Secondary%203%20Normal%20Academic.pdf"><span style="text-decoration:none;color:#1E87F0">Secondary 3 Normal (Academic) </span></a> (updated 26 Oct  22)<br></td>
-    <td class="tg-ktyi"> <a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Booklist/2023%20Booklist/Secondary%204%20Normal%20Academic.pdf"><span style="text-decoration:none;color:#1E87F0">Secondary 4 Normal (Academic)</span></a> (updated 26 Oct 22)<br></td>
+    <td class="tg-7q4r"><a href="/files/Students/Booklist/Secondary%201%20Normal%20Academic%20updated%2019%20Dec.pdf"><span style="text-decoration:none;color:#1E87F0">Secondary 1 Normal (Academic)</span></a>  ( updated 19 Dec 22)</td>
+    <td class="tg-7q4r"><a href="/files/Students/Booklist/Secondary%202%20Normal%20Academic.pdf"><span style="text-decoration:none;color:#1E87F0">Secondary 2 Normal (Academic) </span></a> (updated 26 Oct 22)<br></td>
+    <td class="tg-ktyi"> <a href="/files/Students/Booklist/Secondary%203%20Normal%20Academic.pdf"><span style="text-decoration:none;color:#1E87F0">Secondary 3 Normal (Academic) </span></a> (updated 26 Oct  22)<br></td>
+    <td class="tg-ktyi"> <a href="/files/Students/Booklist/Secondary%204%20Normal%20Academic.pdf"><span style="text-decoration:none;color:#1E87F0">Secondary 4 Normal (Academic)</span></a> (updated 26 Oct 22)<br></td>
   </tr>
   <tr>
-    <td class="tg-7q4r"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Booklist/2023%20Booklist/Secondary%201%20Normal%20Technical%20updated%2019%20Dec.pdf"><span style="text-decoration:none;color:#1E87F0">Secondary 1 Normal (Technical)</span></a><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Booklist/1NT%202021.pdf"> </a>( updated 19 Dec 22)<br></td>
-    <td class="tg-7q4r"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Booklist/2023%20Booklist/Secondary%202%20Normal%20Technical.pdf"><span style="text-decoration:none;color:#1E87F0">Secondary 2 Normal Technical</span></a>  (updated 26 Oct 22)<br></td>
-    <td class="tg-7q4r"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Booklist/2023%20Booklist/Secondary%203%20Normal%20Technical.pdf"><span style="text-decoration:none;color:#1E87F0">Secondary 3 Normal (Technical)</span></a> (updated 26 Oct 22)<br></td>
-    <td class="tg-7q4r"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Booklist/2023%20Booklist/Secondary%204%20Normal%20Technical.pdf"><span style="text-decoration:none;color:#1E87F0">Secondary 4 Normal (Technical)</span></a> (updated 26 Oct 22)<br></td>
+    <td class="tg-7q4r"><a href="/files/Students/Booklist/Secondary%201%20Normal%20Technical%20updated%2019%20Dec.pdf"><span style="text-decoration:none;color:#1E87F0">Secondary 1 Normal (Technical)</span></a><a href="/files/Students/Booklist/Secondary%201%20Normal%20Technical%20updated%2019%20Dec.pdf"> </a>( updated 19 Dec 22)<br></td>
+    <td class="tg-7q4r"><a href="/files/Students/Booklist/Secondary%202%20Normal%20Technical.pdf"><span style="text-decoration:none;color:#1E87F0">Secondary 2 Normal Technical</span></a>  (updated 26 Oct 22)<br></td>
+    <td class="tg-7q4r"><a href="/files/Students/Booklist/Secondary%203%20Normal%20Technical.pdf"><span style="text-decoration:none;color:#1E87F0">Secondary 3 Normal (Technical)</span></a> (updated 26 Oct 22)<br></td>
+    <td class="tg-7q4r"><a href="/files/Students/Booklist/Secondary%204%20Normal%20Technical.pdf"><span style="text-decoration:none;color:#1E87F0">Secondary 4 Normal (Technical)</span></a> (updated 26 Oct 22)<br></td>
   </tr>
   <tr>
     <td class="tg-f4yw"> <br></td>
     <td class="tg-f4yw"> <br></td>
     <td class="tg-f4yw"> <br></td>
-    <td class="tg-7q4r"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Booklist/2023%20Booklist/Secondary%205%20Normal%20Academic.pdf"><span style="text-decoration:none;color:#1E87F0"> Secondary 5 Normal (Academic)</span></a> (updated 26 Oct 22) </td>
+    <td class="tg-7q4r"><a href="/files/Students/Booklist/Secondary%205%20Normal%20Academic.pdf"><span style="text-decoration:none;color:#1E87F0"> Secondary 5 Normal (Academic)</span></a> (updated 26 Oct 22) </td>
   </tr>
 </tbody>
 </table>
