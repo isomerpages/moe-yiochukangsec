@@ -75,9 +75,9 @@ Click the links below for details. This will be refreshed for each term.
     <td class="tg-lygy"><a href="/files/Students/Assessment%20Information%20Sche/2022%20EOY%20%20Subject%20InformationSec%201NAv2.pdf">Sec 1NA  </a><a href="/files/Students/Assessment%20Information%20Sche/2022%20EOY%20%20Subject%20InformationSec%201NAv2.pdf"><span style="text-decoration:none;color:#1E87F0"> </span></a></td>
   </tr>
   <tr>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/2022%20Assessment/2022%20EOY%20Sec1-3/2022%20EOY%20%20Subject%20Information%20Sec%203NT.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 3NT </span></a></td>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/2022%20Assessment/2022%20EOY%20Sec1-3/2022%20EOY%20%20Subject%20Information%20Sec%202NT.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 2NT  </span></a></td>
-    <td class="tg-hmcn"><br><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/2022%20Assessment/2022%20EOY%20%20Subject%20InformationSec%201NTv2.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 1 NT</span></a>   <span style="color:#222;background-color:transparent"> </span><br></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/2022%20EOY%20%20Subject%20Information%20Sec%203NT.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 3NT </span></a></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/2022%20EOY%20%20Subject%20Information%20Sec%202NT.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 2NT  </span></a></td>
+    <td class="tg-hmcn"><br><a href="/files/Students/Assessment%20Information%20Sche/2022%20EOY%20%20Subject%20Information%20Sec%201NT.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 1 NT</span></a>   <span style="color:#222;background-color:transparent"> </span><br></td>
   </tr>
 </tbody>
 </table>
