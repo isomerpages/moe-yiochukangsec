@@ -31,8 +31,8 @@ Click the links below for details. This will be refreshed for each term.
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-sbmz"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/2022%20Term3%20Assessment/Sec%201%20%202%20EOY%20Exam%20Timetable%20YCKSS%202022.pdf"><span style="text-decoration:underline;color:#0F6ECD">Sec 1 &amp; 2</span></a></td>
-    <td class="tg-4y96"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/2022%20Term3%20Assessment/Sec_3_EOY_Timetable%20Combined_Updated.pdf">Sec 3 </a></td>
+    <td class="tg-sbmz"><a href="/files/Students/Assessment%20Information%20Sche/Sec%201%20%202%20EOY%20Exam%20Timetable%20YCKSS%202022.pdf"><span style="text-decoration:underline;color:#0F6ECD">Sec 1 &amp; 2</span></a></td>
+    <td class="tg-4y96"><a href="/files/Students/Assessment%20Information%20Sche/Sec_3_EOY_Timetable%20Combined_Updated.pdf">Sec 3 </a></td>
   </tr>
 </thead>
 </table>
