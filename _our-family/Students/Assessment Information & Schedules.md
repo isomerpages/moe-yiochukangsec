@@ -67,7 +67,7 @@ Click the links below for details. This will be refreshed for each term.
   <tr>
     <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/2022%20EOY%20%20Subject%20Information%20Sec%203E.pdf">Sec 3E</a><a href="/files/Students/Assessment%20Information%20Sche/2022%20EOY%20%20Subject%20Information%20Sec%203E.pdf"><span style="text-decoration:none;color:#1E87F0"> </span></a></td>
     <td class="tg-nl4o"><a href="/files/Students/Assessment%20Information%20Sche/2022%20EOY%20%20Subject%20Information%20Sec%202E.pdf"><span style="font-weight:400">Sec 2E </span></a><a href="/files/Students/Assessment%20Information%20Sche/2022%20EOY%20%20Subject%20Information%20Sec%202E.pdf"> </a></td>
-    <td class="tg-nl4o"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/2022%20Assessment/2022%20EOY%20%20Subject%20InformationSec%201Ev2.pdf"><span style="font-weight:400">Sec 1E </span></a></td>
+    <td class="tg-nl4o"><a href="/files/Students/Assessment%20Information%20Sche/2022%20EOY%20%20Subject%20Information%20Sec%201E.pdf"><span style="font-weight:400">Sec 1E </span></a></td>
   </tr>
   <tr>
     <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/2022%20Assessment/2022%20EOY%20Sec1-3/2022%20EOY%20%20Subject%20Information%20Sec%203NA.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 3NA  </span></a><span style="color:#222;background-color:transparent"> </span></td>
