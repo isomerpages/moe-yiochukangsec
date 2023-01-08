@@ -12,7 +12,7 @@ Students’ overall results (except those of graduating classes) are based on bo
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Booklists</label>
+    <label for="accordion1">Academic Matters</label>
 
     <div>
 
@@ -25,7 +25,7 @@ Students’ overall results (except those of graduating classes) are based on bo
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Exam Timetables</label>
+    <label for="accordion2">Promotion Criteria</label>
 
     <div>
 
@@ -39,7 +39,7 @@ Students’ overall results (except those of graduating classes) are based on bo
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Letter to Parents 2022</label>
+    <label for="accordion3">Rules and Regulations</label>
 
     <div>
 
