@@ -102,7 +102,7 @@ Click the links below for details. This will be refreshed for each term.
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/2022%20Assessment/Sec%204E5N%20%20Prelim%20schedule%202022updated%20copy.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 4E &amp;5N</span></a></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/Sec%204E5N%20%20Prelim%20schedule%202022updated%20copy.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 4E &amp;5N</span></a></td>
   </tr>
 </tbody>
 </table>
