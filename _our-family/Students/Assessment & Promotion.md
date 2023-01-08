@@ -222,7 +222,7 @@ Students’ overall results (except those of graduating classes) are based on bo
 </table><br><br>
 			<b>Normal (Technical) Course</b><br>
 			
-			</p>
+</p>
 
     </div>
 
