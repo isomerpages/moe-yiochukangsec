@@ -201,9 +201,9 @@ Click the links below for details. This will be refreshed for each term.
     <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/Secondary%201%20Weighted%20AssessmentTerm%202%20Schedule%202022%201E.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 1E</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/WA%20Term2%202022/Secondary%203%20Weighted%20Assessment%20Schedule%20Term%202%2020223NA.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 3NA  </span></a></td>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/WA%20Term2%202022/Secondary%202%20Weighted%20AssessmentTerm%202%20Schedule%2020222NA.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 2NA  </span></a></td>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/WA%20Term2%202022/Secondary%201%20Weighted%20AssessmentTerm%202%20Schedule%2020221NA.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 1NA  </span></a></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/Secondary%203%20Weighted%20Assessment%20Schedule%20Term%202%2020223NA.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 3NA  </span></a></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/Secondary%202%20Weighted%20AssessmentTerm%202%20Schedule%2020222NA.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 2NA  </span></a></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/Secondary%201%20Weighted%20AssessmentTerm%202%20Schedule%2020221NA.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 1NA  </span></a></td>
   </tr>
   <tr>
     <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/WA%20Term2%202022/Secondary%203%20Weighted%20Assessment%20Schedule%20Term%202%2020223NT.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 3NT </span></a></td>
