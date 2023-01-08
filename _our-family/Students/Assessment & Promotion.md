@@ -135,7 +135,7 @@ Students’ overall results (except those of graduating classes) are based on bo
   </tr>
 </tbody>
 </table><br>
-			* End- Of-Course assessment comprises a Coursework & a Theory Component<br><br>
+			*End- Of-Course assessment comprises a Coursework & a Theory Component<br><br>
 			Absenteeism from any SBA must be supported with a <b>valid medical certificate</b>. Otherwise, a zero mark will be awarded for the paper. If a student is unable to sit for any SBA due to adverse conditions (e.g. bereavement), the student must seek approval from the school with the relevant supporting documents (e.g.  death certificate).
 			</p>
 
