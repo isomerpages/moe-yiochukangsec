@@ -12,11 +12,12 @@ Click the links below for details. This will be refreshed for each term.
 
   
 
- **Assessment Rules & Regulations**
+#### **Assessment Rules & Regulations**
 
  [Weighted Assessment Rules & Regulations 2022](https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/YCKSS%20Weighted%20Assessment%20Rules%20and%20Regulations.pdf) **(updated on 27 Jan 2022)**
 
-**EOY Examination Schedule 2022** **(updated on 27 Sep 2022)**
+#### **EOY Examination Schedule 2022** 
+**(updated on 27 Sep 2022)**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -36,7 +37,8 @@ Click the links below for details. This will be refreshed for each term.
 </thead>
 </table>
 
-**EOY Subject Information 2022**  **(updated on 9 September 2022)**
+#### **EOY Subject Information 2022**  
+**(updated on 9 September 2022)**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -80,7 +82,8 @@ Click the links below for details. This will be refreshed for each term.
 </tbody>
 </table>
 
-**O Level Preliminary Examination Schedule 2022** **(updated on 4 August 2022)**
+#### **O Level Preliminary Examination Schedule 2022** 
+**(updated on 4 August 2022)**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -104,7 +107,7 @@ Click the links below for details. This will be refreshed for each term.
 </tbody>
 </table>
 
-**Weighted Assessment (Term 3) Subject Information & Schedule 2022**
+#### **Weighted Assessment (Term 3) Subject Information & Schedule 2022**
 **(updated on 22 July 2022)**
 
 <style type="text/css">
@@ -143,7 +146,8 @@ Click the links below for details. This will be refreshed for each term.
 </tbody>
 </table>
 
- **N Level Preliminary Examination Schedule 2022** **(updated on 14 July 2022)**
+####  **N Level Preliminary Examination Schedule 2022**
+**(updated on 14 July 2022)**
  
  <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -170,7 +174,8 @@ Click the links below for details. This will be refreshed for each term.
 </tbody>
 </table>
 
-**Weighted Assessment (Term 2) Subject Information & Schedule 2022** **(updated on 13 April 2022)**
+#### **Weighted Assessment (Term 2) Subject Information & Schedule 2022** 
+**(updated on 13 April 2022)**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -208,7 +213,7 @@ Click the links below for details. This will be refreshed for each term.
 </tbody>
 </table>
 
-**MYE Subject Information & Schedule 2022**
+#### **MYE Subject Information & Schedule 2022**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -246,7 +251,8 @@ Click the links below for details. This will be refreshed for each term.
 </tbody>
 </table>
 
-**Weighted Assessment (Term1) Subject Information & Schedule 2022** **(updated on 27 Jan 2022)**
+#### **Weighted Assessment (Term1) Subject Information & Schedule 2022** 
+**(updated on 27 Jan 2022)**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
