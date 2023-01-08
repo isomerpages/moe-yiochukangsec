@@ -260,7 +260,8 @@ Students’ overall results (except those of graduating classes) are based on bo
     <td class="tg-f4yw">Any student caught cheating or attempting to cheat will be severely dealt with. <span style="font-weight:bolder">A zero mark will be awarded for the paper if investigations by the school confirm that cheating or an attempt to cheat has taken place. </span></td>
   </tr>
 </tbody>
-</table> </p>
+</table> 
+			</p>
 
     </div>
 
