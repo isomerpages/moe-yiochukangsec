@@ -274,22 +274,22 @@ Click the links below for details. This will be refreshed for each term.
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/Secondary%204E5N%20Weighted%20Assessment%20Schedule%20Term%201%202022.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 4E &amp; 5N</span></a></td>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/Secondary%203E%20Weighted%20Assessment%20Schedule%20Term%201%202022n.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 3E</span></a><br></td>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/Secondary%202E%20Weighted%20AssessmentTerm%201%20Schedule%202022n.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 2E</span></a><br></td>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/Secondary%201E%20Weighted%20AssessmentTerm%201%20Schedule%202022.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 1E</span></a><br></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/Secondary%204E5N%20Weighted%20Assessment%20Schedule%20Term%201%202022.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 4E &amp; 5N</span></a></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/Secondary%203E%20Weighted%20Assessment%20Schedule%20Term%201%202022n.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 3E</span></a><br></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/Secondary%202E%20Weighted%20AssessmentTerm%201%20Schedule%202022n.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 2E</span></a><br></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/Secondary%201E%20Weighted%20AssessmentTerm%201%20Schedule%202022.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 1E</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/Secondary%204NA%20Weighted%20Assessment%20Schedule%20Term%201%202022.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 4NA </span></a></td>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/Secondary%203NA%20Weighted%20Assessment%20Schedule%20Term%201%202022n.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 3NA  </span></a></td>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/Secondary%202NA%20Weighted%20AssessmentTerm%201%20Schedule%202022n.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 2NA  </span></a></td>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/Secondary%201NA%20Weighted%20AssessmentTerm%201%20Schedule%202022.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 1NA  </span></a></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/Secondary%204NA%20Weighted%20Assessment%20Schedule%20Term%201%202022.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 4NA </span></a></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/Secondary%203NA%20Weighted%20Assessment%20Schedule%20Term%201%202022n.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 3NA  </span></a></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/Secondary%202NA%20Weighted%20AssessmentTerm%201%20Schedule%202022n.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 2NA  </span></a></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/Secondary%201NA%20Weighted%20AssessmentTerm%201%20Schedule%202022.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 1NA  </span></a></td>
   </tr>
   <tr>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/Secondary%204NT%20Weighted%20Assessment%20Schedule%20Term%201%202022.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 4NT </span></a></td>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/Secondary%203NT%20Weighted%20Assessment%20Schedule%20Term%201%202022n.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 3NT</span></a><span style="color:#222;background-color:transparent"> </span></td>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/Secondary%202NT%20Weighted%20AssessmentTerm%201%20Schedule%202022n.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 2NT</span></a><span style="color:#222;background-color:transparent">  </span></td>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/Secondary%201NT%20Weighted%20AssessmentTerm%201%20Schedule%202022.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 1NT  </span></a></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/Secondary%204NT%20Weighted%20Assessment%20Schedule%20Term%201%202022.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 4NT </span></a></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/Secondary%203NT%20Weighted%20Assessment%20Schedule%20Term%201%202022n.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 3NT</span></a><span style="color:#222;background-color:transparent"> </span></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/Secondary%202NT%20Weighted%20AssessmentTerm%201%20Schedule%202022n.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 2NT</span></a><span style="color:#222;background-color:transparent">  </span></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/Secondary%201NT%20Weighted%20AssessmentTerm%201%20Schedule%202022.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 1NT  </span></a></td>
   </tr>
 </tbody>
 </table>
