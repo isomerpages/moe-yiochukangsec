@@ -237,16 +237,16 @@ Click the links below for details. This will be refreshed for each term.
     <td class="tg-plv8">Schedule<br><br>(updated on 7 April 2022)</td>
   </tr>
   <tr>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/2022%20Assessment/2022%204E5N%20Mid-Year%20Subject%20Information.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 4E &amp; 5N</span></a> <br></td>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/2022%20Assessment/Sec%204E5NMYE%20Scheduleupdated070422.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 4E5N</span></a></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/2022%204E5N%20Mid-Year%20Subject%20Information.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 4E &amp; 5N</span></a> <br></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/Sec%204E5NMYE%20Scheduleupdated070422.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 4E5N</span></a></td>
   </tr>
   <tr>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/2022%20Assessment/2022%204NA%20Mid-Year%20Subject%20Information.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 4NA</span></a> </td>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/2022%20Assessment/Sec%204NA%20MYE%20Schedule.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 4NA</span></a></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/2022%204NA%20Mid-Year%20Subject%20Information.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 4NA</span></a> </td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/Sec%204NA%20MYE%20Schedule.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 4NA</span></a></td>
   </tr>
   <tr>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/2022%20Assessment/2022%204NT%20Mid-Year%20Subject%20Information.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 4NT</span></a> <br><br></td>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/2022%20Assessment/Sec%204NT%20MYE%20Schedule.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 4NT</span></a></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/2022%204NT%20Mid-Year%20Subject%20Information.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 4NT</span></a> <br><br></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/Sec%204NT%20MYE%20Schedule.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 4NT</span></a></td>
   </tr>
 </tbody>
 </table>
