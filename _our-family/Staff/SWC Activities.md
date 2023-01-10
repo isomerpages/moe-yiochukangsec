@@ -94,16 +94,7 @@ It was indeed a great way to end the day and we had an enjoyable bonding session
 	
 <img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Social/S18.png">
 	<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Social/S19.png">
-	
-	
-
-
-	
-
-
-
-
-			</p>
+		</p>
 
     </div>
 
