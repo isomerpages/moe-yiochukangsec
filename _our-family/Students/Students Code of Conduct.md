@@ -235,7 +235,10 @@ e.g. suspension.
 
     <div>
 
-<p> </p>
+<p> <b>RULES, RESPECT & RESPONSIBILITIES</b>
+
+All Yio Chu Kang Secondary School students are taught to respect the rights of others through responsible thinking by learning to obey instructions and rules.
+			</p>
 
     </div>
 
