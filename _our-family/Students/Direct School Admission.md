@@ -16,8 +16,8 @@ In DSA-Sec Exercise 2022, we are looking for promising Primary Six students or s
 
 #### **Clubs**
 **[Click here](/files/Students/Direct%20School%20Admission/2%20DIRECT%20SCHOOL%20ADMISSION%20for%20CLUBS.pdf)**
-*   [Digital Animation](https://yiochukangsec-moe-edu-sg-admin.cwp.sg/our-curriculum/non-academic-programmes/co-curricular-activities/clubs/digital-animation-club)
-*   [Media Club (Audio-Visual, Photography & Videography)](https://yiochukangsec-moe-edu-sg-admin.cwp.sg/our-curriculum/non-academic-programmes/co-curricular-activities/clubs/media-club-audio-visual-photography-n-videography)
+*   [Digital Animation](/cca/Clubs/Digital-Animation-Club/)
+*   [Media Club (Audio Visual, Photography & Videography)](/cca/Clubs/Media-Club-Audio-Visual-Photography-Videography/)
 *   _Digital Animation and Media Club are closely tied to our Visual Arts, Media and Design in Learning for Life Programme [(click here)](https://yiochukangsec.moe.edu.sg/our-curriculum/distinctive-programmes/learning-for-life-programme)_
     
 *   [MARs Club (Mechatronics, Aeronautics and Robotics)](https://yiochukangsec-moe-edu-sg-admin.cwp.sg/our-curriculum/non-academic-programmes/co-curricular-activities/clubs/mars-club-mechatronics-aeronautics-and-robotics)
