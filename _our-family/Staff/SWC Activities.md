@@ -53,8 +53,46 @@ It was a memorable day of bonding. There were 'wow’ moments when staff finall
 	
 <img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Social/S8.png"><br><br>
 	
-<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Social/S9.png">
-<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Social/S10.png">
+<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Social/S9.png"><br><br>
+	
+<b>Title of activity:</b> CNY Calligraphy session<br>  
+
+	<b>Description of event:</b><br>
+
+To welcome the TIGER New Year and to encourage bonding among the staff, the SWC organized a CNY Calligraphy session for staff on the 13 January 2022, Thursday. About 40 staff participated in the session.<br>
+
+Staff were diligently practising the strokes for "Hui Chun", attired in traditional costumes or red, orange and yellow-coloured clothing. They enjoyed themselves immensely. This joy was felt through the infectious laughter and friendly conversations within the YCKSS family.<br><br>
+	
+<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Social/S10.png"><br><br>
+	
+<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Social/S12.png">
+	<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Social/S12.png">
+	<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Social/S13.png"><br><br>
+	
+<b>Title of activity:</b> Chinese New Year Celebration - Lohei<br>   
+
+<b>Description of event:</b><br>
+
+Every year, the staff of YCKSS celebrate Chinese New Year with Lohei or 捞鱼生. This activity fosters bonding among the staff while letting all experience the vibrant traditions and culture of the Chinese.<br>
+
+<b>Quotes from participants:</b><br>
+		<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Social/S14.png"><br><br>
+	
+<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Social/S15.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Social/S16.png"><br><br>
+	
+	<b>Title of activity:</b> Durian Feast   
+
+**Description of event:**
+
+At the durian feast held on 31st July 2019, our staff were spoiled for choices. With a variety of fruits to choose from, the King of fruits was definitely the favourite. Staff who tried the Mao Shan Wang (MSW) durian, known to be the premium type, commented on its rich, bitter and heavily rich flavour.
+
+It was indeed a great way to end the day and we had an enjoyable bonding session over the feasting.
+
+**Quotes from participants:**
+	
+	
+
 
 	
 
