@@ -46,7 +46,7 @@ In DSA-Sec Exercise 2022, we are looking for promising Primary Six students or s
 *   [National Police Cadet Corps](/cca/Uniformed-Groups/NPCC/)
 *   [Red Cross Youth](/cca/Uniformed-Groups/Red-Cross-Youth/)
 
-**Click on the _[(Click here)](https://yiochukangsec.moe.edu.sg/our-family/students/direct-school-admission#)_ under each respective CCA to access the specific DSA talent areas application procedure. _(PDF Viewer required)_**
+**Click on the _[Click here](/our-family/Students/Direct-School-Admission/)_ under each respective CCA to access the specific DSA talent areas application procedure. _(PDF Viewer required)_**
 
 **Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.**
 
