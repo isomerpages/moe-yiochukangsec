@@ -36,10 +36,10 @@ In DSA-Sec Exercise 2022, we are looking for promising Primary Six students or s
 
 #### **Sports**
 **[Click here](/files/Students/Direct%20School%20Admission/4%20DIRECT%20SCHOOL%20ADMISSION%20for%20SPORTS.pdf)**
-*   [Badminton (Girls)](https://yiochukangsec.moe.edu.sg/our-curriculum/non-academic-programmes/co-curricular-activities/physical-sports/badminton-boys-n-girls)
-*   [Basketball (Boys)](https://yiochukangsec.moe.edu.sg/our-curriculum/non-academic-programmes/co-curricular-activities/physical-sports/basketball-boys)
-*   [Floorball (Boys)](https://yiochukangsec.moe.edu.sg/our-curriculum/non-academic-programmes/co-curricular-activities/physical-sports/floorball-boys)
-*   [Netball](https://yiochukangsec.moe.edu.sg/our-curriculum/non-academic-programmes/co-curricular-activities/physical-sports/netball)
+*   [Badminton (Girls)](/cca/Physical-Sports/Badminton-Boys-Girls/)
+*   [Badminton (Boys)](/cca/Physical-Sports/Badminton-Boys-Girls/)
+*   [Floorball (Boys)](/cca/Physical-Sports/Floorball-Boys/)
+*   [Netball](/cca/Physical-Sports/Netball/)
 
 #### **Uniformed Groups**
 **[Click here](/files/Students/Direct%20School%20Admission/5%20DIRECT%20SCHOOL%20ADMISSION%20for%20UGs.pdf)**
