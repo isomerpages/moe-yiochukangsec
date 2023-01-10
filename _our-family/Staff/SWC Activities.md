@@ -19,7 +19,21 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 
     <div>
 
-<p> </p>
+<p> Title of activity: <b>Chinese New Year Celebrations</b><br>
+
+<b>Description of event:</b><br>  
+
+Staff from YCKSS celebrated Chinese New Year on January 31. Every department was decked out in their best festive colours. We welcome a new but better year, and wish all divine blessings, good health and prosperity this Tiger year! Huat ah!<br><br>
+	<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Social/S1.png">
+		<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Social/S2.png">
+		<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Social/S3.png">
+		<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Social/S4.png">
+		<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Social/S5.png">
+
+
+
+
+			</p>
 
     </div>
 
