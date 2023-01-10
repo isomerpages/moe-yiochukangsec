@@ -18,10 +18,10 @@ In DSA-Sec Exercise 2022, we are looking for promising Primary Six students or s
 **[Click here](/files/Students/Direct%20School%20Admission/2%20DIRECT%20SCHOOL%20ADMISSION%20for%20CLUBS.pdf)**
 *   [Digital Animation](/cca/Clubs/Digital-Animation-Club/)
 *   [Media Club (Audio Visual, Photography & Videography)](/cca/Clubs/Media-Club-Audio-Visual-Photography-Videography/)
-*   _Digital Animation and Media Club are closely tied to our Visual Arts, Media and Design in Learning for Life Programme [(click here)](https://yiochukangsec.moe.edu.sg/our-curriculum/distinctive-programmes/learning-for-life-programme)_
+*   _Digital Animation and Media Club are closely tied to our Visual Arts, Media and Design in Learning for Life Programme [Click here](/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/)_
     
-*   [MARs Club (Mechatronics, Aeronautics and Robotics)](https://yiochukangsec-moe-edu-sg-admin.cwp.sg/our-curriculum/non-academic-programmes/co-curricular-activities/clubs/mars-club-mechatronics-aeronautics-and-robotics)
-*   _MARs is closely tied to our Applied Learning Programme (STEM) [(click here)](https://yiochukangsec.moe.edu.sg/our-curriculum/distinctive-programmes/applied-learning-programme)_
+*   [MARS Club (Mechatronics, Aeronautics and Robotics)](/cca/Clubs/MARS-CLUB-MECHATRONICS-AERONAUTICS-AND-ROBOTICS/)
+*   _MARs is closely tied to our Applied Learning Programme (STEM) [Click here](/our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/)_
 
 #### **Performing Arts**
 **[Click here](/files/Students/Direct%20School%20Admission/3%20DIRECT%20SCHOOL%20ADMISSION%20%20FOR%20Performing%20Arts.pdf)**
