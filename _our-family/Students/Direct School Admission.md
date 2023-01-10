@@ -26,13 +26,13 @@ In DSA-Sec Exercise 2022, we are looking for promising Primary Six students or s
 #### **Performing Arts**
 **[Click here](/files/Students/Direct%20School%20Admission/3%20DIRECT%20SCHOOL%20ADMISSION%20%20FOR%20Performing%20Arts.pdf)**
 
-*   [Concert Band](https://yiochukangsec.moe.edu.sg/our-curriculum/non-academic-programmes/co-curricular-activities/performing-arts/concert-band)
-*   [Choir](https://yiochukangsec.moe.edu.sg/our-curriculum/non-academic-programmes/co-curricular-activities/performing-arts/choir)
-*   [English Drama](https://yiochukangsec.moe.edu.sg/our-curriculum/non-academic-programmes/co-curricular-activities/performing-arts/english-drama)
-*   [Chinese Dance](https://yiochukangsec.moe.edu.sg/our-curriculum/non-academic-programmes/co-curricular-activities/performing-arts/chinese-dance)
-*   [Indian Dance](https://yiochukangsec.moe.edu.sg/our-curriculum/non-academic-programmes/co-curricular-activities/performing-arts/indian-dance)
-*   [Malay Dance](https://yiochukangsec.moe.edu.sg/our-curriculum/non-academic-programmes/co-curricular-activities/performing-arts/malay-dance)
-*   _All the CCAs above are closely tied to our Learning for Life Programme [(click here)](https://yiochukangsec.moe.edu.sg/our-curriculum/distinctive-programmes/learning-for-life-programme)_
+*   [Concert Band](/cca/Performing-Arts/Concert-Band/)
+*   [Choir](/cca/Performing-Arts/Choir/)
+*   [English Drama](/cca/Performing-Arts/English-Drama/)
+*   [Chinese Dance](/cca/Performing-Arts/Chinese-Dance/)
+*   [Indian Dance](/cca/Performing-Arts/Indian-Dance/)
+*   [Malay Dance](/cca/Performing-Arts/Malay-Dance/)
+*   _All the CCAs above are closely tied to our Learning for Life Programme [Click here](/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/)_
 
 #### **Sports**
 **[Click here](/files/Students/Direct%20School%20Admission/4%20DIRECT%20SCHOOL%20ADMISSION%20for%20SPORTS.pdf)**
