@@ -18,7 +18,7 @@ Parents who wish to learn more about MOE FAS may also visit MOE website at [Fin
 
 ### **Useful Links**
 
-*   [2023 MOE  FAS Application Form](https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/FAS/2023%20MOE%20FAS%20Application%20Form.pdf)
-*   [e-Voucher Redemption Process 2016](https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/2016/eVoucher%20Redemption%20Process%202016.pdf)
+*   [2023 MOE  FAS Application Form](/files/Students/Financial%20Assistance/2023%20MOE%20FAS%20Application%20Form.pdf)
+*   [e-Voucher Redemption Process 2016](/files/Students/Financial%20Assistance/eVoucher%20Redemption%20Process%202016.pdf)
 *   [List of Transit Link Ticket Offices](https://www.transitlink.com.sg/PSdetail.aspx?ty=art&Id=107)
 *   [List of Add Value Machine Plus (AVM+)](https://www.transitlink.com.sg/PSdetail.aspx?ty=art&Id=29)
