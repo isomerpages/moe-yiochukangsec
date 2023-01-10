@@ -211,7 +211,16 @@ The following list shows the guidelines for managing disciplinary offences and v
     <td class="tg-ktyi">Student will provide a written statement;<br>Parents/Guardians will need to meet P/ VPs and DM;<br>Student will be suspended immediately from School till the date of the first consultation with specialist; <br><br>“Poor” conduct grade. </td>
   </tr>
 </tbody>
-</table>
+</table><br><br>
+			
+<b>* Caning is only applicable to boys.</b>
+
+Girls are subjected to other disciplinary actions e.g. suspension.
+
+<b>* Caning is only applicable to boys.</b>
+
+Girls are subjected to other disciplinary actions  
+e.g. suspension.
 			</p>
 
     </div>
