@@ -62,8 +62,7 @@ Cardigans must not be worn except in air-conditioned rooms. Students who are fee
 Wearing of religious items is not allowed as the school is a secular public space for all students.
 
 <b>Footwear</b>  
-Only school approved white shoes and white socks are allowed. Socks must be visibly worn.  
-Sports shoes may be worn for CCAs and on special occasion such as the School Sports Carnival, with permission from the teacher-in-charge.
+Only school approved white shoes and white socks are allowed. Socks must be visibly worn. Sports shoes may be worn for CCAs and on special occasion such as the School Sports Carnival, with permission from the teacher-in-charge.
 
   
 
