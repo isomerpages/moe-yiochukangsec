@@ -30,7 +30,7 @@ ATTIRE, ATTITUDE, ATTENDANCE, ASSIGNMENTS
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Booklists</label>
+    <label for="accordion1">The 4As</label>
 
     <div>
 
@@ -43,7 +43,7 @@ ATTIRE, ATTITUDE, ATTENDANCE, ASSIGNMENTS
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Exam Timetables</label>
+    <label for="accordion2">Disciplinary Guidelines</label>
 
     <div>
 
@@ -57,7 +57,7 @@ ATTIRE, ATTITUDE, ATTENDANCE, ASSIGNMENTS
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Letter to Parents 2022</label>
+    <label for="accordion3">The 3Rs</label>
 
     <div>
 
