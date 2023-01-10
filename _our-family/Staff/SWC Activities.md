@@ -107,7 +107,32 @@ It was indeed a great way to end the day and we had an enjoyable bonding session
 
     <div>
 
-      <p> </p>
+<p> <b>Title of activity:</b> Monthly Theme Dressing<br>  
+
+  
+
+<b>Description of event:</b><br>
+
+Monthly Theme Dressing helps to bond staff and to commemorate certain events such as World Water Day, Earth Day…etc:  
+The themes so far have been:-<br>
+
+1. Valentines Day (Pink)<br>
+
+2. World Water Day (Sea of Blue)<br>
+
+3. Earth Day (Green)<br>
+
+4. White<br>
+
+5. Yellow and Gold<br>
+
+6. Rose Quartz<br>
+
+  
+
+<b>Quotes from participants:</b>
+	
+			</p>
 
     </div>
 
