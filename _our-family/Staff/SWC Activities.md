@@ -15,7 +15,7 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Booklists</label>
+    <label for="accordion1">Social</label>
 
     <div>
 
@@ -28,7 +28,7 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Exam Timetables</label>
+    <label for="accordion2">Emotional</label>
 
     <div>
 
@@ -42,7 +42,7 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Letter to Parents 2022</label>
+    <label for="accordion3">Physical</label>
 
     <div>
 
@@ -56,7 +56,7 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 
     <input type="checkbox" id="accordion4">
 
-    <label for="accordion4">PDLP 2022</label>
+    <label for="accordion4">Intellectual</label>
 
     <div>
 
