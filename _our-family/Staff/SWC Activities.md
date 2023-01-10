@@ -90,7 +90,10 @@ At the durian feast held on 31st July 2019, our staff were spoiled for choices. 
 It was indeed a great way to end the day and we had an enjoyable bonding session over the feasting.<br><br>
 
 <b>Quotes from participants:</b><br>
-<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Social/S17.png">
+<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Social/S17.png"><br>
+	
+<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Social/S18.png">
+	<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Social/S19.png">
 	
 	
 
