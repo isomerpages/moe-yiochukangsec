@@ -44,3 +44,5 @@ There are distinct level t-shirts for each cohort. They are worn during selected
   
 
 Students can purchase the t-shirts from the uniform vendor.
+
+![](/images/Our%20Family/Students/School%20Uniform/S2.png)
