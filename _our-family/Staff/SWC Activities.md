@@ -81,15 +81,16 @@ Every year, the staff of YCKSS celebrate Chinese New Year with Lohei or 捞鱼�
 <img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Social/S15.png">
 			<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Social/S16.png"><br><br>
 	
-	<b>Title of activity:</b> Durian Feast   
+<b>Title of activity:</b> Durian Feast<br>   
 
-**Description of event:**
+<b>Description of event:</b><br>
 
-At the durian feast held on 31st July 2019, our staff were spoiled for choices. With a variety of fruits to choose from, the King of fruits was definitely the favourite. Staff who tried the Mao Shan Wang (MSW) durian, known to be the premium type, commented on its rich, bitter and heavily rich flavour.
+At the durian feast held on 31st July 2019, our staff were spoiled for choices. With a variety of fruits to choose from, the King of fruits was definitely the favourite. Staff who tried the Mao Shan Wang (MSW) durian, known to be the premium type, commented on its rich, bitter and heavily rich flavour/<br>
 
-It was indeed a great way to end the day and we had an enjoyable bonding session over the feasting.
+It was indeed a great way to end the day and we had an enjoyable bonding session over the feasting.<br><br>
 
-**Quotes from participants:**
+<b>Quotes from participants:</b><br>
+<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Social/S17.png">
 	
 	
 
