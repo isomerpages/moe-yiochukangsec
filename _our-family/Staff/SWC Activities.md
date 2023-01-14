@@ -157,7 +157,7 @@ All in all, most staff gave positive feedback and are looking forward to more of
 The staff welfare committee had organised a Brunch Potluck session during Marking Day. Food has always been a successful way to bring staff from different department together. Every department was invited to bring a few different types of food. There was a splendid array of food on the table. Staff enjoyed themselves.<br>  
 
 <b>Quotes from participants:</b><br>
-	<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Emotional/E9.png">
+	<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Emotional/E9.png"><Br>
 	<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Emotional/E10.png">
 	<img style="width:60%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Emotional/E11.jpg">
 	
