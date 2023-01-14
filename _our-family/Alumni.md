@@ -135,7 +135,7 @@ This engagement session helped our younger generation – Sec 3 students to bett
 
 The first session was held on 16 July 2018. 10 Alumni stepped forward and were eager to share their own personal experiences while communicating the key messages. It was a good bonding and networking session amongst them.<br>
 	
-	<img style="width:100%;height:50%" src="/images/Our%20Family/Alumni/NSmanNSF%20Engagement%20Se%202018/N1.png">
+<img style="width:100%;height:50%" src="/images/Our%20Family/Alumni/NSmanNSF%20Engagement%20Se%202018/N1.png">
 		<img style="width:100%;height:50%" src="/images/Our%20Family/Alumni/NSmanNSF%20Engagement%20Se%202018/N2.png">
 			</p>
 
