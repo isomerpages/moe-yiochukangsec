@@ -103,7 +103,30 @@ For more resources on providing social and emotional support, affirming our chil
 
     <div>
 
-<p> </p>
+<p> <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-hmcn{background-color:#FFF;color:#1E87F0;text-align:center;vertical-align:top}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-f4yw"><img src="https://yiochukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u133/Our%20Family/Links/Schoolbag.png" alt="Schoolbag.png" width="193" height="59"></th>
+    <th class="tg-f4yw"><img src="https://yiochukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u133/Our%20Family/Links/MOE.jpg" alt="MOE.jpg" width="204" height="67"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-f4yw"><img src="https://yiochukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u133/Our%20Family/Links/logo_myskillsfuture.jpg" alt="logo_myskillsfuture.jpg" width="193" height="79"></td>
+    <td class="tg-hmcn"><a href="https://yiochukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u133/Our%20Family/Parents%20Connect/Holiday%20Care%20Pack%20Secondary%20Edition.pdf"><span style="text-decoration:none;color:#1E87F0">Holiday Care Pack Secondary Edition</span></a> </td>
+  </tr>
+</tbody>
+</table>
+			</p>
 
     </div>
 
