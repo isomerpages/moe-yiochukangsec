@@ -218,7 +218,39 @@ Ended the day with a buffet lunch on Sentosa. Staff made a pledge to save the en
 
     <div>
 
-<p> </p>
+<p> <b>Title of activity:</b> Professional Development<br>
+
+<b>Description of event:</b><br>  
+Professional development sessions ensure that staff continue to strengthen their practice throughout their career.  
+The key learning programmes for 2019 are Assessment for Learning (AfL), Differentiated Instruction (DI) and ICT in Pedagogy using The Student Learning Space (SLS).<br>
+
+<b>Quotes from participants:</b><br>
+	
+<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Intellectual/I1.png"><br>
+	
+<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Intellectual/I2.png">
+	<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Intellectual/I3.png"><br><br>
+	
+<b>Title of activity:</b> Celebration of Learning Day<br>
+
+<b>Description of event:</b><br>
+
+The objectives of the annual Celebration of Learning Day are as follows:<br>  
+
+*   To celebrate and affirm the meaningful work done by PLTs since 2021 Term 3.<br>
+*   To provide a platform for PLTs to share and learn from each other.<br>
+*   To allow PLTs to gather feedback and suggestions to improve on the lesson design and refine their tech-enabled learning activities.<br>
+
+<b>The Celebration of Learning Day</b> employed the <b>Blended Learning</b> approach with VP Mr Kevin Lim delivering his opening remarks via the Zoom Platform while the showcase of PLT lesson packages by 21 teams was conducted face-to-face in separate classrooms for safe distancing in 2021.<br><br>
+	
+<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Intellectual/I4.png"><br><br>
+	
+	**Title of activity:** First Aid Course
+
+**Description of event:**
+
+Our teachers continue to improve their competencies even when the school term has ended. The Standard First-Aid Course + CPR + AED Course Online Theory lesson was held on 6 September 2021 and the Face to Face Practical session was held on 19 November 2021. The objective of the course is to ensure that all staff be trained in life saving skills.
+			</p>
 
   </div>
 
