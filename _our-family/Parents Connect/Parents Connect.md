@@ -115,14 +115,14 @@ For more resources on providing social and emotional support, affirming our chil
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-f4yw"><img src="https://yiochukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u133/Our%20Family/Links/Schoolbag.png" alt="Schoolbag.png" width="193" height="59"></th>
-    <th class="tg-f4yw"><img src="https://yiochukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u133/Our%20Family/Links/MOE.jpg" alt="MOE.jpg" width="204" height="67"></th>
+    <th class="tg-f4yw"><img src="/images/Our%20Family/Parents%20Connect/Useful%20Links/U1.png" alt="Schoolbag.png" width="193" height="59"></th>
+    <th class="tg-f4yw"><img src="/images/Our%20Family/Parents%20Connect/Useful%20Links/U2.jpg" alt="MOE.jpg" width="204" height="67"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-f4yw"><img src="https://yiochukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u133/Our%20Family/Links/logo_myskillsfuture.jpg" alt="logo_myskillsfuture.jpg" width="193" height="79"></td>
-    <td class="tg-hmcn"><a href="https://yiochukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u133/Our%20Family/Parents%20Connect/Holiday%20Care%20Pack%20Secondary%20Edition.pdf"><span style="text-decoration:none;color:#1E87F0">Holiday Care Pack Secondary Edition</span></a> </td>
+    <td class="tg-f4yw"><img src="/images/Our%20Family/Parents%20Connect/Useful%20Links/U3.jpg" alt="logo_myskillsfuture.jpg" width="193" height="79"></td>
+    <td class="tg-hmcn"><a href="/files/Parents%20Connect/Useful%20Links/Holiday%20Care%20Pack%20Secondary%20Edition.pdf"><span style="text-decoration:none;color:#1E87F0">Holiday Care Pack Secondary Edition</span></a> </td>
   </tr>
 </tbody>
 </table>
