@@ -9,7 +9,7 @@ third_nav_title: Parents Connect
 
 31 December 2021 - [Welcome Letter from Principal](/files/Parents%20Connect/Principal's%20Letters%20to%20Parents/Welcome%20Letter%202022_Final.pdf)  
   
-14 January 2022 - [National Digital Literacy Programme (2022 Sec 1)](https://yiochukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u133/Announcement/2022/YCKSS%20NDLP%20-%20Letter%20to%20Parents%202022%20Final.pdf)  
+14 January 2022 - [National Digital Literacy Programme (2022 Sec 1)](/files/Parents%20Connect/Principal's%20Letters%20to%20Parents/YCKSS%20NDLP%20-%20Letter%20to%20Parents%202022%20Final.pdf)  
   
 17 January 2022 - [Mother Tongue Language Fortnight 2022](https://yiochukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u133/For%20Parents/P%20Letters%202022/Letter%20to%20Parents%20%20Acknowledgement_MTL%20Fortnight%202022%20for%20PG.pdf)  
   
