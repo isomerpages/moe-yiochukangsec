@@ -87,7 +87,22 @@ The goals of Alumni are as follows:
 
     <div>
 
-      <p> </p>
+      <p>NSmen/NSF Alumni Sharing Session 2019<br>
+
+Educating our students on the importance of National Service (NS) is a key component of National Education (NE) and Character and Citizenship Education (CCE). On 16 August 2019, Yio Chu Kang Secondary School collaborated with the SAF and Home Team to invite alumni to engage our students on their National Service (NS) experience.<br> 
+
+Together with the officers from the Army, our Alumni, Dustin Wong, Chia Yi You and Muhammad Aliff Adha Bin Rosli engaged our students with their personal encounters. In order to make the session relevant to the girls, female officers were invited to share on their journey.<br> 
+
+Good rapport was built when the students responded enthusiastically and positively. There was continuous string of questions asked on matters ranging from pre-enlistment procedures and preparation, to life during BMT, the process of becoming a regular National Serviceman and lasting comradeship formed during NS.<b> 
+
+This engagement session helped our younger generation – Sec 3 students to better appreciate and understand the importance of National Service (NS) also provided information on how male students can start preparing for NS. As for the girls, they learnt how they could support their spouse or explore army careers in the future.<br>
+				
+<img style="width:100%;height:50%" src="/images/Our%20Family/Alumni/NSmenNSF%20Alumni%20Sharing%20Se19/N1.png">
+				<img style="width:50%;height:50%" src="/images/Our%20Family/Alumni/NSmenNSF%20Alumni%20Sharing%20Se19/N2.jpg">
+				<img style="width:50%;height:50%" src="/images/Our%20Family/Alumni/NSmenNSF%20Alumni%20Sharing%20Se19/N3.jpg">
+
+
+			</p>
 
     </div>
 
