@@ -10,12 +10,12 @@ sections:
       background: /images/Homepage/HomepageGIF.gif
       key_highlights:
         - title: ANNOUNCEMENTS
-          description: ""
-          url: ""
+          description: Click here
+          url: /announcements/Sec-1-Parents-Engagement-Webinar-2023/
         - title: CONTACT US
-          description: ""
+          description: Click here
           url: ""
         - title: CALENDAR
-          description: ""
+          description: Click here
           url: ""
 ---
