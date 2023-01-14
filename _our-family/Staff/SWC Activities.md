@@ -160,10 +160,7 @@ The staff welfare committee had organised a Brunch Potluck session during Markin
 	<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Emotional/E9.png"><Br>
 	<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Emotional/E10.png">
 	<img style="width:60%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Emotional/E11.jpg">
-	
-	
-	
-			</p>
+</p>
 
     </div>
 
