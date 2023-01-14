@@ -95,7 +95,10 @@ The School Advisory Committee (SAC) was newly formed after the merger of Yio Chu
 
     <div>
 
-<p> </p>
+<p> <img style="width:100%;height:50%" src="/images/Our%20Family/School%20Advisory%20Committee/Resilience%20Award%202019/R1.png">
+	<img style="width:100%;height:50%" src="/images/Our%20Family/School%20Advisory%20Committee/Resilience%20Award%202019/R2.png">
+	<img style="width:100%;height:50%" src="/images/Our%20Family/School%20Advisory%20Committee/Resilience%20Award%202019/R3.png">
+			</p>
 
     </div>
 
