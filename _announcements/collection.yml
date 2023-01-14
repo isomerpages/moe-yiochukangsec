@@ -1,4 +1,5 @@
 collections:
   announcements:
     output: true
-    order: []
+    order:
+      - Information for Parents of YCKSS Secondary 1 (2023).md
