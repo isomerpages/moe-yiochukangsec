@@ -21,7 +21,7 @@ The goals of Alumni are as follows:
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Booklists</label>
+    <label for="accordion1">Alumni Engagement Sessions 2020</label>
 
     <div>
 
@@ -34,7 +34,7 @@ The goals of Alumni are as follows:
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Exam Timetables</label>
+    <label for="accordion2">NSmen/NSF Alumni Sharing Session 2019</label>
 
     <div>
 
@@ -48,7 +48,7 @@ The goals of Alumni are as follows:
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Letter to Parents 2022</label>
+    <label for="accordion3">Homecoming 2018- Lantern Nite</label>
 
     <div>
 
@@ -62,7 +62,7 @@ The goals of Alumni are as follows:
 
     <input type="checkbox" id="accordion4">
 
-    <label for="accordion4">PDLP 2022</label>
+    <label for="accordion4">NSman/NSF Engagement Session 2018</label>
 
     <div>
 
