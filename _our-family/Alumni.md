@@ -131,7 +131,12 @@ This engagement session helped our younger generation – Sec 3 students to bett
 
     <div>
 
-<p> </p>
+<p> Yio Chu Kang Secondary School partnered with the SAF and Home Team to invite alumni to share their National Service (NS) experiences with our upper secondary level students. The engagement session helped our students appreciate the importance of National Service (NS) and prepare male students for NS. It was informative for all students at Secondary Three level.<br>
+
+The first session was held on 16 July 2018. 10 Alumni stepped forward and were eager to share their own personal experiences while communicating the key messages. It was a good bonding and networking session amongst them.<br>
+	<img style="width:100%;height:50%" src="/images/Our%20Family/Alumni/NSmanNSF%20Engagement%20Se%202018/N1.png">
+		<img style="width:100%;height:50%" src="/images/Our%20Family/Alumni/NSmanNSF%20Engagement%20Se%202018/N2.png">
+			</p>
 
   </div>
 
