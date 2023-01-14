@@ -18,11 +18,11 @@ third_nav_title: Parents Connect
 ### **2021 Term 2**
 
 
-1 April 2021 - [Issuing of Personal Learning Device and Digital Management Application (DMA)](https://yiochukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u133/Our%20Curriculum/Non%20academic%20Programmes/Digital%20Education/YCKSS%20%20Invitation%20to%20Parents%20-%20%20Briefing%20on%20NDLP%20Rollout%20and%20DMA.pdf)  
+1 April 2021 - [Issuing of Personal Learning Device and Digital Management Application (DMA)](/files/Parents%20Connect/Principal's%20Letters%20to%20Parents/YCKSS%20%20Invitation%20to%20Parents%20-%20%20Briefing%20on%20NDLP%20Rollout%20and%20DMA.pdf)  
   
-15 May 2021 - [Going into Phase 2 (Heightened Alert) – 16 May to 13 June 2021](https://yiochukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u133/For%20Parents/P%20Letters%202021/2021%20Principals%20Letter%20to%20Parents%20-%20Phase%202%20Heightened%20Alert%20School%20Measures%20For%20PG.pdf)  
+15 May 2021 - [Going into Phase 2 (Heightened Alert) – 16 May to 13 June 2021](/files/Parents%20Connect/Principal's%20Letters%20to%20Parents/2021%20Principals%20Letter%20to%20Parents%20-%20Phase%202%20Heightened%20Alert%20School%20Measures%20For%20PG.pdf)  
   
-17 May 2021 - [Home-Based Learning and Other Matters](https://yiochukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u133/Our%20Family/Students/FHBL%202021/2021%20Principals%20Letter%20to%20Parent%20-%20Full%20Home-Based%20Learning%20%20Other%20Matters%2017%20May.pdf)  
+17 May 2021 - [Home-Based Learning and Other Matters](/files/Parents%20Connect/Principal's%20Letters%20to%20Parents/2021%20Principals%20Letter%20to%20Parent%20-%20Full%20Home-Based%20Learning%20%20Other%20Matters%2017%20May.pdf)  
   
 
 ### **2021 Term 1**
