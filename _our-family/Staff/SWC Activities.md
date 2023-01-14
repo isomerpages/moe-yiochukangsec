@@ -130,7 +130,38 @@ The themes so far have been:-<br>
 
   
 
-<b>Quotes from participants:</b>
+<b>Quotes from participants:</b><br>
+	<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Emotional/E1.png"><br><br>
+	
+<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Emotional/E2.png">
+	<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Emotional/E3.png">
+	<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Emotional/E4.png">
+	<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Emotional/E5.png">
+	<img style="width:70%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Emotional/E6.jpg"><br><br>
+	
+<b>Title of activity:</b> Manito-Manitee Game<br>
+
+<b>Description of event:</b><br> 
+
+During the month of September, we played the Manito-Manitee Game ( Angel-Mortal) to encourage a caring environment in the school and to enhance staff bonding. All staff ( teaching and non-teaching) were randomly paired and everyone had to take care of their appointed Manitee, for a month. Many gave gifts and wrote encouraging notes to brighten up the day, but they would remain anonymous until revelation day, which was Teachers' Day. There were hand made gifts and improvised wrapping papers , well thought and nicely wrapped up snacks and useful stationery.<br>
+
+All in all, most staff gave positive feedback and are looking forward to more of such engaging activities in future.<br><br>
+	
+<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Emotional/E7.png">
+	<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Emotional/E8.png"><br><br>
+	
+<b>Title of activity:</b> Potluck Breakfast Session<br>
+
+<b>Description of event:</b><br>
+
+The staff welfare committee had organised a Brunch Potluck session during Marking Day. Food has always been a successful way to bring staff from different department together. Every department was invited to bring a few different types of food. There was a splendid array of food on the table. Staff enjoyed themselves.<br>  
+
+<b>Quotes from participants:</b><br>
+	<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Emotional/E9.png">
+	<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Emotional/E10.png">
+	<img style="width:60%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Emotional/E11.jpg">
+	
+	
 	
 			</p>
 
