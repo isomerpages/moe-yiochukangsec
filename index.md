@@ -8,6 +8,14 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage/HomepageGIF.gif
+      key_highlights:
+        - title: ANNOUNCEMENTS
+          description: ""
+          url: ""
+        - title: CONTACT US
+          description: ""
+          url: ""
+        - title: CALENDAR
+          description: ""
+          url: ""
 ---
-
-
