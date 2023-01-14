@@ -29,7 +29,20 @@ Parents of past and present students are still connected on Facebook – [YCKSS
 
     <div>
 
-<p> </p>
+<p> To quote some members of Parents Connect.<br> 
+  
+“Being part of Parents Connect is a great way to connect with the school. It gave me the opportunity to be a part of my daughter’s life in school, and it allowed me to guide her through her academic choices. This wouldn’t be possible if I didn’t have the first hand information through the chit-chats and activities organised by Parents’ Connect.” <br> 
+  
+~ Eileen Quek<br> 
+  
+“I’m glad to have the opportunity to set a good example for my daughter with regards to volunteerism. She said this to me, “I’m proud of you, dad! I enjoyed my school days in YCKSS.” She is a happy student indeed and that is what every parent wants for their children.<br> 
+  
+~ Alfred Chua<br>  
+  
+“I gained the support from other parents through the Parents Connect network. I am better informed to support and guide my child. Leading by example as a parent, my involvement in the school sends a clear signal to my child as a form of deep concern and care for him.”<br>  
+  
+~ Cheng TY<br>
+			</p>
 
     </div>
 
@@ -42,7 +55,42 @@ Parents of past and present students are still connected on Facebook – [YCKSS
 
     <div>
 
-      <p> </p>
+      <p> <b>Supporting Your Child through the Release of the GCE Examination Results and in making Decisions on the Next Step</b><br>
+
+  
+
+Dear parents,<br>  
+
+  
+
+Your child will be receiving his/her GCE Examination results soon.<br>
+
+  
+
+The social and emotional support we provide our children will help them learn to persevere and adapt positively to challenges. Assuring our children of our support is especially valuable and crucial during milestones such as results release, and when decisions about the next step need to be made.<br>
+
+  
+
+Here are some helpful tips and suggestions to convey your love and support to your child:<br>
+
+  
+
+1.    Celebrate your child’s efforts, no matter how big or small. Please refer to the web link below for a link to tips on praising our children effectively.<br>
+
+2.    Look out for out-of-character behaviours in your child. Please refer to this [attachment](https://yiochukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u623/Parents%20Resource.pdf).
+
+3.    Continue to have open conversations with your child to discuss his/her interests and choices.<br>
+
+4.    Go through the Education and Career Guidance resources which your child will receive through his/her school and the MySkillsFuture student portal for more information on schools, courses and career options.<br> 
+
+  
+
+For more resources on providing social and emotional support, affirming our children, and supporting your child through transitions,  please refer to the web link below.<br>
+
+  
+
+[https://go.gov.sg/sel-res-for-parentshttps://www.myskillsfuture.sg/content/student/en/secondary.html](https://go.gov.sg/sel-res-for-parentshttps://www.myskillsfuture.sg/content/student/en/secondary.html)
+			</p>
 
     </div>
 
