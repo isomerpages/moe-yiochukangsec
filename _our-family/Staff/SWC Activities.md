@@ -245,12 +245,15 @@ The objectives of the annual Celebration of Learning Day are as follows:<br>
 	
 <img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Intellectual/I4.png"><br><br>
 	
-	**Title of activity:** First Aid Course
+<b>Title of activity:</b> First Aid Course<br>
 
-**Description of event:**
+<b>Description of event:</b><br>
 
-Our teachers continue to improve their competencies even when the school term has ended. The Standard First-Aid Course + CPR + AED Course Online Theory lesson was held on 6 September 2021 and the Face to Face Practical session was held on 19 November 2021. The objective of the course is to ensure that all staff be trained in life saving skills.
-			</p>
+Our teachers continue to improve their competencies even when the school term has ended. The Standard First-Aid Course + CPR + AED Course Online Theory lesson was held on 6 September 2021 and the Face to Face Practical session was held on 19 November 2021. The objective of the course is to ensure that all staff be trained in life saving skills.<br><br>
+	
+<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Intellectual/I5.png">
+	
+</p>
 
   </div>
 
