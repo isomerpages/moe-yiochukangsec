@@ -117,9 +117,7 @@ This engagement session helped our younger generation – Sec 3 students to bett
 <p> On 21 September 2018, it marked the inaugural Homecoming 2018 – Lantern Nite for Yio Chu Kang Secondary School. Almost 200 Alumni and Staff had a great time mingling, reminiscing old memories and forging new friendships. Highlights of the night included tea & mooncake appreciation, origami lantern making & well-wishes writing as well as a lantern parade. It was also a nostalgic trip down memory lane for those who went on a tour to old Chong Boon Secondary site. The building might have changed but the fond memories were still so vivid for them.<br><br>
 	<img style="width:100%;height:50%" src="/images/Our%20Family/Alumni/Homecoming%202018%20%20Lantern%20Nite/H1.jpg">
 		<img style="width:100%;height:50%" src="/images/Our%20Family/Alumni/Homecoming%202018%20%20Lantern%20Nite/H2.png">
-
-	
-			</p>
+</p>
 
     </div>
 
