@@ -14,3 +14,60 @@ The goals of Alumni are as follows:
 
 [Sign up as an alumni.](https://tinyurl.com/YCKSS-Alumni-Application)  
 [Drop us an email if you are interested to be involved.](mailto:yckss@moe.edu.sg)
+
+<ul class="jekyllcodex_accordion">
+
+  <li>
+
+    <input type="checkbox" id="accordion1">
+
+    <label for="accordion1">Booklists</label>
+
+    <div>
+
+<p> </p>
+
+    </div>
+
+</li>
+	<li>
+
+    <input type="checkbox" id="accordion2">
+
+    <label for="accordion2">Exam Timetables</label>
+
+    <div>
+
+      <p> </p>
+
+    </div>
+
+</li>
+	
+<li>
+
+    <input type="checkbox" id="accordion3">
+
+    <label for="accordion3">Letter to Parents 2022</label>
+
+    <div>
+
+<p> </p>
+
+    </div>
+
+</li>
+	
+<li>
+
+    <input type="checkbox" id="accordion4">
+
+    <label for="accordion4">PDLP 2022</label>
+
+    <div>
+
+<p> </p>
+
+  </div>
+
+</li>
