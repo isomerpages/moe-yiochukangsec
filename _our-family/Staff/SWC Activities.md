@@ -195,12 +195,16 @@ The grouping for the bowling activity was done so that every team had a mixed nu
 
 <b>Description of event:</b><br> 
 
-Feel the soft sand, the smooth sea and the bright sun while we "_Cruise the Southern Seas of Singapore_" - an adventure to discover the sustainability efforts of Singapore in the Southern Islands of Sisters Island, Kusu Island, Pulau Semakau, Pulau Bukom.<br>  
+Feel the soft sand, the smooth sea and the bright sun while we <b>"Cruise the Southern Seas of Singapore"</b> - an adventure to discover the sustainability efforts of Singapore in the Southern Islands of Sisters Island, Kusu Island, Pulau Semakau, Pulau Bukom.<br>  
 
 It was a clear sky on Friday, 24 June 2022, after days of rain. The staff had a bonding game with a boarding pass on the buses going to the Marina Bay Ferry Terminal. The staff disembarked on Kusu Island where they had a game untangling themselves. Engaging session learning the legends of the names of the islands, the sustainability efforts by the government.<br>
 
 Ended the day with a buffet lunch on Sentosa. Staff made a pledge to save the environment.<br><br>
-			</p>
+	
+<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Physical/P3.png">
+	<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Physical/P4.png">
+
+</p>
 
     </div>
 
