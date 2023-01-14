@@ -174,7 +174,33 @@ The staff welfare committee had organised a Brunch Potluck session during Markin
 
     <div>
 
-<p> </p>
+<p> <b>Title of activity:</b> Staff Appreciation Day 5th Sept<br>  
+	
+<b>Description of event:</b><br>
+
+The grouping for the bowling activity was done so that every team had a mixed number of bowlers from school leaders to the EAS staff. There was much bonding during the event. It was an event that favoured no male or female bowlers. All 120 bowlers had an equal chance of doing well for the team. At the end of the day, hidden talents in bowling emerged and the rest had a very joyful day.<br>
+
+<b>Quotes from participants:</b><br><br>
+	
+<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Physical/P1.png"><br>
+	
+<img style="width:100%;height:50%" src="/images/Our%20Family/Staff/SWC%20Activities/Physical/P2.jpg">
+	A Bowling Event for All in the Family!<br><br>
+	
+<b>Staff retreat and celebrations</b><br>
+
+<b>Objective:</b> To foster strong and cohesive teams through a team building staff retreat.<br>
+
+<b>Title of activity:</b> Cruise the Southern Seas of Singapore<br>
+
+<b>Description of event:</b><br> 
+
+Feel the soft sand, the smooth sea and the bright sun while we "_Cruise the Southern Seas of Singapore_" - an adventure to discover the sustainability efforts of Singapore in the Southern Islands of Sisters Island, Kusu Island, Pulau Semakau, Pulau Bukom.<br>  
+
+It was a clear sky on Friday, 24 June 2022, after days of rain. The staff had a bonding game with a boarding pass on the buses going to the Marina Bay Ferry Terminal. The staff disembarked on Kusu Island where they had a game untangling themselves. Engaging session learning the legends of the names of the islands, the sustainability efforts by the government.<br>
+
+Ended the day with a buffet lunch on Sentosa. Staff made a pledge to save the environment.<br><br>
+			</p>
 
     </div>
 
