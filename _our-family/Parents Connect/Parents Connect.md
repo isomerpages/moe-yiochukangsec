@@ -140,7 +140,11 @@ For more resources on providing social and emotional support, affirming our chil
 
     <div>
 
-<p> </p>
+<p> <b>Chit Chat with Heads of Departments</b><br>   
+A series of morning chit chat sessions that brings together the stakeholders of the school. Every session is a platform for parents to discover a different area of school life ranging from academic and non-academic programmes to discussing about post-secondary pathways.<br><br>
+	
+<img style="width:100%;height:50%" src="/images/Our%20Family/Parents%20Connect/Events/E1.png">
+			</p>
 
   </div>
 
