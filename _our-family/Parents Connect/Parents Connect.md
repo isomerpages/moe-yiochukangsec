@@ -77,7 +77,7 @@ Here are some helpful tips and suggestions to convey your love and support to yo
 
 1.    Celebrate your child’s efforts, no matter how big or small. Please refer to the web link below for a link to tips on praising our children effectively.<br>
 
-2.    Look out for out-of-character behaviours in your child. Please refer to this <a href="/files/Parents%20Connect/Resources%20for%20Parents/Parents%20Resource.pdf">Attachment</a>.
+2.    Look out for out-of-character behaviours in your child. Please refer to this <a href="/files/Parents%20Connect/Resources%20for%20Parents/Parents%20Resource.pdf">Attachment</a>.<br>
 
 3.    Continue to have open conversations with your child to discuss his/her interests and choices.<br>
 
@@ -87,10 +87,9 @@ Here are some helpful tips and suggestions to convey your love and support to yo
 
 For more resources on providing social and emotional support, affirming our children, and supporting your child through transitions,  please refer to the web link below.<br>
 
-  
+  <a href="https://go.gov.sg/sel-res-for-parentshttps://www.myskillsfuture.sg/content/student/en/secondary.html">https://go.gov.sg/sel-res-for-parentshttps://www.myskillsfuture.sg/content/student/en/secondary.html</a>
 
-[https://go.gov.sg/sel-res-for-parentshttps://www.myskillsfuture.sg/content/student/en/secondary.html](https://go.gov.sg/sel-res-for-parentshttps://www.myskillsfuture.sg/content/student/en/secondary.html)
-			</p>
+</p>
 
     </div>
 
