@@ -12,7 +12,7 @@ The School Advisory Committee (SAC) was newly formed after the merger of Yio Chu
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Booklists</label>
+    <label for="accordion1">Committee Members</label>
 
     <div>
 
@@ -25,7 +25,7 @@ The School Advisory Committee (SAC) was newly formed after the merger of Yio Chu
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Exam Timetables</label>
+    <label for="accordion2">Resilience Award 2018</label>
 
     <div>
 
@@ -39,7 +39,7 @@ The School Advisory Committee (SAC) was newly formed after the merger of Yio Chu
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Letter to Parents 2022</label>
+    <label for="accordion3">Resilience Award 2019</label>
 
     <div>
 
