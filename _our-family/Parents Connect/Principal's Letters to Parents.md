@@ -7,7 +7,7 @@ third_nav_title: Parents Connect
 ### **2022 Term 1**
 
 
-31 December 2021 - [Welcome Letter from Principal](https://yiochukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u133/Announcement/2022/Welcome%20Letter%202022_Final.pdf)  
+31 December 2021 - [Welcome Letter from Principal](/files/Parents%20Connect/Principal's%20Letters%20to%20Parents/Welcome%20Letter%202022_Final.pdf)  
   
 14 January 2022 - [National Digital Literacy Programme (2022 Sec 1)](https://yiochukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u133/Announcement/2022/YCKSS%20NDLP%20-%20Letter%20to%20Parents%202022%20Final.pdf)  
   
