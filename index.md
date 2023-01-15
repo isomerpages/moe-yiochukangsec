@@ -14,7 +14,7 @@ sections:
           url: /announcements/Sec-1-Parents-Engagement-Webinar-2023/
         - title: CONTACT US
           description: Click here
-          url: ""
+          url: /Contact-us/
         - title: CALENDAR
           description: Click here
           url: ""
