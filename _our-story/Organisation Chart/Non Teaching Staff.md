@@ -15,9 +15,8 @@ third_nav_title: Organisation Chart
     <div>
 
 <p>   
-<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Non%20Teaching%20Staff/Student%20Support/S1.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Non%20Teaching%20Staff/Student%20Support/S2.png">
-			</p>
+<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Non%20Teaching%20Staff/Student%20Support/S1NEW.png">
+</p>
 
     </div>
 
@@ -30,9 +29,8 @@ third_nav_title: Organisation Chart
 
     <div>
 
-      <p> <img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Non%20Teaching%20Staff/Administrative%20Support/A1.png">
-				<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Non%20Teaching%20Staff/Administrative%20Support/A2.png">
-			</p>
+      <p> <img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Non%20Teaching%20Staff/Administrative%20Support/A1NEW.png">
+</p>
 
     </div>
 
@@ -80,9 +78,8 @@ third_nav_title: Organisation Chart
 
     <div>
 
-      	<p> <img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Non%20Teaching%20Staff/Non%20MOE%20Staff/N1.png">
-					<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Non%20Teaching%20Staff/Non%20MOE%20Staff/N2.png">
-			</p>
+      	<p> <img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Non%20Teaching%20Staff/Non%20MOE%20Staff/N1NEW.png">
+</p>
 
     </div>
 
