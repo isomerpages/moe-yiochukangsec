@@ -5,26 +5,17 @@ description: ""
 ---
 ![](/images/Our%20Story/School%20Song/S1.jpg)
 
-**Our School is Yio Chu Kang.**
+**Our School is Yio Chu Kang.**  
+**Together we learn and grow.**  
+**Pursuit of knowledge, service to all,**  
+**With gratitude and character, we show.**  
+**Wholeheartedly, our Home.**  
 
-**Together we learn and grow.**
-
-**Pursuit of knowledge, service to all,**
-
-**With gratitude and character, we show.**
-
-**Wholeheartedly, our Home.**
-
-**Through our hopes and dreams,**
-
-**We see the best in all.**
-
-**With heart and soul, we lead**
-
-**And strive for excellence.**
-
-**Wholeheartedly, our School.**
-
+**Through our hopes and dreams,**  
+**We see the best in all.**  
+**With heart and soul, we lead**  
+**And strive for excellence.**  
+**Wholeheartedly, our School.**  
 **Wholeheartedly, our Home**.
 
   
