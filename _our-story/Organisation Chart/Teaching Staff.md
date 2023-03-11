@@ -67,11 +67,10 @@ third_nav_title: Organisation Chart
     <div>
 
 <p>
-<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/MTL%20Department/M1.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/MTL%20Department/M2.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/MTL%20Department/M3.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/MTL%20Department/M4.png">
-			</p>
+<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/MTL%20Department/M1NEW.png">
+<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/MTL%20Department/M2NEW.png">
+	<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/MTL%20Department/M3NEW.png">
+</p>
 
   </div>
 
