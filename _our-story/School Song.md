@@ -20,8 +20,7 @@ description: ""
 
   
 
-Musics & Lyrics by:
-
+Musics & Lyrics by:  
 Mr Michael William Cartwright & Ms Lio Dan Wei
 
 #### **About the School Song**
