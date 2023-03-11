@@ -326,7 +326,9 @@ third_nav_title: Achievements
     <td class="tg-89xa">Consolation Prize 1<br>•  Yoganandhan Harini Sai<br>•  Ikjeen New<br>•  Liew Tze Wan<br>•  Jason Neo Jie Sen</td>
   </tr>
 </tbody>
-</table>
+</table><br>
+			
+ You can <a href="/files/Achievements/2022/YCKSS%202022%20Achievements%20updated%203%20Feb%202023.pdf">DOWNLOAD THE PDF</a> version of the Achievements 2022.	
 			</p>
 
     </div>
