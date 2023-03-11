@@ -18,7 +18,7 @@ third_nav_title: Organisation Chart
 <img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Design%20and%20Enterprise%20Dpt/D1NEW.png">
 	<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Design%20and%20Enterprise%20Dpt/D2NEW.png">
 
-			</p>
+</p>
 
     </div>
 
