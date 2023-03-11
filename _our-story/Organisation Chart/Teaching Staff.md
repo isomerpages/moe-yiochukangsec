@@ -100,9 +100,7 @@ third_nav_title: Organisation Chart
     <div>
 
 <p>
-<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Science%20Department/S1.png">
-	<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Science%20Department/S2.png">
-	<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Science%20Department/S3.png">
+<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Science%20Department/S1NEW.png">
 			</p>
 
     </div>
@@ -118,9 +116,8 @@ third_nav_title: Organisation Chart
     <div>
 
 <p> 
-<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/English%20Language%20Department/E1.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/English%20Language%20Department/E2.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/English%20Language%20Department/E3.png"></p>
+<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/English%20Language%20Department/E1NEW.png">
+</p>
 
     </div>
 
