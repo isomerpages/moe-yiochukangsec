@@ -84,7 +84,8 @@ third_nav_title: Organisation Chart
 
     <div>
 
-      	<p> </p>
+    <p>	<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Physical%20Education%20Department/P1NEW.png"> 
+			</p>
 
     </div>
 
