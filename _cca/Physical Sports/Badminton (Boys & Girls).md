@@ -24,22 +24,21 @@ The Badminton CCA aims to equip students with the fundamentals of the sport as w
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-osv9{background-color:#F1F1F1;text-align:center;vertical-align:top}
-.tg .tg-euwl{background-color:#FFF;color:#333333;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-1hsk{background-color:#F1F1F1;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-euwl">Teachers in-charge</th>
-    <th class="tg-euwl">Committee Members</th>
-    <th class="tg-euwl">Training Information</th>
+    <th class="tg-apyk">TRAINING INFORMATION</th>
+    <th class="tg-apyk">TEACHERS IN-CHARGE</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-osv9">Ms Charmain Tan (ext 122)<br>Mdm Katherine Chua (ext 134)<br>Mdm Ng Hui Yin (ext 146)<br>Mdm Luar Bok Choo (ext 141)<br>Ms Loh Shi Hui (ext 204)<br>Mr Ha Jin Siong Jeffrey (ext 218)<br>Mr Nizam (ext 146)<br></td>
-    <td class="tg-osv9"><span style="font-weight:bolder">Sec 4 Girls</span><br>Captain: Tricia Lim Shuen (4E1)<br>Vice-Captain: Lee Ying Suen (4E3)<br><br><span style="font-weight:bolder">Sec 3 Girls</span><br>Captain: Wong Zheng Wei<br>Vice-Captain: Charlene See Toh Jie Hui<br><br><span style="font-weight:bolder">Sec 4 Boys</span><br>Captain: Aden Lim (4E3)<br>Vice-Captain: Ng Kian Siong Cayden (4E1)<br><br><span style="font-weight:bolder">Sec 3 Boys</span><br>Captain: Ong Zhi Yuan<br>Vice-Captain: Ryan Ethan Lau<br><br></td>
-    <td class="tg-osv9"><span style="font-weight:bolder">Every Mondays and Wednesdays</span><br>3pm - 5.30pm (Girls)<br><br><span style="font-weight:bolder">Wednesdays and Thursdays</span><br>3pm - 5.30pm (Boys)<br><br><span style="font-weight:bolder">Venue</span><br>School Hall / ISH</td>
+    <td class="tg-1hsk"><span style="font-weight:700">MONDAY, 3:15PM TO 5:45PM</span><br>All Girls - Hall<br><span style="font-weight:700">WEDNESDAY, 3:15PM TO 5:45PM</span><br>All Girls &amp; All Boys - ISH Level 2<br><span style="font-weight:700">THURSDAY, 3:15PM TO 5:45PM</span><br>All Boys - Hall</td>
+    <td class="tg-osv9">Ms Charmain Tan (ext 122)<br>Mdm Ng Hui Yin (ext 146)<br>Ms Rohini (ext 141)<br>Mr Wee Soh Ye Patrick (ext 127)<br>Ms Wee Poh Lin (ext 148)</td>
   </tr>
 </tbody>
 </table>
