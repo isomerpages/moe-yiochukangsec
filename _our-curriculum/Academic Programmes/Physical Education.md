@@ -12,7 +12,7 @@ Physically educated YCKSians who practise a healthy lifestyle. 
 
   
 
-****Mission****  
+**Mission**
 
 To educate minds, develop healthy bodies and promote positive attitudes towards lifelong pursuit of good health and fitness as well as enjoyment of physical activities
 
@@ -151,13 +151,13 @@ The highlights include: 
 
   
 
-****Sports Carnival**** 
+**Sports Carnival** 
 
 The culminating event for Health Fiesta week will be the key highlight of our annual Sports Carnival which has the objectives of promoting healthy lifestyle, school values, fair play and good sportsmanship. A wide array of sporting activities ranging from Parachute Volleyball, Captain Hoopball, Street Basketball, Water Soccer, Bubble Soccer, Tag Archery, Inline Skating, mass Hip Hop dance, etc will be organised. This is to enrich the sporting experiences of our students, staff and parents and in turn influence them to pick up something they enjoy and pursue an active and healthy lifestyle.
 
   
 
-****PE as an O-Level subject**** The school offers Physical Education (PE) as an O-Level subject (OSIE PE and Exercise Sports Science) to our Secondary Three students. OSIEs are comparable in rigour and scope to the GCE ‘O’ Level subjects. 
+**PE as an O-Level subject** The school offers Physical Education (PE) as an O-Level subject (OSIE PE and Exercise Sports Science) to our Secondary Three students. OSIEs are comparable in rigour and scope to the GCE ‘O’ Level subjects. 
 
   
 
