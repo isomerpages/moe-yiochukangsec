@@ -33,7 +33,7 @@ The CCA Programme provides our students with a platform to discover their intere
 
     <div>
 
-      <p> <a href="/cca/Performing-Arts/Concert-Band/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA1.png"></a><br>
+      <p> <a href="/cca/Performing-Arts/Concert-Band/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/C1NEW.png"></a><br>
 			<a href="/cca/Performing-Arts/Chinese-Dance/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA2.png"></a><br>
 			<a href="/cca/Performing-Arts/Choir/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA3.png"></a><br>
 			<a href="/cca/Performing-Arts/English-Drama/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA4.png"></a><br>
