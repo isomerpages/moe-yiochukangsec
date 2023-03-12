@@ -12,23 +12,23 @@ Inquirers and explorers of the universe who call the adventure Science 
 
   
 
-****Mission**** 
+**Mission**
 
 To nurture critical and creative thinkers with a life-long passion for science by fostering a spirit of inquiry and bringing real-world science into the classroom experience. 
 
   
 
-****Key Programmes**** 
+**Key Programmes**
 
   
 
-****Lower Secondary Science SPA**** 
+**Lower Secondary Science SPA**
 
 In Lower Secondary science SPA, students are taught Science Practical Skills of Performing, Observing and Planning over a period of two years. Skills-based assessments which address the different kinds of laboratory skills in practical work will be embedded to complement the learning cycle. Assessment for learning and assessment as learning will be scheduled during the whole learning cycle. 
 
   
 
-****Mendel’s Garden (Lower Secondary Science)**** 
+**Mendel’s Garden (Lower Secondary Science)**
 
 “Mendel’s Garden” is an instructional programme inspired by a working life-size experimental greenhouse which demonstrates the applications of vertical urban farming. It is named after the Father of Genetics, Gregor Mendel, who discovered the fundamental laws of inheritance through his work on pea plants grown in his own garden. 
 
@@ -73,7 +73,8 @@ In this garden, lower secondary science students see Science comes alive in the 
 </tbody>
 </table>
 
-****Da Vinci Programme (Secondary 2 – 4)****  The Da Vinci Programme is a progressive Science Talent Development Programme that complements the Science department’s core curriculum in developing the scientific minds of our students. The objective of the Da Vinci Programme is to enable selected students who demonstrated an attitude and aptitude for scientific research to participate in research projects under the guidance of teacher mentors from different Science disciplines. 
+**Da Vinci Programme (Secondary 2 – 4)**
+The Da Vinci Programme is a progressive Science Talent Development Programme that complements the Science department’s core curriculum in developing the scientific minds of our students. The objective of the Da Vinci Programme is to enable selected students who demonstrated an attitude and aptitude for scientific research to participate in research projects under the guidance of teacher mentors from different Science disciplines. 
 
   
 
@@ -93,7 +94,8 @@ Students’ research will culminate in a project presentation at: 
 
   
 
-****Healthcare Mentorship programme (Secondary 3)**** The Healthcare Mentorship programme seeks to expose our Secondary 3 Biology students to the real healthcare environment where they experience first-hand and learn how the knowledge and skills they acquired in school can be applied to the work environment. 
+**Healthcare Mentorship programme (Secondary 3)**
+The Healthcare Mentorship programme seeks to expose our Secondary 3 Biology students to the real healthcare environment where they experience first-hand and learn how the knowledge and skills they acquired in school can be applied to the work environment. 
 
   
 
