@@ -4,7 +4,7 @@ permalink: /our-curriculum/Non-Academic-Programmes/Environmental-Education-throu
 description: ""
 third_nav_title: Non Academic Programmes
 ---
-**Vision**
+**Vision**  
 A community of environmentally-conscious staff and students.  
   
 **Mission**  
