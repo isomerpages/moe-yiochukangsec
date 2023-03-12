@@ -21,9 +21,57 @@ The Concert Band aims to develop a dedicated group of musicians who strive to ac
     <div>
 
 <p>   
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/T1.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/T1.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/T1.png"></p>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1wig">TRAINING INFORMATION</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">EVERY TUESDAY</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3:15PM to 5:45PM</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">EVERY THURSDAY</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3:15PM to 5:45PM</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">VENUE</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Band room &amp; some classrooms (Level 2)</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">TEACHERS IN-CHARGE</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mr Michael Cartwright (ext 128)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ms Lim Li May (ext 171)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ms Nur Rafizah Bte Safiee (ext 286)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ms Fong Ya Yi (Adele) (ext 122)</td>
+  </tr>
+</tbody>
+</table></p>
 
     </div>
 
