@@ -12,7 +12,7 @@ Independent learners who are innovative and effective problem solvers 
 
   
 
-****Mission**** 
+**Mission**
 
 To provide an environment to nurture students to be independent learners and develop sound reasoning, critical thinking and collaborative problem solving skills necessary for application in the real world.   
 
@@ -46,7 +46,7 @@ Our department believes in offering innovative approaches to help our students g
 *   This exciting programme helps upper secondary students create an awareness of the importance of financial planning by providing them a head start in learning abstract concepts on financial literacy using an experiential game.   
     
 
-****Algebra Games**** 
+**Algebra Games**
 
 *   **_The Smart City Explorer_** is the invention of our teachers who have designed it to create joy in learning algebraic concepts in the lower secondary mathematics classroom through play. Using this games based approach, students learn in teams and become more competent and confident about their abilities in algebraic manipulations.
 
@@ -76,5 +76,3 @@ Authentic learning in POA
 ![](/images/Our%20Curriculum/Academic%20Programmes/Mathematics%20and%20POA/M2.png)
 ![](/images/Our%20Curriculum/Academic%20Programmes/Mathematics%20and%20POA/M3.png)
 ![](/images/Our%20Curriculum/Academic%20Programmes/Mathematics%20and%20POA/M4.png)
-
-
