@@ -24,22 +24,21 @@ The Basketball CCA aims to develop qualities such as positive self-esteem and sp
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-osv9{background-color:#F1F1F1;text-align:center;vertical-align:top}
-.tg .tg-htrf{background-color:#FFF;color:#000000;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-1hsk{background-color:#F1F1F1;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-htrf">Teachers in-charge</th>
-    <th class="tg-htrf">Committee Members</th>
-    <th class="tg-htrf">Training Information</th>
+    <th class="tg-apyk">TRAINING INFORMATION</th>
+    <th class="tg-apyk">TEACHERS IN-CHARGE</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-osv9">Ms Anna Leong (ext 175)<br>Mr Jude Ang (ext 150)<br>Ms Lau Yuh Yan (ext 130)<br></td>
-    <td class="tg-osv9"><span style="font-weight:bolder">'B' Division Captain</span><br>JOE ONG JUN YANG (4E3)<br><br><span style="font-weight:bolder">'B' DivisionVice-Captain</span><br>WILSON LIM (3A2)<br><br><span style="font-weight:bolder">'C' Division Captain</span><br>NG YONG MENG (2A2)<br><br><span style="font-weight:bolder">'C' DivisionVice-Captain</span><br>JERRY LOO KANG LE (2T1)<br><br></td>
-    <td class="tg-osv9"><span style="font-weight:bolder">Every Tuesday and Thursday</span><br>3pm to 6pm<br><br><span style="font-weight:bolder">Venue</span><br>Indoor Sports Hall Level 2</td>
+    <td class="tg-1hsk"><span style="font-weight:700">EVERY TUESDAY &amp; THURSDAY</span><br><span style="font-weight:700">3:15PM TO 5:45PM</span><br>ISH Level 2</td>
+    <td class="tg-osv9">Ms Anna Leong (ext 175) <span style="font-weight:bolder">OIC</span><br>Mr Jude Ang (ext 150)<br>Mr Ng Soon Peng Raymond (ext 176)<br>Mr Gabriel Ng (ext 198)</td>
   </tr>
 </tbody>
 </table>
