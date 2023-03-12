@@ -27,23 +27,36 @@ TThe Indian Dance CCA aims to help develop and nurture the pupils holistically. 
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-osv9{background-color:#F1F1F1;text-align:center;vertical-align:top}
-.tg .tg-1hsk{background-color:#F1F1F1;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-9hzb">Teachers in-charge</th>
-    <th class="tg-9hzb">Committee Members</th>
-    <th class="tg-9hzb">Training Information</th>
+    <th class="tg-1wig">TRAINING INFORMATION</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-osv9">Ms Gauwri (ext 144)<br>Mrs Ilango (ext 175)<br>Mdm Sarasvathy (ext 136)<br>Ms Nuzaibah (ext 175)<br><br></td>
-    <td class="tg-osv9"><span style="font-weight:bolder">President</span><br>Chew Yen Yu (3A1)<br><br><span style="font-weight:bolder">Vice-President</span><br>Samuel Prakasam Raja Merlin Jeswina (3E2)<br>Aadhishree Loganathan (3E3)<br><br></td>
-    <td class="tg-1hsk"><span style="font-weight:bolder">Every Wednesday</span><br>3pm to 6pm<br><span style="font-weight:bolder">Venue</span><br>Dance Studio</td>
+    <td class="tg-0lax">Every Wednesday</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3:15PM to 5:45PM</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Dance Studio 1 (Level 3)</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">TEACHERS IN-CHARGE</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ms Gauwri (OIC) (ext 144)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mdm Sarasvathy (ext 136)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mrs Ilango (ext 175)</td>
   </tr>
 </tbody>
 </table>
