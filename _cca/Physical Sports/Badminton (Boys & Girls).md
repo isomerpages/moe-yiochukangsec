@@ -14,7 +14,7 @@ The Badminton CCA aims to equip students with the fundamentals of the sport as w
 
     <input type="checkbox" id="accordion1">
 
-			<label for="accordion1">Training Schedule</label>
+<label for="accordion1">Training Schedule</label>
 
     <div>
 
