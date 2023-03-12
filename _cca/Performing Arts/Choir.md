@@ -19,9 +19,48 @@ The YCKSS Choir consists of members who share a passion for singing and music. W
     <div>
 
 <p>   
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Choir/T1.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Choir/T2.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Choir/T3.png">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1wig">TRAINING INFORMATION</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Every Tuesday and Thursday</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3:15PM to 5:45PM</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Music Room, Level 1</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">TEACHERS IN-CHARGE</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mdm Vijaya (OIC) (ext 203)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mdm Lee Ching Fong (ext 142)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ms Michelle Lim (ext 135)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mr Loke Tuck Luen (ext 131)</td>
+  </tr>
+</tbody>
+</table>
 			</p>
 
     </div>
