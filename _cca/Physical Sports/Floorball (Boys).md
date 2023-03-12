@@ -24,22 +24,21 @@ The Floorball CCA aims to foster strong bonds among team members and a competiti
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-oufy{background-color:#986536;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-osv9{background-color:#F1F1F1;text-align:center;vertical-align:top}
+.tg .tg-1hsk{background-color:#F1F1F1;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-oufy">Teachers in-charge</th>
-    <th class="tg-oufy">Committee Members</th>
-    <th class="tg-oufy">Training Information</th>
+    <th class="tg-apyk">TRAINING INFORMATION</th>
+    <th class="tg-apyk">TEACHERS IN-CHARGE</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-osv9">Mr Tan Thiam Boon (ext 143)<br>Ms Zhang Wen Jie (ext 217)<br>Mdm Connie Yeo (ext 124)<br><br></td>
-    <td class="tg-osv9"><span style="font-weight:bolder">B-Division Captain</span><br>Darren Ong Ding Chao (3T1)<br><br><span style="font-weight:bolder">B-Division Vice-Captains</span><br>Muhammad Raqib Bin Mohamed Raffi (3T1)<br><br><span style="font-weight:bolder">C-Division Captain</span> <br>Afiqi Elriano Bin Mohamad Irwan (2A1)<br><br><span style="font-weight:bolder">C-Division Vice-Captains</span><br>Zuriel Tan You Ren (2E3)<br><br></td>
-    <td class="tg-osv9"><span style="font-weight:bolder">Every Monday and Wednesday</span><br>3pm to 6pm<br><br><span style="font-weight:bolder">Venue</span><br>Indoor Sports Hall Level 2 (Mon)<br>Block G, Level 1 (Thurs)<br></td>
+    <td class="tg-1hsk"><span style="font-weight:700">MONDAY, 3:15PM TO 5:45PM</span><br>ISH Level 2<br><span style="font-weight:700">WEDNESDAY, 3:15PM TO 5:45PM</span><br>Hall / BLK G</td>
+    <td class="tg-osv9">Mr Tan Thiam Boon (ext 143) <span style="font-weight:bolder">OIC</span><br>Ms Zhang Wen Jie (ext 217)<br>Mdm Connie Yeo (ext 124)</td>
   </tr>
 </tbody>
 </table>
