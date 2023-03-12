@@ -24,22 +24,21 @@ The Floorball CCA aims to foster strong bonds among team members and a competiti
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-osv9{background-color:#F1F1F1;text-align:center;vertical-align:top}
-.tg .tg-0gle{background-color:#ffcb2f;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-1hsk{background-color:#F1F1F1;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0gle">Teachers in-charge</th>
-    <th class="tg-0gle">Committee Members</th>
-    <th class="tg-0gle">Training Information</th>
+    <th class="tg-apyk">TRAINING INFORMATION</th>
+    <th class="tg-apyk">TEACHERS IN-CHARGE</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-osv9">Ms Amelia Tew (ext 140)<br>Ms Nurul Ain Bte Kamaldin (ext 176)<br>Ms Susan Ang (ext 138)<br><br></td>
-    <td class="tg-osv9"><span style="font-weight:bolder">'B' DIVISION Captain</span><br>TAN LI LIN (3A1)<br><br><span style="font-weight:bolder">Vice-Captains</span><br>LIM EN QI, NICOLE (3E1)<br><br><span style="font-weight:bolder">Logistics Officers</span><br>PHUA ZU YI (3E3)<br><br><span style="font-weight:bolder">‘C’ DIVISION Captain</span><br>KOH MIN XUAN (2E3)<br><br><span style="font-weight:bolder">Vice-Captain</span><br>NURUL AMELDA BINTE ALI (2E1)<br><br><span style="font-weight:bolder">Logistics Officer</span><br>TOH XUAN HUI, CALLIE (2E2)<br><br></td>
-    <td class="tg-osv9"><span style="font-weight:bolder">Every Monday &amp; Wednesday</span><br>3pm to 6pm<br><span style="font-weight:bolder">Venue</span><br>Indoor Sports Hall Level 1</td>
+    <td class="tg-1hsk"><span style="font-weight:700">EVERY MONDAY &amp; WEDNESDAY</span><br><span style="font-weight:700">3:15PM TO 5:45PM</span><br>ISH Level 1</td>
+    <td class="tg-osv9">Ms Amelia Tew (ext 140) <span style="font-weight:bolder">OIC</span><br>Ms Nurul Ain Bte Kamaldin (ext 176)<br>Ms Toh Lee Wah (ext 130)</td>
   </tr>
 </tbody>
 </table>
