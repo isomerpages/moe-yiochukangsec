@@ -12,39 +12,39 @@ Confident and fluent users of their mother tongue language 
 
   
 
-****Mission**** 
+**Mission**
 
 To provide authentic learning experiences for students in the learning of MT languages and culture 
 
   
 
-****Key Programmes**** 
+**Key Programmes**
 
   
 
-****MTL Fortnight and Camp**** 
+**MTL Fortnight and Camp**
 
 Students are engaged in authentic learning experience to build their competency as a confident and fluent user of MTL.
 
   
 
-****Weekly Reading Programme**** 
+**Weekly Reading Programme**
 
 This is a Friday weekly reading programme using newspapers, reading articles and subscribed books. The purpose is to provide ample opportunity for students to read MTL reading materials with follow up activities in language learning and current affairs discussions. 
 
   
 
-****In My Opinion (IMO)**** 
+**In My Opinion (IMO)**
 
 As an extension from the reading programme, Upper Secondary students are to provide opinions on current affairs on a weekly or a fortnightly basis. This is to encourage students to improve their competency in expressing opinions as part of oral conversation. 
 
   
 
-****Support Programmes for Graduating Students**** 
+**Support Programmes for Graduating Students** 
 
   
 
-****Morning Oral Practice**** 
+**Morning Oral Practice** 
 
 This is an Oral practice session with MT teachers to provide in-depth discussion for student’s performance and progress in oral conversation.
 
@@ -60,6 +60,3 @@ This is an Oral practice session with MT teachers to provide in-depth discussion
 ![](/images/Our%20Curriculum/Academic%20Programmes/Mother%20Tongue%20Languages/M3.png)
 ![](/images/Our%20Curriculum/Academic%20Programmes/Mother%20Tongue%20Languages/M4.png)
 ![](/images/Our%20Curriculum/Academic%20Programmes/Mother%20Tongue%20Languages/M5.png)
-
-
-
