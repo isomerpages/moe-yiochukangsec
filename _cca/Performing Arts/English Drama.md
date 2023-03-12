@@ -24,24 +24,39 @@ In the English Drama Club, we teach students that drama is more than just acting
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-h2tw{background-color:#FFF;color:#330001;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-osv9{background-color:#F1F1F1;text-align:center;vertical-align:top}
-.tg .tg-euwl{background-color:#FFF;color:#333333;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-htrf{background-color:#FFF;color:#000000;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-euwl">Teachers in-charge</th>
-    <th class="tg-h2tw">Committee Members</th>
-    <th class="tg-htrf">Training Information</th>
+    <th class="tg-1wig">TRAINING INFORMATION</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-osv9">Ms Jezreel Lau (ext 135)<br>Mr Jeremy Chen (ext 145)<br>Mdm Nirmala Devi (ext 133)<br><br></td>
-    <td class="tg-osv9"><span style="font-weight:bolder">President</span><br>Priscilla Loi Hui Ying (3E1)<br><br><span style="font-weight:bolder">Vice-President</span><br>Lee Kim Hao Benny (3A1)<br><br><span style="font-weight:bolder">Publicity</span><br>Meca Ella Canada Mabugat (3E2)<br><br><span style="font-weight:bolder">Logistics</span><br>Tiara Camila Khairunnisa Binti Suhaimi (2E2)<br><br></td>
-    <td class="tg-osv9"><span style="font-weight:bolder">Every Tuesday</span><br>3pm to 5pm<br><span style="font-weight:bolder">Venue</span><br>Dance Studio 2</td>
+    <td class="tg-0lax">Every Tuesday 3:15PM to 5:45PM</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Dance Studio 2 (Level 3) &amp;</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Heritage Gallery (Level 3)</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">TEACHERS IN-CHARGE</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ms Jezreel Lau (OIC) (ext 135)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Chen Weiguo Jeremy (ext 145)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mdm Nirmala Devi (ext 133)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mdm Vidya (ext 200)</td>
   </tr>
 </tbody>
 </table>
