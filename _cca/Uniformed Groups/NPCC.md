@@ -28,23 +28,42 @@ In NPCC, the cadets get a chance to learn more about the Singapore Police Force 
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-osv9{background-color:#F1F1F1;text-align:center;vertical-align:top}
-.tg .tg-1hsk{background-color:#F1F1F1;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-mked{background-color:#3166ff;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mked">Teachers-in-charge</th>
-    <th class="tg-mked">Committee Members</th>
-    <th class="tg-mked">Training Information</th>
+    <th class="tg-1wig">TRAINING INFORMATION</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-osv9">Mr Wong Mingwei (ext 141)<br>Ms Chia Yi Ying (ext 149)<br>Ms Goh Yu Fan (ext 174)<br>Mr M Vijeyaa (ext 140)<br>Mr Mohd Fayumi (Ext 170)<br></td>
-    <td class="tg-1hsk"><span style="font-weight:bolder">Overall-in-charge</span><br>LIM BOON YU (3A1)<br><span style="font-weight:bolder">Assistant-in-charge</span><br>NUR RASHIQA (3E2)</td>
-    <td class="tg-1hsk"><span style="font-weight:bolder">Every Tuesday</span><br>2:45pm to 6pm<br><span style="color:#F0506E">(Thursday is reserved for make-up training during competition periods</span><br><span style="color:#F0506E">or if a Public Holiday falls on Tuesday or during competition periods)</span><br>Additional involvement on OTHER DAYS<br>for HQ activities<br><span style="font-weight:bolder">Venue</span><br>Area outside Hall / Classrooms</td>
+    <td class="tg-0lax">Every Tuesday 3:15PM to 5:45PM</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">NPCC Room &amp; Classroom Blk D L1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Additional involvement on</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">OTHER DAYS for HQ activities</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">TEACHERS IN-CHARGE</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ms Goh Yu Fan (ext 174) OIC</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mr Wong Mingwei (ext 141)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mr Mohd Fayumi (ext 170)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mr Joseph C. George (ext 148)</td>
   </tr>
 </tbody>
 </table>
