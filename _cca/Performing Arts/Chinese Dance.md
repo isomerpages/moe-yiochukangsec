@@ -27,26 +27,48 @@ The Chinese Dance Club aims to engage the dancers in fun and interesting ways. W
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lqrs{background-color:#FDD;text-align:center;vertical-align:top}
-.tg .tg-457i{background-color:#E91E63;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-fvdm{background-color:#2196F3;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-duc4{background-color:#4CAF50;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-sqly{background-color:#DFF;text-align:center;vertical-align:top}
-.tg .tg-bpmc{background-color:#DFD;text-align:center;vertical-align:top}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-457i"><span style="color:#FFF;background-color:#E91E63">Teachers in-charge</span></th>
-    <th class="tg-fvdm"><span style="color:#FFF;background-color:#2196F3">Committee Members</span></th>
-    <th class="tg-duc4"><span style="color:#FFF;background-color:#4CAF50">Training Information</span></th>
+    <th class="tg-1wig">TRAINING INFORMATION</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-lqrs"><span style="color:#000;background-color:#FDD">Ms Teo Hwee Hong (ext 123)</span><br><span style="color:#000;background-color:#FDD">Ms Tan Chun Buei (ext 172)</span><br><span style="color:#000;background-color:#FDD">Mdm Ye YuLuan (ext 175)</span><br><br></td>
-    <td class="tg-sqly"><span style="font-weight:bolder">President</span><br><span style="color:#000;background-color:#DFF">Tan Jia Yu (3A1)</span><br><br><span style="font-weight:bolder">Vice-President</span><br><span style="color:#000;background-color:#DFF">Koh Ruo Le (3E1)</span><br><br></td>
-    <td class="tg-bpmc"><span style="font-weight:bolder">Every Tuesday</span><br><span style="color:#000;background-color:#DFD">3pm to 5:45pm</span><br><br><span style="font-weight:bolder">Every Thursday</span><br><span style="color:#000;background-color:#DFD">3pm to 5.45pm</span><br><br><span style="font-weight:bolder">Venue:</span><br><span style="color:#000;background-color:#DFD">Hall/Dance Studio</span><br></td>
+    <td class="tg-0lax">EVERY TUESDAY</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3:15PM TO 5:45PM</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Dance Studio 1 (Level 3); or</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Hall (Level 2)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">EVERY THURSDAY</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3:15PM TO 5:45PM</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Dance Studio 1 (Level 3)</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">TEACHERS IN-CHARGE</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ms Tan Chun Buei (OIC) (ext 172)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ms Teo Hwee Hong (ext 123)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mdm Ye Yuluan (ext 197)</td>
   </tr>
 </tbody>
 </table> </p>
