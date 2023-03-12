@@ -27,22 +27,36 @@ The Malay Dance CCA aims to instill the importance of self-discipline, confidenc
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-4bw1{background-color:#ffffff;color:#333333;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-4jb6{background-color:#ffffff;color:#333333;text-align:center;vertical-align:top}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-4bw1">Teachers in-charge</th>
-    <th class="tg-4bw1">Committee Members</th>
-    <th class="tg-4bw1">Training Information</th>
+    <th class="tg-1wig">TRAINING INFORMATION</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-4jb6">Mdm Sutinah (ext 126)<br>Mdm Siti Aisha (ext 172)<br>Ms Nur Fatimah (ext 171)<br><br></td>
-    <td class="tg-4jb6"><span style="font-weight:bolder">President</span><br>Illya Batrisyah Putri (3E2)<br><br><span style="font-weight:bolder">Vice-President</span><br>Siti Nur Ufa’irah (3E2)<br><br><span style="font-weight:bolder">Logistics</span><br>Nurul Sabrina Putri (3A1)<br>Muhammad Syaziq (3T1)<br>Muhammad Nizam (3T1)<br><br><br></td>
-    <td class="tg-4bw1"><span style="font-weight:bolder">Every Monday &amp; Wednesday</span><br>3pm to 5:30pm<br><span style="font-weight:bolder">Venue</span><br>Dance Studio</td>
+    <td class="tg-0lax">Every Wednesday</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3:15PM to 5:45PM</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Dance Studio 2 (Level 3)</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">TEACHERS IN-CHARGE</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mdm Sutinah (OIC) (ext 126)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mdm Siti Aisha (ext 285)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mrs Emily Ng (ext 123)</td>
   </tr>
 </tbody>
 </table> </p>
