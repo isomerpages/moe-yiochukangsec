@@ -12,13 +12,13 @@ Passionate learners who are agile and active contributors in the future economy�
 
   
 
-****Mission****  
+**Mission**
 
 To equip students with key skills, knowledge and attitude for successful careers in the technology and services sectors 
 
   
 
-****Key Programmes**** 
+**Key Programmes**
 
   
 
@@ -70,7 +70,3 @@ Syllabus objectives from curriculum subjects such as Social Studies, Elements of
 ![](/images/Our%20Curriculum/Academic%20Programmes/NT%20Special%20Subjects/N6.png)
 ![](/images/Our%20Curriculum/Academic%20Programmes/NT%20Special%20Subjects/N7.jpg)
 ![](/images/Our%20Curriculum/Academic%20Programmes/NT%20Special%20Subjects/N8.png)
-
-
-
-
