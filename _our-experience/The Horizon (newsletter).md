@@ -50,7 +50,7 @@ You can read the articles or watch the news broadcast via the links below.
 *   [ISSUE 7 (JAN - MAY 2022)](/files/The%20Horizon%20(newsletter)/YCKSS%202022%20SEM%201%20MAGAZINE_v3pdf.pdf)
 *   [ISSUE 6 (JUN - OCT 2021)](/files/The%20Horizon%20(newsletter)/THE%20HORIZON%20SEM%202%202021.pdf)
 *   [ISSUE 5 (JAN - MAY 2021)](/files/The%20Horizon%20(newsletter)/2021%20Jan-May.pdf)
-*   Journey through 2020: Video Edition  
+*   Journey through 2020: Video Edition.   
     ( [PART 1](https://www.youtube.com/watch?v=lOQVsDo-_AI&feature=youtu.be) | [PART 2](https://www.youtube.com/watch?v=mYRZgy5c-fs&feature=youtu.be) | [PART 3](https://youtu.be/BDBEUba8dyc) )
 *   [ISSUE 4 (JUN - NOV 2019)](/files/The%20Horizon%20(newsletter)/Newsletter%204.pdf)
 *   [ISSUE 3 (JAN – MAY 2019)](/files/The%20Horizon%20(newsletter)/Newsletter%20Issue%203%20Final%20Update.pdf)
