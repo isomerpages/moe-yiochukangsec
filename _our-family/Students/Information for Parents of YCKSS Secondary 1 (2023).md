@@ -12,7 +12,7 @@ This [Handbook](/files/Students/Info%20for%20Prnts%20of%20YCKSS%20Sec%201/YCKSS
 
 All necessary information is provided [via the handbook](/files/Students/Info%20for%20Prnts%20of%20YCKSS%20Sec%201/YCKSS%20Parents%20Handbook%20for%20Secondary%20One%202022.pdf) and on Parents Gateway. You **DO NOT** need to come to school in person on 21 December 2022.
 
-You are encouraged to purchase your child’s / ward’s textbooks and school uniform online or at the designated dates and time slot stated on [Page 5 Of The Parent's Handbook](/Page-5-Of-The-Parents-Handbook/)
+You are encouraged to purchase your child’s / ward’s textbooks and school uniform online or at the designated dates and time slot stated on **[Page 5 Of The Parent's Handbook](/Page-5-Of-The-Parents-Handbook/)**
 
 Do also take note of the following important information:
 
