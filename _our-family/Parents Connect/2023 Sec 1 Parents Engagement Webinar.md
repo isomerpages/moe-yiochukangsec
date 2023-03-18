@@ -4,8 +4,6 @@ permalink: /our-family/parents-connect/2023-sec-1-parents-engagement-webinar/
 description: ""
 third_nav_title: Parents Connect
 ---
-
-
 ### **Slides of Webinar on 14 Jan 2023 (Sat)**
 
 <style type="text/css">
@@ -32,7 +30,7 @@ third_nav_title: Parents Connect
   <tr>
     <td class="tg-7yig"> <span style="font-weight:bolder">Opening Address by Principal</span></td>
     <td class="tg-7yig">Mrs Carol Lim (Principal) </td>
-    <td class="tg-hmcn" rowspan="6"><a href="/files/Parents%20Connect/2022%20Sec%201%20Parents%20Engagem/Sec%201%202022%20Parents%20Engagement%20Webinar%2015%20Jan%202022.pdf"><span style="text-decoration:none;color:#1E87F0">Slides - Part 1 </span></a><br> <br> <br> </td>
+    <td class="tg-hmcn" rowspan="6"><a href="/files/Students/2023%20Parents%20Webinar/Sec%201%202023%20Parents%20Engagement%20Webinar%2014%20Jan%202023.pdf"><span style="text-decoration:none;color:#1E87F0">Slides - Part 1 </span></a><br> <br> <br> </td>
   </tr>
   <tr>
     <td class="tg-7yig"> <span style="font-weight:bolder">Secondary School Education, Assessment Policy</span></td>
@@ -57,7 +55,7 @@ third_nav_title: Parents Connect
   <tr>
     <td class="tg-9hzb">National Digital Literacy Programme &amp;<br>YCKSS Digital Education Programme</td>
     <td class="tg-7yig">Mr Desmond Pang (HOD ICT)<br>Mr Brandon Chin (SH Digital Learning)</td>
-    <td class="tg-hmcn"><a href="/files/Parents%20Connect/2022%20Sec%201%20Parents%20Engagem/For%20Sharing%20NDLP%20-%20Briefing%20for%20Parents%2015%20Jan%202022.pdf"><span style="text-decoration:none;color:#1E87F0">Slides - Part 2</span></a></td>
+    <td class="tg-hmcn"><a href="/files/Students/2023%20Parents%20Webinar/For%20Parents%20NDLP%20-%20Briefing%20for%20Parents%2014%20Jan%202023.pdf"><span style="text-decoration:none;color:#1E87F0">Slides - Part 2</span></a></td>
   </tr>
 </tbody>
 </table>
