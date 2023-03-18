@@ -41,16 +41,16 @@ Click the links below for details. This will be refreshed for each term.
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/WA%20Term%201%202023/Secondary%2045%20Weighted%20Assessment%20ScheduleV2%20Term%201%202023.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 4 &amp; 5</span></a></td>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/WA%20Term%201%202023/Secondary%203%20Weighted%20Assessment%20Schedule%20Term%201%202023.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 3</span></a><br></td>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/WA%20Term%201%202023/Secondary%202%20Weighted%20AssessmentTerm%201%20Schedule%202023updated.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 2</span></a><br></td>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/WA%20Term%201%202023/Secondary%201A_B_C%20Weighted%20AssessmentTerm%201%20Schedule%202023.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 1A,1B,1C</span></a><br></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/NEW/Secondary%2045%20Weighted%20Assessment%20ScheduleV2%20Term%201%202023.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 4 &amp; 5</span></a></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/NEW/Secondary%203%20Weighted%20Assessment%20Schedule%20Term%201%202023.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 3</span></a><br></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/NEW/Secondary%202%20Weighted%20AssessmentTerm%201%20Schedule%202023updated.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 2</span></a><br></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/NEW/Secondary%201A_B_C%20Weighted%20AssessmentTerm%201%20Schedule%202023.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 1A,1B,1C</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">-</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">--</span></td>
-    <td class="tg-hmcn"><a href="https://yiochukangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u133/For%20Students/Assessment/Secondary%202NA%20Weighted%20AssessmentTerm%201%20Schedule%202022n.pdf"><span style="text-decoration:none;color:#1E87F0"> </span></a><span style="color:#222;background-color:transparent">--</span></td>
-    <td class="tg-hmcn"><a href="https://yiochukangsec.moe.edu.sg/qql/slot/u133/For%20Students/Assessment/WA%20Term%201%202023/Secondary%201D_E_F%20Weighted%20AssessmentTerm%201%20Schedule%202023.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 1D,1E,1F </span></a></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/NEW/Secondary%202NA%20Weighted%20AssessmentTerm%201%20Schedule%202022n.pdf"><span style="text-decoration:none;color:#1E87F0"> </span></a><span style="color:#222;background-color:transparent">--</span></td>
+    <td class="tg-hmcn"><a href="/files/Students/Assessment%20Information%20Sche/NEW/Secondary%201D_E_F%20Weighted%20AssessmentTerm%201%20Schedule%202023.pdf"><span style="text-decoration:none;color:#1E87F0">Sec 1D,1E,1F </span></a></td>
   </tr>
 </tbody>
 </table>
