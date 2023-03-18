@@ -8,6 +8,7 @@ third_nav_title: Students
 
 *   [The Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 *   [Ace Learning](https://www.ace-learning.com/)
+*   [YCKSS Library OPAC System](https://schoolibrary.moe.edu.sg/yiochukangsec)
 *   [Singapore Examination and Assessment Board](https://www.seab.gov.sg/)
 
 *   [YCKSS Alumni Application](http://tinyurl.com/yckss-alumin/)
