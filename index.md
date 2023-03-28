@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/YCKSS Homepage.gif
       key_highlights:
         - title: ANNOUNCEMENTS
           description: Click here
