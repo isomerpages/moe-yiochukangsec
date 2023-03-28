@@ -112,9 +112,9 @@ The school has in place measures to enable a safe and seamless learning environm
 			
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/NDLP%20@%20YCKSS/N5.jpg"><br>
 			
-The role of the parent is also key in partnering the school to support your child. Parents could refer to the school's <b>Digital Wellness Policy (DWP)</b> when helping to manage your child’s use of digital devices and platforms. The policy will help your child to understand digital wellness matters and to enable a conducive learning environment. The DWP can be found in the YCKSS Digital Student Handbook 2022.<br> 
+The role of the parent is also key in partnering the school to support your child. Parents could refer to the school's <b>Digital Wellness Policy (DWP)</b> when helping to manage your child’s use of digital devices and platforms. The policy will help your child to understand digital wellness matters and to enable a conducive learning environment. The DWP can be found in the [YCKSS Digital Student Handbook 2023](/files/Students/Student%20Handbook%202023/YCKSS%20STUDENT%20HANDBOOK%202023%20PDF.pdf).<br> 
 
-The <b>Acceptable Use Policy (AUP)</b> sets out the rules and regulations that govern the use of PLD by students. This policy will serve to ensure the safe and secure use of the device, and facilitate effective learning with technology. The AUP can be found in the YCKSS Digital Student Handbook 2022.<br>
+The <b>Acceptable Use Policy (AUP)</b> sets out the rules and regulations that govern the use of PLD by students. This policy will serve to ensure the safe and secure use of the device, and facilitate effective learning with technology. The AUP can be found in the [YCKSS Digital Student Handbook 2023](/files/Students/Student%20Handbook%202023/YCKSS%20STUDENT%20HANDBOOK%202023%20PDF.pdf).<br>
 			
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/NDLP%20@%20YCKSS/N6.jpg"><br><br>
 			
