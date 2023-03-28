@@ -17,5 +17,4 @@ sections:
         - title: CALENDAR
           description: Click here
           url: ""
-      background: /images/Homepage/YCKSS Homepage GIF.gif
 ---
