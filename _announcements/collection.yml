@@ -1,0 +1,7 @@
+collections:
+  announcements:
+    output: true
+    order:
+      - Sec 1 Parents Engagement Webinar 2023.md
+      - Appeal to join YCKSS.md
+      - Information for Parents of YCKSS Secondary 1 (2023).md

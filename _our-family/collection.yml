@@ -1,0 +1,28 @@
+collections:
+  our-family:
+    output: true
+    order:
+      - Students/Information for Parents of YCKSS Secondary 1 (2023).md
+      - Students/Student Handbook 2023.md
+      - Students/Assessment & Promotion.md
+      - Students/Booklist.md
+      - Students/Class Timetable and Schedules.md
+      - Students/Assessment Information & Schedules.md
+      - Students/Direct School Admission.md
+      - Students/Students Code of Conduct.md
+      - Students/Financial Assistance.md
+      - Students/School Uniform.md
+      - Students/Useful Links.md
+      - Students/.keep
+      - Staff/Professional Development Activities.md
+      - Staff/SWC Activities.md
+      - Staff/Useful Links.md
+      - Staff/Organisation Chart.md
+      - Staff/.keep
+      - Parents Connect/Parents Connect.md
+      - Parents Connect/Principal's Letters to Parents.md
+      - Parents Connect/2023 Sec 1 Parents Engagement Webinar.md
+      - Parents Connect/.keep
+      - School Advisory Committee.md
+      - Alumni.md
+      - Parents Gateway.md
