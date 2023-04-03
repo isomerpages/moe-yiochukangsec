@@ -101,7 +101,6 @@ Other educational opportunities include learning journeys and activities within 
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Environ%20Edu%20Eco%20Ace%20Program/Educate/E2.png">
 	<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Environ%20Edu%20Eco%20Ace%20Program/Educate/E3.png">
 </p>
-	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Mvt6ue9TaJY" height="315" width="560"></iframe>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
