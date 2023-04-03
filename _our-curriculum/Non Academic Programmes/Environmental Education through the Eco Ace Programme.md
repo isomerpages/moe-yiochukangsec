@@ -22,7 +22,7 @@ The Environmental Education Programme in Yio Chu Kang Secondary School, known as
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/Environ%20Edu%20Eco%20Ace%20Program/Environ%20Edu%20Eco%20Ace%20Program/E2.png)
 
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/Environ%20Edu%20Eco%20Ace%20Program/Environ%20Edu%20Eco%20Ace%20Program/E3.png)
-
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Mvt6ue9TaJY" height="315" width="560"></iframe>
 <ul class="jekyllcodex_accordion">
 
 &nbsp;&nbsp;<li>
