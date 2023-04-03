@@ -18,4 +18,10 @@ sections:
           description: Click here
           url: https://sites.google.com/moe.edu.sg/ 2023-yckss-calendar
       background: /images/Homepage/YCKSS GIF Homepage.gif
+  - infopic:
+      title: Visit Us
+      button: Enter Here
+      url: https://4d.silvrcraft.com/yckss360vt/index.htm
+      image: /images/openhouse.jpg
+      alt: Image alt text
 ---
