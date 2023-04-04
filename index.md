@@ -23,5 +23,5 @@ sections:
       button: Enter Here
       url: https://4d.silvrcraft.com/yckss360vt/index.htm
       image: /images/openhouse.jpg
-      alt: Image alt text
+      alt: Virtual Tour
 ---
