@@ -24,6 +24,4 @@ sections:
       url: https://4d.silvrcraft.com/yckss360vt/index.htm
       image: /images/openhouse.jpg
       alt: Virtual Tour
-  - resources:
-      title: Visit Us
 ---
