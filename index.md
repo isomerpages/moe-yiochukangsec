@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/YCKSS Homepage.gif
       key_highlights:
         - title: ANNOUNCEMENTS
           description: Click here
@@ -17,5 +16,12 @@ sections:
           url: /Contact-us/
         - title: CALENDAR
           description: Click here
-          url: ""
+          url: https://sites.google.com/moe.edu.sg/2023-yckss-calendar
+      background: /images/Homepage/YCKSS GIF Homepage.gif
+  - infopic:
+      title: Visit Us
+      button: Enter Here
+      url: https://4d.silvrcraft.com/yckss360vt/index.htm
+      image: /images/openhouse.jpg
+      alt: Virtual Tour
 ---

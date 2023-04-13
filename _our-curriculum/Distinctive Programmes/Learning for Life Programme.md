@@ -98,36 +98,11 @@ Successful DSA applicants through AMD are expected to enrol in the relevant perf
 </li>
 	<li>
 
+    
+
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Outstanding Student Award (AMD 2018)</label>
-
-    <div>
-
-     <p>   
-Each year, 5 individuals from each of the 5 modules will be awarded the Outstanding Student Award. These students are awarded for being positive role models to their peers in their pursuit to hone their craft in Arts, Media and Design.<br>   
-  
-2018 Secondary 2 Cohort<br>  
-
-*   Nur Fae'iqa Ruqayyah Binte Abdullah (Class 2E2) for Modern Dance  
-    
-*   Liu Chang Bo (Class 2E2) for Drama  
-    
-*   Dacanay Norvin Cj Marc Gongon (Class 2A1) for Music (Rock & Pop)   
-    
-*   Jensen Lee Ming Heng (Class 2E2) for Short Film Production  
-    
-*   Huang Zihang (Class 2E2) for Interior Design </p>
-
-    </div>
-
-</li>
-	
-<li>
-
-    <input type="checkbox" id="accordion3">
-
-    <label for="accordion3">Arts Exposure!</label>
+    <label for="accordion2">Arts Exposure!</label>
 
     <div>
 
@@ -156,9 +131,9 @@ Upcoming productions in 2019:\\
 	
 <li>
 
-    <input type="checkbox" id="accordion4">
+    <input type="checkbox" id="accordion3">
 
-    <label for="accordion4">Arts Enrichment</label>
+    <label for="accordion3">Arts Enrichment</label>
 
     <div>
 
@@ -188,9 +163,9 @@ This course aims to enhance students’ aesthetic learning experience by encoura
 	
 <li>
 
-    <input type="checkbox" id="accordion5">
+    <input type="checkbox" id="accordion4">
 
-    <label for="accordion5">YCKSS Showtime!</label>
+    <label for="accordion4">YCKSS Showtime!</label>
 
     <div>
 
@@ -202,9 +177,9 @@ This course aims to enhance students’ aesthetic learning experience by encoura
 	
 <li>
 
-    <input type="checkbox" id="accordion6">
+    <input type="checkbox" id="accordion5">
 
-    <label for="accordion6">Sec 2 AMD Showcase</label>
+    <label for="accordion5">Sec 2 AMD Showcase</label>
 
     <div>
 
