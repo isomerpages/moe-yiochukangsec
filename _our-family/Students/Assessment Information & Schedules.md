@@ -23,6 +23,6 @@ Click the links below for details. This will be refreshed for each term.
 	
 
 
-| Sec 1 (A, B, C)  | Sec 1 (D, E, F) | Sec 2
-| -------- | -------- | -------- |
-|      | Text     | Text     |
+| Sec 1 (A, B, C)  | Sec 1 (D, E, F) | Sec 2 | Sec 3 | Sec 4/5
+| -------- | -------- | -------- | -------- | -------- 
+| [Schedule](/files/Students/Assessment%20Information%20Sche/secondary%201a_b_c%20weighted%20assessment(term%202)%20schedule%202023.pdf)     | [Schedule](/files/Students/Assessment%20Information%20Sche/secondary%201d_e_f%20weighted%20assessment(term%202)%20schedule%202023.pdf)     | [Schedule](/files/Students/Assessment%20Information%20Sche/secondary%202%20weighted%20assessment(term%202)%20schedule%202023.pdf)     |  [Schedule](/files/Students/Assessment%20Information%20Sche/secondary%203%20weighted%20assessment%20schedule%20(term%202)%202023.pdf)    | [Schedule](/files/Students/Assessment%20Information%20Sche/secondary%204&5%20weighted%20assessment%20schedule%20(term%202)%202023.pdf)
