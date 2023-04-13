@@ -26,13 +26,3 @@ Click the links below for details. This will be refreshed for each term.
 | Sec 1 (A, B, C)  | Sec 1 (D, E, F) | Sec 2
 | -------- | -------- | -------- |
 |      | Text     | Text     |
-
-
-
-
-
-
-
-
-
-
