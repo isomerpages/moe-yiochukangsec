@@ -11,7 +11,7 @@ Also available here is the latest assessment schedule for each course and level.
 Click the links below for details. This will be refreshed for each term.
 
   
-**Assessment Rules &amp; Regulations**
+### **Assessment Rules &amp; Regulations**
 
 [Weighted Assessment Rules &amp; Regulations 2023](/files/Students/Assessment%20Information%20Sche/NEW/YCKSS%20Weighted%20Assessment%20Rules%20and%20Regulations.pdf)&nbsp; **   (updated on 31 Jan 2023)**
 
