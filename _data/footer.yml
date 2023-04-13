@@ -1,6 +1,4 @@
-contact_us: /contact-us/
-show_reach: true
-faq: /faq/
+show_reach: false
 social_media:
   facebook: https://www.facebook.com/yiochukangsec
   youtube: https://www.youtube.com/channel/UCz4WyCLtQCBhQA60nFr5jNw
