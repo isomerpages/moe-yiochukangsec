@@ -213,9 +213,3 @@ You may click [here](/files/Sexuality%20Education%20(SEd)/yckss%20sed%20curricul
 14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-
-	
-	
-
-	
