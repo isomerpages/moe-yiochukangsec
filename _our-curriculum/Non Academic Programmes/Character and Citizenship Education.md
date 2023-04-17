@@ -176,7 +176,7 @@ The NE Unit also seeks for opportunities to work with partners to enhance the ce
 
 (d) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.<br><br>
 
-&nbsp; You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education">here</a> for more information on MOE Sexuality Education. 	
+&nbsp; You may click <a target="_blank" href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education">here</a> for more information on MOE Sexuality Education. 	
 	
 &nbsp;You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education.<br><br>
 
