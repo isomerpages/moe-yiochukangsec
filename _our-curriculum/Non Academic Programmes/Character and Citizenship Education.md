@@ -42,23 +42,18 @@ CCE lessons are also a platform to deliver the National Education (NE) experienc
 **Key Personnel in charge: Ms Sin Puay San \[HOD CCE\] (ext: 109)**
 
 
-<ul class="jekyllcodex_accordion">
 
-&nbsp;&nbsp;<li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
+#### Education Career Guidance&nbsp;(ECG)
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Education&nbsp;and&nbsp;Career&nbsp;Guidance&nbsp;(ECG)</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
+<div>
 <p>   
 Education and Career Guidance (ECG) is about engaging, inspiring and challenging students to develop aspirations and plan proactively for their future. The acquisition of knowledge about self and opportunities in education and work will enable students to apply decision-making skills and develop plans to achieve their career aspirations and life goals. Through ECG, social emotional competencies such as proactivity, adaptability and resilience are developed to prepare students for the 21st Century workforce.<br><br>  
   
 Through the ECG Curriculum, we aim to:<br>  
 
-&gt; • deepen students’ understanding of self and relate schooling to the different education and career pathways  
-&gt; • enable students to synthesise information gathered from relevant sources to make sound educational and career decisions
+ • deepen students’ understanding of self and relate schooling to the different education and career pathways  
+ • enable students to synthesise information gathered from relevant sources to make sound educational and career decisions
 
   
 At Yio Chu Kang Secondary School, the ECG curriculum is delivered through the following three modes:<br>  
@@ -131,42 +126,34 @@ To make the learning real and to equip students with a better understanding of t
 			
 3. <b>ECG Counselling</b><br>&nbsp;  
 
-&gt; •&nbsp;One-to-One conferencing with FTs during chit chat sessions of FT Time  
-&gt; •&nbsp;Career consultations with our ECG Counsellor, Mr Elvis Sio<br> 
+•&nbsp;One-to-One conferencing with FTs during chit chat sessions of FT Time  
+	•&nbsp;Career consultations with our ECG Counsellor, Mr Elvis Sio<br> 
 			  
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/ECG/E1.jpg"> </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
-</li>
-	<li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
+#### National Education (NE)
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">National&nbsp;Education&nbsp;(NE)</label>
+<div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> National Education is experienced through the 4 key NE celebrations that are run throughout the year. Total Defence Day, International Friendship Day, Racial Harmony Day and National Day.<br>
+<p> National Education is experienced through the 4 key NE celebrations that are run throughout the year. Total Defence Day, International Friendship Day, Racial Harmony Day and National Day.<br>
   
 Through a variety of activities ranging from learning packages to cultural displays and parades, students immerse themselves in the uniqueness that is Singapore.<br>  
-  
 The NE Unit also seeks for opportunities to work with partners to enhance the celebrations. Partners we have worked with include Parents and the International Students Integration Programme group.<br><br>
 			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/National%20Education%20(NE)/N1.png"><br>
 			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/National%20Education%20(NE)/N2.png"></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
-</li>
-	
-<li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Sexuality&nbsp;Education&nbsp;(SEd)</label>
+
+
+#### Sexuality Education (SEd)
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
-
 <p> <img style="width:30%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/Sexuality%20Education%20(SEd)/S1.png"><br>
 	
 1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.<br><br>
@@ -193,7 +180,7 @@ The NE Unit also seeks for opportunities to work with partners to enhance the ce
 
 ##### <b>**Overview of Yio Chu Kang Secondary School’s Sexuality Education Programme for 2023**</b><br><br>
 
-4. Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.<br> ****
+4. Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.<br> 
 
 5. The subjects that incorporate topics on sexuality include:<br>
 
@@ -206,7 +193,7 @@ b. Character and Citizenship Education (CCE)<br>
 
 7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.<br><br>
 
-<b> eTeens&nbsp;Programme:</b><br>
+##### <b> eTeens Programme:</b><br>
 
 8. eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective.&nbsp;_eTeens_&nbsp;is conducted in two segments – a mass talk segment and a classroom-based programme.<br>
 
@@ -227,9 +214,8 @@ You may click [here](/files/Sexuality%20Education%20(SEd)/yckss%20sed%20curricul
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
-</li>
+
 	
 	
 
 	
-</ul>
