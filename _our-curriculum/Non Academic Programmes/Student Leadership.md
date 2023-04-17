@@ -84,9 +84,3 @@ To forge a caring school community where students feel safe and have a sense of 
 <p> The school recognises the contributions and commitment of our Student Leaders.&nbsp; One way is by awarding them leadership attainment levels through the LEAPS 2.0 scheme.&nbsp; Student Leaders are also officially invested through the Student Leaders’ Investiture, a formal ceremony which recognises the appointment of the various groups of Student Leaders such as the Class Leaders, CCA Leaders, Sports Leaders and Student Councillors.&nbsp; Letters of Appointment and collar pins or badges are presented to the Student Leaders during the Investiture.&nbsp; Certificates of Appreciation are also presented to the outgoing Student Leaders during the Investiture, as a mark of the school’s appreciation towards their effort and contribution to the school. </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-
-
-	
-	
-
-	
