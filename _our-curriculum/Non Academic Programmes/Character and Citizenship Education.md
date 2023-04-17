@@ -20,21 +20,21 @@ Honesty
   
 The goal of Character and Citizenship Education (CCE) is to inculcate values and build competencies in our students to help them grow to be good individuals and useful citizens. In Yio Chu Kang Secondary School, every teacher is a CCE teacher who engages the students to develop knowledge, skills and attitude to make informed and responsible choices in their lives. This is done through CCE lessons where our teachers facilitate students’ learning for building positive character and citizenry according to the following themes.  
 
-&gt; • The Leader Within  
-&gt; • Family Our Foundation  
-&gt; • Being a Positive Influence  
-&gt; • Thinking Hearts, Feeling Minds  
-&gt; • U &amp; I in the Community  
-&gt; • This is Home Truly  
-&gt; • The World in Singapore
+ • The Leader Within  
+ • Family Our Foundation  
+ • Being a Positive Influence  
+ • Thinking Hearts, Feeling Minds  
+ • U &amp; I in the Community  
+ • This is Home Truly  
+ • The World in Singapore
 
   
 To develop social and emotional competencies in students, the following programmes are incorporated into CCE lessons:  
 
-&gt; • Cyber Wellness&nbsp;  
-&gt; • Education and Career Guidance&nbsp;  
-&gt; • Sexuality Education&nbsp;  
-&gt; • Values in Action&nbsp;
+ • Cyber Wellness&nbsp;  
+ • Education and Career Guidance&nbsp;  
+ • Sexuality Education&nbsp;  
+ • Values in Action&nbsp;
 
   
 CCE lessons are also a platform to deliver the National Education (NE) experience. \[link to NE webpage\]
