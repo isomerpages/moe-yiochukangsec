@@ -212,18 +212,17 @@ b. Character and Citizenship Education (CCE)<br>
 
 9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages.&nbsp;The desired outcome of the&nbsp;_eTeens_&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.<br><br>
 
-You may click [here](/files/Sexuality%20Education%20(SEd)/yckss%20sed%20curriculum%202023.pdf) for more information on YCKSS Sexuality Education.<br><br>
+You may click [here](/files/Sexuality%20Education%20(SEd)/yckss%20sed%20curriculum%202023.pdf) for more information on YCKSS Sexuality Education.
 
-<b>Information for Parents</b><br><br>
+#####  <b>Information for Parents</b><br>
 
-10. Parents may opt their children out of the Sexuality Education lessons,&nbsp;_eTeens_&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.<br><br>
+10. Parents may opt their children out of the Sexuality Education lessons,&nbsp;_eTeens_&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.<br>
 
-	11. Parents who wish to opt their children out of the&nbsp;<b>Sexuality Education lessons</b>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Sexuality%20Education%20(SEd)/2023%20sed%20letter%20and%20opt%20out%20form%20(hardcopy).pdf). The completed form is to be submitted by 03/02/2023.<br><br>
+11. Parents who wish to opt their children out of the&nbsp;<b>Sexuality Education lessons</b>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Sexuality%20Education%20(SEd)/2023%20sed%20letter%20and%20opt%20out%20form%20(hardcopy).pdf). The completed form is to be submitted by 03/02/2023.<br>
 
-	12. Parents who wish to opt their children out of the&nbsp;<b>_eTeens programme</b>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Sexuality%20Education%20(SEd)/2023%20s3%20eteens%20parents%20opt-out%20form%20(hardcopy).pdf).&nbsp; The completed form is to be submitted by 03/02/2023.<br><br>
+12. Parents who wish to opt their children out of the&nbsp;<b>_eTeens programme</b>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Sexuality%20Education%20(SEd)/2023%20s3%20eteens%20parents%20opt-out%20form%20(hardcopy).pdf).&nbsp; The completed form is to be submitted by 03/02/2023.<br>
 
-13. Parents can contact the school at ;64560669 or email the school, <a href="mailto:yckss@moe.edu.sg">yckss@moe.edu.sg</a> for discussion or to seek clarification about the school’s sexuality education programme.<br><br> 
-
+13. Parents can contact the school at 64560669 or email the school, <a href="mailto:yckss@moe.edu.sg">yckss@moe.edu.sg</a> for discussion or to seek clarification about the school’s sexuality education programme.<br> 
 14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
