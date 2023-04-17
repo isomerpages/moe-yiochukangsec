@@ -176,11 +176,13 @@ The NE Unit also seeks for opportunities to work with partners to enhance the ce
 
 (d) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.<br><br>
 
+&nbsp; You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education">here</a> for more information on MOE Sexuality Education. 	
+	
 &nbsp;You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education.<br><br>
 
 ##### <b>**Overview of Yio Chu Kang Secondary School’s Sexuality Education Programme for 2023**</b><br><br>
 
-4. Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may [click here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach/) for more information on the scope of Sexuality Education in the school curriculum.<br> 
+4. Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach/) for more information on the scope of Sexuality Education in the school curriculum.<br> 
 
 5. The subjects that incorporate topics on sexuality include:<br>
 
