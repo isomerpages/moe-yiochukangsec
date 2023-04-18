@@ -55,8 +55,3 @@ In DSA-Sec Exercise 2023, we are looking for promising Primary Six students or s
 Click on the **respective category** to access the specific DSA talent areas application procedure.
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
-
-
-#### **2023 DSA-SEC Timeline**
-
-![](/images/dsa2023.png)
