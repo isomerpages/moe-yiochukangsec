@@ -212,6 +212,6 @@ You may click [here](/files/Sexuality%20Education%20(SEd)/yckss%20sed%20curricul
 12. Parents who wish to opt their children out of the&nbsp;<b>_eTeens programme</b>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Sexuality%20Education%20(SEd)/2023%20s3%20eteens%20parents%20opt-out%20form%20(hardcopy).pdf).&nbsp; The completed form is to be submitted by 03/02/2023.<br>
 
 13. Parents can contact the school at 64560669 or email the school, <a href="mailto:yckss@moe.edu.sg">yckss@moe.edu.sg</a> for discussion or to seek clarification about the school’s sexuality education programme.<br> 
-14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.<p></p>
+14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
 
 &nbsp;&nbsp;&nbsp;&nbsp;
