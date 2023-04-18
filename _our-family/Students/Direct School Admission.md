@@ -45,18 +45,19 @@ In DSA-Sec Exercise 2023, we are looking for promising Primary Six students or s
 |*   [Netball](/cca/Physical-Sports/Netball/)|
 |
 
+####  Uniformed Groups [Click here]
+|  | 
+| -------- | 
+| *   [National Police Cadet Corps](/cca/Uniformed-Groups/NPCC/)|
+|*   [Red Cross Youth](/cca/Uniformed-Groups/Red-Cross-Youth/)| 
 
 
-#### **Uniformed Groups**
-**[Click here](/files/Students/Direct%20School%20Admission/5%20DIRECT%20SCHOOL%20ADMISSION%20for%20UGs.pdf)**
-*   [National Police Cadet Corps](/cca/Uniformed-Groups/NPCC/)
-*   [Red Cross Youth](/cca/Uniformed-Groups/Red-Cross-Youth/)
+Click on the **respective category** to access the specific DSA talent areas application procedure.
 
-**Click on the&nbsp;_[Click here](/our-family/Students/Direct-School-Admission/)_&nbsp;under each respective CCA to access the specific DSA talent areas application procedure.&nbsp;_(PDF Viewer required)_**
+Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
-**Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.**
 
-#### **2022 DSA-SEC Timeline**
+#### **2023 DSA-SEC Timeline**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
