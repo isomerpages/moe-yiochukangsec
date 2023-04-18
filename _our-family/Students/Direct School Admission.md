@@ -15,12 +15,13 @@ Students who are successfully admitted to the school via DSA are expected to hon
 In DSA-Sec Exercise 2023, we are looking for promising Primary Six students or students not studying in MOE mainstream primary schools who demonstrate special talents in the following areas
 
 #####  [Clubs](/files/Students/Direct%20School%20Admission/2023%20direct%20school%20admission%20-%20clubs.pdf)
+
 |  | 
 | -------- | 
-| *   [Digital Animation](/cca/Clubs/Digital-Animation-Club/)    |
-|*   [Media Club (Audio Visual, Photography &amp; Videography)](/cca/Clubs/Media-Club-Audio-Visual-Photography-Videography/)| 
-|*   [MARS Club (Mechatronics, Aeronautics and Robotics)](/cca/Clubs/MARS-CLUB-MECHATRONICS-AERONAUTICS-AND-ROBOTICS/)
-|
+| *   [Digital Animation](/cca/Clubs/Digital-Animation-Club/)|    
+|*   [Media Club (Audio Visual, Photography &amp; Videography)](/cca/Clubs/Media-Club-Audio-Visual-Photography-Videography/)|
+|*   [MARS Club (Mechatronics, Aeronautics and Robotics)](/cca/Clubs/MARS-CLUB-MECHATRONICS-AERONAUTICS-AND-ROBOTICS/)|
+
 * _Digital Animation and Media Club are closely tied to our Visual Arts, Media and Design in [Learning for Life Programme](/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/)_
 *   _MARs is closely tied to our [Applied Learning Programme (STEM)](/our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/)_
 
