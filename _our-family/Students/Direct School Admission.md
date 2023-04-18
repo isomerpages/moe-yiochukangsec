@@ -34,8 +34,7 @@ In DSA-Sec Exercise 2023, we are looking for promising Primary Six students or s
 |*  [Chinese Dance](/cca/Performing-Arts/Chinese-Dance/)|
 |*   [Indian Dance](/cca/Performing-Arts/Indian-Dance/)|
 |*   [Malay Dance](/cca/Performing-Arts/Malay-Dance/)|
-|
-*   _All the CCAs above are closely tied to our [Learning for Life Programme](/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/)_
+|  _All the CCAs above are closely tied to our [Learning for Life Programme](/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/)_|
 
 #####  [Sports](/files/Students/Direct%20School%20Admission/2023%20direct%20school%20admission%20-%20sports.pdf)
 
