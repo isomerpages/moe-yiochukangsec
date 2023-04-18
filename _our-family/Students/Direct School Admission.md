@@ -4,7 +4,7 @@ permalink: /our-family/Students/Direct-School-Admission/
 description: ""
 third_nav_title: Students
 ---
-![]()#### **DSA-SEC Home**
+#### **DSA-SEC Home**
 
 Yio Chu Kang Secondary School believes in a well-rounded education and is committed to providing learning opportunities beyond the core academic and student development programmes.
 
