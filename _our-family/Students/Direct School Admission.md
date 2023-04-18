@@ -14,7 +14,7 @@ Students who are successfully admitted to the school via DSA are expected to hon
 
 In DSA-Sec Exercise 2023, we are looking for promising Primary Six students or students not studying in MOE mainstream primary schools who demonstrate special talents in the following areas
 
-##### Clubs
+#####  [Clubs](/files/Students/Direct%20School%20Admission/2023%20direct%20school%20admission%20-%20clubs.pdf)
 |  | 
 | -------- | 
 | *   [Digital Animation](/cca/Clubs/Digital-Animation-Club/)    |
@@ -24,7 +24,7 @@ In DSA-Sec Exercise 2023, we are looking for promising Primary Six students or s
 * _Digital Animation and Media Club are closely tied to our Visual Arts, Media and Design in [Learning for Life Programme](/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/)_
 *   _MARs is closely tied to our [Applied Learning Programme (STEM)](/our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/)_
 
-##### Performing Arts  [Click here]
+#####  [Performing Arts](/files/Students/Direct%20School%20Admission/2023%20direct%20school%20admission%20%20-%20performing%20arts.pdf)
 |  | 
 | -------- | 
 | *   [Concert Band](/cca/Performing-Arts/Concert-Band/)   |
@@ -36,7 +36,7 @@ In DSA-Sec Exercise 2023, we are looking for promising Primary Six students or s
 |
 *   _All the CCAs above are closely tied to our [Learning for Life Programme](/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/)_
 
-##### Sports  [Click here]
+#####  [Sports](/files/Students/Direct%20School%20Admission/2023%20direct%20school%20admission%20-%20sports.pdf)
 |  | 
 | -------- | 
 | *   [Badminton (Girls)](/cca/Physical-Sports/Badminton-Boys-Girls/)|
@@ -45,7 +45,7 @@ In DSA-Sec Exercise 2023, we are looking for promising Primary Six students or s
 |*   [Netball](/cca/Physical-Sports/Netball/)|
 |
 
-#####  Uniformed Groups [Click here]
+#####  [Uniformed Groups](/files/Students/Direct%20School%20Admission/2023%20direct%20school%20admission%20-%20ugs.pdf)
 |  | 
 | -------- | 
 | *   [National Police Cadet Corps](/cca/Uniformed-Groups/NPCC/)|
@@ -60,6 +60,3 @@ Parents and students are encouraged to choose schools wisely based on the studen
 #### **2023 DSA-SEC Timeline**
 
 ![](/images/dsa2023.png)
-
-
-
