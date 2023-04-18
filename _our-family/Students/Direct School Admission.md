@@ -8,20 +8,23 @@ third_nav_title: Students
 
 Yio Chu Kang Secondary School believes in a well-rounded education and is committed to providing learning opportunities beyond the core academic and student development programmes.
 
-The school has vacancies for up to 20% of our Secondary 1 cohort in 2023 for the DSA-Sec programme. Interested students can apply through the DSA process.
+The school has vacancies for up to 20% of our Secondary 1 cohort in 2024 for the DSA-Sec programme. Interested students can apply through the DSA process.
 
 Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1 to 4.
 
-In DSA-Sec Exercise 2022, we are looking for promising Primary Six students or students not studying in MOE mainstream primary schools who demonstrate special talents in the following areas:
+In DSA-Sec Exercise 2023, we are looking for promising Primary Six students or students not studying in MOE mainstream primary schools who demonstrate special talents in the following areas
 
-#### **Clubs**
-**[Click here](/files/Students/Direct%20School%20Admission/2%20DIRECT%20SCHOOL%20ADMISSION%20for%20CLUBS.pdf)**
-*   [Digital Animation](/cca/Clubs/Digital-Animation-Club/)
-*   [Media Club (Audio Visual, Photography & Videography)](/cca/Clubs/Media-Club-Audio-Visual-Photography-Videography/)
-*   _Digital Animation and Media Club are closely tied to our Visual Arts, Media and Design in Learning for Life Programme [Click here](/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/)_
-    
-*   [MARS Club (Mechatronics, Aeronautics and Robotics)](/cca/Clubs/MARS-CLUB-MECHATRONICS-AERONAUTICS-AND-ROBOTICS/)
-*   _MARs is closely tied to our Applied Learning Programme (STEM) [Click here](/our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/)_
+#### Clubs
+|  | 
+| -------- | 
+| *   [Digital Animation](/cca/Clubs/Digital-Animation-Club/)    |
+|*   [Media Club (Audio Visual, Photography &amp; Videography)](/cca/Clubs/Media-Club-Audio-Visual-Photography-Videography/)| 
+|*   [MARS Club (Mechatronics, Aeronautics and Robotics)](/cca/Clubs/MARS-CLUB-MECHATRONICS-AERONAUTICS-AND-ROBOTICS/)
+|
+
+
+* _Digital Animation and Media Club are closely tied to our Visual Arts, Media and Design in Learning for Life Programme [Click here](/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/)_
+*   _MARs is closely tied to our Applied Learning Programme (STEM) [Click here](/our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/)_
 
 #### **Performing Arts**
 **[Click here](/files/Students/Direct%20School%20Admission/3%20DIRECT%20SCHOOL%20ADMISSION%20%20FOR%20Performing%20Arts.pdf)**
@@ -32,7 +35,7 @@ In DSA-Sec Exercise 2022, we are looking for promising Primary Six students or s
 *   [Chinese Dance](/cca/Performing-Arts/Chinese-Dance/)
 *   [Indian Dance](/cca/Performing-Arts/Indian-Dance/)
 *   [Malay Dance](/cca/Performing-Arts/Malay-Dance/)
-*   _All the CCAs above are closely tied to our Learning for Life Programme [Click here](/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/)_
+*   _All the CCAs above are closely tied to our Learning for Life Programme&nbsp;[Click here](/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/)_
 
 #### **Sports**
 **[Click here](/files/Students/Direct%20School%20Admission/4%20DIRECT%20SCHOOL%20ADMISSION%20for%20SPORTS.pdf)**
@@ -46,7 +49,7 @@ In DSA-Sec Exercise 2022, we are looking for promising Primary Six students or s
 *   [National Police Cadet Corps](/cca/Uniformed-Groups/NPCC/)
 *   [Red Cross Youth](/cca/Uniformed-Groups/Red-Cross-Youth/)
 
-**Click on the _[Click here](/our-family/Students/Direct-School-Admission/)_ under each respective CCA to access the specific DSA talent areas application procedure. _(PDF Viewer required)_**
+**Click on the&nbsp;_[Click here](/our-family/Students/Direct-School-Admission/)_&nbsp;under each respective CCA to access the specific DSA talent areas application procedure.&nbsp;_(PDF Viewer required)_**
 
 **Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.**
 

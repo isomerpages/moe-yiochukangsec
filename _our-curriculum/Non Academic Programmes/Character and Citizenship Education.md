@@ -52,7 +52,7 @@ Education and Career Guidance (ECG) is about engaging, inspiring and challenging
   
 Through the ECG Curriculum, we aim to:<br>  
 
- • deepen students’ understanding of self and relate schooling to the different education and career pathways  
+ • deepen students’ understanding of self and relate schooling to the different education and career pathways  <br>
  • enable students to synthesise information gathered from relevant sources to make sound educational and career decisions
 
   
@@ -61,11 +61,11 @@ At Yio Chu Kang Secondary School, the ECG curriculum is delivered through the fo
 1. <b>ECG Curriculum</b><br>  
   
 
-*   Structured ECG Lessons<br>  
-    Time in the curriculum is put aside to introduce students to information about careers and future education options.&nbsp; We encourage students to take ownership of their own learning and development, and understand the importance of continued learning as they progress beyond secondary school years.<br><br>
+•&nbsp;Structured ECG Lessons  
+Time in the curriculum is put aside to introduce students to information about careers and future education options.&nbsp; We encourage students to take ownership of their own learning and development, and understand the importance of continued learning as they progress beyond secondary school years.<br><br>
 
-*   MySkillsFuture portal<br>  
-    This is an online portal that facilitates education and career development among students. Students are introduced to this tool to help them uncover their attributes,find out more about different careers that they might be interested in and chart their educational pathways to achieve their aspirations. Students will have guided lessons on how to use this portal and it can be accessed from home.<br><br>
+•&nbsp;MySkillsFuture portal  
+	This is an online portal that facilitates education and career development among students. Students are introduced to this tool to help them uncover their attributes,find out more about different careers that they might be interested in and chart their educational pathways to achieve their aspirations. Students will have guided lessons on how to use this portal and it can be accessed from home.<br><br>
 
 2. <b>ECG Experience</b><br>  
   
@@ -122,9 +122,9 @@ To make the learning real and to equip students with a better understanding of t
     <td class="tg-ktyi" colspan="4">JIE Briefing during GCE N-level exam results release<br><a href="/files/ECG/1%202018%20N-level%20Pathways%20Briefing.pdf"><span style="text-decoration:none;color:#1E87F0">2018 N-level Pathways Briefing</span></a><br><a href="/files/ECG/2%202018%20N-level%20JIE%20Briefing.pdf"><span style="text-decoration:none;color:#1E87F0">2018 N-level JIE Briefing</span></a><br><a href="/files/ECG/JIE%20Booklet%202019.pdf"><span style="text-decoration:none;color:#1E87F0">JIE Booklet 2019</span></a><br><br>JAE Briefing during O-level results release<br><br><a href="/files/ECG/1%202018%20O-level%20Pathways%20Briefing.pdf"><span style="text-decoration:none;color:#1E87F0">2018 O-level Pathways Briefing</span></a><br><a href="/files/ECG/2%202018%20O-level%20JAE%20Briefing.pdf"><span style="text-decoration:none;color:#1E87F0">2018 O-level JAE Briefing</span></a><br><a href="/files/ECG/JAE%20Booklet%202019.pdf"><span style="text-decoration:none;color:#1E87F0">JAE Booklet 2019</span></a></td>
   </tr>
 </tbody>
-</table><br><br>
+</table><br>
 			
-3. <b>ECG Counselling</b><br>&nbsp;  
+3. <b>ECG Counselling</b><br>  
 
 •&nbsp;One-to-One conferencing with FTs during chit chat sessions of FT Time  
 	•&nbsp;Career consultations with our ECG Counsellor, Mr Elvis Sio<br> 
@@ -151,14 +151,14 @@ The NE Unit also seeks for opportunities to work with partners to enhance the ce
 
 
 
-#### Sexuality Education (SEd)
+#### <b>Sexuality Education (SEd)</b>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-<p> <img style="width:30%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/Sexuality%20Education%20(SEd)/S1.png"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<p> <img style="width:30%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/Sexuality%20Education%20(SEd)/S1.png"><br></p>
 	
 1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.<br><br>
 
-2. The **Goals** of Sexuality Education are to:<br>  
+2. The <b>Goals</b> of Sexuality Education are to:<br>  
 
 (a) To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;knowledge&nbsp;on human sexuality and the consequences of sexual activity;<br>
 
@@ -166,7 +166,7 @@ The NE Unit also seeks for opportunities to work with partners to enhance the ce
 
 (c) To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.<br><br>
 
-3. The **key messages** of Sexuality Education are:<br>
+3. The <b>key messages</b> of Sexuality Education are:<br>
 
 (a) Love and respect yourself as you love and respect others;<br>
 
@@ -176,11 +176,13 @@ The NE Unit also seeks for opportunities to work with partners to enhance the ce
 
 (d) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.<br><br>
 
-&nbsp;You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education.<br><br>
+&nbsp; You may click <a target="_blank" href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education">here</a> for more information on MOE Sexuality Education. 	
+	
+
 
 ##### <b>**Overview of Yio Chu Kang Secondary School’s Sexuality Education Programme for 2023**</b><br><br>
 
-4. Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.<br> 
+4. Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a target="_blank" href="(https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach/)">here</a> for more information on the scope of Sexuality Education in the school curriculum.<br> 
 
 5. The subjects that incorporate topics on sexuality include:<br>
 
@@ -199,17 +201,17 @@ b. Character and Citizenship Education (CCE)<br>
 
 9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages.&nbsp;The desired outcome of the&nbsp;_eTeens_&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.<br><br>
 
-You may click [here](/files/Sexuality%20Education%20(SEd)/yckss%20sed%20curriculum%202023.pdf) for more information on YCKSS Sexuality Education.
+You may click [here](/files/Sexuality%20Education%20(SEd)/yckss%20sed%20curriculum%202023.pdf)  for more information on YCKSS Sexuality Education.
 
 #####  <b>Information for Parents</b><br>
 
 10. Parents may opt their children out of the Sexuality Education lessons,&nbsp;_eTeens_&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.<br>
 
-11. Parents who wish to opt their children out of the&nbsp;<b>Sexuality Education lessons</b>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Sexuality%20Education%20(SEd)/2023%20sed%20letter%20and%20opt%20out%20form%20(hardcopy).pdf). The completed form is to be submitted by 03/02/2023.<br>
+11. Parents who wish to opt their children out of the&nbsp;<b>Sexuality Education lessons</b>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Sexuality%20Education%20(SEd)/2023%20sed%20letter%20and%20opt%20out%20form%20(hardcopy).pdf) . The completed form is to be submitted by 03/02/2023.<br>
 
 12. Parents who wish to opt their children out of the&nbsp;<b>_eTeens programme</b>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Sexuality%20Education%20(SEd)/2023%20s3%20eteens%20parents%20opt-out%20form%20(hardcopy).pdf).&nbsp; The completed form is to be submitted by 03/02/2023.<br>
 
 13. Parents can contact the school at 64560669 or email the school, <a href="mailto:yckss@moe.edu.sg">yckss@moe.edu.sg</a> for discussion or to seek clarification about the school’s sexuality education programme.<br> 
-14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</p>
+14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.<p></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+&nbsp;&nbsp;&nbsp;&nbsp;
