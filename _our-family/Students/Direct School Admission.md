@@ -4,7 +4,7 @@ permalink: /our-family/Students/Direct-School-Admission/
 description: ""
 third_nav_title: Students
 ---
-#### **DSA-SEC Home**
+![]()#### **DSA-SEC Home**
 
 Yio Chu Kang Secondary School believes in a well-rounded education and is committed to providing learning opportunities beyond the core academic and student development programmes.
 
@@ -61,4 +61,3 @@ Click on the **respective category** to access the specific DSA talent areas app
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
 #### 2023 DSA-SEC Timeline
-
