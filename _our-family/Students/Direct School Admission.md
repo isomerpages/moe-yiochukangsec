@@ -21,7 +21,6 @@ In DSA-Sec Exercise 2023, we are looking for promising Primary Six students or s
 | *   [Digital Animation](/cca/Clubs/Digital-Animation-Club/)|    
 |*   [Media Club (Audio Visual, Photography &amp; Videography)](/cca/Clubs/Media-Club-Audio-Visual-Photography-Videography/)|
 |*   [MARS Club (Mechatronics, Aeronautics and Robotics)](/cca/Clubs/MARS-CLUB-MECHATRONICS-AERONAUTICS-AND-ROBOTICS/)|
-
 * _Digital Animation and Media Club are closely tied to our Visual Arts, Media and Design in [Learning for Life Programme](/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/)_
 *   _MARs is closely tied to our [Applied Learning Programme (STEM)](/our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/)_
 
