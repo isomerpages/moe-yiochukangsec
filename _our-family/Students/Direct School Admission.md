@@ -21,28 +21,31 @@ In DSA-Sec Exercise 2023, we are looking for promising Primary Six students or s
 |*   [Media Club (Audio Visual, Photography &amp; Videography)](/cca/Clubs/Media-Club-Audio-Visual-Photography-Videography/)| 
 |*   [MARS Club (Mechatronics, Aeronautics and Robotics)](/cca/Clubs/MARS-CLUB-MECHATRONICS-AERONAUTICS-AND-ROBOTICS/)
 |
+* _Digital Animation and Media Club are closely tied to our Visual Arts, Media and Design in [Learning for Life Programme](/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/)_
+*   _MARs is closely tied to our [Applied Learning Programme (STEM)](/our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/)_
+
+#### Performing Arts  [Click here]
+|  | 
+| -------- | 
+| *   [Concert Band](/cca/Performing-Arts/Concert-Band/)   |
+|*   [Choir](/cca/Performing-Arts/Choir/)| 
+|*   [English Drama](/cca/Performing-Arts/English-Drama/)|
+|*  [Chinese Dance](/cca/Performing-Arts/Chinese-Dance/)|
+|*   [Indian Dance](/cca/Performing-Arts/Indian-Dance/)|
+|*   [Malay Dance](/cca/Performing-Arts/Malay-Dance/)|
+|
+*   _All the CCAs above are closely tied to our [Learning for Life Programme](/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/)_
+
+#### Sports  [Click here]
+|  | 
+| -------- | 
+| *   [Badminton (Girls)](/cca/Physical-Sports/Badminton-Boys-Girls/)|
+|*   [Basketball (Boys)](/cca/Physical-Sports/Basketball-Boys/)|
+|*   [Floorball (Boys)](/cca/Physical-Sports/Floorball-Boys/)|
+|*   [Netball](/cca/Physical-Sports/Netball/)|
+|
 
 
-* _Digital Animation and Media Club are closely tied to our Visual Arts, Media and Design in Learning for Life Programme [Click here](/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/)_
-*   _MARs is closely tied to our Applied Learning Programme (STEM) [Click here](/our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/)_
-
-#### **Performing Arts**
-**[Click here](/files/Students/Direct%20School%20Admission/3%20DIRECT%20SCHOOL%20ADMISSION%20%20FOR%20Performing%20Arts.pdf)**
-
-*   [Concert Band](/cca/Performing-Arts/Concert-Band/)
-*   [Choir](/cca/Performing-Arts/Choir/)
-*   [English Drama](/cca/Performing-Arts/English-Drama/)
-*   [Chinese Dance](/cca/Performing-Arts/Chinese-Dance/)
-*   [Indian Dance](/cca/Performing-Arts/Indian-Dance/)
-*   [Malay Dance](/cca/Performing-Arts/Malay-Dance/)
-*   _All the CCAs above are closely tied to our Learning for Life Programme&nbsp;[Click here](/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/)_
-
-#### **Sports**
-**[Click here](/files/Students/Direct%20School%20Admission/4%20DIRECT%20SCHOOL%20ADMISSION%20for%20SPORTS.pdf)**
-*   [Badminton (Girls)](/cca/Physical-Sports/Badminton-Boys-Girls/)
-*   [Badminton (Boys)](/cca/Physical-Sports/Badminton-Boys-Girls/)
-*   [Floorball (Boys)](/cca/Physical-Sports/Floorball-Boys/)
-*   [Netball](/cca/Physical-Sports/Netball/)
 
 #### **Uniformed Groups**
 **[Click here](/files/Students/Direct%20School%20Admission/5%20DIRECT%20SCHOOL%20ADMISSION%20for%20UGs.pdf)**
