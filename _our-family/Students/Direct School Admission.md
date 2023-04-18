@@ -16,7 +16,7 @@ In DSA-Sec Exercise 2023, we are looking for promising Primary Six students or s
 
 #####  [Clubs](/files/Students/Direct%20School%20Admission/2023%20direct%20school%20admission%20-%20clubs.pdf)
 
-|  | 
+| | 
 | -------- | 
 | *   [Digital Animation](/cca/Clubs/Digital-Animation-Club/)|    
 |*   [Media Club (Audio Visual, Photography &amp; Videography)](/cca/Clubs/Media-Club-Audio-Visual-Photography-Videography/)|
@@ -26,7 +26,7 @@ In DSA-Sec Exercise 2023, we are looking for promising Primary Six students or s
 
 #####  [Performing Arts](/files/Students/Direct%20School%20Admission/2023%20direct%20school%20admission%20%20-%20performing%20arts.pdf)
 
-| |
+|  | 
 | -------- | 
 | *   [Concert Band](/cca/Performing-Arts/Concert-Band/)   |
 |*   [Choir](/cca/Performing-Arts/Choir/)| 
