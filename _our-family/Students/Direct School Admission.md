@@ -26,6 +26,7 @@ In DSA-Sec Exercise 2023, we are looking for promising Primary Six students or s
 *   _MARs is closely tied to our [Applied Learning Programme (STEM)](/our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/)_
 
 #####  [Performing Arts](/files/Students/Direct%20School%20Admission/2023%20direct%20school%20admission%20%20-%20performing%20arts.pdf)
+
 |  | 
 | -------- | 
 | *   [Concert Band](/cca/Performing-Arts/Concert-Band/)   |
@@ -38,8 +39,9 @@ In DSA-Sec Exercise 2023, we are looking for promising Primary Six students or s
 *   _All the CCAs above are closely tied to our [Learning for Life Programme](/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/)_
 
 #####  [Sports](/files/Students/Direct%20School%20Admission/2023%20direct%20school%20admission%20-%20sports.pdf)
+
 |  | 
-| -------- | 
+| -------- |
 | *   [Badminton (Girls)](/cca/Physical-Sports/Badminton-Boys-Girls/)|
 |*   [Basketball (Boys)](/cca/Physical-Sports/Basketball-Boys/)|
 |*   [Floorball (Boys)](/cca/Physical-Sports/Floorball-Boys/)|
@@ -47,6 +49,7 @@ In DSA-Sec Exercise 2023, we are looking for promising Primary Six students or s
 |
 
 #####  [Uniformed Groups](/files/Students/Direct%20School%20Admission/2023%20direct%20school%20admission%20-%20ugs.pdf)
+
 |  | 
 | -------- | 
 | *   [National Police Cadet Corps](/cca/Uniformed-Groups/NPCC/)|
