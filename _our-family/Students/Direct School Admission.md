@@ -61,3 +61,4 @@ Click on the **respective category** to access the specific DSA talent areas app
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
 #### 2023 DSA-SEC Timeline
+![](/images/timeline2.JPG)
