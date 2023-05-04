@@ -53,7 +53,7 @@ The first school logo was introduced when the school was established in 1965 by 
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <img style="width:100%;height:100%" src="/images/Our%20Story/School%20Logo/A%20Brand%20New%20Design%20for%20a%20New%20B/S1.png"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <img style="width:20%;height:50%" src="/images/Our%20Story/School%20Logo/School%20Logo/S1.png">
 
 A new design was introduced by Principal Mdm So Bie Leng to mark the transition of the school to its new premises in Ang Mo Kio. It celebrates the transformation story of a rural school to a large campus with contemporary and full facilities. It also reflects the core ideas of the school motto, which was not changed.
 		
@@ -130,11 +130,11 @@ In 2006, the school adopted the metaphor of "Chong Boon, Our Garden of Growth" a
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<p> <img style="width:100%;height:100%" src="/images/Our%20Story/School%20Logo/Merged%20Sch%20The%20Circle%20Design/S1.png"> </p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<p> <img style="width:20%;height:50%" src="/images/Our%20Story/School%20Logo/School%20Logo/S1.png">
 
 In 2018, Chong Boon Secondary School and Yio Chu Kang Secondary School merged. The existing YCKSS logo was retained but given a new interpretation to incorporate elements of the CBSS logo. A key part of the reinterpretation is the adoption of metaphors related to nature in the CBSS concept. In this way, the merged school draws reference to a feature of the CBSS identity, environmental education.
 	
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+&nbsp;&nbsp;&nbsp;&nbsp;</p></div>
 
 </li>
 	
