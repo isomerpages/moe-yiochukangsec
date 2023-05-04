@@ -3,7 +3,7 @@ title: School Logo
 permalink: /our-story/School-Logo/
 description: ""
 ---
-<img style="width:20%;height:50%" src="/images/Our%20Story/School%20Logo/School%20Logo/S1.png">
+<img style="width:30%;height:50%" src="/images/Our%20Story/School%20Logo/School%20Logo/S1.png">
 
   
 
@@ -53,7 +53,7 @@ The first school logo was introduced when the school was established in 1965 by 
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <img style="width:20%;height:50%" src="/images/Our%20Story/School%20Logo/School%20Logo/S1.png">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <img style="width:30%;height:50%" src="/images/Our%20Story/School%20Logo/School%20Logo/S1.png">
 
 A new design was introduced by Principal Mdm So Bie Leng to mark the transition of the school to its new premises in Ang Mo Kio. It celebrates the transformation story of a rural school to a large campus with contemporary and full facilities. It also reflects the core ideas of the school motto, which was not changed.
 		
@@ -77,7 +77,7 @@ A new design was introduced by Principal Mdm So Bie Leng to mark the transition 
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">The&nbsp;Chong&nbsp;Boon&nbsp;School&nbsp;Logo&nbsp;-&nbsp;The&nbsp;Golden&nbsp;Tree&nbsp;Design</label>
 
 	
-<img style="width:20%;height:50%" src="/images/Our%20Story/School%20Logo/The%20CBSL%20%20%20The%20Golden%20Tree/s1cbss.PNG">
+<img style="width:30%;height:50%" src="/images/Our%20Story/School%20Logo/The%20CBSL%20%20%20The%20Golden%20Tree/s1cbss.PNG">
 
 Chong Boon Secondary School was established in 1994. The school crest, introduced by founding Principal Mrs Cecilia Lee, featured a golden flaming tree set in a brown background. It displays the values of Compassion, Benevolence and Steadfastness, which form an acronym that resembles the school's name, CBS.
 	
@@ -100,10 +100,8 @@ Chong Boon Secondary School was established in 1994. The school crest, introduce
 
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">The&nbsp;Chong&nbsp;Boon&nbsp;School&nbsp;Logo&nbsp;-&nbsp;The&nbsp;Scenic&nbsp;Tree&nbsp;Design</label>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<p> 
-<img style="width:100%;height:100%" src="/images/Our%20Story/School%20Logo/The%20CBSL%20%20%20The%20Scenic%20Tree/S1.png"><br>
+<img style="width:30%;height:50%" src="/images/Our%20Story/School%20Logo/The%20CBSL%20%20%20The%20Scenic%20Tree/cbsslogo.PNG"><br>
 
 In 2006, the school adopted the metaphor of "Chong Boon, Our Garden of Growth" and a new school emblem. Subsequently, the school's programmes lead to efforts in developing environmental education. In 2009, the school became the first to be conferred niche status in Environmental Education. Through its continued commitment and national achievements in this field, the school developed this niche into its distinctive Applied Learning Programme in Sustainable Technologies. The school logo reflects this deep inclination of the school in environmental causes.
 	
@@ -114,9 +112,9 @@ In 2006, the school adopted the metaphor of "Chong Boon, Our Garden of Growth" a
     
 *   The roots branch out in five directions symbolising the core values of Perseverance, Respect, Integrity, Dedication, and Excellence (PRIDE). The roots are the foundation for the tree to grow and flourish. The tree reaching towards the sky symbolises the students acquiring social and emotional competencies and maximising their potential in whatever they do.<br>&nbsp;  
     
-*   The birds flying in the sky represent the creative and entrepreneurial spirit. They represent our students going beyond the school and its curriculum to venture into uncharted territories in their pursuit of lifelong learning. With moral courage, confidence and resilience, they will go the extra mile to serve the nation.<br></p>
+*   The birds flying in the sky represent the creative and entrepreneurial spirit. They represent our students going beyond the school and its curriculum to venture into uncharted territories in their pursuit of lifelong learning. With moral courage, confidence and resilience, they will go the extra mile to serve the nation.<br><p></p>
 
-&nbsp;&nbsp;</div>
+&nbsp;&nbsp;
 
 </li>
 	
