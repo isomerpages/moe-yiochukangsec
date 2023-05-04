@@ -76,10 +76,8 @@ A new design was introduced by Principal Mdm So Bie Leng to mark the transition 
 
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">The&nbsp;Chong&nbsp;Boon&nbsp;School&nbsp;Logo&nbsp;-&nbsp;The&nbsp;Golden&nbsp;Tree&nbsp;Design</label>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-<p> 
-<img style="width:100%;height:100%" src="/images/Our%20Story/School%20Logo/The%20CBSL%20%20%20The%20Golden%20Tree/S1.png"><br>
+	
+<img style="width:20%;height:50%" src="/images/Our%20Story/School%20Logo/The%20CBSL%20%20%20The%20Golden%20Tree/s1cbss.PNG">
 
 Chong Boon Secondary School was established in 1994. The school crest, introduced by founding Principal Mrs Cecilia Lee, featured a golden flaming tree set in a brown background. It displays the values of Compassion, Benevolence and Steadfastness, which form an acronym that resembles the school's name, CBS.
 	
@@ -90,9 +88,9 @@ Chong Boon Secondary School was established in 1994. The school crest, introduce
     
 *   The flaming branches are the academic, moral, social and physical areas that the school aims to excel in. The roots remind students to learn to share and care, and to be courageous and tenacious in upholding integrity amidst change and transience.<br>&nbsp;  
     
-*   Thus students are guided with a firm hand and yet are given liberty to discover for themselves, and about themselves, so that they grow to be unique and distinct personalities, capable of independent thought and expression, and equipped for the world of work.<br></p>
+*   Thus students are guided with a firm hand and yet are given liberty to discover for themselves, and about themselves, so that they grow to be unique and distinct personalities, capable of independent thought and expression, and equipped for the world of work.<br><p></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 </li>
 	
