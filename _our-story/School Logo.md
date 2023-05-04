@@ -78,7 +78,7 @@ A new design was introduced by Principal Mdm So Bie Leng to mark the transition 
 
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">The&nbsp;Chong&nbsp;Boon&nbsp;School&nbsp;Logo&nbsp;-&nbsp;The&nbsp;Golden&nbsp;Tree&nbsp;Design</label>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 	
 <img style="width:30%;height:50%" src="/images/Our%20Story/School%20Logo/The%20CBSL%20%20%20The%20Golden%20Tree/s1cbss.PNG">
 <br>
@@ -94,7 +94,7 @@ Chong Boon Secondary School was established in 1994. The school crest, introduce
     
 *   Thus students are guided with a firm hand and yet are given liberty to discover for themselves, and about themselves, so that they grow to be unique and distinct personalities, capable of independent thought and expression, and equipped for the world of work.<br><p></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
@@ -104,7 +104,7 @@ Chong Boon Secondary School was established in 1994. The school crest, introduce
 
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">The&nbsp;Chong&nbsp;Boon&nbsp;School&nbsp;Logo&nbsp;-&nbsp;The&nbsp;Scenic&nbsp;Tree&nbsp;Design</label>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <img style="width:30%;height:50%" src="/images/Our%20Story/School%20Logo/The%20CBSL%20%20%20The%20Scenic%20Tree/cbsslogo.PNG"><br>
 <br>
@@ -120,7 +120,7 @@ In 2006, the school adopted the metaphor of "Chong Boon, Our Garden of Growth" a
     
 *   The birds flying in the sky represent the creative and entrepreneurial spirit. They represent our students going beyond the school and its curriculum to venture into uncharted territories in their pursuit of lifelong learning. With moral courage, confidence and resilience, they will go the extra mile to serve the nation.<br><p></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
