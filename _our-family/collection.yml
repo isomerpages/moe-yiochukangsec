@@ -2,7 +2,6 @@ collections:
   our-family:
     output: true
     order:
-      - Students/School Canteen.md
       - Students/.keep
       - Students/Direct School Admission.md
       - Students/Information for Parents of YCKSS Secondary 1 (2023).md
@@ -13,6 +12,7 @@ collections:
       - Students/Assessment Information & Schedules.md
       - Students/Students Code of Conduct.md
       - Students/Financial Assistance.md
+      - Students/School Canteen.md
       - Students/School Uniform.md
       - Students/Useful Links.md
       - Staff/Professional Development Activities.md
