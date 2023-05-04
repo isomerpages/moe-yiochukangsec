@@ -126,7 +126,7 @@ In 2006, the school adopted the metaphor of "Chong Boon, Our Garden of Growth" a
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<p> <img style="width:20%;height:50%" src="/images/Our%20Story/School%20Logo/School%20Logo/S1.png">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<p> <img style="width:30%;height:50%" src="/images/Our%20Story/School%20Logo/School%20Logo/S1.png">
 
 In 2018, Chong Boon Secondary School and Yio Chu Kang Secondary School merged. The existing YCKSS logo was retained but given a new interpretation to incorporate elements of the CBSS logo. A key part of the reinterpretation is the adoption of metaphors related to nature in the CBSS concept. In this way, the merged school draws reference to a feature of the CBSS identity, environmental education.
 	
