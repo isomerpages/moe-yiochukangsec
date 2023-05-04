@@ -2,18 +2,19 @@ collections:
   our-family:
     output: true
     order:
+      - Students/.keep
+      - Students/Direct School Admission.md
       - Students/Information for Parents of YCKSS Secondary 1 (2023).md
       - Students/Student Handbook 2023.md
       - Students/Assessment & Promotion.md
       - Students/Booklist.md
       - Students/Class Timetable and Schedules.md
       - Students/Assessment Information & Schedules.md
-      - Students/Direct School Admission.md
       - Students/Students Code of Conduct.md
       - Students/Financial Assistance.md
+      - Students/School Canteen.md
       - Students/School Uniform.md
       - Students/Useful Links.md
-      - Students/.keep
       - Staff/Professional Development Activities.md
       - Staff/SWC Activities.md
       - Staff/Useful Links.md
