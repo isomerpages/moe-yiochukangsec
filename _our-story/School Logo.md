@@ -80,7 +80,9 @@ A new design was introduced by Principal Mdm So Bie Leng to mark the transition 
 
 <p> 
 <img style="width:100%;height:100%" src="/images/Our%20Story/School%20Logo/The%20CBSL%20%20%20The%20Golden%20Tree/S1.png"><br>
-				
+
+Chong Boon Secondary School was established in 1994. The school crest, introduced by founding Principal Mrs Cecilia Lee, featured a golden flaming tree set in a brown background. It displays the values of Compassion, Benevolence and Steadfastness, which form an acronym that resembles the school's name, CBS.
+	
 <b>Interpretation (1994-2005)</b><br>  
   
 
