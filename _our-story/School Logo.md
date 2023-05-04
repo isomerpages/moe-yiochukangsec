@@ -30,7 +30,9 @@ The&nbsp;**circle**&nbsp;that brings all the elements together forms a never end
 <p> <b>In the beginning – The Shield Design</b>
 	
 <img style="width:100%;height:100%" src="/images/Our%20Story/School%20Logo/The%20Story%20Original%20YCKSS%20Sch/S1.png"><br>
-			
+
+The first school logo was introduced when the school was established in 1965 by the founding Principal, Mr Cyril Jensen. The badge was white and brown.
+	
 <b>Interpretation (1965-1981)</b><br>  
   
 
