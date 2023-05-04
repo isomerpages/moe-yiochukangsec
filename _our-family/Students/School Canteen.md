@@ -6,7 +6,7 @@ third_nav_title: Students
 ---
 ### Stall for Rent
 
-##### Asian Fusion Cuisine stall (Non-Halal)
+#### Asian Fusion Cuisine stall (Non-Halal)
 
 **Criteria**
 1.	Stallholder(s) and assistant(s) who are Singapore Citizens or Singapore Permanent Residents aged 21 years old and above.
