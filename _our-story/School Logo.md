@@ -33,6 +33,7 @@ The&nbsp;**circle**&nbsp;that brings all the elements together forms a never end
 
 The first school logo was introduced when the school was established in 1965 by the founding Principal, Mr Cyril Jensen. The badge was white and brown.
 <br>
+<br> 
 <b>Interpretation (1965-1981)</b><br>  
   
 
@@ -56,7 +57,8 @@ The first school logo was introduced when the school was established in 1965 by 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <img style="width:30%;height:50%" src="/images/Our%20Story/School%20Logo/School%20Logo/S1.png">
 <br>
 A new design was introduced by Principal Mdm So Bie Leng to mark the transition of the school to its new premises in Ang Mo Kio. It celebrates the transformation story of a rural school to a large campus with contemporary and full facilities. It also reflects the core ideas of the school motto, which was not changed.
-		
+<br>
+<br> 
 <b>Interpretation (1982-2017)</b><br>  
   
 
@@ -79,7 +81,8 @@ A new design was introduced by Principal Mdm So Bie Leng to mark the transition 
 <img style="width:30%;height:50%" src="/images/Our%20Story/School%20Logo/The%20CBSL%20%20%20The%20Golden%20Tree/s1cbss.PNG">
 <br>
 Chong Boon Secondary School was established in 1994. The school crest, introduced by founding Principal Mrs Cecilia Lee, featured a golden flaming tree set in a brown background. It displays the values of Compassion, Benevolence and Steadfastness, which form an acronym that resembles the school's name, CBS.
-	
+<br>
+<br> 
 <b>Interpretation (1994-2005)</b><br>  
   
 
@@ -103,7 +106,8 @@ Chong Boon Secondary School was established in 1994. The school crest, introduce
 <img style="width:30%;height:50%" src="/images/Our%20Story/School%20Logo/The%20CBSL%20%20%20The%20Scenic%20Tree/cbsslogo.PNG"><br>
 <br>
 In 2006, the school adopted the metaphor of "Chong Boon, Our Garden of Growth" and a new school emblem. Subsequently, the school's programmes lead to efforts in developing environmental education. In 2009, the school became the first to be conferred niche status in Environmental Education. Through its continued commitment and national achievements in this field, the school developed this niche into its distinctive Applied Learning Programme in Sustainable Technologies. The school logo reflects this deep inclination of the school in environmental causes.
-	
+<br>
+<br> 	
 <b>Interpretation (2006 – 2017)</b><br>  
   
 
