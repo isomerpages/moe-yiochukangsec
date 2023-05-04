@@ -54,7 +54,9 @@ The first school logo was introduced when the school was established in 1965 by 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <img style="width:100%;height:100%" src="/images/Our%20Story/School%20Logo/A%20Brand%20New%20Design%20for%20a%20New%20B/S1.png"><br>
-			
+
+A new design was introduced by Principal Mdm So Bie Leng to mark the transition of the school to its new premises in Ang Mo Kio. It celebrates the transformation story of a rural school to a large campus with contemporary and full facilities. It also reflects the core ideas of the school motto, which was not changed.
+		
 <b>Interpretation (1982-2017)</b><br>  
   
 
