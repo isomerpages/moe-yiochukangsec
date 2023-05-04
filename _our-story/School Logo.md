@@ -106,7 +106,9 @@ Chong Boon Secondary School was established in 1994. The school crest, introduce
 
 <p> 
 <img style="width:100%;height:100%" src="/images/Our%20Story/School%20Logo/The%20CBSL%20%20%20The%20Scenic%20Tree/S1.png"><br>
-			
+
+In 2006, the school adopted the metaphor of "Chong Boon, Our Garden of Growth" and a new school emblem. Subsequently, the school's programmes lead to efforts in developing environmental education. In 2009, the school became the first to be conferred niche status in Environmental Education. Through its continued commitment and national achievements in this field, the school developed this niche into its distinctive Applied Learning Programme in Sustainable Technologies. The school logo reflects this deep inclination of the school in environmental causes.
+	
 <b>Interpretation (2006 – 2017)</b><br>  
   
 
