@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: ANNOUNCEMENTS
+        - title: DIRECT SCHOOL ADMISSION 2023
           description: Click here
-          url: /announcements/Sec-1-Parents-Engagement-Webinar-2023/
+          url: https://www.yiochukangsec.moe.edu.sg/our-family/Students/Direct-School-Admission/
         - title: CONTACT US
           description: Click here
           url: /Contact-us/
