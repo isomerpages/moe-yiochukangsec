@@ -12,7 +12,7 @@ third_nav_title: Students
 1.	Stallholder(s) and assistant(s) who are Singapore Citizens or Singapore Permanent Residents aged 21 years old and above.
 2.	Able to provide food and drinks that meet the health / nutritional standards set by the Health Promotion Board.
 3.	All food and drinks sold must comply with the Healthy Meals in Schools Programme (HMSP) guidelines:
-https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme
+[https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)
 4.	Able to provide good service and quality food with prices to be determined in consultation with the School.
 5.	Able to maintain a high standard of food safety, personal hygiene and cleanliness of the canteen area.
 6.	Healthy and fit to operate the stall.
@@ -25,7 +25,7 @@ https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-progra
 
 ##### Application Procedure
 1.	Application form can be obtained from the school’s general office, or downloaded from:
-https://schadmsvc.moe.gov.sg/moescas/
+[https://schadmsvc.moe.gov.sg/moescas/](https://schadmsvc.moe.gov.sg/moescas/)
 
 2.	Submit the following documents:
 * Completed application form
@@ -45,6 +45,3 @@ Location
 
 Nearest MRT station: Yio Chu Kang – 10 to 15-minute walking distance
 Bus services: 13, 45, 70, 71, 72, 76, 86, 138, 162, 269, 825, 851, 852, 853, 860**
-
-
-       
