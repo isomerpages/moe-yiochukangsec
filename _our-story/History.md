@@ -26,7 +26,7 @@ Through the four main campus transformations in 1965, 1982, 2001, 2018, Yio Chu 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p>   
-<img style="width:100%;height:50%" src="/images/Our%20Story/History/Campus%20Transformation%201/ct1new.PNG">
+<img style="width:50%;height:50%" src="/images/Our%20Story/History/Campus%20Transformation%201/ct1new.PNG">
 	
 The school, built at the cost of $444K, was officially opened by Singapore’s pioneer Minister of Education, Mr Ong Pang Boon in June 1966.  It began operations with 5 classes in two language streams and graduated 37 students that year. 
 
