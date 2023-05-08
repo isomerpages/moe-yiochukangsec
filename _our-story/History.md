@@ -32,7 +32,7 @@ The school, built at the cost of $444K, was officially opened by Singapore’s p
 
 The original school reflected its status as a rural school, consisting of 2 single-storey zinc roofed buildings, a small canteen and a basketball court. There was a very modest field that often flooded. There was no school hall and no sports field and the students walked over to the nearby Pei Hwa Public School for assembly or to use the school field. Students who wished to take Science in upper secondary had to transfer to another school. The school was very creative in its use of space. But gradually, the school outgrew the limitations of her modest facilities.
 
-<img style="width:100%;height:50%" src="/images/Our%20Story/History/Campus%20Transformation%201/CT2.png"></p>
+<img style="width:50%;height:50%" src="/images/Our%20Story/History/Campus%20Transformation%201/CT2.png"></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
@@ -45,7 +45,7 @@ The original school reflected its status as a rural school, consisting of 2 sing
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <img style="width:100%;height:50%" src="/images/Our%20Story/History/Campus%20Transformation%202/ct2a_new.PNG">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <img style="width:50%;height:50%" src="/images/Our%20Story/History/Campus%20Transformation%202/ct2a_new.PNG">
 
 </p>
 
@@ -59,8 +59,8 @@ In 1984, 700 students participated in the mass dance display at the National Day
 
 Again, the school’s programme needs soon outstripped the limitations of the facilities. For instance, many of the performing arts groups held their practices in the corridors of the classrooms. It was time to move to bigger premises again!
 
-<img style="width:80%;height:50%" src="/images/Our%20Story/History/Campus%20Transformation%202/ct2b_new.PNG">
-<img style="width:80%;height:50%" src="/images/Our%20Story/History/Campus%20Transformation%202/ct2c_new.PNG">		
+<img style="width:50%;height:50%" src="/images/Our%20Story/History/Campus%20Transformation%202/ct2b_new.PNG">
+<img style="width:50%;height:50%" src="/images/Our%20Story/History/Campus%20Transformation%202/ct2c_new.PNG">		
 		
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
@@ -75,7 +75,7 @@ Again, the school’s programme needs soon outstripped the limitations of the fa
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> 
-<img style="width:100%;height:50%" src="/images/Our%20Story/History/Campus%20Transformation%203/ct3new.PNG"> </p>
+<img style="width:50%;height:50%" src="/images/Our%20Story/History/Campus%20Transformation%203/ct3new.PNG"> </p>
 
 In 2000, the school was selected as one of the first schools to benefit from the inaugural Programme to Rebuild or Improve (PRIME) existing schools. The new school was built in 2001 on site but the land it occupied was vastly expanded with a new main entrance from Ang Mo Kio Avenue 5.
 
