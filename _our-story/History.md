@@ -45,8 +45,9 @@ The original school reflected its status as a rural school, consisting of 2 sing
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <img style="width:100%;height:50%" src="/images/Our%20Story/History/Campus%20Transformation%202/CT1.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Story/History/Campus%20Transformation%202/CT2.png"></p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <img style="width:100%;height:50%" src="/images/Our%20Story/History/Campus%20Transformation%202/ct2a_new.PNG">
+
+</p>
 
 In 1982, the school made her first move into a new building, in a new location in Ang Mo Kio to meet the needs of the community. The new facilities also reflected the new national curriculum, which enabled all students access to standard facilities such as spacious classrooms, technical workshops, computer and science labs. The provision of a library and a language lab reflected the national move to adopting English as a first language in all government schools and a phasing out of other language medium schools.
 
@@ -58,6 +59,9 @@ In 1984, 700 students participated in the mass dance display at the National Day
 
 Again, the school’s programme needs soon outstripped the limitations of the facilities. For instance, many of the performing arts groups held their practices in the corridors of the classrooms. It was time to move to bigger premises again!
 
+<img style="width:80%;height:50%" src="/images/Our%20Story/History/Campus%20Transformation%202/ct2b_new.PNG">
+<img style="width:80%;height:50%" src="/images/Our%20Story/History/Campus%20Transformation%202/ct2c_new.PNG">		
+		
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
