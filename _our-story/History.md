@@ -75,7 +75,7 @@ Again, the school’s programme needs soon outstripped the limitations of the fa
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> 
-<img style="width:100%;height:50%" src="/images/Our%20Story/History/Campus%20Transformation%203/CT1.png"> </p>
+<img style="width:100%;height:50%" src="/images/Our%20Story/History/Campus%20Transformation%203/ct3new.PNG"> </p>
 
 In 2000, the school was selected as one of the first schools to benefit from the inaugural Programme to Rebuild or Improve (PRIME) existing schools. The new school was built in 2001 on site but the land it occupied was vastly expanded with a new main entrance from Ang Mo Kio Avenue 5.
 
