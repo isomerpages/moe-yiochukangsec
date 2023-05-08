@@ -74,6 +74,14 @@ Again, the school’s programme needs soon outstripped the limitations of the fa
 <p> 
 <img style="width:100%;height:50%" src="/images/Our%20Story/History/Campus%20Transformation%203/CT1.png"> </p>
 
+In 2000, the school was selected as one of the first schools to benefit from the inaugural Programme to Rebuild or Improve (PRIME) existing schools. The new school was built in 2001 on site but the land it occupied was vastly expanded with a new main entrance from Ang Mo Kio Avenue 5.
+
+It was designed with modern facilities, incorporated into a village concept of the original rural school. This is seen clearly in the long, wide, covered pavement leading from the main entrance to the school hall. This recreates the long path that formerly led to the main house of the village headman.  To reflect the school’s Arts niche programmes, non-standard facilities of dance and band studios, and an outdoor performance area were incorporated. This required an additional $256K in funds which was raised with SAC help. The unusual rounded stairwell outside the hall created a vertical rock climbing wall. This was inspired by the common rural activity of climbing fruit trees and echoes the rural origins of the school.
+
+A prominent feature of the school building was the school hall. Over the years, successive upgrades were made to enhance its ability to host performing arts groups. At one point, the school even adopted the tagline of “School of the Arts” to reflect its deep connection in this niche. In 2008, the hall was officially opened as the Performing Arts Theatre. Informally, it is known as the original SOTA, referencing Singapore’s first pre-tertiary specialised arts school set up by the government in 2008 bearing this name. In 2016, the name was removed from the school hall. Remnants of this name is still visible in the faint etching of this tagline encircling the school logo displayed above the school stage in the hall.
+
+Progressively, the school has made several upgrades and introduced new facilities that reflect changes to programmes offered to students.  This include the creation of the Animation Lab, The I-Cube, the Gym and the Indoor Sports Hall, synthetic turf for the school field and a synthetic flooring for sports in the parade square. 
+
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
