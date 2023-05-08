@@ -11,8 +11,8 @@ Since then, the school has undergone&nbsp;**four campus transformations**, refle
   
 Today, the school continues to be an example of the national social and educational initiatives to meet emerging needs. In 2014, the school became the second Pathlight Satellite School, hosting students in an innovative commitment to create sustained and regular opportunities for authentic academic and social integration of students with different learning abilities. In 2018, the school merged with Chong Boon Secondary School. In many fundamental ways, the Merged School seeks to capture the school’s long story and half a century of DNA. It respects the long heritage and deep roots of both schools, while demonstrating through its remarkable story of how it is agile in change.
 
-![](/images/Our%20Story/History/History/H1.png)
-&nbsp;
+![](/images/Our%20Story/History/History/hist1new.PNG)
+
 Through the four main campus transformations in 1965, 1982, 2001, 2018, Yio Chu Kang embodies the spirit of pioneers in working earnestly to improve lives while remaining nimble to stay relevant to the changing needs in the school programmes that are offered.
 
 <ul class="jekyllcodex_accordion">
@@ -26,14 +26,13 @@ Through the four main campus transformations in 1965, 1982, 2001, 2018, Yio Chu 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p>   
-<img style="width:100%;height:50%" src="/images/Our%20Story/History/Campus%20Transformation%201/CT1.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Story/History/Campus%20Transformation%201/CT2.png"></p>
-
-The school, built at the cost of $444K, was officially opened by Singapore’s pioneer Minister of Education, Mr Ong Pang Boon in June 1966.&nbsp; It began operations with 5 classes in two language streams and graduated 37 students that year.&nbsp;
-
-  
+<img style="width:100%;height:50%" src="/images/Our%20Story/History/Campus%20Transformation%201/ct1new.PNG">
+	
+The school, built at the cost of $444K, was officially opened by Singapore’s pioneer Minister of Education, Mr Ong Pang Boon in June 1966.  It began operations with 5 classes in two language streams and graduated 37 students that year. 
 
 The original school reflected its status as a rural school, consisting of 2 single-storey zinc roofed buildings, a small canteen and a basketball court. There was a very modest field that often flooded. There was no school hall and no sports field and the students walked over to the nearby Pei Hwa Public School for assembly or to use the school field. Students who wished to take Science in upper secondary had to transfer to another school. The school was very creative in its use of space. But gradually, the school outgrew the limitations of her modest facilities.
+
+<img style="width:100%;height:50%" src="/images/Our%20Story/History/Campus%20Transformation%201/CT2.png"></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
