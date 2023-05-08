@@ -11,7 +11,7 @@ Since then, the school has undergone&nbsp;**four campus transformations**, refle
   
 Today, the school continues to be an example of the national social and educational initiatives to meet emerging needs. In 2014, the school became the second Pathlight Satellite School, hosting students in an innovative commitment to create sustained and regular opportunities for authentic academic and social integration of students with different learning abilities. In 2018, the school merged with Chong Boon Secondary School. In many fundamental ways, the Merged School seeks to capture the school’s long story and half a century of DNA. It respects the long heritage and deep roots of both schools, while demonstrating through its remarkable story of how it is agile in change.
 
-![](/images/Our%20Story/History/History/hist1new.PNG)
+<img style="width:50%;height:50%" src="/images/Our%20Story/History/History/hist1new.PNG">
 
 Through the four main campus transformations in 1965, 1982, 2001, 2018, Yio Chu Kang embodies the spirit of pioneers in working earnestly to improve lives while remaining nimble to stay relevant to the changing needs in the school programmes that are offered.
 
