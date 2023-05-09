@@ -34,7 +34,7 @@ third_nav_title: Students
 * Photocopy of the NRIC (front &amp; back)  
 * Records of past catering or canteen experiences, if any
 
-&gt; Please submit the application form and supporting documents to the school’s general office, or email to per_ching_yee@moe.edu.sg by **Monday, 22 May 2023**.
+Please submit the application form and supporting documents to the school’s general office, or email to per_ching_yee@moe.edu.sg by **Monday, 22 May 2023**.
 
 Only shortlisted applicants will be notified for an interview and food sampling at the school (at the applicant’s own expense).
 
