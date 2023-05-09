@@ -31,17 +31,18 @@ third_nav_title: Students
 * Completed application form
 * Proposed menu and price list of all items to be sold
 * Photocopy of relevant certificates of applicant and stall assistant(s) such as Basic Food Hygiene Course certificate etc. 
-* Photocopy of the NRIC (front & back)  
+* Photocopy of the NRIC (front &amp; back)  
 * Records of past catering or canteen experiences, if any
 
-> Please submit the application form and supporting documents to the school’s general office, or email to per_ching_yee@moe.edu.sg by **Monday, 22 May 2023**.
+Please submit the application form and supporting documents to the school’s general office, or email to per_ching_yee@moe.edu.sg by **Monday, 22 May 2023**.
 
 Only shortlisted applicants will be notified for an interview and food sampling at the school (at the applicant’s own expense).
 
 For further information, please contact our Ms Per Ching Yee at 64560669.
 
-Location
+Location:
 3063 Ang Mo Kio Avenue 5 Singapore 569868
 
 Nearest MRT station: Yio Chu Kang – 10 to 15-minute walking distance
-Bus services: 13, 45, 70, 71, 72, 76, 86, 138, 162, 269, 825, 851, 852, 853, 860**
+<br>
+Bus services: 13, 45, 70, 71, 72, 76, 86, 138, 162, 269, 825, 851, 852, 853, 860
