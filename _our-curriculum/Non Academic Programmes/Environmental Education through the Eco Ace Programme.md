@@ -29,7 +29,7 @@ The Environmental Education Programme in Yio Chu Kang Secondary School, known as
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Booklists</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Advocate</label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
