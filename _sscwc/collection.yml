@@ -1,0 +1,4 @@
+collections:
+  sscwc:
+    output: true
+    order: []
