@@ -19,7 +19,7 @@ Click the links below for details. This will be refreshed for each term.
 
 | Sec 4 N(A) |  Sec 4 N(T) |
 | -------- | -------- | 
-|[Schedule](/files/Students/Assessment%20Information%20Sche/2023/sec%204na%20prelim%20schedule.pdf) | [Schedule](/files/Students/Assessment%20Information%20Sche/2023/sec%204nt%20prelim%20schedule.pdf) | 
+|[Schedule](/files/Students/Assessment%20Information%20Sche/2023/sec%204na%20prelim%20schedule.pdf) | [Schedule](/files/Students/Assessment%20Information%20Sche/2023/sec%204nt%20prelim%20scheduleupdated.pdf)| 
  
 ### **Weighted Assessment (2023 Term 3)**
 
