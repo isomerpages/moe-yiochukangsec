@@ -21,11 +21,8 @@ Click the links below for details. This will be refreshed for each term.
 | -------- | -------- | 
 |[Schedule](/files/Students/Assessment%20Information%20Sche/2023/sec%204na%20prelim%20schedule.pdf) | [Schedule](/files/Students/Assessment%20Information%20Sche/2023/sec%204nt%20prelim%20schedule.pdf) | 
  
-### **Weighted Assessment (2023 Term 2)**
-#### **Subject Information &amp; Schedule (updated on 13 Apr 2023)**
-	
+### **Weighted Assessment (2023 Term 3)**
 
-
-| Sec 1 (A, B, C)  | Sec 1 (D, E, F) | Sec 2 | Sec 3 | Sec 4/5
-| -------- | -------- | -------- | -------- | -------- 
-| [Schedule](/files/Students/Assessment%20Information%20Sche/secondary%201a_b_c%20weighted%20assessment(term%202)%20schedule%202023.pdf)     | [Schedule](/files/Students/Assessment%20Information%20Sche/secondary%201d_e_f%20weighted%20assessment(term%202)%20schedule%202023.pdf)     | [Schedule](/files/Students/Assessment%20Information%20Sche/secondary%202%20weighted%20assessment(term%202)%20schedule%202023.pdf)     |  [Schedule](/files/Students/Assessment%20Information%20Sche/secondary%203%20weighted%20assessment%20schedule%20(term%202)%202023.pdf)    | [Schedule](/files/Students/Assessment%20Information%20Sche/secondary%204&5%20weighted%20assessment%20schedule%20(term%202)%202023.pdf)
+| Sec 1 (A, B, C)  | Sec 1 (D, E, F) | Sec 2 | Sec 3 |
+ -------- | -------- | -------- | -------- | 
+| [Schedule & Subject Information](/files/Students/Assessment%20Information%20Sche/2023/secondary%201a_b_c%20weighted%20assessment(term%203)%20schedule%202023.pdf) | [Schedule & Subject Information](/files/Students/Assessment%20Information%20Sche/2023/secondary%201d_e_f%20weighted%20assessment(term%203)%20schedule%202023.pdf)  | [Schedule & Subject Information](/files/Students/Assessment%20Information%20Sche/2023/secondary%202%20weighted%20assessment(term3)%20schedule%202023.pdf) |[Schedule & Subject Information](/files/Students/Assessment%20Information%20Sche/2023/secondary%203%20weighted%20assessment%20schedule%20(term%203)%202023.pdf)|
