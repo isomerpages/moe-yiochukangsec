@@ -1,4 +1,5 @@
 collections:
   sscwc:
     output: true
-    order: []
+    order:
+      - Example Title.md
