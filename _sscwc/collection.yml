@@ -2,4 +2,5 @@ collections:
   sscwc:
     output: true
     order:
+      - TEST RUN.md
       - Example Title.md
