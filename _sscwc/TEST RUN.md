@@ -5,7 +5,7 @@ description: ""
 ---
 <img style="width:100%;" src="/images/images-2021/About-OurTeam.jpg">
 
-##  <font color="#DB0032">**WHAT IS THE CHALLENGE?**<font color="">
+### <font color="#DB0032">WHAT IS THE CHALLENGE?<font color="">
 
 The Singapore Schools Cyber Wellness Challenge (SSCWC) is a national short film competition,
 centred around Cyber Wellness themes, endorsed by the Infocomm Media Development Authority
