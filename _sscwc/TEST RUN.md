@@ -3,8 +3,6 @@ title: TEST RUN
 permalink: /sscwc/testrun/
 description: ""
 ---
-<img style="width:100%;" src="/images/images-2021/About-OurTeam.jpg">
-
 ### **<font color="#49759a">WHAT IS THE CHALLENGE?</font>**
 
 The Singapore Schools Cyber Wellness Challenge (SSCWC) is a national short film competition,
