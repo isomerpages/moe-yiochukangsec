@@ -11,7 +11,7 @@ description: ""
 		<tr>
 			<td><img src="https://www.edgefieldsec.moe.edu.sg/images/edgefield-crop.png" alt=""></td>
 			<td>
-			<h1 style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; font-size: 3.375rem; font-weight: normal; line-height: 3.75rem; letter-spacing: -1.5px; overflow-wrap: normal; background-color: rgb(255, 255, 255); padding-bottom: 1rem !important; color: rgb(225, 27, 49) !important;" class="has-text-secondary padding--bottom"><span style="box-sizing: inherit; font-family: inherit; font-weight: 600;">EDGEFIELD</span></h1>
+			<h1 style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; font-size: 3.375rem; font-weight: normal; line-height: 3.75rem; letter-spacing: -1.5px; overflow-wrap: normal; background-color: rgb(255, 255, 255); padding-bottom: 1rem !important; color: rgb(225, 27, 49) !important;" class="has-text-secondary padding--bottom"><span style="box-sizing: inherit; font-family: inherit; font-weight: 600;">TEST</span></h1>
 
 			<p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; padding: 0px; font-size: 1.25rem; line-height: 2rem; color: rgb(72, 72, 72); background-color: rgb(255, 255, 255);">"Wisdom begins with wonder" - Socrates, Greek Philosopher</p>
 
