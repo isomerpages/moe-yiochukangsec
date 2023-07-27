@@ -3,9 +3,7 @@ title: Example Title
 permalink: /sscwc/testing/
 description: ""
 ---
-
-
-	<title></title>
+<title></title>
 
 
 <table style="width:500px;" cellspacing="1" cellpadding="1" border="0">
@@ -98,5 +96,3 @@ description: ""
 </table>
 
 <p>&nbsp;</p>
-
-
