@@ -45,7 +45,7 @@ Click the links below for details. This will be refreshed for each term.
 ### **2023 Sec 4E5N-Level Preliminary Examinations**
  ** (updated on 1 August 2023)**
 	
-**Sec 4E5N**
+Sec 4E5N
 [Schedule](/files/Students/Assessment%20Information%20Sche/2023/sec%204e5n%20%20prelim%20schedule%202023.pdf) 
  
 ### **2023 Sec 4 N-Level Preliminary Examinations**
