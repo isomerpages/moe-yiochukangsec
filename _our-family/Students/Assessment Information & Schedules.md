@@ -15,9 +15,10 @@ Click the links below for details. This will be refreshed for each term.
 
 [Weighted Assessment Rules &amp; Regulations 2023](/files/Students/Assessment%20Information%20Sche/NEW/YCKSS%20Weighted%20Assessment%20Rules%20and%20Regulations.pdf)&nbsp; **   (updated on 31 Jan 2023)**
 ### **2023 Sec 1-3 End-of -Year Examinations**
-** (updated on 1 August 2023)**
 
-#### Subject information
+
+#### Subject information 
+** (updated on 1 August 2023)**
 
 ##### Sec 1
 
