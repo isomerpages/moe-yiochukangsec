@@ -1,4 +1,6 @@
 collections:
   sscwc:
     output: true
-    order: []
+    order:
+      - TEST RUN.md
+      - Example Title.md
