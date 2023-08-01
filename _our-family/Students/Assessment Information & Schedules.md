@@ -31,8 +31,7 @@ Click the links below for details. This will be refreshed for each term.
 #####  Sec 2
  
  
- 
- | Sec 2NT  |  Sec 2NA  | Sec 2E  | 
+  | Sec 2NT  |  Sec 2NA  | Sec 2E  | 
  -------- | -------- | -------- |
 |[ Subject information](/files/Students/Assessment%20Information%20Sche/2023/2023%20eoy%20%20subject%20information(2nt).pdf) |[Subject information](/files/Students/Assessment%20Information%20Sche/2023/2023%20eoy%20%20subject%20information(2na).pdf)|[Subject information](/files/Students/Assessment%20Information%20Sche/2023/2023%20eoy%20%20subject%20information(2e).pdf)|
 
