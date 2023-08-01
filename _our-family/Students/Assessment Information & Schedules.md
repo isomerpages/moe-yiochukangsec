@@ -15,7 +15,7 @@ Click the links below for details. This will be refreshed for each term.
 
 [Weighted Assessment Rules &amp; Regulations 2023](/files/Students/Assessment%20Information%20Sche/NEW/YCKSS%20Weighted%20Assessment%20Rules%20and%20Regulations.pdf)&nbsp; **   (updated on 31 Jan 2023)**
 ### **2023 Sec 1-3 End-of -Year Examinations**
-    ###### (updated on 1 August 2023)
+     (updated on 1 August 2023)
 | Sec 1 (G1)  | Sec 1 (G2) | Sec 1(G3) |
  -------- | -------- | -------- |
 |[Subject information](/files/Students/Assessment%20Information%20Sche/2023/2023%20eoy%20%20subject%20information(sec%201%20g1).pdf) |[Subject information](/files/Students/Assessment%20Information%20Sche/2023/2023%20eoy%20%20subject%20information(sec%201%20g2).pdf)|[Subject information](/files/Students/Assessment%20Information%20Sche/2023/2023%20eoy%20%20subject%20information(sec%201%20g3).pdf)|
@@ -25,8 +25,9 @@ Click the links below for details. This will be refreshed for each term.
 |[Subject information](/files/Students/Assessment%20Information%20Sche/2023/2023%20eoy%20%20subject%20information(3nt).pdf)|[Subject information](/files/Students/Assessment%20Information%20Sche/2023/2023%20eoy%20%20subject%20information(3na).pdf)|[Subject information](/files/Students/Assessment%20Information%20Sche/2023/2023%20eoy%20%20subject%20information%20(3e).pdf)|
 
 ### **2023 Sec 4E5N-Level Preliminary Examinations**
-
-| Sec 4E5N |  
+  (updated on 1 August 2023)
+	
+ Sec 4E5N  
 [Schedule](/files/Students/Assessment%20Information%20Sche/2023/sec%204e5n%20%20prelim%20schedule%202023.pdf) 
  
 ### **2023 Sec 4 N-Level Preliminary Examinations**
