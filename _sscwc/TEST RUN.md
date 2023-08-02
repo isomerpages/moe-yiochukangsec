@@ -35,7 +35,7 @@ Secondary Level: A secondary school can nominate a group of two Secondary 3 stud
 //Click here// for more information for Secondary school participants.
 
 ---
-footer 
+
 1. Student participants could be the school's Peer Support Leaders, Cyber Wellness Ambassadors, Wellness Champions, Technology Champions or any other group(s) of students the school deems suitable. 
 2. Nominated students must be comfortable in learning new technological skills. 
 3. It is not a pre-requisite for student participants to own an Apple device, as these will be loaned to students for the duration of the competition. 
