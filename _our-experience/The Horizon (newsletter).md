@@ -47,7 +47,7 @@ You can read the articles or watch the news broadcast via the links below.
 
 *   [ISSUE 9 (JAN - MAY 2023)](/files/The%20Horizon%20(newsletter)/the%20horizon%20magazine,%20sem%201%202023.pdf) NEW!
 
-*   [ISSUE 8 (JUN - DEC 2022)](/files/The%20Horizon%20(newsletter)/YCKSS%20Sem%202%202022%20NEWSLETTER.pdf) NEW!
+*   [ISSUE 8 (JUN - DEC 2022)](/files/The%20Horizon%20(newsletter)/YCKSS%20Sem%202%202022%20NEWSLETTER.pdf)
     
 *   [ISSUE 7 (JAN - MAY 2022)](/files/The%20Horizon%20(newsletter)/YCKSS%202022%20SEM%201%20MAGAZINE_v3pdf.pdf)
 *   [ISSUE 6 (JUN - OCT 2021)](/files/The%20Horizon%20(newsletter)/THE%20HORIZON%20SEM%202%202021.pdf)
