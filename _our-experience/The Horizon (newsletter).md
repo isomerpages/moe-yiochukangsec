@@ -7,7 +7,8 @@ The Horizon is published twice a year, one for each semester. It features events
 
 Here's our latest edition of Horizon 2022. Read how our students and staff continue to adapt and adjust to the every changing environment through our various involvement in the school activities and events.
 
-![](/images/Our%20Experience/The%20Horizon%20(newsletter)/H1.png)
+
+![The front cover of Horizon, Issue 9](/images/Our%20Experience/The%20Horizon%20(newsletter)/front%20page%20-%20yckss%202023%20sem%201%20magazine_final.jpg)
 
 #### **Journey Through 2020**
 
@@ -45,7 +46,7 @@ You can read the articles or watch the news broadcast via the links below.
 
 ### **All Issues of The Horizon**
 
-*   [ISSUE 9 (JAN - MAY 2023)](/files/The%20Horizon%20(newsletter)/the%20horizon%20magazine,%20sem%201%202023.pdf) NEW!
+*  [ISSUE 9 (JAN - MAY 2023)](/files/The%20Horizon%20(newsletter)/yckss%202023%20sem%201%20magazine_final.pdf) NEW!
 
 *   [ISSUE 8 (JUN - DEC 2022)](/files/The%20Horizon%20(newsletter)/YCKSS%20Sem%202%202022%20NEWSLETTER.pdf)
     
