@@ -13,7 +13,7 @@ A very exciting and challenging year for everyone indeed! Three videos were prod
 #### Level Camps
 The Level Camps aim to bond the Form Teachers and the class through out of classroom experiences. Held over 2 – 3 days, the camps create a common experience for all students, and strengthen school’s identity and belonging. They also build positive Teacher-Student Relationship. Through these activities, we help students discover the joy of learning.
 
-<iframe style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allow="fullscreen" allowfullscreen="" width="200" height="113" src="https://www.youtube.com/watch?app=desktop&amp;v=h-oHl2GOpbg&amp;t=5s" title="YCKSS Sports Carnival 2023"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YCKSS Sports Carnival 2023" src="https://www.youtube.com/embed/h-oHl2GOpbg" height="315" width="560"></iframe>
 
 #### Health Fiesta Week and Sports Carnival  
 Health Fiesta, which culminates in Sports Carnival Day, is a week-long event that is much anticipated by the students. It enhances students’ engagement in physical robustness and healthy lifestyle through a variety of fun and simple activities. There is no better medium than Sports to enhance social cohesion and interaction for students from all levels to interact.
