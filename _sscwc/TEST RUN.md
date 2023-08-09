@@ -53,7 +53,7 @@ Secondary Level: A secondary school can nominate a group of two Secondary 3 stud
 
 * //Click here// for more information for Secondary school participants.
 
-![Line break](/images/line%20%20%20.png)
+![](/images/Sscwc/short%20line.png)
 
 **Notes**
 1. Student participants could be the school's Peer Support Leaders, Cyber Wellness Ambassadors, Wellness Champions, Technology Champions or any other group(s) of students the school deems suitable. 
