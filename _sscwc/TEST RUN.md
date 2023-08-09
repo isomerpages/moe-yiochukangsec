@@ -56,4 +56,4 @@ Secondary Level: A secondary school can nominate a group of two Secondary 3 stud
 3.  It is **not** a pre-requisite for student participants to own an Apple device, as these will be loaned to students for the duration of the competition. 
 4. Click here (Pri) and here (Sec) for more information Click here for competition dates - Refer to the PDF (T&amp;C) (shift to individual pages)
 
----
+![Line break 2](/images/wavy%20line.png)
