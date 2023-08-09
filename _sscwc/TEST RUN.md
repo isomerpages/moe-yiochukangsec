@@ -11,6 +11,7 @@ centred around Cyber Wellness themes, endorsed by the Infocomm Media Development
 (IMDA) and Media Literacy Council (MLC) in support of the Digital for Life (DfL) movement. 
 
 ### **Theme for 2023 Challenge**
+**![](https://lh3.googleusercontent.com/4HZcfoaKLunAoLkkd2gVPuc6CP8Lnr947wPniGk_-aZlG5SpxrpXx7xLV5V6BRsn7XmHnZiWJsWScoOm4LVAqVXAG5-zZutJj4U-XlPbEuKoU4nAvWnfgKvjs3C3qbl924VmUSM7YwRLUcGo6zCBZ1U)**
 - Be safe online
 - Be smart online
 - Be Kind online 
