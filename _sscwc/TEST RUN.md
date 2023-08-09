@@ -17,6 +17,8 @@ centred around Cyber Wellness themes, endorsed by the Infocomm Media Development
 - Be Kind online 
 
 -to be replaced with banner-
+
+--- 
 ### **"For Students, By Students"** 
 The challenge seeks to promote youth advocacy and cultivate student leadership competencies, by integrating Peer Support and Relationships (PSR) into advocacy in Cyber Wellness education. Each participating team will comprise secondary school students playing the role of mentors to their primary school peers in the creation of media content illustrating the key messages of the DfL movement.
 
@@ -32,6 +34,8 @@ SSCWC 2023 is organised by Yio Chu Kang Secondary School in partnership with TOU
 #### **Team Composition**
 Insert image here <br> 
 Each ~~team participating in the SSCWC~~ participating team will comprise of two secondary school mentors and four primary school participants. This pairing of schools (one secondary school to one primary school) will be randomly done by the organiser.
+
+---
 
 #### **How to Participate?**
 
