@@ -31,6 +31,8 @@ participants will also be trained by learning specialists from Apple Singapore i
 
 SSCWC 2023 is organised by Yio Chu Kang Secondary School in partnership with TOUCH Cyber Wellness and Apple Singapore, supported by the South 1 School Cluster. // event logo and logos of various organisations
 
+---
+
 #### **Team Composition**
 Insert image here <br> 
 Each ~~team participating in the SSCWC~~ participating team will comprise of two secondary school mentors and four primary school participants. This pairing of schools (one secondary school to one primary school) will be randomly done by the organiser.
