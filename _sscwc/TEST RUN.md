@@ -38,7 +38,7 @@ Insert image here <br>
 Each ~~team participating in the SSCWC~~ participating team will comprise of two secondary school mentors and four primary school participants. This pairing of schools (one secondary school to one primary school) will be randomly done by the organiser.
 
 ##### Did you know? 
-&gt; The inaugural Cyber Wellness Challenge was hosted and organised by the MLC in 2022. It was launched on Safer Internet Day on 8 February 2022.
+The inaugural Cyber Wellness Challenge was hosted and organised by the MLC in 2022. It was launched on Safer Internet Day on 8 February 2022. (can try do it in banner form)
 
 
 #### **Challenges Timeline &amp; Milestones**
