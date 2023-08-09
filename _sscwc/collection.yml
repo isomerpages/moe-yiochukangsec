@@ -2,6 +2,6 @@ collections:
   sscwc:
     output: true
     order:
-      - Example Title 2.md
       - Singapore Schools Cyber Wellness Challenge 2023.md
       - Example Title.md
+      - Example Title 2.md
