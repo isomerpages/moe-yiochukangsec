@@ -29,7 +29,8 @@ Student participants will then apply their learning to storyboard and conceptual
 messages in line with the selected key Cyber Wellness message and target audience. Student
 participants will also be trained by learning specialists from Apple Singapore in the technical skills and knowledge for video production using the iPads.
 
-SSCWC 2023 is organised by Yio Chu Kang Secondary School in partnership with TOUCH Cyber Wellness and Apple Singapore, supported by the South 1 School Cluster. // event logo and logos of various organisations
+![Organisers Banner](/images/Sscwc/features%20logos.png)
+~~SSCWC 2023 is organised by Yio Chu Kang Secondary School in partnership with TOUCH Cyber Wellness and Apple Singapore, supported by the South 1 School Cluster. // event logo and logos of various organisations~~
 
 ---
 
