@@ -10,6 +10,12 @@ Is a national short film competition,
 centred around Cyber Wellness themes, endorsed by the Infocomm Media Development Authority
 (IMDA) and Media Literacy Council (MLC) in support of the Digital for Life (DfL) movement. 
 
+### **Theme for 2023 Challenge**
+- Be safe online
+- Be smart online
+- Be Kind online 
+
+-to be replaced with banner-
 ### **"For Students, By Students"** 
 The challenge seeks to promote youth advocacy and cultivate student leadership competencies, by integrating Peer Support and Relationships (PSR) into advocacy in Cyber Wellness education. Each participating team will comprise secondary school students playing the role of mentors to their primary school peers in the creation of media content illustrating the key messages of the DfL movement.
 
@@ -22,11 +28,11 @@ participants will also be trained by learning specialists from Apple Singapore i
 
 SSCWC 2023 is organised by Yio Chu Kang Secondary School in partnership with TOUCH Cyber Wellness and Apple Singapore, supported by the South 1 School Cluster. // event logo and logos of various organisations
 
-#### **TEAM COMPOSITION**
+#### **Team Composition**
 Insert image here <br> 
 Each ~~team participating in the SSCWC~~ participating team will comprise of two secondary school mentors and four primary school participants. This pairing of schools (one secondary school to one primary school) will be randomly done by the organiser.
 
-#### **WHO CAN PARTICIPATE?**
+#### **How to Participate?**
 
 Primary Level: A primary school can nominate one group of four Primary 4 and / or Primary 5 students. 
 * //Click here// for more information for Primary school participants.
@@ -43,3 +49,6 @@ Secondary Level: A secondary school can nominate a group of two Secondary 3 stud
 4. Click here (Pri) and here (Sec) for more information Click here for competition dates - Refer to the PDF (T&amp;C) (shift to individual pages)
 
 ---
+
+#### **Challenges Timeline &amp; Milestones**
+**![](https://lh3.googleusercontent.com/rGnsZk1JbDIuEf8Y60VMw247nzsBzimNSZ4ydWuWucqARV6ScQoGinbJ3fKqaRCr1-jozs-d34pEtlgWU4cR0EKKGI39_Hd1krlHwf_AgXwMramV09HQih-6S_-sOr2NyAt--gclehBumSblah1ccOM)**
