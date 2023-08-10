@@ -21,10 +21,10 @@ Bootcamp Dates : 7 &amp; 8 November 2023 (Tuesday &amp; Wednesday); Time : 9.00 
 
 Venue : Yio Chu Kang Secondary School (3063 Ang Mo Kio Ave 5, Singapore 569868)
 
----
-
 **Note**\
 *Late registrations will not be accepted. Interested schools can register using this form. Sign-ups will be processed on a first-come, first-served basis.
+
+---
 
 NEW SECTION 
 
