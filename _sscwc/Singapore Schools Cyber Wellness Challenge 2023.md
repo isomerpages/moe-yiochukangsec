@@ -5,7 +5,7 @@ description: Singapore Schools Cyber Wellness Challenge 2023
 ---
 ![](/images/Sscwc/pixel%20test.jpg) 
 
-### **Singapore Schools Cyber Wellness Challenge (SSCWC)** 
+## **Singapore Schools Cyber Wellness Challenge (SSCWC)** 
 Is a national short film competition,
 centred around Cyber Wellness themes, endorsed by the Infocomm Media Development Authority
 (IMDA) and Media Literacy Council (MLC) in support of the Digital for Life (DfL) movement. 
@@ -34,16 +34,16 @@ participants will also be trained by learning specialists from Apple Singapore i
 
 ---
 
-#### **Team Composition**
+### **Team Composition**
 Insert image here <br> 
 Each ~~team participating in the SSCWC~~ participating team will comprise of two secondary school mentors and four primary school participants. This pairing of schools (one secondary school to one primary school) will be randomly done by the organiser.
 
-##### Did you know? 
+#### Did you know? 
 The inaugural Cyber Wellness Challenge was hosted and organised by the MLC in 2022.\
 It was launched on Safer Internet Day on 8 February 2022. (can try do it in banner form)
 
 
-#### **Challenges Timeline &amp; Milestones**
+### **Challenges Timeline &amp; Milestones**
 **![](https://lh3.googleusercontent.com/rGnsZk1JbDIuEf8Y60VMw247nzsBzimNSZ4ydWuWucqARV6ScQoGinbJ3fKqaRCr1-jozs-d34pEtlgWU4cR0EKKGI39_Hd1krlHwf_AgXwMramV09HQih-6S_-sOr2NyAt--gclehBumSblah1ccOM)**
 
 #### **How to Participate?**
@@ -57,7 +57,7 @@ Secondary Level: A secondary school can nominate a group of two Secondary 3 stud
 
 ![](/images/Sscwc/short%20line.png)
 
-**Notes**
+###### **Notes**
 1. Student participants could be the school's Peer Support Leaders, Cyber Wellness Ambassadors, Wellness Champions, Technology Champions or any other group(s) of students the school deems suitable. 
 2. Nominated students must be comfortable in learning new technological skills. 
 3.  It is **not** a pre-requisite for student participants to own an Apple device, as these will be loaned to students for the duration of the competition. 
