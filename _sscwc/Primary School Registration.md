@@ -3,7 +3,6 @@ title: Primary School Registration
 permalink: /sscwc/primaryregistration/
 description: ""
 ---
-![SSCWC Primary School Event Timeline](/images/Sscwc/did%20you%20know.png)
 ## Registration Details**
 
 ---
