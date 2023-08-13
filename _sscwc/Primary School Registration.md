@@ -34,4 +34,5 @@ Late registrations will not be accepted. Interested schools can register using t
 - The stories / messages featured in the final video deliverable must be in line with the key messages of the DfL movement
 - They will be mentored by their assigned SSCWC secondary school student mentors throughout this two-day process.
 
-
+### **Competition Guidelines, T&C** 
+(Insert PDF) 
