@@ -37,4 +37,6 @@ Late registrations will not be accepted. Interested schools can register using t
 ### **Competition Guidelines, T&amp;C** 
 (Insert PDF)
 
+![](/images/Sscwc/short%20line.png)
+
 ###### **Notes** <br>1. Late registrations will not be accepted. Interested schools can register using this form. Sign-ups will be processed on a first-come, first-served basis. <br>2. Lunch and one morning tea-break (halal) will be catered for student participants and one accompanying Teacher in-Charge on each day. Kindly provide details about dietary requirements and medical conditions, if any, in the [registration form](google.com). <br>3. Videos will be evaluated by a panel of judges from the respective partner organisations involved in the SSCWC. <br>4. More details about this event will be provided by end-2023
