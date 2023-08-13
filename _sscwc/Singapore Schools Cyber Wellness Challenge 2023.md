@@ -3,7 +3,7 @@ title: Singapore Schools Cyber Wellness Challenge 2023
 permalink: /sscwc/sscwc2023/
 description: Singapore Schools Cyber Wellness Challenge 2023
 ---
-![[Title] SSCWC 2023](/images/Sscwc/sscwc%202023%20landing.png) <br> 
+<br> 
 Is a national short film competition,
 centred around Cyber Wellness themes, endorsed by the Infocomm Media Development Authority
 (IMDA) and Media Literacy Council (MLC) in support of the Digital for Life (DfL) movement. 
@@ -39,7 +39,7 @@ This pairing of schools (one secondary school to one primary school) will be ran
 
 ### **Challenges Timeline &amp; Milestones**
 
-![Timeline](/images/Sscwc/timeline.png)
+
 
 #### **How to Participate?**
 
@@ -52,7 +52,4 @@ Secondary Level: A secondary school can nominate a group of two Secondary 3 stud
 
 ![](/images/Sscwc/short%20line.png)
 
-###### **Notes** <br>1. Student participants could be the school's Peer Support Leaders, Cyber Wellness Ambassadors, Wellness Champions, Technology Champions, Technology Champions or any other group(s) of students the school deems suitable. <br>2. Nominated students must be comfortable in learning new technological skills. <br>3. It is **not** a pre-requisite for student participants to own an Apple device, as these will be loaned to students for the duration of the competition. <br>4. Click here (Pri) and here (sec) for more information. Click here for competition dates - Refer to the PDF (T&amp;C) 
-
-
-
+###### **Notes** <br>1. Student participants could be the school's Peer Support Leaders, Cyber Wellness Ambassadors, Wellness Champions, Technology Champions, Technology Champions or any other group(s) of students the school deems suitable. <br>2. Nominated students must be comfortable in learning new technological skills. <br>3. It is **not** a pre-requisite for student participants to own an Apple device, as these will be loaned to students for the duration of the competition. <br>4. Click here (Pri) and here (sec) for more information. Click here for competition dates - Refer to the PDF (T&amp;C)
