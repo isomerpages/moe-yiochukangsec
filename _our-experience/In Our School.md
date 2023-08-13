@@ -5,15 +5,17 @@ description: ""
 ---
 YCKSS provides students with a rich range of activities outside the classroom to expose, engage and enrich students’ experiences in the school. Here are some of the activities that students look forward to. To find out more details of each activity, please go to The Horizon (Our Newsletter) and also our [YCKSS Facebook](https://www.facebook.com/yiochukangsec) and [Instagram](https://www.instagram.com/yoloyio/) for the latest updates.
 
-![][S1]
-
 ---
 ### YCKSS in COVID-19 (Special Edition for 2020) 
+
+![][S1]
+
 A very exciting and challenging year for everyone indeed! Three videos were produced to document our journey right from the start. Each video focuses on what students and staff experienced and the activities they participated in. Ever wondered how teachers taught from home or how students kept themselves healthy or how Teacher’s Day was celebrated this year? Then check out our&nbsp;[videos](https://yiochukangsec.moe.edu.sg/our-experience/the-horizon-newsletter) to see how things are the same yet different.
-![](/images/Our%20Experience/In%20Our%20School/S2.jpg)
 
 ---
 ### Level Camps
+![][S2]
+
 The Level Camps aim to bond the Form Teachers and the class through out of classroom experiences. Held over 2 – 3 days, the camps create a common experience for all students, and strengthen school’s identity and belonging. They also build positive Teacher-Student Relationship. Through these activities, we help students discover the joy of learning.
 
 ---
@@ -27,9 +29,10 @@ Health Fiesta, which culminates in Sports Carnival Day, is a week-long event tha
 ---  
 ### Showtime  
 ![][S3]
+
 Showtime gives students an avenue for self-expression because of the talents emerging from the school’s Arts, Media and Design Programme. Showtime provides a conducive space for students after school to entertain their peers, performing in an informal setting with full technical facilities. It is held twice a year, with one Showtime each semester.  
 
-&gt;***Showtime***  
+&gt;&gt; ***Showtime***  
 &gt;&gt; [Pages 6 &amp; 7, Issue 2 of The Horizon Semester 2, 2018: The Horizon Issue 2 (Page 6 to 7)](/files/In%20Our%20School/The%20Horizon%20Issue%202%20(July%20-%20Nov%202018).pdf)
 
 
@@ -49,4 +52,5 @@ School safety, security and care are taken seriously. Security exercises and fir
 
 
 [S1]: /images/Our%20Experience/In%20Our%20School/S1.jpg "Montage of photos in the shape of a coronavirus"
+[S2]: /images/Our%20Experience/In%20Our%20School/S2.jpg "Students engaged in activities during the Level Camp"
 [S3]: /images/Our%20Experience/In%20Our%20School/S3.jpg "It's Showtime at YCKSS"
