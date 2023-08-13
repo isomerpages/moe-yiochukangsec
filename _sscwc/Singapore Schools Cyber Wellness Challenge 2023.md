@@ -12,8 +12,10 @@ centred around Cyber Wellness themes, endorsed by the Infocomm Media Development
 
 ### **Theme for 2023 Challenge**
 
-![DfL key messages](/images/Sscwc/3%20key%20messages.png)
-![Dfl key Messages 1 ](/images/Sscwc/3%20key%20messages%20w%20header.png)![Dfl key Messages 2 ](/images/Sscwc/3%20key%20messages%20w%20header2.png)
+![Be Safe Online](https://www.imda.gov.sg/-/media/digital-for-life/images/2022-cyber-wellness-challenge-winners/be-safe-online.png?w=100%25&amp;hash=576B9AF34BD51C69656DFE929B5628B8)
+![Be Smart Online](https://www.imda.gov.sg/-/media/digital-for-life/images/2022-cyber-wellness-challenge-winners/be-smart-online.png?w=100%25&amp;hash=B1CD89CFE0079001A9A43BF6C92E8C0C)
+![Be Kind Online](https://www.imda.gov.sg/-/media/digital-for-life/images/2022-cyber-wellness-challenge-winners/be-kind-online.png?w=100%25&amp;hash=F896EC02D3F01918DF0A57AFB40B1224)
+
 
 --- 
 ### **"For Students, By Students"** 
