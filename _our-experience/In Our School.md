@@ -40,8 +40,8 @@ Showtime gives students an avenue for self-expression because of the talents eme
 
 ### Speech and Prize Giving Day  
 
-<iframe style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allow="fullscreen" allowfullscreen="" width="560" height="315" src="https://www.youtube.com/embed/Rcnx3RyomJY?start=2&amp;feature=oembed" title="YCKSS 58th Speech &amp; Prize-Giving Day"></iframe>
-<a target="_blank" title="Click to watch it on Youtube if you don't see the video" href="https://www.youtube.com/watch?v=Rcnx3RyomJY"><em>YCKSS 58th Speech 8: Prize-Giving Day</em></a>
+<div><iframe style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allow="fullscreen" allowfullscreen="" width="560" height="315" src="https://www.youtube.com/embed/Rcnx3RyomJY?start=2&amp;feature=oembed" title="YCKSS 58th Speech &amp; Prize-Giving Day"></iframe>
+<a target="_blank" title="If you don't see the embedded video above, click on the link to watch it on Youtube." href="https://www.youtube.com/watch?v=Rcnx3RyomJY"><em>YCKSS 58th Speech 8: Prize-Giving Day</em></a></div>
 
 Our annual Speech and Prize Giving Day is a time to recognise the good work by the school and our graduating cohort of students. In addition, it is also a celebration of our students’ talents as all the performing arts groups such as the Dances, Choir, Band and Drama will put up an amazing concert that always leaves the audience asking for more.  
 [Speech and Prize Giving Day The Horizon Issue 5 (Page 13)](/files/In%20Our%20School/2021%20Jan-May.pdf)
