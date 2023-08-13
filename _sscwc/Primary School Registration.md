@@ -3,7 +3,7 @@ title: Primary School Registration
 permalink: /sscwc/primaryregistration/
 description: ""
 ---
-## **Registration Details**
+## Registration Details**
 
 ---
 == To try presenting in a picture == \
@@ -23,7 +23,7 @@ Primary school students will attend a two-day non-residential bootcamp held at Y
 Venue : Yio Chu Kang Secondary School (3063 Ang Mo Kio Ave 5, Singapore 569868)
 
 ##### **Note**
-Late registrations will not be accepted. Interested schools can register using this form. Sign-ups will be processed on a first-come, first-served basis.
+Late registrations will not be accepted. Interested schools can register using this form. Sign-ups will be processed on a first-come, first-served basis.~~
 
 ---
 
