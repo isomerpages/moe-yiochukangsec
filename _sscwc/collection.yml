@@ -2,7 +2,7 @@ collections:
   sscwc:
     output: true
     order:
-      - Secondary School Registration.md
       - Singapore Schools Cyber Wellness Challenge 2023.md
       - Primary School Registration.md
+      - Secondary School Registration.md
       - Example Title.md
