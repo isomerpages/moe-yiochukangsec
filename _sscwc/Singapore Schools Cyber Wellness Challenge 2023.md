@@ -35,8 +35,6 @@ Insert image here <br>
 Each participating team will comprise of **two** secondary school mentors and **four** primary school participants. <br>
 This pairing of schools (one secondary school to one primary school) will be randomly done by the organiser.
 
-
-
 ![Trivial](/images/Sscwc/did%20you%20know.png)
 
 ### **Challenges Timeline &amp; Milestones**
