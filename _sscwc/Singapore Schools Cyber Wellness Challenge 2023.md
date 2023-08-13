@@ -13,6 +13,8 @@ centred around Cyber Wellness themes, endorsed by the Infocomm Media Development
 ### **Theme for 2023 Challenge**
 
 ![DfL key messages](/images/Sscwc/3%20key%20messages.png)
+![Dfl key Messages 1 ](/images/Sscwc/3%20key%20messages%20w%20header.png)![Dfl key Messages 2 ](/images/Sscwc/3%20key%20messages%20w%20header2.png)
+
 --- 
 ### **"For Students, By Students"** 
 The challenge seeks to promote youth advocacy and cultivate student leadership competencies, by integrating Peer Support and Relationships (PSR) into advocacy in Cyber Wellness education. Each participating team will comprise secondary school students playing the role of mentors to their primary school peers in the creation of media content illustrating the key messages of the DfL movement.
