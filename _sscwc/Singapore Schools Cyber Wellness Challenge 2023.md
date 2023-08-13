@@ -48,11 +48,11 @@ It was launched on Safer Internet Day on 8 February 2022. (can try do it in bann
 #### **How to Participate?**
 
 Primary Level: A primary school can nominate one group of four Primary 4 and / or Primary 5 students. 
-* //Click here// for more information for Primary school participants.
+* [Click here](https://www.yiochukangsec.moe.edu.sg/) for more information for Primary school participants.
 
 Secondary Level: A secondary school can nominate a group of two Secondary 3 students to serve as SSCWC mentors.
 
-* //Click here// for more information for Secondary school participants.
+* [Click here](https://www.yiochukangsec.moe.edu.sg/) for more information for Secondary school participants.
 
 ![](/images/Sscwc/short%20line.png)
 
