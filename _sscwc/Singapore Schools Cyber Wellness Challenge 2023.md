@@ -3,7 +3,7 @@ title: Singapore Schools Cyber Wellness Challenge 2023
 permalink: /sscwc/sscwc2023/
 description: Singapore Schools Cyber Wellness Challenge 2023
 ---
-<br> 
+![SSCWC 2023 ](/images/Sscwc/sscwc%202023%20landing.png)<br> 
 Is a national short film competition,
 centred around Cyber Wellness themes, endorsed by the Infocomm Media Development Authority
 (IMDA) and Media Literacy Council (MLC) in support of the Digital for Life (DfL) movement. 
@@ -26,12 +26,11 @@ messages in line with the selected key Cyber Wellness message and target audienc
 participants will also be trained by learning specialists from Apple Singapore in the technical skills and knowledge for video production using the iPads.
 
 ![Organisers Banner](/images/Sscwc/features%20logos.png)
-~~SSCWC 2023 is organised by Yio Chu Kang Secondary School in partnership with TOUCH Cyber Wellness and Apple Singapore, supported by the South 1 School Cluster. // event logo and logos of various organisations~~
 
 ---
 
 ### **Team Composition**
-Insert image here <br> 
+
 Each participating team will comprise of **two** secondary school mentors and **four** primary school participants. <br>
 This pairing of schools (one secondary school to one primary school) will be randomly done by the organiser.
 
@@ -39,7 +38,7 @@ This pairing of schools (one secondary school to one primary school) will be ran
 
 ### **Challenges Timeline &amp; Milestones**
 
-
+![Timeline](/images/Sscwc/timeline.png)
 
 #### **How to Participate?**
 
