@@ -12,7 +12,8 @@ centred around Cyber Wellness themes, endorsed by the Infocomm Media Development
 
 ### **Theme for 2023 Challenge**
 
-![Be Safe Online](/images/Sscwc/be%20safe%20online.png)![Be Smart Online](/images/Sscwc/be%20smart%20online.png)![Be Kind Online](/images/Sscwc/be%20kind%20online.png)
+![Be Safe Online](/images/Sscwc/be%20safe%20online.png)
+![Be Safe Online 1](/images/Sscwc/be%20safe%20online%201.png)![Be Smart Online](/images/Sscwc/be%20smart%20online.png)![Be Kind Online](/images/Sscwc/be%20kind%20online.png)
 ![Be Smart Online](https://www.imda.gov.sg/-/media/digital-for-life/images/2022-cyber-wellness-challenge-winners/be-smart-online.png?w=100%25&amp;hash=B1CD89CFE0079001A9A43BF6C92E8C0C)
 
 --- 
@@ -35,6 +36,7 @@ participants will also be trained by learning specialists from Apple Singapore i
 Insert image here <br> 
 Each ~~team participating in the SSCWC~~ participating team will comprise of two secondary school mentors and four primary school participants. This pairing of schools (one secondary school to one primary school) will be randomly done by the organiser.
 
+![Trivial ](/images/Sscwc/did%20you%20know.png)
 #### *Did you know?* 
 The inaugural Cyber Wellness Challenge was hosted and organised by the MLC in 2022.\
 It was launched on Safer Internet Day on 8 February 2022. (can try do it in banner form)
