@@ -46,6 +46,7 @@ Showtime gives students an avenue for self-expression because of the talents eme
 Our annual Speech and Prize Giving Day is a time to recognise the good work by the school and our graduating cohort of students. In addition, it is also a celebration of our students’ talents as all the performing arts groups such as the Dances, Choir, Band and Drama will put up an amazing concert that always leaves the audience asking for more.  
 [Speech and Prize Giving Day The Horizon Issue 5 (Page 13)](/files/In%20Our%20School/2021%20Jan-May.pdf)
 
+---
 ### Singapore Youth Festival  
 The Singapore Youth Festival (SYF) is an annual event organised by the Ministry of Education to celebrate the vitality of our youth and their diverse artistic talents. Our performing arts groups are always excited to be a part of this celebration and though it entails many months of intense training and practices, the students find it a joy to finally showcase their works of excellence. Watch the highlights of their journey in the video or visit our official Youtube channel for their full performances.
 
@@ -57,4 +58,3 @@ School safety, security and care are taken seriously. Security exercises and fir
 [S1]: /images/Our%20Experience/In%20Our%20School/S1.jpg "Montage of photos in the shape of a coronavirus"
 [S2]: /images/Our%20Experience/In%20Our%20School/S2.jpg "Students engaged in activities during the Level Camp"
 [S3]: /images/Our%20Experience/In%20Our%20School/S3.jpg "It's Showtime at YCKSS"
-[S4]:
