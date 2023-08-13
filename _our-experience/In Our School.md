@@ -21,7 +21,7 @@ The Level Camps aim to bond the Form Teachers and the class through out of class
 ---
 ### Health Fiesta Week and Sports Carnival  
 
-<div style="outline: solid 1px;  padding: 5px;  line-height: 1.25em; text-align: center; font-size: 1em; font-weight: 400;"><iframe style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YCKSS Sports Carnival 2023" src="https://www.youtube-nocookie.com/embed/h-oHl2GOpbg"></iframe><br><a target="_blank" title="If you don't see the embedded video above, click on the link to watch it on Youtube." href="https://www.youtube.com/watch?v=h-oHl2GOpbg"><em>YCKSS Sports Carnival 2023</em></a></div>
+<div style="padding: 0.75em;  line-height: 1.25em; text-align: center; font-size: 1em; font-weight: 400;"><iframe style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YCKSS Sports Carnival 2023" src="https://www.youtube-nocookie.com/embed/h-oHl2GOpbg"></iframe><a style="padding: 0.6em" target="_blank" title="If you don't see the embedded video above, click on the link to watch it on Youtube." href="https://www.youtube.com/watch?v=h-oHl2GOpbg"><em>YCKSS Sports Carnival 2023</em></a></div>
 
 Health Fiesta, which culminates in Sports Carnival Day, is a week-long event that is much anticipated by the students. It enhances students’ engagement in physical robustness and healthy lifestyle through a variety of fun and simple activities. There is no better medium than Sports to enhance social cohesion and interaction for students from all levels to interact.
 
@@ -37,11 +37,11 @@ Showtime gives students an avenue for self-expression because of the talents eme
 
 ### Speech and Prize Giving Day  
 
-<div><iframe style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allow="fullscreen" allowfullscreen="" width="560" height="315" src="https://www.youtube.com/embed/Rcnx3RyomJY?start=2&amp;feature=oembed" title="YCKSS 58th Speech &amp; Prize-Giving Day"></iframe>
+<div style="padding: 0.75em;  line-height: 1.25em; text-align: center; font-size: 1em; font-weight: 400;"><iframe style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allow="fullscreen" allowfullscreen="" src="https://www.youtube.com/embed/Rcnx3RyomJY?start=2&amp;feature=oembed" title="YCKSS 58th Speech &amp; Prize-Giving Day"></iframe>
 <a target="_blank" title="If you don't see the embedded video above, click on the link to watch it on Youtube." href="https://www.youtube.com/watch?v=Rcnx3RyomJY"><em>YCKSS 58th Speech 8: Prize-Giving Day</em></a></div>
 
 Our annual Speech and Prize Giving Day is a time to recognise the good work by the school and our graduating cohort of students. In addition, it is also a celebration of our students’ talents as all the performing arts groups such as the Dances, Choir, Band and Drama will put up an amazing concert that always leaves the audience asking for more.  
-[Speech and Prize Giving Day The Horizon Issue 5 (Page 13)](/files/In%20Our%20School/2021%20Jan-May.pdf)
+<div style="box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1); border-radius: 15px;background-color: rgba(10, 10, 10, 0.05); padding: 5px 0px 5px 0px; margin: auto; line-height: 1.25em; text-align: center; font-size: 1em; font-weight: 400; color: #555555;"><a title="It is a 2.1MB download." target="_blank" href="/files/In%20Our%20School/2021%20Jan-May.pdf"><p style="padding: 1.5em">Download Issue 9 of The Horizon &amp; find out more about our 58th Speech and Prize Giving Day.</p></a></div>
 
 ---
 ### Singapore Youth Festival  
@@ -49,7 +49,6 @@ The Singapore Youth Festival (SYF) is an annual event organised by the Ministry 
 
 ### Safety and Security Exercises 
 School safety, security and care are taken seriously. Security exercises and fire drills are conducted regularly so that staff and students can respond with confidence and calm in an emergency.  
-[Safety and Security Exercises: The Horizon Issue 2 (Page 5)](/files/In%20Our%20School/2021%20Jan-May%20(1).pdf)
 
 
 [S1]: /images/Our%20Experience/In%20Our%20School/S1.jpg "Montage of photos in the shape of a coronavirus"
