@@ -12,7 +12,9 @@ centred around Cyber Wellness themes, endorsed by the Infocomm Media Development
 
 ### **Theme for 2023 Challenge**
 
-
+![Be Safe Online](/images/Sscwc/be%20safe%20online.png)
+![Be Smart Online](/images/Sscwc/be%20smart%20online.png)
+![Be Kind Online](/images/Sscwc/be%20kind%20online.png)
 
 --- 
 ### **"For Students, By Students"** 
@@ -38,7 +40,7 @@ Each ~~team participating in the SSCWC~~ participating team will comprise of two
 #### *Did you know?* 
 The inaugural Cyber Wellness Challenge was hosted and organised by the MLC in 2022.\
 It was launched on Safer Internet Day on 8 February 2022. (can try do it in banner form)
-
+![Trivial ](/images/Sscwc/did%20you%20know.png)
 
 ### **Challenges Timeline &amp; Milestones**
 **![](https://lh3.googleusercontent.com/rGnsZk1JbDIuEf8Y60VMw247nzsBzimNSZ4ydWuWucqARV6ScQoGinbJ3fKqaRCr1-jozs-d34pEtlgWU4cR0EKKGI39_Hd1krlHwf_AgXwMramV09HQih-6S_-sOr2NyAt--gclehBumSblah1ccOM)**
