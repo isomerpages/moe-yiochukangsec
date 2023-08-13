@@ -11,13 +11,8 @@ centred around Cyber Wellness themes, endorsed by the Infocomm Media Development
 (IMDA) and Media Literacy Council (MLC) in support of the Digital for Life (DfL) movement. 
 
 ### **Theme for 2023 Challenge**
-**![](https://lh3.googleusercontent.com/4HZcfoaKLunAoLkkd2gVPuc6CP8Lnr947wPniGk_-aZlG5SpxrpXx7xLV5V6BRsn7XmHnZiWJsWScoOm4LVAqVXAG5-zZutJj4U-XlPbEuKoU4nAvWnfgKvjs3C3qbl924VmUSM7YwRLUcGo6zCBZ1U)**
-- Be safe online
-- Be smart online
-- Be Kind online 
 
--to be replaced with banner-
-
+![DfL key messages](/images/Sscwc/3%20key%20messages.png)
 --- 
 ### **"For Students, By Students"** 
 The challenge seeks to promote youth advocacy and cultivate student leadership competencies, by integrating Peer Support and Relationships (PSR) into advocacy in Cyber Wellness education. Each participating team will comprise secondary school students playing the role of mentors to their primary school peers in the creation of media content illustrating the key messages of the DfL movement.
