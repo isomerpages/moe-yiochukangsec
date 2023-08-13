@@ -3,7 +3,7 @@ title: Singapore Schools Cyber Wellness Challenge 2023
 permalink: /sscwc/sscwc2023/
 description: Singapore Schools Cyber Wellness Challenge 2023
 ---
-![](/images/Sscwc/pixel%20test.jpg) 
+![SSCWC 2023](/images/Sscwc/sscwc%202023.png)
 
 ## **Singapore Schools Cyber Wellness Challenge (SSCWC)** 
 Is a national short film competition,
