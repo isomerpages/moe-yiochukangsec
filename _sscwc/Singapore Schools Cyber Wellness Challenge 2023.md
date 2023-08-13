@@ -40,7 +40,8 @@ This pairing of schools (one secondary school to one primary school) will be ran
 ![Trivial](/images/Sscwc/did%20you%20know.png)
 
 ### **Challenges Timeline &amp; Milestones**
-**![](https://lh3.googleusercontent.com/rGnsZk1JbDIuEf8Y60VMw247nzsBzimNSZ4ydWuWucqARV6ScQoGinbJ3fKqaRCr1-jozs-d34pEtlgWU4cR0EKKGI39_Hd1krlHwf_AgXwMramV09HQih-6S_-sOr2NyAt--gclehBumSblah1ccOM)**
+
+![Timeline](/images/Sscwc/timeline.png)
 
 #### **How to Participate?**
 
