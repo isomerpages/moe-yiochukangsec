@@ -13,7 +13,9 @@ centred around Cyber Wellness themes, endorsed by the Infocomm Media Development
 ### **Theme for 2023 Challenge**
 
 ![Be Safe Online](/images/Sscwc/be%20safe%20online.png)
-![Be Safe Online 1](/images/Sscwc/be%20safe%20online%201.png)![Be Smart Online](/images/Sscwc/be%20smart%20online.png)![Be Kind Online](/images/Sscwc/be%20kind%20online.png)
+![Be Safe Online 1](/images/Sscwc/be%20safe%20online%201.png)
+![Be Smart Online](/images/Sscwc/be%20smart%20online.png)
+![Be Kind Online](/images/Sscwc/be%20kind%20online.png)
 ![Be Smart Online](https://www.imda.gov.sg/-/media/digital-for-life/images/2022-cyber-wellness-challenge-winners/be-smart-online.png?w=100%25&amp;hash=B1CD89CFE0079001A9A43BF6C92E8C0C)
 
 --- 
