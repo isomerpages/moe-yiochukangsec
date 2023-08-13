@@ -21,8 +21,7 @@ The Level Camps aim to bond the Form Teachers and the class through out of class
 ---
 ### Health Fiesta Week and Sports Carnival  
 
-<div><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YCKSS Sports Carnival 2023" src="https://www.youtube-nocookie.com/embed/h-oHl2GOpbg" height="315" width="560"></iframe>
-<a target="_blank" title="If you don't see the embedded video above, click on the link to watch it on Youtube." href="https://www.youtube.com/watch?v=h-oHl2GOpbg"><em>YCKSS Sports Carnival 2023</em></a></div>
+<div><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YCKSS Sports Carnival 2023" src="https://www.youtube-nocookie.com/embed/h-oHl2GOpbg" height="315" width="560"></iframe><a target="_blank" title="If you don't see the embedded video above, click on the link to watch it on Youtube." href="https://www.youtube.com/watch?v=h-oHl2GOpbg"><em>YCKSS Sports Carnival 2023</em></a></div>
 
 Health Fiesta, which culminates in Sports Carnival Day, is a week-long event that is much anticipated by the students. It enhances students’ engagement in physical robustness and healthy lifestyle through a variety of fun and simple activities. There is no better medium than Sports to enhance social cohesion and interaction for students from all levels to interact.
 
