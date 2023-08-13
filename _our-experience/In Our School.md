@@ -32,13 +32,12 @@ Health Fiesta, which culminates in Sports Carnival Day, is a week-long event tha
 
 Showtime gives students an avenue for self-expression because of the talents emerging from the school’s Arts, Media and Design Programme. Showtime provides a conducive space for students after school to entertain their peers, performing in an informal setting with full technical facilities. It is held twice a year, with one Showtime each semester.
 
-     
-<div title="Thumbnail image of The Horizon Issue 2, Showtime!" style="margin: auto; width: 50%; box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1)" class="card sgds"><a target="_blank" href="/files/In%20Our%20School/The%20Horizon%20Issue%202%20(July%20-%20Nov%202018).pdf"><img src="/images/Our%20Experience/In%20Our%20School/the_horizon_issue_2_pg7_&amp;_8.jpg" alt="Thumbnail image of The Horizon Issue 2, Showtime! showing pages 6 &amp; 7." class="card-img-top"></a>
+    
+<div title="Thumbnail image of The Horizon Issue 2, Showtime!" style="margin: auto; width: 65%; box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1)" class="card sgds"><a target="_blank" href="/files/In%20Our%20School/The%20Horizon%20Issue%202%20(July%20-%20Nov%202018).pdf"><img src="/images/Our%20Experience/In%20Our%20School/the_horizon_issue_2_pg7_&amp;_8.jpg" alt="Thumbnail image of The Horizon Issue 2, Showtime! showing pages 6 &amp; 7." class="card-img-top"></a>
 	<div class="card-body">
                 <a style="color: grey; font-size: small" target="_blank" href="/files/In%20Our%20School/The%20Horizon%20Issue%202%20(July%20-%20Nov%202018).pdf" class="card-link">
-									<p class="card-text">Download Issue 2 of The Horizon (PDF) &amp; find out more about Showtime</p></a>          
-        </div>
-</div>
+									<p style="padding: 12px" class="card-text">Download Issue 2 of The Horizon (PDF) &amp; find out more about Showtime</p></a>          
+</div></div>
 
 
 ### Speech and Prize Giving Day  
@@ -59,4 +58,4 @@ School safety, security and care are taken seriously. Security exercises and fir
 [S1]: /images/Our%20Experience/In%20Our%20School/S1.jpg "Montage of photos in the shape of a coronavirus"
 [S2]: /images/Our%20Experience/In%20Our%20School/S2.jpg "Students engaged in activities during the Level Camp"
 [S3]: /images/Our%20Experience/In%20Our%20School/S3.jpg "It's Showtime at YCKSS"
-[S4]: 
+[S4]:
