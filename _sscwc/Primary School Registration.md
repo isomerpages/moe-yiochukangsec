@@ -8,7 +8,8 @@ description: ""
 
 ---
 
-### **Competition Bootcamp** 
+
+### **About the Bootcamp** 
 
 **Bootcamp Dates:** 7 &amp; 8 November 2023 (Tuesday &amp; Wednesday)
 
@@ -16,8 +17,11 @@ description: ""
 
 **Venue:** Yio Chu Kang Secondary School (3063 Ang Mo Kio Ave 5, Singapore 569868)
 
+**Video Submission Each team:** (SSCWC mentors &amp; primary school participants) will submit its 90-second final video deliverable at the end of the two-day bootcamp on 8 November 2023. 
+
 
 ---
+
 ### **Bootcamp's Objectives** 
 
 Students will gain more in-depth knowledge and skills about cyber wellness, and apply their learning to storyboard and conceptualise suitable stories / messages to be featured in their final video deliverable.
@@ -27,6 +31,14 @@ Student participants will also learn technical knowledge and skills in video pro
 The stories / messages featured in the final video deliverable must be in line with the key messages of the DfL movement
 
 They will be mentored by their assigned SSCWC secondary school student mentors throughout this two-day process.
+
+
+### **Showcase and Celebration** 
+Winning entries from the SSCWC 2023 will be showcased at a celebration event to commemorate Safer Internet Day. All participating schools will be invited to attend the showcase &amp; celebration event.
+
+Winning teams will receive their trophies and Certificates of Participation at this event. All other student participants will also receive their Certificates of Participation at the celebration event.
+
+
 
 ### **Competition Guidelines, T&amp;C** 
 (Insert PDF)
