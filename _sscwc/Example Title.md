@@ -96,3 +96,6 @@ description: ""
 </table>
 
 <p>&nbsp;</p>
+
+
+    <div style="box-sizing: inherit;"><a style="box-sizing: inherit; font-family: Lato, sans-serif; color: rgb(225, 27, 49); cursor: pointer; text-decoration-line: none; display: block; text-transform: uppercase; font-size: 1.125rem; font-weight: 600; line-height: 27px; letter-spacing: 1.5px; background-color: rgb(255, 255, 255); margin-top: 1rem !important; padding-bottom: 1rem !important;" href="https://www.edgefieldsec.moe.edu.sg/edgefield/principals-message" class="bp-sec-button margin--top padding--bottom"><span style="box-sizing: inherit; font-style: inherit; font-weight: inherit; margin-right: 0.8rem; border-bottom: 2px solid rgb(225, 27, 49) !important;">LEARN MORE</span>&nbsp;</a></div>
