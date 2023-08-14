@@ -31,8 +31,7 @@ participants will also be trained by learning specialists from Apple Singapore i
 
 ### **Team Composition**
 
-Each participating team will comprise of **two** secondary school mentors and **four** primary school participants. <br>
-This pairing of schools (one secondary school to one primary school) will be randomly done by the organiser.
+![Each Team](/images/Sscwc/each%20team.png)
 
 ![Trivial](/images/Sscwc/did%20you%20know.png)
 
