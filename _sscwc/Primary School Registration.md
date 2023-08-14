@@ -13,7 +13,7 @@ description: ""
 
 **Bootcamp Dates:** 7 &amp; 8 November 2023 (Tuesday &amp; Wednesday)
 
-**Time:** 9.00 am to 4.30 pm (registration begins at 8.30am?) (report by 8.45am for attendance-taking)
+**Time:** 9.00 am to 4.30 pm. Registration begins at 8.30am. Report by 8.45am for attendance-taking.
 
 **Venue:** Yio Chu Kang Secondary School (3063 Ang Mo Kio Ave 5, Singapore 569868)
 
@@ -32,6 +32,7 @@ The stories / messages featured in the final video deliverable must be in line w
 
 They will be mentored by their assigned SSCWC secondary school student mentors throughout this two-day process.
 
+---
 
 ### **Showcase and Celebration** 
 Winning entries from the SSCWC 2023 will be showcased at a celebration event to commemorate Safer Internet Day. All participating schools will be invited to attend the showcase &amp; celebration event.
