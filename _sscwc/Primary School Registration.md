@@ -30,7 +30,7 @@ Students will gain more in-depth knowledge and skills about cyber wellness, and 
 
 Student participants will also learn technical knowledge and skills in video production to generate a 90- second clip.
 
-#### **Video Submission** 
+**Video Submission** 
 Each team (Secondary School mentors &amp; Primary School participants) will submit its 90-second final video deliverable at the end of the two-day bootcamp on 8 November 2023. 
 
 ---
@@ -42,4 +42,4 @@ Winning teams will receive their prizes at this event. All student participants 
 
 ---
 
-###### **Notes** <br>1. Late registrations will not be **accepted**. Sign-ups will be processed on a first-come, first-served basis. <br>2. Lunch and tea will be catered. Refer to [registration form](google.com) for more details. . <br>3. Video submissions will be evaluated by a panel of judges comprising representatives from partner organisations. <br>4. More details about this showcase &amp; celebration event will be provided by end-January 2024. <br> 5. [Competition Terms &amp; Conditions](google.com) &lt; Maintain or go?
+###### **Notes** <br>1. Late registrations **will not be accepted**. Sign-ups will be processed on a first-come, first-served basis. <br>Click [here](google.com) for terms and conditions<br>2. Lunch and tea will be catered. Refer to [registration form](google.com) for more details. . <br>3. Video submissions will be evaluated by a panel of judges comprising representatives from partner organisations. 
