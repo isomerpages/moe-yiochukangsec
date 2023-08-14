@@ -40,7 +40,7 @@ This pairing of schools (one secondary school to one primary school) will be ran
 
 ![Timeline](/images/Sscwc/timeline.png)
 
-#### **How to Participate?**
+### **How to Participate?**
 
 Primary Level: A primary school can nominate one group of four Primary 4 and / or Primary 5 students. 
 * [Click here](https://www.yiochukangsec.moe.edu.sg/) for more information for Primary school participants.
