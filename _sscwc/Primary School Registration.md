@@ -3,10 +3,10 @@ title: Primary School Registration
 permalink: /sscwc/primaryregistration/
 description: ""
 ---
-![Overview](/images/Sscwc/prischoverview.png)
+![Overview](/images/Sscwc/overview.png)
 ### **Registration** 
 Interested schools may [register here](google.com). <br> 
-*Sign-ups will be processed on a first-come, first-served basis. Late registrations will not be **accepted**.*
+
 
 
 ---
@@ -47,4 +47,4 @@ Winning teams will receive their prizes at this event. All student participants 
 
 ---
 
-###### **Notes** <br>1. Lunch and one morning tea-break (halal) will be catered for student participants and one accompanying Teacher in-Charge on each day. Kindly provide details about dietary requirements and medical conditions, if any, in the [registration form](google.com). <br>2. Videos will be evaluated by a panel of judges from the respective partner organisations involved in the SSCWC. <br>3. More details about this event will be provided by end-2023. <br> 4. [Competition Terms &amp; Conditions](google.com)
+###### **Notes** <br>1. Sign-ups will be processed on a first-come, first-served basis. Late registrations will not be **accepted**<br>2. Lunch and one morning tea-break (halal) will be catered for student participants and one accompanying Teacher in-Charge on each day. Kindly provide details about dietary requirements and medical conditions, if any, in the [registration form](google.com). <br>3. Videos will be evaluated by a panel of judges from the respective partner organisations involved in the SSCWC. <br>4. More details about this event will be provided by end-2023. <br> 5. [Competition Terms &amp; Conditions](google.com)
