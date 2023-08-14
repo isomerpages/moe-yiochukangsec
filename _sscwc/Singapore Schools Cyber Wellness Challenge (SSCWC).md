@@ -49,4 +49,4 @@ participants will also be trained by learning specialists from Apple Singapore i
 
 ---
 
-###### **Notes** <br>**1.** Student participants could be the school's Peer Support Leaders, Cyber Wellness Ambassadors, Wellness Champions, Technology Champions, Technology Champions or any other group(s) of students the school deems suitable. <br>**2.** It is **not** a pre-requisite for student participants to own an Apple device, as these will be loaned to students for the duration of the competition. Nominated students must be comfortable in learning new technological skills. (Sec) for more information. Click here for competition dates - Refer to the PDF (T&amp;C)
+###### **Notes** <br>**1.** Student participants could be the school's Peer Support Leaders, Cyber Wellness Ambassadors, Wellness Champions, Technology Champions, Technology Champions or any other group(s) of students the school deems suitable. <br>**2.** It is **not** a pre-requisite for student participants to own an Apple device, as these will be loaned to students for the duration of the competition. Nominated students must be comfortable in learning new technological skills. 
