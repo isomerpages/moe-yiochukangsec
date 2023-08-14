@@ -31,8 +31,7 @@ participants will also be trained by learning specialists from Apple Singapore i
 
 ### **Team Composition**
 
-![Each Team](/images/Sscwc/each%20team.png)
-
+![Each team](/images/Sscwc/each%20team%20comprise.png)
 ![Trivial](/images/Sscwc/did%20you%20know.png)
 
 ### **Challenges Timeline &amp; Milestones**
@@ -41,10 +40,8 @@ participants will also be trained by learning specialists from Apple Singapore i
 
 ### **How to Participate?**
 
-Primary Level: A primary school can nominate one group of four Primary 4 and / or Primary 5 students. 
+![Participants](/images/Sscwc/pri%20&amp;%20sec%20participants.png)
 * [Click here](https://www.yiochukangsec.moe.edu.sg/) for more information for Primary school participants.
-
-Secondary Level: A secondary school can nominate a group of two Secondary 3 students to serve as SSCWC mentors.
 
 * [Click here](https://www.yiochukangsec.moe.edu.sg/) for more information for Secondary school participants.
 
