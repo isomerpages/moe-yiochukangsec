@@ -10,7 +10,7 @@ YCKSS provides students with a rich range of activities outside the classroom to
 
 ![][S1]
 
-A very exciting and challenging year for everyone indeed! Three videos were produced to document our journey right from the start. Each video focuses on what students and staff experienced and the activities they participated in. Ever wondered how teachers taught from home or how students kept themselves healthy or how Teacher’s Day was celebrated this year? Then check out our&nbsp;[videos](https://yiochukangsec.moe.edu.sg/our-experience/the-horizon-newsletter) to see how things are the same yet different.
+A very exciting and challenging year for everyone indeed! Three videos were produced to document our journey right from the start. Each video focuses on what students and staff experienced and the activities they participated in. Ever wondered how teachers taught from home or how students kept themselves healthy or how Teacher’s Day was celebrated this year? Then check out our [videos](https://yiochukangsec.moe.edu.sg/our-experience/the-horizon-newsletter) to see how things are the same yet different.
 
 ---
 ### Level Camps
@@ -38,10 +38,10 @@ Showtime gives students an avenue for self-expression because of the talents eme
 ### Speech and Prize Giving Day  
 
 <div style="padding: 0.75em;  line-height: 1.25em; text-align: center; font-size: 1em; font-weight: 400;"><iframe style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allow="fullscreen" allowfullscreen="" src="https://www.youtube.com/embed/Rcnx3RyomJY?start=2&amp;feature=oembed" title="YCKSS 58th Speech &amp; Prize-Giving Day"></iframe>
-<a target="_blank" title="If you don't see the embedded video above, click on the link to watch it on Youtube." href="https://www.youtube.com/watch?v=Rcnx3RyomJY"><em>YCKSS 58th Speech 8: Prize-Giving Day</em></a></div>
+<a target="_blank" title="If you don't see the embedded video above, click on the link to watch it on Youtube." href="https://www.youtube.com/watch?v=Rcnx3RyomJY"><em>YCKSS 58th Speech &amp; Prize-Giving Day</em></a></div>
 
 Our annual Speech and Prize Giving Day is a time to recognise the good work by the school and our graduating cohort of students. In addition, it is also a celebration of our students’ talents as all the performing arts groups such as the Dances, Choir, Band and Drama will put up an amazing concert that always leaves the audience asking for more.  
-<div style="box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1); border-radius: 15px;background-color: rgba(10, 10, 10, 0.05); padding: 5px 0px 5px 0px; margin: auto; line-height: 1.25em; text-align: center; font-size: 1em; font-weight: 400; color: #555555;"><a title="It is a 2.1MB download." target="_blank" href="/files/In%20Our%20School/2021%20Jan-May.pdf"><p style="padding: 1.5em">Download Issue 9 of The Horizon &amp; find out more about our 58th Speech and Prize Giving Day.</p></a></div>
+<div style="box-shadow: 0px 0px 5px -3px rgba(0,0,0,0.1); border-radius: 5px; padding: 3px 0px 15px 0px; font-size: 1em; font-weight: 400; color: #555555;"><a title="... and read about the day we celebrate students' accomplishments, both in the classroom and on stage." target="_blank" href="/files/In%20Our%20School/2021%20Jan-May.pdf"><p>Download Issue 9 of The Horizon</p></a></div>
 
 ---
 ### Singapore Youth Festival  
