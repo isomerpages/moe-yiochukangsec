@@ -8,7 +8,7 @@ description: ""
 
 ---
 
-### **About the Bootcamp** 
+### **Competition Bootcamp** 
 
 **Bootcamp Dates:** 7 &amp; 8 November 2023 (Tuesday &amp; Wednesday)
 
@@ -18,7 +18,7 @@ description: ""
 
 
 ---
-
+### **Bootcamp's Objectives** 
 
 Students will gain more in-depth knowledge and skills about cyber wellness, and apply their learning to storyboard and conceptualise suitable stories / messages to be featured in their final video deliverable.
 
