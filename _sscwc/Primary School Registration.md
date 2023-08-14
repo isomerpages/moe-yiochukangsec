@@ -4,24 +4,23 @@ permalink: /sscwc/primaryregistration/
 description: ""
 ---
 ![Overview](/images/Sscwc/overview.png)
-### **Registration** 
-Interested schools may [register here](google.com). <br> 
-
-
+ 
+#### Interested schools may [register here](google.com). <br> 
 
 ---
 
 
 ### **About the Competition Bootcamp** 
+![Bootcamp Details](/images/Sscwc/bootcamp%20details.png)
 
-**Bootcamp Dates:** 7 &amp; 8 November 2023 (Tuesday &amp; Wednesday)
+~~**Bootcamp Dates:** 7 &amp; 8 November 2023 (Tuesday &amp; Wednesday)
 
 **Time:** 9.00 am to 4.30 pm. Registration begins at 8.30am. Report by 8.45am for attendance-taking.
 
 **Venue:** Yio Chu Kang Secondary School (3063 Ang Mo Kio Ave 5, Singapore 569868)
 
 **Video Submission:** Each team (SSCWC mentors &amp; primary school participants) will submit its 90-second final video deliverable at the end of the two-day bootcamp on 8 November 2023. 
-
+~~
 
 ---
 
