@@ -17,7 +17,7 @@ description: ""
 
 **Venue:** Yio Chu Kang Secondary School (3063 Ang Mo Kio Ave 5, Singapore 569868)
 
-**Video Submission Each team:** (SSCWC mentors &amp; primary school participants) will submit its 90-second final video deliverable at the end of the two-day bootcamp on 8 November 2023. 
+**Video Submission:** Each team (SSCWC mentors &amp; primary school participants) will submit its 90-second final video deliverable at the end of the two-day bootcamp on 8 November 2023. 
 
 
 ---
