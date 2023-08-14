@@ -30,7 +30,8 @@ Students will gain more in-depth knowledge and skills about cyber wellness, and 
 
 Student participants will also learn technical knowledge and skills in video production to generate a 90- second clip.
 
-**Video Submission:** Each team (Secondary School mentors &amp; Primary School participants) will submit its 90-second final video deliverable at the end of the two-day bootcamp on 8 November 2023. 
+#### **Video Submission** 
+Each team (Secondary School mentors &amp; Primary School participants) will submit its 90-second final video deliverable at the end of the two-day bootcamp on 8 November 2023. 
 
 ---
 
