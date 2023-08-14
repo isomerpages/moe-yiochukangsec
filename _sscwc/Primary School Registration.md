@@ -4,9 +4,7 @@ permalink: /sscwc/primaryregistration/
 description: ""
 ---
 
-![Timeline](/images/Sscwc/prisch%20timeline.png)
-
-
+![Timeline](/images/Sscwc/pri%20sch%20timeline.png)
 ## Registration Details**
 
 ---
