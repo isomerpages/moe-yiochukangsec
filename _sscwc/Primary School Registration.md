@@ -3,8 +3,8 @@ title: Primary School Registration
 permalink: /sscwc/primaryregistration/
 description: ""
 ---
-![Timeline](/images/Sscwc/pri%20sch%20timeline.png)
 
+![Overview](/images/Sscwc/prischoverview.png)
 
 ---
 
