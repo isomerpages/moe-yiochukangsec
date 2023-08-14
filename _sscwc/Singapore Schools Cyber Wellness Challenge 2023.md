@@ -31,8 +31,8 @@ participants will also be trained by learning specialists from Apple Singapore i
 
 ### **Team Composition**
 
-![Each team](/images/Sscwc/each%20team%20comprise.png)
-![Trivial](/images/Sscwc/did%20you%20know.png)
+![Team comprise](/images/Sscwc/team%20comprise.png)
+
 
 ### **Challenges Timeline &amp; Milestones**
 
