@@ -42,9 +42,4 @@ Winning teams will receive their prizes at this event. All student participants 
 
 ---
 
-### **Competition Guidelines, T&amp;C** 
-(Insert PDF)
-
----
-
 ###### **Notes** <br>1. Late registrations will not be **accepted**. Sign-ups will be processed on a first-come, first-served basis. <br>2. Lunch and tea will be catered. Refer to [registration form](google.com) for more details. . <br>3. Video submissions will be evaluated by a panel of judges comprising representatives from partner organisations. <br>4. More details about this showcase &amp; celebration event will be provided by end-January 2024. <br> 5. [Competition Terms &amp; Conditions](google.com) &lt; Maintain or go?
