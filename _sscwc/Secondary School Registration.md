@@ -9,7 +9,8 @@ description: ""
 | -------- | -------- | -------- |
 | ![Interested Schools](/images/Sscwc/registration%20header(sideway).png)| | [**REGISTER HERE** ](google.com)   | 
 
-
+ 
+		
 ---
 
 ### **Mentoring Training Programme**
@@ -36,4 +37,7 @@ Winning teams will receive their prizes at this event. All student participants 
 
 ---
 
-###### **Notes** <br>1. Late registrations will **not be accepted**. Click [here](google.com) for terms and conditions<br>2. Lunch and tea will be catered. Refer to [registration form](google.com) for more details. . <br>3. Video submissions will be evaluated by a panel of judges comprising representatives from partner organisations.
+###### **Notes** <br><br><br><table style="width:100%">
+  <tbody><tr>
+    <th>Firstname</th>
+    <th>Lastname</th></tr></tbody></table>1. Late registrations will **not be accepted**. Click [here](google.com) for terms and conditions2. Lunch and tea will be catered. Refer to [registration form](google.com) for more details. . 3. Video submissions will be evaluated by a panel of judges comprising representatives from partner organisations.
