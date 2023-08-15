@@ -6,7 +6,14 @@ description: ""
 ![Overview](/images/Sscwc/secschoverview.png)
  
 ![Registration](/images/Sscwc/registration%20header(down).png) 
-[register here](google.com). 
+
+
+
+
+| ![Registration](/images/Sscwc/registration%20header(down).png) | [register here](google.com).  | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
 
 ---
 
