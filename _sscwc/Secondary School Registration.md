@@ -3,12 +3,14 @@ title: Secondary School Registration
 permalink: /sscwc/secondaryregistration/
 description: ""
 ---
-![Overview](/images/Sscwc/overview.png)
+![Overview](/images/Sscwc/secschoverview.png)
  
-#### Interested schools may [register here](google.com). <br> 
+![Registration](/images/Sscwc/registration%20header(down).png) <br>#### Interested schools may [register here](google.com). 
 
 ---
 
+### **Mentoring Training Programme**
+![Mentor Training Programme](/images/Sscwc/mentoring%20programme.png)
 
 ### **About the Competition Bootcamp** 
 ![Bootcamp Details](/images/Sscwc/bootcamp%20details.png)
