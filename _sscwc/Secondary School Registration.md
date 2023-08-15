@@ -16,8 +16,9 @@ description: ""
 
 |  |  | |
 | -------- | -------- | -------- |
-| ![Interested Schools](/images/Sscwc/registration%20header(sideway).png)     | [REGISTER HERE ](google.com)     | 
+| ![Interested Schools](/images/Sscwc/registration%20header(sideway).png)     | [**REGISTER HERE** ](google.com)   | 
 
+#### **REGISTER HERE**
 
 ---
 
