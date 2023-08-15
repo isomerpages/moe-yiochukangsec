@@ -38,7 +38,7 @@ participants will also be trained by learning specialists from Apple Singapore i
 
 ### **Timeline &amp; Milestones**
 
-![Timeline](/images/Sscwc/timeline.png)
+![Timeline](/images/Sscwc/timeline1.png)
 
 ### **How to Participate?**
 
