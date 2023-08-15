@@ -6,7 +6,7 @@ description: ""
 ![Overview](/images/Sscwc/overview.png)
  
  ![Registration](/images/Sscwc/registration%20header(down).png)
-[register here](google.com). 
+[Please register here](google.com). 
 
 ---
 
