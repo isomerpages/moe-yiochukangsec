@@ -5,6 +5,7 @@ description: ""
 ---
 ![Overview](/images/Sscwc/overview.png)
  
+ ![Registration](/images/Sscwc/registration%20header(down).png) <br>
 #### Interested schools may [register here](google.com). <br> 
 
 ---
