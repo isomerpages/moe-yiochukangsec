@@ -10,10 +10,8 @@ description: ""
 
 
 
-| ![Registration](/images/Sscwc/registration%20header(down).png) | [register here](google.com).  | Column 3 |
+| ![Interested Schools](/images/Sscwc/registration%20header(sideway).png) | [REGISTER HERE ](google.com) |  |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
 
 ---
 
