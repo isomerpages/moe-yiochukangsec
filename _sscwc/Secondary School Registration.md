@@ -4,21 +4,11 @@ permalink: /sscwc/secondaryregistration/
 description: ""
 ---
 ![Overview](/images/Sscwc/secschoverview.png)
- 
-![Registration](/images/Sscwc/registration%20header(down).png) 
-
-
-
-
-| ![Interested Schools](/images/Sscwc/registration%20header(sideway).png) | [REGISTER HERE ](google.com) |  |
-| -------- | -------- | -------- |
-
 
 |  |  | |
 | -------- | -------- | -------- |
-| ![Interested Schools](/images/Sscwc/registration%20header(sideway).png)     | [**REGISTER HERE** ](google.com)   | 
+| ![Interested Schools](/images/Sscwc/registration%20header(sideway).png)| | [**REGISTER HERE** ](google.com)   | 
 
-#### **REGISTER HERE**
 
 ---
 
