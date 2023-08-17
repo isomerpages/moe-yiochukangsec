@@ -7,7 +7,7 @@ YCKSS taps into the community resources and platforms to create opportunities to
 
 To find out more details of each activity, please go to [The Horizon (Newsletter)](https://yiochukangsec.moe.edu.sg/our-experience/the-horizon-newsletter) [YCKSS Facebook Page](https://www.facebook.com/yiochukangsec) and [Instagram Posts](https://www.instagram.com/yiochukang_sec/) for the latest updates.
 
-Look out for the more details in [The Horizon, Issue 9 from Jan 2023 - May 2023](/files/The%20Horizon%20(newsletter)/yckss%202023%20sem%201%20magazine_final.pdf)
+Look out for the more details in <a style="text-decoration: none" target="_blank" href="/files/The%20Horizon%20(newsletter)/yckss%202023%20sem%201%20magazine_final.pdf">The Horizon, Issue 9 from Jan 2023 - May 2023</a>
 
 
 <ul class="jekyllcodex_accordion">
