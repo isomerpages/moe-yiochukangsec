@@ -54,4 +54,3 @@ Look out for the more details in [The Horizon, Issue 9](/files/The%20Horizon%20(
         </div>
     </li>
 </ul>
-
