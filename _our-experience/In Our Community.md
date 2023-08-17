@@ -21,6 +21,7 @@ Look out for the more details in [The Horizon, Issue 9](/files/The%20Horizon%20(
         <p> Participating in the National Day Parade (NDP) as a school was an unforgettable and pride-filled experience. The atmosphere was electrifying as students from various schools came together, adorned in the red-white costume for on 9 August. As the students danced in unison to the NDP 23 Theme song, “Shine Your Light”, they signified the light that would lead us ahead into the future. The camaraderie and sense of unity among schools created a powerful sense of national identity and belonging.</p>
         <img style="width:100%;height:auto" alt="Group photo of students and teachers on the stage after the NDP 2023" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/NDP/yckss_at_ndp_2023_01.jpeg">
         <p> The NDP experience not only instils a deeper appreciation for the nation but also offers students an opportunity to forge lasting friendships and unforgettable memories as we come together to celebrate their shared identity as citizens of the nation. </p>
+			
         <div style="margin-top: 3em" class="card">
             <div style="text-align: center" class="card-body">
                 <h3 class="card-title">Young &amp; Garang Cheer</h3>
