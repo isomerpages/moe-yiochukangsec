@@ -5,9 +5,9 @@ description: ""
 ---
 YCKSS taps into the community resources and platforms to create opportunities to enhance our students’ learning experiences beyond school. We actively seek to collaborate and engage in community activities and it is evidenced from the various events our students participated such as SYF Celebrations Festival Concert in 2018 and Yio Chu Kang Community Club National Day Observance Day 2018, etc.
 
-To find out more details of each activity, please go to&nbsp;[The Horizon (Our Newsletter)](https://yiochukangsec.moe.edu.sg/our-experience/the-horizon-newsletter)&nbsp;and also our&nbsp;[YCKSS Facebook Page](https://www.facebook.com/yiochukangsec)&nbsp;and&nbsp;[Instagram Posts](https://www.instagram.com/yiochukang_sec/)&nbsp;for the latest updates.
+To find out more details of each activity, please go to&nbsp;[The Horizon (Our Newsletter)](https://yiochukangsec.moe.edu.sg/our-experience/the-horizon-newsletter), [YCKSS Facebook Page](https://www.facebook.com/yiochukangsec) and [Instagram Posts](https://www.instagram.com/yiochukang_sec/) for the latest updates.
 
-Look out for the more details in&nbsp;[The Horizon, Issue 2](https://www.yiochukangsec.moe.edu.sg/files/In%20Our%20Community/The%20Horizon%20Issue%202%20(July%20-%20Nov%202018).pdf).
+Look out for the more details in [The Horizon, Issue 9](/files/The%20Horizon%20(newsletter)/yckss%202023%20sem%201%20magazine_final.pdf), (Jan 2023 - May 2023).
 
 ------
 
@@ -18,15 +18,15 @@ Look out for the more details in&nbsp;[The Horizon, Issue 2](https://www.yiochuk
 
 Yio Chu Kang Secondary School was invited to perform in 2023 National Day Parade (NDP) Act 4 – Onward as One with Kuo Chuan Presbyterian Secondary School, CHIJ St Theresa’s Convent and Nanyang Girls’ High School.  Leading up to NDP, students engaged in a series of activities, from intense weekly training sessions in school, evening performances at the Padang to learning journey and bonding sessions with participants of the other 3 schools. 
 
-![][P1]
+![Group photo of students and teachers participating in NDP 2023 seated in a ballroom.](/images/Our%20Experience/In%20Our%20Community/NDP/yckss_at_ndp_2023_02.jpeg)
 
 Participating in the National Day Parade (NDP) as a school was an unforgettable and pride-filled experience. The atmosphere was electrifying as students from various schools came together, adorned in the red-white costume for on 9 August. As the students danced in unison to the NDP 23 Theme song, “Shine Your Light”, they signified the light that would lead us ahead into the future. The camaraderie and sense of unity among schools created a powerful sense of national identity and belonging.
 
-![][P2]
+![Group photo of students and teachers on the stage after the NDP 2023](/images/Our%20Experience/In%20Our%20Community/NDP/yckss_at_ndp_2023_01.jpeg)
 
 The NDP experience not only instils a deeper appreciation for the nation but also offers students an opportunity to forge lasting friendships and unforgettable memories as we come together to celebrate their shared identity as citizens of the nation. 
 
-<div style="margin-top: 3em" class="card sgds">
+<div style="margin-top: 3em" class="card">
         <div style="text-align: center" class="card-body">
            <h3 class="card-title">Young &amp; Garang Cheer</h3>
 					<p class="card-text"><span style="color: #e18f05; font-size: 1.25em">Leader:</span> Yio Chu Kang<br>
@@ -42,7 +42,6 @@ woohoo/screams!!!</i><br>
            <p></p>           
         </div>
 </div>
-
 
 
 
@@ -85,6 +84,5 @@ The&nbsp;**Media &amp; Design Festival**&nbsp;has been organised annually since 
 [CE2]: https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Cluster%20Events/C2.png
 [CE3]: https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Cluster%20Events/C3.png
 
-[P1]: https://www.yiochukangsec.moe.edu.sg/images/yckss_at_ndp_2023_02.jpeg "Group photo of students and teachers participating in NDP 2023 seated in a ballroom"
-[P2]: https://www.yiochukangsec.moe.edu.sg/images/yckss_at_ndp_2023_01.jpeg "Group photo of students and teachers on the stage after the NDP 2023"
-    
+[NDP2]: https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/NDP/yckss_at_ndp_2023_02.jpeg "Group photo of students and teachers participating in NDP 2023 seated in a ballroom"
+[NDP1]: https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/NDP/yckss_at_ndp_2023_01.jpeg "Group photo of students and teachers on the stage after the NDP 2023"
