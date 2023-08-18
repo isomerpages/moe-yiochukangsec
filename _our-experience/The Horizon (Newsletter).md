@@ -12,6 +12,8 @@ Here's our latest edition of Horizon 2023. Read how our students and staff conti
 
 ![The front cover of Horizon, Issue 9](/images/Our%20Experience/The%20Horizon%20(newsletter)/front%20page%20-%20yckss%202023%20sem%201%20magazine_final.jpg)
 
+-----
+
 #### **Journey Through 2020**
 
 In 2020, in the year of COVID-19, instead of an e-newsletter, we decided to create a documentary to capture in film the rich narratives of different students and staff.
