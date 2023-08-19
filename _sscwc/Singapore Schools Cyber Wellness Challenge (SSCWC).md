@@ -19,7 +19,17 @@ The challenge seeks to promote youth advocacy and cultivate student leadership c
 
 ![Trivial](/images/Sscwc/trivial.png)
 
-
+<div class="row">
+    <div class="col is-4">
+		<figure style="margin:0">
+			<img style="width:100%;" src="/images/Sscwc/registration%20header(sideway).png">
+			<figcaption style="color:#FFFF00" class="has-text-weight-bold"> </figcaption>
+		</figure>
+	</div>
+	<div class="col is-8">
+<p><br> Sign up here.</p>
+</div>
+</div>
 In order to generate meaningful media content that can impact and educate their peers and the
 community, both primary and secondary school student participants¹ will first explore and discuss Cyber Wellness issues, with guidance from TOUCH Cyber Wellness facilitators.
 
