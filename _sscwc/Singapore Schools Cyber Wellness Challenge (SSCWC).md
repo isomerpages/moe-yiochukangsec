@@ -25,7 +25,7 @@ The challenge seeks to promote youth advocacy and cultivate student leadership c
 			<figcaption class="has-text-weight-bold"> </figcaption>
 		</figure>
 	</div>
-	<div class="col is-8">
+	<div class="col is-7">
 <p>The challenge seeks to promote youth advocacy and cultivate student leadership competencies, by integrating Peer Support and Relationships (PSR) into advocacy in Cyber Wellness education.</p>
 </div>
 </div>
