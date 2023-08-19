@@ -4,13 +4,9 @@ permalink: /sscwc/secondaryregistration/
 description: ""
 ---
 ![Overview](/images/Sscwc/secschoverview.png)
+![Registration](/images/Sscwc/registration%20header(down).png)
+[Click here to register!](google.com)
 
-|  |  | |
-| -------- | -------- | -------- |
-| ![Interested Schools](/images/Sscwc/registration%20header(sideway).png)| | [**REGISTER HERE** ](google.com)   | 
-
- 
-		
 ---
 
 ### **Mentoring Training Programme**
