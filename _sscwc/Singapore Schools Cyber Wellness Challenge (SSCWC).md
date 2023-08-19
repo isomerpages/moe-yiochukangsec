@@ -18,9 +18,8 @@ centred around Cyber Wellness themes, endorsed by the Infocomm Media Development
 <br>
 <div class="row">
     <div class="col is-5">
-		<figure style="margin:0">
-			    <br>
-			<img style="width:100%;" src="/images/Sscwc/fyi%20full.png">
+		<figure style="margin:0"> 
+			 <br><img style="width:100%;" src="/images/Sscwc/fyi%20full.png">
 			<figcaption class="has-text-weight-bold"> </figcaption>
 		</figure>
 	</div>
