@@ -22,12 +22,12 @@ The challenge seeks to promote youth advocacy and cultivate student leadership c
 <div class="row">
     <div class="col is-4">
 		<figure style="margin:0">
-			<img style="width:100%;" src="/images/Sscwc/registration%20header(sideway).png">
-			<figcaption style="color:#FFFF00" class="has-text-weight-bold"> </figcaption>
+			<img style="width:100%;" src="/images/Sscwc/trivial.png">
+			<figcaption class="has-text-weight-bold"> </figcaption>
 		</figure>
 	</div>
 	<div class="col is-8">
-<p><br> Sign up here.</p>
+<p>The challenge seeks to promote youth advocacy and cultivate student leadership competencies, by integrating Peer Support and Relationships (PSR) into advocacy in Cyber Wellness education.</p>
 </div>
 </div>
 In order to generate meaningful media content that can impact and educate their peers and the
