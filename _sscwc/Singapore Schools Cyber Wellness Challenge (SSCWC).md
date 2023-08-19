@@ -19,7 +19,7 @@ The challenge seeks to promote youth advocacy and cultivate student leadership c
 
 ![Trivial](/images/Sscwc/trivial.png)
 <div class="row">
-    <div class="col is-4">
+    <div class="col is-5">
 		<figure style="margin:0">
 			<img style="width:100%;" src="/images/Sscwc/fyi%20full.png">
 			<figcaption class="has-text-weight-bold"> </figcaption>
