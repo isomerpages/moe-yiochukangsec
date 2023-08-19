@@ -18,11 +18,10 @@ centred around Cyber Wellness themes, endorsed by the Infocomm Media Development
 The challenge seeks to promote youth advocacy and cultivate student leadership competencies, by integrating Peer Support and Relationships (PSR) into advocacy in Cyber Wellness education. Each participating team will comprise secondary school students playing the role of mentors to their primary school peers in the creation of media content illustrating the key messages of the DfL movement.
 
 ![Trivial](/images/Sscwc/trivial.png)
-
 <div class="row">
     <div class="col is-4">
 		<figure style="margin:0">
-			<img style="width:100%;" src="/images/Sscwc/trivial.png">
+			<img style="width:100%;" src="/images/Sscwc/fyi%20full.png">
 			<figcaption class="has-text-weight-bold"> </figcaption>
 		</figure>
 	</div>
@@ -30,6 +29,8 @@ The challenge seeks to promote youth advocacy and cultivate student leadership c
 <p>The challenge seeks to promote youth advocacy and cultivate student leadership competencies, by integrating Peer Support and Relationships (PSR) into advocacy in Cyber Wellness education.</p>
 </div>
 </div>
+Each participating team will comprise secondary school students playing the role of mentors to their primary school peers in the creation of media content illustrating the key messages of the DfL movement.
+
 In order to generate meaningful media content that can impact and educate their peers and the
 community, both primary and secondary school student participants¹ will first explore and discuss Cyber Wellness issues, with guidance from TOUCH Cyber Wellness facilitators.
 
