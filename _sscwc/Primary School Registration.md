@@ -43,6 +43,6 @@ PLACEHOLDER.
 		</figure>
 	</div>
 	<div class="col is-8">
-<p><br><br> Sign up here.</p>
+<p><br> Sign up here.</p>
 </div>
 </div>
