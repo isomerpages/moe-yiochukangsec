@@ -32,3 +32,17 @@ Winning teams will receive their prizes at this event. All student participants 
 ---
 
 ###### **Notes** <br>1. Late registrations will **not be accepted**. Click [here](google.com) for terms and conditions<br>2. Lunch and tea will be catered. Refer to [registration form](google.com) for more details. . <br>3. Video submissions will be evaluated by a panel of judges comprising representatives from partner organisations.
+
+
+
+<div class="row">
+    <div class="col is-4">
+		<figure style="margin:0">
+			<img style="width:100%;" src="/images/Sscwc/registration%20header(sideway).png">
+			<figcaption style="color:#0AD25A" class="has-text-weight-bold"> </figcaption>
+		</figure>
+	</div>
+	<div class="col is-8">
+<p>Sign up here.</p>
+</div>
+</div>
