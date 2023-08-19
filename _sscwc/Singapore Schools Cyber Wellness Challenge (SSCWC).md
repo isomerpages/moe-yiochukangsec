@@ -15,7 +15,7 @@ centred around Cyber Wellness themes, endorsed by the Infocomm Media Development
 
 --- 
 ### **For Students, By Students** 
-<br>
+
 <div class="row">
     <div class="col is-5">
 		<figure style="margin:0"> 
