@@ -3,7 +3,7 @@ title: Singapore Schools Cyber Wellness Challenge (SSCWC)
 permalink: /sscwc/sscwc2023/
 description: Singapore Schools Cyber Wellness Challenge 2023
 ---
-![Logo](/images/Sscwc/logo%20update.png)<br> 
+![Logo](/images/Sscwc/logo%20update2.png)<br> 
 The **SSCWC** is a national short film competition,
 centred around Cyber Wellness themes, endorsed by the Infocomm Media Development Authority
 (IMDA) and Media Literacy Council (MLC) in support of the Digital for Life (DfL) movement. 
