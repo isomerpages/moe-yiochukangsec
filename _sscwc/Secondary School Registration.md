@@ -9,7 +9,7 @@ description: ""
 
 ---
 
-### **Mentoring Training Programme**
+### **Mentors' Training Programme**
 ![Mentor Training Programme](/images/Sscwc/mentoring%20programme.png)
 
 ---
