@@ -61,7 +61,7 @@ participants will also be trained by learning specialists from Apple Singapore i
 |  |  |
 | -------- | -------- |
 | [Programme Detail](google.com)     | [Programme Detail](google.com)     | 
-| [Registration Form](google.com) | [Registration form](google.com) 
+| [Registration Form](google.com) | [Registration Form](google.com) 
 
 ---
 
