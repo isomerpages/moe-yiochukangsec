@@ -55,19 +55,7 @@ participants will also be trained by learning specialists from Apple Singapore i
 * Primary school participants' [registration](https://www.yiochukangsec.moe.edu.sg/).
 
 * Secondary school participants' [registration](https://www.yiochukangsec.moe.edu.sg/).
-<div class="row">
-    <div class="col is-5">
-		<figure style="margin:0"> 
-			 <a>google.com<p></p>
-</a><a><p>Registration Form</p>
-			<figcaption class="has-text-weight-bold"> </figcaption>
-		</a></figure><a>
-	</a></div><a>
-	<div class="col is-5">
-		<figure style="margin:0"> 
-			 <p>* Secondary school participants' [registration][https://www.yiochukangsec.moe.edu.sg/].</p>
-</figure></div>
-</a></div><a>
+| Link | |---------------------------| | \[Google\](https://www.google.com/) | | \[YouTube\](https://www.youtube.com/) |
 ---
 
-###### **Notes** <br><br>**1.** Student participants could be the school's Peer Support Leaders, Cyber Wellness Ambassadors, Wellness Champions, Technology Champions or any other group(s) of students the school deems suitable. <br><br>**2.** It is **not** a pre-requisite for student participants to own an Apple device, as these will be loaned to students for the duration of the challenge. Nominated students must be comfortable in learning new technological skills.</a>
+###### **Notes** <br><br>**1.** Student participants could be the school's Peer Support Leaders, Cyber Wellness Ambassadors, Wellness Champions, Technology Champions or any other group(s) of students the school deems suitable. <br><br>**2.** It is **not** a pre-requisite for student participants to own an Apple device, as these will be loaned to students for the duration of the challenge. Nominated students must be comfortable in learning new technological skills.
