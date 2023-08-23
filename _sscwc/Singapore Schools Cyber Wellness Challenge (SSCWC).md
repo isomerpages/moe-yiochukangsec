@@ -52,16 +52,14 @@ participants will also be trained by learning specialists from Apple Singapore i
 ### **How to Participate?**
 
 ![Participants](/images/Sscwc/pri%20&amp;%20sec%20participants.png)
-* Primary school participants' [registration](https://www.yiochukangsec.moe.edu.sg/).
-
-* Secondary school participants' [registration](https://www.yiochukangsec.moe.edu.sg/).
-
-
-
 | Primary | Secondary |
 | :--------: | :--------: |
 | [Programme Detail](google.com)     | [Programme Detail](google.com)     | 
 | [Registration Form](google.com) | [Registration Form](google.com) 
+
+* Primary school participants' [registration](https://www.yiochukangsec.moe.edu.sg/).
+
+* Secondary school participants' [registration](https://www.yiochukangsec.moe.edu.sg/).
 
 ---
 
