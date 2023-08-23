@@ -25,7 +25,7 @@ centred around Cyber Wellness themes, endorsed by the Infocomm Media Development
 		</figure>
 	</div>
 	<div class="col is-7">
-<p><br><br><img style="width:100%;" src="/images/Sscwc/fyi%20full.png"></p>
+<p><br><br><img style="width:75%;" src="/images/Sscwc/fyi%20full.png"></p>
 </div>
 </div>
 In order to generate meaningful media content that can impact and educate their peers and the
