@@ -26,7 +26,7 @@ centred around Cyber Wellness themes, endorsed by the Infocomm Media Development
 		</div></figure>
 	</div>
 	<div class="col is-5">
-	<br><br><img style="width:100%;" src="/images/Sscwc/fyi%20full.png">
+	<br><br><img src="/images/Sscwc/fyi%20full.png" style="width:100%;">
 </div>
 </div>
 In order to generate meaningful media content that can impact and educate their peers and the
@@ -58,15 +58,16 @@ participants will also be trained by learning specialists from Apple Singapore i
 <div class="row">
     <div class="col is-5">
 		<figure style="margin:0"> 
-			 <p>* [Programme Detail](https://www.yiochukangsec.moe.edu.sg/). <br>[Registration Form](https://www.yiochukangsec.moe.edu.sg/).</p>
+			 <a><p>Programme detail</p>
+</a><a><p>Registration Form</p>
 			<figcaption class="has-text-weight-bold"> </figcaption>
-		</figure>
-	</div>
+		</a></figure><a>
+	</a></div><a>
 	<div class="col is-5">
 		<figure style="margin:0"> 
 			 <p>* Secondary school participants' [registration](https://www.yiochukangsec.moe.edu.sg/).</p>
 </figure></div>
-</div>
+</a></div><a>
 ---
 
-###### **Notes** <br><br>**1.** Student participants could be the school's Peer Support Leaders, Cyber Wellness Ambassadors, Wellness Champions, Technology Champions or any other group(s) of students the school deems suitable. <br><br>**2.** It is **not** a pre-requisite for student participants to own an Apple device, as these will be loaned to students for the duration of the challenge. Nominated students must be comfortable in learning new technological skills.
+###### **Notes** <br><br>**1.** Student participants could be the school's Peer Support Leaders, Cyber Wellness Ambassadors, Wellness Champions, Technology Champions or any other group(s) of students the school deems suitable. <br><br>**2.** It is **not** a pre-requisite for student participants to own an Apple device, as these will be loaned to students for the duration of the challenge. Nominated students must be comfortable in learning new technological skills.</a>
