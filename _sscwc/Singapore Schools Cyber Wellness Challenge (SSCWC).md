@@ -20,9 +20,10 @@ centred around Cyber Wellness themes, endorsed by the Infocomm Media Development
 <div class="row">
     <div class="col is-7">
 		<figure style="margin:0"> 
+		<div style="text-align: left;">
 			 <p><br> The challenge seeks to promote youth advocacy and cultivate student leadership competencies, by integrating Peer Support and Relationships (PSR) into advocacy in Cyber Wellness education. Each participating team will comprise secondary school students playing the role of mentors to their primary school peers in the creation of media content illustrating the key messages of the DfL movement.</p>
 			<figcaption class="has-text-weight-bold"> </figcaption>
-		</figure>
+		</div></figure>
 	</div>
 	<div class="col is-5">
 	<br><br><img style="width:100%;" src="/images/Sscwc/fyi%20full.png">
