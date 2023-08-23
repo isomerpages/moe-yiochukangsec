@@ -65,7 +65,7 @@ participants will also be trained by learning specialists from Apple Singapore i
 	</a></div><a>
 	<div class="col is-5">
 		<figure style="margin:0"> 
-			 <p>* Secondary school participants' [registration](https://www.yiochukangsec.moe.edu.sg/).</p>
+			 <p>* Secondary school participants' [registration][https://www.yiochukangsec.moe.edu.sg/].</p>
 </figure></div>
 </a></div><a>
 ---
