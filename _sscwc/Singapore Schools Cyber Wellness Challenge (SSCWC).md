@@ -58,7 +58,7 @@ participants will also be trained by learning specialists from Apple Singapore i
 <div class="row">
     <div class="col is-5">
 		<figure style="margin:0"> 
-			 <a><p>Programme detail</p>
+			 <a>google.com<p></p>
 </a><a><p>Registration Form</p>
 			<figcaption class="has-text-weight-bold"> </figcaption>
 		</a></figure><a>
