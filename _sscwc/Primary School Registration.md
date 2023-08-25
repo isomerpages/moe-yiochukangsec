@@ -3,7 +3,7 @@ title: Primary School Registration
 permalink: /sscwc/primaryregistration/
 description: ""
 ---
-![Overview](/images/Sscwc/overview.png)
+![Pri sch overview](/images/Sscwc/prisch_overview.png)
  ![Interested Schools](/images/Sscwc/interestedschools_.png)
 [Click here to register!](google.com)
 
@@ -11,6 +11,7 @@ description: ""
 
 
 ### **About the Bootcamp Challenge** 
+
 ![Bootcamp Details](/images/Sscwc/bootcamp%20details.png)
 
 Students will gain more in-depth knowledge and skills about Cyber Wellness, and apply their learning to storyboard and conceptualise suitable stories / messages to be featured in their final video deliverable.
