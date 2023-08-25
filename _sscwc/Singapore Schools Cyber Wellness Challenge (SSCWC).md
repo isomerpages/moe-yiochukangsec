@@ -10,9 +10,9 @@ centred around Cyber Wellness themes, endorsed by the Infocomm Media Development
 <br>
 
 ### **Theme for 2023 Challenge**
-![Be Safe](/images/Sscwc/be%20safe.png)
-![Be Smart](/images/Sscwc/be%20smart.png)
-![Be Kind](/images/Sscwc/be%20kind.png)
+![Be safe](/images/Sscwc/be%20safe.png)
+![Be smart](/images/Sscwc/be%20smart.png)
+![Be kind](/images/Sscwc/be%20kind.png)
 
 --- 
 ### **For Students, By Students** 
@@ -36,7 +36,7 @@ Student participants will then apply their learning to storyboard and conceptual
 messages in line with the selected key Cyber Wellness message and target audience. Student
 participants will also be trained by learning specialists from Apple Singapore in the technical skills and knowledge for video production using the iPads².
 
-![Organisers Banner](/images/Sscwc/partnership%20logos.png)
+![Organisations](/images/Sscwc/partnership%20logos.png)
 
 ---
 
@@ -46,8 +46,7 @@ participants will also be trained by learning specialists from Apple Singapore i
 
 
 ### **Timeline &amp; Milestones**
-
-![Timeline](/images/Sscwc/timeline1.png)
+![Timeline](/images/Sscwc/main%20page%20timeline.png)
 
 ### **How to Participate?**
 
