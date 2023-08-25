@@ -3,14 +3,15 @@ title: Secondary School Registration
 permalink: /sscwc/secondaryregistration/
 description: ""
 ---
-![Overview](/images/Sscwc/secschoverview.png)
+![Sec Sch Overview](/images/Sscwc/secsch_overview.png)
 ![Interested Schools](/images/Sscwc/interestedschools_.png)
 [Click here to register!](google.com)
 
 ---
 
 ### **Mentors' Training Programme**
-![Mentor Training Programme](/images/Sscwc/mentoring%20programme.png)
+
+![Mentors' training](/images/Sscwc/secsch_mentor%20details.png)
 
 ---
 
