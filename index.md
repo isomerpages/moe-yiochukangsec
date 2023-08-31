@@ -19,16 +19,16 @@ sections:
           url: https://sites.google.com/moe.edu.sg/2023-yckss-calendar
       background: /images/Homepage/YCKSS GIF Homepage.gif
   - infopic:
-      title: Visit Us
-      button: Enter Here
-      url: https://4d.silvrcraft.com/yckss360vt/index.htm
-      image: /images/openhouse.jpg
-      alt: Virtual Tour
-  - infopic:
       title: Cyber Wellness Challenge 2023
       subtitle: Singapore schools
       button: Register here
       url: https://www.yiochukangsec.moe.edu.sg/sscwc/sscwc2023
       image: /images/sscwc edm.PNG
       alt: Image alt text
+  - infopic:
+      title: Visit Us
+      button: Enter Here
+      url: https://4d.silvrcraft.com/yckss360vt/index.htm
+      image: /images/openhouse.jpg
+      alt: Virtual Tour
 ---
