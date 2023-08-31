@@ -10,22 +10,23 @@ centred around Cyber Wellness themes, endorsed by the Infocomm Media Development
 <br>
 
 ### **Theme for 2023 Challenge**
-![Be Safe](/images/Sscwc/be%20safe.png)
-![Be Smart](/images/Sscwc/be%20smart.png)
-![Be Kind](/images/Sscwc/be%20kind.png)
+![Be safe](/images/Sscwc/be%20safe.png)
+![Be smart](/images/Sscwc/be%20smart.png)
+![Be kind](/images/Sscwc/be%20kind.png)
 
 --- 
 ### **For Students, By Students** 
 
 <div class="row">
-    <div class="col is-5">
+    <div class="col is-7">
 		<figure style="margin:0"> 
-			 <br><br><img style="width:100%;" src="/images/Sscwc/fyi%20full.png">
+		<div style="text-align: left;">
+			 <p><br> The challenge seeks to promote youth advocacy and cultivate student leadership competencies, by integrating Peer Support and Relationships (PSR) into advocacy in Cyber Wellness education. Each participating team will comprise of secondary school students playing the role of mentors to their primary school peers in the creation of media content illustrating the key messages of the DfL movement.</p>
 			<figcaption class="has-text-weight-bold"> </figcaption>
-		</figure>
+		</div></figure>
 	</div>
-	<div class="col is-7">
-<p><br> The challenge seeks to promote youth advocacy and cultivate student leadership competencies, by integrating Peer Support and Relationships (PSR) into advocacy in Cyber Wellness education. Each participating team will comprise secondary school students playing the role of mentors to their primary school peers in the creation of media content illustrating the key messages of the DfL movement.</p>
+	<div class="col is-5">
+	<br><br><img src="/images/Sscwc/fyi%20full.png" style="width:100%;">
 </div>
 </div>
 In order to generate meaningful media content that can impact and educate their peers and the
@@ -35,7 +36,7 @@ Student participants will then apply their learning to storyboard and conceptual
 messages in line with the selected key Cyber Wellness message and target audience. Student
 participants will also be trained by learning specialists from Apple Singapore in the technical skills and knowledge for video production using the iPads².
 
-![Organisers Banner](/images/Sscwc/partnership%20logos.png)
+![Organisations](/images/Sscwc/partnership%20logos.png)
 
 ---
 
@@ -45,15 +46,16 @@ participants will also be trained by learning specialists from Apple Singapore i
 
 
 ### **Timeline &amp; Milestones**
-
-![Timeline](/images/Sscwc/timeline1.png)
+![Timeline](/images/Sscwc/main%20page%20timeline.png)
 
 ### **How to Participate?**
 
 ![Participants](/images/Sscwc/pri%20&amp;%20sec%20participants.png)
-* Primary school participants' [registration](https://www.yiochukangsec.moe.edu.sg/).
 
-* Secondary school participants' [registration](https://www.yiochukangsec.moe.edu.sg/).
+| Primary Schools | Secondary Schools |
+| :--------: | :--------: |
+|[Programme Detail](/sscwc/primaryregistration/)    | [Programme Detail](/sscwc/secondaryregistration/)| 
+| [Registration Form](/go.gov.sg/sscwc2023regpri/) | [Registration Form](/go.gov.sg/sscwc2023regsec/) | 
 
 ---
 

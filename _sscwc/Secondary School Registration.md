@@ -3,14 +3,15 @@ title: Secondary School Registration
 permalink: /sscwc/secondaryregistration/
 description: ""
 ---
-![Overview](/images/Sscwc/secschoverview.png)
+![Sec Sch Overview](/images/Sscwc/secsch_overview.png)
 ![Interested Schools](/images/Sscwc/interestedschools_.png)
-[Click here to register!](google.com)
+[Click here to register!](/go.gov.sg/sscwc2023regsec/)
 
 ---
 
 ### **Mentors' Training Programme**
-![Mentor Training Programme](/images/Sscwc/mentoring%20programme.png)
+
+![Mentors' training](/images/Sscwc/secsch_mentor%20details.png)
 
 ---
 
@@ -32,4 +33,4 @@ Winning teams will receive their prizes at this event. All student participants 
 
 ---
 
-###### **Notes** <br><br>**1.** Late registrations will **not be accepted**. Click [here](google.com) for terms and conditions.<br><br>**2.** Lunch and tea will be catered. Refer to [registration form](google.com) for more details. <br><br>**3.** Video submissions will be evaluated by a panel of judges comprising representatives from partner organisations.
+###### **Notes** <br><br>**1.** Late registrations will **not be accepted**. Click [here](google.com) for terms and conditions.<br><br>**2.** Lunch and tea will be catered. Refer to [registration form](/go.gov.sg/sscwc2023regsec/) for more details. <br><br>**3.** Video submissions will be evaluated by a panel of judges comprising representatives from partner organisations.

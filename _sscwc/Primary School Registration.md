@@ -3,14 +3,15 @@ title: Primary School Registration
 permalink: /sscwc/primaryregistration/
 description: ""
 ---
-![Overview](/images/Sscwc/overview.png)
+![Pri sch overview](/images/Sscwc/prisch_overview.png)
  ![Interested Schools](/images/Sscwc/interestedschools_.png)
-[Click here to register!](google.com)
+[Click here to register!](/go.gov.sg/sscwc2023regpri/)
 
 ---
 
 
 ### **About the Bootcamp Challenge** 
+
 ![Bootcamp Details](/images/Sscwc/bootcamp%20details.png)
 
 Students will gain more in-depth knowledge and skills about Cyber Wellness, and apply their learning to storyboard and conceptualise suitable stories / messages to be featured in their final video deliverable.
@@ -28,4 +29,4 @@ Winning teams will receive their prizes at this event. All student participants 
 
 ---
 
-###### **Notes** <br><br>**1.** Late registrations will **not be accepted**. Click [here](google.com) for terms and conditions.<br><br>**2.** Lunch and tea will be catered. Refer to [registration form](google.com) for more details.<br><br>**3.** Video submissions will be evaluated by a panel of judges comprising representatives from partner organisations.
+###### **Notes** <br><br>**1.** Late registrations will **not be accepted**. Click [here](google.com) for terms and conditions.<br><br>**2.** Lunch and tea will be catered. Refer to [registration form](/go.gov.sg/sscwc2023regpri/) for more details.<br><br>**3.** Video submissions will be evaluated by a panel of judges comprising representatives from partner organisations.
