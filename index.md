@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: DIRECT SCHOOL ADMISSION 2023
-          description: Click here
-          url: https://www.yiochukangsec.moe.edu.sg/our-family/Students/Direct-School-Admission/
+        - title: Singapore Schools Cyber Wellness Challenge 2023
+          description: Register Here
+          url: https://www.yiochukangsec.moe.edu.sg/our-family/Students/sscwc/
         - title: CONTACT US
           description: Click here
           url: /Contact-us/
