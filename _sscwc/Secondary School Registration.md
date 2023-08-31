@@ -4,7 +4,7 @@ permalink: /sscwc/secondaryregistration/
 description: ""
 ---
 ![Sec Sch Overview](/images/Sscwc/secsch_overview.png)
-![Interested Schools](/images/Sscwc/interestedschools_.png)
+ <a href="https://go.gov.sg/sscwc2023regsec/"><img src="/images/Sscwc/interestedschools_.png"></a>
 <a href="https://go.gov.sg/sscwc2023regsec/">Click here to register!</a>
 
 ---
