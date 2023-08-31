@@ -24,4 +24,11 @@ sections:
       url: https://4d.silvrcraft.com/yckss360vt/index.htm
       image: /images/openhouse.jpg
       alt: Virtual Tour
+  - infopic:
+      title: Cyber Wellness Challenge 2023
+      subtitle: Singapore schools
+      button: Register here
+      url: https://www.yiochukangsec.moe.edu.sg/sscwc
+      image: /images/sscwc edm.PNG
+      alt: Image alt text
 ---
