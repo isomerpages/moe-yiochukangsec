@@ -5,7 +5,7 @@ description: ""
 ---
 ![Pri sch overview](/images/Sscwc/prisch_overview.png)
  ![Interested Schools](/images/Sscwc/interestedschools_.png)
-[Click here to register!](/go.gov.sg/sscwc2023regpri/)
+[Click here to register!](https://go.gov.sg/sscwc2023regpri/)
 
 ---
 
