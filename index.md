@@ -28,7 +28,7 @@ sections:
       title: Cyber Wellness Challenge 2023
       subtitle: Singapore schools
       button: Register here
-      url: https://www.yiochukangsec.moe.edu.sg/sscwc
+      url: https://www.yiochukangsec.moe.edu.sg/sscwc/sscwc2023
       image: /images/sscwc edm.PNG
       alt: Image alt text
 ---
