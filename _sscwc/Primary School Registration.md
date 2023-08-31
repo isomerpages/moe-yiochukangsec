@@ -4,8 +4,8 @@ permalink: /sscwc/primaryregistration/
 description: ""
 ---
 ![Pri sch overview](/images/Sscwc/prisch_overview.png)
- ![Interested Schools](/images/Sscwc/interestedschools_.png)
-<a href="https://go.gov.sg/sscwc2023regpri/">Click here to register</a>
+ <a href="https://go.gov.sg/sscwc2023regpri/"><img src="/images/Sscwc/interestedschools_.png"></a>
+<a href="https://go.gov.sg/sscwc2023regpri/">Click here to register!</a>
 
 ---
 
