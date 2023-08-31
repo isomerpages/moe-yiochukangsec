@@ -4,8 +4,8 @@ permalink: /sscwc/secondaryregistration/
 description: ""
 ---
 ![Sec Sch Overview](/images/Sscwc/secsch_overview.png)
-![Interested Schools](/images/Sscwc/interestedschools_.png)
-[Click here to register!](https://go.gov.sg/sscwc2023regsec/)
+ <a href="https://go.gov.sg/sscwc2023regsec/"><img src="/images/Sscwc/interestedschools_.png"></a>
+<a href="https://go.gov.sg/sscwc2023regsec/">Click here to register!</a>
 
 ---
 
@@ -33,4 +33,4 @@ Winning teams will receive their prizes at this event. All student participants 
 
 ---
 
-###### **Notes** <br><br>**1.** Late registrations will **not be accepted**. Click [here](google.com) for terms and conditions.<br><br>**2.** Lunch and tea will be catered. Refer to [registration form](https://go.gov.sg/sscwc2023regsec/) for more details. <br><br>**3.** Video submissions will be evaluated by a panel of judges comprising representatives from partner organisations.
+###### **Notes** <br><br>**1.** Late registrations will **not be accepted**. [Click here](/files/Sscwc/sscwc%202023%20terms%20and%20conditions.pdf) for terms and conditions.<br><br>**2.** Lunch and tea will be catered. Refer to [registration form](https://go.gov.sg/sscwc2023regsec/) for more details. <br><br>**3.** Video submissions will be evaluated by a panel of judges comprising representatives from partner organisations.
