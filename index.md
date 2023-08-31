@@ -13,7 +13,7 @@ sections:
           url: /Contact-us/
         - title: Singapore Schools Cyber Wellness Challenge 2023
           description: Register Here
-          url: https://www.yiochukangsec.moe.edu.sg/our-family/Students/sscwc/
+          url: https://www.yiochukangsec.moe.edu.sg/sscwc/sscwc2023
         - title: CALENDAR
           description: Click here
           url: https://sites.google.com/moe.edu.sg/2023-yckss-calendar
