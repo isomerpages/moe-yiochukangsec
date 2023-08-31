@@ -15,6 +15,20 @@ Click the links below for details. This will be refreshed for each term.
 
 [Weighted Assessment Rules &amp; Regulations 2023](/files/Students/Assessment%20Information%20Sche/NEW/YCKSS%20Weighted%20Assessment%20Rules%20and%20Regulations.pdf)&nbsp; **   (updated on 31 Jan 2023)**
 ### **2023 Sec 1-3 End-of -Year Examinations**
+#### Examination Schedule 
+** (updated on 31 August 2023)**
+##### Sec 1
+[Sec 1 Examination schedule](/files/Students/Assessment%20Information%20Sche/2023/2023%20sec%201%20eoy%20timetable.pdf)
+
+#####  Sec 2
+ [Sec 2 Examination Schedule](/files/Students/Assessment%20Information%20Sche/2023/2023%20sec%202%20eoy%20timetable%20.pdf)
+ 
+ 
+##### Sec 3
+
+| Sec 3NT  | Sec 3NA | Sec 3E |
+ --------| -------- | ------ |
+|[Sec 3 NT Examination Schedule](/files/Students/Assessment%20Information%20Sche/2023/sec_3n(t)_eoy_timetable.pdf)|[Sec 3NA Examination Schedule](/files/Students/Assessment%20Information%20Sche/2023/sec_3n(a)_eoy_timetable.pdf)|[Sec 3 E Examination Schedule](/files/Students/Assessment%20Information%20Sche/2023/sec_3express_eoy_timetable.pdf)|
 
 
 #### Subject information 
