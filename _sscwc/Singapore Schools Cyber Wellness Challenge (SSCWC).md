@@ -55,8 +55,7 @@ participants will also be trained by learning specialists from Apple Singapore i
 | Primary Schools | Secondary Schools |
 | :--------: | :--------: |
 |[Programme Detail](/sscwc/primaryregistration/)    | [Programme Detail](/sscwc/secondaryregistration/)| 
-| [Registration Form](https://go.gov.sg/sscwc2023regpri/) | [Registration Form](https://go.gov.sg/sscwc2023regsec/) | 
-
+| <a href="https://go.gov.sg/sscwc2023regpri/">Registration Form</a>| <a href="https://go.gov.sg/sscwc2023regsec/">Registration Form</a> | 
 ---
 
 ###### **Notes** <br><br>**1.** Student participants could be the school's Peer Support Leaders, Cyber Wellness Ambassadors, Wellness Champions, Technology Champions or any other group(s) of students the school deems suitable. <br><br>**2.** It is **not** a pre-requisite for student participants to own an Apple device, as these will be loaned to students for the duration of the challenge. Nominated students must be comfortable in learning new technological skills.
