@@ -64,10 +64,10 @@ You can read the articles or watch the news broadcast via the links below.
 *   [ISSUE 6 (JUN - OCT 2021)](/files/The%20Horizon%20(newsletter)/THE%20HORIZON%20SEM%202%202021.pdf)
 *   [ISSUE 5 (JAN - MAY 2021)](/files/The%20Horizon%20(newsletter)/2021%20Jan-May.pdf)
 
-*   JOURNEY THROUGH 2020: VIDEO EDITION OF <i>THE HORIZON</i>
-	* [*January to March: School Life Before HBL*](https://www.youtube.com/watch?v=lOQVsDo-_AI)
-	* [*April to May: School Holidays.*](https://www.youtube.com/watch?v=mYRZgy5c-fs)
-	* [*June to October: School Re-Opens to a New Normal.*](https://www.youtube.com/watch?v=BDBEUba8dyc)
+*   JOURNEY THROUGH 2020: A 3-PART VIDEO SERIES
+	1. <a target="_blank" href="https://www.youtube.com/watch?v=lOQVsDo-_AI">January to March: School Life Before <abbr title="Home-Based Learning">HBL</abbr></a>
+	2. <a target="_blank" href="https://www.youtube.com/watch?v=mYRZgy5c-fs">April to May: School Holidays.</a>
+	3. <a target="_blank" href="https://www.youtube.com/watch?v=BDBEUba8dyc">June to October: School Re-Opens to a New Normal.</a>
 
 *   [ISSUE 4 (JUN - NOV 2019)](/files/The%20Horizon%20(newsletter)/Newsletter%204.pdf)
 *   [ISSUE 3 (JAN – MAY 2019)](/files/The%20Horizon%20(newsletter)/Newsletter%20Issue%203%20Final%20Update.pdf)
