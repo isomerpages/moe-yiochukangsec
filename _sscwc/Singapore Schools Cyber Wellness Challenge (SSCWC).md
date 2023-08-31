@@ -57,7 +57,7 @@ participants will also be trained by learning specialists from Apple Singapore i
 | Primary Schools | Secondary Schools |
 | :--------: | :--------: | 
 | [Programme Detail](/sscwc/primaryregistration/)     | [Programme Detail](/sscwc/secondaryregistration/)     | 
-| <a href="https://go.gov.sg/sscwc2023regpri/">Registration Form </a> | <a href="https://go.gov.sg/sscwc2023regsec/">Registration Form </a>|
+| <a href="https://go.gov.sg/sscwc2023regpri/">Registration Form</a> | <a href="https://go.gov.sg/sscwc2023regsec/">Registration Form</a>|
 
 ---
 
