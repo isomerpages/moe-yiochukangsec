@@ -5,7 +5,7 @@ description: ""
 ---
 ![Sec Sch Overview](/images/Sscwc/secsch_overview.png)
 ![Interested Schools](/images/Sscwc/interestedschools_.png)
-[Click here to register!](https://go.gov.sg/sscwc2023regsec/)
+<a href="https://go.gov.sg/sscwc2023regsec/">Click here to register!</a>
 
 ---
 
