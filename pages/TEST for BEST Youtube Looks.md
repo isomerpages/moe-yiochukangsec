@@ -3,7 +3,6 @@ title: TEST for BEST Youtube Looks
 permalink: /best-youtube-embed/
 description: ""
 ---
-
 #### URL COPY FROM WEBBROWSER AND PASTE
 [Site Unreachable](https://www.youtube.com/watch?v=mYRZgy5c-fs)
 
@@ -53,3 +52,15 @@ description: ""
 #### Has Width 100%, Height Auto; Has Aspect Ratio
 
 <iframe style="aspect-ratio: 1.76991 / 1;" src="https://www.youtube.com/embed/mYRZgy5c-fs" title="YCKSS Journey Through 2020 Part 2, April to May" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" height="auto" width="100%"></iframe>
+
+-----
+
+#### Has Width Auto, Height auto%; No Aspect Ratio
+
+<iframe src="https://www.youtube.com/embed/mYRZgy5c-fs;" title="YCKSS Journey Through 2020 Part 2, April to May" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" height="auto" width="auto"></iframe>
+
+-----
+
+#### Has Width Auto, Height Auto; Has Aspect Ratio
+
+<iframe style="aspect-ratio: 1.76991 / 1;" src="https://www.youtube.com/embed/mYRZgy5c-fs" title="YCKSS Journey Through 2020 Part 2, April to May" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" height="auto" width="auto"></iframe>
