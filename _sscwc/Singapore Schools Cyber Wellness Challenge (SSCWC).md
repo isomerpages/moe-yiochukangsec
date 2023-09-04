@@ -9,8 +9,6 @@ centred around Cyber Wellness themes, endorsed by the Infocomm Media Development
 (IMDA) and Media Literacy Council (MLC) in support of the Digital for Life (DfL) movement. 
 <br>
 
-![FYI_Logo](/images/Sscwc/fyi_logo.png) 
-
 ![FYI_Logo_2](/images/Sscwc/fyi_logo_2.png)
 
 ### **Theme for 2023 Challenge**
