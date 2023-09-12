@@ -37,7 +37,7 @@ Student participants will then apply their learning to storyboard and conceptual
 messages in line with the selected key Cyber Wellness message and target audience. Student
 participants will also be trained by learning specialists from Apple Singapore in the technical skills and knowledge for video production using the iPads².
 
-![Organisations](/images/Sscwc/partnership%20logos1.PNG)
+![Organisations](/images/Sscwc/partnership%20logos.PNG)
 
 ---
 
