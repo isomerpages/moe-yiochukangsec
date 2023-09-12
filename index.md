@@ -23,7 +23,7 @@ sections:
       subtitle: Singapore schools
       button: Register here
       url: https://www.yiochukangsec.moe.edu.sg/sscwc/sscwc2023
-      image: /images/sscwc edm.PNG
+      image: /images/edm(final).PNG
       alt: Image alt text
   - infopic:
       title: Visit Us

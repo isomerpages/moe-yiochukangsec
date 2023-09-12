@@ -22,7 +22,7 @@ centred around Cyber Wellness themes, supported by the Media Literacy Council (M
     <div class="col is-7">
 		<figure style="margin:0"> 
 		<div style="text-align: left;">
-			 <p><br> The challenge seeks to promote youth advocacy and cultivate student leadership competencies, by integrating Peer Support and Relationships (PSR) into advocacy in Cyber Wellness education. Each participating team will comprise of secondary school students playing the role of mentors to their primary school peers in the creation of media content illustrating the key messages of the DfL movement.</p>
+			 <p><br> The challenge seeks to promote youth advocacy and cultivate student leadership competencies, by integrating Peer Support and Relationships (PSR) into advocacy in Cyber Wellness education. Each participating team will comprise of secondary school students playing the role of mentors to their primary school peers in the creation of media content illustrating the key messages of the Digital for Life (DfL) movement.</p>
 			<figcaption class="has-text-weight-bold"> </figcaption>
 		</div></figure>
 	</div>

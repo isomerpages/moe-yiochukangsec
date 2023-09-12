@@ -31,7 +31,7 @@ Here are 3 videos that document the personal stories as we navigated this challe
 
 #### YCKSS Journey Through 2020 Part 2
 
-<iframe style="aspect-ratio: 1.76991 / 1;" src="https://www.youtube.com/embed/mYRZgy5c-fs" title="YCKSS Journey Through 2020 Part 2, April to May" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe style="aspect-ratio: 1.76991 / 1;" src="https://www.youtube.com/embed/mYRZgy5c-fs" title="YCKSS Journey Through 2020 Part 2, April to May" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" height="315" width="560"></iframe>
 <a target="_blank" style="font-size: 0.75em; color:grey" href="https://www.youtube.com/watch?v=mYRZgy5c-fs"><i>April to May: School Holidays.</i></a>
 <br>
 
