@@ -131,7 +131,7 @@ Our school’s ECG Counsellor, Mr Isaac Ling, is stationed in our school every T
 Students (and their parents) who would like to find out more about post-secondary education options, subject choices, career interests, or discover their strengths and interests, can have a chat with our ECG Counsellor. Mr Isaac also conducts in house workshops for teachers and provides individual and group counselling to students in decision making such that they can, in the future, contribute meaningfully to society through their future professions.
 
 To make an appointment, please click here:  
-  [https://go.gov.sg/yckssecg](https://go.gov.sg/yckssecg)  
+	[https://go.gov.sg/yckssecg](https://go.gov.sg/yckssecg)
 	or scan the QR Code below.
 			<img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/ECG/yckss%20(4).png"><br>
 		
