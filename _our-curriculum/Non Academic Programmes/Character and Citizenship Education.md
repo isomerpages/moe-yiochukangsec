@@ -132,9 +132,7 @@ Students (and their parents) who would like to find out more about post-secondar
 	To make an appointment, please click here: 
  <a target="_blank" href="(https://www.booking.gov.sg/public/services/wJeBVZe7/availability?spId=bl0q5Oev&amp;anonymous=true)">https://go.gov.sg/yckssecg</a>
 	or scan the QR Code below.
-To make an appointment, please click here: 
-	[https://go.gov.sg/yckssecg](https://www.booking.gov.sg/public/services/wJeBVZe7/availability?spId=bl0q5Oev&amp;anonymous=true)
-	or scan the QR Code below.
+
 		
 <img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/ECG/yckss%20(4).png"><br>
 		
