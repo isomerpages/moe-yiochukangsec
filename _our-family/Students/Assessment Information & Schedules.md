@@ -54,7 +54,7 @@ Click the links below for details. This will be refreshed for each term.
 
 | Sec 3NT  | Sec 3NA | Sec 3E |
  --------| -------- | ------ |
-|[Subject information](/files/Students/Assessment%20Information%20Sche/2023/eoy%20%20subject%20information%202023%20(3nt)v2.pdf)|[Subject information](/files/Students/Assessment%20Information%20Sche/2023/2023%20eoy%20%20subject%20information(3na).pdf)|[Subject information](/files/Students/Assessment%20Information%20Sche/2023/2023%20eoy%20%20subject%20information%20(3e).pdf)|
+|[Subject information](/files/Students/Assessment%20Information%20Sche/2023/2023v2%20eoy%20%20subject%20information(3na).pdf)|[Subject information](/files/Students/Assessment%20Information%20Sche/2023/2023%20eoy%20%20subject%20information(3na).pdf)|[Subject information](/files/Students/Assessment%20Information%20Sche/2023/2023%20eoy%20%20subject%20information%20(3e).pdf)|
 
 ### **2023 Sec 4E5N-Level Preliminary Examinations**
  ** (updated on 1 August 2023)**
