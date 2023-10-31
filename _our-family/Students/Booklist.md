@@ -17,7 +17,7 @@ third_nav_title: Students
 </style>
 
 | Sec 1  | Sec2 | Sec 3 |Sec 4 | Sec 5|
- --------|
+ --------|--------|--------|--------|--------|--------
 |[2024 Sec 1 booklist](/files/Students/Booklist/2024%20secondary%201%20booklist.pdf)|[2024 Sec 2 booklist](/files/Students/Booklist/2024%20secondary%202%20booklist.pdf)|[2024 Sec 3 booklist](/files/Students/Booklist/2024%20secondary%203%20booklist.pdf)|[2024 Sec 4 booklist](/files/Students/Booklist/2024%20secondary%204%20booklist.pdf)|[2024 Sec 5 booklist](/files/Students/Booklist/2024%20secondary%205%20booklist.pdf)|
 
 <table class="tg">
