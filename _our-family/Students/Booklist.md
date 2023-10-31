@@ -15,6 +15,11 @@ third_nav_title: Students
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 .tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
 </style>
+
+| Sec 1  | Sec2 | Sec 3 |Sec 4 | Sec 5|
+ --------|
+|[2024 Sec 1 booklist](/files/Students/Booklist/2024%20secondary%201%20booklist.pdf)|[2024 Sec 2 booklist](/files/Students/Booklist/2024%20secondary%202%20booklist.pdf)|[2024 Sec 3 booklist](/files/Students/Booklist/2024%20secondary%203%20booklist.pdf)|[2024 Sec 4 booklist](/files/Students/Booklist/2024%20secondary%204%20booklist.pdf)|[2024 Sec 5 booklist](/files/Students/Booklist/2024%20secondary%205%20booklist.pdf)|
+
 <table class="tg">
 <thead>
   <tr>
@@ -56,11 +61,11 @@ Casco Educational Supply Pte Ltd
 10 Ubi Crescent #01-02  
 Ubi Tech Park  
 Singapore 408564  
-Tel : (65) 65474203   
+Tel : (65) 65474203&nbsp;  
 Fax : (65) 65474305  
 Website : www.cascoedusupply.com.sg
 
 
-School term opening hours   
+School term opening hours&nbsp;  
 Monday to Thursday : 7.30am to 3.00pm  
 Friday : 7.30am to 2.00pm
