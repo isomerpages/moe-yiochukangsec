@@ -74,159 +74,21 @@ We have the privilege of engaging in sports activities, Values In Action (VIA) w
 ### Gallery
 ---
 
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_1.PNG)
 
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_2.PNG)
 
-<ul class="jekyllcodex_accordion">
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_3.PNG)
 
-&nbsp;&nbsp;<li>
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I4.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I5.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Training&nbsp;Schedule</label>
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I6.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I7.png)
 
-<p> <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig">TRAINING INFORMATION</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">Every Wednesday</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">3:15PM to 5:45PM</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Dance Studio 1 (Level 3)</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">TEACHERS IN-CHARGE</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Ms Gauwri (OIC) (ext 144)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Mdm Sarasvathy (ext 136)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Mrs Ilango (ext 175)</td>
-  </tr>
-</tbody>
-</table>
-			</p>
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I8.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I9.png)
 
-</li>
-	<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Proudest&nbsp;Moments</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-<p> <b>2021</b>&nbsp;SYF Arts Presentation - Certificate of Distinction<br>  
-				<b>2019&nbsp;SYF</b> Arts Presentation - Certificate of Distinction<br>  
-				<b>2018</b>&nbsp;SYF Festival at Esplanade / National Day Observance Ceremony<br> 
-	<b>2018</b>&nbsp;YCK community Celebration<br>  
-	<b>2017</b>&nbsp;National Day Parade Performance<br>  
-	<b>2016</b>&nbsp;Chingay Parade<br>  
-	<b>2015</b>&nbsp;SG 50 Youth Celebration<br>  
-	<b>2013</b>&nbsp;SYF Arts Presentation - Certificate of Distinction<br>  
-	<b>2011</b>&nbsp;SYF Central Judging - Gold Award for SYF<br>  
-	<b>2009/2007/2005</b>&nbsp;SYF Central Judging - Gold with Honours for SYF<br>  
-	<b>2008</b>&nbsp;Arts Biennale at Victoria Theatre (School event)
-			</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-	
-<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Events/Competitions</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-<p> <b>2021</b><br>  
-SYF Certificate of Distinction<br><br>  
-  
-<b>2020</b><br>  
-Chinese New Year Celebrations<br><br>  
-  
-<b>2019</b><br>&nbsp;  
-SYF Certificate of Distinction<br><br>  
-  
-<b>2018</b><br>  
-National Day Observance ceremony and community celebration<br>  
-Esplanade SYF Celebration<br>  
-Speech Day<br><br>  
-  
-<b>2016</b><br>  
-Chingay Parade<br>  
-Speech Day<br><br>
-  
-<b>2015</b>  
-SG 50 Youth Celebration<br><br>  
-  
-<b>2014</b><br>  
-Speech Day<br><br>  
-  
-<b>2012</b>  
-Arts Festival<br><br>  
-  
-<b>2005,2007,2009,2011,2013</b><br>  
-Singapore Youth Festival - Gold with Honours<br><br>  
-  
-<b>2008</b><br>  
-Arts Biennale at Victoria Theatre<br><br>  
-  
-<b>2007</b><br>  
-23rd Asian Council of Teachers Convention 
-			</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-	
-<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">Gallery</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-<p> <iframe width="560" height="315" src="https://www.youtube.com/embed/htX9NWFgT4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br>
-			  
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I4.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I5.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I6.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I7.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I8.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I9.png">
-			</p>
-
-&nbsp;&nbsp;</div>
-
-</li>
-	
-	
-
-	
-</ul>
