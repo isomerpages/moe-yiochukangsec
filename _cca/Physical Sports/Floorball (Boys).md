@@ -3,6 +3,7 @@ title: Floorball (Boys)
 permalink: /cca/Physical-Sports/Floorball-Boys/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Floorball%20(Boys)/F1.jpg)
 The Floorball CCA aims to foster strong bonds among team members and a competitive spirit. It teaches our students the fundamentals of the sport and also inculcates the values and beliefs behind the nature of the sport. Floorball is a fast paced sport encompassing skilful manoeuvres and athletic endurance. It requires determination and discipline in players to master their individual skills. As a team, we train together with commitment and enthusiasm to bring YCKSS Floorball to greater heights.
@@ -10,13 +11,13 @@ The Floorball CCA aims to foster strong bonds among team members and a competiti
 
 <ul class="jekyllcodex_accordion">
 
-  <li>
+&nbsp;&nbsp;<li>
 
-    <input type="checkbox" id="accordion1">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Training Schedule</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Training&nbsp;Schedule</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -44,37 +45,37 @@ The Floorball CCA aims to foster strong bonds among team members and a competiti
 </table>
 			</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	<li>
 
-    <input type="checkbox" id="accordion2">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Proudest Moments</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Proudest&nbsp;Moments</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
- <p> <b>2019</b> National B Division Bowl Championship – Champion (Team 1)<br>
-	 <b>2019</b> National B Division Bowl Championship – 3rd Runner Up (Team 2) </p>
+ <p> <b>2019</b>&nbsp;National B Division Bowl Championship – Champion (Team 1)<br>
+	 <b>2019</b>&nbsp;National B Division Bowl Championship – 3rd&nbsp;Runner Up (Team 2) </p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion3">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Events/Competitions</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Events/Competitions</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<p> <b>2020</b><br> 
+<p> <b>2020</b><br>&nbsp;
 
 National 'B'-Division Floorball Championships<br><br>
 
-	<b>2019</b><br> 
+	<b>2019</b><br>&nbsp;
 
 National 'B' and 'C'-Division Floorball Championships<br>
 
@@ -91,23 +92,23 @@ Active SG - Singapore Floorball Association 'C'-Division Plate / Bowl Championsh
 National 'B' and 'C'-Division Floorball Championships 
 			</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion4">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
 
-    <label for="accordion4">Gallery</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">Gallery</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<p> <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Floorball%20(Boys)/F2.png">
+<p><img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Floorball%20(Boys)/F2.png">
 			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Floorball%20(Boys)/F3.png">
 			</p>
 
-  </div>
+&nbsp;&nbsp;</div>
 
 </li>
 	
