@@ -17,9 +17,11 @@ We have the privilege of engaging in sports activities, Values In Action (VIA) w
 
 ### Training Schedule
 ---
+
 | Training Information                 | Teachers-in-charge                         |
 | ------------------------------------ | ------------------------------------------ |
 | Every WEDNESDAY<br>3:15 PM - 5:45 PM | Mdm Siva (ext 136)<br>Mrs Ilango (ext 175) |
+
 
 | Dance Instructor                      |
 | ------------------------------------- |
@@ -91,4 +93,3 @@ We have the privilege of engaging in sports activities, Values In Action (VIA) w
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I8.png)
 
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I9.png)
-
