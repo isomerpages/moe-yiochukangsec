@@ -3,16 +3,90 @@ title: School
 permalink: /our-story/Achievements/School/
 description: ""
 third_nav_title: Achievements
+variant: markdown
 ---
+## Achievements 2023
+---
+
+| Environment              |                                                |
+| ------------------------ | ---------------------------------------------- |
+| School Green Awards 2023 | Vanda Miss Joaquim Sustained Achievement Award |
+
+| Innovations &amp; Enterprise |                                                                                                      |
+| ------------------------ | ---------------------------------------------------------------------------------------------------- |
+| MOE INNERGY Award 2023   | Teaching and Learning Category - Bronze Award<br>The “Learn by Doing” Professional Development Model |
+
+| MOE Special Awards                            |                        |
+| --------------------------------------------- | ---------------------- |
+| LKY-Outstanding Normal <br>Course Award (NA) 2023 | Kylie Giam, Sec 5/2022 |
+
+| MOE Special Awards                                                  |                                                                              |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Service to Education Award 2023<br>(For School Advisory Committees) | Ms Annie Chin (Silver)<br>Mr Kenneth Siow (Silver)<br>Mr Herald Yeo (Silver) |
+
+| Uniformed Groups |                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| NPCC             | 2022 Unit Overall Proficiency Award (UOPA)<br>\-&nbsp;&nbsp; Gold Award<br><br>2023 SPF-NPCC Badge<br>\- Staff Sergeant, Liew Tze Wan, Sec 4<br>\- Staff Sergeant, Xiong Shiqi, Sec 4                                                                                                                                                                                                                      |
+| Red Cross Youth  | 2022 Excellent Unit Award (EUA)<br>\- Gold Award<br><br>2023 Director’s Award<br>\- Warrant Officer Teo Kai En, Alivia<br><br>Ambassadors of Blood Donation Championship<br>\- Silver Award<br><br>Disaster Risk Reduction Championship<br>\- Bronze Award<br><br>First Aid Competition Junior (Lower Sec)<br>\- Silver Award<br><br>First Aid Competition Senior (Upper Sec)<br>\- Bronze Award |
+
+| Clubs                                            |                                                                                                                                      |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Mechatronics, Aeronautics<br> &amp; Robotics (MARs) Club | IDE Series 2023 Robotics Competition<br>\- Top 5 out of 72 teams<br><br>National Robotics Competition 2023<br>\- Finalists - 2 teams |
+
+| Aesthetics                |                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Combined Performing Arts  | 2023 National Day Parade: Act 4 “Shine Your Light” Dance                                                                                                                                                                                                                                                                                                                                                                                              |
+| Choir                     | 2021 SYF Presentation – Represented School under Special Provision (COVID-19)                                                                                                                                                                                                                                                                                                                                                                         |
+| Concert Band              | 2021 SYF Presentation – Certificate of Accomplishment                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Chinese Dance             | 2021 SYF Presentation – Certificate of Accomplishment                                                                                                                                                                                                                                                                                                                                                                                                 |
+| English Drama             | 2021 SYF Presentation – Certificate of Accomplishment                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Indian Dance              | 2021 SYF Presentation – Certificate of Distinction                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Malay Dance               | 2021 SYF Presentation – Certificate of Accomplishment                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Arts Media and Design LLP | 2023 Voice of My Generation Music Competition Finals<br><br>Junior Category<br>1st place – Team “Sound like the Morning”<br>\- Zhai Jun Bo, Sec 1<br>\- Loheath Ramesh, Sec 2<br>\- Louis Wong Chun Yik, Sec 2<br>\- Lim Wei Heng, Sec 3<br>\- Alex Marjanovic, Sec 3<br><br>3rd place – Team “MCATS”<br>\- Clariss Ong Li Rong, Sec 3<br>\- Ong Tzy Yiin, Sec 3<br>\- Sami Sharieff II, Sec 3<br>\- Han Thong En, Sec 3<br>\- Phone Myat Thit, Sec 3 |
+
+| Sports                                                    |                                                                                                                                                                                  |
+| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Singapore Olympic Foundation - Peter Lim Scholarship 2023 | Encouragement Award<br>\- De Silva Ayra Chantel Taculod (For Athletics), Sec 1<br>                                                                                               |
+| Badminton                                                 | National School Games C Division (Girls)<br>\- Top 8 South Zone                                                                                                                  |
+| Netball                                                   | National School Games C Division<br>\- Top 6 South Zone<br><br>National School Games B Division<br>\- Top 6 South Zone<br><br>Yio Chu Kang Netball Carnival (Under 14)<br>\- 3rd |
+
+| Leadership Related                             |                    |
+| ---------------------------------------------- | ------------------ |
+| Our Singapore Leadership<br> Programme (OSLP) 2023 | Wong Miu Yu, Sec 4 |
+
+
+| Languages and Humanities Related                             |                                                                        |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------- |
+| International Model<br> United Nations Conference 2023           | Best Position Paper<br>\- Foo Su Fang, Sec 3                           |
+| National Youth<br> Environment Conference 2023                   | Honourable Mentions<br>\- Fong Hao Zheng, Sec 4<br>\- Jason Boh, Sec 4 |
+| Vetri Vizha 2023<br>Budding Writers’ Programme               | National Top 30 Budding Writers<br>\- Yoganandhan Harini Sai, Sec 4    |
+| National Chinese<br> Challenge 2023                              | National Top 30<br>\- Ji Junkai, Sec 4                                 |
+| Inter-Secondary School<br> Blackout Poetry &amp; Podcast Competition | First Place<br>\- Nur Izzati Binte Jasman, Sec 3                       |
+
+
+| STEM Related                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2023 All Singapore Mathematics Competition for Normal Course      | Individual Category:<br>Upper Secondary Normal Academic (Top 20)<br>\- 19th position - Halaharivi Shaurya Daman, Sec 3<br><br>Lower Secondary Normal Academic (Top 20)<br>\- 4th position - Ong Yiting, Sec 2<br>\- 13th position - Ang Jun Sheng, Sec 2<br><br>Lower Secondary Normal Technical (Top 20)<br>\- 11th position - Chia Li Yee, Sec 2<br><br>Team Category:<br>Lower Secondary Normal Academic (1st position)<br>\- 1st position - Lim Jun Kai, Sec 2<br>\- 1st position - Ong Yiting, Sec 2<br>\- 1st position - Ang Jun Sheng, Sec 2                                     |
+| NIE Mathematics Challenge 2023                                    | Higher Distinction<br>\- Guo Jingyi, Sec 1<br>\- Gui Mingyue, Sec 1<br><br>Distinction<br>\- Liam Rain Ebriega Cena, Sec 1<br>\- Teekayuko Nathawat, Sec 1<br>\- Zhai Junbo, Sec 1<br>\- Tangsatapornpan Aukrit, Sec 1<br>\- Wu Jinlin, Sec 1                                                                                                                                                                                                                                                                                                                                           |
+| Singapore and Asian Schools Math Olympiad (SASMO) 2023            | Bronze Award<br>\- Bowie Ong Yan Tao, Sec 2<br>\- Tino Seah Wei Le, Sec 2<br>\- Chia Yuan Kai, Sec 2<br>\- Elgin Tan Sie Yuan, Sec 2<br>\- Koh Chuen Hoe, Sec 2<br>\- Zaven Pang Xing Yu (Feng Xingyu), Sec 3<br>\- Kayen Leong Yu Ting, Sec 3<br>\- Kang Pin Xian, Sec 3<br><br>Honourable Mention<br>\- Aaron Tan Kaixun, Sec 2<br>\- Pearl Aw Xue Jun (Hu Xuejun), Sec 2<br>\- Ramesh Loheath, Sec 2<br>\- Foong Qi Yuan, Ajax, Sec 2<br>\- Toh Shi Ming Shermin, Sec 2<br>\- Elise Tan Joo Hue (Chen Yuhui), Sec 2<br>\- Chua Dong Zhe, Sec 3                                       |
+| Singapore Math Kangaroo Contest (SMKC) 2023                       | Silver Award<br>\- Aaron Tan Kaixun, Sec 2<br>\- Zaven Pang Xing Yu (Feng Xingyu), Sec 3<br><br>Bronze Award<br>\- Bowie Ong Yan Tao, Sec 2<br>\- Chia Yuan Kai, Sec 2<br>\- Elise Tan Joo Hue (Chen Yuhui), Sec<br>\- Lim Le Qi Clara, Sec 2<br>\- Xu You, Alden (Lin Xuyou), Sec 3<br>\- Kayen Leong Yu Ting, Sec 3<br>\- Wei Heng, Sec 3<br>\- Chua Dong Zhe, Sec 3<br>\- Jun Xi Darryl (Weng Junxi), Sec 3<br><br>Honourable Mention<br>\- Wang Hong En, Sec 2<br>\- Clariss Ong Li Rong, Sec 3<br>\- Josua Valencia Van Mook, Sec 3<br>\- Gee Ming Xi, Sec 3                       |
+| 43<sup>rd</sup> International C.B. Paul Science Quiz 2023         | Bronze Award<br>\- Ong Zhi Yuan, Sec 4<br><br>Merit Award<br>\- Ngan Kwan Teng, Sec 4<br>\- Ren Yanjia, Sec 4<br><br>Honorable Mention<br>\- Kho Soong Yang, Sec 4                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 24<sup>th</sup> International Elementz Fair 2023                  | Silver Award<br>\- Satish Kumar Pratishtha, Sec 3<br>\- Julian Koh Jun Rui, Sec 3<br>\- Ashley Farisya Binte Muhammad Faizal, Sec 3<br>\- Angelyn Low Shi Ning, Sec 3<br>\- Mohamed Aaqil Bishan, Sec 3<br><br>Silver Award<br>\- Gee Ming Xi, Sec 3<br>\- Jolin Ang Rui En, Sec 3<br>\- Jasper Lim Jun Xiong, Sec 3<br>\- Joy Tan Jia Yi, Sec 3<br>\- Janice Lye Yu Tiam, Sec 3<br><br>Bronze Award<br>\- Lim Rou Hui Charlynn, Sec 3<br>\- Lim Xu You Alden, Sec 3<br>\- Teow Qiao Ruo, Sec 3<br>\- Nazreen Fitria Izzati Binte Ngasti Wanto, Sec 3<br>\- Jovelynn Lim En Ting, Sec 3 |
+| Singapore International STEM Innovation Challenge (SISTEMIC) 2023 | STEM Innovation Challenge - Silver Award (Voyager)<br>\- Foo Su Fang, Sec 3<br>\- Sami Sharieff Ii, Sec 3<br>\- Lim Wei Heng, Sec 3<br><br>Design &amp; Build Challenge - Most Sustainable Concept Award<br>\- Sami Sharieff Ii, Sec 3                                                                                                                                                                                                                                                                                                                                                      |
+| Singapore Science &amp; Engineering Fair 2023                         | Finalists<br>\- Foo Su Fang, Sec 3<br>\- Sami Sharieff Ii, Sec 3<br>\- Charlene Ng Li Shan, Sec 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+
+---
+
+
 <ul class="jekyllcodex_accordion">
 
-  <li>
+&nbsp;&nbsp;<li>
 
-    <input type="checkbox" id="accordion1">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Achievements 2022</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Achievements&nbsp;2022</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p>
 	<b>Environment</b>	
@@ -46,7 +120,7 @@ third_nav_title: Achievements
   </tr>
 </tbody>
 </table><br>
-			<b>Innovation & Enterprise</b>
+			<b>Innovation &amp; Enterprise</b>
 			<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -331,18 +405,18 @@ third_nav_title: Achievements
  You can <a href="/files/Achievements/2022/YCKSS%202022%20Achievements%20updated%203%20Feb%202023.pdf">DOWNLOAD THE PDF</a> version of the Achievements 2022.	
 			</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	<li>
 
-    <input type="checkbox" id="accordion2">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Achievements 2021</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Achievements&nbsp;2021</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-      <p> <style type="text/css">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -609,17 +683,17 @@ third_nav_title: Achievements
 </table>
 			</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion3">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Achievements 2020</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Achievements&nbsp;2020</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -870,17 +944,17 @@ third_nav_title: Achievements
 </table>
 			</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion4">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
 
-    <label for="accordion4">Achievements 2019</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">Achievements&nbsp;2019</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -1154,19 +1228,19 @@ third_nav_title: Achievements
 </table>
 			</p>
 
-  </div>
+&nbsp;&nbsp;</div>
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion5">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion5">
 
-    <label for="accordion5">Achievements 2018</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion5">Achievements&nbsp;2018</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-      	<p> <style type="text/css">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<p> <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -1420,7 +1494,7 @@ third_nav_title: Achievements
 </tbody>
 </table> </p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
