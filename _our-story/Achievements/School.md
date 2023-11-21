@@ -3,16 +3,39 @@ title: School
 permalink: /our-story/Achievements/School/
 description: ""
 third_nav_title: Achievements
+variant: markdown
 ---
+## Achievements 2023
+---
+
+| Environment              |                                                |
+| ------------------------ | ---------------------------------------------- |
+| School Green Awards 2023 | Vanda Miss Joaquim Sustained Achievement Award |
+
+| Innovations &amp; Enterprise |                                                                                                      |
+| ------------------------ | ---------------------------------------------------------------------------------------------------- |
+| MOE INNERGY Award 2023   | Teaching and Learning Category - Bronze Award<br>The “Learn by Doing” Professional Development Model |
+
+| MOE Special Awards                            |                        |
+| --------------------------------------------- | ---------------------- |
+| LKY-Outstanding Normal <br>Course Award (NA) 2023 | Kylie Giam, Sec 5/2022 |
+
+| MOE Special Awards                                                  |                                                                              |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Service to Education Award 2023<br>(For School Advisory Committees) | Ms Annie Chin (Silver)<br>Mr Kenneth Siow (Silver)<br>Mr Herald Yeo (Silver) |
+
+
+
+
 <ul class="jekyllcodex_accordion">
 
-  <li>
+&nbsp;&nbsp;<li>
 
-    <input type="checkbox" id="accordion1">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Achievements 2022</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Achievements&nbsp;2022</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p>
 	<b>Environment</b>	
@@ -46,7 +69,7 @@ third_nav_title: Achievements
   </tr>
 </tbody>
 </table><br>
-			<b>Innovation & Enterprise</b>
+			<b>Innovation &amp; Enterprise</b>
 			<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -331,18 +354,18 @@ third_nav_title: Achievements
  You can <a href="/files/Achievements/2022/YCKSS%202022%20Achievements%20updated%203%20Feb%202023.pdf">DOWNLOAD THE PDF</a> version of the Achievements 2022.	
 			</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	<li>
 
-    <input type="checkbox" id="accordion2">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Achievements 2021</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Achievements&nbsp;2021</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-      <p> <style type="text/css">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -609,17 +632,17 @@ third_nav_title: Achievements
 </table>
 			</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion3">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Achievements 2020</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Achievements&nbsp;2020</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -870,17 +893,17 @@ third_nav_title: Achievements
 </table>
 			</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion4">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
 
-    <label for="accordion4">Achievements 2019</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">Achievements&nbsp;2019</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -1154,19 +1177,19 @@ third_nav_title: Achievements
 </table>
 			</p>
 
-  </div>
+&nbsp;&nbsp;</div>
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion5">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion5">
 
-    <label for="accordion5">Achievements 2018</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion5">Achievements&nbsp;2018</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-      	<p> <style type="text/css">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<p> <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -1420,7 +1443,7 @@ third_nav_title: Achievements
 </tbody>
 </table> </p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
