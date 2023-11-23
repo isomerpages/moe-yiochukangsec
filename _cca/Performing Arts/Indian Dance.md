@@ -5,11 +5,9 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I1.jpg)
-The Indian Dance CCA aims to help develop and nurture the pupils holistically. Apart from exposure to Indian culture and different styles of Indian dance, the CCA also provides opportunities to the pupils to acquire self-confidence, determination, resilience, a sense of responsibility and the ability to work with others. With these qualities and disposition which align with the school values, we hope to equip them to succeed for life.
-![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I2.jpg)
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_Nov2023_Cover.jpg)
 
-![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I3.jpg)
+The Indian Dance CCA aims to help develop and nurture the pupils holistically. Apart from exposure to Indian culture and different styles of Indian dance, the CCA also provides opportunities to the pupils to acquire self-confidence, determination, resilience, a sense of responsibility and the ability to work with others. With these qualities and disposition which align with the school values, we hope to equip them to succeed for life.
 
 This year the Indian Dance students had the opportunity to perform during the National Day Parade 2023. It had been nothing short of an enriching experience for our students. Not only did they get the chance to interact with their peers from other schools, but they also formed remarkably closer bonds with their fellow performing arts students within our own school. It was a journey that required countless hours of dedication and effort, and the results were nothing short of spectacular. The camaraderie and synergy that emerged from this collaboration were truly remarkable, leaving our students with not only a memorable performance but also a stronger sense of unity and creativity.
 
