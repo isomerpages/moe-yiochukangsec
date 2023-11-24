@@ -5,23 +5,44 @@ description: ""
 third_nav_title: Organisation Chart
 variant: markdown
 ---
-## Design and Technology
----
 
-![](/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Design%20and%20Enterprise%20Dpt/DnT_Nov2023_R1.PNG)
-
-![](/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Design%20and%20Enterprise%20Dpt/DnT_Nov2023_R2.png)
-
-## Humanities
----
-
-![](/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Humanities%20Department/Hum_Nov2023_R1.png)
-
-![](/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Humanities%20Department/Hum_Nov2023_R2.png)
 
 <ul class="jekyllcodex_accordion">
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;<li>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
+
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Design and Enterprise Department</label>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
+
+<p> 
+<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Design%20and%20Enterprise%20Dpt/DnT_Nov2023_R1.PNG">
+	<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Design%20and%20Enterprise%20Dpt/DnT_Nov2023_R2.png">
+
+</p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+</li>
+	<li>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
+
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Humanities&nbsp;Department</label>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> 
+				<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Humanities%20Department/Hum_Nov2023_R1.png">
+				<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Humanities%20Department/Hum_Nov2023_R2.png">
+
+</p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+</li>
 	
 	
 <li>
