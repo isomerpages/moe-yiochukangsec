@@ -64,9 +64,4 @@ The Floorball CCA aims to foster strong bonds among team members and a competiti
 
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Floorball%20(Boys)/Floorball_Boys_3.PNG)
 
-![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Floorball%20(Boys)/F2.png)
-
-![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Floorball%20(Boys)/F3.png)
-
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Floorball%20(Boys)/Floorball_boys___Sports_Enrichment_Prog_1.PNG)
-
