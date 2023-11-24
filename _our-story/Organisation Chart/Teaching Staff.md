@@ -19,68 +19,10 @@ variant: markdown
 
 ![](/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Design%20and%20Enterprise%20Dpt/Hum_Nov2023_R2.png)
 
-## &nbsp;Mathematics&nbsp;and&nbsp;Principles&nbsp;of&nbsp;Accounts Department
----
-
-
-
-## &nbsp;Mother&nbsp;Tongue&nbsp;Languages&nbsp;Department
----
-
-
-## &nbsp;Physical&nbsp;Education&nbsp;Department
----
-
-
-## Science Department
----
-
-
-## English Language Department
----
-
-
-
-
-
-
-
-
 <ul class="jekyllcodex_accordion">
 
-&nbsp;&nbsp;<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Design and Enterprise Department</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-<p> 
-<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Design%20and%20Enterprise%20Dpt/D1NEW.png">
-	<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Design%20and%20Enterprise%20Dpt/D2NEW.png">
-
-</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-	<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Humanities&nbsp;Department</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> 
-				<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Humanities%20Department/H1NEW.png">
-
-</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
+&nbsp;&nbsp;
+	
 	
 <li>
 
