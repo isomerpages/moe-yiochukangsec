@@ -8,7 +8,7 @@ variant: markdown
 ## Design and Technology
 ---
 
-![](/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Design%20and%20Enterprise%20Dpt/DnT_Nov2023_R1.png)
+![](/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Design%20and%20Enterprise%20Dpt/DnT_Nov2023_R1.PNG)
 
 ![](/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Design%20and%20Enterprise%20Dpt/DnT_Nov2023_R2.png)
 
