@@ -15,9 +15,9 @@ variant: markdown
 ## Humanities
 ---
 
-![](/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Design%20and%20Enterprise%20Dpt/Hum_Nov2023_R1.png)
+![](/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Humanities%20Department/Hum_Nov2023_R1.png)
 
-![](/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Design%20and%20Enterprise%20Dpt/Hum_Nov2023_R2.png)
+![](/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Humanities%20Department/Hum_Nov2023_R2.png)
 
 <ul class="jekyllcodex_accordion">
 
