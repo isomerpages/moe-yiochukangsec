@@ -1,5 +1,5 @@
 title: Yio Chu Kang Secondary School
-url: https://www.open.gov.sg
+url: https://www.yiochukangsec.moe.edu.sg
 favicon: /images/Homepage/SchoolLogo.png
 colors:
   primary-color: "#e18f05"
@@ -57,3 +57,4 @@ facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: virtual-tour
+google_analytics_ga4: ""
