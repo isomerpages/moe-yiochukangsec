@@ -11,7 +11,7 @@ Singapore Citizen students from households with gross monthly household income (
 
 Parents who wish to apply may obtain a copy of the MOE FAS application form from the General Office, and return the completed form along with relevant documents to the school for processing.
 
-Alternatively, you may submit the application electronically using this [link].(https://form.gov.sg/64e2f8f73f582600139f54ac)
+Alternatively, you may submit the application electronically using this [link.](https://form.gov.sg/64e2f8f73f582600139f54ac) 
 
 Please contact the General Office at 6456 0669 if you have any queries.
 
