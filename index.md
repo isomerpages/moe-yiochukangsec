@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Parents' Handbook for Secondary One (2024) 2024
           description: Click Here
-          url: ""
+          url: https://www.yiochukangsec.moe.edu.sg/files/Homepage/YCKSS_Parents__Handbook_for_Secondary_One__2024_.pdf
         - title: Secondary 1 School Appeal Form 2024
           description: Click Here
           url: https://go.gov.sg/sec1yckss2024
