@@ -11,7 +11,7 @@ sections:
         - title: Parents' Handbook for Secondary One 2024
           description: Click Here
           url: /files/Homepage/YCKSS_Parents__Handbook_for_Secondary_One__2024_.pdf
-        - title: Secondary 1 School Appeal Form 2024
+        - title: Appeal to Transfer to YCKSS (2024 Sec 1)
           description: Click Here
           url: https://go.gov.sg/sec1yckss2024
         - title: CALENDAR
