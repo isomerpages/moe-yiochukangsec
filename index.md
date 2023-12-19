@@ -18,7 +18,7 @@ sections:
           description: Click here
           url: https://sites.google.com/moe.edu.sg/2023-yckss-calendar
         - title: Secondary 1 Parents' Handbook 2024
-          description: Key Highlight description
+          description: Click Here
           url: ""
       background: /images/Homepage/YCKSS GIF Homepage.gif
   - infopic:
