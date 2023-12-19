@@ -4,7 +4,7 @@ title: Yio Chu Kang Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Secondary 1 Appeal form 2024 available
+notification: ""
 sections:
   - hero:
       key_highlights:
@@ -13,7 +13,7 @@ sections:
           url: ""
         - title: Secondary 1 School Appeal Form 2024
           description: Click Here
-          url: ""
+          url: https://go.gov.sg/sec1yckss2024
         - title: CALENDAR
           description: Click here
           url: https://sites.google.com/moe.edu.sg/2023-yckss-calendar
