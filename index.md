@@ -4,7 +4,7 @@ title: Yio Chu Kang Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: hh
+notification: Secondary 1 Appeal form 2024 available
 sections:
   - hero:
       key_highlights:
