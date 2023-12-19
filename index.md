@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: " Parents' Handbook for Secondary One (2024) 2024"
+        - title: Parents' Handbook for Secondary One (2024) 2024
           description: Click Here
           url: ""
         - title: Secondary 1 School Appeal Form 2024
