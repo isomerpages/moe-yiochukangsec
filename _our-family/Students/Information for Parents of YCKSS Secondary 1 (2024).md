@@ -1,8 +1,9 @@
 ---
-title: Information for Parents of YCKSS Secondary 1 (2023)
-permalink: /our-family/Students/Information-for-Parents-of-YCKSS-Secondary-1-2023/
+title: Information for Parents of YCKSS Secondary 1 (2024)
+permalink: /our-family/students/information-for-parents-of-yckss-secondary-1-2024/
 description: ""
 third_nav_title: Students
+variant: tiptap
 ---
 **Dear Parents / Guardians**
 
