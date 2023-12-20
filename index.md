@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Parents' Handbook for Secondary One 2024
           description: Click Here
-          url: /files/Homepage/YCKSS_Parents__Handbook_for_Secondary_One__2024_.pdf
+          url: /files/Homepage/YCKSS_Parents__Handbook_for_Secondary_One__2024_updated.pdf
         - title: Appeal to Transfer to YCKSS (2024 Sec 1)
           description: Click Here
           url: https://go.gov.sg/sec1yckss2024
