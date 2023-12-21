@@ -24,7 +24,7 @@ Visit us often as we continue to add new content and enhance the information abo
 
 Yours sincerely,  
   
-Mrs Carol Lim  
+Mrs Betty Chow  
 Principal, Yio Chu Kang Secondary School
   
   
