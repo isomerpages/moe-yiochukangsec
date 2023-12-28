@@ -2,17 +2,17 @@ collections:
   our-family:
     output: true
     order:
-      - Students/School Handbook 2024.md
       - Students/.keep
-      - Students/Direct School Admission.md
-      - Students/Assessment & Promotion.md
+      - Students/School Handbook 2024.md
       - Students/Booklist.md
+      - Students/Financial Assistance.md
+      - Students/School Uniform.md
       - Students/Class Timetable and Schedules.md
+      - Students/Assessment & Promotion.md
       - Students/Assessment Information & Schedules.md
       - Students/Students Code of Conduct.md
-      - Students/Financial Assistance.md
       - Students/School Canteen.md
-      - Students/School Uniform.md
+      - Students/Direct School Admission.md
       - Students/Useful Links.md
       - Staff/Professional Development Activities.md
       - Staff/SWC Activities.md
