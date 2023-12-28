@@ -3,6 +3,7 @@ title: Character and Citizenship Education
 permalink: /our-curriculum/Non-Academic-Programmes/Character-and-Citizenship-Education/
 description: ""
 third_nav_title: Non Academic Programmes
+variant: markdown
 ---
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/CCE/C01.jpg)
 
@@ -125,21 +126,15 @@ To make the learning real and to equip students with a better understanding of t
 </table><br>
 			
 3. <b>ECG Counselling</b><br>  
-	       
-Our school’s ECG Counsellor, Mr Isaac Ling, is stationed in our school every Tuesday, Wednesday and selected even week Fridays to provide ECG counselling and support students in making informed decisions on their education and career pathways.
-
-	
-Students (and their parents) who would like to find out more about post-secondary education options, subject choices, career interests, or discover their strengths and interests, can have a chat with our ECG Counsellor. Mr Isaac also conducts in house workshops for teachers and provides individual and group counselling to students in decision making such that they can, in the future, contribute meaningfully to society through their future professions.
+	Our school’s ECG Counsellor, Mr Isaac Ling, is stationed in our school every Tuesday, Wednesday and selected Fridays to provide ECG counselling and support students in making informed decisions on their education and career pathways. Students (and their parents) who would like to find out more about post-secondary education options, subject choices, career interests, or discover their strengths and interests, can have a chat with our ECG Counsellor. Mr Isaac also conducts in house workshops for teachers and provides individual and group counselling to students in decision making such that they can, in the future, contribute meaningfully to society through their future professions.
 <br>	To make an appointment, please click here: 
 <a target="_blank&quot;" href="https://go.gov.sg/yckssecg">https://go.gov.sg/yckssecg</a>
 <br>	or scan the QR Code below.
 
-		
-<img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/ECG/yckss%20(4).png"><br>
+<img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/ECG/YCKSS_ECG_booking.jpg"><br>	
 		
 
 &nbsp;&nbsp;&nbsp;&nbsp;</p></div>
-
 
 #### National Education (NE)
 
