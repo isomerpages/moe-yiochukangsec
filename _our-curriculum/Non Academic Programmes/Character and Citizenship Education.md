@@ -131,12 +131,10 @@ To make the learning real and to equip students with a better understanding of t
 <a target="_blank&quot;" href="https://go.gov.sg/yckssecg">https://go.gov.sg/yckssecg</a>
 <br>	or scan the QR Code below.
 
-		
-<img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/ECG/yckss%20(4).png"><br>
+<img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/ECG/YCKSS_ECG_booking.jpg"><br>	
 		
 
 &nbsp;&nbsp;&nbsp;&nbsp;</p></div>
-
 
 #### National Education (NE)
 
