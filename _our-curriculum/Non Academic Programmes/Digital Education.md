@@ -13,7 +13,7 @@ variant: markdown
 
 Recognising that through the digital tools, students have a window to the world, the YCKSS Digital Education is designed to nurture&nbsp;**Responsible Digital Citizens**&nbsp;who are able to safeguard the well-being of themselves and others when using digital tools and platforms.&nbsp;
 
-**Key Personnel IC: Mr Brandon Chin \[HOD ICT\] (ext: 136)**
+**Key Personnel IC: Mr Brandon Chin \[HOD ICT\] (ext: 110)**
 
 <ul class="jekyllcodex_accordion">
 
@@ -132,7 +132,7 @@ Parents/Guardians can refer to the following materials listed below for addition
 
 Mr Brandon Chin<br>  
 (HOD ICT)<br>  
-6456 0669 (ext. 136)<br><br>
+6456 0669 (ext. 110)<br><br>
 
 
 <b>For Finance &amp; Subsidy Matters</b><br>
