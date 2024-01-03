@@ -1,0 +1,65 @@
+---
+title: Singapore Schools Cyber Wellness Challenge (SSCWC)
+permalink: /sscwc/sscwc2023/
+description: Singapore Schools Cyber Wellness Challenge 2023
+---
+![Logo](/images/Sscwc/logo%20update2.png)<br> 
+The **SSCWC** is a national short film competition,
+centred around Cyber Wellness themes, supported by the Media Literacy Council (MLC). 
+<br>
+
+![FYI_Logo_2](/images/Sscwc/fyi_logo_2.png)
+
+### **Theme for 2023 Challenge**
+![Be safe](/images/Sscwc/be%20safe.png)
+![Be smart](/images/Sscwc/be%20smart.png)
+![Be kind](/images/Sscwc/be%20kind.png)
+
+--- 
+### **For Students, By Students** 
+
+<div class="row">
+    <div class="col is-7">
+		<figure style="margin:0"> 
+		<div style="text-align: left;">
+			 <p><br> The challenge seeks to promote youth advocacy and cultivate student leadership competencies, by integrating Peer Support and Relationships (PSR) into advocacy in Cyber Wellness education. Each participating team will comprise of secondary school students playing the role of mentors to their primary school peers in the creation of media content illustrating the key messages of the Digital for Life (DfL) movement.</p>
+			<figcaption class="has-text-weight-bold"> </figcaption>
+		</div></figure>
+	</div>
+	<div class="col is-5">
+	<br><br><img src="/images/Sscwc/fyi%20full.png" style="width:100%;">
+</div>
+</div>
+In order to generate meaningful media content that can impact and educate their peers and the
+community, both primary and secondary school student participants¹ will first explore and discuss Cyber Wellness issues, with guidance from TOUCH Cyber Wellness facilitators.
+
+Student participants will then apply their learning to storyboard and conceptualise suitable stories /
+messages in line with the selected key Cyber Wellness message and target audience. Student
+participants will also be trained by learning specialists from Apple Singapore in the technical skills and knowledge for video production using the iPads².
+
+![Organisations](/images/Sscwc/partnership%20logos1.PNG)
+
+---
+
+### **Team Composition**
+
+![Team composition](/images/Sscwc/team%20composition.png)
+
+
+### **Timeline &amp; Milestones**
+![Timeline](/images/Sscwc/main%20page%20timeline.png)
+
+### **How to Participate?**
+
+![Participants](/images/Sscwc/pri%20&amp;%20sec%20participants.png)
+
+
+
+| Primary Schools | Secondary Schools |
+| :--------: | :--------: | 
+| [Programme Detail](/sscwc/primaryregistration/)     | [Programme Detail](/sscwc/secondaryregistration/)     | 
+| <a href="https://go.gov.sg/sscwc2023regpri/">Registration Form</a> | <a href="https://go.gov.sg/sscwc2023regsec/">Registration Form</a>|
+
+---
+
+###### **Notes** <br><br>**1.** Student participants could be the school's Peer Support Leaders, Cyber Wellness Ambassadors, Wellness Champions, Technology Champions or any other group(s) of students the school deems suitable. <br><br>**2.** It is **not** a pre-requisite for student participants to own an Apple device, as these will be loaned to students for the duration of the challenge. Nominated students must be comfortable in learning new technological skills.
