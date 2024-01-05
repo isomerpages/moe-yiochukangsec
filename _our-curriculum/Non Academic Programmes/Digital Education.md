@@ -123,11 +123,11 @@ The role of the parent is also key in partnering the school to support your chil
 <b>References &amp; Enquiries</b><br><br>
 			
 Parents/Guardians can refer to the following materials listed below for additional information on the NDLP:<br><br>
-			<a href="/files/NDLP%20@%20YCKSS/YCKSS%20NDLP%20-%20Letter%20to%20Parents%202022%20Final.pdf">NDLP Principal's Letter to Parents/Guardians</a><br>
-			<a href="/files/NDLP%20@%20YCKSS/For%20Sharing%20NDLP%20-%20Briefing%20for%20Parents%2015%20Jan%202022.pdf">NDLP Parents' Briefing Slides (With FAQs)</a><br>
-			<a href="/files/NDLP%20@%20YCKSS/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf">Parent Handbook I (Learning with a Personal Learning Device)</a><br>
-			<a href="/files/NDLP%20@%20YCKSS/IP3%20-%20Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf">Parent Handbook II (Learning with a Personal Learning Device)</a><br><br>
-			You may contact the following personnel:<br>
+			[NDLP Principal's Letter to Parents/Guardians](/files/NDLP%20@%20YCKSS/YCKSS_NDLP_2024___Consent_for_Purchase_of_PLD.pdf)<br>
+	[Parent Handbook I (Learning with a Personal Learning Device)](/files/NDLP%20@%20YCKSS/Parent_Handbook__I__2024_FINAL.pdf)<br>
+	[Parent Handbook II (Learning with a Personal Learning Device)](/files/NDLP%20@%20YCKSS/Parent_Handbook__II__2024_FINAL.pdf)
+	<br><br>
+			You may contact the following personnel:<br><br>
 			<b>For Programme Matters :</b><br>
 
 Mr Brandon Chin<br>  
