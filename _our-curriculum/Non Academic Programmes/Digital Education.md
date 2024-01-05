@@ -33,7 +33,7 @@ At YCKSS, we have customised this into <b>our&nbsp;Digital Education Framework.<
 	<b>Personal Learning Device (PLD) for Secondary School Students</b><br><br>
 			After careful considerations based on portability, durability and T&amp;L affordance, the PLD selected for use at YCKSS is the&nbsp;<b>Apple iPad (2021 9th Generation)</b>&nbsp;with the accompanying <b>Apple Pencil</b>&nbsp;and&nbsp;<b>Keyboard Combo</b>.<br>
 
-The device will be used to facilitate an environment that encourages personalised learning where students will be engaged in technology-enabled active learning activities using the iPad.<br><br> 
+<br>The device will be used to facilitate an environment that encourages personalised learning where students will be engaged in technology-enabled active learning activities using the iPad.<br><br> 
 			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/NDLP%20@%20YCKSS/N2.png"><br>
 			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/NDLP%20@%20YCKSS/N3.jpg"><br>
 	<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/NDLP%20@%20YCKSS/N4.jpg"><br><br>
@@ -87,19 +87,19 @@ The device will be used to facilitate an environment that encourages personalise
 </table><br>
 			&nbsp;Accidental loss will not be covered by insurance.<br><br>
 			<b>Purchase of PLD</b><br><br>
-			Singapore Citizen students can use their available&nbsp;<b>Edusave balance</b>&nbsp;to pay for the PLD after setting aside provision for payment of 2nd tier miscellaneous fees.<br>
+			Singapore Citizen students can use their available&nbsp;<b>Edusave balance</b>&nbsp;to pay for the PLD after setting aside provision for payment of miscellaneous fees.<br>
 
-MOE has provided a one-off Edusave top-up of $200 in 2020, to all eligible Singaporean students in primary and secondary schools. This is on top of the annual Edusave contribution of $290 for secondary students and $230 for primary students.<br>
+<br>To ensure the affordability of devices, MOE has provided Edusave top-ups of $200 in 2020 to 2022, and $300 in 2023, to all eligible Singaporean students in primary and secondary schools. This is on top of the annual Edusave contribution of $290 for secondary students and $230 for primary students.<br>
 
-<b>Subsidies</b>&nbsp;are available for students who require financial assistance to purchase a PLD.<br>
+<br><b>Subsidies</b>&nbsp;are available for students who require financial assistance to purchase a PLD.<br>
 			
-Please note that it is compulsory for all existing students on the MOE Financial Assistance Scheme to use their Edusave to pay for the PLD, after subsidies have been granted.<br>
+<br>Please note that it is compulsory for all existing students on the MOE Financial Assistance Scheme to use their Edusave to pay for the PLD, after subsidies have been granted.<br>
 			
-Students under the MOE Financial Assistance&nbsp;_(FAS)_&nbsp;Scheme for the year will automatically be subsidised for the PLD.<br>
+<br>Students under the MOE Financial Assistance&nbsp; (FAS) &nbsp;Scheme for the year will automatically be subsidised for the PLD.<br>
 			
-Students who are currently not under the MOE Financial Assistance Scheme may apply for additional subsidy if their&nbsp;<b>Gross Household Income (GHI)</b>&nbsp;is $4,000 or less, or&nbsp;<b>Per Capita Income (PCI)</b>&nbsp;is $1,000 or less.Please collect the application form at the General Office.<br>
+<br>Students who are currently not under the MOE Financial Assistance Scheme may apply for additional subsidy if their&nbsp;<b>Gross Household Income (GHI)</b>&nbsp;is $4,000 or less, or&nbsp;<b>Per Capita Income (PCI)</b>&nbsp;is $1,000 or less.Please collect the application form at the General Office.<br>
 			
-<b>“PCI”</b> refers to the Gross Household Income divided by the total number of family members in the household.<br><br>
+*<b>“PCI”</b> refers to the Gross Household Income divided by the total number of family members in the household.<br><br>*
 			
 <b>Device Management Application (DMA)</b><br>
 
@@ -115,7 +115,7 @@ The school has in place measures to enable a safe and seamless learning environm
 			
 The role of the parent is also key in partnering the school to support your child.&nbsp;Parents could refer to the school's&nbsp;<b>Digital Wellness Policy (DWP)</b>&nbsp;when helping to manage your child’s use of digital devices and platforms. The policy will help your child to understand digital wellness matters and to enable a conducive learning environment. The DWP can be found in the <a href="/files/YCKSS_STUDENT_HANDBOOK_2024__PDF_.pdf">[YCKSS Digital Student Handbook 2024] <br></a>
 
-The&nbsp;<b>Acceptable Use Policy (AUP)</b>&nbsp;sets out the rules and regulations that govern the use of PLD by students. This policy will serve to ensure the safe and secure use of the device, and facilitate effective learning with technology. The AUP can be found in the&nbsp;
+<br>The&nbsp;<b>Acceptable Use Policy (AUP)</b>&nbsp;sets out the rules and regulations that govern the use of PLD by students. This policy will serve to ensure the safe and secure use of the device, and facilitate effective learning with technology. The AUP can be found in the&nbsp;
 			<a href="/files/YCKSS_STUDENT_HANDBOOK_2024__PDF_.pdf">[YCKSS Digital Student Handbook 2024]<br></a>
 			
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/NDLP%20@%20YCKSS/N6.jpg"><br><br>
