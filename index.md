@@ -8,12 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Sec 1 Parent Teacher Meeting Presentation Slides
+        - title: 2024 Sec 1 Parent Teacher Meeting Presentation Slides
           description: Click Here
           url: /files/our-family/parents-connect/2024-sec1-parents-teacher-meeting/
-        - title: Appeal to Transfer to YCKSS (2024 Sec 1)
-          description: Click Here
-          url: https://go.gov.sg/sec1yckss2024
         - title: CALENDAR
           description: Click here
           url: https://sites.google.com/moe.edu.sg/2023-yckss-calendar
