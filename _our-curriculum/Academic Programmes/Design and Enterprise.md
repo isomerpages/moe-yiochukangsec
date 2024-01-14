@@ -6,7 +6,7 @@ third_nav_title: Academic Programmes
 variant: markdown
 ---
 ![](/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D1.jpg)
-Please click here for more details on the department programme and subject information.
+Please [click here](/files/Academic%20Programmes/Design%20and%20Enterprise/DE_Department_Programme_and_Subject_Information_.pdf) for more details on the department programme and subject information. 
 
 
 ## **Vision**
