@@ -4,13 +4,14 @@ permalink: /our-experience/the-horizon-newsletter/
 description: ""
 image: /images/Our Experience/The Horizon (newsletter)/front page - yckss 2023
   sem 1 magazine_final.jpg
+variant: markdown
 ---
 The Horizon is published twice a year, one for each semester. It features events big and small that students participate in. Students’ reflections of their learning and challenges are also documented. The photographs capture students in action and their joy in learning both in and out of school. Sometimes, the students are the guest writers of the articles. Don't miss out our issues each semester to be kept informed on what YCKSS students experience in school. You can also find this on our&nbsp;[YCKSS FACEBOOK PAGE](https://www.facebook.com/yiochukangsec).
 
 Here's our latest edition of Horizon 2023. Read how our students and staff continue to adapt and adjust to the every changing environment through our various involvement in the school activities and events.
 
 
-![The front cover of Horizon, Issue 9](/images/Our%20Experience/The%20Horizon%20(newsletter)/front%20page%20-%20yckss%202023%20sem%201%20magazine_final.jpg)
+[![The front cover of The Horizon, Issue 10](/images/Our%20Experience/The%20Horizon%20(newsletter)/the_horizon_sem_2_2023_issue_10.jpg)](/files/The%20Horizon%20(newsletter)/The_Horizon_Sem_2_2023_v2.pdf)
 
 -----
 
