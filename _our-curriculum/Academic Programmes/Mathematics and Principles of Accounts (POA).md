@@ -8,23 +8,23 @@ variant: markdown
 ![](/images/Our%20Curriculum/Academic%20Programmes/Mathematics%20and%20POA/M1.jpg)
 Please [click here](/files/Academic%20Programmes/Math%20and%20POA/Math_Department_Programme_and_Subject_Information.pdf) for more details on the department programme and subject information.
 
-**Vision**&nbsp;
+## **Vision**&nbsp;
 
 Independent learners who are innovative and effective problem solvers&nbsp;
 
   
 
-**Mission**
+## **Mission**
 
 To provide an environment to nurture students to be independent learners and develop sound reasoning, critical thinking and collaborative problem solving skills necessary for application in the real world.&nbsp;  
 
+---
+
+### **Key Programmes**&nbsp;
+
   
 
-**Key Programmes**&nbsp;
-
-  
-
-Authentic Learning in Mathematics&nbsp;
+#### Authentic Learning in Mathematics&nbsp;
 
   
 
@@ -39,7 +39,7 @@ Our department believes in offering innovative approaches to help our students g
 
 
 
-**Financial Literacy Programme**
+#### **Financial Literacy Programme**
 
 
 
@@ -48,11 +48,13 @@ Our department believes in offering innovative approaches to help our students g
 *   This exciting programme helps upper secondary students create an awareness of the importance of financial planning by providing them a head start in learning abstract concepts on financial literacy using an experiential game.&nbsp;  
     
 
-**Algebra Games**
+#### **Algebra Games**
 
 *   **_The Smart City Explorer_**&nbsp;is the invention of our teachers who have designed it to create joy in learning algebraic concepts in the lower secondary mathematics classroom through play. Using this games based approach, students learn in teams and become more competent and confident about their abilities in algebraic manipulations.
 
-Principles of Accounts  
+---
+
+## Principles of Accounts  
 
   
 
@@ -60,7 +62,7 @@ To provide a conducive learning environment for students to develop proper value
 
   
 
-Authentic learning in POA
+#### Authentic learning in POA
 
   
 
@@ -68,8 +70,11 @@ Authentic learning in POA
 *   Infusing problems involving real world context into the POA syllabus.&nbsp;
 *   Developing positive traits such as having integrity and being meticulous through the&nbsp;&nbsp;use of the accounting system.&nbsp;  
     
+---
 
-**HOD Mathematics: Mdm Goh Shwu Jun \[ext 114\]**
+##### **HOD Mathematics: Mdm Goh Shwu Jun \[ext 114\]**
+
+---
 
 ### **Photo Gallery**
 
