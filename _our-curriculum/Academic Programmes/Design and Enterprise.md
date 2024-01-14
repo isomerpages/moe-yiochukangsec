@@ -82,6 +82,8 @@ To enable our students to discover and express their personal voices through the
 
 ##### **HOD D&E: Ms Hoon Siew Hui \[ext: 206\]**
 
+---
+
 ### **Photo Gallery**
 
 ![](/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D3.png)
