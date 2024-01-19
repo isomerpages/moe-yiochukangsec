@@ -204,7 +204,7 @@ b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 
 9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages.&nbsp;The desired outcome of the&nbsp;_eTeens_&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.<br><br>
 
-You may click [here](/files/Sexuality%20Education%20(SEd)/yckss%20sed%20curriculum%202023.pdf)  for more information on YCKSS Sexuality Education.
+You may click [here](/files/Sexuality%20Education%20(SEd)/SEd_Lessons.pdf)  for more information on YCKSS Sexuality Education.
 
 ---
 
