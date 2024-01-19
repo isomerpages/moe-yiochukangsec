@@ -212,9 +212,9 @@ You may click [here](/files/Sexuality%20Education%20(SEd)/SEd_Lessons.pdf)  for 
 
 10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable here. The completed form is to be submitted by 29/01/2024.
+11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also [downloadable here](/files/Sexuality%20Education%20(SEd)/opt_out_SEd__hardcopy_.pdf). The completed form is to be submitted by 29/01/2024.
 
-12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable here. &nbsp;The completed form is to be submitted by 29/01/2024.
+12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also [downloadable here](/files/Sexuality%20Education%20(SEd)/opt_out_eTeens__hardcopy_.pdf). &nbsp;The completed form is to be submitted by 29/01/2024.
 
 13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at [yckss@moe.edu.sg](mailto:yckss@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
 
