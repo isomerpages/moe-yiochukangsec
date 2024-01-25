@@ -39,7 +39,7 @@ description: ""
             <td rowspan="1" colspan="1">
                 <p></p>
                 <div class="isomer-image-wrapper">
-                    <img style="width: 70%;" height="auto" width="100%" alt="Gold Award" src="/images/Gold.jpg">
+                    <img style="width: 70%;" height="auto" width="100%" alt="Gold Award" src="/images/Gold2.jpg">
                 </div>
                 <p><strong>Team # <br>Clementi Secondary School Anderson Primary School</strong>
                 </p>
@@ -105,7 +105,7 @@ description: ""
             </td>
             <td rowspan="1" colspan="1">
                 <div class="isomer-image-wrapper">
-                    <img style="width: 70%;" height="auto" width="100%" alt="Bronze Award" src="/images/Bronze.jpg">
+                    <img style="width: 70%;" height="auto" width="100%" alt="Bronze Award" src="/images/Bronze2.jpg">
                 </div>
                 <p><strong>Team # <br>Clementi Secondary School Anderson Primary School</strong>
                 </p>
@@ -127,7 +127,7 @@ description: ""
             </td>
             <td rowspan="1" colspan="1">
                 <div class="isomer-image-wrapper">
-                    <img style="width: 70%;" height="auto" width="100%" alt="Bronze Award" src="/images/Bronze.jpg">
+                    <img style="width: 70%;" height="auto" width="100%" alt="Bronze Award" src="/images/Bronze2.jpg">
                 </div>
                 <p><strong>Team # <br>Clementi Secondary School Anderson Primary School</strong>
                 </p>
@@ -149,7 +149,7 @@ description: ""
             </td>
             <td rowspan="1" colspan="1">
                 <div class="isomer-image-wrapper">
-                    <img style="width: 70%;" height="auto" width="100%" alt="Bronze Award" src="/images/Bronze.jpg">
+                    <img style="width: 70%;" height="auto" width="100%" alt="Bronze Award" src="/images/Bronze2.jpg">
                 </div>
                 <p><strong>Team # <br>Clementi Secondary School Anderson Primary School</strong>
                 </p>
