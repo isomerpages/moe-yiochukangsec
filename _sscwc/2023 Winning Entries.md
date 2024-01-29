@@ -32,7 +32,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="250" width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/268scEdtxYw?si=t9sNq3hvhquRM8F4"></iframe>
+<iframe height="208" width="292" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/268scEdtxYw?si=t9sNq3hvhquRM8F4"></iframe>
 </div>
 <p></p>
 </td>
@@ -57,7 +57,7 @@ id est laborum.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="250" width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/268scEdtxYw?si=t9sNq3hvhquRM8F4"></iframe>
+<iframe height="208" width="292" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/268scEdtxYw?si=t9sNq3hvhquRM8F4"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -78,7 +78,7 @@ id est laborum.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="250" width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/268scEdtxYw?si=t9sNq3hvhquRM8F4"></iframe>
+<iframe height="208" width="292" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/268scEdtxYw?si=t9sNq3hvhquRM8F4"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -100,7 +100,7 @@ id est laborum.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="250" width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/268scEdtxYw?si=t9sNq3hvhquRM8F4"></iframe>
+<iframe height="208" width="292" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/268scEdtxYw?si=t9sNq3hvhquRM8F4"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -122,7 +122,7 @@ id est laborum.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="250" width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/268scEdtxYw?si=t9sNq3hvhquRM8F4"></iframe>
+<iframe height="208" width="292" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/268scEdtxYw?si=t9sNq3hvhquRM8F4"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -144,7 +144,7 @@ id est laborum.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="250" width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/268scEdtxYw?si=t9sNq3hvhquRM8F4"></iframe>
+<iframe height="208" width="292" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/268scEdtxYw?si=t9sNq3hvhquRM8F4"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
