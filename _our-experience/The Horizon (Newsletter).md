@@ -24,9 +24,9 @@ Here are 3 videos that document the personal stories as we navigated this challe
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lOQVsDo-_AI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 [PART 1 - JANUARY TO MARCH  
-SCHOOL LIFE BEFORE&nbsp;HBL&nbsp;PERIOD.](https://www.youtube.com/watch?v=lOQVsDo-_AI&amp;feature=youtu.be)
+SCHOOL LIFE BEFORE&nbsp;HBL&nbsp;PERIOD.](https://www.youtube.com/watch?v=lOQVsDo-_AI)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=mYRZgy5c-fs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/mYRZgy5c-fs?si=Easgy0PiCx8NObD0" height="315" width="560"></iframe>
 
 [PART 2 - APRIL TO MAY  
 FULL HBL AND MAY SCHOOL HOLIDAYS](https://www.youtube.com/watch?v=mYRZgy5c-fs&amp;feature=youtu.be)
