@@ -11,7 +11,7 @@ The Horizon is published twice a year, one for each semester. It features events
 Here's our latest edition of Horizon 2023. Read how our students and staff continue to adapt and adjust to the every changing environment through our various involvement in the school activities and events.
 
 
-[![The front cover of The Horizon, Issue 10](/images/Our%20Experience/The%20Horizon%20(newsletter)/the_horizon_sem_2_2023_issue_10.jpg)](/files/The%20Horizon%20(newsletter)/The_Horizon_Sem_2_2023_v2.pdf)
+[![The front cover of The Horizon, Issue 10](/images/Our%20Experience/The%20Horizon%20Newsletter/the_horizon_sem_2_2023_issue_10.jpg)](/files/The%20Horizon%20Newsletter/The_Horizon_Sem_2_2023_v2.pdf)
 
 -----
 
@@ -53,18 +53,18 @@ You can read the articles or watch the news broadcast via the links below.
 
 ### **All Issues of The Horizon**
 
-* [ISSUE 10 (JUNE - DEC 2023)](/files/The%20Horizon%20(newsletter)/The_Horizon_Sem_2_2023_v2.pdf) NEW!
+* [ISSUE 10 (JUNE - DEC 2023)](/files/The%20Horizon%20Newsletter/The_Horizon_Sem_2_2023_v2.pdf) NEW!
 
-*  [ISSUE 9 (JAN - MAY 2023)](/files/The%20Horizon%20(newsletter)/yckss%202023%20sem%201%20magazine_final.pdf)
+*  [ISSUE 9 (JAN - MAY 2023)](/files/The%20Horizon%20Newsletter/yckss%202023%20sem%201%20magazine_final.pdf)
 
-*   [ISSUE 8 (JUN - DEC 2022)](/files/The%20Horizon%20(newsletter)/YCKSS%20Sem%202%202022%20NEWSLETTER.pdf)
+*   [ISSUE 8 (JUN - DEC 2022)](/files/The%20Horizon%20Newsletter/YCKSS%20Sem%202%202022%20NEWSLETTER.pdf)
     
-*   [ISSUE 7 (JAN - MAY 2022)](/files/The%20Horizon%20(newsletter)/YCKSS%202022%20SEM%201%20MAGAZINE_v3pdf.pdf)
-*   [ISSUE 6 (JUN - OCT 2021)](/files/The%20Horizon%20(newsletter)/THE%20HORIZON%20SEM%202%202021.pdf)
-*   [ISSUE 5 (JAN - MAY 2021)](/files/The%20Horizon%20(newsletter)/2021%20Jan-May.pdf)
+*   [ISSUE 7 (JAN - MAY 2022)](/files/The%20Horizon%20Newsletter/YCKSS%202022%20SEM%201%20MAGAZINE_v3pdf.pdf)
+*   [ISSUE 6 (JUN - OCT 2021)](/files/The%20Horizon%20Newsletter/THE%20HORIZON%20SEM%202%202021.pdf)
+*   [ISSUE 5 (JAN - MAY 2021)](/files/The%20Horizon%20Newsletter/2021%20Jan-May.pdf)
 *   Journey through 2020: Video Edition.   
     (&nbsp;[PART 1](https://www.youtube.com/watch?v=lOQVsDo-_AI&amp;feature=youtu.be)&nbsp;|&nbsp;[PART 2](https://www.youtube.com/watch?v=mYRZgy5c-fs&amp;feature=youtu.be)&nbsp;|&nbsp;[PART 3](https://youtu.be/BDBEUba8dyc)&nbsp;)
-*   [ISSUE 4 (JUN - NOV 2019)](/files/The%20Horizon%20(newsletter)/Newsletter%204.pdf)
-*   [ISSUE 3 (JAN – MAY 2019)](/files/The%20Horizon%20(newsletter)/Newsletter%20Issue%203%20Final%20Update.pdf)
-*   [ISSUE 2 (JULY – NOV 2018)](/files/The%20Horizon%20(newsletter)/The%20Horizon%20Issue%202%20(July%20-%20Nov%202018).pdf)
-*   [ISSUE 1 (JAN – JUN 2018)](/files/The%20Horizon%20(newsletter)/The%20Horizon%20Issue%201.pdf)
+*   [ISSUE 4 (JUN - NOV 2019)](/files/The%20Horizon%20Newsletter/Newsletter%204.pdf)
+*   [ISSUE 3 (JAN – MAY 2019)](/files/The%20Horizon%20Newsletter/Newsletter%20Issue%203%20Final%20Update.pdf)
+*   [ISSUE 2 (JULY – NOV 2018)](/files/The%20Horizon%20Newsletter/The%20Horizon%20Issue%202%20(July%20-%20Nov%202018).pdf)
+*   [ISSUE 1 (JAN – JUN 2018)](/files/The%20Horizon%20Newsletter/The%20Horizon%20Issue%201.pdf)
