@@ -39,7 +39,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Gold Award" src="/images/Gold2.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="Gold Award" src="/images/Gold2.jpg">
 </div>
 <p><strong>Team # <br>Clementi Secondary School Anderson Primary School</strong>
 </p>
@@ -62,7 +62,7 @@ id est laborum.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Silver Award" src="/images/Silver.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="Silver Award" src="/images/Silver.jpg">
 </div>
 <p><strong>Team # <br>Clementi Secondary School Anderson Primary School</strong>
 </p>
@@ -83,29 +83,7 @@ id est laborum.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Silver Award" src="/images/Silver.jpg">
-</div>
-<p><strong>Team # <br>Clementi Secondary School Anderson Primary School</strong>
-</p>
-<p></p>
-<p>Sypnosis: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-id est laborum.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe height="253.13" width="450" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/268scEdtxYw?si=t9sNq3hvhquRM8F4"></iframe>
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Bronze Award" src="/images/Bronze2.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="Silver Award" src="/images/Silver.jpg">
 </div>
 <p><strong>Team # <br>Clementi Secondary School Anderson Primary School</strong>
 </p>
@@ -127,7 +105,7 @@ id est laborum.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Bronze Award" src="/images/Bronze2.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="Bronze Award" src="/images/Bronze2.jpg">
 </div>
 <p><strong>Team # <br>Clementi Secondary School Anderson Primary School</strong>
 </p>
@@ -149,7 +127,29 @@ id est laborum.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Bronze Award" src="/images/Bronze2.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="Bronze Award" src="/images/Bronze2.jpg">
+</div>
+<p><strong>Team # <br>Clementi Secondary School Anderson Primary School</strong>
+</p>
+<p></p>
+<p>Sypnosis: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
+id est laborum.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="253.13" width="450" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/268scEdtxYw?si=t9sNq3hvhquRM8F4"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="Bronze Award" src="/images/Bronze2.jpg">
 </div>
 <p><strong>Team # <br>Clementi Secondary School Anderson Primary School</strong>
 </p>
