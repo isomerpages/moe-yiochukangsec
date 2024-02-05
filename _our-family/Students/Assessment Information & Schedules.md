@@ -12,15 +12,12 @@ students with subject information to guide their preparation for the assessments
 and level.</p>
 <p>Click the links below for details. This will be refreshed for each term.</p>
 <h3><strong>Assessment Rules &amp; Regulations</strong></h3>
-<p><a href="/files/Students/Assessment Information Sche/NEW/YCKSS_Weighted_Assessment_Rules_and_Regulations.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Rules &amp; Regulations</a>
-<a href="/files/Students/Assessment Information Sche/YCKSS Weighted Assessment Rules and Regulations.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>(updated on 5 Feb 2024)</p>
+<p><a href="/files/Students/Assessment Information Sche/NEW/YCKSS_Weighted_Assessment_Rules_and_Regulations.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Rules &amp; Regulations</a> (updated
+on 5 Feb 2024)</p>
 <h3><strong>Weighted Assessment (2024 Term 1)</strong></h3>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 <th rowspan="1" colspan="1">
 <p>Sec 1 (A, B, C)</p>
 </th>
@@ -42,11 +39,7 @@ and level.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Students/Assessment Information Sche/NEW/Secondary_1A_B_C_Weighted_Assessment_Term_1__Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">S</a>
-<a href="/files/Students/Assessment Information Sche/secondary 1a_b_c weighted assessment(term 2) schedule 2023.pdf" rel="noopener noreferrer nofollow" target="_blank">chedule &amp; Subject information</a>
+<p><a href="/files/Students/Assessment Information Sche/NEW/Secondary_1A_B_C_Weighted_Assessment_Term_1__Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule &amp; Subject information</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
