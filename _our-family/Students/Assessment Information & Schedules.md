@@ -12,7 +12,7 @@ students with subject information to guide their preparation for the assessments
 and level.</p>
 <p>Click the links below for details. This will be refreshed for each term.</p>
 <h3><strong>Assessment Rules &amp; Regulations</strong></h3>
-<p><a href="/files/Students/Assessment Information Sche/YCKSS Weighted Assessment Rules and Regulations.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Rules &amp; Regulations   </a>(updated
+<p><a href="/files/Students/Assessment Information Sche/YCKSS Weighted Assessment Rules and Regulations.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Rules &amp; Regulations </a>(updated
 on 5 Feb 2024)</p>
 <h3><strong>Weighted Assessment (2024 Term 1)</strong></h3>
 <table>
@@ -25,7 +25,7 @@ on 5 Feb 2024)</p>
 <p>Sec 1 (D, E, F)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Sec 2 (A, B, C)</p>
+<p>Sec 2</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Sec 3</p>
