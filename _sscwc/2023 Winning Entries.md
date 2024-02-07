@@ -33,7 +33,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Team 10</u></strong>
+<p><strong><u>Team 10</u></strong> 
 <br>RAFFLES GIRLS' SCHOOL (SECONDARY)
 <br>HORIZON PRIMARY SCHOOL</p>
 </td>
@@ -59,7 +59,7 @@ to the children when they go on such gaming platforms.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Team 8</u></strong>
+<p><strong><u>Team 8</u></strong> 
 <br>BUKIT VIEW SEC SCHOOL
 <br>YIO CHU KANG SEC SCHOOL
 <br>MARYMOUNT CONVENT SCHOOL</p>
@@ -84,27 +84,18 @@ or pay the price. Stay safe online.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Silver Award" src="/images/Silver.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Silver Award" src="/images/Silver.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong><u>Team 8</u></strong></h4>
-<p></p>
-<h4>BUKIT PANJANG GOVT. HIGH SCHOOL</h4>
-<h4>ST. STEPHEN'S SCHOOL</h4>
+<p><strong><u>Team 8</u></strong>
+<br>BUKIT PANJANG GOVT. HIGH SCHOOL
+<br>ST. STEPHEN'S SCHOOL</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Synopsis: Often times, the youth are tricked by malicious scammers due
 to the lack of awareness of scams. Our video aims to broaden the knowledge
 of primary school students on making smart choices to protect themselves
@@ -112,8 +103,6 @@ against scams. It features a boy who caused both him and his sister to
 fall for the schemes of the scammers. Through this, we bring to light the
 common methods used by scammers in hopes to bring our message across, “If
 it’s too good to be true, it probably is.”</p>
-</td>
-<td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
 <iframe height="253.13" width="450" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/268scEdtxYw?si=t9sNq3hvhquRM8F4"></iframe>
 </div>
@@ -121,27 +110,18 @@ it’s too good to be true, it probably is.”</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="Bronze Award" src="/images/Bronze2.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Bronze Award" src="/images/Bronze2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong><u>Team 9</u></strong></h4>
-<h4></h4>
-<h4>EDGEFIELD SECONDARY SCHOOL</h4>
-<h4>ANCHOR GREEN PRIMARY SCHOOL</h4>
+<p><strong><u>Team 9</u></strong>
+<br>EDGEFIELD SECONDARY SCHOOL
+<br>ANCHOR GREEN PRIMARY SCHOOL</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Synopsis: The video shows that you can’t trust anybody you see online
 because anybody can pretend to be someone they are not on the internet.
 In this video, it shows a teenage girl who befriends somebody she don’t
@@ -149,8 +129,6 @@ know online and plans to meet her after realising that they are in the
 same school. The online friend she befriended was actually a stalker who
 planned to kidnap her. The key message that we want to get across is to
 be safe online and to not trust people online that we do not know.</p>
-</td>
-<td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
 <iframe height="253.13" width="450" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/268scEdtxYw?si=t9sNq3hvhquRM8F4"></iframe>
 </div>
@@ -158,27 +136,18 @@ be safe online and to not trust people online that we do not know.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="Bronze Award" src="/images/Bronze2.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Bronze Award" src="/images/Bronze2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong><u>Team 22</u></strong></h4>
-<h4></h4>
-<h4>BOWEN SECONDARY SCHOOL</h4>
-<h4>ROSYTH SCHOOL</h4>
+<p><strong><u>Team 22</u></strong>
+<br>BOWEN SECONDARY SCHOOL
+<br>ROSYTH SCHOOL</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Synopsis: A 67 year old uncle with back pain. He receives a Whatsapp message
 from a person impersonating as a Carousell seller but it’s actually a scam.
 The scammer was selling back pain supplements for $50 per bottle when the
@@ -189,8 +158,6 @@ him by questioning him. and telling him it is wrong of him to do so and
 it was actually a scammer. But he protested saying that the seller was
 nice. But his daughter insisted that it was a scam and told him to stop
 texting the Carousell seller.</p>
-</td>
-<td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
 <iframe height="253.13" width="450" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/268scEdtxYw?si=t9sNq3hvhquRM8F4"></iframe>
 </div>
@@ -198,27 +165,18 @@ texting the Carousell seller.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="Bronze Award" src="/images/Bronze2.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Bronze Award" src="/images/Bronze2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong><u>Team 24</u></strong></h4>
-<h4></h4>
-<h4>COMMONWEALTH SECONDARY SCHOOL</h4>
-<h4>NORTHLAND PRIMARY SCHOOL</h4>
+<p><strong><u>Team 24</u></strong>
+<br>COMMONWEALTH SECONDARY SCHOOL
+<br>NORTHLAND PRIMARY SCHOOL</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Synopsis: Have you ever thought before you opened a link? More than half
 of the global population owns a smartphone and that for one means that
 we should strengthen our safety and security in the cyberspace. In this
@@ -228,8 +186,6 @@ to people. Slowly, each of the civilians begin to click onto the website
 and their banking details get stolen. Only after they have clicked, do
 they realise what they have done. There was nothing they could do to retrieve
 their stolen money. Anyone can get scammed. Check before you act.</p>
-</td>
-<td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
 <iframe height="253.13" width="450" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/268scEdtxYw?si=t9sNq3hvhquRM8F4"></iframe>
 </div>
