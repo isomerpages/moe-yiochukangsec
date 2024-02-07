@@ -29,7 +29,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Gold Award" src="/images/Gold2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="Gold Award" src="/images/Gold2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,7 +55,7 @@ to the children when they go on such gaming platforms.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Silver Award" src="/images/Silver.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="Silver Award" src="/images/Silver.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,11 +85,11 @@ or pay the price. Stay safe online.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Silver Award" src="/images/Silver.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="Silver Award" src="/images/Silver.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Team 8</u></strong>
+<p><strong><u>Team 8</u></strong> 
 <br>BUKIT PANJANG GOVT. HIGH SCHOOL
 <br>ST. STEPHEN'S SCHOOL</p>
 </td>
@@ -111,11 +111,11 @@ it’s too good to be true, it probably is.”</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Bronze Award" src="/images/Bronze2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="Bronze Award" src="/images/Bronze2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Team 9</u></strong>
+<p><strong><u>Team 9</u></strong> 
 <br>EDGEFIELD SECONDARY SCHOOL
 <br>ANCHOR GREEN PRIMARY SCHOOL</p>
 </td>
@@ -137,11 +137,11 @@ be safe online and to not trust people online that we do not know.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Bronze Award" src="/images/Bronze2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="Bronze Award" src="/images/Bronze2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Team 22</u></strong>
+<p><strong><u>Team 22</u></strong> 
 <br>BOWEN SECONDARY SCHOOL
 <br>ROSYTH SCHOOL</p>
 </td>
@@ -166,11 +166,11 @@ texting the Carousell seller.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Bronze Award" src="/images/Bronze2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="Bronze Award" src="/images/Bronze2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Team 24</u></strong>
+<p><strong><u>Team 24</u></strong> 
 <br>COMMONWEALTH SECONDARY SCHOOL
 <br>NORTHLAND PRIMARY SCHOOL</p>
 </td>
