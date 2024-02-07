@@ -48,7 +48,7 @@ since primary school children may not be mature enough to understand how
 much their words could affect others, we hope the story will be applicable
 to the children when they go on such gaming platforms.</p>
 <div class="iframe-wrapper">
-<iframe height="253.13" width="450" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/268scEdtxYw?si=t9sNq3hvhquRM8F4"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YFnMnq3oN1g?si=e0zKTjkDPK8KgNCl"></iframe>
 </div>
 </td>
 </tr>
@@ -78,7 +78,7 @@ indications that this could potentially be a scam. The end shows how to
 identify if it is a scam to avoid falling victim to scams. Think twice
 or pay the price. Stay safe online.</p>
 <div class="iframe-wrapper">
-<iframe height="253.13" width="450" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/268scEdtxYw?si=t9sNq3hvhquRM8F4"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jzMh-3SSwB0?si=HHKX8hsaCM869qm3"></iframe>
 </div>
 </td>
 </tr>
@@ -89,7 +89,7 @@ or pay the price. Stay safe online.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Team 8</u></strong> 
+<p><strong><u>Team 28</u></strong> 
 <br>BUKIT PANJANG GOVT. HIGH SCHOOL
 <br>ST. STEPHEN'S SCHOOL</p>
 </td>
@@ -104,7 +104,7 @@ fall for the schemes of the scammers. Through this, we bring to light the
 common methods used by scammers in hopes to bring our message across, “If
 it’s too good to be true, it probably is.”</p>
 <div class="iframe-wrapper">
-<iframe height="253.13" width="450" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/268scEdtxYw?si=t9sNq3hvhquRM8F4"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/47-ywCVnpaA?si=56wWjB2BFDiuNew2"></iframe>
 </div>
 </td>
 </tr>
@@ -130,7 +130,7 @@ same school. The online friend she befriended was actually a stalker who
 planned to kidnap her. The key message that we want to get across is to
 be safe online and to not trust people online that we do not know.</p>
 <div class="iframe-wrapper">
-<iframe height="253.13" width="450" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/268scEdtxYw?si=t9sNq3hvhquRM8F4"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Md8dz1c14hE?si=AxMEgOrLe6JFhR1O"></iframe>
 </div>
 </td>
 </tr>
@@ -159,7 +159,7 @@ it was actually a scammer. But he protested saying that the seller was
 nice. But his daughter insisted that it was a scam and told him to stop
 texting the Carousell seller.</p>
 <div class="iframe-wrapper">
-<iframe height="253.13" width="450" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/268scEdtxYw?si=t9sNq3hvhquRM8F4"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/s8H58su3Vps?si=EiriBKOfBfYTrYqs"></iframe>
 </div>
 </td>
 </tr>
@@ -187,7 +187,7 @@ and their banking details get stolen. Only after they have clicked, do
 they realise what they have done. There was nothing they could do to retrieve
 their stolen money. Anyone can get scammed. Check before you act.</p>
 <div class="iframe-wrapper">
-<iframe height="253.13" width="450" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/268scEdtxYw?si=t9sNq3hvhquRM8F4"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ucpmTjFkr_k?si=5c7V0p0wr_w48i6N"></iframe>
 </div>
 </td>
 </tr>
