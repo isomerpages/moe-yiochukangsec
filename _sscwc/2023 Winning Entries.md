@@ -69,8 +69,8 @@ to the children when they go on such gaming platforms.</p>
 <td rowspan="1" colspan="1">
 <h4><strong><u>Team 8</u></strong></h4>
 <p></p>
-<h4>BUKIT VIEW SEC SCHOOL  </h4>
-<h4>YIO CHU KANG SEC SCHOOL  </h4>
+<h4>BUKIT VIEW SEC SCHOOL</h4>
+<h4>YIO CHU KANG SEC SCHOOL</h4>
 <h4>MARYMOUNT CONVENT SCHOOL</h4>
 </td>
 </tr>
@@ -132,21 +132,55 @@ it’s too good to be true, it probably is.”</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="Bronze Award" src="/images/Bronze2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<h4><strong><u>Team 9</u></strong></h4>
+<h4></h4>
+<h4>EDGEFIELD SECONDARY SCHOOL</h4>
+<h4>ANCHOR GREEN PRIMARY SCHOOL</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Synopsis: The video shows that you can’t trust anybody you see online
+because anybody can pretend to be someone they are not on the internet.
+In this video, it shows a teenage girl who befriends somebody she don’t
+know online and plans to meet her after realising that they are in the
+same school. The online friend she befriended was actually a stalker who
+planned to kidnap her. The key message that we want to get across is to
+be safe online and to not trust people online that we do not know.</p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
 <iframe height="253.13" width="450" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/268scEdtxYw?si=t9sNq3hvhquRM8F4"></iframe>
 </div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Team # <br>Clementi Secondary School Anderson Primary School</strong>
-</p>
 <p></p>
-<p>Sypnosis: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-id est laborum.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -156,9 +190,6 @@ id est laborum.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="Bronze Award" src="/images/Bronze2.jpg">
-</div>
 <p><strong>Team # <br>Clementi Secondary School Anderson Primary School</strong>
 </p>
 <p></p>
