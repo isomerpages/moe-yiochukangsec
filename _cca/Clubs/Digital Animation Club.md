@@ -8,19 +8,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/D1.png">
 </div>
-<ul>
-<li>
-<p>&nbsp;&nbsp;</p>
-</li>
-<li>
 <p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Training&nbsp;Schedule</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p><strong>The Digital Animation Club</strong> 
-<br>
-</p>
+<h3>Training&nbsp;Schedule</h3>
+<hr>
+<h4>The Digital Animation Club <br></h4>
 <table>
 <tbody>
 <tr>
@@ -56,67 +47,28 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<hr>
+<h4>Events/Competitions&nbsp;&amp;&nbsp;Our&nbsp;Proudest&nbsp;Moments</h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">2022</div>
+<div class="isomer-card-description">Copyright School Challenge Video Competition N.E.mation!</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">2019</div>
+<div class="isomer-card-description">PacificLight’s Crea8 Sustainability Animation Competition (1ST RUNNER-UP
+Upper Secondary) PacificLight’s Crea8 Sustainability Animation Competition
+(3RD PLACE Lower Secondary)</div>
+</div>
+</div>
+</div>
+<p>&nbsp;&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
-</li>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Events/Competitions&nbsp;&amp;&nbsp;Our&nbsp;Proudest&nbsp;Moments</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>2022</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Copyright School Challenge Video Competition</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>N.E.mation!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>A Very Special Walk</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>PacificLight’s Crea8 Sustainability Animation Competition (1ST RUNNER-UP
-Upper Secondary)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>PacificLight’s Crea8 Sustainability Animation Competition (3RD PLACE Lower
-Secondary)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-</li>
+<ul>
 <li>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Gallery</p>
