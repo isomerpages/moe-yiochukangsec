@@ -17,15 +17,8 @@ and pre-empt the opponent's moves is essential. It also requires determination,
 perseverance and discipline in players to master the different skills.
 Our players train together with a common set of beliefs as they strive
 to bring YCKSS Badminton to greater heights.</p>
-<ul>
-<li>
-<p>&nbsp;&nbsp;</p>
-</li>
-<li>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>Training&nbsp;Schedule</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<hr>
+<h3>Training&nbsp;Schedule</h3>
 <table>
 <tbody>
 <tr>
@@ -114,7 +107,6 @@ to bring YCKSS Badminton to greater heights.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>Sec 4 Captain Girls: Nuryn' Insyierah Binte Nur'asri</p>
 <p>Sec 4 Vice-captain Girls: Angelyn Low Shi Ning</p>
 <p>Sec 4 Captain Boys: Javier Tay Jun Lok</p>
@@ -127,7 +119,7 @@ to bring YCKSS Badminton to greater heights.</p>
 <p>Sec 2 Vice-captain Girls: pending appointment</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
-</li>
+<ul>
 <li>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Proudest&nbsp;Moments</p>
