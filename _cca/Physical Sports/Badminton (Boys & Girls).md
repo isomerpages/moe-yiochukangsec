@@ -107,54 +107,57 @@ to bring YCKSS Badminton to greater heights.</p>
 </tr>
 </tbody>
 </table>
-<p>Sec 4 Captain Girls: Nuryn' Insyierah Binte Nur'asri</p>
-<p>Sec 4 Vice-captain Girls: Angelyn Low Shi Ning</p>
-<p>Sec 4 Captain Boys: Javier Tay Jun Lok</p>
-<p>Sec 4 Vice-captain Boys: Bryan Neo Jia En</p>
-<p>Sec 3 Captain Girls: &nbsp;Seah Yu Xuan, Charlyn</p>
-<p>Sec 3 Vice-captain Girls: Chua Yu Hwee, Tricia</p>
-<p>Sec 3 Captain Boys: Ryan Eng Rui Young</p>
-<p>Sec 3 Vice-captain Boys: Nyan Lin Myat</p>
-<p>Sec 2 Captain Girls: pending appointment</p>
-<p>Sec 2 Vice-captain Girls: pending appointment</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<ul>
+<p>Sec 4 Captain Girls: Nuryn' Insyierah Binte Nur'asri
+<br>Sec 4 Vice-captain Girls: Angelyn Low Shi Ning
+<br>Sec 4 Captain Boys: Javier Tay Jun Lok
+<br>Sec 4 Vice-captain Boys: Bryan Neo Jia En
+<br>Sec 3 Captain Girls: &nbsp;Seah Yu Xuan, Charlyn
+<br>Sec 3 Vice-captain Girls: Chua Yu Hwee, Tricia
+<br>Sec 3 Captain Boys: Ryan Eng Rui Young
+<br>Sec 3 Vice-captain Boys: Nyan Lin Myat
+<br>Sec 2 Captain Girls: pending appointment
+<br>Sec 2 Vice-captain Girls: pending appointment</p>
+<hr>
+<h4>Proudest&nbsp;Moments</h4>
+<blockquote>
+<p>2019</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Proudest&nbsp;Moments</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p><strong>2019</strong>&nbsp;'C' Division Girls Top 8 North Zone Badminton
-Championships
-<br>
-</p>
-<p><strong>2018</strong>&nbsp;'B' Division Girls Top 8 North Zone Badminton
-Championships
-<br>
-</p>
-<p><strong>2017</strong>&nbsp;'B' Division Girl’s First runners-up&nbsp;South
-Zone Badminton Championships
-<br>
-<br><strong>2016</strong>&nbsp;4th position South Zone Badminton Championships</p>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
+<p>'C' Division Girls Top 8 North Zone Badminton Championships</p>
 </li>
+</ul>
+</blockquote>
+<blockquote>
+<p>2018</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Events/Competitions</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
+<p>'B' Division Girls Top 8 North Zone Badminton Championships</p>
+</li>
+</ul>
+</blockquote>
+<blockquote>
+<p>&nbsp; 2017</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>'B' Division Girl’s First runners-up&nbsp;South Zone Badminton Championships</p>
+</li>
+</ul>
+</blockquote>
+<blockquote>
+<p>2016</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>4th position South Zone Badminton Championships&nbsp;&nbsp;</p>
+</li>
+</ul>
+</blockquote>
+<hr>
+<h4>Events/Competitions</h4>
 <p>2020 - Nil
 <br>2019 - 'C’ Division Girls Top 8 North Zone Badminton Championships
 <br>2018 -&nbsp;'B' Division Girls Top 8 North Zone Badminton Championships</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-</li>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Gallery</p>
+<hr>
+<h4>Gallery</h4>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
 <p></p>
@@ -168,6 +171,4 @@ Zone Badminton Championships
 <p></p>
 <p>&nbsp;&nbsp;</p>
 <p></p>
-</li>
-</ul>
 <p></p>
