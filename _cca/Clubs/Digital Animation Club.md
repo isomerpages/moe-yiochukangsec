@@ -3,121 +3,136 @@ title: Digital Animation Club
 permalink: /cca/Clubs/Digital-Animation-Club/
 description: ""
 third_nav_title: Clubs
+variant: tiptap
 ---
-![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/D1.png)
-
-
-<ul class="jekyllcodex_accordion">
-
-  <li>
-
-    <input type="checkbox" id="accordion1">
-
-    <label for="accordion1">Training Schedule</label>
-
-    <div>
-
-<p> <b>The Digital Animation Club</b><br>
-			<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ozs2{background-color:#F1F1F1;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-70mf{background-color:#FFF;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-jikt{background-color:#F1F1F1;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-70mf">Teachers-in-charge</th>
-    <th class="tg-70mf">Committee Members</th>
-    <th class="tg-70mf">Training Information</th>
-  </tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/D1.png">
+</div>
+<ul>
+<li>
+<p>&nbsp;&nbsp;</p>
+</li>
+<li>
+<p></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Training&nbsp;Schedule</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p></p>
+<p><strong>The Digital Animation Club</strong>
+<br>
+</p>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-jikt">Mdm Audrey Chye (ext 201)<br>Mdm Chong Nyuk Foong (ext 202)<br>Ms Tan Ting (ext 173)<br></td>
-    <td class="tg-ozs2"><span style="font-weight:bolder">President</span><br>Lyndsey Chan<br><span style="font-weight:bolder">Vice-President</span><br>Wang Yihan</td>
-    <td class="tg-ozs2"><span style="font-weight:bolder">Every Tuesday &amp; Thursday</span><br>3:15pm to 5:15pm<br><span style="font-weight:bolder">Venue :</span> Animation Lab</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers-in-charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Committee Members</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Training Information</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Audrey Chye (Ext 140)
+<br>Mdm Chong Nyuk Foong (Ext 135)
+<br>Mr Christopher Tan&nbsp; (Ext 172)
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>President</strong>
+<br>Zaven Pang Xing Yu
+<br><strong>Vice-President</strong>
+<br>Foo Su Fang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Monday</strong> (Lower secondary) 3.15pm to 5.45pm</p>
+<p><strong>Tuesday</strong> (Upper secondary) 3.15pm to 5.45 pm</p>
+<p><strong>Venue :</strong> Digital Learning Lab 1</p>
+</td>
+</tr>
 </tbody>
 </table>
-			</p>
-
-    </div>
-
+<p></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p></p>
 </li>
-	<li>
-
-    <input type="checkbox" id="accordion2">
-
-    <label for="accordion2">Events/Competitions & Our Proudest Moments</label>
-
-    <div>
-
-    <p> <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0lax">2022</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">Copyright School Challenge Video Competition</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">N.E.mation!</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">2021</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">A Very Special Walk</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">2019</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">PacificLight’s Crea8 Sustainability Animation Competition (1ST RUNNER-UP Upper Secondary)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">PacificLight’s Crea8 Sustainability Animation Competition (3RD PLACE Lower Secondary)</td>
-  </tr>
-</tbody>
-</table> </p>
-
-    </div>
-
-</li>
-	
 <li>
-
-    <input type="checkbox" id="accordion3">
-
-    <label for="accordion3">Gallery</label>
-
-    <div>
-
-<p>   
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/D2.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/D3.png">
-			</p>
-
-    </div>
-
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Events/Competitions&nbsp;&amp;&nbsp;Our&nbsp;Proudest&nbsp;Moments</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2022</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Copyright School Challenge Video Competition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>N.E.mation!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A Very Special Walk</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PacificLight’s Crea8 Sustainability Animation Competition (1ST RUNNER-UP
+Upper Secondary)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PacificLight’s Crea8 Sustainability Animation Competition (3RD PLACE Lower
+Secondary)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p></p>
 </li>
-	
-	
-
-	
+<li>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Gallery</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:100%;height:50%" height="auto" width="100%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/D2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:100%;height:50%" height="auto" width="100%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/D3.png">
+</div>
+<p></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p></p>
+</li>
 </ul>
+<p></p>
