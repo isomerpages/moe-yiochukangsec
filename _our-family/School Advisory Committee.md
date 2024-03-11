@@ -96,21 +96,18 @@ achieve excellence against all odds and challenges.</p>
 </div>
 <hr>
 <h3>Resilience&nbsp;Award&nbsp;2019</h3>
-<p>&nbsp;</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:100%;height:50%" height="auto" width="100%" src="/images/Our%20Family/School%20Advisory%20Committee/Resilience%20Award%202019/R1.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:100%;height:50%" height="auto" width="100%" src="/images/Our%20Family/School%20Advisory%20Committee/Resilience%20Award%202019/R2.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:100%;height:50%" height="auto" width="100%" src="/images/Our%20Family/School%20Advisory%20Committee/Resilience%20Award%202019/R3.png">
 </div>
+<hr>
 <p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p></p>
 <p></p>
 <p></p>
