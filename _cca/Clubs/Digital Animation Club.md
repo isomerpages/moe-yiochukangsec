@@ -49,23 +49,30 @@ variant: tiptap
 </table>
 <hr>
 <h4>Events/Competitions&nbsp;&amp;&nbsp;Our&nbsp;Proudest&nbsp;Moments</h4>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">2022</div>
-<div class="isomer-card-description">Copyright School Challenge Video Competition N.E.mation!</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">2019</div>
-<div class="isomer-card-description">PacificLight’s Crea8 Sustainability Animation Competition (1ST RUNNER-UP
-Upper Secondary)\\n PacificLight’s Crea8 Sustainability Animation Competition
-(3RD PLACE Lower Secondary)</div>
-</div>
-</div>
-</div>
-<p>&nbsp;&nbsp;</p>
+<blockquote>
+<p>&nbsp;&nbsp;2022</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Copyright School Challenge Video Competition</p>
+</li>
+<li>
+<p>N.E.mation!</p>
+</li>
+</ul>
+</blockquote>
+<blockquote>
+<p>2019</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>PacificLight’s Crea8 Sustainability Animation Competition (1ST RUNNER-UP
+Upper Secondary)</p>
+</li>
+<li>
+<p>PacificLight’s Crea8 Sustainability Animation Competition (3RD PLACE Lower
+Secondary)</p>
+</li>
+</ul>
+</blockquote>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
 <ul>
