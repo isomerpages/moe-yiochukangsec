@@ -158,9 +158,6 @@ to bring YCKSS Badminton to greater heights.</p>
 <br>2018 -&nbsp;'B' Division Girls Top 8 North Zone Badminton Championships</p>
 <hr>
 <h4>Gallery</h4>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:100%;height:50%" height="auto" width="100%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Badminton%20(Boys%20&amp;%20Girls)/B2.png">
 </div>
