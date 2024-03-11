@@ -18,7 +18,7 @@ variant: tiptap
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Training&nbsp;Schedule</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
-<p><strong>The Digital Animation Club</strong>
+<p><strong>The Digital Animation Club</strong> 
 <br>
 </p>
 <table>
@@ -43,9 +43,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>President</strong>
+<p><strong>President</strong> 
 <br>Zaven Pang Xing Yu
-<br><strong>Vice-President</strong>
+<br><strong>Vice-President</strong> 
 <br>Foo Su Fang</p>
 </td>
 <td rowspan="1" colspan="1">
