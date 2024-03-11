@@ -94,14 +94,9 @@ achieve excellence against all odds and challenges.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/Our%20Family/School%20Advisory%20Committee/Resilience%20Award%202018/R3.png">
 </div>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<ul>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Resilience&nbsp;Award&nbsp;2019</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<hr>
+<h3>Resilience&nbsp;Award&nbsp;2019</h3>
+<p>&nbsp;</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -118,6 +113,4 @@ achieve excellence against all odds and challenges.</p>
 <p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
-</li>
-</ul>
 <p></p>
