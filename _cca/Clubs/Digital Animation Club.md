@@ -60,7 +60,7 @@ variant: tiptap
 <div class="isomer-card-body">
 <div class="isomer-card-title">2019</div>
 <div class="isomer-card-description">PacificLight’s Crea8 Sustainability Animation Competition (1ST RUNNER-UP
-Upper Secondary) PacificLight’s Crea8 Sustainability Animation Competition
+Upper Secondary)\\n PacificLight’s Crea8 Sustainability Animation Competition
 (3RD PLACE Lower Secondary)</div>
 </div>
 </div>
