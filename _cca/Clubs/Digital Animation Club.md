@@ -73,17 +73,10 @@ Secondary)</p>
 </li>
 </ul>
 </blockquote>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<ul>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Gallery</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p></p>
+<hr>
+<h4>Gallery</h4>
 <div class="isomer-image-wrapper">
-<img style="width:100%;height:50%" height="auto" width="100%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/D2.png">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/D2.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -92,6 +85,4 @@ Secondary)</p>
 <p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
-</li>
-</ul>
 <p></p>
