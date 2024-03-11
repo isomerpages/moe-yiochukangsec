@@ -3,130 +3,136 @@ title: English Drama
 permalink: /cca/Performing-Arts/English-Drama/
 description: ""
 third_nav_title: Performing Arts
+variant: tiptap
 ---
-![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/English%20Drama/E1.jpg)
-In the English Drama Club, we teach students that drama is more than just acting, and every process in staging a production makes up the craft. Students will learn skills of devising, performance, stage management, prop marking, make-up and managing light and sound as well as an appreciation for arts and culture. The experiences gained, values learnt and friendship made will carry with the students even after graduation.
-
-
-<ul class="jekyllcodex_accordion">
-
-  <li>
-
-    <input type="checkbox" id="accordion1">
-
-    <label for="accordion1">Training Schedule</label>
-
-    <div>
-
-<p> <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig">TRAINING INFORMATION</th>
-  </tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/English%20Drama/E1.jpg">
+</div>
+<p>In the English Drama Club, we teach students that drama is more than just
+acting, and every process in staging a production makes up the craft. Students
+will learn skills of devising, performance, stage management, prop marking,
+make-up and managing light and sound as well as an appreciation for arts
+and culture. The experiences gained, values learnt and friendship made
+will carry with the students even after graduation.</p>
+<ul>
+<li>
+<p>&nbsp;&nbsp;</p>
+</li>
+<li>
+<p></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Training&nbsp;Schedule</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-0lax">Every Tuesday 3:15PM to 5:45PM</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Dance Studio 2 (Level 3) &amp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Heritage Gallery (Level 3)</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">TEACHERS IN-CHARGE</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Ms Jezreel Lau (OIC) (ext 135)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Chen Weiguo Jeremy (ext 145)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Mdm Nirmala Devi (ext 133)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Mdm Vidya (ext 200)</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers in-charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DAY</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>TIME</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>VENUE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jezreel Lau (OIC) (ext 135)</p>
+<p>Mdm Devi (ext 133)</p>
+<p>Ms Vidya (ext 135)</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:15-5:45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dance studio 2/Heritage Gallery</p>
+</td>
+</tr>
 </tbody>
 </table>
-			</p>
-
-    </div>
-
+<p></p>
+<p></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p></p>
 </li>
-	<li>
-
-    <input type="checkbox" id="accordion2">
-
-    <label for="accordion2">Proudest Moments</label>
-
-    <div>
-
-      <p> 2021 SYF Arts Presentation – Certificate of Accomplishment<br> 
-2019 SYF Arts Presentation – Certificate of Commendation<br>  
-2017 SYF Arts Presentation - Certificate of Distinction<br>  
-2015 SYF Arts Presentation - Certificate of Distinction<br>  
-2013 SYF Arts Presentation - Certificate of Distinction<br>  
-2011 SYF Central Judging (Drama) Bronze Award<br>  
-2009 SYF Central Judging (Drama) Gold Award<br>  
-2007 SYF Central Judging (Drama) Bronze Award<br>  
-2005 SYF Central Judging (Drama) Gold Award - Performed at The Esplanade during SYF Opening Ceremony<br>  
-2003 SYF Central Judging (Drama) Silver Award
-			</p>
-
-    </div>
-
-</li>
-	
 <li>
-
-    <input type="checkbox" id="accordion3">
-
-    <label for="accordion3">Events/Competitions</label>
-
-    <div>
-
-<p> Singapore Youth Festival Arts Presentation<br>  
-Speech Day<br>  
-Chinese New Year Celebrations<br>  
-National Day Celebrations
-			</p>
-
-    </div>
-
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Proudest&nbsp;Moments</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>2021 SYF Arts Presentation – Certificate of Accomplishment
+<br>2019 SYF Arts Presentation – Certificate of Accomplishment
+<br>
+<br>2017 SYF Arts Presentation - Certificate of Distinction
+<br>
+<br>2015 SYF Arts Presentation - Certificate of Distinction
+<br>
+<br>2013 SYF Arts Presentation - Certificate of Distinction
+<br>
+<br>2011 SYF Central Judging (Drama) Bronze Award
+<br>
+<br>2009 SYF Central Judging (Drama) Gold Award
+<br>
+<br>2007 SYF Central Judging (Drama) Bronze Award
+<br>
+<br>2005 SYF Central Judging (Drama) Gold Award - Performed at The Esplanade
+during SYF Opening Ceremony
+<br>
+<br>2003 SYF Central Judging (Drama) Silver Award</p>
+<p></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p></p>
 </li>
-	
 <li>
-
-    <input type="checkbox" id="accordion4">
-
-    <label for="accordion4">Gallery</label>
-
-    <div>
-
-<p> 
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/gSzsy84HO2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-	
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/English%20Drama/E2.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/English%20Drama/E3.png">
-			</p>
-
-  </div>
-
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Events/Competitions</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p></p>
+<p>Singapore Youth Festival Arts Presentation
+<br>Speech Day
+<br>Chinese New Year Celebrations
+<br>National Day Celebrations</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p></p>
 </li>
-	
-	
-
-	
+<li>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Gallery</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p></p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gSzsy84HO2k"></iframe>
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:100%;height:50%" height="auto" width="100%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/English%20Drama/E2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:100%;height:50%" height="auto" width="100%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/English%20Drama/E3.png">
+</div>
+<p></p>
+<p>&nbsp;&nbsp;</p>
+<p></p>
+</li>
 </ul>
+<p></p>
