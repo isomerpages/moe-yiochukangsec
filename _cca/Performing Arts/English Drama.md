@@ -14,15 +14,7 @@ will learn skills of devising, performance, stage management, prop marking,
 make-up and managing light and sound as well as an appreciation for arts
 and culture. The experiences gained, values learnt and friendship made
 will carry with the students even after graduation.</p>
-<ul>
-<li>
-<p>&nbsp;&nbsp;</p>
-</li>
-<li>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Training&nbsp;Schedule</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<h3>Training&nbsp;Schedule</h3>
 <table>
 <tbody>
 <tr>
@@ -65,14 +57,8 @@ will carry with the students even after graduation.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-</li>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Proudest&nbsp;Moments</p>
+<hr>
+<h4>Proudest&nbsp;Moments</h4>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -95,28 +81,16 @@ will carry with the students even after graduation.</p>
 during SYF Opening Ceremony
 <br>
 <br>2003 SYF Central Judging (Drama) Silver Award</p>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-</li>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Events/Competitions</p>
+<hr>
+<h4>Events/Competitions</h4>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
 <p>Singapore Youth Festival Arts Presentation
 <br>Speech Day
 <br>Chinese New Year Celebrations
 <br>National Day Celebrations</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-</li>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Gallery</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p></p>
+<hr>
+<h4>Gallery</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gSzsy84HO2k"></iframe>
 </div>
@@ -126,13 +100,10 @@ during SYF Opening Ceremony
 <div class="isomer-image-wrapper">
 <img style="width:100%;height:50%" height="auto" width="100%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/English%20Drama/E2.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:100%;height:50%" height="auto" width="100%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/English%20Drama/E3.png">
 </div>
 <p></p>
 <p>&nbsp;&nbsp;</p>
 <p></p>
-</li>
-</ul>
 <p></p>
