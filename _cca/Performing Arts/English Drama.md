@@ -59,32 +59,77 @@ will carry with the students even after graduation.</p>
 </table>
 <hr>
 <h4>Proudest&nbsp;Moments</h4>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>2021 SYF Arts Presentation – Certificate of Accomplishment
-<br>2019 SYF Arts Presentation – Certificate of Accomplishment
-<br>
-<br>2017 SYF Arts Presentation - Certificate of Distinction
-<br>
-<br>2015 SYF Arts Presentation - Certificate of Distinction
-<br>
-<br>2013 SYF Arts Presentation - Certificate of Distinction
-<br>
-<br>2011 SYF Central Judging (Drama) Bronze Award
-<br>
-<br>2009 SYF Central Judging (Drama) Gold Award
-<br>
-<br>2007 SYF Central Judging (Drama) Bronze Award
-<br>
-<br>2005 SYF Central Judging (Drama) Gold Award - Performed at The Esplanade
-during SYF Opening Ceremony
-<br>
-<br>2003 SYF Central Judging (Drama) Silver Award</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">2021</div>
+<div class="isomer-card-description">SYF Arts Presentation – Certificate of Accomplishment</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">2019</div>
+<div class="isomer-card-description">SYF Arts Presentation – Certificate of Accomplishment</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">2017</div>
+<div class="isomer-card-description">SYF Arts Presentation - Certificate of Distinction</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">2015</div>
+<div class="isomer-card-description">SYF Arts Presentation - Certificate of Distinction</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">2013</div>
+<div class="isomer-card-description">SYF Arts Presentation - Certificate of Distinction</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">2011</div>
+<div class="isomer-card-description">SYF Central Judging (Drama) Bronze Award</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">2009</div>
+<div class="isomer-card-description">SYF Central Judging (Drama) Gold Award</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">2007</div>
+<div class="isomer-card-description">SYF Central Judging (Drama) Bronze Award</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">2005</div>
+<div class="isomer-card-description">SYF Central Judging (Drama) Gold Award - Performed at The Esplanade during
+SYF Opening Ceremony</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">2003</div>
+<div class="isomer-card-description">SYF Central Judging (Drama) Silver Award</div>
+</div>
+</div>
+</div>
 <hr>
 <h4>Events/Competitions</h4>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
 <p>Singapore Youth Festival Arts Presentation
 <br>Speech Day
 <br>Chinese New Year Celebrations
