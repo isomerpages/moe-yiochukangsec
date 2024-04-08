@@ -8,9 +8,6 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: 2024 Sec 1 Parent Teacher Meeting Presentation Slides
-          description: Click Here
-          url: /our-family/parents-connect/2024-sec1-parents-teacher-meeting/
         - title: CALENDAR
           description: Click here
           url: https://sites.google.com/moe.edu.sg/2023-yckss-calendar
