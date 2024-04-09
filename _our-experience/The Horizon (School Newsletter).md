@@ -1,5 +1,5 @@
 ---
-title: The Horizon (Newsletter)
+title: The Horizon (School Newsletter)
 permalink: /our-experience/the-horizon-newsletter/
 description: ""
 image: /images/Our Experience/The Horizon

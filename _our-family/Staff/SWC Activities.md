@@ -25,21 +25,7 @@ To usher in the Year of the Dragon, all YCKSS staff convened in a calligraphy se
 ![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Slide4.png)
 ![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Slide5.png)
 
-### Title of Activity : Chinese New Year Celebrations
 
-Description of event :
-
-Staff from YCKSS celebrated Chinese New Year on January 31. Every department was decked out in their best festive colours. We welcome a new but better year, and wish all divine blessings, good health and prosperity this Tiger year! Huat ah!
-
-![School Leaders and School Management Committee, and English Department](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S1.png)
-
-![Mathematics Department &amp; Science Department](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S2.png)
-
-![Mother Tongue Department &amp; Humanities Department](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S3.png)
-
-![Design &amp; Enterprise &amp; Physical Education Department](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S4.png)
-
-![Executive &amp; Administrative Staff 1, Executive &amp; Administrative Staff 2 &amp; Student Support Team](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S5.png)
 
 ### Title of Activity : EAS Learning Day
 
@@ -71,33 +57,6 @@ It was a memorable day of bonding. There were 'wow' moments when staff finally c
 
 ![Pictures from 1st Sept 2021, The Joy of Learning](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S9.png)
 
-### Title of Activity : CNY Calligraphy session
-
-Description of event :
-
-To welcome the TIGER New Year and to encourage bonding among the staff, the SWC organized a CNY Calligraphy session for staff on the 13 January 2022, Thursday. About 40 staff participated in the session.
-
-Staff were diligently practising the strokes for "Hui Chun", attired in traditional costumes or red, orange and yellow-coloured clothing. They enjoyed themselves immensely. This joy was felt through the infectious laughter and friendly conversations within the YCKSS family.
-
-![HAPPY TIGER YEAR! 2022王寅年，祝您虎虎生威 如虎添翼.](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S10.png)
-
-![CNY2022 Epithet Presentation](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S12.png)
-
-![Gong Xi Gong Xi!](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S13.png)
-
-### Title of Activity : Chinese New Year Celebration - Lohei
-
-Description of event :
-
-Every year, the staff of YCKSS celebrate Chinese New Year with Lohei or 捞鱼生. This activity fosters bonding among the staff while letting all experience the vibrant traditions and culture of the Chinese.
-
-#### Quotes from participants
-
-![Quotes from participants](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S14.png)
-
-![Celebrating for a Good cause, and a multi-racial toss with durians](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S15.png)
-
-![Tossing for a good fortune ... So HUAT AH!](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S16.png)
 
 ### Title of Activity : Durian Feast
 
@@ -262,4 +221,3 @@ Description of event :
 Our teachers continue to improve their competencies even when the school term has ended. The Standard First-Aid Course + CPR + AED Course Online Theory lesson was held on 6 September 2021 and the Face to Face Practical session was held on 19 November 2021. The objective of the course is to ensure that all staff be trained in life saving skills.
 
 ![First Aid Course - 6 Sept 2021](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Intellectual/I5.png)
-
