@@ -1,11 +1,12 @@
 ---
-title: The Horizon Newsletter
-permalink: /the-horizon-newsletter/
+title: The Horizon Newsletter (ARCHIVED)
+permalink: /the-horizon-newsletter-archive/
 description: The Horizon is a twice-yearly newsletter that features events,
   reflections, and photographs of YCKSS students. Students can also be guest
   writers for the newsletter.
 image: /images/Our Experience/The Horizon (newsletter)/front page - yckss 2023
   sem 1 magazine_final.jpg
+variant: tiptap
 ---
 The Horizon is published twice a year, one for each semester. It features events big and small that students participate in. Students’ reflections of their learning and challenges are also documented. The photographs capture students in action and their joy in learning both in and out of school. Sometimes, the students are the guest writers of the articles. Don't miss out our issues each semester to be kept informed on what YCKSS students experience in school. You can also find this on our [YCKSS FACEBOOK PAGE](https://www.facebook.com/yiochukangsec).
 
