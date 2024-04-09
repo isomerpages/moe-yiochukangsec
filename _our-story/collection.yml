@@ -1,0 +1,23 @@
+collections:
+  our-story:
+    output: true
+    order:
+      - Principal's Message.md
+      - School Vision, Mission, Motto and Values.md
+      - School Logo.md
+      - School Song.md
+      - School Theme.md
+      - School Facilities.md
+      - The YCKSians.md
+      - Organisation Chart/Organisation Chart.md
+      - Organisation Chart/School Leaders.md
+      - Organisation Chart/Key Personnel.md
+      - Organisation Chart/Teaching Staff.md
+      - Organisation Chart/Non Teaching Staff.md
+      - Organisation Chart/.keep
+      - History.md
+      - Achievements/School.md
+      - Achievements/Alumni.md
+      - Achievements/.keep
+      - E Open House.md
+      - YCKSS 58th Speech & Prize Giving Day.md

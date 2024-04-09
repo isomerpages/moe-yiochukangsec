@@ -1,0 +1,23 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Clubs/Digital Animation Club.md
+      - Clubs/Media Club (Audio Visual, Photography & Videography).md
+      - Clubs/MARS Club (Mechatronics, Aeronautics and Robotics).md
+      - Clubs/.keep
+      - Performing Arts/Concert Band.md
+      - Performing Arts/Chinese Dance.md
+      - Performing Arts/Choir.md
+      - Performing Arts/English Drama.md
+      - Performing Arts/Indian Dance.md
+      - Performing Arts/Malay Dance.md
+      - Performing Arts/.keep
+      - Physical Sports/Badminton (Boys & Girls).md
+      - Physical Sports/Basketball (Boys).md
+      - Physical Sports/Floorball (Boys).md
+      - Physical Sports/Netball.md
+      - Physical Sports/.keep
+      - Uniformed Groups/NPCC.md
+      - Uniformed Groups/Red Cross Youth.md
+      - Uniformed Groups/.keep

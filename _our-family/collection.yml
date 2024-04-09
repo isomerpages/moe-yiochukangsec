@@ -1,0 +1,30 @@
+collections:
+  our-family:
+    output: true
+    order:
+      - Students/.keep
+      - Students/School Handbook 2024.md
+      - Students/Booklist.md
+      - Students/Financial Assistance.md
+      - Students/School Uniform.md
+      - Students/Class Timetable and Schedules.md
+      - Students/Assessment & Promotion.md
+      - Students/Assessment Information & Schedules.md
+      - Students/Students Code of Conduct.md
+      - Students/School Canteen.md
+      - Students/Direct School Admission.md
+      - Students/Useful Links.md
+      - Staff/Professional Development Activities.md
+      - Staff/SWC Activities.md
+      - Staff/Useful Links.md
+      - Staff/Organisation Chart.md
+      - Staff/.keep
+      - Parents Connect/.keep
+      - Parents Connect/Guidelines for Parents' Communication with School.md
+      - Parents Connect/Parents Connect.md
+      - Parents Connect/Principal's Letters to Parents.md
+      - Parents Connect/2024 Sec 1 Parents Teacher Meeting.md
+      - Parents Connect/2023 Sec 1 Parents Engagement Webinar.md
+      - School Advisory Committee.md
+      - Alumni.md
+      - Parents Gateway.md

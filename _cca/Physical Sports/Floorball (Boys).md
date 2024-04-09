@@ -1,0 +1,67 @@
+---
+title: Floorball (Boys)
+permalink: /cca/Physical-Sports/Floorball-Boys/
+description: ""
+third_nav_title: Physical Sports
+variant: markdown
+---
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Floorball%20(Boys)/F1.jpg)
+
+The Floorball CCA aims to foster strong bonds among team members and a competitive spirit. It teaches our students the fundamentals of the sport and also inculcates the values and belinoteefs behind the nature of the sport. Floorball is a fast paced sport encompassing skilful manoeuvres and athletic endurance. It requires determination and discipline in players to master their individual skills. As a team, we train together with commitment and enthusiasm to bring YCKSS Floorball to greater heights.
+
+
+### Training Schedule
+---
+
+| TRAINING INFORMATION                                                                   | TEACHERS IN-CHARGE                                                                        |
+| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| MONDAY, 3:15PM TO 5:45PM<br>ISH Level 2<br>WEDNESDAY, 3:15PM TO 5:45PM<br>Hall / BLK G | Mr Tan Thiam Boon<br> (ext 143)&nbsp;OIC<br>Ms Zhang Wen Jie (ext 217)<br>Mdm Connie Yeo (ext 124) |
+
+
+
+
+### Proudest Moments
+---
+#### 2023 - Storvretacupen Singapore 
+-	Zuriel Tan of Team Wondersticks was placed 2nd in the U16 category
+-	Afiqi Elriano of Team Ghetto IBK was placed 3rd in the U16 category.  He also joined Team Wondersticks in the U19 category &amp; was placed 3rd. 
+
+#### 2019
+- National B Division Bowl Championship – Champion (Team 1)
+- National B Division Bowl Championship – 3rd&nbsp;Runner Up (Team 2)
+
+### Events/Competitions
+---
+#### 2023
+- National ‘B’ and ‘C’ Division Floorball Championships
+- Sports Enrichment Programme : Inline Skating 
+
+#### 2022
+- National ‘B’ and ‘C’ Division Floorball Championships
+- Sports Enrichment Programme : Golf
+
+#### 2020
+- National 'B'-Division Floorball Championships
+
+#### 2019
+- National 'B' and 'C'-Division Floorball Championships
+
+**Active SG**
+- Singapore Floorball Association 'B'-Division Bowl Championship
+- Singapore Floorball Association National Age Group Championship
+- Singapore Floorball Association 'C'-Division Plate / Bowl Championship
+
+#### 2018
+- National 'B' and 'C'-Division Floorball Championships
+
+
+### Gallery
+---
+
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Floorball%20(Boys)/Floorball_boys_1.PNG)
+
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Floorball%20(Boys)/Floorball_boys_2.PNG)
+
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Floorball%20(Boys)/Floorball_Boys_3.PNG)
+
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Floorball%20(Boys)/Floorball_boys___Sports_Enrichment_Prog_1.PNG)

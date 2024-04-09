@@ -1,0 +1,8 @@
+collections:
+  sscwc:
+    output: true
+    order:
+      - Singapore Schools Cyber Wellness Challenge (SSCWC).md
+      - Primary School Registration.md
+      - Secondary School Registration.md
+      - 2023 Winning Entries.md
