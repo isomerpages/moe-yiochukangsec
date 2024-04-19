@@ -28,20 +28,32 @@ special talents in the following areas:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>* <a href="/cca/Clubs/Digital-Animation-Club/" rel="noopener noreferrer nofollow" target="_blank">Digital Animation</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/cca/Clubs/Digital-Animation-Club/" rel="noopener noreferrer nofollow" target="_blank">Digital Animation</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>* <a href="/cca/Clubs/Media-Club-Audio-Visual-Photography-Videography/" rel="noopener noreferrer nofollow" target="_blank">Media Club (Audio Visual, Photography &amp; Videography)</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/cca/Clubs/Media-Club-Audio-Visual-Photography-Videography/" rel="noopener noreferrer nofollow" target="_blank">Media Club (Audio Visual, Photography &amp; Videography)</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>* <a href="/cca/Clubs/MARS-CLUB-MECHATRONICS-AERONAUTICS-AND-ROBOTICS/" rel="noopener noreferrer nofollow" target="_blank">MARS Club (Mechatronics, Aeronautics and Robotics)</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/cca/Clubs/MARS-CLUB-MECHATRONICS-AERONAUTICS-AND-ROBOTICS/" rel="noopener noreferrer nofollow" target="_blank">MARS Club (Mechatronics, Aeronautics and Robotics)</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -68,38 +80,62 @@ special talents in the following areas:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>* <a href="/cca/Performing-Arts/Concert-Band/" rel="noopener noreferrer nofollow" target="_blank">Concert Band</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/cca/Performing-Arts/Concert-Band/" rel="noopener noreferrer nofollow" target="_blank">Concert Band</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>* <a href="/cca/Performing-Arts/Choir/" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/cca/Performing-Arts/Choir/" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>* <a href="/cca/Performing-Arts/English-Drama/" rel="noopener noreferrer nofollow" target="_blank">English Drama</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/cca/Performing-Arts/English-Drama/" rel="noopener noreferrer nofollow" target="_blank">English Drama</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>* <a href="/cca/Performing-Arts/Chinese-Dance/" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/cca/Performing-Arts/Chinese-Dance/" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>* <a href="/cca/Performing-Arts/Indian-Dance/" rel="noopener noreferrer nofollow" target="_blank">Indian Dance</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/cca/Performing-Arts/Indian-Dance/" rel="noopener noreferrer nofollow" target="_blank">Indian Dance</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>* <a href="/cca/Performing-Arts/Malay-Dance/" rel="noopener noreferrer nofollow" target="_blank">Malay Dance</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/cca/Performing-Arts/Malay-Dance/" rel="noopener noreferrer nofollow" target="_blank">Malay Dance</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -120,26 +156,42 @@ special talents in the following areas:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>* <a href="/cca/Physical-Sports/Badminton-Boys-Girls/" rel="noopener noreferrer nofollow" target="_blank">Badminton (Girls)</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/cca/Physical-Sports/Badminton-Boys-Girls/" rel="noopener noreferrer nofollow" target="_blank">Badminton (Girls)</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>* <a href="/cca/Physical-Sports/Basketball-Boys/" rel="noopener noreferrer nofollow" target="_blank">Basketball (Boys)</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/cca/Physical-Sports/Basketball-Boys/" rel="noopener noreferrer nofollow" target="_blank">Basketball (Boys)</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>* <a href="/cca/Physical-Sports/Floorball-Boys/" rel="noopener noreferrer nofollow" target="_blank">Floorball (Boys)</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/cca/Physical-Sports/Floorball-Boys/" rel="noopener noreferrer nofollow" target="_blank">Floorball (Boys)</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>* <a href="/cca/Physical-Sports/Netball/" rel="noopener noreferrer nofollow" target="_blank">Netball</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/cca/Physical-Sports/Netball/" rel="noopener noreferrer nofollow" target="_blank">Netball</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -159,14 +211,22 @@ special talents in the following areas:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>* <a href="/cca/Uniformed-Groups/NPCC/" rel="noopener noreferrer nofollow" target="_blank">National Police Cadet Corps</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/cca/Uniformed-Groups/NPCC/" rel="noopener noreferrer nofollow" target="_blank">National Police Cadet Corps</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>* <a href="/cca/Uniformed-Groups/Red-Cross-Youth/" rel="noopener noreferrer nofollow" target="_blank">Red Cross Youth</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/cca/Uniformed-Groups/Red-Cross-Youth/" rel="noopener noreferrer nofollow" target="_blank">Red Cross Youth</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -177,8 +237,10 @@ DSA talent areas application procedure.</p>
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
-<h4>2023 DSA-SEC Timeline</h4>
+<h4>2024 DSA-SEC Timeline</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/timeline2.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_DSA_SEC_timeline.png">
 </div>
+<p>Direct School Admission for secondary schools (DSA-Sec): <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+</p>
 <p></p>
