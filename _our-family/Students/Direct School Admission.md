@@ -18,7 +18,7 @@ related to the talent they are selected for from year 1 to 4.</p>
 <p>In DSA-Sec Exercise 2024, we are looking for promising Primary Six students
 or students not studying in MOE mainstream primary schools who demonstrate
 special talents in the following areas:</p>
-<h5><a href="/files/Students/Direct School Admission/2024_DIRECT_SCHOOL_ADMISSION___Clubs.pdf" rel="noopener noreferrer nofollow" target="_blank">Clubs</a></h5>
+<h5><a href="/files/Students/Direct School Admission/2024___2__DIRECT_SCHOOL_ADMISSION___Clubs.pdf" rel="noopener noreferrer nofollow" target="_blank">Clubs</a></h5>
 <table>
 <tbody>
 <tr>
@@ -70,7 +70,7 @@ special talents in the following areas:</p>
 </tr>
 </tbody>
 </table>
-<h5><a href="/files/Students/Direct School Admission/2024_DIRECT_SCHOOL_ADMISSION____Performing_Arts.pdf" rel="noopener noreferrer nofollow" target="_blank">Performing Arts</a></h5>
+<h5><a href="/files/Students/Direct School Admission/2024___3__DIRECT_SCHOOL_ADMISSION____Performing_Arts.pdf" rel="noopener noreferrer nofollow" target="_blank">Performing Arts</a></h5>
 <table>
 <tbody>
 <tr>
@@ -146,7 +146,7 @@ special talents in the following areas:</p>
 </tr>
 </tbody>
 </table>
-<h5><a href="/files/Students/Direct School Admission/2024_DIRECT_SCHOOL_ADMISSION___Sports.pdf" rel="noopener noreferrer nofollow" target="_blank">Sports</a></h5>
+<h5><a href="/files/Students/Direct School Admission/2024___4__DIRECT_SCHOOL_ADMISSION___Sports.pdf" rel="noopener noreferrer nofollow" target="_blank">Sports</a></h5>
 <table>
 <tbody>
 <tr>
@@ -201,7 +201,7 @@ special talents in the following areas:</p>
 </tr>
 </tbody>
 </table>
-<h5><a href="/files/Students/Direct School Admission/2024_DIRECT_SCHOOL_ADMISSION___UGs.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniformed Groups</a></h5>
+<h5><a href="/files/Students/Direct School Admission/2024___5__DIRECT_SCHOOL_ADMISSION___UGs.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniformed Groups</a></h5>
 <table>
 <tbody>
 <tr>
