@@ -238,8 +238,9 @@ the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
 <h4>2024 DSA-SEC Timeline</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_DSA_SEC_timeline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_DSA_SEC_timeline_v2.png">
 </div>
 <p>Direct School Admission for secondary schools (DSA-Sec): <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
