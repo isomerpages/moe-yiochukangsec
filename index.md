@@ -18,6 +18,7 @@ sections:
           description: Click here
           url: /Contact-us/
       background: /images/Homepage/YCKSS GIF Homepage.gif
+      variant: image
   - infopic:
       title: Cyber Wellness Challenge Winning Entries
       subtitle: Singapore schools
