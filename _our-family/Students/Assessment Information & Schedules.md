@@ -14,7 +14,7 @@ and level.</p>
 <h3><strong>Assessment Rules &amp; Regulations</strong></h3>
 <p><a href="/files/Students/Assessment Information Sche/NEW/YCKSS_Weighted_Assessment_Rules_and_Regulations.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Rules &amp; Regulations</a> (updated
 on 5 Feb 2024)</p>
-<p><strong>Weighted Assessment (2024 Term 2) </strong>(updated on 8 April
+<p><strong>Weighted Assessment (2024 Term 2) </strong>(updated on 24 April
 2024)</p>
 <table>
 <tbody>
@@ -56,7 +56,7 @@ on 5 Feb 2024)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Students/Assessment Information Sche/WA2 2024/Secondary_3_Weighted_Assessment_Schedule__Term_2__2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule &amp; Subject information</a>
+<p><a href="/files/Students/Assessment Information Sche/WA2 2024/Secondary_3_Weighted_Assessment_Schedule__Term_2__2024Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule &amp; Subject information</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -108,7 +108,7 @@ on 5 Feb 2024)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Students/Assessment Information Sche/NEW/Secondary_3_Weighted_Assessment_Schedule__Term_1__2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule &amp; Subject information</a>
+<p><a href="/files/Students/Assessment Information Sche/WA2 2024/Secondary_3_Weighted_Assessment_Schedule__Term_2__2024Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule &amp; Subject information</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
