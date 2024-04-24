@@ -17,7 +17,7 @@ sections:
         - title: CONTACT US
           description: Click here
           url: /Contact-us/
-      background: /images/Homepage/YCKSS GIF Homepage.gif
+      background: /images/Homepage/2024_YCKSS_Homepage_GIF.gif
       variant: image
   - infopic:
       title: Cyber Wellness Challenge Winning Entries
