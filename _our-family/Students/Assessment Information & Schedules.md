@@ -14,7 +14,7 @@ and level.</p>
 <h3><strong>Assessment Rules &amp; Regulations</strong></h3>
 <p><a href="/files/Students/Assessment Information Sche/NEW/YCKSS_Weighted_Assessment_Rules_and_Regulations.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Rules &amp; Regulations</a> (updated
 on 5 Feb 2024)</p>
-<p><strong>Weighted Assessment (2024 Term 2) </strong>(updated on 8 April
+<p><strong>Weighted Assessment (2024 Term 2) </strong>(updated on 24 April
 2024)</p>
 <table>
 <tbody>
