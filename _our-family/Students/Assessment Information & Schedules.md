@@ -108,7 +108,8 @@ on 5 Feb 2024)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Students/Assessment Information Sche/NEW/Secondary_3_Weighted_Assessment_Schedule__Term_1__2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule &amp; Subject information</a>
+<p><a href="/files/Students/Assessment Information Sche/WA2 2024/Secondary_3_Weighted_Assessment_Schedule__Term_2__2024Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">S</a>
+<a href="/files/Students/Assessment Information Sche/NEW/Secondary_3_Weighted_Assessment_Schedule__Term_1__2024.pdf" rel="noopener noreferrer nofollow" target="_blank">chedule &amp; Subject information</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
