@@ -13,6 +13,23 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 
 ## SOCIAL
 
+### Title of Activity:  Embracing the Spirit of Hari Raya
+
+Description of event :
+
+Hari Raya festivities are synonymous with an exquisite array of culinary delights. It was no exception this year, with the primary aim of fostering YCKSS familial ties. On 19 April, as the aroma of tantalising lunch filled the air, it set the perfect backdrop for colleagues to engage in hearty conversations amidst their busy lives.
+
+Gathered in the cozy comfort of the Dance Studio 2, we revelled in the light-hearted stories steeped in history and practices of Muslims. While it culminated in quizzes that challenged our knowledge and wit, the winners brought home some mementos that served as vivid reminders of the generosity and inclusivity embedded within the Muslim culture.
+
+![](/images/Our%20Family/Staff/SWC%20Activities/Social/Hari_Raya_2024_SWC_Slide1.png)
+
+![](/images/Our%20Family/Staff/SWC%20Activities/Social/Hari_Raya_2024_SWC_Slide2.png)
+
+![](/images/Our%20Family/Staff/SWC%20Activities/Social/Hari_Raya_2024_SWC_Slide3.png)
+
+![](/images/Our%20Family/Staff/SWC%20Activities/Social/Hari_Raya_2024_SWC_Slide4.png)
+
+
 ### Title of Activity : Chinese New Year Celebrations 2024
 
 Description of event :
