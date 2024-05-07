@@ -210,7 +210,7 @@ special talents in the following areas:</p>
 </tr>
 </tbody>
 </table>
-<h5><a href="/files/Students/Direct School Admission/5__DIRECT_SCHOOL_ADMISSION___UGs__Updated_7_May_.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniformed Groups</a></h5>
+<h5><a href="/files/Students/Direct School Admission/5__DIRECT_SCHOOL_ADMISSION___UGs__002___Updated_7_May_.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniformed Groups</a></h5>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
