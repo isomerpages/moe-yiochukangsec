@@ -18,8 +18,11 @@ related to the talent they are selected for from year 1 to 4.</p>
 <p>In DSA-Sec Exercise 2024, we are looking for promising Primary Six students
 or students not studying in MOE mainstream primary schools who demonstrate
 special talents in the following areas:</p>
-<h5><a href="/files/Students/Direct School Admission/2__DIRECT_SCHOOL_ADMISSION___Clubs_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Clubs</a></h5>
-<table>
+<h5><a href="/files/Students/Direct School Admission/2__DIRECT_SCHOOL_ADMISSION___Clubs__Updated_7_May_.pdf" rel="noopener noreferrer nofollow" target="_blank">Clubs</a></h5>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -70,8 +73,11 @@ special talents in the following areas:</p>
 </tr>
 </tbody>
 </table>
-<h5><a href="/files/Students/Direct School Admission/3__DIRECT_SCHOOL_ADMISSION____Performing_Arts_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Performing Arts</a></h5>
-<table>
+<h5><a href="/files/Students/Direct School Admission/3__DIRECT_SCHOOL_ADMISSION____Performing_Arts__Updated_7_May_.pdf" rel="noopener noreferrer nofollow" target="_blank">Performing Arts</a></h5>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -146,8 +152,11 @@ special talents in the following areas:</p>
 </tr>
 </tbody>
 </table>
-<h5><a href="/files/Students/Direct School Admission/4__DIRECT_SCHOOL_ADMISSION___Sports_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sports</a></h5>
-<table>
+<h5><a href="/files/Students/Direct School Admission/4__DIRECT_SCHOOL_ADMISSION___Sports__Updated_7_May_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sports</a></h5>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -201,8 +210,11 @@ special talents in the following areas:</p>
 </tr>
 </tbody>
 </table>
-<h5><a href="/files/Students/Direct School Admission/5__DIRECT_SCHOOL_ADMISSION___UGs_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniformed Groups</a></h5>
-<table>
+<h5><a href="/files/Students/Direct School Admission/5__DIRECT_SCHOOL_ADMISSION___UGs__Updated_7_May_.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniformed Groups</a></h5>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -238,10 +250,10 @@ the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
 <h4>2024 DSA-SEC Timeline</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_DSA_SEC_timeline_v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_timeline__Updated_7_May_2024_.png">
 </div>
-<p>Direct School Admission for secondary schools (DSA-Sec): <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+<p>Direct School Admission for Secondary Schools Portal (DSA-Sec Portal):
+<a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
 <p></p>
