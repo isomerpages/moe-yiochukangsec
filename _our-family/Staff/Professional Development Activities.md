@@ -8,6 +8,7 @@ variant: markdown
 ##### YCKSS nurtures a growth mind set in our staff, as well as advance our collective capacity by sharpening the professional knowledge and technical competencies of our varied roles. Professional development sessions improve and increase the range of opportunities for teachers to develop their professional capabilities.
 
 ---
+## STAFF RETREAT 2024
 
 ![Staff of Yio Chu Kang Secondary School were at Changi Jewel for our annual Staff Retreat](/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/Staff_Retreat_2024_Banner.jpg) <span style="color: grey; line-height: 0.8;">
 <small>_Staff of Yio Chu Kang Secondary School were at Changi Jewel for our annual Staff Retreat on **28 May 2024**._</small></span>
