@@ -39,7 +39,7 @@ We continue to celebrate and affirm the work done by our Professional Learning T
 #####  **Quotes from participants:**
 ![](/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P4.png)
 
-**Our Allied Educators sharing their knowledge with the staff:**
+##### **Our Allied Educators sharing their knowledge with the staff:**
 ![](/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P5.png)
 
 ---
