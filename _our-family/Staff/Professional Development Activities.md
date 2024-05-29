@@ -20,9 +20,7 @@ In teams, our staff embarked on the **Changi Airport and Jewel Quest** to uncove
   <p style="position: absolute; top: 0; left: 0; right: 30%; text-align: left;">The experience not only allowed our staff to acquire skills in effective teamwork and problem-solving, but also to build rapport and bond as Team YCKSS!.</p>
 </div>
 
-The experience not only allowed our staff to acquire skills in effective teamwork and problem-solving, but also to build rapport and bond as Team YCKSS!
-	
-![](/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/Staff_Retreat2024_Rw01L_shade.jpg)
+
 
 ---
 
