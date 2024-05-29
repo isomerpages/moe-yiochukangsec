@@ -7,15 +7,16 @@ variant: markdown
 ---
 ##### YCKSS nurtures a growth mind set in our staff, as well as advance our collective capacity by sharpening the professional knowledge and technical competencies of our varied roles. Professional development sessions improve and increase the range of opportunities for teachers to develop their professional capabilities.
 
+---
 
 ![Staff of Yio Chu Kang Secondary School were at Changi Jewel for our annual Staff Retreat](/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/Staff_Retreat_2024_Banner.jpg) <span style="color: grey; line-height: 0.8;">
 <small>_Staff of Yio Chu Kang Secondary School were at Changi Jewel for our annual Staff Retreat on **28 May 2024**._</small></span>
-
 
 In teams, our staff embarked on the **Changi Airport and Jewel Quest** to uncover clues and conquer challenges across Jewel and the Changi Experience Studio. While racing one another through the quest, we discovered fun facts about Changi Airport, and gained a deeper understanding of the role Changi Airport plays in Singapore's economic development and how it continues to redefine travel and maintains its status as one of the world's best airports.
 
 The experience not only allowed our staff to acquire skills in effective teamwork and problem-solving, but also to build rapport and bond as Team YCKSS!
 	
+![](/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/Staff_Retreat2024_Rw01L_shade.jpg)
 
 
 
