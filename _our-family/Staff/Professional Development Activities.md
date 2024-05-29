@@ -32,16 +32,19 @@ We continue to celebrate and affirm the work done by our Professional Learning T
 ![](/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P2.png)
 ![](/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P3.png)
 
+---
+
 ## Supporting Students with Special Needs (SEN)
 
-
-&gt; #####  **Quotes from participants:**
+#####  **Quotes from participants:**
 ![](/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P4.png)
 
 **Our Allied Educators sharing their knowledge with the staff:**
 ![](/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P5.png)
 
-#### **Preparing for National Digital Literacy Programme (NDLP)**
+---
+
+## Preparing for National Digital Literacy Programme (NDLP)
 
 
 Our teachers went through a series of workshops conducted by Apple Education Specialists to prepare for the roll out of the devices to the students.
@@ -49,7 +52,9 @@ Our teachers went through a series of workshops conducted by Apple Education Spe
 ![](/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P6.png)
 ![](/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P7.png)
 
-#### **Professional Sharing (External)**
+---
+
+## Professional Sharing (External)
 
 
 YCKSS&nbsp;ensures the transfer of professional learning through a cycle of application and reflection refinement.&nbsp;We also develop the capacity of staff through external sharing at cluster, national and international platforms.
