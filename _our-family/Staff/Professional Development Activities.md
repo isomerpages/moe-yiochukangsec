@@ -18,7 +18,7 @@ The experience not only allowed our staff to acquire skills in effective teamwor
 	
 ![](/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/Staff_Retreat2024_Rw01L_shade.jpg)
 
-
+---
 
 
 ## Celebration of Learning
@@ -31,11 +31,12 @@ We continue to celebrate and affirm the work done by our Professional Learning T
 ![](/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P2.png)
 ![](/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P3.png)
 
-#### **Supporting Students with Special Needs (SEN)**
+## Supporting Students with Special Needs (SEN)
 
 
-**Quotes from participants:**
+&gt; #####  **Quotes from participants:**
 ![](/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P4.png)
+
 **Our Allied Educators sharing their knowledge with the staff:**
 ![](/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P5.png)
 
