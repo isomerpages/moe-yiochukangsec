@@ -14,7 +14,7 @@ In teams, our staff embarked on the **Changi Airport and Jewel Quest** to uncove
 
 The experience not only allowed our staff to acquire skills in effective teamwork and problem-solving, but also to build rapport and bond as Team YCKSS!
 
-![Staff of Yio Chau Kang Secondary School Group photo after the Staff Retreat](/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/Staff_Retreat2024_Rw01L_shade.jpg)
+
 
 
 #### **Celebration of Learning**
