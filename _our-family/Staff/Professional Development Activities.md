@@ -3,8 +3,20 @@ title: Professional Development Activities
 permalink: /our-family/Staff/Professional-Development-Activities/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 **YCKSS nurtures a growth mind set in our staff, as well as advance our collective capacity by sharpening the professional knowledge and technical competencies of our varied roles. Professional development sessions improve and increase the range of opportunities for teachers to develop their professional capabilities.**
+
+![Staff of Yio Chau Kang Secondary School Group photo after the Staff Retreat](/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/Staff_Retreat_2024_Banner.jpg)
+
+Staff of Yio Chu Kang Secondary School were at Changi Jewel for our annual Staff Retreat on 28 May 2024.
+
+In teams, our staff embarked on the Changi Airport and Jewel Quest to uncover clues and conquer challenges across Jewel and the Changi Experience Studio. While racing one another through the quest, we discovered fun facts about Changi Airport, and gained a deeper understanding of the role Changi Airport plays in Singapore's economic development and how it continues to redefine travel and maintains its status as one of the world's best airports.
+
+The experience not only allowed our staff to acquire skills in effective teamwork and problem-solving, but also to build rapport and bond as Team YCKSS!
+
+![Staff of Yio Chau Kang Secondary School Group photo after the Staff Retreat](/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/Staff_Retreat2024_Rw01L_shade.jpg)
+
 
 #### **Celebration of Learning**
 
@@ -35,17 +47,10 @@ Our teachers went through a series of workshops conducted by Apple Education Spe
 #### **Professional Sharing (External)**
 
 
-YCKSS ensures the transfer of professional learning through a cycle of application and reflection refinement. We also develop the capacity of staff through external sharing at cluster, national and international platforms.  
+YCKSS ensures the transfer of professional learning through a cycle of application and reflection refinement. We also develop the capacity of staff through external sharing at cluster, national and international platforms.
 
 Our teacher's reflection:
 ![](/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P8.png)
 
 ![](/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P9.png)
 ![](/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P10.png)
-
-
-
-
-
-
-
