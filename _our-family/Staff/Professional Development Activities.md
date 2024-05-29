@@ -10,7 +10,7 @@ variant: markdown
 ---
 ## Staff Retreat 2024
 
-![Staff of Yio Chu Kang Secondary School were at Changi Jewel for our annual Staff Retreat](/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/Staff_Retreat_2024_Banner.jpg) <span style="color: grey; line-height: 0.8;">
+![Staff of Yio Chu Kang Secondary School were at Changi Jewel for our annual Staff Retreat](/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/Staff_Retreat_2024_Banner.jpg) <span style="color: grey;">
 <small>_Staff of Yio Chu Kang Secondary School were at Changi Jewel for our annual Staff Retreat on **28 May 2024**._</small></span>
 
 In teams, our staff embarked on the **Changi Airport and Jewel Quest** to uncover clues and conquer challenges across Jewel and the Changi Experience Studio. While racing one another through the quest, we discovered fun facts about Changi Airport, and gained a deeper understanding of the role Changi Airport plays in Singapore's economic development and how it continues to redefine travel and maintains its status as one of the world's best airports.
