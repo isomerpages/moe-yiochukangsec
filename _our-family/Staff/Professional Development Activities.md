@@ -17,7 +17,7 @@ In teams, our staff embarked on the **Changi Airport and Jewel Quest** to uncove
 
 <div style="position: relative; width: 100%; height: 400px; align-items: top">
   <img style="width: 100%; height: auto; object-fit: cover;" alt="Background Image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/Staff_Retreat2024_Rw01L_shade.jpg">
-  <p style="position: absolute; top: 0; right: 10em; text-align: left;">The experience not only allowed our staff to acquire skills in effective teamwork and problem-solving, but also to build rapport and bond as Team YCKSS!.</p>
+  <p style="position: absolute; top: 0; left: 0; right: 25%; text-align: left;">The experience not only allowed our staff to acquire skills in effective teamwork and problem-solving, but also to build rapport and bond as Team YCKSS!.</p>
 </div>
 
 The experience not only allowed our staff to acquire skills in effective teamwork and problem-solving, but also to build rapport and bond as Team YCKSS!
