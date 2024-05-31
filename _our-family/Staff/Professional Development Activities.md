@@ -16,7 +16,9 @@ Staff of Yio Chu Kang Secondary School were at Changi Jewel for our annual Staff
 	
 In teams, our staff embarked on the **Changi Airport and Jewel Quest** to uncover clues and conquer challenges across Jewel and the Changi Experience Studio. While racing one another through the quest, we discovered fun facts about Changi Airport, and gained a deeper understanding of the role Changi Airport plays in Singapore's economic development and how it continues to redefine travel and maintains its status as one of the world's best airports.
 
-The experience not only allowed our staff to acquire skills in effective teamwork and problem-solving, but also to build rapport and bond as Team YCKSS!.
+The experience not only allowed our staff to acquire skills in effective teamwork and problem-solving, but also to build rapport and bond as Team YCKSS!
+
+
 
 <div style="position: relative; width: 100%; height: auto; align-items: top">
   <img style="width: 100%; height: 100%; object-fit: cover;" alt="Background Image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/Staff_Retreat2024_Rw01L_shade.jpg">
