@@ -5,7 +5,9 @@ description: ""
 variant: markdown
 ---
 #### NEW TEST 20240604 for Youtube
-[59th Speech Day and Prize Giving (Share)](https://youtu.be/iivxaYHg7HY?si=kY3OBWuvDnQLeUjl)
+[59th Speech Day and Prize Giving (Share)]
+
+<iframe src="https://www.youtube.com/watch?v=iivxaYHg7HY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" height="auto" width="100%"></iframe>
 
 {{video (https://youtu.be/iivxaYHg7HY?si=kY3OBWuvDnQLeUjl)}}
 
