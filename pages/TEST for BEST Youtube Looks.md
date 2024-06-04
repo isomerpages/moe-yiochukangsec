@@ -2,7 +2,15 @@
 title: TEST for BEST Youtube Looks
 permalink: /test-for-best-youtube-looks/
 description: ""
+variant: markdown
 ---
+#### NEW TEST 20240604 for Youtube
+[59th Speech Day and Prize Giving (Share)](https://youtu.be/iivxaYHg7HY?si=kY3OBWuvDnQLeUjl)
+
+{{video (https://youtu.be/iivxaYHg7HY?si=kY3OBWuvDnQLeUjl)}}
+
+[59th Speech Day and Prize Giving (from Address Bar)](https://www.youtube.com/watch?v=iivxaYHg7HY)
+
 #### HAS WIDTH &amp; HEIGHT, NO ASPECT RATIO
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YCKSS Journey Through 2020 Part 2" src="https://www.youtube.com/embed/mYRZgy5c-fs" height="315" width="560"></iframe>
