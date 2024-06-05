@@ -7,8 +7,8 @@ variant: markdown
 <details>
 <summary><h4>National Day Parade 2023 - Onward as One (NEW)</h4></summary>
 <div>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/HR4seEKIgT4?si=g7MVGax5QYGoVtYS" height="315" width="560"></iframe>
-<a target="_blank" title="Ifyoudon'tseetheembeddedvideoabove,clickonthelinktowatchitonYoutube." href="https://www.youtube.com/watch?v=HR4seEKIgT4&amp;t=3s"><em>National Day Parade (NDP 2023) Act 4 – Onward as One (Part 1)</em></a>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/HR4seEKIgT4?si=g7MVGax5QYGoVtYS" height="315" width="560"></iframe><p><em>National Day Parade (NDP 2023) Act 4 – Onward as One (Part 1)</em></p>
+
 <p>Yio Chu Kang Secondary School was invited to perform in 2023 National Day Parade (NDP) Act 4 – Onward as One with Kuo Chuan Presbyterian Secondary School, CHIJ St Theresa’s Convent and Nanyang Girls’ High School. Leading up to NDP, students engaged in a series of activities, from intense weekly training sessions in school, evening performances at the Padang to learning journey and bonding sessions with participants of the other 3 schools.</p> <img style="width:100%;height:auto; display: block;" alt="Group photo of students and teachers participating in NDP 2023 seated in a ballroom" src="/images/Our%20Experience/In%20Our%20Community/NDP/yckss_at_ndp_2023_02.jpeg">
         <p> Participating in the National Day Parade (NDP) as a school was an unforgettable and pride-filled experience. The atmosphere was electrifying as students from various schools came together, adorned in the red-white costume for on 9 August. As the students danced in unison to the NDP 23 Theme song, “Shine Your Light”, they signified the light that would lead us ahead into the future. The camaraderie and sense of unity among schools created a powerful sense of national identity and belonging.</p>
       <img alt="GroupphotoofstudentsandteachersonthestageaftertheNDP2023" src="/images/Our%20Experience/In%20Our%20Community/NDP/yckss_at_ndp_2023_01.jpeg">
@@ -50,6 +50,10 @@ details {
 		margin: 0.25rem auto;
   padding: 1em;
   background-color: #fff;
+	box-shadow: 0 0.25rem 1rem rgba(0, 0, 0, 0.1);
+	display: flex;
+  align-items: center;
+  justify-content: space-between;
 	}
 details summary {
   display: flex;
