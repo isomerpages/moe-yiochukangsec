@@ -9,7 +9,7 @@ variant: markdown
 
 <iframe src="https://www.youtube.com/watch?v=iivxaYHg7HY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" height="auto" width="100%"></iframe>
 
-{{video (https://youtu.be/iivxaYHg7HY?si=kY3OBWuvDnQLeUjl)}}
+<iframe src="https://youtu.be/iivxaYHg7HY?si=kY3OBWuvDnQLeUj" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" height="auto" width="100%"></iframe>
 
 [59th Speech Day and Prize Giving (from Address Bar)](https://www.youtube.com/watch?v=iivxaYHg7HY)
 
