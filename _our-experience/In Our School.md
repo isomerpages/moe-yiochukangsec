@@ -2,6 +2,7 @@
 title: In Our School
 permalink: /our-experience/In-Our-School/
 description: ""
+variant: markdown
 ---
 YCKSS provides students with a rich range of activities outside the classroom to expose, engage and enrich students’ experiences in the school. Here are some of the activities that students look forward to. To find out more details of each activity, please go to The Horizon (Our Newsletter) and also our [YCKSS Facebook](https://www.facebook.com/yiochukangsec) and [Instagram](https://www.instagram.com/yoloyio/) for the latest updates.
 
@@ -41,7 +42,7 @@ Showtime gives students an avenue for self-expression because of the talents eme
 <a target="_blank" title="If you don't see the embedded video above, click on the link to watch it on Youtube." href="https://www.youtube.com/watch?v=Rcnx3RyomJY"><em>YCKSS 58th Speech &amp; Prize-Giving Day</em></a></div>
 
 Our annual Speech and Prize Giving Day is a time to recognise the good work by the school and our graduating cohort of students. In addition, it is also a celebration of our students’ talents as all the performing arts groups such as the Dances, Choir, Band and Drama will put up an amazing concert that always leaves the audience asking for more.  
-<div style="box-shadow: 0px 0px 5px -3px rgba(0,0,0,0.1); border-radius: 5px; padding: 3px 0px 15px 0px; font-size: 1em; font-weight: 400; color: #555555;"><a title="... and read about the day we celebrate students' accomplishments, both in the classroom and on stage." target="_blank" href="/files/In%20Our%20School/2021%20Jan-May.pdf"><p>Download Issue 9 of The Horizon</p></a></div>
+<div style="box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1); border-radius: 15px;background-color: rgba(10, 10, 10, 0.05); padding: 5px 0px 5px 0px; margin: auto; line-height: 1.25em; text-align: center; font-size: 1em; font-weight: 400; color: #555555;"><a title="... and read about the day we celebrate students' accomplishments, both in the classroom and on stage." target="_blank" href="/files/In%20Our%20School/2021%20Jan-May.pdf"><p>Download Issue 9 of The Horizon</p></a></div>
 
 ---
 ### Singapore Youth Festival  
