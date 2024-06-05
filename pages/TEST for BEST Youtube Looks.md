@@ -15,7 +15,7 @@ variant: markdown
 
 #### HAS WIDTH &amp; HEIGHT, NO ASPECT RATIO
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YCKSS Journey Through 2020 Part 2" src="https://www.youtube.com/embed/mYRZgy5c-fs" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/mYRZgy5c-fs?si=s0IypGPVGi-Ncjnl" height="315" width="560"></iframe>
 
 -----
 
