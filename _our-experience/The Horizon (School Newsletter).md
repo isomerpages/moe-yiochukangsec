@@ -4,7 +4,7 @@ permalink: /our-experience/the-horizon-newsletter/
 description: ""
 image: /images/Our Experience/The Horizon
   (newsletter)/the_horizon_sem_2_2023_issue_10.jpg
-variant: tiptap
+variant: markdown
 ---
 <p>The Horizon is published twice a year, one for each semester. It features
 events big and small that students participate in. Students’ reflections
