@@ -5,6 +5,9 @@ description: ""
 third_nav_title: Students
 variant: markdown
 ---
+#### **2024 Semester 2**
+[2024 Semester 2 Timetable ](/files/Students/Class%20Timetable%20Schedules/2024_Sem_2_Timetable___Classes.pdf)<br>(updated on: 21 June 2024)<br>
+
 #### **2024 Semester 1**
 **[2024 Semester 1 Timetable (Revised)](/files/Students/Class%20Timetable%20Schedules/2024_Sem_1_Timetable___Classes__Revised___18_Mar_2024_.pdf)**<br>(updated on: 18March 2024)<br>
 
