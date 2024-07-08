@@ -3,85 +3,84 @@ title: Non Teaching Staff
 permalink: /our-story/Organisation-Chart/Non-teaching-Staff/
 description: ""
 third_nav_title: Organisation Chart
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
 
-  <li>
+&nbsp;&nbsp;<li>
 
-    <input type="checkbox" id="accordion1">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Student Support</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Student&nbsp;Support</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p>   
-<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Non%20Teaching%20Staff/Student%20Support/S1NEW.png">
+<img src="/images/Our%20Story/Organisation%20Chart/Non%20Teaching%20Staff/Student%20Support/Non_Teaching_R19.png">
 </p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 <li>
 
-    <input type="checkbox" id="accordion2">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Administrative Support</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Administrative&nbsp;Support</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-      <p> <img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Non%20Teaching%20Staff/Administrative%20Support/A1NEW.png">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <img src="/images/Our%20Story/Organisation%20Chart/Non%20Teaching%20Staff/Administrative%20Support/Non_Teaching_R20.png">
 </p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion3">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Technical Support</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Technical&nbsp;Support</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> 
-<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Non%20Teaching%20Staff/Technical%20Support/T1.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Non%20Teaching%20Staff/Technical%20Support/T2.png">
+<img src="/images/Our%20Story/Organisation%20Chart/Non%20Teaching%20Staff/Technical%20Support/Non_Teaching_R21.png">
 			</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion4">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
 
-    <label for="accordion4">Operations Support</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">Operations&nbsp;Support</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> 
-	<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Non%20Teaching%20Staff/Operations%20Support/O1.png">
-	<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Non%20Teaching%20Staff/Operations%20Support/O2.png"> 
+	<img src="/images/Our%20Story/Organisation%20Chart/Non%20Teaching%20Staff/Operations%20Support/Non_Teaching_R22.png"> 
 			</p>
 
-  </div>
+&nbsp;&nbsp;</div>
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion5">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion5">
 
-    <label for="accordion5">Non-MOE Staff</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion5">Non-MOE&nbsp;Staff</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-      	<p> <img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Non%20Teaching%20Staff/Non%20MOE%20Staff/N1NEW.png">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<p> <img src="/images/Our%20Story/Organisation%20Chart/Non%20Teaching%20Staff/Non%20MOE%20Staff/Non_MOE_R23.png">
 </p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
@@ -89,3 +88,14 @@ third_nav_title: Organisation Chart
 
 	
 </ul>
+
+<style>	
+	img {
+		font-style: italic;
+		max-width: 100%;
+		height: auto;
+		vertical-align: middle;
+		background-repeat: no- repeat;
+		background-size: cover;
+	}
+</style>
