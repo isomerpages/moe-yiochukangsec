@@ -16,8 +16,8 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> 
-<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Design%20and%20Enterprise%20Dpt/DnT_Nov2023_R1.PNG">
-	<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Design%20and%20Enterprise%20Dpt/DnT_Nov2023_R2.png">
+<img src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Design%20and%20Enterprise%20Dpt/DnT_R8.png">
+	<img src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Design%20and%20Enterprise%20Dpt/DnT_R9.png">
 
 </p>
 
@@ -33,8 +33,7 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> 
-				<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Humanities%20Department/Hum_Nov2023_R1.png">
-				<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Humanities%20Department/Hum_Nov2023_R2.png">
+				<img src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Humanities%20Department/Humanities_R10.png">
 
 </p>
 
@@ -52,9 +51,7 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> 			
-<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Mathematics%20and%20%20POA%20Dpt/M1NEW.png">
-<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Mathematics%20and%20%20POA%20Dpt/M2NEW.png">
-	<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Mathematics%20and%20%20POA%20Dpt/M3NEW.png">
+<img src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Mathematics%20and%20%20POA%20Dpt/Maths_n_POA_R11.png">
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
@@ -70,9 +67,9 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p>
-<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/MTL%20Department/M1NEW.png">
-<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/MTL%20Department/M2NEW.png">
-	<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/MTL%20Department/M3NEW.png">
+<img src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/MTL%20Department/MTL_R13.png">
+<img src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/MTL%20Department/MTL_R14.png">
+	
 </p>
 
 &nbsp;&nbsp;</div>
@@ -87,7 +84,7 @@ variant: markdown
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<p>	<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Physical%20Education%20Department/P1NEW.png"> 
+&nbsp;&nbsp;&nbsp;&nbsp;<p>	<img src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Physical%20Education%20Department/PE_R15.png"> 
 			</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
@@ -103,7 +100,7 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p>
-<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Science%20Department/S1NEW.png">
+<img src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Science%20Department/Science_R16.png">
 			</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
@@ -119,7 +116,7 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> 
-<img style="width:100%;height:50%" src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/English%20Language%20Department/E1NEW.png">
+<img src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/English%20Language%20Department/English_R17.png">
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
@@ -130,3 +127,14 @@ variant: markdown
 
 	
 </ul>
+
+<style>	
+	img {
+		font-style: italic;
+		max-width: 100%;
+		height: auto;
+		vertical-align: middle;
+		background-repeat: no- repeat;
+		background-size: cover;
+	}
+	</style>
