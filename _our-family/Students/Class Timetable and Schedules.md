@@ -8,6 +8,11 @@ variant: tiptap
 <h4><strong>2024 Class Timetable (Semester 2)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
+<p><strong><a href="/files/Students/Class Timetable Schedules/2024_Sem_2_Special_Timetable___Classes__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Semester 2 Special Timetable  </a></strong><em>(For 19 Jul, 23-25 Jul, 2 Aug &amp; 28 Aug)</em>
+<br>(Uploaded on 11 July 2024)</p>
+<p></p>
+</li>
+<li>
 <p><strong><a href="/files/Students/Class Timetable Schedules/2024_Semester_2_Revised_Timetable___Classes_V2.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Semester 2 Timetable (Revised with effect from 8 July)</a></strong>
 <br>(Updated on: 4 July 2024)</p>
 <p></p>
