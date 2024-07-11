@@ -14,33 +14,59 @@ and level.</p>
 <h3><strong>Assessment Rules &amp; Regulations</strong></h3>
 <p><a href="/files/Students/Assessment Information Sche/NEW/YCKSS_Weighted_Assessment_Rules_and_Regulations.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Rules &amp; Regulations</a> (updated
 on 5 Feb 2024)</p>
-<p><strong>Weighted Assessment (2024 Term 2) </strong>(updated on 24 April
-2024)</p>
-<table>
+<p></p>
+<h3><strong>N-Level Preliminary Examination 2024</strong></h3>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Sec 4NA</strong> - <a href="/files/Students/Assessment Information Sche/Sec_4NA_Prelim_Scheduleupdated.pdf" rel="noopener noreferrer nofollow" target="_blank">Preliminary Examination Schedule</a>
+</p>
+</li>
+<li>
+<p><strong>Sec 4NT </strong>- <a href="/files/Students/Assessment Information Sche/Sec_4NT_Prelim_Scheduleupdated.pdf" rel="noopener noreferrer nofollow" target="_blank">Preliminary Examination Schedule</a>
+</p>
+</li>
+</ul>
+<p></p>
+<h3><strong>Weighted Assessment (2024 Term 2) </strong></h3>
+<p>(updated on 24 April 2024)</p>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Sec 1 (A, B, C)</p>
+<p>Sec 1
+<br>(A, B, C)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Sec 1 (D, E, F)</p>
+<p>Sec 1
+<br>(D, E, F)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Sec 2 (A, B, C)</p>
+<p>Sec 2
+<br>(A, B, C)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Sec 2 (D, E, F)</p>
+<p>Sec 2
+<br>(D, E, F)</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Sec 3</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Sec 4&amp; 5</p>
+<p>Sec 4&amp;5</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Students/Assessment Information Sche/WA2 2024/Secondary_1A_B_C_Weighted_Assessment_Term_2__Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule &amp; subject information</a>
+<p><a href="/files/Students/Assessment Information Sche/WA2 2024/Secondary_1A_B_C_Weighted_Assessment_Term_2__Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule &amp; Subject information</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -68,26 +94,38 @@ on 5 Feb 2024)</p>
 </table>
 <h3></h3>
 <h3><strong>Weighted Assessment (2024 Term 1)</strong></h3>
-<table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Sec 1 (A, B, C)</p>
+<p>Sec 1
+<br>(A, B, C)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Sec 1 (D, E, F)</p>
+<p>Sec 1
+<br>(D, E, F)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Sec 2 (A, B, C)</p>
+<p>Sec 2
+<br>(A, B, C)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Sec 2 (D, E, F)</p>
+<p>Sec 2
+<br>(D, E, F)</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Sec 3</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Sec 4&amp; 5</p>
+<p>Sec 4&amp;5</p>
 </th>
 </tr>
 <tr>
