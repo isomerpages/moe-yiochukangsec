@@ -14,6 +14,63 @@ and level.</p>
 <h3><strong>Assessment Rules &amp; Regulations</strong></h3>
 <p><a href="/files/Students/Assessment Information Sche/NEW/YCKSS_Weighted_Assessment_Rules_and_Regulations.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Rules &amp; Regulations</a> (updated
 on 5 Feb 2024)</p>
+<h3><strong>Weighted Assessment (2024 Term 3)</strong></h3>
+<p>(updated on 16 July 2024)</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Sec 1
+<br>(A, B, C)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Sec 1
+<br>(D, E, F)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Sec 2
+<br>(A, B, C)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Sec 2
+<br>(D, E, F)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Sec 3</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Students/Assessment Information Sche/Secondary_1A_B_C_Weighted_Assessment_Term_3__Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule &amp; Subject information</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Students/Assessment Information Sche/Secondary_1D_E_F_Weighted_Assessment_Term_3__Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule &amp; Subject information</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Students/Assessment Information Sche/Secondary_2A_B_C_Weighted_Assessment_Term_3__Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule &amp; Subject information</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Students/Assessment Information Sche/Secondary_2D_E_F_Weighted_Assessment_Term_3__Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule &amp; Subject information</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Students/Assessment Information Sche/Secondary_3_Weighted_Assessment_Schedule__Term_3__2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule &amp; Subject information</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3></h3>
 <h3><strong>O-Level Preliminary Examination 2024</strong></h3>
 <ul data-tight="true" class="tight">
 <li>

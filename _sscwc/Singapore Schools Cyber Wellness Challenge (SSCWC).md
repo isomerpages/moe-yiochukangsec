@@ -2,6 +2,7 @@
 title: Singapore Schools Cyber Wellness Challenge (SSCWC)
 permalink: /sscwc/sscwc2023/
 description: Singapore Schools Cyber Wellness Challenge 2023
+variant: markdown
 ---
 ![Logo](/images/Sscwc/logo%20update2.png)<br> 
 The **SSCWC** is a national short film competition,
@@ -34,8 +35,7 @@ In order to generate meaningful media content that can impact and educate their 
 community, both primary and secondary school student participants¹ will first explore and discuss Cyber Wellness issues, with guidance from TOUCH Cyber Wellness facilitators.
 
 Student participants will then apply their learning to storyboard and conceptualise suitable stories /
-messages in line with the selected key Cyber Wellness message and target audience. Student
-participants will also be trained by learning specialists from Apple Singapore in the technical skills and knowledge for video production using the iPads².
+messages in line with the selected key Cyber Wellness message and target audience. Student participants will also be trained by Apple Professional Learning Specialists in Singapore on producing a video using the iPad.²
 
 ![Organisations](/images/Sscwc/partnership%20logos1.PNG)
 
