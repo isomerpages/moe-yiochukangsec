@@ -80,10 +80,10 @@ on 5 Feb 2024)</p>
 </li>
 </ul>
 <h3><strong>N-Level Preliminary Examination 2024</strong></h3>
-<p></p>
+<p>(updated on 16 July 2024)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Sec 4NA</strong> - <a href="/files/Students/Assessment Information Sche/Sec_4NA_Prelim_Scheduleupdated.pdf" rel="noopener noreferrer nofollow" target="_blank">Preliminary Examination Schedule</a>
+<p><strong>Sec 4NA</strong> - <a href="/files/Students/Assessment Information Sche/Sec_4NA_Prelim_Scheduleupdated160724.pdf" rel="noopener noreferrer nofollow" target="_blank">Preliminary Examination Schedule</a>
 </p>
 </li>
 <li>
