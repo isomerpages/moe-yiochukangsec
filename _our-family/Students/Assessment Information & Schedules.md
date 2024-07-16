@@ -14,7 +14,14 @@ and level.</p>
 <h3><strong>Assessment Rules &amp; Regulations</strong></h3>
 <p><a href="/files/Students/Assessment Information Sche/NEW/YCKSS_Weighted_Assessment_Rules_and_Regulations.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Rules &amp; Regulations</a> (updated
 on 5 Feb 2024)</p>
-<p></p>
+<h3><strong>O-Level Preliminary Examination 2024</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Sec 4E5N - </strong><a href="/files/Students/Assessment Information Sche/Sec_4E5N__Prelim_schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Preliminary Examination Schedule</a>
+</p>
+<p>(updated on 16 July 2024)</p>
+</li>
+</ul>
 <h3><strong>N-Level Preliminary Examination 2024</strong></h3>
 <p></p>
 <ul data-tight="true" class="tight">
@@ -28,7 +35,7 @@ on 5 Feb 2024)</p>
 </li>
 </ul>
 <p></p>
-<h3><strong>Weighted Assessment (2024 Term 2) </strong></h3>
+<h3><strong>Weighted Assessment (2024 Term 2)</strong></h3>
 <p>(updated on 24 April 2024)</p>
 <table style="minWidth: 150px">
 <colgroup>
