@@ -4,7 +4,18 @@ permalink: /sample-2/
 description: ""
 variant: markdown
 ---
-<details><summary><h3>Durian Feast</h3></summary>
+### Mini Durian Delights
+
+The air buzzed with anticipation when a hint of its presence was dropped through a text message. Upon its arrival, the atmosphere intensified; some rushed up to it with their like-minded colleagues, while others scrunched up their noses yet politely declined, saying, ‘I would give it a miss.’ It is none other than the king of fruits – durian!
+
+On the 28th of June 2024, staff were greeted by the strong and distinct aroma of durians. Enthusiasts revelled in its rich and creamy texture, especially in the company of other durian lovers at the Heritage Gallery. Whether the unique aroma elicited adoration or aversion, everyone had either the king of fruits or other delectable fruits to savour that day. While durians may reign supreme in the hearts of many fruit lovers, they did not overshadow the significance of the shared experience among us in the teaching fraternity.
+
+<p><img alt="Many happy and contented faces after a fruitful feast" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S17.png"></p>
+
+<p><img alt="Men bonding over the Mao Shan Wang durians" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S18.png"></p>
+
+
+<details><summary>### Durian Feast</summary>
     <p>At the durian feast held on 31st July 2019, our staff were spoiled for choices. With a variety of fruits to choose from, the King of fruits was definitely the favourite. Staff who tried the Mao Shan Wang (MSW) durian, known to be the premium type, commented on its rich, bitter and heavily rich flavour.
      </p><p>It was indeed a great way to end the day and we had an enjoyable bonding session over the feasting.</p>
 <p><img alt="Many happy and contented faces after a fruitful feast" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S17.png"></p>
@@ -384,7 +395,8 @@ details summary {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    font-weight: 500;
+    font-weight: 400;
+	  font-size: 1.75rem;
     margin-bottom: 0;
     transition: margin-bottom 0.5s ease;
     position: relative;
