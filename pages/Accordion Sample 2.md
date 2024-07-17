@@ -10,9 +10,9 @@ The air buzzed with anticipation when a hint of its presence was dropped through
 
 On the 28th of June 2024, staff were greeted by the strong and distinct aroma of durians. Enthusiasts revelled in its rich and creamy texture, especially in the company of other durian lovers at the Heritage Gallery. Whether the unique aroma elicited adoration or aversion, everyone had either the king of fruits or other delectable fruits to savour that day. While durians may reign supreme in the hearts of many fruit lovers, they did not overshadow the significance of the shared experience among us in the teaching fraternity.
 
-<p><img alt="Many happy and contented faces after a fruitful feast" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S17.png"></p>
-
-<p><img alt="Men bonding over the Mao Shan Wang durians" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S18.png"></p>
+<p><img alt="Many happy and contented faces after a fruitful feast" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Mini_DD_2.png"></p>
+<p><img alt="Many happy and contented faces after a fruitful feast" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Mini_DD_3.png"></p>
+<p><img alt="Many happy and contented faces after a fruitful feast" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Mini_DD_5.png"></p>
 
 
 <details><summary>### Durian Feast</summary>
