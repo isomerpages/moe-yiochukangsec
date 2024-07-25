@@ -6,11 +6,11 @@ description: ""
 ---
 <h1>STAFF WELL-BEING COMMITTEE (SWC) ACTIVITIES</h1>
 
-<p>The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the physical, intellectual, emotional and social well-being pf the staff. The school aims to develop an engaged staff who care for self and others. Some of the plans in promoting staff well-being and satisfaction include identifying staff needs, staff well-being programmes and activities and providing a safe and secure environment.</p>
+<p>The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the <b>P</b>hysical, <b>I</b>ntellectual, <b>E</b>motional and social well-being pf the staff. The school aims to develop an engaged staff who care for self and others. Some of the plans in promoting staff well-being and satisfaction include identifying staff needs, staff well-being programmes and activities and providing a safe and secure environment.</p>
 
 <details><summary><h2>SOCIAL</h2></summary>
 
-	<h3>Mini Durian Delights</h3>
+<h3>Mini Durian Delights</h3>
 
 <p>The air buzzed with anticipation when a hint of its presence was dropped through a text message. Upon its arrival, the atmosphere intensified; some rushed up to it with their like-minded colleagues, while others scrunched up their noses yet politely declined, saying, ‘I would give it a miss.’ It is none other than the king of fruits – durian!</p>
 
