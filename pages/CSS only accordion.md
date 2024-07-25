@@ -4,9 +4,9 @@ permalink: /css-only-accordion/
 variant: markdown
 description: ""
 ---
-# STAFF WELL-BEING COMMITTEE (SWC) ACTIVITIES
+<h1>STAFF WELL-BEING COMMITTEE (SWC) ACTIVITIES</h1>
 
-The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the physical, intellectual, emotional and social well-being pf the staff. The school aims to develop an engaged staff who care for self and others. Some of the plans in promoting staff well-being and satisfaction include identifying staff needs, staff well-being programmes and activities and providing a safe and secure environment.
+<p>The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the physical, intellectual, emotional and social well-being pf the staff. The school aims to develop an engaged staff who care for self and others. Some of the plans in promoting staff well-being and satisfaction include identifying staff needs, staff well-being programmes and activities and providing a safe and secure environment.</p>
 
 <details><summary><h2>SOCIAL</h2></summary>
 
@@ -44,8 +44,7 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 
 <details><summary><h2>EMOTIONAL</h2></summary>
 
-<section>
-<article>
+
     <p>At the durian feast held on 31st July 2019, our staff were spoiled for choices. With a variety of fruits to choose from, the King of fruits was definitely the favourite. Staff who tried the Mao Shan Wang (MSW) durian, known to be the premium type, commented on its rich, bitter and heavily rich flavour.</p>
     <p>It was indeed a great way to end the day and we had an enjoyable bonding session over the feasting.</p>
 	
@@ -53,9 +52,7 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 ![](/images/Our%20Family/Staff/SWC%20Activities/Social/S18.png)
 ![](/images/Our%20Family/Staff/SWC%20Activities/Social/S19.png)
 	
-</article>
 
-</section>
 
 </details>
 
