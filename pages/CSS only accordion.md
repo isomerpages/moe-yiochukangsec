@@ -68,6 +68,12 @@ embarrassment) of being a complete novice with that willingness to look foolish,
 <p>1 September 2021, Wednesday was the **Joy of Learning Day**, a day of making learning fun, engaging and challenging for staff. It was planned by SWC in collaboration with the Design &amp; Technology unit. Instructions were given online for staff to have an exciting journey to create a "Magic Box".</p>
 
 <p>The staff room was abuzz with activity, laughter, questions and that occasional 'squeal'.</p>
+	
+<h4>Quotes from participants</h4>
+
+<blockquote>Some quote here ...</blockquote>
+
+<img src="/images/Our%20Family/Staff/SWC%20Activities/Social/S7.png">
 
 </details>
 
