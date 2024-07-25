@@ -22,11 +22,9 @@ description: ""
 
 ![](/images/Our%20Family/Staff/SWC%20Activities/Social/Mini_DD_5.png)
 
-
 <hr>
 
 <h3>Embracing the Spirit of Hari Raya</h3>
-
 
 <p>Hari Raya festivities are synonymous with an exquisite array of culinary delights. It was no exception this year, with the primary aim of fostering YCKSS familial ties. On 19 April, as the aroma of tantalising lunch filled the air, it set the perfect backdrop for colleagues to engage in hearty conversations amidst their busy lives.</p>
 
