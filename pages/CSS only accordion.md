@@ -9,8 +9,7 @@ description: ""
 The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the physical, intellectual, emotional and social well-being pf the staff. The school aims to develop an engaged staff who care for self and others. Some of the plans in promoting staff well-being and satisfaction include identifying staff needs, staff well-being programmes and activities and providing a safe and secure environment.
 
 <details><summary><h2>SOCIAL</h2></summary>
-<section>
-<article>
+
 	<h3>Mini Durian Delights</h3>
 
 <p>The air buzzed with anticipation when a hint of its presence was dropped through a text message. Upon its arrival, the atmosphere intensified; some rushed up to it with their like-minded colleagues, while others scrunched up their noses yet politely declined, saying, ‘I would give it a miss.’ It is none other than the king of fruits – durian!</p>
@@ -23,9 +22,9 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 
 ![](/images/Our%20Family/Staff/SWC%20Activities/Social/Mini_DD_5.png)
 
-</article>
+
 <hr>
-<article>
+
 <h3>Embracing the Spirit of Hari Raya</h3>
 
 
@@ -40,9 +39,7 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 ![](/images/Our%20Family/Staff/SWC%20Activities/Social/Hari_Raya_2024_SWC_Slide3.png)
 
 ![](/images/Our%20Family/Staff/SWC%20Activities/Social/Hari_Raya_2024_SWC_Slide4.png)
-</article>
 
-</section>
 </details>
 
 <details><summary><h2>EMOTIONAL</h2></summary>
