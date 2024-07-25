@@ -43,6 +43,14 @@ description: ""
 <h3>Chinese New Year Celebrations 2024</h3>
 
 <p>To usher in the Year of the Dragon, all YCKSS staff convened in a calligraphy session on 2 February 2024. Empowered with creative autonomy, everyone carefully and meticulously penned auspicious words of their choice and engaged in the delicate art of paper cutting, reflecting personalised aspirations. The celebration would not be complete without the venerable tradition of Lo Hei on 16 February 2024, when a myriad of ingredients were tossed with one collective purpose: ringing in peace and prosperity in the coming year.</p>
+	
+<img src="/images/Our%20Family/Staff/SWC%20Activities/Social/Slide1.png"> 
+<img src="/images/Our%20Family/Staff/SWC%20Activities/Social/Slide2.png"> 
+<img src="/images/Our%20Family/Staff/SWC%20Activities/Social/Slide3.png"> 
+<img src="/images/Our%20Family/Staff/SWC%20Activities/Social/Slide4.png"> 
+<img src="/images/Our%20Family/Staff/SWC%20Activities/Social/Slide5.png">
+
+<hr>
 
 </details>
 
