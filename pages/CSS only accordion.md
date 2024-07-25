@@ -33,13 +33,13 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 
 <p>Gathered in the cozy comfort of the Dance Studio 2, we revelled in the light-hearted stories steeped in history and practices of Muslims. While it culminated in quizzes that challenged our knowledge and wit, the winners brought home some mementos that served as vivid reminders of the generosity and inclusivity embedded within the Muslim culture.</p>
 
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Hari_Raya_2024_SWC_Slide1.png)
+![](/images/Our%20Family/Staff/SWC%20Activities/Social/Hari_Raya_2024_SWC_Slide1.png)
 
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Hari_Raya_2024_SWC_Slide2.png)
+![](/images/Our%20Family/Staff/SWC%20Activities/Social/Hari_Raya_2024_SWC_Slide2.png)
 
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Hari_Raya_2024_SWC_Slide3.png)
+![](/images/Our%20Family/Staff/SWC%20Activities/Social/Hari_Raya_2024_SWC_Slide3.png)
 
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Hari_Raya_2024_SWC_Slide4.png)
+![](/images/Our%20Family/Staff/SWC%20Activities/Social/Hari_Raya_2024_SWC_Slide4.png)
 </article>
 
 </section>
@@ -51,9 +51,11 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 <article>
     <p>At the durian feast held on 31st July 2019, our staff were spoiled for choices. With a variety of fruits to choose from, the King of fruits was definitely the favourite. Staff who tried the Mao Shan Wang (MSW) durian, known to be the premium type, commented on its rich, bitter and heavily rich flavour.</p>
     <p>It was indeed a great way to end the day and we had an enjoyable bonding session over the feasting.</p>
-<p><img alt="Many happy and contented faces after a fruitful feast" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S17.png"></p>
-<p><img alt="Many happy and contented faces after a fruitful feast" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S18.png"></p>
-<p><img alt="Many happy and contented faces after a fruitful feast" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S19.png"></p>
+	
+![](/images/Our%20Family/Staff/SWC%20Activities/Social/S17.png)
+![](/images/Our%20Family/Staff/SWC%20Activities/Social/S18.png)
+![](/images/Our%20Family/Staff/SWC%20Activities/Social/S19.png)
+	
 </article>
 
 </section>
