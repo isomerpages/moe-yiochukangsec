@@ -71,7 +71,7 @@ embarrassment) of being a complete novice with that willingness to look foolish,
 	
 <h4>Quotes from participants</h4>
 
-<blockquote>Some quote here ...</blockquote>
+<blockquote>Oops! I broke that!!! ...</blockquote>
 <blockquote>Some quote here ...</blockquote>
 <blockquote>Some quote here ...</blockquote>
 <blockquote>Some quote here ...</blockquote>
@@ -149,6 +149,24 @@ The Celebration of Learning Day employed the Blended Learning approach with VP M
 <style>
 
 @charset "UTF-8";
+	
+blockquote {
+    position: relative;
+    font-family: 'Garamond', serif;
+    font-size: 2.4em;
+    line-height: 1.5em;
+    font-style: italic;
+}
+
+blockquote:before {
+    content: '\201C';
+    position: absolute;
+    top: 0.25em;
+    left: -0.15em;
+    color: #e7e6e4;
+    font-size: 6em;
+    z-index: -1;
+}
 
 details {
     max-width: 100ch;
