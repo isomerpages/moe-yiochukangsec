@@ -51,6 +51,14 @@ description: ""
 <img src="/images/Our%20Family/Staff/SWC%20Activities/Social/Slide5.png">
 
 <hr>
+	
+<h3>EAS Learning Day</h3>
+
+<p>Did you spend the December holidays cooking up a storm in the kitchen? For the EAS, 2 December 2020, was the day they donned aprons and became chefs in a special culinary workshop they attended in school. Look at the all the dishes they managed to whip up! Stuffed Portobello mushroom, chicken sliders, brownies, and cheesecake cups. Is your mouth watering yet?</p>
+
+<img src="/images/Our%20Family/Staff/SWC%20Activities/Social/S6.png">
+
+<hr>
 
 </details>
 
