@@ -72,6 +72,9 @@ embarrassment) of being a complete novice with that willingness to look foolish,
 <h4>Quotes from participants</h4>
 
 <blockquote>Some quote here ...</blockquote>
+<blockquote>Some quote here ...</blockquote>
+<blockquote>Some quote here ...</blockquote>
+<blockquote>Some quote here ...</blockquote>
 
 <img src="/images/Our%20Family/Staff/SWC%20Activities/Social/S7.png">
 
