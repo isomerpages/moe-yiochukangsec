@@ -16,7 +16,7 @@ and level.</p>
 on 5 Feb 2024)</p>
 <h3><strong>EOY Subject information (2024 )</strong></h3>
 <p>(updated on 12 August 2024)</p>
-<p><strong>Secondary  1</strong>
+<p><strong>Secondary 1</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
