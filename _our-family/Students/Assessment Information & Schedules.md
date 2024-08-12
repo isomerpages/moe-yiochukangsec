@@ -14,6 +14,56 @@ and level.</p>
 <h3><strong>Assessment Rules &amp; Regulations</strong></h3>
 <p><a href="/files/Students/Assessment Information Sche/NEW/YCKSS_Weighted_Assessment_Rules_and_Regulations.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Rules &amp; Regulations</a> (updated
 on 5 Feb 2024)</p>
+<h3><strong>EOY Subject information (2024 )</strong></h3>
+<p>(updated on 12 August 2024)</p>
+<p><strong>Secondary 1</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Students/Assessment Information Sche/EOY__Subject_Information_2024_9__Sec_1_G3_.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject information Sec1 G3</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/EOY__Subject_Information_2024_9__Sec_1_G2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject information Sec1 G2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/EOY_Subject_Information_2024_9__Sec_1_G1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject information Sec1 G1</a>
+</p>
+</li>
+</ul>
+<p><strong>Secondary 2</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Students/Assessment Information Sche/EOY__Subject_Information_2024_9__Sec_2_G3_.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject information Sec2 G3</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/EOY__Subject_Information_2024_9__Sec_2_G2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject information Sec2 G2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/EOY__Subject_Information_2024_9__Sec_2_G1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject information Sec2 G1</a>
+</p>
+</li>
+</ul>
+<p><strong>Secondary 3</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Students/Assessment Information Sche/EOY_Subject_Information_2024__3NT_.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject information Sec 3NT</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/EOY__Subject_Information_2024___3NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject information Sec 3NA</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/EOY__Subject_Information_2024__3E_.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject information Sec 3E</a>
+</p>
+</li>
+</ul>
 <h3><strong>Weighted Assessment (2024 Term 3)</strong></h3>
 <p>(updated on 16 July 2024)</p>
 <table style="minWidth: 125px">
