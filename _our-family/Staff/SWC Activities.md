@@ -84,7 +84,6 @@ It was a memorable day of bonding. There were 'wow' moments when staff finally c
 
 ---
 
-<details><summary><h2>Emotional</h2></summary>
 
 ## EMOTIONAL
 
@@ -139,7 +138,7 @@ The staff welfare committee had organised a Brunch Potluck session during Markin
 
 ![A wide spread of halal food on the table 2](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E11.jpg)
 
-	</details>
+
 
 ---
 
@@ -147,15 +146,15 @@ The staff welfare committee had organised a Brunch Potluck session during Markin
 
 ### Run for Your ‘Life’
 
+
 &gt; ‘Stretch! Swing! Skip! Squat!’ ...
 
-These were some of the warm-up exercises that a group of staff
-performed before commencing their 14 th MOE Olive Run at Singapore Sports Hub, OCBC
-Square, on 13 July 2024. Whether or not their counterparts were dashing past them toward the
-finishing line, they remained focused on their personal pace, form, and even the enjoyment of
-the scenic beauty around them. Ultimately, their primary goal in joining the activity was to stay fit
-and healthy. Anything else, such as refreshments, goodie bags, complimentary fitness check,
-and even lucky draw prizes, was a bonus but secondary. After all, health is the greatest wealth.
+These were some of the warm-up exercises that a group of staff performed before commencing their 14 th MOE Olive Run at Singapore Sports Hub, OCBC Square, on 13 July 2024. Whether or not their counterparts were dashing past them toward the finishing line, they remained focused on their personal pace, form, and even the enjoyment of
+the scenic beauty around them. Ultimately, their primary goal in joining the activity was to stay fit and healthy. Anything else, such as refreshments, goodie bags, complimentary fitness check, and even lucky draw prizes, was a bonus but secondary. After all, health is the greatest wealth.
+
+![](/images/Our%20Family/Staff/SWC%20Activities/Physical/OliveRun_1.jpg)
+![](/images/Our%20Family/Staff/SWC%20Activities/Physical/OliveRun_2.jpg)
+![](/images/Our%20Family/Staff/SWC%20Activities/Physical/OliveRun_3.jpg)
 
 ### Yoga: Ignite Your Mind, Body and Soul!
 
