@@ -19,16 +19,16 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 
 <p>On the 28th of June 2024, staff were greeted by the strong and distinct aroma of durians. Enthusiasts revelled in its rich and creamy texture, especially in the company of other durian lovers at the Heritage Gallery. Whether the unique aroma elicited adoration or aversion, everyone had either the king of fruits or other delectable fruits to savour that day. While durians may reign supreme in the hearts of many fruit lovers, they did not overshadow the significance of the shared experience among us in the teaching fraternity.</p>
 
-![](/images/Our%20Family/Staff/SWC%20Activities/Social/Mini_DD_2.png)
+<img src="/images/Our%20Family/Staff/SWC%20Activities/Social/Mini_DD_2.png">
 ![](/images/Our%20Family/Staff/SWC%20Activities/Social/Mini_DD_3.png)
 ![](/images/Our%20Family/Staff/SWC%20Activities/Social/Mini_DD_5.png)
 
-###  Embracing the Spirit of Hari Raya
+<h3>Embracing the Spirit of Hari Raya</h3>
 
 
-Hari Raya festivities are synonymous with an exquisite array of culinary delights. It was no exception this year, with the primary aim of fostering YCKSS familial ties. On 19 April, as the aroma of tantalising lunch filled the air, it set the perfect backdrop for colleagues to engage in hearty conversations amidst their busy lives.
+<p>Hari Raya festivities are synonymous with an exquisite array of culinary delights. It was no exception this year, with the primary aim of fostering YCKSS familial ties. On 19 April, as the aroma of tantalising lunch filled the air, it set the perfect backdrop for colleagues to engage in hearty conversations amidst their busy lives.</p>
 
-Gathered in the cozy comfort of the Dance Studio 2, we revelled in the light-hearted stories steeped in history and practices of Muslims. While it culminated in quizzes that challenged our knowledge and wit, the winners brought home some mementos that served as vivid reminders of the generosity and inclusivity embedded within the Muslim culture.
+<p>Gathered in the cozy comfort of the Dance Studio 2, we revelled in the light-hearted stories steeped in history and practices of Muslims. While it culminated in quizzes that challenged our knowledge and wit, the winners brought home some mementos that served as vivid reminders of the generosity and inclusivity embedded within the Muslim culture.</p>
 
 ![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Hari_Raya_2024_SWC_Slide1.png)
 
