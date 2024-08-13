@@ -7,11 +7,21 @@ variant: markdown
 ---
 # STAFF WELL-BEING COMMITTEE (SWC) ACTIVITIES
 
-The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the physical, intellectual, emotional and social well-being pf the staff. The school aims to develop an engaged staff who care for self and others. Some of the plans in promoting staff well-being and satisfaction include identifying staff needs, staff well-being programmes and activities and providing a safe and secure environment.
+The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the **P**hysical, **I**ntellectual, **E**motional and **S**ocial well-being of the staff. The school aims to develop an engaged staff who care for self and others. Some of the plans in promoting staff well-being and satisfaction include identifying staff needs, staff well-being programmes and activities and providing a safe and secure environment.
 
 ---
 
 ## SOCIAL
+
+### Mini Durian Delights
+
+The air buzzed with anticipation when a hint of its presence was dropped through a text message. Upon its arrival, the atmosphere intensified; some rushed up to it with their like-minded colleagues, while others scrunched up their noses yet politely declined, saying, ‘I would give it a miss.’ It is none other than the king of fruits – durian!
+
+On the 28th of June 2024, staff were greeted by the strong and distinct aroma of durians. Enthusiasts revelled in its rich and creamy texture, especially in the company of other durian lovers at the Heritage Gallery. Whether the unique aroma elicited adoration or aversion, everyone had either the king of fruits or other delectable fruits to savour that day. While durians may reign supreme in the hearts of many fruit lovers, they did not overshadow the significance of the shared experience among us in the teaching fraternity.
+
+![](/images/Our%20Family/Staff/SWC%20Activities/Social/Mini_DD_2.png)
+![](/images/Our%20Family/Staff/SWC%20Activities/Social/Mini_DD_3.png)
+![](/images/Our%20Family/Staff/SWC%20Activities/Social/Mini_DD_5.png)
 
 ###  Embracing the Spirit of Hari Raya
 
