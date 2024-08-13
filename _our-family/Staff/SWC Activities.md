@@ -11,7 +11,7 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 
 ---
 
-## SOCIAL
+<details><summary>SOCIAL</summary>
 
 ### Mini Durian Delights
 
@@ -82,10 +82,10 @@ It was a memorable day of bonding. There were 'wow' moments when staff finally c
 
 
 
----
+</details>
 
 
-## EMOTIONAL
+<details><summary>EMOTIONAL</summary>
 
 ### Monthly Theme Dressing
 
@@ -139,10 +139,9 @@ The staff welfare committee had organised a Brunch Potluck session during Markin
 ![A wide spread of halal food on the table 2](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E11.jpg)
 
 
+</details>
 
----
-
-## PHYSICAL
+<details><summary>PHYSICAL</summary>
 
 ### Run for Your ‘Life’
 
@@ -195,7 +194,7 @@ Ended the day with a buffet lunch on Sentosa. Staff made a pledge to save the en
 
 ![title](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/P4.png)
 
----
+</details>
 
 <details><summary>INTELLECTUAL</summary>
 
@@ -301,7 +300,7 @@ details {
     max-width: 100ch;
     background-color: inherit;
     border-radius: 1rem;
-	margin-bottom: 1.5rem;
+	  margin-bottom: 2.5rem;
     box-shadow: 0 .05rem .05rem rgba(0, 0, 0, .05)
 }
 
@@ -311,6 +310,7 @@ details summary {
     justify-content: space-between;
     font-weight: 400;
     font-size: 2.75rem;
+	  margin-bottom: 1.5rem;
     transition: margin-bottom .5s ease;
     position: relative
 }
