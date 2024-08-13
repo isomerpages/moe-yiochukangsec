@@ -80,7 +80,8 @@ It was a memorable day of bonding. There were 'wow' moments when staff finally c
 
 ![Pictures from 1st Sept 2021, The Joy of Learning](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S9.png)
 
-
+<details><summary><h2>Archived articles</h2></summary>
+<div>
 ### Durian Feast
 
 
@@ -95,6 +96,8 @@ It was indeed a great way to end the day and we had an enjoyable bonding session
 ![Men bonding over the Mao Shan Wang durians](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S18.png)
 
 ![Many happy and contented faces after a fruitful feast](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S19.png)
+</div>
+</details>
 
 ---
 
