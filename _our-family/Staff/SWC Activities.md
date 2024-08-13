@@ -197,7 +197,7 @@ Ended the day with a buffet lunch on Sentosa. Staff made a pledge to save the en
 
 ---
 
-## INTELLECTUAL
+<details><summary>INTELLECTUAL</summary>
 
 ### Professional Development
 
@@ -235,11 +235,10 @@ The Celebration of Learning Day employed the Blended Learning approach with VP M
 Our teachers continue to improve their competencies even when the school term has ended. The Standard First-Aid Course + CPR + AED Course Online Theory lesson was held on 6 September 2021 and the Face to Face Practical session was held on 19 November 2021. The objective of the course is to ensure that all staff be trained in life saving skills.
 
 ![First Aid Course - 6 Sept 2021](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Intellectual/I5.png)
+	
+</details>
 
 <details><summary>Archived articles</summary>
-
-	
-## SOCIAL
 	
 ### Durian Feast
 
@@ -302,6 +301,7 @@ details {
     max-width: 100ch;
     background-color: inherit;
     border-radius: 1rem;
+	margin-bottom: 1.5rem;
     box-shadow: 0 .05rem .05rem rgba(0, 0, 0, .05)
 }
 
@@ -311,7 +311,6 @@ details summary {
     justify-content: space-between;
     font-weight: 400;
     font-size: 2.75rem;
-    margin-bottom: 0;
     transition: margin-bottom .5s ease;
     position: relative
 }
