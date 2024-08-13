@@ -13,7 +13,7 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 
 <details><summary>SOCIAL</summary>
 
-### Mini Durian Delights
+<h3 class="content-h3">Mini Durian Delights</h3>
 
 The air buzzed with anticipation when a hint of its presence was dropped through a text message. Upon its arrival, the atmosphere intensified; some rushed up to it with their like-minded colleagues, while others scrunched up their noses yet politely declined, saying, ‘I would give it a miss.’ It is none other than the king of fruits – durian!
 
