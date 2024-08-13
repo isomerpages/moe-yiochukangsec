@@ -20,8 +20,8 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 <p>On the 28th of June 2024, staff were greeted by the strong and distinct aroma of durians. Enthusiasts revelled in its rich and creamy texture, especially in the company of other durian lovers at the Heritage Gallery. Whether the unique aroma elicited adoration or aversion, everyone had either the king of fruits or other delectable fruits to savour that day. While durians may reign supreme in the hearts of many fruit lovers, they did not overshadow the significance of the shared experience among us in the teaching fraternity.</p>
 
 <img src="/images/Our%20Family/Staff/SWC%20Activities/Social/Mini_DD_2.png">
-![](/images/Our%20Family/Staff/SWC%20Activities/Social/Mini_DD_3.png)
-![](/images/Our%20Family/Staff/SWC%20Activities/Social/Mini_DD_5.png)
+<img src="/images/Our%20Family/Staff/SWC%20Activities/Social/Mini_DD_3.png)">
+<img src="/images/Our%20Family/Staff/SWC%20Activities/Social/Mini_DD_5.png)">
 
 <h3>Embracing the Spirit of Hari Raya</h3>
 
