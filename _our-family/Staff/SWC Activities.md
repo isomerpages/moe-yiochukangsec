@@ -224,6 +224,8 @@ Our teachers continue to improve their competencies even when the school term ha
 <details><summary><h4>Archived articles</h4></summary>
 <div>
 	
+## SOCIAL
+	
 ### Durian Feast
 
 At the durian feast held on 31st July 2019, our staff were spoiled for choices. With a variety of fruits to choose from, the King of fruits was definitely the favourite. Staff who tried the Mao Shan Wang (MSW) durian, known to be the premium type, commented on its rich, bitter and heavily rich flavour.
