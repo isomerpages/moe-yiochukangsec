@@ -241,19 +241,19 @@ Our teachers continue to improve their competencies even when the school term ha
 
 <details><summary>Archived articles</summary>
 	
-### Durian Feast
+<h3>Durian Feast</h3>
 
-At the durian feast held on 31st July 2019, our staff were spoiled for choices. With a variety of fruits to choose from, the King of fruits was definitely the favourite. Staff who tried the Mao Shan Wang (MSW) durian, known to be the premium type, commented on its rich, bitter and heavily rich flavour.
+<p>At the durian feast held on 31st July 2019, our staff were spoiled for choices. With a variety of fruits to choose from, the King of fruits was definitely the favourite. Staff who tried the Mao Shan Wang (MSW) durian, known to be the premium type, commented on its rich, bitter and heavily rich flavour.</p>
 
-It was indeed a great way to end the day and we had an enjoyable bonding session over the feasting.
+<p>It was indeed a great way to end the day and we had an enjoyable bonding session over the feasting.</p>
 
-#### Quotes from participants
+<h4>Quotes from participants</h4>
 
-![Quotes from participants](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S17.png)
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S17.png">
 
-![Men bonding over the Mao Shan Wang durians](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S18.png)
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S18.png">
 
-![Many happy and contented faces after a fruitful feast](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S19.png)
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S19.png">
 
 </details>
 
