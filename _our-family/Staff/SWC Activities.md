@@ -146,7 +146,7 @@ The staff welfare committee had organised a Brunch Potluck session during Markin
 ### Run for Your ‘Life’
 
 
-&gt; *‘Stretch! Swing! Skip! Squat!’ ...*
+<blockquote> *‘Stretch! Swing! Skip! Squat!’ ...*</blockquote>
 
 These were some of the warm-up exercises that a group of staff performed before commencing their 14 th MOE Olive Run at Singapore Sports Hub, OCBC Square, on 13 July 2024. Whether or not their counterparts were dashing past them toward the finishing line, they remained focused on their personal pace, form, and even the enjoyment of
 the scenic beauty around them. Ultimately, their primary goal in joining the activity was to stay fit and healthy. Anything else, such as refreshments, goodie bags, complimentary fitness check, and even lucky draw prizes, was a bonus but secondary. After all, health is the greatest wealth.
@@ -288,7 +288,14 @@ p {
 #root {
     isolation: isolate
 }
-
+	
+blockquote {
+    position: relative;
+    font-family: 'Helvetica Neue', 'Georgia', 'Garamond', 'Times New Roman', serif;
+    font-size: 1.5rem;
+    line-height: 2em;
+    font-style: italic;
+}
 img {
     font-style: italic;
     vertical-align: middle;
