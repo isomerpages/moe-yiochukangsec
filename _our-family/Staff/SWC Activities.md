@@ -80,29 +80,29 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 
 ![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E6.jpg)
 
-### Manito-Manitee Game
+<h3> Manito-Manitee Game</h3>
 
 
-During the month of September, we played the Manito-Manitee Game *(Angel-Mortal)* to encourage a caring environment in the school and to enhance staff bonding. All staff *(teaching and non-teaching)* were randomly paired and everyone had to take care of their appointed Manitee, for a month. Many gave gifts and wrote encouraging notes to brighten up the day, but they would remain anonymous until revelation day, which was Teachers' Day. There were hand made gifts and improvised wrapping papers , well thought and nicely wrapped up snacks and useful stationery.
+<p>During the month of September, we played the Manito-Manitee Game *(Angel-Mortal)* to encourage a caring environment in the school and to enhance staff bonding. All staff *(teaching and non-teaching)* were randomly paired and everyone had to take care of their appointed Manitee, for a month. Many gave gifts and wrote encouraging notes to brighten up the day, but they would remain anonymous until revelation day, which was Teachers' Day. There were hand made gifts and improvised wrapping papers , well thought and nicely wrapped up snacks and useful stationery.
 
-All in all, most staff gave positive feedback and are looking forward to more of such engaging activities in future.
+</p><p>All in all, most staff gave positive feedback and are looking forward to more of such engaging activities in future.</p>
 
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E7.png)
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E7.png">
 
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E8.png)
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E8.png">
 
-### Potluck Breakfast Session
+<h3>Potluck Breakfast Session</h3>
 
 
-The staff welfare committee had organised a Brunch Potluck session during Marking Day. Food has always been a successful way to bring staff from different department together. Every department was invited to bring a few different types of food. There was a splendid array of food on the table. Staff enjoyed themselves.
+<p>The staff welfare committee had organised a Brunch Potluck session during Marking Day. Food has always been a successful way to bring staff from different department together. Every department was invited to bring a few different types of food. There was a splendid array of food on the table. Staff enjoyed themselves.</p>
 
-#### Quotes from participants
+<h4> Quotes from participants</h4>
 
-![Quotes from participants](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E9.png)
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E9.png">
 
-![A wide spread of halal food on the table](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E10.png)
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E10.png">
 
-![A wide spread of halal food on the table 2](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E11.jpg)
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E11.jpg">
 
 
 </details>
