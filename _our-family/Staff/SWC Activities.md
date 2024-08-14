@@ -49,15 +49,14 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Slide2.png">
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Slide3.png">
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Slide4.png">
-<img by="" is="" for="" in="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Slide5.png">
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Slide5.png">
 
 
 <details><summary>EMOTIONAL</summary>
 
-### Monthly Theme Dressing
+<h3>Monthly Theme Dressing</h3>
 
-
-Monthly Theme Dressing helps to bond staff and to commemorate certain events such as World Water Day, Earth Day...etc: The themes so far have been:-
+<p>Monthly Theme Dressing helps to bond staff and to commemorate certain events such as World Water Day, Earth Day...etc: The themes so far have been:-</p>
 
 
 1. Valentines Day (Pink)
@@ -67,7 +66,7 @@ Monthly Theme Dressing helps to bond staff and to commemorate certain events suc
 5. Yellow and Gold
 6. Rose Quartz
 
-#### Quotes from participants
+<h3>Quotes from participants</h3>
 
 ![Quotes from participants](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E1.png)
 
