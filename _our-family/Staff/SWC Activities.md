@@ -51,6 +51,7 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Slide4.png">
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Slide5.png">
 
+</details>
 
 <details><summary>EMOTIONAL</summary>
 
@@ -68,17 +69,17 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 
 <h3>Quotes from participants</h3>
 
-![Quotes from participants](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E1.png)
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E1.png">
 
-![January - Red CNY &amp; February - Pink Valentines Day](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E2.png)
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E2.png">
 
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E3.png)
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E3.png">
 
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E4.png)
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E4.png">
 
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E5.png)
+<img src="(https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E5.png">
 
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E6.jpg)
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E6.jpg">
 
 <h3> Manito-Manitee Game</h3>
 
@@ -354,4 +355,4 @@ details[open] summary::after {
         opacity: 1
     }
 }
-</style></details>
+</style>
