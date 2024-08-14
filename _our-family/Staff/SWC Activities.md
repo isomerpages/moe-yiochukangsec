@@ -110,17 +110,17 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 
 <details><summary>PHYSICAL</summary>
 
-### Run for Your ‘Life’
+<h3>Run for Your ‘Life’</h3>
 
 
 <blockquote> ‘Stretch! Swing! Skip! Squat!’ ...</blockquote>
 
-These were some of the warm-up exercises that a group of staff performed before commencing their 14 th MOE Olive Run at Singapore Sports Hub, OCBC Square, on 13 July 2024. Whether or not their counterparts were dashing past them toward the finishing line, they remained focused on their personal pace, form, and even the enjoyment of
-the scenic beauty around them. Ultimately, their primary goal in joining the activity was to stay fit and healthy. Anything else, such as refreshments, goodie bags, complimentary fitness check, and even lucky draw prizes, was a bonus but secondary. After all, health is the greatest wealth.
+<p>These were some of the warm-up exercises that a group of staff performed before commencing their 14 th MOE Olive Run at Singapore Sports Hub, OCBC Square, on 13 July 2024. Whether or not their counterparts were dashing past them toward the finishing line, they remained focused on their personal pace, form, and even the enjoyment of
+the scenic beauty around them. Ultimately, their primary goal in joining the activity was to stay fit and healthy. Anything else, such as refreshments, goodie bags, complimentary fitness check, and even lucky draw prizes, was a bonus but secondary. After all, health is the greatest wealth.</p>
 
-![](/images/Our%20Family/Staff/SWC%20Activities/Physical/OliveRun_1.jpg)
-![](/images/Our%20Family/Staff/SWC%20Activities/Physical/OliveRun_2.jpg)
-![](/images/Our%20Family/Staff/SWC%20Activities/Physical/OliveRun_3.jpg)
+<img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/OliveRun_1.jpg">
+<img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/OliveRun_2.jpg">
+<img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/OliveRun_3.jpg">
 
 ### Yoga: Ignite Your Mind, Body and Soul!
 
