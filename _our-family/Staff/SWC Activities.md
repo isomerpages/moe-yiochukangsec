@@ -187,14 +187,12 @@ the scenic beauty around them. Ultimately, their primary goal in joining the act
 <p>The objectives of the annual Celebration of Learning Day are as follows:</p>
 
 <ul>
-	<li>To celebrate and affirm the meaningful work done by PLTs since 2021 Term 3.</li>
-
-	<li>To provide a platform for PLTs to share and learn from each other.</li>
-
+<li>To celebrate and affirm the meaningful work done by PLTs since 2021 Term 3.</li>
+<li>To provide a platform for PLTs to share and learn from each other.</li>
 <li>To allow PLTs to gather feedback and suggestions to improve on the lesson design and refine their tech-enabled learning activities.</li>
 </ul>
 
-The Celebration of Learning Day employed the Blended Learning approach with VP Mr Kevin Lim delivering his opening remarks via the Zoom Platform while the showcase of PLT lesson packages by 21 teams was conducted face-to-face in separate classrooms for safe distancing in 2021.
+<p>The Celebration of Learning Day employed the Blended Learning approach with VP Mr Kevin Lim delivering his opening remarks via the Zoom Platform while the showcase of PLT lesson packages by 21 teams was conducted face-to-face in separate classrooms for safe distancing in 2021.</p>
 
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Intellectual/I4.png">
 
