@@ -150,17 +150,17 @@ the scenic beauty around them. Ultimately, their primary goal in joining the act
 <h3>Staff retreat &amp; celebrations</h3>
 
 
-*Objective : To foster strong and cohesive teams through a team building staff retreat.*
+<p>Objective : To foster strong and cohesive teams through a team building staff retreat.</p>
 
-Feel the soft sand, the smooth sea and the bright sun while we **"Cruise the Southern Seas of Singapore"** - an adventure to discover the sustainability efforts of Singapore in the Southern Islands of Sisters Island, Kusu Island, Pulau Semakau, Pulau Bukom.
+<p>Feel the soft sand, the smooth sea and the bright sun while we **"Cruise the Southern Seas of Singapore"** - an adventure to discover the sustainability efforts of Singapore in the Southern Islands of Sisters Island, Kusu Island, Pulau Semakau, Pulau Bukom.</p>
 
-It was a clear sky on Friday, 24 June 2022, after days of rain. The staff had a bonding game with a boarding pass on the buses going to the Marina Bay Ferry Terminal. The staff disembarked on Kusu Island where they had a game untangling themselves. Engaging session learning the legends of the names of the islands, the sustainability efforts by the government.
+<p>It was a clear sky on Friday, 24 June 2022, after days of rain. The staff had a bonding game with a boarding pass on the buses going to the Marina Bay Ferry Terminal. The staff disembarked on Kusu Island where they had a game untangling themselves. Engaging session learning the legends of the names of the islands, the sustainability efforts by the government.</p>
 
-Ended the day with a buffet lunch on Sentosa. Staff made a pledge to save the environment.
+<p>Ended the day with a buffet lunch on Sentosa. Staff made a pledge to save the environment.</p>
 
-![title](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/P3.png)
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/P3.png">
 
-![title](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/P4.png)
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/P4.png">
 
 </details>
 
