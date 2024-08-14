@@ -32,11 +32,11 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 
 <p>Gathered in the cozy comfort of the Dance Studio 2, we revelled in the light-hearted stories steeped in history and practices of Muslims. While it culminated in quizzes that challenged our knowledge and wit, the winners brought home some mementos that served as vivid reminders of the generosity and inclusivity embedded within the Muslim culture.</p>
 
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Hari_Raya_2024_SWC_Slide1.png)
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Hari_Raya_2024_SWC_Slide1.png">
 
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Hari_Raya_2024_SWC_Slide2.png)
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Hari_Raya_2024_SWC_Slide2.png">
 
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Hari_Raya_2024_SWC_Slide3.png)
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Hari_Raya_2024_SWC_Slide3.png">
 
 ![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Hari_Raya_2024_SWC_Slide4.png)
 
