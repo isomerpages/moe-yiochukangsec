@@ -13,7 +13,7 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 
 <details><summary>SOCIAL</summary>
 
-<h3 class="content-h3">Mini Durian Delights</h3>
+<h3>Mini Durian Delights</h3>
 
 <p>The air buzzed with anticipation when a hint of its presence was dropped through a text message. Upon its arrival, the atmosphere intensified; some rushed up to it with their like-minded colleagues, while others scrunched up their noses yet politely declined, saying, ‘I would give it a miss.’ It is none other than the king of fruits – durian!</p>
 
@@ -38,53 +38,18 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Hari_Raya_2024_SWC_Slide3.png">
 
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Hari_Raya_2024_SWC_Slide4.png)
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Hari_Raya_2024_SWC_Slide4.png">
+
+<h3>Chinese New Year Celebrations 2024</h3>
 
 
-### Chinese New Year Celebrations 2024
+<p>To usher in the Year of the Dragon, all YCKSS staff convened in a calligraphy session on 2 February 2024. Empowered with creative autonomy, everyone carefully and meticulously penned auspicious words of their choice and engaged in the delicate art of paper cutting, reflecting personalised aspirations. The celebration would not be complete without the venerable tradition of Lo Hei on 16 February 2024, when a myriad of ingredients were tossed with one collective purpose: ringing in peace and prosperity in the coming year.</p>
 
-
-To usher in the Year of the Dragon, all YCKSS staff convened in a calligraphy session on 2 February 2024. Empowered with creative autonomy, everyone carefully and meticulously penned auspicious words of their choice and engaged in the delicate art of paper cutting, reflecting personalised aspirations. The celebration would not be complete without the venerable tradition of Lo Hei on 16 February 2024, when a myriad of ingredients were tossed with one collective purpose: ringing in peace and prosperity in the coming year.
-
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Slide1.png)
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Slide2.png)
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Slide3.png)
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Slide4.png)
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Slide5.png)
-
-
-
-### EAS Learning Day
-
-
-Did you spend the December holidays cooking up a storm in the kitchen? For the EAS, 2 December 2020, was the day they donned aprons and became chefs in a special culinary workshop they attended in school. Look at the all the dishes they managed to whip up! Stuffed Portobello mushroom, chicken sliders, brownies, and cheesecake cups. Is your mouth watering yet?
-
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S6.png)
-
-### Joy of Learning
-
-
-When was the last time you felt like a complete amateur when learning a new skill, feeling the joy (and the embarrassment) of being a complete novice with that willingness to look foolish, to struggle and ask questions, and to be mediocre at something yet be unafraid to experiment and try?
-
-1 September 2021, Wednesday was the **Joy of Learning Day**, a day of making learning fun, engaging and challenging for staff. It was planned by SWC in collaboration with the Design &amp; Technology unit. Instructions were given online for staff to have an exciting journey to create a "Magic Box".
-
-The staff room was abuzz with activity, laughter, questions and that occasional 'squeal'.
-
-#### Quotes from participants
-
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S7.png)
-
-It was a memorable day of bonding. There were 'wow' moments when staff finally completed the Bluetooth Speakers and saw how they work just as good as the commercially produced ones. There were 'ta-da' moments of mock fanfare even when the speaker ended up without a Bluetooth connection as wires just couldn't connect (like mine).
-
-#### Quotes from participants
-
-![Quotes from participants](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S8.png)
-
-![Pictures from 1st Sept 2021, The Joy of Learning](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S9.png)
-
-
-
-</details>
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Slide1.png">
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Slide2.png">
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Slide3.png">
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Slide4.png">
+<img by="" is="" for="" in="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Slide5.png">
 
 
 <details><summary>EMOTIONAL</summary>
@@ -390,4 +355,4 @@ details[open] summary::after {
         opacity: 1
     }
 }
-</style>
+</style></details>
