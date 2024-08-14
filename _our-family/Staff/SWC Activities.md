@@ -147,7 +147,7 @@ the scenic beauty around them. Ultimately, their primary goal in joining the act
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/P2.jpg">
 
 
-### Staff retreat &amp; celebrations
+<h3>Staff retreat &amp; celebrations</h3>
 
 
 *Objective : To foster strong and cohesive teams through a team building staff retreat.*
@@ -166,20 +166,20 @@ Ended the day with a buffet lunch on Sentosa. Staff made a pledge to save the en
 
 <details><summary>INTELLECTUAL</summary>
 
-### Professional Development
+<h3>Professional Development</h3>
 
 
-Professional development sessions ensure that staff continue to strengthen their practice throughout their career.
+<p>Professional development sessions ensure that staff continue to strengthen their practice throughout their career.</p>
 
-The key learning programmes for 2019 are Assessment for Learning (AfL), Differentiated Instruction (DI) and ICT in Pedagogy using The Student Learning Space (SLS).
+<p>The key learning programmes for 2019 are Assessment for Learning (AfL), Differentiated Instruction (DI) and ICT in Pedagogy using The Student Learning Space (SLS).</p>
 
-#### Quotes from participants
+<h4>Quotes from participants</h4>
 
-![Quotes from participants](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Intellectual/I1.png)
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Intellectual/I1.png">
 
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Intellectual/I2.png)
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Intellectual/I2.png">
 
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Intellectual/I3.png)
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Intellectual/I3.png">
 
 <h3>Celebration of Learning Day</h3>
 
