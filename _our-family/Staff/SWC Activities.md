@@ -67,7 +67,7 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 5. Yellow and Gold
 6. Rose Quartz
 
-<h3>Quotes from participants</h3>
+<h4>Quotes from participants</h4>
 
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E1.png">
 
