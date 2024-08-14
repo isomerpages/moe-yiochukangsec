@@ -59,13 +59,14 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 
 <p>Monthly Theme Dressing helps to bond staff and to commemorate certain events such as World Water Day, Earth Day...etc: The themes so far have been:-</p>
 
-
-1. Valentines Day (Pink)
-2. World Water Day (Sea of Blue)
-3. Earth Day (Green)
-4. White
-5. Yellow and Gold
-6. Rose Quartz
+<ol>
+<li>Valentines Day (Pink)</li>
+<li>World Water Day (Sea of Blue)</li>
+<li>Earth Day (Green)</li>
+<li>White</li>
+<li>Yellow and Gold</li>
+<li>Rose Quartz</li>
+</ol>
 
 <h4>Quotes from participants</h4>
 
@@ -77,16 +78,16 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E4.png">
 
-<img src="(https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E5.png">
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E5.png">
 
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E6.jpg">
 
 <h3> Manito-Manitee Game</h3>
 
 
-<p>During the month of September, we played the Manito-Manitee Game *(Angel-Mortal)* to encourage a caring environment in the school and to enhance staff bonding. All staff *(teaching and non-teaching)* were randomly paired and everyone had to take care of their appointed Manitee, for a month. Many gave gifts and wrote encouraging notes to brighten up the day, but they would remain anonymous until revelation day, which was Teachers' Day. There were hand made gifts and improvised wrapping papers , well thought and nicely wrapped up snacks and useful stationery.
-
-</p><p>All in all, most staff gave positive feedback and are looking forward to more of such engaging activities in future.</p>
+<p>During the month of September, we played the Manito-Manitee Game *(Angel-Mortal)* to encourage a caring environment in the school and to enhance staff bonding. All staff *(teaching and non-teaching)* were randomly paired and everyone had to take care of their appointed Manitee, for a month. Many gave gifts and wrote encouraging notes to brighten up the day, but they would remain anonymous until revelation day, which was Teachers' Day. There were hand made gifts and improvised wrapping papers , well thought and nicely wrapped up snacks and useful stationery.</p>
+	
+<p>All in all, most staff gave positive feedback and are looking forward to more of such engaging activities in future.</p>
 
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E7.png">
 
