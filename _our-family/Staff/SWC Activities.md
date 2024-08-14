@@ -181,27 +181,29 @@ The key learning programmes for 2019 are Assessment for Learning (AfL), Differen
 
 ![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Intellectual/I3.png)
 
-### Celebration of Learning Day
+<h3>Celebration of Learning Day</h3>
 
 
-The objectives of the annual Celebration of Learning Day are as follows:
+<p>The objectives of the annual Celebration of Learning Day are as follows:</p>
 
-* To celebrate and affirm the meaningful work done by PLTs since 2021 Term 3.
+<ul>
+	<li>To celebrate and affirm the meaningful work done by PLTs since 2021 Term 3.</li>
 
-* To provide a platform for PLTs to share and learn from each other.
+	<li>To provide a platform for PLTs to share and learn from each other.</li>
 
-* To allow PLTs to gather feedback and suggestions to improve on the lesson design and refine their tech-enabled learning activities.
+<li>To allow PLTs to gather feedback and suggestions to improve on the lesson design and refine their tech-enabled learning activities.</li>
+</ul>
 
 The Celebration of Learning Day employed the Blended Learning approach with VP Mr Kevin Lim delivering his opening remarks via the Zoom Platform while the showcase of PLT lesson packages by 21 teams was conducted face-to-face in separate classrooms for safe distancing in 2021.
 
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Intellectual/I4.png)
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Intellectual/I4.png">
 
-### First Aid Course
+<h3>First Aid Course</h3>
 
 
-Our teachers continue to improve their competencies even when the school term has ended. The Standard First-Aid Course + CPR + AED Course Online Theory lesson was held on 6 September 2021 and the Face to Face Practical session was held on 19 November 2021. The objective of the course is to ensure that all staff be trained in life saving skills.
+<p>Our teachers continue to improve their competencies even when the school term has ended. The Standard First-Aid Course + CPR + AED Course Online Theory lesson was held on 6 September 2021 and the Face to Face Practical session was held on 19 November 2021. The objective of the course is to ensure that all staff be trained in life saving skills.</p>
 
-![First Aid Course - 6 Sept 2021](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Intellectual/I5.png)
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Intellectual/I5.png">
 	
 </details>
 
