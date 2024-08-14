@@ -85,7 +85,7 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 <h3> Manito-Manitee Game</h3>
 
 
-<p>During the month of September, we played the Manito-Manitee Game *(Angel-Mortal)* to encourage a caring environment in the school and to enhance staff bonding. All staff *(teaching and non-teaching)* were randomly paired and everyone had to take care of their appointed Manitee, for a month. Many gave gifts and wrote encouraging notes to brighten up the day, but they would remain anonymous until revelation day, which was Teachers' Day. There were hand made gifts and improvised wrapping papers , well thought and nicely wrapped up snacks and useful stationery.</p>
+	<p>During the month of September, we played the Manito-Manitee Game (Angel-Mortal) to encourage a caring environment in the school and to enhance staff bonding. All staff (teaching and non-teaching)* were randomly paired and everyone had to take care of their appointed Manitee, for a month. Many gave gifts and wrote encouraging notes to brighten up the day, but they would remain anonymous until revelation day, which was Teachers' Day. There were hand made gifts and improvised wrapping papers , well thought and nicely wrapped up snacks and useful stationery.</p>
 	
 <p>All in all, most staff gave positive feedback and are looking forward to more of such engaging activities in future.</p>
 
@@ -123,28 +123,28 @@ the scenic beauty around them. Ultimately, their primary goal in joining the act
 <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/OliveRun_2.jpg">
 <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/OliveRun_3.jpg">
 
-### Yoga: Ignite Your Mind, Body and Soul!
+<h3>Yoga: Ignite Your Mind, Body and Soul!</h3>
 
 
-Armed with water bottles, towels, and even yoga mats, the staff soldiered on to the sacred sanctuaries where tranquil melodies and revitalising yoga awaited on an ordinary Friday, 1 March 2024. Namaste!
+<p>Armed with water bottles, towels, and even yoga mats, the staff soldiered on to the sacred sanctuaries where tranquil melodies and revitalising yoga awaited on an ordinary Friday, 1 March 2024. Namaste!</p>
 
-Having greeted the yoga teachers respectfully, some traversed along an infinity pattern gracefully in the cavernous hall, while others curled their toes and lifted their hips methodically in the cozy studio. The rewards were immense – radiant smiles across the faces, beads of perspiration testament to a vigorous workout and last but not least, a much-cherished respite from the hustle and bustle of life.
+<p>Having greeted the yoga teachers respectfully, some traversed along an infinity pattern gracefully in the cavernous hall, while others curled their toes and lifted their hips methodically in the cozy studio. The rewards were immense – radiant smiles across the faces, beads of perspiration testament to a vigorous workout and last but not least, a much-cherished respite from the hustle and bustle of life.</p>
 
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/YOGA1.png)
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/YOGA2.png)
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/YOGA3.png)
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/YOGA4.png)
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/YOGA1.png">
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/YOGA2.png">
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/YOGA3.png">
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/YOGA4.png">
 
-### Staff Appreciation Day 5th Sept
+<h3> Staff Appreciation Day 5th Sept</h3>
 
 
-The grouping for the bowling activity was done so that every team had a mixed number of bowlers from school leaders to the EAS staff. There was much bonding during the event. It was an event that favoured no male or female bowlers. All 120 bowlers had an equal chance of doing well for the team. At the end of the day, hidden talents in bowling emerged and the rest had a very joyful day.
+<p>The grouping for the bowling activity was done so that every team had a mixed number of bowlers from school leaders to the EAS staff. There was much bonding during the event. It was an event that favoured no male or female bowlers. All 120 bowlers had an equal chance of doing well for the team. At the end of the day, hidden talents in bowling emerged and the rest had a very joyful day.</p>
 
-#### Quotes from participants
+<h4>Quotes from participants</h4>
 
-![Quotes from participants](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/P1.png)
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/P1.png">
 
-![A Bowling Event for All in the Family!](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/P2.jpg)
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/P2.jpg">
 
 
 ### Staff retreat &amp; celebrations
