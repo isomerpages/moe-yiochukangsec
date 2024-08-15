@@ -75,11 +75,27 @@ p {
     isolation: isolate
 }
 	
-blockquote { position: relative; font-family: 'Helvetica Neue', 'Georgia', 'Garamond', 'Times New Roman', serif; font-size: 2.5rem; font-weight: 300; font-color: #4d91b3; line-height: 2em; padding-left: 0.5em; font-style: italic; }
+blockquote { position: relative; font-family: 'Helvetica Neue', 'Georgia', 'Garamond', 'Times New Roman', serif; font-size: 1.75rem; font-weight: 300; font-color: #4d91b3; line-height: 2em; padding-left: 0.5em; font-style: italic; }
 
-blockquote:before { content: '|'; position: absolute; left: -0.75em; color: rgba(0,0,0, 0.15); font-size: 2em; z-index: -1; }
+blockquote:before {
+    content: '|';
+    position: absolute;
+    left: -0.75em;
+    color: rgba(0,0,0, 0.15);
+    font-size: 2em;
+    z-index: -1;
+}
 
-blockquote:after { content: '\\201C'; position: absolute; top: 0.25em; left: -0.15em; color: rgba(0,0,0, 0.15); font-size: 4em; font-weight: 800; z-index: -1; }
+blockquote:after {
+    content: '\201C';
+    position: absolute;
+    top: 0.25em;
+    left: -0.15em;
+    color: rgba(0,0,0, 0.15);
+    font-size: 4em;
+    font-weight: 800;
+    z-index: -1;
+}
 
 img {
     font-style: italic;
