@@ -67,16 +67,60 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 </section>
 </details>
 	
-<style>				
+<style>
 @charset "UTF-8";
+
+canvas,
+img,
+picture,
+svg,
+video {
+    display: block;
+    max-width: 100%
+}
+
+button,
+input,
+select,
+textarea {
+    font: inherit
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    overflow-wrap: break-word
+}
+
+#__next,
+#root {
+    isolation: isolate
+}
+	
+blockquote {
+    position: relative;
+    font-family: 'Helvetica Neue', 'Georgia', 'Garamond', 'Times New Roman', serif;
+    font-size: 1.5rem;
+    line-height: 2em;
+    font-style: italic;
+}
+img {
+    font-style: italic;
+    vertical-align: middle;
+    background-repeat: no-repeat;
+    background-size: cover
+}
 
 details {
     max-width: 100ch;
-    margin: 1.5rem 1.25rem;
-    padding: 1.25rem;
-    background-color: none;
+    background-color: inherit;
     border-radius: 1rem;
-    box-shadow: 0 0.05rem 0.05rem rgba(0, 0, 0, 0.05);
+	  margin-bottom: 2.5rem;
+    box-shadow: 0 .05rem .05rem rgba(0, 0, 0, .05)
 }
 
 details summary {
@@ -84,77 +128,76 @@ details summary {
     align-items: center;
     justify-content: space-between;
     font-weight: 400;
-	  font-size: 1.75rem;
-    margin-bottom: 0;
-    transition: margin-bottom 0.5s ease;
-    position: relative;
+    font-size: 2.75rem;
+	  margin-bottom: 1.5rem;
+    transition: margin-bottom .5s ease;
+    position: relative
 }
 
 details summary::-webkit-details-marker,
 details summary::marker {
     content: " ";
-    display: none;
+    display: none
 }
 
 details summary::after {
     content: "+";
     font-size: 1.5rem;
     font-weight: 500;
-    line-height: 1;
-    margin-right: 0.8rem;
+    margin-right: .8rem;
     cursor: pointer;
-    background-color: rgba(255, 195, 5, 0.25);
-    padding: 0.75rem;
+    background-color: rgba(255, 195, 5, .25);
+    padding: .75rem;
     display: grid;
     place-content: center;
     aspect-ratio: 1;
     line-height: 0;
     position: absolute;
-    top: 0.5rem;
+    top: .5rem;
     right: -1.5rem;
-    border-radius: 50%;
+    border-radius: 50%
 }
 
-details *:not(summary) {
+details :not(summary) {
     animation-name: fade;
-    animation-duration: 0.5s;
+    animation-duration: .5s
 }
 
 details[open] summary {
-    margin-bottom: 1.5rem;
+    margin-bottom: 1.5rem
 }
 
 details[open] summary::after {
-    content: "×";
+    content: "×"
 }
 
 @keyframes fade {
     0% {
-        opacity: 0;
+        opacity: 0
     }
 
     2.5% {
-        opacity: 0.02;
+        opacity: .02
     }
 
     5% {
-        opacity: 0.05;
+        opacity: .05
     }
 
     10% {
-        opacity: 0.1;
+        opacity: .1
     }
 
     25% {
-        opacity: 0.25;
+        opacity: .25
     }
 
     60% {
-        opacity: 0.6;
+        opacity: .6
     }
 
     100% {
-        opacity: 1;
+        opacity: 1
     }
 }
 </style>
