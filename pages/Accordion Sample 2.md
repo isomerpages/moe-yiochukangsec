@@ -4,43 +4,18 @@ permalink: /sample-2/
 description: ""
 variant: markdown
 ---
-# STAFF WELL-BEING COMMITTEE (SWC) ACTIVITIES
+# Test Page
 
-The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the physical, intellectual, emotional and social well-being pf the staff. The school aims to develop an engaged staff who care for self and others. Some of the plans in promoting staff well-being and satisfaction include identifying staff needs, staff well-being programmes and activities and providing a safe and secure environment.
+<blockquote>"Not all things turn out well. Use this to test the battleground ..."</blockquote>
 
-<details><summary><h2>SOCIAL</h2></summary>
-<section>
-	<h3>Mini Durian Delights</h3>
+<details><summary><h2>59th Speech &amp; Prize Giving Day</h2></summary>
 
-<p>The air buzzed with anticipation when a hint of its presence was dropped through a text message. Upon its arrival, the atmosphere intensified; some rushed up to it with their like-minded colleagues, while others scrunched up their noses yet politely declined, saying, ‘I would give it a miss.’ It is none other than the king of fruits – durian!</p>
+[![59th Speech &amp; Prize Giving Day - Full Performance 26 May 2024](https://res.cloudinary.com/marcomontalbano/image/upload/v1717727983/video_to_markdown/images/youtube--iivxaYHg7HY-c05b58ac6eb4c4700831b2b3070cd403.jpg)]( https://www.youtube.com/watch?v=iivxaYHg7HY "59th Speech &amp; Prize Giving Day - Full Performance 26 May 2024")
 
-<p>On the 28th of June 2024, staff were greeted by the strong and distinct aroma of durians. Enthusiasts revelled in its rich and creamy texture, especially in the company of other durian lovers at the Heritage Gallery. Whether the unique aroma elicited adoration or aversion, everyone had either the king of fruits or other delectable fruits to savour that day. While durians may reign supreme in the hearts of many fruit lovers, they did not overshadow the significance of the shared experience among us in the teaching fraternity.</p>
-
-![Staff enjoying the durians](/images/Our%20Family/Staff/SWC%20Activities/Social/Mini_DD_2.png)
-![Staff showing off their durians](/images/Our%20Family/Staff/SWC%20Activities/Social/Mini_DD_3.png)
-![The durians are ready!](/images/Our%20Family/Staff/SWC%20Activities/Social/Mini_DD_5.png)
-
-<hr>
-
-<h3>Embracing the Spirit of Hari Raya</h3>
-
-
-<p>Hari Raya festivities are synonymous with an exquisite array of culinary delights. It was no exception this year, with the primary aim of fostering YCKSS familial ties. On 19 April, as the aroma of tantalising lunch filled the air, it set the perfect backdrop for colleagues to engage in hearty conversations amidst their busy lives.</p>
-
-<p>Gathered in the cozy comfort of the Dance Studio 2, we revelled in the light-hearted stories steeped in history and practices of Muslims. While it culminated in quizzes that challenged our knowledge and wit, the winners brought home some mementos that served as vivid reminders of the generosity and inclusivity embedded within the Muslim culture.</p>
-
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Hari_Raya_2024_SWC_Slide1.png)
-
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Hari_Raya_2024_SWC_Slide2.png)
-
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Hari_Raya_2024_SWC_Slide3.png)
-
-![](https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Hari_Raya_2024_SWC_Slide4.png)
-
-</section>
+[![Highlights from 59th Speech &amp; Prize Giving Day](https://res.cloudinary.com/marcomontalbano/image/upload/v1717728267/video_to_markdown/images/youtube--vXqtR-VJkn4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=vXqtR-VJkn4 "Highlights from 59th Speech &amp; Prize Giving Day")
 </details>
 
-<details><summary><h2>EMOTIONAL</h2></summary>
+<details><summary>58th Speech &amp; Prize Giving Day</summary>
 	
 <section>
     <p>At the durian feast held on 31st July 2019, our staff were spoiled for choices. With a variety of fruits to choose from, the King of fruits was definitely the favourite. Staff who tried the Mao Shan Wang (MSW) durian, known to be the premium type, commented on its rich, bitter and heavily rich flavour.
@@ -53,18 +28,17 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 </details>
 
 
-<details>
-<summary><h2>PHYSICAL</h2></summary>
-<section>
-	<p>Some text here ...</p>
-</section>
+<details><summary>57th Speech &amp; Prize Giving Day</summary>
+
+[![Highlights from 57th Speech &amp; Prize Giving Day](https://res.cloudinary.com/marcomontalbano/image/upload/v1717728764/video_to_markdown/images/youtube--_WaoEa4PJzU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=_WaoEa4PJzU "Highlights from 57th Speech &amp; Prize Giving Day")
+
+	
 </details>
 
-<details>
-<summary><h2>INTELLECTUAL</h2></summary>
-<section>
-	<p>Some text here ...</p>
-</section>
+<details><summary>56th Speech &amp; Prize Giving Day</summary>
+
+[![Highlights from 56th Speech &amp; Prize Giving Day](https://res.cloudinary.com/marcomontalbano/image/upload/v1717728889/video_to_markdown/images/youtube--aHeeaGQKlwQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=aHeeaGQKlwQ "Highlights from 56th Speech &amp; Prize Giving Day")
+	
 </details>
 	
 <style>
@@ -101,13 +75,12 @@ p {
     isolation: isolate
 }
 	
-blockquote {
-    position: relative;
-    font-family: 'Helvetica Neue', 'Georgia', 'Garamond', 'Times New Roman', serif;
-    font-size: 1.5rem;
-    line-height: 2em;
-    font-style: italic;
-}
+blockquote { position: relative; font-family: 'Helvetica Neue', 'Georgia', 'Garamond', 'Times New Roman', serif; font-size: 2.5rem; font-weight: 300; font-color: #4d91b3; line-height: 2em; padding-left: 0.5em; font-style: italic; }
+
+blockquote:before { content: '|'; position: absolute; left: -0.75em; color: rgba(0,0,0, 0.15); font-size: 2em; z-index: -1; }
+
+blockquote:after { content: '\\201C'; position: absolute; top: 0.25em; left: -0.15em; color: rgba(0,0,0, 0.15); font-size: 4em; font-weight: 800; z-index: -1; }
+
 img {
     font-style: italic;
     vertical-align: middle;
