@@ -30,7 +30,8 @@ variant: markdown
 
 <details><summary>57th Speech &amp; Prize Giving Day</summary>
 
-[![Highlights from 57th Speech &amp; Prize Giving Day](https://res.cloudinary.com/marcomontalbano/image/upload/v1717728764/video_to_markdown/images/youtube--_WaoEa4PJzU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=_WaoEa4PJzU "Highlights from 57th Speech &amp; Prize Giving Day")
+
+	[![Highlights from 57th Speech &amp; Prize Giving Day](https://res.cloudinary.com/marcomontalbano/image/upload/v1717728764/video_to_markdown/images/youtube--_WaoEa4PJzU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=_WaoEa4PJzU "Highlights from 57th Speech &amp; Prize Giving Day")
 
 	
 </details>
