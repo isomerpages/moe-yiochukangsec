@@ -11,8 +11,10 @@ variant: markdown
 <details><summary><h2>59th Speech &amp; Prize Giving Day</h2></summary>
 
 [![59th Speech &amp; Prize Giving Day - Full Performance 26 May 2024](https://res.cloudinary.com/marcomontalbano/image/upload/v1717727983/video_to_markdown/images/youtube--iivxaYHg7HY-c05b58ac6eb4c4700831b2b3070cd403.jpg)]( https://www.youtube.com/watch?v=iivxaYHg7HY "59th Speech &amp; Prize Giving Day - Full Performance 26 May 2024")
+	
 
-[![Highlights from 59th Speech &amp; Prize Giving Day](https://res.cloudinary.com/marcomontalbano/image/upload/v1717728267/video_to_markdown/images/youtube--vXqtR-VJkn4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=vXqtR-VJkn4 "Highlights from 59th Speech &amp; Prize Giving Day")
+
+	[![Highlights from 59th Speech &amp; Prize Giving Day](https://res.cloudinary.com/marcomontalbano/image/upload/v1717728267/video_to_markdown/images/youtube--vXqtR-VJkn4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=vXqtR-VJkn4 "Highlights from 59th Speech &amp; Prize Giving Day")
 </details>
 
 <details><summary>58th Speech &amp; Prize Giving Day</summary>
