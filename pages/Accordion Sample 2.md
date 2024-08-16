@@ -42,8 +42,6 @@ variant: markdown
 	
 <a href="https://www.youtube.com/watch?v=aHeeaGQKlwQ"><img alt="Highlights from 56th Speech &amp; Prize Giving Day" src="/images/Our%20Story/Speech%20Day/56SpeechDay.jpg"></a>
 
-[![Highlights from 56th Speech &amp; Prize Giving Day](https://res.cloudinary.com/marcomontalbano/image/upload/v1717728889/video_to_markdown/images/youtube--aHeeaGQKlwQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=aHeeaGQKlwQ "Highlights from 56th Speech &amp; Prize Giving Day")
-	
 </details>
 	
 <style>
