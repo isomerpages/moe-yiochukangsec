@@ -52,6 +52,9 @@ variant: markdown
 
 <p> 			
 <img src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Mathematics%20and%20%20POA%20Dpt/Maths_n_POA_R11.png">
+	</p>
+	<p>
+<img src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Mathematics%20and%20%20POA%20Dpt/Maths_n_POA_R12.png">
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
