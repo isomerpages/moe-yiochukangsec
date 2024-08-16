@@ -16,7 +16,7 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p>   
-<img src="/images/Our%20Story/Organisation%20Chart/Non%20Teaching%20Staff/Student%20Support/Non_Teaching_R19.png">
+<img src="/images/Our%20Story/Organisation%20Chart/Non%20Teaching%20Staff/Student%20Support/Non_Teaching_R19a.png">
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
@@ -30,7 +30,7 @@ variant: markdown
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <img src="/images/Our%20Story/Organisation%20Chart/Non%20Teaching%20Staff/Administrative%20Support/Non_Teaching_R20.png">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <img src="/images/Our%20Story/Organisation%20Chart/Non%20Teaching%20Staff/Administrative%20Support/Non_Teaching_R20a.png">
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
