@@ -8,7 +8,7 @@ variant: markdown
 
 <blockquote>"Not all things turn out well. Use this to test the battleground ..."</blockquote>
 
-<details><summary><h2>59th Speech &amp; Prize Giving Day</h2></summary>
+<details><summary>59th Speech &amp; Prize Giving Day</summary>
 
 [![59th Speech &amp; Prize Giving Day - Full Performance 26 May 2024](https://res.cloudinary.com/marcomontalbano/image/upload/v1717727983/video_to_markdown/images/youtube--iivxaYHg7HY-c05b58ac6eb4c4700831b2b3070cd403.jpg)]( https://www.youtube.com/watch?v=iivxaYHg7HY "59th Speech &amp; Prize Giving Day - Full Performance 26 May 2024")
 	
@@ -39,6 +39,8 @@ variant: markdown
 </details>
 
 <details><summary>56th Speech &amp; Prize Giving Day</summary>
+	
+<a href="https://www.youtube.com/watch?v=aHeeaGQKlwQ"><img src="/images/Our%20Story/Speech%20Day/56SpeechDay.jpg"></a>
 
 [![Highlights from 56th Speech &amp; Prize Giving Day](https://res.cloudinary.com/marcomontalbano/image/upload/v1717728889/video_to_markdown/images/youtube--aHeeaGQKlwQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=aHeeaGQKlwQ "Highlights from 56th Speech &amp; Prize Giving Day")
 	
