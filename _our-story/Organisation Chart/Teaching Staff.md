@@ -103,7 +103,7 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p>
-<img src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Science%20Department/Science_R16.png">
+<img src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Science%20Department/Science_R16a.png">
 			</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
