@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_reg_2024.png">
 </div>
-<p><a href="https://go.gov.sg/sscwc2023regsec/" rel="noopener noreferrer nofollow" target="_blank">Click here to register!</a>
+<p><a href="https://form.gov.sg/66cd5cb6ffe8274d31f0865f" rel="noopener noreferrer nofollow" target="_blank">Click here to register!</a>
 </p>
 <hr>
 <h3><strong>Mentors' Training Programme</strong></h3>
@@ -36,5 +36,5 @@ schools will be invited to attend the showcase &amp; celebration event.</p>
 <p>Winning teams will receive their prizes at this event. All student participants
 will also receive their Certificates of Participation.</p>
 <hr>
-<h6><strong>Notes</strong> <br><br><strong>1.</strong> Late registrations will <strong>not be accepted</strong>. <a href="/files/Sscwc/sscwc%202023%20terms%20and%20conditions.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a> for terms and conditions.<br><br><strong>2.</strong> Lunch and tea will be catered. Refer to <a href="https://go.gov.sg/sscwc2023regsec/" rel="noopener noreferrer nofollow" target="_blank">registration form</a> for more details. <br><br><strong>3.</strong> Video submissions will be evaluated by a panel of judges comprising representatives from partner organisations.</h6>
+<h6><strong>Notes</strong> <br><br><strong>1.</strong> Late registrations will <strong>not be accepted</strong>. <a href="/files/Sscwc/sscwc%202023%20terms%20and%20conditions.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a> for terms and conditions.<br><br><strong>2.</strong> Lunch and tea will be catered. Refer to <a href="https://form.gov.sg/66cd5cb6ffe8274d31f0865f" rel="noopener noreferrer nofollow" target="_blank">registration form</a> for more details. <br><br><strong>3.</strong> Video submissions will be evaluated by a panel of judges comprising representatives from partner organisations.</h6>
 <p></p>
