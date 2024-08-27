@@ -15,6 +15,11 @@ around Cyber Wellness themes, supported by the Media Literacy Council (MLC).
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="FYI_Logo_2" src="/images/Sscwc/fyi_logo_2.png">
 </div>
+<h3></h3>
+<h3></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Top_Banner_2.png">
+</div>
 <h3><strong>Theme for 2024 Challenge</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Be safe" src="/images/Sscwc/be%20safe.png">
@@ -52,8 +57,9 @@ conceptualise suitable stories / messages in line with the selected key
 Cyber Wellness message and target audience. Student participants will also
 be trained by Apple Professional Learning Specialists in Singapore on producing
 a video using the iPad.²</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Organisations" src="/images/Sscwc/partnership%20logos1.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bottom_Banner.png">
 </div>
 <hr>
 <h3><strong>Team Composition</strong></h3>
@@ -61,9 +67,8 @@ a video using the iPad.²</p>
 <img style="width: 100%" height="auto" width="100%" alt="Team composition" src="/images/Sscwc/team%20composition.png">
 </div>
 <h3><strong>Timeline &amp; Milestones</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Timeline" src="/images/Sscwc/main%20page%20timeline.png">
-</div>
+<p><strong>Coming Soon!</strong>
+</p>
 <h3><strong>How to Participate?</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Participants" src="/images/Sscwc/pri%20&amp;%20sec%20participants.png">
