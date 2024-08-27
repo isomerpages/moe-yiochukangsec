@@ -104,7 +104,7 @@ a video using the iPad.²</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/sscwc2023regsec/" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a>
+<p><a href="https://form.gov.sg/66cd5cb6ffe8274d31f0865f" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a>
 </p>
 </td>
 </tr>
