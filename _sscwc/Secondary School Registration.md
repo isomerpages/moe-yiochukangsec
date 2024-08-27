@@ -13,12 +13,12 @@ variant: tiptap
 <hr>
 <h3><strong>Mentors' Training Programme</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mentors' training" src="/images/Sscwc/secsch_mentor%20details.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mentors_Training_2024.png">
 </div>
 <hr>
 <h3><strong>About the Bootcamp Challenge</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bootcamp Details" src="/images/Sscwc/bootcamp%20details.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bootcamp_2024.png">
 </div>
 <p>Students will gain more in-depth knowledge and skills about Cyber Wellness,
 and apply their learning to storyboard and conceptualise suitable stories
