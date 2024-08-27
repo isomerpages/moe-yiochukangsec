@@ -67,8 +67,9 @@ a video using the iPad.²</p>
 <img style="width: 100%" height="auto" width="100%" alt="Team composition" src="/images/Sscwc/team%20composition.png">
 </div>
 <h3><strong>Timeline &amp; Milestones</strong></h3>
-<p><strong>Coming Soon!</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Timeline_2024.png">
+</div>
 <h3><strong>How to Participate?</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Participants" src="/images/Sscwc/pri%20&amp;%20sec%20participants.png">
