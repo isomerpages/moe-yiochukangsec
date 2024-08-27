@@ -36,11 +36,11 @@ on 5 Feb 2024)</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Students/Assessment Information Sche/EOY__Subject_Information_2024_9__Sec_2_G3_.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject information Sec2 G3</a>
+<p><a href="/files/Students/Assessment Information Sche/EOY__Subject_Information_2024__Sec_2_G3_updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject information Sec2 G3</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Students/Assessment Information Sche/EOY__Subject_Information_2024_9__Sec_2_G2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject information Sec2 G2</a>
+<p><a href="/files/Students/Assessment Information Sche/EOY_Subject_Information_2024__Sec_2_G2_updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject information Sec2 G2</a>
 </p>
 </li>
 <li>
@@ -56,7 +56,7 @@ on 5 Feb 2024)</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Students/Assessment Information Sche/EOY__Subject_Information_2024___3NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject information Sec 3NA</a>
+<p><a href="/files/Students/Assessment Information Sche/EOY__Subject_Information_2024__Sec_3NA_updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject information Sec 3NA</a>
 </p>
 </li>
 <li>
