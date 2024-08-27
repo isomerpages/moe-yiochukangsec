@@ -100,7 +100,7 @@ a video using the iPad.²</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/sscwc2023regpri/" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a>
+<p><a href="https://form.gov.sg/66cd5bcd47c670ce53e0e1af" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
