@@ -15,7 +15,7 @@ and level.</p>
 <p><a href="/files/Students/Assessment Information Sche/NEW/YCKSS_Weighted_Assessment_Rules_and_Regulations.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Rules &amp; Regulations</a> (updated
 on 5 Feb 2024)</p>
 <h3><strong>EOY Subject information (2024 )</strong></h3>
-<p>(updated on 12 August 2024)</p>
+<p>(updated on 27 August 2024)</p>
 <p><strong>Secondary 1</strong>
 </p>
 <ul data-tight="true" class="tight">
