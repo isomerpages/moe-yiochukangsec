@@ -24,7 +24,7 @@ sections:
       subtitle: Singapore schools
       button: Find Out More
       url: https://www.yiochukangsec.moe.edu.sg/sscwc/sscwc2024/
-      image: /images/Top_Banner_2.png
+      image: /images/Homepage.png
       alt: Image alt text
   - infopic:
       title: Visit Us
