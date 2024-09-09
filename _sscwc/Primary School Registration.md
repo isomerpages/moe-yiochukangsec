@@ -8,7 +8,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pri_reg_2024.png">
 </div>
 <p><a href="https://form.gov.sg/66cd5bcd47c670ce53e0e1af" rel="noopener noreferrer nofollow" target="_blank">Click here to register!</a>
-</p>
+</p><a class="isomer-image-wrapper" href="https://go.gov.sg/sscwc2024regpri"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/register_now.png"></a>
 <hr>
 <h3><strong>About the Bootcamp Challenge</strong></h3>
 <div class="isomer-image-wrapper">
