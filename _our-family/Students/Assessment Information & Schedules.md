@@ -14,6 +14,30 @@ and level.</p>
 <h3><strong>Assessment Rules &amp; Regulations</strong></h3>
 <p><a href="/files/Students/Assessment Information Sche/NEW/YCKSS_Weighted_Assessment_Rules_and_Regulations.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Rules &amp; Regulations</a> (updated
 on 5 Feb 2024)</p>
+<h3><strong>EOY Timetable (2024 )</strong></h3>
+<p>(updated on 13 September 2024)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Students/Assessment Information Sche/2024_Sec_1_EOY_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 1 EOY Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/2024_Sec_2_EOY_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 2 EOY Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/Sec_3Express_EOY_Timetable_2024.pdf" rel="noopener nofollow" target="_blank">Sec 3Express EOY Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/Sec_3N_A__EOY_Timetable2024.pdf" rel="noopener nofollow" target="_blank">Sec 3NA EOY Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/Sec_3N_T__EOY_Timetable_2024.pdf" rel="noopener nofollow" target="_blank">Sec 3NT EOY Timetable</a>
+</p>
+</li>
+</ul>
 <h3><strong>EOY Subject information (2024 )</strong></h3>
 <p>(updated on 27 August 2024)</p>
 <p><strong>Secondary 1</strong>
