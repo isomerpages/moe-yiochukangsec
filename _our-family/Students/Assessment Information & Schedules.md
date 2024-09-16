@@ -34,8 +34,9 @@ on 5 Feb 2024)</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Students/Assessment Information Sche/Sec_3N_T__EOY_Timetable_2024.pdf" rel="noopener nofollow" target="_blank">Sec 3NT EOY Timetable</a>
+<p><a href="/files/Students/Assessment Information Sche/Sec_3N_T__EOY_Timetable_2024_updated130924_.pdf" rel="noopener nofollow" target="_blank">Sec 3NT EOY Timetable</a>
 </p>
+<p></p>
 </li>
 </ul>
 <h3><strong>EOY Subject information (2024 )</strong></h3>
