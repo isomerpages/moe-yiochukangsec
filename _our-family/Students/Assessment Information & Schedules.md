@@ -15,10 +15,10 @@ and level.</p>
 <p><a href="/files/Students/Assessment Information Sche/NEW/YCKSS_Weighted_Assessment_Rules_and_Regulations.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Rules &amp; Regulations</a> (updated
 on 5 Feb 2024)</p>
 <h3><strong>EOY Timetable (2024 )</strong></h3>
-<p>(updated on 13 September 2024)</p>
+<p>(updated on 19 September 2024)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Students/Assessment Information Sche/2024_Sec_1_EOY_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 1 EOY Timetable</a>
+<p><a href="/files/Students/Assessment Information Sche/2024updated_Sec_1_EOY_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 1 EOY Timetable</a>
 </p>
 </li>
 <li>
