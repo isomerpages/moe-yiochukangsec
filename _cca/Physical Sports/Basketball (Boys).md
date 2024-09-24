@@ -6,7 +6,7 @@ third_nav_title: Physical Sports
 variant: markdown
 ---
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Basketball%20(Boys)/B1.jpg)
-The Basketball CCA aims to develop qualities such as positive self-esteem and sportsmanship through their participation in training sessions and competition. We seek to inculcate values of gratitude, respect for others, honesty and teamwork. Basketball as a sport plays an important role in the physical, cognitive, social, emotional and character development of every student. Students learn skills of self-management, responsible decision-making and social awareness. The broad philosophy of our approach is to ensure that every student who has the potential, ability or interest is provided with the opportunity to develop his potential to the fullest.
+The Basketball CCA aims to cultivate positive self-esteem and sportsmanship in students through training sessions and competitions. We strive to instill values such as gratitude, respect for others, honesty, and teamwork. Basketball plays a crucial role in the physical, cognitive, social, emotional, and character development of every student. Through the sport, students acquire skills in self-management, responsible decision-making, and social awareness. Our overarching philosophy is to ensure that every student with potential, ability, or interest is given the opportunity to fully develop their potential.
 
 
 <ul class="jekyllcodex_accordion">
