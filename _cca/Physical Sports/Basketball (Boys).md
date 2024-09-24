@@ -3,6 +3,7 @@ title: Basketball (Boys)
 permalink: /cca/Physical-Sports/Basketball-Boys/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Basketball%20(Boys)/B1.jpg)
 The Basketball CCA aims to develop qualities such as positive self-esteem and sportsmanship through their participation in training sessions and competition. We seek to inculcate values of gratitude, respect for others, honesty and teamwork. Basketball as a sport plays an important role in the physical, cognitive, social, emotional and character development of every student. Students learn skills of self-management, responsible decision-making and social awareness. The broad philosophy of our approach is to ensure that every student who has the potential, ability or interest is provided with the opportunity to develop his potential to the fullest.
@@ -10,13 +11,13 @@ The Basketball CCA aims to develop qualities such as positive self-esteem and sp
 
 <ul class="jekyllcodex_accordion">
 
-  <li>
+&nbsp;&nbsp;<li>
 
-    <input type="checkbox" id="accordion1">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Training Schedule</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Training&nbsp;Schedule</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -44,33 +45,33 @@ The Basketball CCA aims to develop qualities such as positive self-esteem and sp
 </table>
 			</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	<li>
 
-    <input type="checkbox" id="accordion2">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Proudest Moments</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Proudest&nbsp;Moments</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-      <p> 2021 S7 Cluster Games 1st and 2nd place<br>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> 2021 S7 Cluster Games 1st and 2nd place<br>  
 2019 Bowen Cup ‘C’ Diversion Champions<br>
 2019 YCKSS Cup ‘B’ Diversion 2nd Runner-up 
 			</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion3">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Events/Competitions</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Events/Competitions</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> <b>2021</b><br>
 
@@ -88,11 +89,11 @@ North Zone ‘B’ Div Inter-school Basketball Tournament 1st round<br>
 
 North Zone ‘C’ Div Inter-school Basketball Tournament 1st round<br>
 
-Bowen Cup 2019 ‘C’ Diversion Champions<br> 
+Bowen Cup 2019 ‘C’ Diversion Champions<br>&nbsp;
 
-YCKSS Cup 2019 ‘B’ Diversion 2nd Runner-up<br> 
+YCKSS Cup 2019 ‘B’ Diversion 2nd Runner-up<br>&nbsp;
 
-Yio Chu Kang Youth Sports Fiesta 2019 Basketball 3-on-3 Tournament<br><br> 
+Yio Chu Kang Youth Sports Fiesta 2019 Basketball 3-on-3 Tournament<br><br>&nbsp;
 
   
 
@@ -107,23 +108,23 @@ Elite Basketball League 2018 ‘C’ Div Tournament – 6th placing<br>
 Yio Chu Kang Youth Sports Fiesta 2018 Basketball 3-on-3 Tournament – 3rd and 4th placing 
 			</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion4">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
 
-    <label for="accordion4">Gallery</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">Gallery</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p>   
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Basketball%20(Boys)/B2.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Basketball%20(Boys)/B3.png"></p>
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Basketball%20(Boys)/BasketBallCCA_01.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Basketball%20(Boys)/BasketBallCCA_02.png"></p>
 
-  </div>
+&nbsp;&nbsp;</div>
 
 </li>
 	
