@@ -3,20 +3,21 @@ title: Basketball (Boys)
 permalink: /cca/Physical-Sports/Basketball-Boys/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Basketball%20(Boys)/B1.jpg)
-The Basketball CCA aims to develop qualities such as positive self-esteem and sportsmanship through their participation in training sessions and competition. We seek to inculcate values of gratitude, respect for others, honesty and teamwork. Basketball as a sport plays an important role in the physical, cognitive, social, emotional and character development of every student. Students learn skills of self-management, responsible decision-making and social awareness. The broad philosophy of our approach is to ensure that every student who has the potential, ability or interest is provided with the opportunity to develop his potential to the fullest.
+The Basketball CCA aims to cultivate positive self-esteem and sportsmanship in students through training sessions and competitions. We strive to instill values such as gratitude, respect for others, honesty, and teamwork. Basketball plays a crucial role in the physical, cognitive, social, emotional, and character development of every student. Through the sport, students acquire skills in self-management, responsible decision-making, and social awareness. Our overarching philosophy is to ensure that every student with potential, ability, or interest is given the opportunity to fully develop their potential.
 
 
 <ul class="jekyllcodex_accordion">
 
-  <li>
+&nbsp;&nbsp;<li>
 
-    <input type="checkbox" id="accordion1">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Training Schedule</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Training&nbsp;Schedule</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -38,92 +39,75 @@ The Basketball CCA aims to develop qualities such as positive self-esteem and sp
 <tbody>
   <tr>
     <td class="tg-1hsk"><span style="font-weight:700">EVERY TUESDAY &amp; THURSDAY</span><br><span style="font-weight:700">3:15PM TO 5:45PM</span><br>ISH Level 2</td>
-    <td class="tg-osv9">Ms Anna Leong (ext 175) <span style="font-weight:bolder">OIC</span><br>Mr Jude Ang (ext 150)<br>Mr Ng Soon Peng Raymond (ext 176)<br>Mr Gabriel Ng (ext 198)</td>
+    <td class="tg-osv9">Ms Anna Leong (ext 218) <span style="font-weight:bolder">OIC</span><br>Mr Jude Ang (ext 150)<br>Mr Jeremy Chen (ext 145) 
+</td>
   </tr>
 </tbody>
 </table>
 			</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	<li>
 
-    <input type="checkbox" id="accordion2">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Proudest Moments</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Proudest&nbsp;Moments</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-      <p> 2021 S7 Cluster Games 1st and 2nd place<br>  
-2019 Bowen Cup ‘C’ Diversion Champions<br>
-2019 YCKSS Cup ‘B’ Diversion 2nd Runner-up 
-			</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>2024 National ‘C’ Division League 5 2nd place<br>
+2023 YCKSS U17 Cup 2nd and 5th place<br>
+2022 YCKSS U17 Cup 4th and 6th place<br>
+2021 S7 Cluster Games 1st and 2nd place<br>
 
-    </div>
+</p>
 
-</li>
-	
-<li>
-
-    <input type="checkbox" id="accordion3">
-
-    <label for="accordion3">Events/Competitions</label>
-
-    <div>
-
-<p> <b>2021</b><br>
-
-North Zone ‘B’ Div Inter-school Basketball Tournament<br><br>
-
-<b>2020</b><br>
-
-North Zone ‘B’ Div Inter-school Basketball Tournament<br><br>
-
- <b>2019</b>
-
-Slingers Basketball Outreach Clinic<br>  
-
-North Zone ‘B’ Div Inter-school Basketball Tournament 1st round<br>
-
-North Zone ‘C’ Div Inter-school Basketball Tournament 1st round<br>
-
-Bowen Cup 2019 ‘C’ Diversion Champions<br> 
-
-YCKSS Cup 2019 ‘B’ Diversion 2nd Runner-up<br> 
-
-Yio Chu Kang Youth Sports Fiesta 2019 Basketball 3-on-3 Tournament<br><br> 
-
-  
-
-<b>2018</b><br>
-
-North Zone ‘B’ Div Inter-school Basketball Tournament 1st round<br>
-
-North Zone ‘C’ Div Inter-school Basketball Tournament 1st round<br>
-
-Elite Basketball League 2018 ‘C’ Div Tournament – 6th placing<br>
-
-Yio Chu Kang Youth Sports Fiesta 2018 Basketball 3-on-3 Tournament – 3rd and 4th placing 
-			</p>
-
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion4">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
 
-    <label for="accordion4">Gallery</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Events/Competitions</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
+	
+<p>
+<b>2024</b><br>
+South Zone ‘B’ Division Basketball Championship <br>
+South Zone ‘C’ Division Basketball Championship <br>
+YCKSS U17 Cup 2024 <br><br>
+<b>2023</b><br>
+South Zone ‘B’ Division Basketball Championship <br>
+South Zone ‘C’ Division Basketball Championship <br>
+YCKSS U 17 Cup 2023 <br><br>
+	<b>2022</b><br>
+South Zone ‘B’ Division Basketball Championship <br>
+South Zone ‘C’ Division Basketball Championship <br>
+YCKSS U17 Cup 2022<br>
+</p>
+
+</div>
+
+</li>
+	
+<li>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
+
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">Gallery</label>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p>   
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Basketball%20(Boys)/B2.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Basketball%20(Boys)/B3.png"></p>
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Basketball%20(Boys)/BasketBallCCA_01.png">
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Basketball%20(Boys)/BasketBallCCA_02.png"></p>
 
-  </div>
+&nbsp;&nbsp;</div>
 
 </li>
 	
