@@ -75,43 +75,23 @@ The Basketball CCA aims to cultivate positive self-esteem and sportsmanship in s
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Events/Competitions</label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
+	
+<p>
+<b>2024</b><br>
+South Zone ‘B’ Division Basketball Championship <br>
+South Zone ‘C’ Division Basketball Championship <br>
+YCKSS U17 Cup 2024 <br><br>
+<b>2023</b><br>
+South Zone ‘B’ Division Basketball Championship <br>
+South Zone ‘C’ Division Basketball Championship <br>
+YCKSS U 17 Cup 2023 <br><br>
+	<b>2022</b><br>
+South Zone ‘B’ Division Basketball Championship <br>
+South Zone ‘C’ Division Basketball Championship <br>
+YCKSS U17 Cup 2022<br>
+</p>
 
-<p> <b>2021</b><br>
-
-North Zone ‘B’ Div Inter-school Basketball Tournament<br><br>
-
-<b>2020</b><br>
-
-North Zone ‘B’ Div Inter-school Basketball Tournament<br><br>
-
- <b>2019</b>
-
-Slingers Basketball Outreach Clinic<br>  
-
-North Zone ‘B’ Div Inter-school Basketball Tournament 1st round<br>
-
-North Zone ‘C’ Div Inter-school Basketball Tournament 1st round<br>
-
-Bowen Cup 2019 ‘C’ Diversion Champions<br>&nbsp;
-
-YCKSS Cup 2019 ‘B’ Diversion 2nd Runner-up<br>&nbsp;
-
-Yio Chu Kang Youth Sports Fiesta 2019 Basketball 3-on-3 Tournament<br><br>&nbsp;
-
-  
-
-<b>2018</b><br>
-
-North Zone ‘B’ Div Inter-school Basketball Tournament 1st round<br>
-
-North Zone ‘C’ Div Inter-school Basketball Tournament 1st round<br>
-
-Elite Basketball League 2018 ‘C’ Div Tournament – 6th placing<br>
-
-Yio Chu Kang Youth Sports Fiesta 2018 Basketball 3-on-3 Tournament – 3rd and 4th placing 
-			</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+</div>
 
 </li>
 	
