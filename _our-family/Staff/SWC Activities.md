@@ -13,6 +13,17 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 
 <details><summary>SOCIAL</summary>
 
+<h3>Staff Appreciation Week: Grateful Moments, Lasting Impact</h3>
+
+<p><i>“It’s my life~~~” Bon Jovi’s</i> song rang out as the principal joined in the groove, signaling the official yet fun start of the Staff Appreciation Lunch. With the microphone in hand, groups eagerly showcased their unique identities – flaunting glossy balloons, rocking cool shades, or sporting bandana scarves. The royal blue attire, paired with tiaras or songkoks, added a dash of flair, as everyone embraced the theme of ‘Be Yourself.’</p>
+
+<p>As the delectable eight-course feast unfolded, the room buzzed with excitement, spurred on by a battery of games. Fearless and fun-loving souls dressed up as Albert Einstein, Ninja Turtle, Phua Chu Kang, Wonder Woman or Pikachu with whatever their tablemates could find. The invitees also uncovered each other's hidden talents and passions: Who blesses people with self-made pineapple tarts? Who is an intrepid traveler and converses in Japanese effortlessly?  Whose home is a kitty paradise? Whether or not you know these answers, the YCKSS family was awestruck by the versatility and delightful surprises of those in the very same room. Even the conventional lucky draw had an uncannily unconventional twist, leaving everyone beaming as winners of vouchers, big wads or not.</p>
+
+<p>Thanks to the hilariously funny emcees, laughter and cheers permeated the venue, filling Holiday Inn @ Atrium with a sense of camaraderie that truly defined the luncheon on 28 August.</p>
+
+<p>But the luncheon was not the only highlight! In the days leading up to the event, cards of gratitude and gifts of choice – epitomising the SPICEY framework – were lovingly handed out, radiating warmth and sending a pellucidly clear message to every member of the YCKSS family: You are never alone in this.</p>
+	
+	
 <h3>Mini Durian Delights</h3>
 
 <p>The air buzzed with anticipation when a hint of its presence was dropped through a text message. Upon its arrival, the atmosphere intensified; some rushed up to it with their like-minded colleagues, while others scrunched up their noses yet politely declined, saying, ‘I would give it a miss.’ It is none other than the king of fruits – durian!</p>
