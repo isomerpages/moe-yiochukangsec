@@ -388,4 +388,106 @@ details[open] summary::after {
         opacity: 1
     }
 }
+	
+/* Basic carousel styling */
+      .carousel {
+        width: 100%;
+        height: 60vh;
+        /* 50% of the viewport height */
+        overflow: hidden;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        scroll-snap-type: x mandatory;
+      }
+
+      .images {
+        display: flex;
+        /* width: 600%; /* Changed from 400% to accommodate the extra image */
+        animation: scroller 40s infinite alternate ease-in-out;
+        /* Increased duration to 40s for smoother transition */
+      }
+
+      /* Keyframe animation for horizontal scrolling with fade effect */
+      @keyframes scroll {
+        0% {
+          transform: translateX(0);
+        }
+
+        20% {
+          transform: translateX(-100%);
+        }
+
+        /*21%, 35% { transform: translateX(-100%); opacity: 1; }*/
+        40% {
+          transform: translateX(-200%);
+        }
+
+        /*41%, 55% { transform: translateX(-200%); opacity: 1; }*/
+        60% {
+          transform: translateX(-300%);
+        }
+
+        /* 61%, 75% { transform: translateX(-300%); opacity: 1; } */
+        80% {
+          transform: translateX(-400%);
+        }
+
+        /* 81%, 95% { transform: translateX(-400%); opacity: 1; } */
+        100% {
+          transform: translateX(-500%);
+        }
+
+        /*100% { transform: translateX(-600%); }*/
+      }
+
+      @keyframes scroller {
+
+        0%,
+        100% {
+          transform: translate3d(0, 0, 0);
+          opacity: 1;
+        }
+
+        12.5%,
+        25% {
+          transform: translate3d(-100%, 0, 0);
+          opacity: 1;
+        }
+
+        37.5%,
+        50% {
+          transform: translate3d(-200%, 0, 0);
+          opacity: 1;
+        }
+
+        62.5%,
+        75% {
+          transform: translate3d(-300%, 0, 0);
+          opacity: 1;
+        }
+
+        87.5%,
+        100% {
+          transform: translate3d(-400%, 0, 0);
+          opacity: 1;
+        }
+      }
+
+      .carousel:hover .images {
+        animation-play-state: paused;
+      }
+
+      .images img {
+        scroll-snap-align: center;
+        /*padding-left: 20px;
+        padding-right: 20px;*/
+        max-width: 100%;
+        /* This ensures each image takes up the full width of the carousel */
+        height: 100%;
+        object-fit: contain;
+        flex-shrink: 0;
+        /* Prevents the images from shrinking */
+      }
 </style>
