@@ -238,6 +238,18 @@ the scenic beauty around them. Ultimately, their primary goal in joining the act
 </details>
 
 <details><summary>Archived articles</summary>
+<h3> Staff Appreciation Day 5th Sept</h3>
+
+
+<p>The grouping for the bowling activity was done so that every team had a mixed number of bowlers from school leaders to the EAS staff. There was much bonding during the event. It was an event that favoured no male or female bowlers. All 120 bowlers had an equal chance of doing well for the team. At the end of the day, hidden talents in bowling emerged and the rest had a very joyful day.</p>
+
+<h4>Quotes from participants</h4>
+
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/P1.png">
+
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/P2.jpg">
+	
+<hr>
 	
 <h3>Durian Feast</h3>
 
