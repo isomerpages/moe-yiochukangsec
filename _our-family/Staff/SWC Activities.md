@@ -16,10 +16,31 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 <h3>Staff Appreciation Week: Grateful Moments, Lasting Impact</h3>
 
 <p><i>“It’s my life~~~” Bon Jovi’s</i> song rang out as the principal joined in the groove, signaling the official yet fun start of the Staff Appreciation Lunch. With the microphone in hand, groups eagerly showcased their unique identities – flaunting glossy balloons, rocking cool shades, or sporting bandana scarves. The royal blue attire, paired with tiaras or songkoks, added a dash of flair, as everyone embraced the theme of ‘Be Yourself.’</p>
+	
+<div class="carousel">
+    <div class="images">
+        <img alt="Image 1" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2024_staff_retreat3.png">
+        <img alt="Image 2" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2024_staff_retreat6.png">
+        <img alt="Image 3" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2024_staff_retreat7.png">
+        <img alt="Image 4" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2024_staff_retreat8.png">
+      <img alt="Image 5" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2024_staff_retreat9.png"> 
+      <img alt="Image 6" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2024_staff_retreat10.png">  
+      <img alt="Image 7" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2024_staff_retreat11.png">       
+    </div>
+</div>
 
 <p>As the delectable eight-course feast unfolded, the room buzzed with excitement, spurred on by a battery of games. Fearless and fun-loving souls dressed up as Albert Einstein, Ninja Turtle, Phua Chu Kang, Wonder Woman or Pikachu with whatever their tablemates could find. The invitees also uncovered each other's hidden talents and passions: Who blesses people with self-made pineapple tarts? Who is an intrepid traveler and converses in Japanese effortlessly?  Whose home is a kitty paradise? Whether or not you know these answers, the YCKSS family was awestruck by the versatility and delightful surprises of those in the very same room. Even the conventional lucky draw had an uncannily unconventional twist, leaving everyone beaming as winners of vouchers, big wads or not.</p>
+	
+<div class="carousel01">
+    <div class="images01">
+        <img alt="Image 1" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2024_staff_retreat4.png">
+        <img alt="Image 2" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2024_staff_retreat5.png">
+    </div>
+</div>
 
 <p>Thanks to the hilariously funny emcees, laughter and cheers permeated the venue, filling Holiday Inn @ Atrium with a sense of camaraderie that truly defined the luncheon on 28 August.</p>
+	
+<img alt="The funny emcees of Staff Appreciation Day" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2024_staff_retreat15.png">
 
 <p>But the luncheon was not the only highlight! In the days leading up to the event, cards of gratitude and gifts of choice – epitomising the SPICEY framework – were lovingly handed out, radiating warmth and sending a pellucidly clear message to every member of the YCKSS family: You are never alone in this.</p>
 	
@@ -146,16 +167,7 @@ the scenic beauty around them. Ultimately, their primary goal in joining the act
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/YOGA3.png">
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/YOGA4.png">
 
-<h3> Staff Appreciation Day 5th Sept</h3>
 
-
-<p>The grouping for the bowling activity was done so that every team had a mixed number of bowlers from school leaders to the EAS staff. There was much bonding during the event. It was an event that favoured no male or female bowlers. All 120 bowlers had an equal chance of doing well for the team. At the end of the day, hidden talents in bowling emerged and the rest had a very joyful day.</p>
-
-<h4>Quotes from participants</h4>
-
-<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/P1.png">
-
-<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/P2.jpg">
 
 
 <h3>Staff retreat &amp; celebrations</h3>
@@ -217,6 +229,18 @@ the scenic beauty around them. Ultimately, their primary goal in joining the act
 </details>
 
 <details><summary>Archived articles</summary>
+<h3> Staff Appreciation Day 5th Sept</h3>
+
+
+<p>The grouping for the bowling activity was done so that every team had a mixed number of bowlers from school leaders to the EAS staff. There was much bonding during the event. It was an event that favoured no male or female bowlers. All 120 bowlers had an equal chance of doing well for the team. At the end of the day, hidden talents in bowling emerged and the rest had a very joyful day.</p>
+
+<h4>Quotes from participants</h4>
+
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/P1.png">
+
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/P2.jpg">
+	
+<hr>
 	
 <h3>Durian Feast</h3>
 
@@ -367,4 +391,73 @@ details[open] summary::after {
         opacity: 1
     }
 }
+	
+/* Basic carousel styling */
+      .carousel {
+        width: 100%;
+        height: 55vh;
+        /* 50% of the viewport height */
+        overflow: hidden;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        scroll-snap-type: x mandatory;
+      }
+
+      .images {
+        display: flex;
+        width: 600%; /* Changed from 400% to accommodate the extra image */
+        animation: scroller 40s infinite alternate ease-in-out;
+        /* Increased duration to 40s for smoother transition */
+      }
+
+
+/* Keyframe animation for 7 images */
+@keyframes scroller {
+    0%, 14.29% {
+        transform: translate3d(0, 0, 0); /* Show the 1st image */
+        opacity: 1;
+    }
+    14.29%, 28.58% {
+        transform: translate3d(-100%, 0, 0); /* Show the 2nd image */
+        opacity: 1;
+    }
+    28.58%, 42.87% {
+        transform: translate3d(-200%, 0, 0); /* Show the 3rd image */
+        opacity: 1;
+    }
+    42.87%, 57.16% {
+        transform: translate3d(-300%, 0, 0); /* Show the 4th image */
+        opacity: 1;
+    }
+    57.16%, 71.45% {
+        transform: translate3d(-400%, 0, 0); /* Show the 5th image */
+        opacity: 1;
+    }
+    71.45%, 85.74% {
+        transform: translate3d(-500%, 0, 0); /* Show the 6th image */
+        opacity: 1;
+    }
+    85.74%, 100% {
+        transform: translate3d(-600%, 0, 0); /* Show the 7th image */
+        opacity: 1;
+    }
+}
+
+      .carousel:hover .images {
+        animation-play-state: paused;
+      }
+
+      .images img {
+        scroll-snap-align: center;
+        /*padding-left: 20px;
+        padding-right: 20px;*/
+        max-width: 100%;
+        /* This ensures each image takes up the full width of the carousel */
+        height: 100%;
+        object-fit: contain;
+        flex-shrink: 0;
+        /* Prevents the images from shrinking */
+      }
 </style>
