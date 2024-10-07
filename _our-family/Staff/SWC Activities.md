@@ -410,38 +410,37 @@ details[open] summary::after {
       }
 
 
-      @keyframes scroller {
-
-        0%,
-        100% {
-          transform: translate3d(0, 0, 0);
-          opacity: 1;
-        }
-
-        12.5%,
-        25% {
-          transform: translate3d(-100%, 0, 0);
-          opacity: 1;
-        }
-
-        37.5%,
-        50% {
-          transform: translate3d(-200%, 0, 0);
-          opacity: 1;
-        }
-
-        62.5%,
-        75% {
-          transform: translate3d(-300%, 0, 0);
-          opacity: 1;
-        }
-
-        87.5%,
-        100% {
-          transform: translate3d(-400%, 0, 0);
-          opacity: 1;
-        }
-      }
+/* Keyframe animation for 7 images */
+@keyframes scroll {
+    0%, 14.29% {
+        transform: translate3d(0, 0, 0); /* Show the 1st image */
+        opacity: 1;
+    }
+    14.29%, 28.58% {
+        transform: translate3d(-100%, 0, 0); /* Show the 2nd image */
+        opacity: 1;
+    }
+    28.58%, 42.87% {
+        transform: translate3d(-200%, 0, 0); /* Show the 3rd image */
+        opacity: 1;
+    }
+    42.87%, 57.16% {
+        transform: translate3d(-300%, 0, 0); /* Show the 4th image */
+        opacity: 1;
+    }
+    57.16%, 71.45% {
+        transform: translate3d(-400%, 0, 0); /* Show the 5th image */
+        opacity: 1;
+    }
+    71.45%, 85.74% {
+        transform: translate3d(-500%, 0, 0); /* Show the 6th image */
+        opacity: 1;
+    }
+    85.74%, 100% {
+        transform: translate3d(-600%, 0, 0); /* Show the 7th image */
+        opacity: 1;
+    }
+}
 
       .carousel:hover .images {
         animation-play-state: paused;
