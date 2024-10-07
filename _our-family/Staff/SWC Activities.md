@@ -392,7 +392,7 @@ details[open] summary::after {
 /* Basic carousel styling */
       .carousel {
         width: 100%;
-        height: 50vh;
+        height: 55vh;
         /* 50% of the viewport height */
         overflow: hidden;
         position: relative;
