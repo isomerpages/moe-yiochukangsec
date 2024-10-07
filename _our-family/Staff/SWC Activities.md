@@ -392,7 +392,7 @@ details[open] summary::after {
 /* Basic carousel styling */
       .carousel {
         width: 100%;
-        height: 60vh;
+        height: 50vh;
         /* 50% of the viewport height */
         overflow: hidden;
         position: relative;
@@ -404,43 +404,11 @@ details[open] summary::after {
 
       .images {
         display: flex;
-        /* width: 600%; /* Changed from 400% to accommodate the extra image */
+        width: 600%; /* Changed from 400% to accommodate the extra image */
         animation: scroller 40s infinite alternate ease-in-out;
         /* Increased duration to 40s for smoother transition */
       }
 
-      /* Keyframe animation for horizontal scrolling with fade effect */
-      @keyframes scroll {
-        0% {
-          transform: translateX(0);
-        }
-
-        20% {
-          transform: translateX(-100%);
-        }
-
-        /*21%, 35% { transform: translateX(-100%); opacity: 1; }*/
-        40% {
-          transform: translateX(-200%);
-        }
-
-        /*41%, 55% { transform: translateX(-200%); opacity: 1; }*/
-        60% {
-          transform: translateX(-300%);
-        }
-
-        /* 61%, 75% { transform: translateX(-300%); opacity: 1; } */
-        80% {
-          transform: translateX(-400%);
-        }
-
-        /* 81%, 95% { transform: translateX(-400%); opacity: 1; } */
-        100% {
-          transform: translateX(-500%);
-        }
-
-        /*100% { transform: translateX(-600%); }*/
-      }
 
       @keyframes scroller {
 
