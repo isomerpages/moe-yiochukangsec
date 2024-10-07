@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
+<h4><strong>2024 EOY Exam Script-Checking schedule </strong></h4>
+<p>(updated on 7 October, 2024)</p>
+<p><a href="/files/Students/Class Timetable Schedules/EOY_Exam_Script_Checking_2024___Classes.pdf" rel="noopener nofollow" target="_blank">EOY Exam Script-Checking 2024 schedule (Classes)</a>
+</p>
 <h4><strong>2024 Class Timetable (Semester 2)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
