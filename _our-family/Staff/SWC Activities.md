@@ -411,7 +411,7 @@ details[open] summary::after {
 
 
 /* Keyframe animation for 7 images */
-@keyframes scroll {
+@keyframes scroller {
     0%, 14.29% {
         transform: translate3d(0, 0, 0); /* Show the 1st image */
         opacity: 1;
