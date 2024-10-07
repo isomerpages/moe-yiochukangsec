@@ -23,16 +23,20 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
         <img alt="Image 2" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2024_staff_retreat6.png">
         <img alt="Image 3" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2024_staff_retreat7.png">
         <img alt="Image 4" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2024_staff_retreat8.png">
-      <img alt="Image 1" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2024_staff_retreat9.png"> 
-      <img alt="Image 1" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2024_staff_retreat10.png">  
-      <img alt="Image 1" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2024_staff_retreat11.png">       
+      <img alt="Image 5" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2024_staff_retreat9.png"> 
+      <img alt="Image 6" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2024_staff_retreat10.png">  
+      <img alt="Image 7" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2024_staff_retreat11.png">       
     </div>
 </div>
 
 <p>As the delectable eight-course feast unfolded, the room buzzed with excitement, spurred on by a battery of games. Fearless and fun-loving souls dressed up as Albert Einstein, Ninja Turtle, Phua Chu Kang, Wonder Woman or Pikachu with whatever their tablemates could find. The invitees also uncovered each other's hidden talents and passions: Who blesses people with self-made pineapple tarts? Who is an intrepid traveler and converses in Japanese effortlessly?  Whose home is a kitty paradise? Whether or not you know these answers, the YCKSS family was awestruck by the versatility and delightful surprises of those in the very same room. Even the conventional lucky draw had an uncannily unconventional twist, leaving everyone beaming as winners of vouchers, big wads or not.</p>
 	
-![](/images/Our%20Family/Staff/SWC%20Activities/Social/2024_staff_retreat4.png)
-![](/images/Our%20Family/Staff/SWC%20Activities/Social/2024_staff_retreat5.png)
+<div class="carousel">
+    <div class="images">
+        <img alt="Image 1" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2024_staff_retreat4.png">
+        <img alt="Image 2" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2024_staff_retreat5.png">
+    </div>
+</div>
 
 <p>Thanks to the hilariously funny emcees, laughter and cheers permeated the venue, filling Holiday Inn @ Atrium with a sense of camaraderie that truly defined the luncheon on 28 August.</p>
 	
