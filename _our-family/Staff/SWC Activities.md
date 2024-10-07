@@ -40,7 +40,7 @@ The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the 
 
 <p>Thanks to the hilariously funny emcees, laughter and cheers permeated the venue, filling Holiday Inn @ Atrium with a sense of camaraderie that truly defined the luncheon on 28 August.</p>
 	
-![The emcees for Staff Appreciation Day 2024](/images/Our%20Family/Staff/SWC%20Activities/Social/2024_staff_retreat15.png)
+<img alt="The funny emcees of Staff Appreciation Day" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2024_staff_retreat15.png">
 
 <p>But the luncheon was not the only highlight! In the days leading up to the event, cards of gratitude and gifts of choice – epitomising the SPICEY framework – were lovingly handed out, radiating warmth and sending a pellucidly clear message to every member of the YCKSS family: You are never alone in this.</p>
 	
