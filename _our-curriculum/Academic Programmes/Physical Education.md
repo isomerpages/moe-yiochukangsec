@@ -150,3 +150,207 @@ The culminating event for Health Fiesta week will be the key highlight of our an
 ![](/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/P6.png)
 ![](/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/P7.png)
 ![](/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/P8.png)
+
+<style>
+@charset "UTF-8";
+
+canvas,
+img,
+picture,
+svg,
+video {
+    display: block;
+    max-width: 100%
+}
+
+button,
+input,
+select,
+textarea {
+    font: inherit
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    overflow-wrap: break-word
+}
+
+#__next,
+#root {
+    isolation: isolate
+}
+	
+blockquote {
+    position: relative;
+    font-family: 'Helvetica Neue', 'Georgia', 'Garamond', 'Times New Roman', serif;
+    font-size: 1.5rem;
+    line-height: 2em;
+    font-style: italic;
+}
+img {
+    font-style: italic;
+    vertical-align: middle;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+details {
+    max-width: 100ch;
+    background-color: inherit;
+    border-radius: 1rem;
+	  margin-bottom: 2.5rem;
+    box-shadow: 0 .05rem .05rem rgba(0, 0, 0, .05)
+}
+
+details summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: 400;
+    font-size: 2.75rem;
+	  margin-bottom: 1.5rem;
+    transition: margin-bottom .5s ease;
+    position: relative
+}
+
+details summary::-webkit-details-marker,
+details summary::marker {
+    content: " ";
+    display: none
+}
+
+details summary::after {
+    content: "+";
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-right: .8rem;
+    cursor: pointer;
+    background-color: rgba(255, 195, 5, .25);
+    padding: .75rem;
+    display: grid;
+    place-content: center;
+    aspect-ratio: 1;
+    line-height: 0;
+    position: absolute;
+    top: .5rem;
+    right: -1.5rem;
+    border-radius: 50%
+}
+
+details :not(summary) {
+    animation-name: fade;
+    animation-duration: .5s
+}
+
+details[open] summary {
+    margin-bottom: 1.5rem
+}
+
+details[open] summary::after {
+    content: "×"
+}
+
+@keyframes fade {
+    0% {
+        opacity: 0
+    }
+
+    2.5% {
+        opacity: .02
+    }
+
+    5% {
+        opacity: .05
+    }
+
+    10% {
+        opacity: .1
+    }
+
+    25% {
+        opacity: .25
+    }
+
+    60% {
+        opacity: .6
+    }
+
+    100% {
+        opacity: 1
+    }
+}
+	
+/* Basic carousel styling */
+      .carousel {
+        width: 100%;
+        height: 55vh;
+        /* 50% of the viewport height */
+        overflow: hidden;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        scroll-snap-type: x mandatory;
+      }
+
+      .images {
+        display: flex;
+        width: 600%; /* Changed from 400% to accommodate the extra image */
+        animation: scroller 40s infinite alternate ease-in-out;
+        /* Increased duration to 40s for smoother transition */
+      }
+
+
+/* Keyframe animation for 7 images */
+@keyframes scroller {
+    0%, 14.29% {
+        transform: translate3d(0, 0, 0); /* Show the 1st image */
+        opacity: 1;
+    }
+    14.29%, 28.58% {
+        transform: translate3d(-100%, 0, 0); /* Show the 2nd image */
+        opacity: 1;
+    }
+    28.58%, 42.87% {
+        transform: translate3d(-200%, 0, 0); /* Show the 3rd image */
+        opacity: 1;
+    }
+    42.87%, 57.16% {
+        transform: translate3d(-300%, 0, 0); /* Show the 4th image */
+        opacity: 1;
+    }
+    57.16%, 71.45% {
+        transform: translate3d(-400%, 0, 0); /* Show the 5th image */
+        opacity: 1;
+    }
+    71.45%, 85.74% {
+        transform: translate3d(-500%, 0, 0); /* Show the 6th image */
+        opacity: 1;
+    }
+    85.74%, 100% {
+        transform: translate3d(-600%, 0, 0); /* Show the 7th image */
+        opacity: 1;
+    }
+}
+
+      .carousel:hover .images {
+        animation-play-state: paused;
+      }
+
+      .images img {
+        scroll-snap-align: center;
+        /*padding-left: 20px;
+        padding-right: 20px;*/
+        max-width: 100%;
+        /* This ensures each image takes up the full width of the carousel */
+        height: 100%;
+        object-fit: contain;
+        flex-shrink: 0;
+        /* Prevents the images from shrinking */
+      }
+</style>
