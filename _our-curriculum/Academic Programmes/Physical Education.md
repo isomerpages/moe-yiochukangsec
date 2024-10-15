@@ -3,63 +3,47 @@ title: Physical Education
 permalink: /our-curriculum/Academic-Programmes/Physical-Education/
 description: ""
 third_nav_title: Academic Programmes
+variant: markdown
 ---
-![](/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/P1.jpg)
-
-**Vision**  
-
-Physically educated YCKSians who practise a healthy lifestyle. 
+##  **Vision**
+Physically educated YCKSians who practise a healthy lifestyle.&nbsp;
 
   
 
-**Mission**
+## **Mission**
 
 To educate minds, develop healthy bodies and promote positive attitudes towards lifelong pursuit of good health and fitness as well as enjoyment of physical activities
 
 ![](/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/P2.gif)
 ![](/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/P3.gif)
 
-– Excellence – 
+###  Excellence
+We want our students to aim for excellence in the things they engage in.&nbsp;
 
-We want our students to aim for excellence in the things they engage in. 
-
-  
-
-– Experience – 
-
+### Experience
 We want our students to experience over a period of time to gain the relevant knowledge and skills.
 
-  
-
- – Exposure – 
-
-We want our students to seize every opportunity to try out and take part in as many physical activities as possible. 
+### Exposure
+We want our students to seize every opportunity to try out and take part in as many physical activities as possible.&nbsp;
 
   
 
-**Key Programmes** 
-
-  
-
-
-
-**Physical Education Programmes**
+## **Key Programmes**
+### **Physical Education Programmes**
 
 
 
-**Sports Education Modules** 
+### Sports Education Modules
 
-Sports and games are integral part of a student’s life. Students should play sports and games to enjoy the health and vigour of life. Games and sports help to shape character, build a sense of cooperation and team-spirit in an individual and also recognise the collective efforts of all the members of the team.   
-
-  
+Sports and games are integral part of a student’s life. Students should play sports and games to enjoy the health and vigour of life. Games and sports help to shape character, build a sense of cooperation and team-spirit in an individual and also recognise the collective efforts of all the members of the team.&nbsp;  
 
 The students in each level will learn about two games each year. Games related concepts such as the use of space, maintaining possession, creating attack, organising defence, and defending space and running to bases are consciously weaved into the lessons with an emphasis on the learning and demonstration of values like integrity, respect and sportsmanship.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
@@ -101,15 +85,15 @@ The students in each level will learn about two games each year. Games related c
 </tbody>
 </table>
 
-**Fitness Education Modules** 
+### Fitness Education Module
 
 The module seeks to help stimulates our students’ interest in physical activity by making meaningful connections in health concepts, fitness principles and practical applications through experiential learning.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
@@ -133,59 +117,60 @@ The module seeks to help stimulates our students’ interest in physical activit
 </tbody>
 </table>
 
-**Outdoor Education Modules** 
+### Outdoor Education Modules
 
 Sec 3 MOE-OBS Camp Secondary Three students will participate in the MOE-OBS Camp. The programme seeks to provide students from different schools the opportunities to work together and overcome various challenges through outdoor adventure learning. They also create opportunities for students to develop Social Emotional Competencies of Self-Awareness, Self-Management, Social Awareness, Relationship Management and Responsible Decision making through various team-building activities.
 
-**Sports Participation Programmes** 
+### Sports Participation Programme
 
   
 
-**Health Fiesta Week** Health Fiesta is a week long programme aimed to create awareness on health issues and enhanced students’ engagement in physical robustness through a variety of fun and simple activities. 
+#### Health Fiesta Week
+Health Fiesta is a week long programme aimed to create awareness on health issues and enhanced students’ engagement in physical robustness through a variety of fun and simple activities.&nbsp;
 
-The highlights include: 
+The highlights include:
+<ul>
+	<li>Reading of health articles  </li>
+	<li>Inter-class competitions&nbsp;  </li>
+	<li>Interactive games e.g. Amazing race&nbsp; </li>
 
->Reading of health articles  
-> Inter-class competitions   
-> Interactive games e.g. Amazing race 
+ </ul>
 
-  
-
-**Sports Carnival** 
+**Sports Carnival**&nbsp;
 
 The culminating event for Health Fiesta week will be the key highlight of our annual Sports Carnival which has the objectives of promoting healthy lifestyle, school values, fair play and good sportsmanship. A wide array of sporting activities ranging from Parachute Volleyball, Captain Hoopball, Street Basketball, Water Soccer, Bubble Soccer, Tag Archery, Inline Skating, mass Hip Hop dance, etc will be organised. This is to enrich the sporting experiences of our students, staff and parents and in turn influence them to pick up something they enjoy and pursue an active and healthy lifestyle.
 
   
 
-**PE as an O-Level subject** The school offers Physical Education (PE) as an O-Level subject (OSIE PE and Exercise Sports Science) to our Secondary Three students. OSIEs are comparable in rigour and scope to the GCE ‘O’ Level subjects. 
+**PE as an O-Level subject**&nbsp;The school offers Physical Education (PE) as an O-Level subject (OSIE PE and Exercise Sports Science) to our Secondary Three students. OSIEs are comparable in rigour and scope to the GCE ‘O’ Level subjects.&nbsp;
 
   
 
-Students who opt for the subject can use it to apply for admission to junior colleges and polytechnics, just as they would with other ‘O’ level academic subjects. It offers students a chance to build a strong foundation for pursuing a sports-related degree or diploma. And even if they choose not to go down this path, the subject offers benefits in other areas. We hope to stretch students’ potential in which we provide them with opportunities to excel in their areas of interest. 
+Students who opt for the subject can use it to apply for admission to junior colleges and polytechnics, just as they would with other ‘O’ level academic subjects. It offers students a chance to build a strong foundation for pursuing a sports-related degree or diploma. And even if they choose not to go down this path, the subject offers benefits in other areas. We hope to stretch students’ potential in which we provide them with opportunities to excel in their areas of interest.&nbsp;
 
   
 
-The format of the national examination comprises two compulsory components: 
+The format of the national examination comprises two compulsory components:&nbsp;
 
 \- Paper 1 (E-Examination Paper) and
 
-\- Paper 2 (Coursework) 
+\- Paper 2 (Coursework)&nbsp;
 
   
 
-As part of the coursework requirement, students will choose  **ONE**  practical activity from  **EACH**  of the categories (see table below) 
+As part of the coursework requirement, students will choose&nbsp;&nbsp;**ONE**&nbsp;&nbsp;practical activity from&nbsp;&nbsp;**EACH**&nbsp;&nbsp;of the categories (see table below)&nbsp;
 
 offered by the school:
 
-1) an Individual / Dual Activity; and 
+1) an Individual / Dual Activity; and&nbsp;
 
 2) a Team Activity.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
@@ -211,7 +196,7 @@ offered by the school:
 
 ![](/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/P4.gif)
 
-**HOD PE & CCA: Ms Irene Heng \[ext 116\]**
+**HOD PE &amp; CCA: Ms Irene Heng \[ext 116\]**
 
 ### **Photo Gallery**
 
