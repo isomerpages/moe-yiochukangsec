@@ -146,10 +146,16 @@ The culminating event for Health Fiesta week will be the key highlight of our an
 
 ### **Photo Gallery**
 
-![](/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/P5.png)
-![](/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/P6.png)
-![](/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/P7.png)
-![](/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/P8.png)
+<div class="carousel">
+<div class="images">
+<img alt="PE Dept Photo Gallery" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/P5.png">
+<img alt="PE Dept Photo Gallery" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/P6.png">
+<img alt="PE Dept Photo Gallery" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/P7.png">
+<img alt="PE Dept Photo Gallery" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/P8.png">
+</div>
+</div>
+
+
 
 <style>
 @charset "UTF-8";
@@ -300,42 +306,31 @@ details[open] summary::after {
 
       .images {
         display: flex;
-        width: 600%; /* Changed from 400% to accommodate the extra image */
-        animation: scroller 40s infinite alternate ease-in-out;
+        width:300%; /* Changed from 400% to accommodate the extra image */
+        animation: scroller 20s infinite alternate ease-in-out;
         /* Increased duration to 40s for smoother transition */
       }
 
 
 /* Keyframe animation for 7 images */
 @keyframes scroller {
-    0%, 14.29% {
+    0%,25% {
         transform: translate3d(0, 0, 0); /* Show the 1st image */
         opacity: 1;
     }
-    14.29%, 28.58% {
+    25%, 50% {
         transform: translate3d(-100%, 0, 0); /* Show the 2nd image */
         opacity: 1;
     }
-    28.58%, 42.87% {
+    50%, 75% {
         transform: translate3d(-200%, 0, 0); /* Show the 3rd image */
         opacity: 1;
     }
-    42.87%, 57.16% {
+    75%, 100% {
         transform: translate3d(-300%, 0, 0); /* Show the 4th image */
         opacity: 1;
     }
-    57.16%, 71.45% {
-        transform: translate3d(-400%, 0, 0); /* Show the 5th image */
-        opacity: 1;
-    }
-    71.45%, 85.74% {
-        transform: translate3d(-500%, 0, 0); /* Show the 6th image */
-        opacity: 1;
-    }
-    85.74%, 100% {
-        transform: translate3d(-600%, 0, 0); /* Show the 7th image */
-        opacity: 1;
-    }
+  
 }
 
       .carousel:hover .images {
@@ -349,7 +344,7 @@ details[open] summary::after {
         max-width: 100%;
         /* This ensures each image takes up the full width of the carousel */
         height: 100%;
-        object-fit: contain;
+        object-fit: cover;
         flex-shrink: 0;
         /* Prevents the images from shrinking */
       }
