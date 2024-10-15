@@ -14,8 +14,8 @@ Physically educated YCKSians who practise a healthy lifestyle.&nbsp;
 
 To educate minds, develop healthy bodies and promote positive attitudes towards lifelong pursuit of good health and fitness as well as enjoyment of physical activities
 
-![](/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/P2.gif)
-![](/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/P3.gif)
+![](/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/Sphere3.png)
+![](/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/Powerful_Learning_Triangle.png)
 
 ###  Excellence
 We want our students to aim for excellence in the things they engage in.&nbsp;
