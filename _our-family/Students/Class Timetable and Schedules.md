@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
-<h4><strong>2024 EOY Exam Script-Checking schedule </strong></h4>
+<h4><strong>2024 EOY Exam Script-Checking schedule</strong></h4>
 <p>(updated on 7 October, 2024)</p>
 <p><a href="/files/Students/Class Timetable Schedules/EOY_Exam_Script_Checking_2024___Classes.pdf" rel="noopener nofollow" target="_blank">EOY Exam Script-Checking 2024 schedule (Classes)</a>
 </p>
@@ -48,7 +48,11 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p><strong><a href="/files/Students/Class%20Timetable%20Schedules/2024_cca_schedule____sem_1__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 CCA Schedule for Semester 1</a></strong>
-<br>(Uploaded on 15 Jan 2024)
+<br>(Uploaded on 15 Jan 2024)</p>
+</li>
+<li>
+<p><strong><a href="/files/Students/Class Timetable Schedules/2024_Oct_to_Dec_CCA_Training_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 CCA Schedule for Semester 2</a></strong>
+<br>(Uploaded on 21 Oct 2024)
 <br>
 </p>
 </li>
