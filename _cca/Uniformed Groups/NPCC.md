@@ -293,12 +293,89 @@ In NPCC, the cadets get a chance to learn more about the Singapore Police Force 
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<p> <img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide1.png">
-			<img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide2.png">
-			<img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide3.png">
-	<img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide4.png"></p>
+Some text here ... 
 
-&nbsp;&nbsp;</div>
+  
+
+<div class="slideshow">
+
+<div style="background-image: url('https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide1.png')" class="slideshow-image"></div>
+
+<div style="background-image: url('https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide2.png')" class="slideshow-image"></div>
+
+<div style="background-image: url('https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide3.png')" class="slideshow-image"></div>
+
+<div style="background-image: url('https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide4.png')" class="slideshow-image"></div>
+
+</div>
+
+  
+
+<style>
+.slideshow {
+  background: none;
+  position: absolute;
+  width: 100vw;
+  height: 60vh;
+  overflow: hidden;
+}
+
+.slideshow-image {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: no-repeat 50% 50%;
+  background-size: cover;
+  animation-name: kenburns;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+  animation-duration: 22s;
+  opacity: 0;
+  transform-origin: center bottom;
+  transform: scale(1.3);
+  flex-shrink: 0;
+  object-fit: contain;
+}
+
+.slideshow-image:hover {
+        animation-play-state: paused;
+      }
+
+.slideshow-image:nth-child(1) {
+  animation-delay: 0;
+}
+
+.slideshow-image:nth-child(2) {
+  animation-delay: 15s;
+}
+
+.slideshow-image:nth-child(3) {
+  animation-delay: 30s;
+}
+
+.slideshow-image:nth-child(4) {
+  animation-delay: 45s;
+}
+
+
+
+@keyframes kenburns {
+  10% {
+    opacity: 1;
+  }
+  33.33% {
+    opacity: 1;
+  }
+  63.33% {
+    opacity: 1;
+  }
+  93.33% {
+    opacity: 0;
+    transform: scale(1);
+  }
+}
+
+</style></div>
 
 </li>
 	
