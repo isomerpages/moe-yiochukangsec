@@ -349,14 +349,14 @@ p {
 
 .slideshow {
   background: none;
-  position: absolute;
+  position: relative;
   width: 100vw;
   height: 60vh;
   overflow: hidden;
 }
 
 .slideshow-image {
-  position: absolute;
+  position: relative;
   width: 100%;
   height: 100%;
   background: no-repeat 50% 50%;
