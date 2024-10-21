@@ -295,7 +295,13 @@ In NPCC, the cadets get a chance to learn more about the Singapore Police Force 
 
 
 
-  
+<img alt="NPCC 2025" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide1.png">
+
+<img alt="NPCC 2025" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide2.png">
+
+<img alt="NPCC 2025" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide3.png">
+
+<img alt="NPCC 2025" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide4.png">
 
 <div class="slideshow">
 
