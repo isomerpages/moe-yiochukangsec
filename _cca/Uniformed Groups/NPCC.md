@@ -23,13 +23,7 @@ In NPCC, the cadets get a chance to learn more about the Singapore Police Force 
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-| TRAINING INFORMATION | TEACHERS-IN-CHARGE |
-| --- | --- |
-| Every Tuesday 3:00PM to 5:30PM | Ms Goh Yu Fan (ext 174) OIC |
-| NPCC Room &amp; Blk D L1 Classroom | Mr Wong Mingwei (ext 141) |
-| Additional involvement on other days for HQ activities | Mr Goh Kok Hoe Octave (ext 136) |
-|  | Mr Joseph C. George (ext 148) |
-|  | Mrs Cindy Ong Kim Leng (ext 139) |
+<table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;"> <thead> <tr> <th style="background-color: #f2f2f2; padding: 10px; text-align: left; border-bottom: 2px solid #ddd;"> <h5 style="margin: 0;">TRAINING INFORMATION</h5> </th> <th style="background-color: #f2f2f2; padding: 10px; text-align: left; border-bottom: 2px solid #ddd;"> <h5 style="margin: 0;">TEACHERS-IN-CHARGE</h5> </th> </tr> </thead> <tbody> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 300px; word-wrap: break-word;">Every Tuesday 3:00PM to 5:30PM</td> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 300px; word-wrap: break-word;">Ms Goh Yu Fan (ext 174) OIC</td> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 300px; word-wrap: break-word;">NPCC Room &amp; Blk D L1 Classroom</td> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 300px; word-wrap: break-word;">Mr Wong Mingwei (ext 141)</td> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 300px; word-wrap: break-word;">Additional involvement on other days for HQ activities</td> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 300px; word-wrap: break-word;">Mr Goh Kok Hoe Octave (ext 136)</td> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 300px; word-wrap: break-word;"></td> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 300px; word-wrap: break-word;">Mr Joseph C. George (ext 148)</td> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 300px; word-wrap: break-word;"></td> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 300px; word-wrap: break-word;">Mrs Cindy Ong Kim Leng (ext 139)</td> </tr> </tbody> </table>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
