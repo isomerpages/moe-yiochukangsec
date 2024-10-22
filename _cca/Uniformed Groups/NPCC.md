@@ -41,48 +41,7 @@ In NPCC, the cadets get a chance to learn more about the Singapore Police Force 
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <table>
-      <thead>
-        <tr>
-          <th>2020</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Unit Overall Proficiency Gold Award</td>
-        </tr>
-        <tr>
-          <td>SPF-NPCC Badge Recipient: SSGT Alvin Tan</td>
-        </tr>
-        <tr>
-          <th>2019</th>
-        </tr>
-        <tr>
-          <td>Inter-Unit .22 Revolver Shooting Competition (Individual Category - Boys): National 1st</td>
-        </tr>
-        <tr>
-          <td>Sherlocke: The Last Call Crime Scene Investigation Competition: 2nd Runner Up</td>
-        </tr>
-        <tr>
-          <td>SPF-NPCC Badge Recipient: Station Inspector Elita Yu Jia Yi</td>
-        </tr>
-        <tr>
-          <th>2018</th>
-        </tr>
-        <tr>
-          <td>Unit Overall Proficiency Gold Award</td>
-        </tr>
-        <tr>
-          <td>Inter-Unit .22 Revolver Shooting Competition (Individual Category - Girls): National 5th</td>
-        </tr>
-        <tr>
-          <td>Inter-Unit Campcraft Competition (Boys) Top 50</td>
-        </tr>
-        <tr>
-          <td>SPF-NPCC Badge Recipient: Station Inspector Low Yi San</td>
-        </tr>
-      </tbody>
-    </table>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;"> <thead> <tr> <th style="background-color: #f2f2f2; padding: 10px; text-align: left; border-bottom: 2px solid #ddd;"> <h5 style="margin: 0;">2020</h5> </th> </tr> </thead> <tbody> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Unit Overall Proficiency Gold Award</td> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">SPF-NPCC Badge Recipient: SSGT Alvin Tan</td> </tr> <tr> <th style="background-color: #f2f2f2; padding: 10px; text-align: left; border-bottom: 2px solid #ddd;"> <h5 style="margin: 0;">2019</h5> </th> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Inter-Unit .22 Revolver Shooting Competition (Individual Category - Boys): National 1st</td> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Sherlocke: The Last Call Crime Scene Investigation Competition: 2nd Runner Up</td> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">SPF-NPCC Badge Recipient: Station Inspector Elita Yu Jia Yi</td> </tr> <tr> <th style="background-color: #f2f2f2; padding: 10px; text-align: left; border-bottom: 2px solid #ddd;"> <h5 style="margin: 0;">2018</h5> </th> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Unit Overall Proficiency Gold Award</td> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Inter-Unit .22 Revolver Shooting Competition (Individual Category - Girls): National 5th</td> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Inter-Unit Campcraft Competition (Boys) Top 50</td> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">SPF-NPCC Badge Recipient: Station Inspector Low Yi San</td> </tr> </tbody> </table>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
