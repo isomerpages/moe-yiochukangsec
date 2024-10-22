@@ -23,53 +23,13 @@ In NPCC, the cadets get a chance to learn more about the Singapore Police Force 
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<p> <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig">TRAINING INFORMATION</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">Every Tuesday 3:15PM to 5:45PM</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">NPCC Room &amp; Classroom Blk D L1</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Additional involvement on</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">OTHER DAYS for HQ activities</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">TEACHERS IN-CHARGE</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Ms Goh Yu Fan (ext 174) OIC</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Mr Wong Mingwei (ext 141)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Mr Mohd Fayumi (ext 170)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Mr Joseph C. George (ext 148)</td>
-  </tr>
-</tbody>
-</table>
-			</p>
-
+| TRAINING INFORMATION | TEACHERS-IN-CHARGE |
+| --- | --- |
+| Every Tuesday 3:00PM to 5:30PM | Ms Goh Yu Fan (ext 174) OIC |
+| NPCC Room &amp; Blk D L1 Classroom | Mr Wong Mingwei (ext 141) |
+| Additional involvement on other days for HQ activities | Mr Goh Kok Hoe Octave (ext 136) |
+|  | Mr Joseph C. George (ext 148) |
+|  | Mrs Cindy Ong Kim Leng (ext 139) |
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
