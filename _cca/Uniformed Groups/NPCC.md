@@ -41,69 +41,48 @@ In NPCC, the cadets get a chance to learn more about the Singapore Police Force 
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-8ytw{background-color:#3531ff;text-align:left;vertical-align:top}
-.tg .tg-o79m{background-color:#3166ff;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-o79m">2021</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">SPF-NPCC Badge Recipient: SSGT (NPCC) Sharmaine Chin Hui Xin</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">SPF-NPCC Badge Recipient: SSGT (NPCC) Evangeline Png</td>
-  </tr>
-  <tr>
-    <td class="tg-o79m">2020</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Unit Overall Proficiency Gold Award</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">SPF-NPCC Badge Recipient: SSGT Alvin Tan</td>
-  </tr>
-  <tr>
-    <td class="tg-8ytw">2019</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Inter-Unit .22 Revolver Shooting Competition (Individual Category - Boys): National 1st</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Sherlocke: The Last Call Crime Scene Investigation Competition: 2nd Runner Up</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">SPF-NPCC Badge Recipient: Station Inspector Elita Yu Jia Yi</td>
-  </tr>
-  <tr>
-    <td class="tg-8ytw">2018</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Unit Overall Proficiency Gold Award</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Inter-Unit .22 Revolver Shooting Competition (Individual Category - Girls): National 5th</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Inter-Unit Campcraft Competition (Boys) Top 50</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">SPF-NPCC Badge Recipient: Station Inspector Low Yi San</td>
-  </tr>
-</tbody>
-</table>
-			</p>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <table>
+      <thead>
+        <tr>
+          <th>2020</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Unit Overall Proficiency Gold Award</td>
+        </tr>
+        <tr>
+          <td>SPF-NPCC Badge Recipient: SSGT Alvin Tan</td>
+        </tr>
+        <tr>
+          <th>2019</th>
+        </tr>
+        <tr>
+          <td>Inter-Unit .22 Revolver Shooting Competition (Individual Category - Boys): National 1st</td>
+        </tr>
+        <tr>
+          <td>Sherlocke: The Last Call Crime Scene Investigation Competition: 2nd Runner Up</td>
+        </tr>
+        <tr>
+          <td>SPF-NPCC Badge Recipient: Station Inspector Elita Yu Jia Yi</td>
+        </tr>
+        <tr>
+          <th>2018</th>
+        </tr>
+        <tr>
+          <td>Unit Overall Proficiency Gold Award</td>
+        </tr>
+        <tr>
+          <td>Inter-Unit .22 Revolver Shooting Competition (Individual Category - Girls): National 5th</td>
+        </tr>
+        <tr>
+          <td>Inter-Unit Campcraft Competition (Boys) Top 50</td>
+        </tr>
+        <tr>
+          <td>SPF-NPCC Badge Recipient: Station Inspector Low Yi San</td>
+        </tr>
+      </tbody>
+    </table>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
