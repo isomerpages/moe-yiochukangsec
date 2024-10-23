@@ -54,51 +54,7 @@ In NPCC, the cadets get a chance to learn more about the Singapore Police Force 
 <table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;"> <thead> <tr> <th style="background-color: #f2f2f2; padding: 10px; text-align: left; border-bottom: 2px solid #ddd;"> <h5 style="margin: 0;">Events</h5> </th> </tr> </thead> <tbody> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Air Pistol Shooting Programme</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Annual Unit Camp</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Area 11 Adventure and Survival Training Camps at Pulau Ubin</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Area 11 Secondary One Cadets Swearing In Ceremony</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Area 11 Games Day</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Crime Prevention Programme</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Home Team Gallery Visit</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">K-9 Dog Unit Visit</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Neighbourhood Police Centre Visit</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">NPCC Annual Parade (NPAP)</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Police Heritage Visit</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Police Youth Ambassador</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Sports Enrichment Programme (SEP)</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Total Defence Programme</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">YCKSS National Day Parade</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">YCKSS Speech Day Parade</td></tr> </tbody> </table>
 	
 
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-o79m">Courses</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">Anti-Drug Abuse Course (Singapore Anti-Narcotics Association)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Basic and Advanced Crime Scene Investigation Course</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Basic Law Course</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Cadet Leader Course</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Civil Defence Course</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">CPR-AED Certification Course</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Home Front Security Course</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Leadership and Mentoring Skill Course (LMSC)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Road Safety Course</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">One Star Kayaking Course</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Police Procedure Course</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Unarmed Tactics Course</td>
-  </tr>
-</tbody>
-</table>
+<table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;"> <thead> <tr> <th style="background-color: #f2f2f2; padding: 10px; text-align: left; border-bottom: 2px solid #ddd;"> <h5 style="margin: 0;">Courses</h5> </th> </tr> </thead> <tbody> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Basic Law Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Cadet Leader Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Campcraft Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Crime Scene Investigation Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Drill Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Homefront Security Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Leadership and Mentoring Skills Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Marksmanship Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Non-Commissioned Officer Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Oral Communication Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Police Procedures Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Road Safety Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Unarmed Tactics Course</td></tr> </tbody> </table>
 			<p></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
