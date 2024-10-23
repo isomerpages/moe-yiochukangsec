@@ -35,7 +35,10 @@ In NPCC, the cadets get a chance to learn more about the Singapore Police Force 
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;"> <thead> <tr> <th style="background-color: #f2f2f2; padding: 10px; text-align: left; border-bottom: 2px solid #ddd;"> <h5 style="margin: 0;">2020</h5> </th> </tr> </thead> <tbody> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Unit Overall Proficiency Gold Award</td> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">SPF-NPCC Badge Recipient: SSGT Alvin Tan</td> </tr> <tr> <th style="background-color: #f2f2f2; padding: 10px; text-align: left; border-bottom: 2px solid #ddd;"> <h5 style="margin: 0;">2019</h5> </th> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Inter-Unit .22 Revolver Shooting Competition (Individual Category - Boys): National 1st</td> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Sherlocke: The Last Call Crime Scene Investigation Competition: 2nd Runner Up</td> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">SPF-NPCC Badge Recipient: Station Inspector Elita Yu Jia Yi</td> </tr> <tr> <th style="background-color: #f2f2f2; padding: 10px; text-align: left; border-bottom: 2px solid #ddd;"> <h5 style="margin: 0;">2018</h5> </th> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Unit Overall Proficiency Gold Award</td> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Inter-Unit .22 Revolver Shooting Competition (Individual Category - Girls): National 5th</td> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Inter-Unit Campcraft Competition (Boys) Top 50</td> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">SPF-NPCC Badge Recipient: Station Inspector Low Yi San</td> </tr> </tbody> </table>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
+<table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;"> <thead> <tr> <th style="background-color: #f2f2f2; padding: 10px; text-align: left; border-bottom: 2px solid #ddd;"> <h5 style="margin: 0;">2024</h5> </th> </tr> </thead> <tbody> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">SPF-NPCC Badge Recipient: SSGT (NPCC) Aden Bin Azam</td> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">SPF-NPCC Badge Recipient: SSGT (NPCC) Tay Yu Qi Natalie (Zheng Yuqi)</td> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Inter-Unit .22 Revolver Shooting Competition (Individual Category - Boys): Louis Wong National 6th position</td> </tr> <tr> <th style="background-color: #f2f2f2; padding: 10px; text-align: left; border-bottom: 2px solid #ddd;"> <h5 style="margin: 0;">2023</h5> </th> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Unit Overall Proficiency Award: Distinction</td> </tr> </tbody> </table>
+		
+
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
@@ -48,84 +51,9 @@ In NPCC, the cadets get a chance to learn more about the Singapore Police Force 
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<p> <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-o79m{background-color:#3166ff;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-o79m">Events</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">Air Pistol Shooting Programme</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Annual Unit Camp</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Area 03 Adventure and Survival Training Camps at Pulau Ubin</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Area 03 Secondary One Cadets Swearing In Ceremony</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Area 03 Games Day</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Community Safety and Security Programme</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Crime Prevention Programme</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Home Team Gallery Visit</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">K-9 Dog Unit Visit</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Neighbourhood Police Centre Visit</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">NPCC Annual Parade (NPAP)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Police Heritage Visit</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Police Youth Ambassador</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Sports Enrichment Programme (SEP)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Total Defence Programme</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">YCKSS National Day Parade</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">YCKSS Speech Day Parade</td>
-  </tr>
-</tbody>
-</table><br>
-			<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-o79m{background-color:#3166ff;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
+<table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;"> <thead> <tr> <th style="background-color: #f2f2f2; padding: 10px; text-align: left; border-bottom: 2px solid #ddd;"> <h5 style="margin: 0;">Events</h5> </th> </tr> </thead> <tbody> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Air Pistol Shooting Programme</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Annual Unit Camp</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Area 11 Adventure and Survival Training Camps at Pulau Ubin</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Area 11 Secondary One Cadets Swearing In Ceremony</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Area 11 Games Day</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Crime Prevention Programme</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Home Team Gallery Visit</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">K-9 Dog Unit Visit</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Neighbourhood Police Centre Visit</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">NPCC Annual Parade (NPAP)</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Police Heritage Visit</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Police Youth Ambassador</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Sports Enrichment Programme (SEP)</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Total Defence Programme</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">YCKSS National Day Parade</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">YCKSS Speech Day Parade</td></tr> </tbody> </table>
+	
+
 <table class="tg">
 <thead>
   <tr>
@@ -171,7 +99,7 @@ In NPCC, the cadets get a chance to learn more about the Singapore Police Force 
   </tr>
 </tbody>
 </table>
-			</p>
+			<p></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
