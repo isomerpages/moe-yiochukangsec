@@ -69,11 +69,11 @@ In NPCC, the cadets get a chance to learn more about the Singapore Police Force 
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-
+<div class="wrapper">
 
 <img style="border-radius: 10px; border: 10px solid transparent; box-shadow: -5px -5px 10px rgba(0,0,0,0.1);" alt="NPCC 2025" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide1.png"> <img style="border-radius: 10px; border: 10px solid transparent; box-shadow: -5px -5px 10px rgba(0,0,0,0.1);" alt="NPCC 2025" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide2.png"> <img style="border-radius: 10px; border: 10px solid transparent; box-shadow: -5px -5px 10px rgba(0,0,0,0.1);" alt="NPCC 2025" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide3.png"> <img style="border-radius: 10px; border: 10px solid transparent; box-shadow: -5px -5px 10px rgba(0,0,0,0.1);" alt="NPCC 2025" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide4.png">
 	
-
+</div>
 	
 <span>**Follow us on IG to find out more!**</span>
 <div class="instagram_button">
