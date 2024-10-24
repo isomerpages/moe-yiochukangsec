@@ -134,7 +134,6 @@ p {
   max-width: 1536px;
   margin-inline: auto;
   position: relative;
-  height: 100px;
   margin-top: 5rem;
   overflow: hidden;
   mask-image: linear-gradient(
