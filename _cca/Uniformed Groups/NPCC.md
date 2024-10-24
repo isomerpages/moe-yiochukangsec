@@ -150,11 +150,22 @@ p {
     isolation: isolate
 }
 
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
+
 .wrapper {
-  width: 90%;
+  width: 120%;
   max-width: 1536px;
   margin-inline: auto;
   position: relative;
+  height: 720px;
   margin-top: 5rem;
   overflow: hidden;
   mask-image: linear-gradient(
@@ -168,37 +179,53 @@ p {
 
 @keyframes scrollLeft {
   to {
-    left: -200px;
+    left: -1280px;
   }
 }
 
 .item {
-  width: 100%;
-  height: auto;
+  width: 1280px;
+  height: 720px;
   background-color: none;
   border-radius: 6px;
   position: absolute;
-  left: max(calc(200px * 5), 100%);
+  left: max(calc(1280px * 8), 100%);
   animation-name: scrollLeft;
-  animation-duration: 30s;
-  animation-timing-function: linear;
+  animation-duration: 100s;
+  animation-timing-function: ease-in-out;
   animation-iteration-count: infinite;
 }
 
 .item1 {
-  animation-delay: calc(30s / 8 * (8 - 1) * -1);
+  animation-delay: calc(100s / 8 * (8 - 1) * -1);
 }
 
 .item2 {
-  animation-delay: calc(30s / 8 * (8 - 2) * -1);
+  animation-delay: calc(100s / 8 * (8 - 2) * -1);
 }
 
 .item3 {
-  animation-delay: calc(30s / 8 * (8 - 3) * -1);
+  animation-delay: calc(100s / 8 * (8 - 3) * -1);
 }
 
 .item4 {
-  animation-delay: calc(30s / 8 * (8 - 4) * -1);
+  animation-delay: calc(100s / 8 * (8 - 4) * -1);
+}
+
+.item5 {
+  animation-delay: calc(100s / 8 * (8 - 5) * -1);
+}
+
+.item6 {
+  animation-delay: calc(100s / 8 * (8 - 6) * -1);
+}
+
+.item7 {
+  animation-delay: calc(100s / 8 * (8 - 7) * -1);
+}
+
+.item8 {
+  animation-delay: calc(100s / 8 * (8 - 8) * -1);
 }
 </style></div>
 
