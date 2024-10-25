@@ -3,105 +3,100 @@ title: CoCurricular Activities
 permalink: /our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/
 description: ""
 third_nav_title: Non Academic Programmes
+variant: markdown
 ---
-The CCA Programme provides our students with a platform to discover their interests and talents. Students will progressively develop CCA-specific knowledge, skills, values and attitudes through sustained participation CCA.  Explore the following tabs to learn more.
+The CCA Programme provides our students with a platform to discover their interests and talents. Students will progressively develop CCA-specific knowledge, skills, values and attitudes through sustained participation CCA.&nbsp; Explore the following tabs to learn more.
 
 <ul class="jekyllcodex_accordion">
 
-  <li>
+&nbsp;&nbsp;<li>
 
-    <input type="checkbox" id="accordion1">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Clubs</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Clubs</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> 
-<a href="/cca/Clubs/Digital-Animation-Club/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/CA1.png"></a><br>
-	<a href="/cca/Clubs/Media-Club-Audio-Visual-Photography-Videography/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/CA2.png"></a><br>
-	<a href="/cca/Clubs/MARS-CLUB-MECHATRONICS-AERONAUTICS-AND-ROBOTICS/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/CA3.png"></a>
+<a href="/cca/Clubs/Digital-Animation-Club/" target="\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/CA1.png"></a><br>
+	<a href="/cca/Clubs/Media-Club-Audio-Visual-Photography-Videography/" target="\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/CA2.png"></a><br>
+	<a href="/cca/Clubs/MARS-CLUB-MECHATRONICS-AERONAUTICS-AND-ROBOTICS/" target="\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/CA3.png"></a>
 </p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	<li>
 
-    <input type="checkbox" id="accordion2">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Performing Arts</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Performing&nbsp;Arts</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-      <p> <a href="/cca/Performing-Arts/Concert-Band/" target = "\_blank"> <img style="width:70%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/C1NEW.png"></a><br>
-			<a href="/cca/Performing-Arts/Chinese-Dance/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA2.png"></a><br>
-			<a href="/cca/Performing-Arts/Choir/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA3.png"></a><br>
-			<a href="/cca/Performing-Arts/English-Drama/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA4.png"></a><br>
-			<a href="/cca/Performing-Arts/Indian-Dance/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA5.png"></a><br>
-			<a href="/cca/Performing-Arts/Malay-Dance/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA6.png"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <a href="/cca/Performing-Arts/Concert-Band/" target="\_blank"> <img style="width:70%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/C1NEW.png"></a><br>
+			<a href="/cca/Performing-Arts/Chinese-Dance/" target="\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA2.png"></a><br>
+			<a href="/cca/Performing-Arts/Choir/" target="\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA3.png"></a><br>
+			<a href="/cca/Performing-Arts/English-Drama/" target="\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA4.png"></a><br>
+			<a href="/cca/Performing-Arts/Indian-Dance/" target="\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA5.png"></a><br>
+			<a href="/cca/Performing-Arts/Malay-Dance/" target="\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA6.png"></a>
 			</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion3">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Physical Sports</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Physical&nbsp;Sports</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<p> <a href="/cca/Physical-Sports/Badminton-Boys-Girls/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PS1.png"></a><br>
-			<a href="/cca/Physical-Sports/Basketball-Boys/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PS2.png"></a><br>
-			<a href="/cca/Physical-Sports/Floorball-Boys/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PS3.png"></a><br>
-			<a href="/cca/Physical-Sports/Netball/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PS4.png"></a>
+<p> <a href="/cca/Physical-Sports/Badminton-Boys-Girls/" target="\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PS1.png"></a><br>
+			<a href="/cca/Physical-Sports/Basketball-Boys/" target="\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PS2.png"></a><br>
+			<a href="/cca/Physical-Sports/Floorball-Boys/" target="\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PS3.png"></a><br>
+			<a href="/cca/Physical-Sports/Netball/" target="\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PS4.png"></a>
 			</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion4">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
 
-    <label for="accordion4">Uniformed Groups</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">Uniformed&nbsp;Groups</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<p> <a href="/cca/Uniformed-Groups/NPCC/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/UG1.png"></a><br>
-			<a href="/cca/Uniformed-Groups/Red-Cross-Youth/" target = "\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/UG2.png"></a>
+<p> <a href="/cca/Uniformed-Groups/NPCC/" target="\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/UG1.png"></a><br>
+			<a href="/cca/Uniformed-Groups/Red-Cross-Youth/" target="\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/UG2.png"></a>
 			</p>
 
-  </div>
+&nbsp;&nbsp;</div>
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion5">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion5">
 
-    <label for="accordion5">CCA Schedule</label>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-    <div>
-
-<p> 
-<a href="/files/CCA%20Schedule/2023%20CCA%20Schedule%20%20-%20Semester%201%20Jan-May.pdf" target = "\_blank">The 2023 CCA Schedule is available for download.</b></a>
-			</p>
-
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion6">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion6">
 
-    <label for="accordion6">CCA Learning Outcomes & Policy</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion6">CCA&nbsp;Learning&nbsp;Outcomes&nbsp;&amp;&nbsp;Policy</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> <b>CCA Learning Outcomes</b><br><br>
 
@@ -125,22 +120,22 @@ More specifically,<br>
 
 	<b>CCA Policy</b><br>
 
-	*   CCA participation in school is <b>compulsory</b> for all students in secondary schools. Students are required to be <b>active in at least one CCA</b>. As we strive to meet the diverse needs of the students, there is a quota in the number of members a CCA can offer due to constraint in facilities and/or manpower.<br> 
+	*   CCA participation in school is&nbsp;<b>compulsory</b>&nbsp;for all students in secondary schools. Students are required to be&nbsp;<b>active in at least one CCA</b>. As we strive to meet the diverse needs of the students, there is a quota in the number of members a CCA can offer due to constraint in facilities and/or manpower.<br> 
       
     
-	*   A student may opt to participate in <b>more than one CCA</b> to broaden his/her experience, gain more exposure and learn a wider range of skills. Such involvement will be <b>passion-driven</b> and students <b>will not be awarded a higher attainment</b> for the participation in an additional CCA.<br>  
+	*   A student may opt to participate in&nbsp;<b>more than one CCA</b>&nbsp;to broaden his/her experience, gain more exposure and learn a wider range of skills. Such involvement will be&nbsp;<b>passion-driven</b>&nbsp;and students&nbsp;<b>will not be awarded a higher attainment</b>&nbsp;for the participation in an additional CCA.<br>  
       
     
 *   Continuous involvement in and commitment to the same CCA will be rewarded, and this is reflected through a higher level of attainment assigned to students who stay with the same CCA over the years.<br>  
       
     
-	*   All students must attain a <b>minimum of 75% attendance</b> in their 1st CCA in order for points to be computed.<Br>  
+	*   All students must attain a&nbsp;<b>minimum of 75% attendance</b>&nbsp;in their 1st CCA in order for points to be computed.<br>  
       
     
-*   The School Band and the National Uniformed Groups, comprising the National Cadet Corps (NCC), National Civil Defence Cadet Corps (NCDCC) and National Police Cadet Corps (NPCC) <b>are mandatory CCA</b> for all secondary schools. <b>Students in any one of the mandatory CCA are not permitted to change his/her CCA throughout their secondary school years, except for medical reasons, or once at the end of Secondary 1 or 2.</b><br>   
+*   The School Band and the National Uniformed Groups, comprising the National Cadet Corps (NCC), National Civil Defence Cadet Corps (NCDCC) and National Police Cadet Corps (NPCC)&nbsp;<b>are mandatory CCA</b>&nbsp;for all secondary schools.&nbsp;<b>Students in any one of the mandatory CCA are not permitted to change his/her CCA throughout their secondary school years, except for medical reasons, or once at the end of Secondary 1 or 2.</b><br>&nbsp;  
       
     
-	*   Students who wish to <b>change CCA</b> may opt for a change in CCA at the <b>beginning</b> of each academic year. Each student can only opt for change of CCA once either at the end of Sec One or Sec Two.<br>   
+	*   Students who wish to&nbsp;<b>change CCA</b>&nbsp;may opt for a change in CCA at the&nbsp;<b>beginning</b>&nbsp;of each academic year. Each student can only opt for change of CCA once either at the end of Sec One or Sec Two.<br>&nbsp;  
       
     
 *   The number of training sessions ranges from one to two in a week. Note that during peak season of the CCA, training sessions may increase up to three times a week.<br>
@@ -156,7 +151,7 @@ In general, CCAs will stand down 2 weeks before the start of examinations. If th
 
 Recognition of Students’ Level of Attainment<br>
 
-At the end of the graduating year, students’ co-curricular attainment will be recognised according to Excellent/Good/Fair.<br> 
+At the end of the graduating year, students’ co-curricular attainment will be recognised according to Excellent/Good/Fair.<br>&nbsp;
 
 The level of attainment will be converted to a bonus point(s) which can be used for admission to Junior Colleges/ Polytechnics/ Institutes of Technical Education (JC/Poly/ITE).<br>
 			<style type="text/css">
@@ -200,7 +195,7 @@ The level of attainment will be converted to a bonus point(s) which can be used 
 			
 			</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	

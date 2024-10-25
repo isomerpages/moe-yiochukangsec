@@ -3,6 +3,7 @@ title: NPCC
 permalink: /cca/Uniformed-Groups/NPCC/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/N1.jpg)
 The National Police Cadet Corps (NPCC) aims to nurture selfless individuals who contribute to the safety and security of the community. It also builds character, leadership and resilience in our cadets.
@@ -14,289 +15,219 @@ In NPCC, the cadets get a chance to learn more about the Singapore Police Force 
 
 <ul class="jekyllcodex_accordion">
 
-  <li>
+&nbsp;&nbsp;<li>
 
-    <input type="checkbox" id="accordion1">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Training Schedule</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Training&nbsp;Schedule</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<p> <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig">TRAINING INFORMATION</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">Every Tuesday 3:15PM to 5:45PM</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">NPCC Room &amp; Classroom Blk D L1</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Additional involvement on</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">OTHER DAYS for HQ activities</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">TEACHERS IN-CHARGE</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Ms Goh Yu Fan (ext 174) OIC</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Mr Wong Mingwei (ext 141)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Mr Mohd Fayumi (ext 170)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Mr Joseph C. George (ext 148)</td>
-  </tr>
-</tbody>
-</table>
-			</p>
-
-    </div>
+<table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;"> <thead> <tr> <th style="background-color: #f2f2f2; padding: 10px; text-align: left; border-bottom: 2px solid #ddd;"> <h5 style="margin: 0;">TRAINING INFORMATION</h5> </th> <th style="background-color: #f2f2f2; padding: 10px; text-align: left; border-bottom: 2px solid #ddd;"> <h5 style="margin: 0;">TEACHERS-IN-CHARGE</h5> </th> </tr> </thead> <tbody> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 300px; word-wrap: break-word;">Every Tuesday 3:00PM to 5:30PM</td> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 300px; word-wrap: break-word;">Ms Goh Yu Fan (ext 174) OIC</td> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 300px; word-wrap: break-word;">NPCC Room &amp; Blk D L1 Classroom</td> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 300px; word-wrap: break-word;">Mr Wong Mingwei (ext 141)</td> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 300px; word-wrap: break-word;">Additional involvement on other days for HQ activities</td> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 300px; word-wrap: break-word;">Mr Goh Kok Hoe Octave (ext 136)</td> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 300px; word-wrap: break-word;"></td> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 300px; word-wrap: break-word;">Mr Joseph C. George (ext 148)</td> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 300px; word-wrap: break-word;"></td> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 300px; word-wrap: break-word;">Mrs Cindy Ong Kim Leng (ext 139)</td> </tr> </tbody> </table>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	<li>
 
-    <input type="checkbox" id="accordion2">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Proudest Moments</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Proudest&nbsp;Moments</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-      <p> <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-8ytw{background-color:#3531ff;text-align:left;vertical-align:top}
-.tg .tg-o79m{background-color:#3166ff;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-o79m">2021</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">SPF-NPCC Badge Recipient: SSGT (NPCC) Sharmaine Chin Hui Xin</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">SPF-NPCC Badge Recipient: SSGT (NPCC) Evangeline Png</td>
-  </tr>
-  <tr>
-    <td class="tg-o79m">2020</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Unit Overall Proficiency Gold Award</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">SPF-NPCC Badge Recipient: SSGT Alvin Tan</td>
-  </tr>
-  <tr>
-    <td class="tg-8ytw">2019</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Inter-Unit .22 Revolver Shooting Competition (Individual Category - Boys): National 1st</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Sherlocke: The Last Call Crime Scene Investigation Competition: 2nd Runner Up</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">SPF-NPCC Badge Recipient: Station Inspector Elita Yu Jia Yi</td>
-  </tr>
-  <tr>
-    <td class="tg-8ytw">2018</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Unit Overall Proficiency Gold Award</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Inter-Unit .22 Revolver Shooting Competition (Individual Category - Girls): National 5th</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Inter-Unit Campcraft Competition (Boys) Top 50</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">SPF-NPCC Badge Recipient: Station Inspector Low Yi San</td>
-  </tr>
-</tbody>
-</table>
-			</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
+<table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;"> <thead> <tr> <th style="background-color: #f2f2f2; padding: 10px; text-align: left; border-bottom: 2px solid #ddd;"> <h5 style="margin: 0;">2024</h5> </th> </tr> </thead> <tbody> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">SPF-NPCC Badge Recipient: SSGT (NPCC) Aden Bin Azam</td> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">SPF-NPCC Badge Recipient: SSGT (NPCC) Tay Yu Qi Natalie (Zheng Yuqi)</td> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Inter-Unit .22 Revolver Shooting Competition (Individual Category - Boys): Louis Wong National 6th position</td> </tr> <tr> <th style="background-color: #f2f2f2; padding: 10px; text-align: left; border-bottom: 2px solid #ddd;"> <h5 style="margin: 0;">2023</h5> </th> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Unit Overall Proficiency Award: Distinction</td> </tr> </tbody> </table>
+		
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion3">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Events/Competitions</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Events/Competitions</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<p> <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-o79m{background-color:#3166ff;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-o79m">Events</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">Air Pistol Shooting Programme</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Annual Unit Camp</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Area 03 Adventure and Survival Training Camps at Pulau Ubin</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Area 03 Secondary One Cadets Swearing In Ceremony</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Area 03 Games Day</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Community Safety and Security Programme</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Crime Prevention Programme</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Home Team Gallery Visit</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">K-9 Dog Unit Visit</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Neighbourhood Police Centre Visit</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">NPCC Annual Parade (NPAP)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Police Heritage Visit</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Police Youth Ambassador</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Sports Enrichment Programme (SEP)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Total Defence Programme</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">YCKSS National Day Parade</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">YCKSS Speech Day Parade</td>
-  </tr>
-</tbody>
-</table><br>
-			<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-o79m{background-color:#3166ff;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-o79m">Courses</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">Anti-Drug Abuse Course (Singapore Anti-Narcotics Association)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Basic and Advanced Crime Scene Investigation Course</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Basic Law Course</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Cadet Leader Course</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Civil Defence Course</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">CPR-AED Certification Course</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Home Front Security Course</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Leadership and Mentoring Skill Course (LMSC)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Road Safety Course</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">One Star Kayaking Course</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Police Procedure Course</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Unarmed Tactics Course</td>
-  </tr>
-</tbody>
-</table>
-			</p>
+<table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;"> <thead> <tr> <th style="background-color: #f2f2f2; padding: 10px; text-align: left; border-bottom: 2px solid #ddd;"> <h5 style="margin: 0;">Events</h5> </th> </tr> </thead> <tbody> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Air Pistol Shooting Programme</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Annual Unit Camp</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Area 11 Adventure and Survival Training Camps at Pulau Ubin</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Area 11 Secondary One Cadets Swearing In Ceremony</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Area 11 Games Day</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Crime Prevention Programme</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Home Team Gallery Visit</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">K-9 Dog Unit Visit</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Neighbourhood Police Centre Visit</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">NPCC Annual Parade (NPAP)</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Police Heritage Visit</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Police Youth Ambassador</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Sports Enrichment Programme (SEP)</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Total Defence Programme</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">YCKSS National Day Parade</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">YCKSS Speech Day Parade</td></tr> </tbody> </table>
+	
 
-    </div>
+<table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;"> <thead> <tr> <th style="background-color: #f2f2f2; padding: 10px; text-align: left; border-bottom: 2px solid #ddd;"> <h5 style="margin: 0;">Courses</h5> </th> </tr> </thead> <tbody> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Basic Law Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Cadet Leader Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Campcraft Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Crime Scene Investigation Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Drill Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Homefront Security Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Leadership and Mentoring Skills Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Marksmanship Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Non-Commissioned Officer Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Oral Communication Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Police Procedures Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Road Safety Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Unarmed Tactics Course</td></tr> </tbody> </table>
+			<p></p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion4">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
 
-    <label for="accordion4">Gallery</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">Gallery</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<p> <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/N3.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/N4.png">
-			<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/N2.png"></p>
+<div class="wrapper">
+<div class="item item1">
+  <img style="border-radius: 10px; border: 10px solid white; box-shadow: -5px -5px 10px rgba(0,0,0,0.1);" alt="NPCC2025" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide1.png">
+</div>
+<div class="item item2">
+  <img style="border-radius: 10px; border: 10px solid white; box-shadow: -5px -5px 10px rgba(0,0,0,0.1);" alt="NPCC2025" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide2.png">
+</div>
+<div class="item item3">
+  <img style="border-radius: 10px; border: 10px solid white; box-shadow: -5px -5px 10px rgba(0,0,0,0.1);" alt="NPCC2025" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide3.png">
+</div>
+<div class="item item4">
+  <img style="border-radius: 10px; border: 10px solid white; box-shadow: -5px -5px 10px rgba(0,0,0,0.1);" alt="NPCC2025" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide4.png">
+</div>
+<div class="item item5">
+  <img style="border-radius: 10px; border: 10px solid white; box-shadow: -5px -5px 10px rgba(0,0,0,0.1);" alt="NPCC2025" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide1.png">
+</div>
+<div class="item item6">
+  <img style="border-radius: 10px; border: 10px solid white; box-shadow: -5px -5px 10px rgba(0,0,0,0.1);" alt="NPCC2025" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide2.png">
+</div>
+<div class="item item7">
+  <img style="border-radius: 10px; border: 10px solid white; box-shadow: -5px -5px 10px rgba(0,0,0,0.1);" alt="NPCC2025" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide3.png">
+</div>
+<div class="item item8">
+  <img style="border-radius: 10px; border: 10px solid white; box-shadow: -5px -5px 10px rgba(0,0,0,0.1);" alt="NPCC2025" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide4.png">
+</div>
+</div>
+	
+<span>**Follow us on IG to find out more!**</span>
+<div class="instagram_button">
+<a style="display: inline-block; padding: 10px 20px; background-color: #E1306C; color: white; text-decoration: none; font-weight: bold; border-radius: 5px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;" rel="noopener noreferrer" target="\_blank" href="https://www.instagram.com/ycknpcc"> @ycknpcc </a>
+</div>
 
-  </div>
+<div class="slideshow">
+
+<div style="background-image: url('https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide1.png')" class="slideshow-image"></div>
+
+<div style="background-image: url('https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide2.png')" class="slideshow-image"></div>
+
+<div style="background-image: url('https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide3.png')" class="slideshow-image"></div>
+
+<div style="background-image: url('https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide4.png')" class="slideshow-image"></div>
+
+</div>
+
+  
+
+<style>
+
+@charset "UTF-8";
+
+canvas,
+img,
+picture,
+svg,
+video {
+    display: block;
+    max-width: 100%
+}
+
+button,
+input,
+select,
+textarea {
+    font: inherit
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    overflow-wrap: break-word
+}
+
+#__next,
+#root {
+    isolation: isolate
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
+
+.wrapper {
+  width: 120%;
+  max-width: 1536px;
+  margin-inline: auto;
+  position: relative;
+  height: 720px;
+  margin-top: 5rem;
+  overflow: hidden;
+  mask-image: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 1) 20%,
+    rgba(0, 0, 0, 1) 80%,
+    rgba(0, 0, 0, 0)
+  );
+}
+
+@keyframes scrollLeft {
+  to {
+    left: -1280px;
+  }
+}
+
+.item {
+  width: 1280px;
+  height: 720px;
+  background-color: none;
+  border-radius: 6px;
+  position: absolute;
+  left: max(calc(1280px * 8), 100%);
+  animation-name: scrollLeft;
+  animation-duration: 100s;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.item1 {
+  animation-delay: calc(100s / 8 * (8 - 1) * -1);
+}
+
+.item2 {
+  animation-delay: calc(100s / 8 * (8 - 2) * -1);
+}
+
+.item3 {
+  animation-delay: calc(100s / 8 * (8 - 3) * -1);
+}
+
+.item4 {
+  animation-delay: calc(100s / 8 * (8 - 4) * -1);
+}
+
+.item5 {
+  animation-delay: calc(100s / 8 * (8 - 5) * -1);
+}
+
+.item6 {
+  animation-delay: calc(100s / 8 * (8 - 6) * -1);
+}
+
+.item7 {
+  animation-delay: calc(100s / 8 * (8 - 7) * -1);
+}
+
+.item8 {
+  animation-delay: calc(100s / 8 * (8 - 8) * -1);
+}
+</style></div>
 
 </li>
 	
