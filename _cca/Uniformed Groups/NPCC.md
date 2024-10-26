@@ -96,27 +96,13 @@ In NPCC, the cadets get a chance to learn more about the Singapore Police Force 
 </div>
 </div>
 	
+
+
 <span>Follow us on IG to find out more!</span>
+
 <div class="instagram_button">
-<a style="display: inline-block; padding: 10px 20px; background-color: #E1306C; color: white; text-decoration: none; font-weight: bold; border-radius: 5px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;" rel="noopener noreferrer" target="\_blank" href="https://www.instagram.com/ycknpcc"> @ycknpcc </a>
-</div>
-
-<div class="slideshow">
-
-<div style="background-image: url('https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide1.png')" class="slideshow-image"></div>
-
-<div style="background-image: url('https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide2.png')" class="slideshow-image"></div>
-
-<div style="background-image: url('https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide3.png')" class="slideshow-image"></div>
-
-<div style="background-image: url('https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide4.png')" class="slideshow-image"></div>
-
-</div>
-<span>Follow us on IG to find out more!</span>
-
-
 <button role="button" class="button-37"><a style="text-decoration: none; color: #fff; font-weight: 800" rel="noopener noreferrer" target="_blank" href="https://www.instagram.com/ycknpcc"> @ycknpcc </a></button>
-  
+</div>
 
 
 
@@ -206,14 +192,14 @@ In NPCC, the cadets get a chance to learn more about the Singapore Police Force 
 .button-37 {
 background-color: #13aa52;
 border: 1px solid #13aa52;
-border-radius: 10px;
+border-radius: 16px;
 box-shadow: rgba(0, 0, 0, .1) 0 2px 4px 0;
 box-sizing: border-box;
 color: #fff;
 cursor: pointer;
-padding: 10px 25px;
+padding: 10px 20px;
 text-align: center;
-\transform: translateY(0);
+transform: translateY(0);
 transition: transform 150ms, box-shadow 150ms;
 user-select: none;
 -webkit-user-select: none;
