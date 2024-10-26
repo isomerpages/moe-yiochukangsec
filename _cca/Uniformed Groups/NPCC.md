@@ -115,119 +115,117 @@ In NPCC, the cadets get a chance to learn more about the Singapore Police Force 
 
   
 
+
+
 <style>
-
-@charset "UTF-8";
-
-canvas,
-img,
-picture,
-svg,
-video {
-    display: block;
-    max-width: 100%
-}
-
-button,
-input,
-select,
-textarea {
-    font: inherit
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p {
-    overflow-wrap: break-word
-}
-
-#__next,
-#root {
-    isolation: isolate
-}
-
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
-
-* {
-  margin: 0;
-}
-
-.wrapper {
-  width: 120%;
-  max-width: 1536px;
-  margin-inline: auto;
-  position: relative;
-  height: 720px;
-  margin-top: 5rem;
-  overflow: hidden;
-  mask-image: linear-gradient(
-    to right,
-    rgba(0, 0, 0, 0),
-    rgba(0, 0, 0, 1) 20%,
-    rgba(0, 0, 0, 1) 80%,
-    rgba(0, 0, 0, 0)
-  );
-}
-
-@keyframes scrollLeft {
-  to {
-    left: -1280px;
-  }
-}
-
-.item {
-  width: 1280px;
-  height: 720px;
-  background-color: none;
-  border-radius: 6px;
-  position: absolute;
-  left: max(calc(1280px * 8), 100%);
-  animation-name: scrollLeft;
-  animation-duration: 100s;
-  animation-timing-function: ease-in-out;
-  animation-iteration-count: infinite;
-}
-
-.item1 {
-  animation-delay: calc(100s / 8 * (8 - 1) * -1);
-}
-
-.item2 {
-  animation-delay: calc(100s / 8 * (8 - 2) * -1);
-}
-
-.item3 {
-  animation-delay: calc(100s / 8 * (8 - 3) * -1);
-}
-
-.item4 {
-  animation-delay: calc(100s / 8 * (8 - 4) * -1);
-}
-
-.item5 {
-  animation-delay: calc(100s / 8 * (8 - 5) * -1);
-}
-
-.item6 {
-  animation-delay: calc(100s / 8 * (8 - 6) * -1);
-}
-
-.item7 {
-  animation-delay: calc(100s / 8 * (8 - 7) * -1);
-}
-
-.item8 {
-  animation-delay: calc(100s / 8 * (8 - 8) * -1);
-}
-</style></div>
+                                    @charset "UTF-8";
+                                    canvas,
+                                    img,
+                                    picture,
+                                    svg,
+                                    video {
+                                        display: block;
+                                        max-width: 100%
+                                    }
+                                    button,
+                                    input,
+                                    select,
+                                    textarea {
+                                        font: inherit
+                                    }
+                                    h1,
+                                    h2,
+                                    h3,
+                                    h4,
+                                    h5,
+                                    h6,
+                                    p {
+                                        overflow-wrap: break-word
+                                    }
+                                    .wrapper {
+                                        width: 100%;
+                                        max-width: 1270px;
+                                        margin-inline: auto;
+                                        position: relative;
+                                        height: 493px;
+                                        margin-top: 1.5rem;
+                                        overflow: hidden;
+                                        mask-image: linear-gradient(to right,
+                                                rgba(0, 0, 0, 0), rgba(0, 0, 0, 1) 8%,
+                                                rgba(0, 0, 0, 1) 92%,
+                                                rgba(0, 0, 0, 0));
+                                    }
+                                    @keyframes scrollLeft {
+                                        to {
+                                            left: -840px;
+                                        }
+                                    }
+                                    .item {
+                                        width: 840px;
+                                        height: 493px;
+                                        background-color: none;
+                                        border-radius: 16px;
+                                        position: absolute;
+                                        left: max(calc(1024px * 8), 100%);
+                                        animation-name: scrollLeft;
+                                        animation-duration: 120s;
+                                        animation-timing-function: ease-in-out;
+                                        animation-iteration-count: infinite;
+                                    }
+                                    .wrapper:hover .item {
+                                        animation-play-state: paused;
+                                    }
+                                    .item1 {
+                                        animation-delay: calc(120s / 8 * (8 - 1) * -1);
+                                    }
+                                    .item2 {
+                                        animation-delay: calc(120s / 8 * (8 - 2) * -1);
+                                    }
+                                    .item3 {
+                                        animation-delay: calc(120s / 8 * (8 - 3) * -1);
+                                    }
+                                    .item4 {
+                                        animation-delay: calc(120s / 8 * (8 - 4) * -1);
+                                    }
+                                    .item5 {
+                                        animation-delay: calc(120s / 8 * (8 - 5) * -1);
+                                    }
+                                    .item6 {
+                                        animation-delay: calc(120s / 8 * (8 - 6) * -1);
+                                    }
+                                    .item7 {
+                                        animation-delay: calc(120s / 8 * (8 - 7) * -1);
+                                    }
+                                    .item8 {
+                                        animation-delay: calc(120s / 8 * (8 - 8) * -1);
+                                    }
+                                    /* CSS */
+                                    .button-37 {
+                                        background-color: #13aa52;
+                                        border: 1px solid #13aa52;
+                                        border-radius: 10px;
+                                        box-shadow: rgba(0, 0, 0, .1) 0 2px 4px 0;
+                                        box-sizing: border-box;
+                                        color: #fff;
+                                        cursor: pointer;
+                                        padding: 10px 25px;
+                                        text-align: center;
+                                        transform: translateY(0);
+                                        transition: transform 150ms, box-shadow 150ms;
+                                        user-select: none;
+                                        -webkit-user-select: none;
+                                        touch-action: manipulation;
+                                    }
+                                    .button-37:hover {
+                                        box-shadow: rgba(0, 0, 0, .25) 0 3px 9px 0;
+                                        transform: translateY(-2px);
+                                    }
+                                    @media (min-width: 768px) {
+                                        .button-37 {
+                                            padding: 10px 30px;
+                                        }
+                                    }
+                                </style></div>
 
 </li>
 	
