@@ -112,7 +112,15 @@ In NPCC, the cadets get a chance to learn more about the Singapore Police Force 
 <div style="background-image: url('https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/NPCC2025Slide4.png')" class="slideshow-image"></div>
 
 </div>
+<span>Follow us on IG to find out more!</span>
 
+
+
+<div>
+
+<button role="button" class="button-37"><a style="text-decoration: none; color: #fff; font-weight: 800" rel="noopener noreferrer" target="_blank" href="https://www.instagram.com/ycknpcc"> @ycknpcc </a></button>
+
+</div>
   
 
 
