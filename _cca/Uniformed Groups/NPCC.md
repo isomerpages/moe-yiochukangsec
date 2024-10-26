@@ -207,33 +207,28 @@ In NPCC, the cadets get a chance to learn more about the Singapore Police Force 
                                     .item8 {
                                         animation-delay: calc(120s / 8 * (8 - 8) * -1);
                                     }
-                                    /* CSS */
-                                    .button-37 {
-                                        background-color: #13aa52;
-                                        border: 1px solid #13aa52;
-                                        border-radius: 10px;
-                                        box-shadow: rgba(0, 0, 0, .1) 0 2px 4px 0;
-                                        box-sizing: border-box;
-                                        color: #fff;
-                                        cursor: pointer;
-                                        padding: 10px 25px;
-                                        text-align: center;
-                                        transform: translateY(0);
-                                        transition: transform 150ms, box-shadow 150ms;
-                                        user-select: none;
-                                        -webkit-user-select: none;
-                                        touch-action: manipulation;
-                                    }
-                                    .button-37:hover {
-                                        box-shadow: rgba(0, 0, 0, .25) 0 3px 9px 0;
-                                        transform: translateY(-2px);
-                                    }
-                                    @media (min-width: 768px) {
-                                        .button-37 {
-                                            padding: 10px 30px;
-                                        }
-                                    }
-                                </style></div>
+/* CSS */
+.button-37 {
+background-color: #13aa52;
+border: 1px solid #13aa52;
+border-radius: 10px;
+box-shadow: rgba(0, 0, 0, .1) 0 2px 4px 0;
+box-sizing: border-box;
+color: #fff;
+cursor: pointer;
+padding: 10px 25px;
+text-align: center;
+\transform: translateY(0);
+transition: transform 150ms, box-shadow 150ms;
+user-select: none;
+-webkit-user-select: none;
+touch-action: manipulation;
+}
+.button-37:hover {
+box-shadow: rgba(0, 0, 0, .25) 0 3px 9px 0;
+transform: translateY(-2px);
+}</style>
+	</div>
 
 </li>
 	
