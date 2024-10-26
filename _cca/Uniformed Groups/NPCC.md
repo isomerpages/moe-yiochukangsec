@@ -115,12 +115,7 @@ In NPCC, the cadets get a chance to learn more about the Singapore Police Force 
 <span>Follow us on IG to find out more!</span>
 
 
-
-<div>
-
 <button role="button" class="button-37"><a style="text-decoration: none; color: #fff; font-weight: 800" rel="noopener noreferrer" target="_blank" href="https://www.instagram.com/ycknpcc"> @ycknpcc </a></button>
-
-</div>
   
 
 
@@ -228,9 +223,7 @@ touch-action: manipulation;
 box-shadow: rgba(0, 0, 0, .25) 0 3px 9px 0;
 transform: translateY(-2px);
 }</style>
-	</div>
-
-</li>
+</div></li>
 	
 	
 
