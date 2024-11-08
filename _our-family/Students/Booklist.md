@@ -7,22 +7,7 @@ variant: markdown
 ---
 ### Booklist 2024
 
-   <table>
-        <tbody><tr>
-            <th>Sec 1</th>
-            <th>Sec2</th>
-            <th>Sec 3</th>
-            <th>Sec 4</th>
-            <th>Sec 5</th>
-        </tr>
-        <tr>
-            <td><a href="/files/Students/Booklist/2024%20secondary%201%20booklist.pdf">2024 Sec 1 booklist</a></td>
-            <td><a href="/files/Students/Booklist/2024%20secondary%202%20booklist.pdf">2024 Sec 2 booklist</a></td>
-            <td><a href="/files/Students/Booklist/2024%20secondary%203%20booklist.pdf">2024 Sec 3 booklist</a></td>
-            <td><a href="/files/Students/Booklist/2024%20secondary%204%20booklist.pdf">2024 Sec 4 booklist</a></td>
-            <td><a href="/files/Students/Booklist/2024%20secondary%205%20booklist.pdf">2024 Sec 5 booklist</a></td>
-        </tr>
-    </tbody></table>
+<table> <tbody><tr> <th>Secondary 1</th> <th>Secondary 2</th> <th>Secondary 3</th> <th>Secondary 4</th> <th>Secondary 5</th> </tr> <tr> <td><a href="/files/Students/Booklist/2025\_Booklist\_For\_Secondary\_1.pdf">2025 Booklist for Secondary 1</a></td> <td><a href="/files/Students/Booklist/2025\_Booklist\_For\_Secondary\_2.pdf">2025 Booklist for Secondary 2</a></td> <td><a href="/files/Students/Booklist/2025\_Booklist\_For\_Secondary\_3.pdf">2025 Booklist for Secondary 3</a></td> <td><a href="/files/Students/Booklist/2025\_Booklist\_For\_Secondary\_4.pdf">2025 Booklist for Secondary 4</a></td> <td><a href="/files/Students/Booklist/2025\_Booklist\_For\_Secondary\_5.pdf">2025 Booklist for Secondary 5</a></td> </tr> </tbody></table>
 
       
 
