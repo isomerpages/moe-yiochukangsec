@@ -17,7 +17,7 @@ variant: markdown
 	<li style="margin: 0; padding: 0;">#05-02 Kewalram Hillview</li>
 	<li style="margin: 0; padding: 0;">Singapore 669594</li>
 	<li style="margin: 0; padding: 0;">Tel: 67643102</li>
-	<li style="margin: 0; padding: 0;">Website: [www.asencio.com.sg](http://www.asencio.com.sg)</li>
+	<li style="margin: 0; padding: 0;">Website: <a href="http://www.asencio.com.sg">www.asencio.com.sg</a></li>
 </ul>
 
 ###### **School term operating hours:**
