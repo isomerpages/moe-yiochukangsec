@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Students
 variant: markdown
 ---
-### Booklist 2024
+### Booklist 2025
 
 <table> <tbody><tr> <th>Secondary 1</th> <th>Secondary 2</th> <th>Secondary 3</th> <th>Secondary 4</th> <th>Secondary 5</th> </tr> <tr> <td><a href="/files/Students/Booklist/2025\_Booklist\_For\_Secondary\_1.pdf">2025 Booklist for Secondary 1</a></td> <td><a href="/files/Students/Booklist/2025\_Booklist\_For\_Secondary\_2.pdf">2025 Booklist for Secondary 2</a></td> <td><a href="/files/Students/Booklist/2025\_Booklist\_For\_Secondary\_3.pdf">2025 Booklist for Secondary 3</a></td> <td><a href="/files/Students/Booklist/2025\_Booklist\_For\_Secondary\_4.pdf">2025 Booklist for Secondary 4</a></td> <td><a href="/files/Students/Booklist/2025\_Booklist\_For\_Secondary\_5.pdf">2025 Booklist for Secondary 5</a></td> </tr> </tbody></table>
 
