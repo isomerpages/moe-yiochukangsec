@@ -27,11 +27,13 @@ variant: markdown
       
 
 ###### **Asencio Pte Ltd**
-<br>120 Hillview Avenue
-<br>#05-02 Kewalram Hillview
-<br>Singapore 669594
-<br>Tel: 67643102
-<br> Website: [www.asencio.com.sg](http://www.asencio.com.sg)
+<ul style="margin: 0; padding: 0; list-style: none;">
+	<li style="margin: 0; padding: 0;">120 Hillview Avenue</li>
+	<li style="margin: 0; padding: 0;">#05-02 Kewalram Hillview</li>
+	<li style="margin: 0; padding: 0;">Singapore 669594</li>
+	<li style="margin: 0; padding: 0;">Tel: 67643102</li>
+	<li style="margin: 0; padding: 0;">Website: [www.asencio.com.sg](http://www.asencio.com.sg)</li>
+</ul>
 
 ###### **School term operating hours:**
 <ul style="margin: 0; padding: 0; list-style: none;">
@@ -43,3 +45,70 @@ For year-end book sales, online ordering is available at [asenciobookshop.sg](ht
 <br>Please refer to respective booklists for the periods of online and in-person book sales.
 <br>Enquiry email: yckss@asencio.com.sg
 
+
+<style>
+ canvas,
+ img,
+ picture,
+ svg,
+ video {
+     display: block;
+     max-width: 100%
+ }
+
+ button,
+ input,
+ select,
+ textarea {
+     font: inherit
+ }
+
+ h1,
+ h2,
+ h3,
+ h4,
+ h5,
+ h6,
+ p {
+     overflow-wrap: break-word
+ }
+	
+
+/* Optional: Reset for definition lists */
+    dl, dt, dd {
+        margin: 0;
+        padding: 0;
+    }
+
+table {
+     width: 100%;
+     border-collapse: collapse;
+     font-family: Arial, sans-serif;
+ }
+
+ th,
+ td {
+     padding: 10px;
+     border: 1px solid #ddd;
+     text-align: left;
+ }
+
+ th {
+     background-color: #f2f2f2;
+     font-weight: bold;
+ }
+
+ tr:nth-child(even) {
+     background-color: #f9f9f9;
+ }
+
+ a {
+     color: #0066cc;
+     text-decoration: none;
+ }
+
+ a:hover {
+     text-decoration: underline;
+ }
+
+</style>
