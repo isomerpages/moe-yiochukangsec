@@ -59,11 +59,6 @@ For year-end book sales, online ordering is available at [asenciobookshop.sg](ht
  }
 	
 
-/* Optional: Reset for definition lists */
-    dl, dt, dd {
-        margin: 0;
-        padding: 0;
-    }
 
 table {
      width: 100%;
