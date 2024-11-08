@@ -28,7 +28,7 @@ variant: markdown
 
 For year-end book sales, online ordering is available at [asenciobookshop.sg](https://asenciobookshop.sg/)
 <br>Please refer to respective booklists for the periods of online and in-person book sales.
-<br>Enquiry email: yckss@asencio.com.sg
+<br>Enquiry email:    <a href="mailto:yckss@asencio.com.sg">yckss@asencio.com.sg</a>
 
 
 <style>
