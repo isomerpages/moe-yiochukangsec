@@ -3,6 +3,7 @@ title: Concert Band
 permalink: /cca/Performing-Arts/Concert-Band/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/C1NEW.png)
 The Concert Band aims to develop a dedicated group of musicians who strive to achieve excellence in instrumental music performance. Our students experience the joy of making music and forging friendships that will last for life. Band students learn instrumental and ensemble skills on a wind orchestra instrument and actively participate in school, community, and national events. New student applicants will undergo an aptitude test to determine the instrument(s) best suited to their unique abilities for them to study. Our CCA trains three times a week, with the goal of developing the students’ instrumental and ensemble skills to their highest level. With the aid of professional instructors and the support of dedicated alumni, the Concert Band seeks to bring their performances to greater heights.
@@ -12,13 +13,13 @@ The Concert Band aims to develop a dedicated group of musicians who strive to ac
 
 <ul class="jekyllcodex_accordion">
 
-  <li>
+&nbsp;&nbsp;<li>
 
-    <input type="checkbox" id="accordion1">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Training Schedule</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Training&nbsp;Schedule</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p>   
 <style type="text/css">
@@ -41,13 +42,13 @@ The Concert Band aims to develop a dedicated group of musicians who strive to ac
     <td class="tg-0lax">EVERY TUESDAY</td>
   </tr>
   <tr>
-    <td class="tg-0lax">3:15PM to 5:45PM</td>
+    <td class="tg-0lax">3:00PM to 5:30PM</td>
   </tr>
   <tr>
     <td class="tg-0lax">EVERY THURSDAY</td>
   </tr>
   <tr>
-    <td class="tg-0lax">3:15PM to 5:45PM</td>
+    <td class="tg-0lax">3:00PM to 5:30PM</td>
   </tr>
   <tr>
     <td class="tg-0lax">VENUE</td>
@@ -73,18 +74,18 @@ The Concert Band aims to develop a dedicated group of musicians who strive to ac
 </tbody>
 </table></p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	<li>
 
-    <input type="checkbox" id="accordion2">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Proudest Moments</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Proudest&nbsp;Moments</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<p> <b>2021</b><br> SYF Presentation  - Certificate of Accomplishment<br><br> <b>2019</b><br> SYF Presentation  - Certificate of Accomplishment<br><br>  
+<p> <b>2021</b><br>&nbsp;SYF Presentation&nbsp; - Certificate of Accomplishment<br><br> <b>2019</b><br>&nbsp;SYF Presentation&nbsp; - Certificate of Accomplishment<br><br>  
 	<b>2017</b><br>  
 2017 Exchange concert with Sembawang Wind Orchestra @ Singapore Botanic Gardens<br>  
 2017 SYF Arts Presentation: Certificate of Accomplishment<br><br>  
@@ -122,17 +123,17 @@ The Concert Band aims to develop a dedicated group of musicians who strive to ac
 2003 Gold Award for SYF Central Judging
 			</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion3">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Events/Competitions</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Events/Competitions</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> Chinese New Year celebrations<br>  
 Singapore Youth Festival<br>  
@@ -141,17 +142,17 @@ School National Day Celebration<br>
 Exchange Concerts with Sembawang Wind Orchestra
 			</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion4">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
 
-    <label for="accordion4">Gallery</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">Gallery</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p>   
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/C4.png">
@@ -159,7 +160,7 @@ Exchange Concerts with Sembawang Wind Orchestra
 			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/C6.png">
 			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/C7.png"></p>
 
-  </div>
+&nbsp;&nbsp;</div>
 
 </li>
 	

@@ -15,7 +15,13 @@ make-up and managing light and sound as well as an appreciation for arts
 and culture. The experiences gained, values learnt and friendship made
 will carry with the students even after graduation.</p>
 <h3>Training&nbsp;Schedule</h3>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -49,7 +55,7 @@ will carry with the students even after graduation.</p>
 <p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:15-5:45pm</p>
+<p>3:00PM to 5:30PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dance studio 2/Heritage Gallery</p>

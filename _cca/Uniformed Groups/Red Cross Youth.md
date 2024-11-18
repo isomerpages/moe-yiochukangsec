@@ -3,22 +3,23 @@ title: Red Cross Youth
 permalink: /cca/Uniformed-Groups/Red-Cross-Youth/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R1.jpg)
-The primary goal of YCKSS’s Red Cross Youth Unit is to instill core values of compassion for humanity and a strong sense of civic responsibility. It also aims to impart skills and knowledge to its cadets to manage emergency scenarios and to make a difference to the lives of those in their community. The slogan for Red Cross Youth is _“Humanity in our Hands”_.
+The primary goal of YCKSS’s Red Cross Youth Unit is to instill core values of compassion for humanity and a strong sense of civic responsibility. It also aims to impart skills and knowledge to its cadets to manage emergency scenarios and to make a difference to the lives of those in their community. The slogan for Red Cross Youth is&nbsp;_“Humanity in our Hands”_.
 
 In YCKSS-RCY, we believe in developing caring and responsible individuals, who serve with humility, integrity and excellence.
 
 
 <ul class="jekyllcodex_accordion">
 
-  <li>
+&nbsp;&nbsp;<li>
 
-    <input type="checkbox" id="accordion1">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Training Schedule</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Training&nbsp;Schedule</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -37,7 +38,7 @@ In YCKSS-RCY, we believe in developing caring and responsible individuals, who s
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">Every Tuesday 3:15PM to 5:45PM</td>
+    <td class="tg-0lax">Every Tuesday 3:00PM to 5:30PM</td>
   </tr>
   <tr>
     <td class="tg-0lax">RED CROSS Room &amp; Classroom Blk E L1</td>
@@ -67,18 +68,18 @@ In YCKSS-RCY, we believe in developing caring and responsible individuals, who s
 </table>
 			</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	<li>
 
-    <input type="checkbox" id="accordion2">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Proudest Moments</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Proudest&nbsp;Moments</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-      <p> <style type="text/css">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -160,17 +161,17 @@ In YCKSS-RCY, we believe in developing caring and responsible individuals, who s
 </tbody>
 </table> </p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion3">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Events/Competitions</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Events/Competitions</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -246,22 +247,22 @@ In YCKSS-RCY, we believe in developing caring and responsible individuals, who s
 </table>
 			</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion4">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
 
-    <label for="accordion4">Gallery</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">Gallery</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R2.png">
 			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R3.png"></p>
 
-  </div>
+&nbsp;&nbsp;</div>
 
 </li>
 	

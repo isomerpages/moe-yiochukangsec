@@ -3,6 +3,7 @@ title: Malay Dance
 permalink: /cca/Performing-Arts/Malay-Dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M1.jpg)
 The Malay Dance CCA aims to instill the importance of self-discipline, confidence, perseverance and teamwork. Embracing the spirit of PERTAME\_NALURI SENI, we always strive to firstly touch our inner soul and enhance our feel through the dance. Our dancers are exposed to traditional and contemporary styles with movements showcasing the rich heritage of the genres portrayed. Our dancers are given opportunities to showcase their talent in various school and public performances. Performing at national events such as Youth Celebrate!, Chingay Parade and Muara Festival enable our the dancers to gain valuable experiences that develop them into better and more skillful dancers.
@@ -13,13 +14,13 @@ The Malay Dance CCA aims to instill the importance of self-discipline, confidenc
 
 <ul class="jekyllcodex_accordion">
 
-  <li>
+&nbsp;&nbsp;<li>
 
-    <input type="checkbox" id="accordion1">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Training Schedule</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Training&nbsp;Schedule</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -41,7 +42,7 @@ The Malay Dance CCA aims to instill the importance of self-discipline, confidenc
     <td class="tg-0lax">Every Wednesday</td>
   </tr>
   <tr>
-    <td class="tg-0lax">3:15PM to 5:45PM</td>
+    <td class="tg-0lax">3:00PM to 5:30PM</td>
   </tr>
   <tr>
     <td class="tg-0lax">Dance Studio 2 (Level 3)</td>
@@ -61,21 +62,21 @@ The Malay Dance CCA aims to instill the importance of self-discipline, confidenc
 </tbody>
 </table> </p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	<li>
 
-    <input type="checkbox" id="accordion2">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Proudest Moments</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Proudest&nbsp;Moments</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<p> <b>2021</b> ‘Perlindungan’ SYF Arts Presentation - Certificate of Accomplishment<br><br>  
-	<b>2019</b> ‘Tampi’ SYF Arts Presentation - Certificate of Accomplishment<br><br>
+<p> <b>2021</b> ‘Perlindungan’ SYF Arts Presentation&nbsp;- Certificate of Accomplishment<br><br>  
+	<b>2019</b> ‘Tampi’ SYF Arts Presentation&nbsp;- Certificate of Accomplishment<br><br>
 <b>2017</b> National Day Parade Performance (Thriving Together)<br><br>
-<b>2016</b> Participate in Chinese New Year Celebrations<br> Chingay Parade 2016<br> Muara Festival in 2016<br><Br>  
+<b>2016</b> Participate in Chinese New Year Celebrations<br> Chingay Parade 2016<br> Muara Festival in 2016<br><br>  
 	<b>2015</b> Participation in Youth Celebrate<br> Muara Festival in 2015<br><br>  
 	<b>2013</b> ‘Topeng’ SYF Arts Presentation - Certificate of Distinction<br><br>
 	<b>2011</b> ‘Rindu’ (SYF Central Judging - Gold Award)<br><br>
@@ -91,42 +92,42 @@ The Malay Dance CCA aims to instill the importance of self-discipline, confidenc
 	<b>1993</b>‘Rentak Saji’(SYF Central Judging - Certificate of Merit) 
 			</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion3">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Events/Competitions</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Events/Competitions</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> Singapore Youth Festival – Arts Presentation<br>  
 School Speech Day
 			</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion4">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
 
-    <label for="accordion4">Gallery</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">Gallery</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<p> <iframe width="560" height="315" src="https://www.youtube.com/embed/rq9OGwsQ_VM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>YCKSS Malay Dance 2019<br>
+<p> <iframe width="560" height="315" src="https://www.youtube.com/embed/rq9OGwsQ_VM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>YCKSS Malay Dance 2019<br>
 			  
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M4.png">
 			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M5.png">
 			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M6.png">
 			</p>
 
-  </div>
+&nbsp;&nbsp;</div>
 
 </li>
 	
