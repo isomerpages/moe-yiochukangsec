@@ -12,7 +12,12 @@ variant: tiptap
 <h3>Training&nbsp;Schedule</h3>
 <hr>
 <h4>The Digital Animation Club <br></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -40,8 +45,8 @@ variant: tiptap
 <br>Foo Su Fang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Monday</strong> (Lower secondary) 3.15pm to 5.45pm</p>
-<p><strong>Tuesday</strong> (Upper secondary) 3.15pm to 5.45 pm</p>
+<p><strong>Monday</strong> (Lower secondary) 3.00pm to 5.30pm</p>
+<p><strong>Tuesday</strong> (Upper secondary) 3.00pm to 5.30pm</p>
 <p><strong>Venue :</strong> Digital Learning Lab 1</p>
 </td>
 </tr>
