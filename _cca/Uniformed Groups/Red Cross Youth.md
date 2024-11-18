@@ -38,7 +38,7 @@ In YCKSS-RCY, we believe in developing caring and responsible individuals, who s
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">Every Tuesday 3:00PM to 5:00PM</td>
+    <td class="tg-0lax">Every Tuesday 3:00PM to 5:30PM</td>
   </tr>
   <tr>
     <td class="tg-0lax">RED CROSS Room &amp; Classroom Blk E L1</td>
