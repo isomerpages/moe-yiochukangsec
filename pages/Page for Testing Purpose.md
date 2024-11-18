@@ -190,7 +190,8 @@ details[open] summary::after {
     content: "×"
 }
 	
-.list { columns: 300px; }
+.list { columns: 300px;
+					margin_bottom: 1rem; }
 
 @keyframes fade {
     0% {
