@@ -189,6 +189,8 @@ details[open] summary {
 details[open] summary::after {
     content: "×"
 }
+	
+.list { columns: 300px; }
 
 @keyframes fade {
     0% {
