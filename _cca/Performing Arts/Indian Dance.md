@@ -18,7 +18,7 @@ We have the privilege of engaging in sports activities, Values In Action (VIA) w
 
 | Training Information                 | Teachers-in-charge                         |
 | ------------------------------------ | ------------------------------------------ |
-| Every WEDNESDAY<br>3:15 PM - 5:45 PM | Mdm Siva (ext 136)<br>Mrs Ilango (ext 175) |
+| Every WEDNESDAY<br>3:00PM to 5:30PM | Mdm Siva (ext 136)<br>Mrs Ilango (ext 175) |
 
 
 | Dance Instructor                      |
