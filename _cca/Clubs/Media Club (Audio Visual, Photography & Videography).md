@@ -3,14 +3,15 @@ title: Media Club (Audio Visual, Photography & Videography)
 permalink: /cca/Clubs/Media-Club-Audio-Visual-Photography-Videography/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Media%20Club/M1.jpg)
 
 The Media Club aim to excite students about infocomm in a fun and meaningful way by helping them to learn new infocomm skills and to cultivate leadership capabilities.
 
-### **Media Club - AV & Videography**
+### **Media Club - AV &amp; Videography**
 
-We offer students a hands-on experience in AV & Videography. Students learn to operate various professional equipment and tools and are encouraged to explore and exercise their creativity. They are given opportunities to stretch their imagination and tell compelling stories through video-making. We have a comprehensive programme to build their foundation in the artistic and technical aspects of Videography. To create an authentic experience, students are involved in planning and executing the media coverage of large scale school events such as our school's Speech Day, MOE Singapore-Hong Kong School Exchange, N6 Cluster Media and Design Festival.
+We offer students a hands-on experience in AV &amp; Videography. Students learn to operate various professional equipment and tools and are encouraged to explore and exercise their creativity. They are given opportunities to stretch their imagination and tell compelling stories through video-making. We have a comprehensive programme to build their foundation in the artistic and technical aspects of Videography. To create an authentic experience, students are involved in planning and executing the media coverage of large scale school events such as our school's Speech Day, MOE Singapore-Hong Kong School Exchange, N6 Cluster Media and Design Festival.
 
 ### **Media Club - Photography**
 
@@ -19,15 +20,15 @@ Our photography programme offers students structured training that equips them w
 
 <ul class="jekyllcodex_accordion">
 
-  <li>
+&nbsp;&nbsp;<li>
 
-    <input type="checkbox" id="accordion1">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Training Schedule</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Training&nbsp;Schedule</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<p> <b>The Media Club (Audio-Visual, Photography & Videography)</b><br>
+<p> <b>The Media Club (Audio-Visual, Photography &amp; Videography)</b><br>
 			<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -50,24 +51,24 @@ Our photography programme offers students structured training that equips them w
   <tr>
     <td class="tg-jikt">Mr Ng Mang Chung (ext 143)<br>Mr Brandon Chin (ext 136)<br>Mdm Doreen Ng (ext 134)<br>Ms Xu Xiaohong (ext 174)<br>Mr Yip Seng Yiam (ext 125)<br></td>
     <td class="tg-ozs2"><span style="font-weight:bolder">President</span><br>Lee En Ting, Charlene<br><span style="font-weight:bolder">Vice-President</span><br>Ngan Kwan Teng n</td>
-    <td class="tg-ozs2"><span style="font-weight:bolder">Every Tuesday &amp; Thursday</span><br>3:15pm to 5:45pm<br><span style="font-weight:bolder">Venue :</span> EBS Lab/ Hall Gallery</td>
+    <td class="tg-ozs2"><span style="font-weight:bolder">Every Tuesday &amp; Thursday</span><br>3.00pm to 5.30pm<br><span style="font-weight:bolder">Venue :</span> EBS Lab/ Hall Gallery</td>
   </tr>
 </tbody>
 </table>
 			</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	<li>
 
-    <input type="checkbox" id="accordion2">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Events/Competitions & Our Proudest Moments</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Events/Competitions&nbsp;&amp;&nbsp;Our&nbsp;Proudest&nbsp;Moments</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-      <p> <style type="text/css">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -161,24 +162,24 @@ Our photography programme offers students structured training that equips them w
 </table> 
 			</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion3">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Gallery</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Gallery</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p>   
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Media%20Club/M2.png">
 			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Media%20Club/M3.png">
 			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Media%20Club/M4.png"></p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
