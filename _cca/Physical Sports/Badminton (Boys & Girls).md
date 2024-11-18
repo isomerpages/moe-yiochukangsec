@@ -66,7 +66,7 @@ to bring YCKSS Badminton to greater heights.</p>
 <p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00 pm – 5:00 pm</p>
+<p>3:00 pm – 5:30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All girls</p>
@@ -82,7 +82,7 @@ to bring YCKSS Badminton to greater heights.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
-<p>3:00 pm – 5:00 pm</p>
+<p>3:00 pm – 5:30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All girls</p>
@@ -98,7 +98,7 @@ to bring YCKSS Badminton to greater heights.</p>
 <p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00 pm – 5:00 pm</p>
+<p>3:00 pm – 5:30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All boys</p>
