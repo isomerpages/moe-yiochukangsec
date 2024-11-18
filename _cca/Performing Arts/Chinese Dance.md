@@ -3,6 +3,7 @@ title: Chinese Dance
 permalink: /cca/Performing-Arts/Chinese-Dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C1.jpg)
 The Chinese Dance Club aims to engage the dancers in fun and interesting ways. We provide a platform for students to showcase their talents and creativity in Chinese dance through collaboration with external organisations. Through the various public performances, the club aims to progressively nurture the dancers to be young and confident adults. We have a comprehensive and structured programme to expose students to Chinese culture and learn the skills and techniques of Chinese Dance. Through dance, we also hope to instil self-discipline, perseverance and teamwork.
@@ -13,13 +14,13 @@ The Chinese Dance Club aims to engage the dancers in fun and interesting ways. W
 
 <ul class="jekyllcodex_accordion">
 
-  <li>
+&nbsp;&nbsp;<li>
 
-    <input type="checkbox" id="accordion1">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Training Schedule</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Training&nbsp;Schedule</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -41,7 +42,7 @@ The Chinese Dance Club aims to engage the dancers in fun and interesting ways. W
     <td class="tg-0lax">EVERY TUESDAY</td>
   </tr>
   <tr>
-    <td class="tg-0lax">3:15PM TO 5:45PM</td>
+    <td class="tg-0lax">3:00PM to 5:30PM</td>
   </tr>
   <tr>
     <td class="tg-0lax">Dance Studio 1 (Level 3); or</td>
@@ -53,7 +54,7 @@ The Chinese Dance Club aims to engage the dancers in fun and interesting ways. W
     <td class="tg-0lax">EVERY THURSDAY</td>
   </tr>
   <tr>
-    <td class="tg-0lax">3:15PM TO 5:45PM</td>
+    <td class="tg-0lax">3:00PM to 5:30PM</td>
   </tr>
   <tr>
     <td class="tg-0lax">Dance Studio 1 (Level 3)</td>
@@ -73,18 +74,18 @@ The Chinese Dance Club aims to engage the dancers in fun and interesting ways. W
 </tbody>
 </table> </p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	<li>
 
-    <input type="checkbox" id="accordion2">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Proudest Moments</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Proudest&nbsp;Moments</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-      <p> <style type="text/css">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -199,17 +200,17 @@ The Chinese Dance Club aims to engage the dancers in fun and interesting ways. W
 </table> 
 			</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion3">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Events/Competitions</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Events/Competitions</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -314,25 +315,25 @@ The Chinese Dance Club aims to engage the dancers in fun and interesting ways. W
 </table>
 			</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion4">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
 
-    <label for="accordion4">Photo Gallery</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">Photo&nbsp;Gallery</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<p> <iframe width="560" height="315" src="https://www.youtube.com/embed/PKtc-skdeVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<p> <iframe width="560" height="315" src="https://www.youtube.com/embed/PKtc-skdeVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br>
 	
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C4.png">
 			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C5.png">
 			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C6.png"></p>
 
-  </div>
+&nbsp;&nbsp;</div>
 
 </li>
 	
