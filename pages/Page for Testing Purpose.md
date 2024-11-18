@@ -7,18 +7,48 @@ image: /images/0cd1870b_103f_4767_8dfd_9abfe6e11817.jpg
 ---
 # Test Page
 
+
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_1.jpg)
+
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_2.jpg)
+
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_3.jpg)
+
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_4.jpg)
+
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_5.jpg)
+
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_6.jpg)
+
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_7.jpg)
+
+<hr>
+
+<details class="jk-details">
+	<summary> Concert Band Photos in HTML</summary>
+<div class="list">
+<img alt="Concert Band image 1" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_1.jpg">
+<img alt="Concert Band image 2" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_2.jpg">
+<img alt="Concert Band image 3" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_3.jpg">
+<img alt="Concert Band image 4" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_4.jpg">
+<img alt="Concert Band image 5" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_5.jpg">
+<img alt="Concert Band image 6" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_6.jpg">
+<img alt="Concert Band image 7" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_7.jpg">
+	</div>
+</details>
+
 <blockquote>"Not all things turn out well. Use this to test the battleground ..."</blockquote>
 
-<details><summary>59th Speech &amp; Prize Giving Day</summary>
+<details class="jk-details"><summary>59th Speech &amp; Prize Giving Day</summary>
 
 [![59th Speech &amp; Prize Giving Day - Full Performance 26 May 2024](https://res.cloudinary.com/marcomontalbano/image/upload/v1717727983/video_to_markdown/images/youtube--iivxaYHg7HY-c05b58ac6eb4c4700831b2b3070cd403.jpg)]( https://www.youtube.com/watch?v=iivxaYHg7HY "59th Speech &amp; Prize Giving Day - Full Performance 26 May 2024")
 	
-
-
-	[![Highlights from 59th Speech &amp; Prize Giving Day](https://res.cloudinary.com/marcomontalbano/image/upload/v1717728267/video_to_markdown/images/youtube--vXqtR-VJkn4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=vXqtR-VJkn4 "Highlights from 59th Speech &amp; Prize Giving Day")
+	
+[![Highlights from 59th Speech &amp; Prize Giving Day](https://res.cloudinary.com/marcomontalbano/image/upload/v1717728267/video_to_markdown/images/youtube--vXqtR-VJkn4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=vXqtR-VJkn4 "Highlights from 59th Speech &amp; Prize Giving Day")
+	
 </details>
 
-<details><summary>58th Speech &amp; Prize Giving Day</summary>
+<details class="jk-details"><summary>58th Speech &amp; Prize Giving Day</summary>
 	
 <section>
     <p>At the durian feast held on 31st July 2019, our staff were spoiled for choices. With a variety of fruits to choose from, the King of fruits was definitely the favourite. Staff who tried the Mao Shan Wang (MSW) durian, known to be the premium type, commented on its rich, bitter and heavily rich flavour.
@@ -31,15 +61,16 @@ image: /images/0cd1870b_103f_4767_8dfd_9abfe6e11817.jpg
 </details>
 
 
-<details><summary>57th Speech &amp; Prize Giving Day</summary>
+<details class="jk-details"><summary>57th Speech &amp; Prize Giving Day</summary>
 
 
-	[![Highlights from 57th Speech &amp; Prize Giving Day](https://res.cloudinary.com/marcomontalbano/image/upload/v1717728764/video_to_markdown/images/youtube--_WaoEa4PJzU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=_WaoEa4PJzU "Highlights from 57th Speech &amp; Prize Giving Day")
+
+[![Highlights from 57th Speech &amp; Prize Giving Day](https://res.cloudinary.com/marcomontalbano/image/upload/v1717728764/video_to_markdown/images/youtube--_WaoEa4PJzU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=_WaoEa4PJzU "Highlights from 57th Speech &amp; Prize Giving Day")
 
 	
 </details>
 
-<details><summary>56th Speech &amp; Prize Giving Day</summary>
+<details class="jk-details"><summary>56th Speech &amp; Prize Giving Day</summary>
 	
 <a href="https://www.youtube.com/watch?v=aHeeaGQKlwQ"><img alt="Highlights from 56th Speech &amp; Prize Giving Day" src="/images/Our%20Story/Speech%20Day/56SpeechDay.jpg"></a>
 
@@ -74,41 +105,17 @@ p {
     overflow-wrap: break-word
 }
 
-#__next,
-#root {
-    isolation: isolate
-}
-	
-blockquote { position: relative; font-family: 'Helvetica Neue', 'Georgia', 'Garamond', 'Times New Roman', serif; font-size: 1.75rem; font-weight: 300; font-color: #4d91b3; line-height: 2em; padding-left: 0.5em; font-style: italic; }
 
-blockquote:before {
-    content: '|';
-    position: absolute;
-    left: -0.75em;
-    color: rgba(0,0,0, 0.15);
-    font-size: 2em;
-    z-index: -1;
-}
 
-blockquote:after {
-    content: '\201C';
-    position: absolute;
-    top: 0.25em;
-    left: -0.15em;
-    color: rgba(0,0,0, 0.15);
-    font-size: 4em;
-    font-weight: 800;
-    z-index: -1;
-}
 
-img {
+.jk-img {
     font-style: italic;
     vertical-align: middle;
     background-repeat: no-repeat;
     background-size: cover
 }
 
-details {
+.jk-details {
     max-width: 100ch;
     background-color: inherit;
     border-radius: 1rem;
@@ -116,7 +123,7 @@ details {
     box-shadow: 0 .05rem .05rem rgba(0, 0, 0, .05)
 }
 
-details summary {
+.jk-details summary {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -127,13 +134,13 @@ details summary {
     position: relative
 }
 
-details summary::-webkit-details-marker,
+.jk-details summary::-webkit-details-marker,
 details summary::marker {
     content: " ";
     display: none
 }
 
-details summary::after {
+.jk-details summary::after {
     content: "+";
     font-size: 1.5rem;
     font-weight: 500;
@@ -151,18 +158,21 @@ details summary::after {
     border-radius: 50%
 }
 
-details :not(summary) {
+.jk-details :not(summary) {
     animation-name: fade;
     animation-duration: .5s
 }
 
-details[open] summary {
+.jk-details[open] summary {
     margin-bottom: 1.5rem
 }
 
-details[open] summary::after {
+.jk-details[open] summary::after {
     content: "×"
 }
+	
+.list { columns: 300px;
+					margin-bottom: 10px; }
 
 @keyframes fade {
     0% {
