@@ -191,7 +191,7 @@ details[open] summary::after {
 }
 	
 .list { columns: 300px;
-					margin_bottom: 1rem; }
+					margin_bottom: 10px; }
 
 @keyframes fade {
     0% {
