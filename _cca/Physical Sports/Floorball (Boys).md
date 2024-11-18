@@ -15,7 +15,7 @@ The Floorball CCA aims to foster strong bonds among team members and a competiti
 
 | TRAINING INFORMATION                                                                   | TEACHERS IN-CHARGE                                                                        |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| MONDAY, 3:00PM TO 5:30PM<br>ISH Level 2<br>WEDNESDAY, 3:15PM TO 5:45PM<br>Hall / BLK G |Ms Wee Poh Lin (ext 148) &nbsp;OIC<br> Mr Tan Thiam Boon (ext 143)<br>Mdm Connie Yeo (ext 124) |
+| MONDAY, 3:00PM TO 5:30PM<br>ISH Level 2<br>WEDNESDAY, 3:00PM to 5:30PM<br>Hall / BLK G |Ms Wee Poh Lin (ext 148) &nbsp;OIC<br> Mr Tan Thiam Boon (ext 143)<br>Mdm Connie Yeo (ext 124) |
 
 
 
