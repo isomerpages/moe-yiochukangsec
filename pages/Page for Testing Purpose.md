@@ -25,7 +25,7 @@ image: /images/0cd1870b_103f_4767_8dfd_9abfe6e11817.jpg
 <hr>
 
 <details>
-	<summary> Concert Band Photos HTML source</summary>
+	<summary> Concert Band Photos in HTML</summary>
 <code>
 <img alt="Concert Band image 1" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_1.jpg">
 <img alt="Concert Band image 2" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_2.jpg">
@@ -104,10 +104,6 @@ p {
     overflow-wrap: break-word
 }
 
-#__next,
-#root {
-    isolation: isolate
-}
 	
 blockquote { position: relative; font-family: 'Helvetica Neue', 'Georgia', 'Garamond', 'Times New Roman', serif; font-size: 1.75rem; font-weight: 300; font-color: #4d91b3; line-height: 2em; padding-left: 0.5em; font-style: italic; }
 
