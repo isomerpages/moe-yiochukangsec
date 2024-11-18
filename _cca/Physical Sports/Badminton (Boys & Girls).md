@@ -19,7 +19,14 @@ Our players train together with a common set of beliefs as they strive
 to bring YCKSS Badminton to greater heights.</p>
 <hr>
 <h3>Training&nbsp;Schedule</h3>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -59,7 +66,7 @@ to bring YCKSS Badminton to greater heights.</p>
 <p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:15 pm – 5:45 pm</p>
+<p>3:00 pm – 5:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All girls</p>
@@ -75,7 +82,7 @@ to bring YCKSS Badminton to greater heights.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
-<p>3:15 pm – 5:45 pm</p>
+<p>3:00 pm – 5:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All girls</p>
@@ -91,7 +98,7 @@ to bring YCKSS Badminton to greater heights.</p>
 <p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:15 pm – 5:45 pm</p>
+<p>3:00 pm – 5:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All boys</p>
