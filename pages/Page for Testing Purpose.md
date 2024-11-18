@@ -45,7 +45,7 @@ image: /images/0cd1870b_103f_4767_8dfd_9abfe6e11817.jpg
 	
 
 
-	[![Highlights from 59th Speech &amp; Prize Giving Day](https://res.cloudinary.com/marcomontalbano/image/upload/v1717728267/video_to_markdown/images/youtube--vXqtR-VJkn4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=vXqtR-VJkn4 "Highlights from 59th Speech &amp; Prize Giving Day")
+[![Highlights from 59th Speech &amp; Prize Giving Day](https://res.cloudinary.com/marcomontalbano/image/upload/v1717728267/video_to_markdown/images/youtube--vXqtR-VJkn4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=vXqtR-VJkn4 "Highlights from 59th Speech &amp; Prize Giving Day")
 </details>
 
 <details><summary>58th Speech &amp; Prize Giving Day</summary>
@@ -64,7 +64,7 @@ image: /images/0cd1870b_103f_4767_8dfd_9abfe6e11817.jpg
 <details><summary>57th Speech &amp; Prize Giving Day</summary>
 
 
-	[![Highlights from 57th Speech &amp; Prize Giving Day](https://res.cloudinary.com/marcomontalbano/image/upload/v1717728764/video_to_markdown/images/youtube--_WaoEa4PJzU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=_WaoEa4PJzU "Highlights from 57th Speech &amp; Prize Giving Day")
+[![Highlights from 57th Speech &amp; Prize Giving Day](https://res.cloudinary.com/marcomontalbano/image/upload/v1717728764/video_to_markdown/images/youtube--_WaoEa4PJzU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=_WaoEa4PJzU "Highlights from 57th Speech &amp; Prize Giving Day")
 
 	
 </details>
