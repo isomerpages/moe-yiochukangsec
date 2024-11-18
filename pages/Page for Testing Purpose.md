@@ -34,8 +34,7 @@ image: /images/0cd1870b_103f_4767_8dfd_9abfe6e11817.jpg
 <img alt="Concert Band image 5" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_5.jpg">
 <img alt="Concert Band image 6" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_6.jpg">
 <img alt="Concert Band image 7" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_7.jpg">
-	</code>
-```
+</code>
 </details>
 
 <blockquote>"Not all things turn out well. Use this to test the battleground ..."</blockquote>
