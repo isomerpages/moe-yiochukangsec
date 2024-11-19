@@ -67,6 +67,16 @@ image: /images/0cd1870b_103f_4767_8dfd_9abfe6e11817.jpg
     </div>
 </details>
 
+<details class="details details--open">
+    <summary class="details__summary">Concert Band Photos</summary>
+    <div class="details__content">
+        <div class="list">
+            <img alt="Concert Band image 1" src="image1.jpg">
+            <img alt="Concert Band image 2" src="image2.jpg">
+        </div>
+    </div>
+</details>
+
 <hr>
 
 <style>
