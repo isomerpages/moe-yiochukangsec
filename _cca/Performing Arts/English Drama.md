@@ -25,7 +25,7 @@ will carry with the students even after graduation.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Teachers in-charge</strong>
+<p><strong>Teachers in-charge </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -45,7 +45,7 @@ will carry with the students even after graduation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jezreel Lau (OIC) (ext 135)</p>
+<p>Ms Jezreel Lau <em>(OIC)</em> (ext 135)</p>
 <p>Mdm Devi (ext 133)</p>
 <p>Ms Vidya (ext 135)</p>
 <p><strong>&nbsp;</strong>
@@ -58,7 +58,8 @@ will carry with the students even after graduation.</p>
 <p>3:00PM to 5:30PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dance studio 2/Heritage Gallery</p>
+<p>Dance Studio 2
+<br>Heritage Gallery</p>
 </td>
 </tr>
 </tbody>
