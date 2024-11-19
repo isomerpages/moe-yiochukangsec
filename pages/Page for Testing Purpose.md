@@ -70,6 +70,10 @@ image: /images/0cd1870b_103f_4767_8dfd_9abfe6e11817.jpg
 <hr>
 
 <style>
+html {
+  size-interpolation: allow-keywords;
+	}
+
 .table {
     width: 100%;
     border-collapse: collapse;
@@ -116,4 +120,3 @@ image: /images/0cd1870b_103f_4767_8dfd_9abfe6e11817.jpg
     margin-bottom: 10px;
 }
 </style>
-
