@@ -148,7 +148,8 @@ This year, our Indian Dance CCA had the exciting opportunity to perform at both 
 table {
     width: 100%;
     border-collapse: collapse;
-    font-family: 'Lato', Arial, sans-serif;
+    font-family: inherit; /* Inherit font family from the page */
+    font-size: inherit; /* Inherit font size from the page */
 }
 
 th {
@@ -156,10 +157,12 @@ th {
     padding: 10px;
     text-align: left;
     border-bottom: 2px solid #ddd;
+    font-size: 1rem; /* Optional: relative size for clarity */
 }
 
 th h5 {
     margin: 0;
+    font-size: 1.25rem; /* Optional: slightly larger for headers */
 }
 
 td {
@@ -167,14 +170,17 @@ td {
     border-bottom: 1px solid #ddd;
     max-width: 300px;
     word-wrap: break-word;
+    font-size: inherit; /* Inherit font size for content */
 }
-	
+
 details {
     max-width: 100ch;
     background-color: inherit;
     border-radius: 1rem;
-	  margin-bottom: 2.5rem;
-    box-shadow: 0 .05rem .05rem rgba(0, 0, 0, .05)
+    margin-bottom: 2.5rem;
+    box-shadow: 0 .05rem .05rem rgba(0, 0, 0, .05);
+    font-family: inherit; /* Inherit font family */
+    font-size: inherit; /* Inherit font size */
 }
 
 details summary {
@@ -182,21 +188,21 @@ details summary {
     align-items: center;
     justify-content: space-between;
     font-weight: 400;
-    font-size: 2.75rem;
-	  margin-bottom: 1.5rem;
+    font-size: 1.5rem; /* Slightly larger for better readability */
+    margin-bottom: 1.5rem;
     transition: margin-bottom .5s ease;
-    position: relative
+    position: relative;
 }
 
 details summary::-webkit-details-marker,
 details summary::marker {
     content: " ";
-    display: none
+    display: none;
 }
 
 details summary::after {
     content: "+";
-    font-size: 1.5rem;
+    font-size: 1.25rem; /* Match button size to summary */
     font-weight: 500;
     margin-right: .8rem;
     cursor: pointer;
@@ -209,50 +215,50 @@ details summary::after {
     position: absolute;
     top: .5rem;
     right: -1.5rem;
-    border-radius: 50%
+    border-radius: 50%;
 }
 
 details :not(summary) {
     animation-name: fade;
-    animation-duration: .5s
+    animation-duration: .5s;
+    font-size: inherit; /* Inherit font size for details content */
 }
 
 details[open] summary {
-    margin-bottom: 1.5rem
+    margin-bottom: 1.5rem;
 }
 
 details[open] summary::after {
-    content: "×"
+    content: "×";
 }
 
 @keyframes fade {
     0% {
-        opacity: 0
+        opacity: 0;
     }
 
     2.5% {
-        opacity: .02
+        opacity: .02;
     }
 
     5% {
-        opacity: .05
+        opacity: .05;
     }
 
     10% {
-        opacity: .1
+        opacity: .1;
     }
 
     25% {
-        opacity: .25
+        opacity: .25;
     }
 
     60% {
-        opacity: .6
+        opacity: .6;
     }
 
     100% {
-        opacity: 1
+        opacity: 1;
     }
 }
-	
 </style>
