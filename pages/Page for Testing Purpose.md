@@ -97,7 +97,13 @@ html {
     max-width: 300px;
     word-wrap: break-word;
 }
+	
+**
 
+details {
+  overflow: hidden; /* Prevents content overflow */
+}
+	
 .details {
     margin: 0;
 }
