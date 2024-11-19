@@ -120,71 +120,51 @@ p {
 
 
 
-.jk-img {
-    font-style: italic;
-    vertical-align: middle;
-    background-repeat: no-repeat;
-    background-size: cover
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
 }
 
-.jk-details {
-    max-width: 100ch;
-    background-color: inherit;
-    border-radius: 1rem;
-	  margin-bottom: 2.5rem;
-    box-shadow: 0 .05rem .05rem rgba(0, 0, 0, .05)
+.table__header {
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: left;
+    border-bottom: 2px solid #ddd;
 }
 
-.jk-details summary {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    font-weight: 400;
-    font-size: 2.75rem;
-	  margin-bottom: 1.5rem;
-    transition: margin-bottom .5s ease;
-    position: relative
+.table__header-title {
+    margin: 0;
 }
 
-.jk-details summary::-webkit-details-marker,
-details summary::marker {
-    content: " ";
-    display: none
+.table__cell {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    max-width: 300px;
+    word-wrap: break-word;
 }
 
-.jk-details summary::after {
-    content: "+";
-    font-size: 1.5rem;
-    font-weight: 500;
-    margin-right: .8rem;
-    cursor: pointer;
-    background-color: rgba(255, 195, 5, .25);
-    padding: .75rem;
-    display: grid;
-    place-content: center;
-    aspect-ratio: 1;
-    line-height: 0;
-    position: absolute;
-    top: .5rem;
-    right: -1.5rem;
-    border-radius: 50%
+.details {
+    margin: 0;
 }
 
-.jk-details :not(summary) {
-    animation-name: fade;
-    animation-duration: .5s
+.details__content {
+    padding-block: 0.5rem;
 }
 
-.jk-details[open] summary {
-    margin-bottom: 1.5rem
+.details__summary {
+    list-style-position: outside;
 }
 
-.jk-details[open] summary::after {
-    content: "×"
+.details__summary-marker {
+    font-size: 0.8em;
+    color: #555;
 }
-	
-.list { columns: 300px;
-					margin-bottom: 10px; }
+
+.list {
+    columns: 300px;
+    margin-bottom: 10px;
+}
 
 @keyframes fade {
     0% {
