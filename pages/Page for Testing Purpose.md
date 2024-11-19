@@ -73,7 +73,6 @@ image: /images/0cd1870b_103f_4767_8dfd_9abfe6e11817.jpg
 html {
   size-interpolation: allow-keywords;
 	}
-
 .table {
     width: 100%;
     border-collapse: collapse;
@@ -97,19 +96,10 @@ html {
     max-width: 300px;
     word-wrap: break-word;
 }
-	
-**
 
-details {
-  overflow: hidden; /* Prevents content overflow */
-}
-	
 .details {
     margin: 0;
-}
-
-.details__content {
-    padding-block: 0.5rem;
+    transition-behavior: allow-discrete; /* Allow discrete animations */
 }
 
 .details__summary {
@@ -119,6 +109,16 @@ details {
 .details__summary-marker {
     font-size: 0.8em;
     color: #555;
+}
+
+.details__content {
+    block-size: 0; /* Logical height */
+    transition: block-size 1s, content-visibility 1s; /* Smooth animations for content */
+    padding-block: 0.5rem;
+}
+
+.details--open .details__content {
+    block-size: auto; /* Automatically expand content */
 }
 
 .list {
