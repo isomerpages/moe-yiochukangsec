@@ -23,7 +23,8 @@ This year, our Indian Dance CCA had the exciting opportunity to perform at both 
 | ------------------------------------- |
 | Mdm Suganthi Kesavan (Bharathaa Arts) |
 
-<br><hr>
+<br>
+<hr>
 <details>
 	<summary><h3>Our Achievements</h3></summary>
 <table>
