@@ -7,119 +7,69 @@ image: /images/0cd1870b_103f_4767_8dfd_9abfe6e11817.jpg
 ---
 # Test Page
 
-
-![](https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_1.jpg)
-
-
-
-![](https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_2.jpg)
-
-![](https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_3.jpg)
-
-![](https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_4.jpg)
-
-![](https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_5.jpg)
-
-![](https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_6.jpg)
-
-![](https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_7.jpg)
-
-![](https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_2025_1.jpg)
-
-![](https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_9.jpg)
-
-![](https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_0.jpg)
-
-![](https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_2.jpg)
-
-![](https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_5.jpg)
-
+  <div class="list">
+    <img alt="Concert Band image 1" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_1.jpg">
+    <img alt="Concert Band image 2" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_2.jpg">
+    <img alt="Concert Band image 3" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_3.jpg">
+    <img alt="Concert Band image 4" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_4.jpg">
+    <img alt="Concert Band image 5" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_5.jpg">
+    <img alt="Concert Band image 6" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_6.jpg">
+    <img alt="Concert Band image 7" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_7.jpg">
+    <img alt="Indian Dance image 1" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_2025_1.jpg">
+    <img alt="Indian Dance image 2" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_9.jpg">
+    <img alt="Indian Dance image 3" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_0.jpg">
+    <img alt="Indian Dance image 4" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_2.jpg">
+    <img alt="Indian Dance image 5" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_5.jpg">
+</div>
 <hr>
-
-<details class="jk-details">
-	<summary> Concert Band Photos in HTML</summary>
-<div class="list">
-<img alt="Concert Band image 1" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_1.jpg">
-<img alt="Concert Band image 2" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_2.jpg">
-<img alt="Concert Band image 3" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_3.jpg">
-<img alt="Concert Band image 4" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_4.jpg">
-<img alt="Concert Band image 5" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_5.jpg">
-<img alt="Concert Band image 6" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_6.jpg">
-<img alt="Concert Band image 7" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_7.jpg">
-	</div>
-</details>
+ 
 
 <blockquote>"Not all things turn out well. Use this to test the battleground ..."</blockquote>
 
-<details class="jk-details"><summary>59th Speech &amp; Prize Giving Day</summary>
-
-[![59th Speech &amp; Prize Giving Day - Full Performance 26 May 2024](https://res.cloudinary.com/marcomontalbano/image/upload/v1717727983/video_to_markdown/images/youtube--iivxaYHg7HY-c05b58ac6eb4c4700831b2b3070cd403.jpg)]( https://www.youtube.com/watch?v=iivxaYHg7HY "59th Speech &amp; Prize Giving Day - Full Performance 26 May 2024")
-	
-	
-[![Highlights from 59th Speech &amp; Prize Giving Day](https://res.cloudinary.com/marcomontalbano/image/upload/v1717728267/video_to_markdown/images/youtube--vXqtR-VJkn4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=vXqtR-VJkn4 "Highlights from 59th Speech &amp; Prize Giving Day")
-	
+<details class="details">
+    <summary class="details__summary">59th Speech &amp; Prize Giving Day</summary>
+    <div class="details__content">
+        <a href="https://www.youtube.com/watch?v=iivxaYHg7HY">
+            <img alt="59th Speech &amp; Prize Giving Day - Full Performance 26 May 2024" src="https://res.cloudinary.com/marcomontalbano/image/upload/v1717727983/video_to_markdown/images/youtube--iivxaYHg7HY-c05b58ac6eb4c4700831b2b3070cd403.jpg">
+        </a>
+        <a href="https://www.youtube.com/watch?v=vXqtR-VJkn4">
+            <img alt="Highlights from 59th Speech &amp; Prize Giving Day" src="https://res.cloudinary.com/marcomontalbano/image/upload/v1717728267/video_to_markdown/images/youtube--vXqtR-VJkn4-c05b58ac6eb4c4700831b2b3070cd403.jpg">
+        </a>
+    </div>
 </details>
 
-<details class="jk-details"><summary>58th Speech &amp; Prize Giving Day</summary>
-	
-<section>
-    <p>At the durian feast held on 31st July 2019, our staff were spoiled for choices. With a variety of fruits to choose from, the King of fruits was definitely the favourite. Staff who tried the Mao Shan Wang (MSW) durian, known to be the premium type, commented on its rich, bitter and heavily rich flavour.
-     </p><p>It was indeed a great way to end the day and we had an enjoyable bonding session over the feasting.</p>
-<p><img alt="Many happy and contented faces after a fruitful feast" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S17.png"></p>
-<p><img alt="Many happy and contented faces after a fruitful feast" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S18.png"></p>
-<p><img alt="Many happy and contented faces after a fruitful feast" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S19.png"></p>
-</section>
-
+<details class="details">
+    <summary class="details__summary">58th Speech &amp; Prize Giving Day</summary>
+    <div class="details__content">
+        <p>At the durian feast held on 31st July 2019, our staff were spoiled for choices. With a variety of fruits to choose from, the King of fruits was definitely the favourite. Staff who tried the Mao Shan Wang (MSW) durian, known to be the premium type, commented on its rich, bitter and heavily rich flavour.</p>
+        <p>It was indeed a great way to end the day and we had an enjoyable bonding session over the feasting.</p>
+        <img alt="Many happy and contented faces after a fruitful feast" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S17.png">
+        <img alt="Many happy and contented faces after a fruitful feast" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S18.png">
+        <img alt="Many happy and contented faces after a fruitful feast" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S19.png">
+    </div>
 </details>
 
-
-<details class="jk-details"><summary>57th Speech &amp; Prize Giving Day</summary>
-
-
-
-[![Highlights from 57th Speech &amp; Prize Giving Day](https://res.cloudinary.com/marcomontalbano/image/upload/v1717728764/video_to_markdown/images/youtube--_WaoEa4PJzU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=_WaoEa4PJzU "Highlights from 57th Speech &amp; Prize Giving Day")
-
-	
+<details class="details">
+    <summary class="details__summary">57th Speech &amp; Prize Giving Day</summary>
+    <div class="details__content">
+        <a href="https://www.youtube.com/watch?v=_WaoEa4PJzU">
+            <img alt="Highlights from 57th Speech &amp; Prize Giving Day" src="https://res.cloudinary.com/marcomontalbano/image/upload/v1717728764/video_to_markdown/images/youtube--_WaoEa4PJzU-c05b58ac6eb4c4700831b2b3070cd403.jpg">
+        </a>
+    </div>
 </details>
 
-<details class="jk-details"><summary>56th Speech &amp; Prize Giving Day</summary>
-	
-<a href="https://www.youtube.com/watch?v=aHeeaGQKlwQ"><img alt="Highlights from 56th Speech &amp; Prize Giving Day" src="/images/Our%20Story/Speech%20Day/56SpeechDay.jpg"></a>
-
+<details class="details">
+    <summary class="details__summary">56th Speech &amp; Prize Giving Day</summary>
+    <div class="details__content">
+        <a href="https://www.youtube.com/watch?v=aHeeaGQKlwQ">
+            <img alt="Highlights from 56th Speech &amp; Prize Giving Day" src="/images/Our%20Story/Speech%20Day/56SpeechDay.jpg">
+        </a>
+    </div>
 </details>
-	
+
+<hr>
+
 <style>
-@charset "UTF-8";
-
-canvas,
-img,
-picture,
-svg,
-video {
-    display: block;
-    max-width: 100%
-}
-
-button,
-input,
-select,
-textarea {
-    font: inherit
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p {
-    overflow-wrap: break-word
-}
-
-
-
-
 .table {
     width: 100%;
     border-collapse: collapse;
@@ -165,34 +115,5 @@ p {
     columns: 300px;
     margin-bottom: 10px;
 }
-
-@keyframes fade {
-    0% {
-        opacity: 0
-    }
-
-    2.5% {
-        opacity: .02
-    }
-
-    5% {
-        opacity: .05
-    }
-
-    10% {
-        opacity: .1
-    }
-
-    25% {
-        opacity: .25
-    }
-
-    60% {
-        opacity: .6
-    }
-
-    100% {
-        opacity: 1
-    }
-}
 </style>
+
