@@ -9,16 +9,14 @@ variant: markdown
 
 The Indian Dance CCA aims to help develop and nurture the pupils holistically. Apart from exposure to Indian culture and different styles of Indian dance, the CCA also provides opportunities to the pupils to acquire self-confidence, determination, resilience, a sense of responsibility and the ability to work with others. With these qualities and disposition which align with the school values, we hope to equip them to succeed for life.
 
-This year the Indian Dance students had the opportunity to perform during the National Day Parade 2023. It had been nothing short of an enriching experience for our students. Not only did they get the chance to interact with their peers from other schools, but they also formed remarkably closer bonds with their fellow performing arts students within our own school. It was a journey that required countless hours of dedication and effort, and the results were nothing short of spectacular. The camaraderie and synergy that emerged from this collaboration were truly remarkable, leaving our students with not only a memorable performance but also a stronger sense of unity and creativity.
-
-We have the privilege of engaging in sports activities, Values In Action (VIA) while also exchanging our thoughts and experiences during our Characterand Citizenship Education (CCE) lessons in our Co-Curricular Activity (CCA).
+This year, our Indian Dance CCA had the exciting opportunity to perform at both Dance Extravaganza and Senses 2024, where we took our art out into the public and shared it with a broader audience. The experience was made even more special as we collaborated on choreography and costume ideas, allowing each of us to bring our unique perspectives and creativity to the performances. These events highlighted our teamwork and commitment, and we are proud to have represented our school with passion and dedication.
 
 ### Training Schedule
 ---
 
 | Training Information                 | Teachers-in-charge                         |
 | ------------------------------------ | ------------------------------------------ |
-| Every WEDNESDAY<br>3:00PM to 5:30PM | Mdm Siva (ext 136)<br>Mrs Ilango (ext 175) |
+| Every WEDNESDAY<br>3:00PM to 5:30PM | Mdm Siva (ext 136)<br>Mrs Ilango (ext 175)<br>Mdm Rathidevi (ext 170) |
 
 
 | Dance Instructor                      |
