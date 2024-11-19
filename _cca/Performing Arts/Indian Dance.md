@@ -12,7 +12,7 @@ The Indian Dance CCA aims to help develop and nurture the pupils holistically. A
 This year, our Indian Dance CCA had the exciting opportunity to perform at both Dance Extravaganza and Senses 2024, where we took our art out into the public and shared it with a broader audience. The experience was made even more special as we collaborated on choreography and costume ideas, allowing each of us to bring our unique perspectives and creativity to the performances. These events highlighted our teamwork and commitment, and we are proud to have represented our school with passion and dedication.
 
 ### Training Schedule
----
+
 
 | Training Information                 | Teachers-in-charge                         |
 | ------------------------------------ | ------------------------------------------ |
