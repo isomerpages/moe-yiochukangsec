@@ -23,52 +23,102 @@ This year, our Indian Dance CCA had the exciting opportunity to perform at both 
 | ------------------------------------- |
 | Mdm Suganthi Kesavan (Bharathaa Arts) |
 
-
-### Our Achievements
----
-#### 2023
-- Deepavali Celebrations at Singapore Police Force's Police Intelligence Department
-- National Day Parade Performance
-
-#### 2022
-- Deepavali Celebrations at Ang Mo Kio Police Divisional HQ
-
-#### 2021
-- SYF Arts Presentation - Certificate of Distinction
-
-#### 2019
-- SYF Arts Presentation - Certificate of Distinction
-
-#### 2018
-- SYF Festival at Esplanade / National Day Observance Ceremony
-- YCK community Celebration
-
-#### 2017
-- National Day Parade Performance
-
-#### 2016
-- Chingay Parade
-
-#### 2015
-- SG 50 Youth Celebration
-
-#### 2013
-- SYF Arts Presentation - Certificate of Distinction
-
-#### 2012
-- Arts Festival
-
-#### 2011
-- SYF Central Judging - Gold Award for SYF
-
-#### 2009
-- SYF Central Judging - Gold with Honours for SYF
-
-#### 2008
-- Arts Biennale at Victoria Theatre (School event)
-
-#### 2007/2005
-- SYF Central Judging - Gold with Honours for SYF
+<details>
+	<summary>Our Achievements</summary>
+<table>
+  <tbody><tr>
+    <th><h5>2023</h5></th>
+  </tr>
+  <tr>
+    <td>Deepavali Celebrations at Singapore Police Force's Police Intelligence Department</td>
+  </tr>
+  <tr>
+    <td>National Day Parade Performance</td>
+  </tr>
+  <tr>
+    <th><h5>2022</h5></th>
+  </tr>
+  <tr>
+    <td>Deepavali Celebrations at Ang Mo Kio Police Divisional HQ</td>
+  </tr>
+  <tr>
+    <th><h5>2021</h5></th>
+  </tr>
+  <tr>
+    <td>SYF Arts Presentation - Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <th><h5>2019</h5></th>
+  </tr>
+  <tr>
+    <td>SYF Arts Presentation - Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <th><h5>2018</h5></th>
+  </tr>
+  <tr>
+    <td>SYF Festival at Esplanade / National Day Observance Ceremony</td>
+  </tr>
+  <tr>
+    <td>YCK Community Celebration</td>
+  </tr>
+  <tr>
+    <th><h5>2017</h5></th>
+  </tr>
+  <tr>
+    <td>National Day Parade Performance</td>
+  </tr>
+  <tr>
+    <th><h5>2016</h5></th>
+  </tr>
+  <tr>
+    <td>Chingay Parade</td>
+  </tr>
+  <tr>
+    <th><h5>2015</h5></th>
+  </tr>
+  <tr>
+    <td>SG 50 Youth Celebration</td>
+  </tr>
+  <tr>
+    <th><h5>2013</h5></th>
+  </tr>
+  <tr>
+    <td>SYF Arts Presentation - Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <th><h5>2012</h5></th>
+  </tr>
+  <tr>
+    <td>Arts Festival</td>
+  </tr>
+  <tr>
+    <th><h5>2011</h5></th>
+  </tr>
+  <tr>
+    <td>SYF Central Judging - Gold Award for SYF</td>
+  </tr>
+  <tr>
+    <th><h5>2009</h5></th>
+  </tr>
+  <tr>
+    <td>SYF Central Judging - Gold with Honours for SYF</td>
+  </tr>
+  <tr>
+    <th><h5>2008</h5></th>
+  </tr>
+  <tr>
+    <td>Arts Biennale at Victoria Theatre (School event)</td>
+  </tr>
+  <tr>
+    <th><h5>2007/2005</h5></th>
+  </tr>
+  <tr>
+    <td>SYF Central Judging - Gold with Honours for SYF</td>
+  </tr>
+</tbody></table>
+	
+</details>
 
 ### Gallery
 ---
@@ -95,7 +145,30 @@ This year, our Indian Dance CCA had the exciting opportunity to perform at both 
 <hr>
 
 <style>
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: 'Lato', Arial, sans-serif;
+}
 
+th {
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: left;
+    border-bottom: 2px solid #ddd;
+}
+
+th h5 {
+    margin: 0;
+}
+
+td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    max-width: 300px;
+    word-wrap: break-word;
+}
+	
 details {
     max-width: 100ch;
     background-color: inherit;
