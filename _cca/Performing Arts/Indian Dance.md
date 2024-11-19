@@ -23,8 +23,9 @@ This year, our Indian Dance CCA had the exciting opportunity to perform at both 
 | ------------------------------------- |
 | Mdm Suganthi Kesavan (Bharathaa Arts) |
 
+<br><hr>
 <details>
-	<summary>Our Achievements</summary>
+	<summary><h3>Our Achievements</h3></summary>
 <table>
   <tbody><tr>
     <th><h5>2023</h5></th>
@@ -122,26 +123,37 @@ This year, our Indian Dance CCA had the exciting opportunity to perform at both 
 
 ### Gallery
 ---
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_0.jpg)
 
-![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_1.PNG)
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_2025_1.jpg)
 
-![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_2.PNG)
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_2.jpg)
 
-![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_3.PNG)
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_5.jpg)
 
-![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I4.png)
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_9.jpg)
 
-![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I5.png)
+<img alt="Indian Dance 1" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_1.PNG">
 
-![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I6.png)
+<img alt="Indian Dance 2" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_2.PNG">
 
-![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I7.png)
+<img alt="Indian Dance 3" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_3.PNG">
 
-![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I8.png)
+<details>
+	<summary><h4>Past Gallery</h4></summary>
+<img alt="Indian Dance 4" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I4.png">
 
-![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I9.png)
+<img alt="Indian Dance 5" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I5.png">
 
+<img alt="Indian Dance 6" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I6.png">
 
+<img alt="Indian Dance 7" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I7.png">
+
+<img alt="Indian Dance 8" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I8.png">
+
+<img alt="Indian Dance 9" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I9.png">
+
+</details>
 <hr>
 
 <style>
@@ -206,7 +218,7 @@ details summary::after {
     font-weight: 500;
     margin-right: .8rem;
     cursor: pointer;
-    background-color: rgba(255, 195, 5, .25);
+    background-color: inherit; /*rgba(255, 195, 5, .25);*/
     padding: .75rem;
     display: grid;
     place-content: center;
