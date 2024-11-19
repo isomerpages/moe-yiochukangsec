@@ -156,9 +156,9 @@ SYF Opening Ceremony</div>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary>Previous moments ...</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Previous moments ...</h4>
+<h4></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width:100%;height:50%" height="auto" width="100%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/English%20Drama/E3.png">
