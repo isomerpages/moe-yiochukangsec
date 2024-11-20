@@ -130,6 +130,13 @@ Exchange Concerts with Sembawang Wind Orchestra
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
+<div class="image-gallery">
+<img alt="Concert Band 2025 Image 7" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_7.jpg">
+<img alt="Concert Band 2025 Image 6" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_6.jpg">
+<img alt="Concert Band 2025 Image 5" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_5.jpg">
+	</div>
+	
+
 <details>
 	<summary><h4>Previous Moments ...</h4></summary>
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/C4.png">
