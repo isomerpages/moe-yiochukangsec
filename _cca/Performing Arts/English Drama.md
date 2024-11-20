@@ -35,8 +35,6 @@ will carry with the students even after graduation.</p>
 <td rowspan="1" colspan="1">
 <p><strong>TIME</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>VENUE</strong>
@@ -45,7 +43,7 @@ will carry with the students even after graduation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jezreel Lau (OIC) (ext 135)</p>
+<p>Ms Jezreel Lau <em>(OIC)</em> (ext 135)</p>
 <p>Mdm Devi (ext 133)</p>
 <p>Ms Vidya (ext 135)</p>
 <p><strong>&nbsp;</strong>
@@ -58,7 +56,8 @@ will carry with the students even after graduation.</p>
 <p>3:00PM to 5:30PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dance studio 2/Heritage Gallery</p>
+<p>Dance Studio 2
+<br>Heritage Gallery</p>
 </td>
 </tr>
 </tbody>
@@ -142,18 +141,42 @@ SYF Opening Ceremony</div>
 <br>National Day Celebrations</p>
 <hr>
 <h4>Gallery</h4>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gSzsy84HO2k"></iframe>
-</div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%;height:50%" height="auto" width="100%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/English%20Drama/E2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Non Academic Programmes/CoCurricular Activities/Performing Arts/English Drama/EL_Drama_Speech_Day_2024_3.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Non Academic Programmes/CoCurricular Activities/Performing Arts/English Drama/EL_Drama_Speech_Day_2024_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Non Academic Programmes/CoCurricular Activities/Performing Arts/English Drama/EL_Drama_Speech_Day_2024_1.jpg">
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Previous moments ...</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4></h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:100%;height:50%" height="auto" width="100%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/English%20Drama/E3.png">
 </div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gSzsy84HO2k"></iframe>
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:100%;height:50%" height="auto" width="100%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/English%20Drama/E2.png">
+</div>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
 <p></p>
 <p>&nbsp;&nbsp;</p>
 <p></p>
