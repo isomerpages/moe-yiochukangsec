@@ -22,56 +22,32 @@ The Concert Band aims to develop a dedicated group of musicians who strive to ac
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p>   
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig">TRAINING INFORMATION</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">EVERY TUESDAY</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">3:00PM to 5:30PM</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">EVERY THURSDAY</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">3:00PM to 5:30PM</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">VENUE</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Band room &amp; some classrooms (Level 2)</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">TEACHERS IN-CHARGE</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Mr Michael Cartwright (ext 128)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Ms Lim Li May (ext 171)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Ms Nur Rafizah Bte Safiee (ext 286)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Ms Fong Ya Yi (Adele) (ext 122)</td>
-  </tr>
-</tbody>
+
+<table>
+  <thead>
+    <tr>
+      <th>Training Schedule</th>
+      <th>Teachers-in-charge</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p>EVERY TUESDAY</p>
+        <p>3:00PM to 5:30PM</p>
+        <p>EVERY THURSDAY</p>
+        <p>3:00PM to 5:30PM</p>
+        <p>VENUE</p>
+        <p>Band room &amp; some classrooms (Level 2)</p>
+      </td>
+      <td>
+        <p>Mr Michael Cartwright (ext 128)</p>
+        <p>Ms Lim Li May (ext 171)</p>
+        <p>Ms Nur Rafizah Bte Safiee (ext 286)</p>
+        <p>Ms Fong Ya Yi (Adele) (ext 122)</p>
+      </td>
+    </tr>
+  </tbody>
 </table></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
@@ -168,3 +144,138 @@ Exchange Concerts with Sembawang Wind Orchestra
 
 	
 </ul>
+
+<style>
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: inherit; /* Inherit font family from the page */
+    font-size: inherit; /* Inherit font size from the page */
+}
+
+th {
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: left;
+    border-bottom: 2px solid #ddd;
+    font-size: 1rem; /* Optional: relative size for clarity */
+}
+
+th h5 {
+    margin: 0;
+    font-size: 1.25rem; /* Optional: slightly larger for headers */
+}
+
+td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    max-width: 300px;
+    word-wrap: break-word;
+    font-size: inherit; /* Inherit font size for content */
+}
+
+details {
+    max-width: 100ch;
+    background-color: inherit;
+    border-radius: 1rem;
+    margin-bottom: 2.5rem;
+    box-shadow: 0 .05rem .05rem rgba(0, 0, 0, .05);
+    font-family: inherit; /* Inherit font family */
+    font-size: inherit; /* Inherit font size */
+}
+
+details summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: 400;
+    font-size: 1.5rem; /* Slightly larger for better readability */
+    margin-bottom: 1.5rem;
+    transition: margin-bottom .5s ease;
+    position: relative;
+}
+
+details summary::-webkit-details-marker,
+details summary::marker {
+    content: " ";
+    display: none;
+}
+
+details summary::after {
+    content: "+";
+    font-size: 1.25rem; /* Match button size to summary */
+    font-weight: 500;
+    margin-right: .8rem;
+    cursor: pointer;
+    background-color: inherit; /*rgba(255, 195, 5, .25);*/
+    padding: .75rem;
+    display: grid;
+    place-content: center;
+    aspect-ratio: 1;
+    line-height: 0;
+    position: absolute;
+    top: .5rem;
+    right: -1.5rem;
+    border-radius: 50%;
+}
+
+details :not(summary) {
+    animation-name: fade;
+    animation-duration: .5s;
+    font-size: inherit; /* Inherit font size for details content */
+}
+
+details[open] summary {
+    margin-bottom: 1.5rem;
+}
+
+details[open] summary::after {
+    content: "×";
+}
+
+@keyframes fade {
+    0% {
+        opacity: 0;
+    }
+
+    2.5% {
+        opacity: .02;
+    }
+
+    5% {
+        opacity: .05;
+    }
+
+    10% {
+        opacity: .1;
+    }
+
+    25% {
+        opacity: .25;
+    }
+
+    60% {
+        opacity: .6;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+	
+.image-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Flexible columns with a minimum of 200px */
+    gap: 10px; /* Space between grid items */
+    justify-items: center; /* Center the images within their grid cells */
+}
+
+.image-gallery img {
+    width: 100%; /* Ensure the images take up the full width of their grid cell */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 5px; /* Optional: Add rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add subtle shadow */
+    object-fit: cover; /* Ensures images fit nicely */
+}
+	
+</style>
