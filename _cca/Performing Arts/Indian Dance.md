@@ -276,19 +276,18 @@ details[open] summary::after {
 }
 	
 .image-gallery {
-    display: flex;
-    flex-wrap: wrap; /* Allow images to wrap to the next row */
-    gap: 10px; /* Add spacing between images */
-    justify-content: flex-start; /* Align images to the left */
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Flexible columns with a minimum of 200px */
+    gap: 10px; /* Space between grid items */
+    justify-items: center; /* Center the images within their grid cells */
 }
 
 .image-gallery img {
-    flex: 1 1 calc(33.33% - 10px); /* Each image takes up 1/3 of the row minus the gap */
-    max-width: 100%; /* Ensure images don’t exceed their container */
-    height: auto; /* Maintain image aspect ratio */
-    object-fit: cover; /* Crop images if needed to fit the container */
-    border-radius: 5px; /* Optional: add rounded corners */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: add a subtle shadow */
+    width: 100%; /* Ensure the images take up the full width of their grid cell */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 5px; /* Optional: Add rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add subtle shadow */
+    object-fit: cover; /* Ensures images fit nicely */
 }
 	
 </style>
