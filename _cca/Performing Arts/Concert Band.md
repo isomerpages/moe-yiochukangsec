@@ -130,7 +130,8 @@ Exchange Concerts with Sembawang Wind Orchestra
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<details>   
+<details>
+	<summary><h4>Previous Moments ...</h4></summary>
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/C4.png">
 			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/C5.png">
 			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/C6.png">
