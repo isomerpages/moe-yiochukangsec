@@ -139,7 +139,7 @@ img {
 }
 
 .yck-flexbox-grid {
-  --min: 30ch;
+  --min: 25ch;
   --gap: 1.5em;
 
   display: flex;
