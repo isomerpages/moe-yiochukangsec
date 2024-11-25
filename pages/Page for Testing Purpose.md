@@ -91,7 +91,7 @@ image: /images/0cd1870b_103f_4767_8dfd_9abfe6e11817.jpg
     </div>
 </details>
 
-<details class="yck-details .yck-details__content[open]">
+<details class="yck-details">
     <summary class="yck-details__summary">Concert Band Photos</summary>
     <div class="yck-details__content">
         <div class="yck-list">
