@@ -91,7 +91,7 @@ image: /images/0cd1870b_103f_4767_8dfd_9abfe6e11817.jpg
     </div>
 </details>
 
-<details class="yck-details yck-details--open">
+<details class="yck-details yck-details__content--open">
     <summary class="yck-details__summary">Concert Band Photos</summary>
     <div class="yck-details__content">
         <div class="yck-list">
@@ -155,7 +155,7 @@ img {
     word-wrap: break-word;
 }
 
-.yck-question-and-answers details {
+.yck-details {
   border: 1px dashed #eee;
   border-radius: 4px;
   margin-bottom: 1rem;
@@ -164,12 +164,12 @@ img {
   transition: border-color 0.7s;
 }
 
-.yck-question-and-answers details:hover {
+.yck-details:hover {
   border-color: #555;
 }
 
 /* Style the summary */
-.yck-summary {
+.yck-details__summary {
   cursor: pointer;
   font-weight: 700;
   font-size: clamp(1.5rem, 4vw, 2.25rem);
@@ -177,13 +177,13 @@ img {
   padding: 1rem clamp(1rem, 5%, 2rem);
 }
 
-.yck-summary::marker {
+.yck-details__summary::marker {
   font-size: 1.25em;
   color: #555;
 }
 
 /* Handle the expandable/collapsible area */
-.yck-details-content {
+.yck-details::.yck-details__content {
   block-size: 0; /* Logical height equivalent to height */
   overflow: hidden; /* Prevent content overflow */
   transition: block-size 0.5s ease, content-visibility 0.5s ease-in-out;
@@ -192,14 +192,14 @@ img {
   transition: block-size 0.5s ease, content-visibility 0.5s ease-in-out, opacity 0.5s ease;
 }
 
-.yck-details-content[open] {
+.yck-details__content[open]::.yck-details {
   block-size: auto;
   content-visibility: visible;
   opacity: 1;
 }
 
 /* Style the paragraph inside */
-.yck-details-content p {
+.yck-details__content p {
   margin: 0;
   padding: 0.5rem clamp(0.5rem, 5%, 2rem);
   color: #555;
