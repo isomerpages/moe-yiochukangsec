@@ -122,61 +122,61 @@ variant: markdown
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Events/Competitions</label>
     <div>
-      <table>
-        <thead>
-          <tr>
-            <th>Internal Programmes</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>Sec 3 Leadership Training Course</td>
-          </tr>
-          <tr>
-            <td>Speech Day &amp; National Day Parades</td>
-          </tr>
-          <tr>
-            <td>First Aid Coverage for school events like Sports Carnival, Health Fiesta, etc</td>
-          </tr>
-          <tr>
-            <td>Annual Home Visit</td>
-          </tr>
-          <tr>
-            <td>Fund raising for Singapore Red Cross</td>
-          </tr>
-          <tr>
-            <td>Unit Camp</td>
-          </tr>
-        </tbody>
-      </table>
-      <br>
-      <table>
-        <thead>
-          <tr>
-            <th>HQ Programmes</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>Gold Modular Workshops (First Aid/ Red Cross Knowledge/ Youth Ambassador Blood Programme/ Disaster Management)</td>
-          </tr>
-          <tr>
-            <td>World Red Cross Day</td>
-          </tr>
-          <tr>
-            <td>Central District Orientation</td>
-          </tr>
-          <tr>
-            <td>Red Cross Flag Day</td>
-          </tr>
-          <tr>
-            <td>Warrant Officers Programme</td>
-          </tr>
-          <tr>
-            <td>Central District Leadership Workshop</td>
-          </tr>
-        </tbody>
-      </table>
+      <table class="yck-table">
+  <thead>
+    <tr>
+      <th class="yck-th">Internal Programmes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="yck-td">Sec 3 Leadership Training Course</td>
+    </tr>
+    <tr>
+      <td class="yck-td">Speech Day &amp; National Day Parades</td>
+    </tr>
+    <tr>
+      <td class="yck-td">First Aid Coverage for school events like Sports Carnival, Health Fiesta, etc</td>
+    </tr>
+    <tr>
+      <td class="yck-td">Annual Home Visit</td>
+    </tr>
+    <tr>
+      <td class="yck-td">Fund raising for Singapore Red Cross</td>
+    </tr>
+    <tr>
+      <td class="yck-td">Unit Camp</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<table class="yck-table">
+  <thead>
+    <tr>
+      <th class="yck-th">HQ Programmes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="yck-td">Gold Modular Workshops (First Aid/ Red Cross Knowledge/ Youth Ambassador Blood Programme/ Disaster Management)</td>
+    </tr>
+    <tr>
+      <td class="yck-td">World Red Cross Day</td>
+    </tr>
+    <tr>
+      <td class="yck-td">Central District Orientation</td>
+    </tr>
+    <tr>
+      <td class="yck-td">Red Cross Flag Day</td>
+    </tr>
+    <tr>
+      <td class="yck-td">Warrant Officers Programme</td>
+    </tr>
+    <tr>
+      <td class="yck-td">Central District Leadership Workshop</td>
+    </tr>
+  </tbody>
+</table>
     </div>
   </li>
   <li>
