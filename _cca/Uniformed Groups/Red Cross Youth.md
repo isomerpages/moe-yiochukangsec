@@ -11,25 +11,12 @@ The primary goal of YCKSS’s Red Cross Youth Unit is to instill core values of 
 In YCKSS-RCY, we believe in developing caring and responsible individuals, who serve with humility, integrity and excellence.
 
 
-<ul class="jekyllcodex_accordion">
 
-&nbsp;&nbsp;<li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
+<hr>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Training&nbsp;Schedule</label>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<p> <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <table class="yck-table">
   <thead>
     <tr>
@@ -67,11 +54,12 @@ In YCKSS-RCY, we believe in developing caring and responsible individuals, who s
       </td>
     </tr>
   </tbody>
-</table>			</p>
+</table>			<p></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-</li>
+
+<ul class="jekyllcodex_accordion">
 	<li>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
