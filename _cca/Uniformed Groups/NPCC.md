@@ -21,12 +21,47 @@ In NPCC, the cadets get a chance to learn more about the Singapore Police Force 
 
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Training&nbsp;Schedule</label>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-<table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;"> <thead> <tr> <th style="background-color: #f2f2f2; padding: 10px; text-align: left; border-bottom: 2px solid #ddd;"> <h5 style="margin: 0;">TRAINING INFORMATION</h5> </th> <th style="background-color: #f2f2f2; padding: 10px; text-align: left; border-bottom: 2px solid #ddd;"> <h5 style="margin: 0;">TEACHERS-IN-CHARGE</h5> </th> </tr> </thead> <tbody> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 300px; word-wrap: break-word;">Every Tuesday 3:00PM to 5:30PM</td> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 300px; word-wrap: break-word;">Ms Goh Yu Fan (ext 174) OIC</td> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 300px; word-wrap: break-word;">NPCC Room &amp; Blk D L1 Classroom</td> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 300px; word-wrap: break-word;">Mr Wong Mingwei (ext 141)</td> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 300px; word-wrap: break-word;">Additional involvement on other days for HQ activities</td> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 300px; word-wrap: break-word;">Mr Goh Kok Hoe Octave (ext 136)</td> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 300px; word-wrap: break-word;"></td> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 300px; word-wrap: break-word;">Mr Joseph C. George (ext 148)</td> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 300px; word-wrap: break-word;"></td> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 300px; word-wrap: break-word;">Mrs Cindy Ong Kim Leng (ext 139)</td> </tr> </tbody> </table>
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
+<div>
+  <table class="yck-table">
+    <thead>
+      <tr>
+        <th class="yck-th">
+          <h5>TRAINING SCHEDULE</h5>
+        </th>
+        <th class="yck-th">
+          <h5></h5>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="yck-td">Day &amp; Time</td>
+        <td class="yck-td">Every Tuesday 3:00PM to 5:30PM</td>
+      </tr>
+      <tr>
+        <td class="yck-td">Location</td>
+        <td class="yck-td">NPCC Room &amp; Blk D L1 Classroom</td>
+      </tr>
+      <tr>
+        <td class="yck-td">Additional Involvement</td>
+        <td class="yck-td">Additional involvement on other days for HQ activities</td>
+      </tr>
+      <tr>
+        <td class="yck-td"><strong>Teacher OIC</strong></td>
+        <td class="yck-td"><strong>Ms Goh Yu Fan (ext 174)</strong></td>
+      </tr>
+      <tr>
+        <td class="yck-td">Other Teachers</td>
+        <td class="yck-td">
+          Mr Wong Mingwei (ext 141),<br>
+          Mr Goh Kok Hoe Octave (ext 136),<br>
+          Mr Joseph C. George (ext 148),<br>
+          Mrs Cindy Ong Kim Leng (ext 139)
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div></li>
 	<li>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
@@ -208,7 +243,115 @@ touch-action: manipulation;
 .button-37:hover {
 box-shadow: rgba(0, 0, 0, .25) 0 3px 9px 0;
 transform: translateY(-2px);
-}</style>
+}
+html {
+  size-interpolation: allow-keywords;
+}
+
+ul, ol, li {
+  list-style: none;
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.yck-strong {
+  font-weight: 700;
+}
+
+.yck-flexbox-grid {
+  --min: 25ch;
+  --gap: 1.5em;
+
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--gap);
+}
+
+.yck-flexbox-grid > * {
+  flex: 1 1 var(--min);
+}
+
+.yck-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: inherit;
+    line-height: inherit;
+}
+
+.yck-th {
+    background-color: #f2f2f2;
+    padding: 1.5rem clamp(1rem, 5%, 3rem);
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    text-transform: uppercase;
+}
+
+.yck-th h5 {
+    margin: 0 0 0.5em 0;
+}
+
+.yck-td {
+    padding: 1.5rem clamp(1rem, 5%, 3rem);
+    border-bottom: 1px solid #ddd;
+    max-width: 300px;
+    word-wrap: break-word;
+}
+
+.yck-details {
+  border: 1px dashed #eee;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  overflow: hidden; /* Prevent content overflow */
+  transition: border-color 0.7s;
+}
+
+.yck-details:hover {
+  border-color: #555;
+}
+
+/* Style the summary */
+.yck-details__summary {
+  cursor: pointer;
+  font-weight: 700;
+  font-size: clamp(1.5rem, 4vw, 2.25rem);
+  list-style: none;
+  padding: 1rem clamp(1rem, 5%, 2rem);
+}
+
+.yck-details__summary::marker {
+  font-size: 1.25em;
+  color: #555;
+}
+
+/* Handle the expandable/collapsible area */
+.yck-details::.yck-details__content {
+  block-size: 0; /* Logical height equivalent to height */
+  overflow: hidden; /* Prevent content overflow */
+  transition: block-size 0.5s ease, content-visibility 0.5s ease-in-out;
+  content-visibility: hidden;
+  opacity: 0;
+  transition: block-size 0.5s ease, content-visibility 0.5s ease-in-out, opacity 0.5s ease;
+}
+
+.yck-details__content[open]::.yck-details {
+  block-size: auto;
+  content-visibility: visible;
+  opacity: 1;
+}
+
+/* Style the paragraph inside */
+.yck-details__content p {
+  margin: 0;
+  padding: 0.5rem clamp(0.5rem, 5%, 2rem);
+  color: #555;
+}	
+	
+	</style>
 </div></li>
 	
 	
