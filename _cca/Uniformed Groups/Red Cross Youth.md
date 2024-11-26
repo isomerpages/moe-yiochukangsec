@@ -234,6 +234,7 @@ img {
     padding: 1.5rem clamp(1rem, 5%, 3rem);
     text-align: left;
     border-bottom: 1px solid #ddd;
+	 text-transform: uppercase;
 }
 
 .yck-th h5 {
