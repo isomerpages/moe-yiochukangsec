@@ -5,14 +5,18 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R1.jpg)
-The primary goal of YCKSS’s Red Cross Youth Unit is to instill core values of compassion for humanity and a strong sense of civic responsibility. It also aims to impart skills and knowledge to its cadets to manage emergency scenarios and to make a difference to the lives of those in their community. The slogan for Red Cross Youth is&nbsp;_“Humanity in our Hands”_.
-
-In YCKSS-RCY, we believe in developing caring and responsible individuals, who serve with humility, integrity and excellence.
-
-
-
-
+<div>
+  <img alt="Red Cross Youth" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R1.jpg">
+    <p>
+      The primary goal of YCKSS’s Red Cross Youth Unit is to instill core values of compassion for humanity and a strong sense of civic responsibility. 
+      It also aims to impart skills and knowledge to its cadets to manage emergency scenarios and to make a difference in the lives of those in their community. 
+      The slogan for Red Cross Youth is <em>“Humanity in our Hands”</em>.
+    </p>
+    <p>
+      In YCKSS-RCY, we believe in developing caring and responsible individuals, who serve with humility, integrity, and excellence.
+    </p>
+</div>
+<br>
 <hr>
 
 
@@ -54,184 +58,155 @@ In YCKSS-RCY, we believe in developing caring and responsible individuals, who s
       </td>
     </tr>
   </tbody>
-</table>			<p></p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-<ul class="jekyllcodex_accordion">
-	<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Proudest&nbsp;Moments</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-mnhx">2021</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">Disaster Risk Reduction Competition: Gold</td>
-  </tr>
-  <tr>
-    <td class="tg-mnhx">2020</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Excellent Unit Award: Gold</td>
-  </tr>
-  <tr>
-    <td class="tg-mnhx">2019</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">First Aid Competition (Junior Category): Gold</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">First Aid Competition (Senior Category): Silver</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Trailblazers Competition:Gold</td>
-  </tr>
-  <tr>
-    <td class="tg-mnhx">2018</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Excellent Unit Award: Gold</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Trailblazers Competition: Gold</td>
-  </tr>
-  <tr>
-    <td class="tg-mnhx">2017</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Excellent Unit Award: Gold</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">First Aid Competition (Junior Category): Commendation</td>
-  </tr>
-  <tr>
-    <td class="tg-mnhx">2017</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">First Aid Competition (Senior Category):Bronze</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Director’s Award Recipient: Justus Seow</td>
-  </tr>
-  <tr>
-    <td class="tg-mnhx">2016</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Excellent Unit Award: Gold</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">First Aid Competition (Junior Category): Silver</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">First Aid Competition (Senior Category): Bronze</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Director’s Award Recipient: Rachael Loh</td>
-  </tr>
-</tbody>
-</table> <p></p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-	
-<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Events/Competitions</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-mnhx">Internal Programmes</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">Sec 3 Leadership Training Course</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Speech Day &amp; National Day Parades</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">First Aid Coverage for school events like Sports Carnival, Health Fiesta, etc</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Annual Home Visit</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Fund raising for Singapore Red Cross</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Unit Camp</td>
-  </tr>
-</tbody>
-</table><br>
-
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-mnhx">HQ Programmes</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">Gold Modular Workshops (First Aid/ Red Cross Knowledge/ Youth Ambassador Blood Programme/ Disaster Management)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">World Red Cross Day</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Central District Orientation</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Red Cross Flag Day</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Warrant Officers Programme</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Central District Leadership Workshop</td>
-  </tr>
-</tbody>
 </table>
-			<p></p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-	
-<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Gallery</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-<p> <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R2.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R3.png"></p>
-
-&nbsp;&nbsp;</div>
-
-</li>
-	
-	
-
-	
+<hr>
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Proudest Moments</label>
+    <div>
+      <table>
+        <thead>
+          <tr>
+            <th>2021</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Disaster Risk Reduction Competition: Gold</td>
+          </tr>
+          <tr>
+            <th>2020</th>
+          </tr>
+          <tr>
+            <td>Excellent Unit Award: Gold</td>
+          </tr>
+          <tr>
+            <th>2019</th>
+          </tr>
+          <tr>
+            <td>First Aid Competition (Junior Category): Gold</td>
+          </tr>
+          <tr>
+            <td>First Aid Competition (Senior Category): Silver</td>
+          </tr>
+          <tr>
+            <td>Trailblazers Competition: Gold</td>
+          </tr>
+          <tr>
+            <th>2018</th>
+          </tr>
+          <tr>
+            <td>Excellent Unit Award: Gold</td>
+          </tr>
+          <tr>
+            <td>Trailblazers Competition: Gold</td>
+          </tr>
+          <tr>
+            <th>2017</th>
+          </tr>
+          <tr>
+            <td>Excellent Unit Award: Gold</td>
+          </tr>
+          <tr>
+            <td>First Aid Competition (Junior Category): Commendation</td>
+          </tr>
+          <tr>
+            <td>First Aid Competition (Senior Category): Bronze</td>
+          </tr>
+          <tr>
+            <td>Director’s Award Recipient: Justus Seow</td>
+          </tr>
+          <tr>
+            <th>2016</th>
+          </tr>
+          <tr>
+            <td>Excellent Unit Award: Gold</td>
+          </tr>
+          <tr>
+            <td>First Aid Competition (Junior Category): Silver</td>
+          </tr>
+          <tr>
+            <td>First Aid Competition (Senior Category): Bronze</td>
+          </tr>
+          <tr>
+            <td>Director’s Award Recipient: Rachael Loh</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Events/Competitions</label>
+    <div>
+      <table>
+        <thead>
+          <tr>
+            <th>Internal Programmes</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Sec 3 Leadership Training Course</td>
+          </tr>
+          <tr>
+            <td>Speech Day &amp; National Day Parades</td>
+          </tr>
+          <tr>
+            <td>First Aid Coverage for school events like Sports Carnival, Health Fiesta, etc</td>
+          </tr>
+          <tr>
+            <td>Annual Home Visit</td>
+          </tr>
+          <tr>
+            <td>Fund raising for Singapore Red Cross</td>
+          </tr>
+          <tr>
+            <td>Unit Camp</td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <table>
+        <thead>
+          <tr>
+            <th>HQ Programmes</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Gold Modular Workshops (First Aid/ Red Cross Knowledge/ Youth Ambassador Blood Programme/ Disaster Management)</td>
+          </tr>
+          <tr>
+            <td>World Red Cross Day</td>
+          </tr>
+          <tr>
+            <td>Central District Orientation</td>
+          </tr>
+          <tr>
+            <td>Red Cross Flag Day</td>
+          </tr>
+          <tr>
+            <td>Warrant Officers Programme</td>
+          </tr>
+          <tr>
+            <td>Central District Leadership Workshop</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">Gallery</label>
+    <div>
+      <p>
+        <img style="width:100%;height:50%;" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R2.png">
+        <img style="width:100%;height:50%;" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R3.png">
+      </p>
+    </div>
+  </li>
 </ul>
 
 <style>
