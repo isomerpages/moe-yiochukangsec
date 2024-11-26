@@ -30,43 +30,44 @@ In YCKSS-RCY, we believe in developing caring and responsible individuals, who s
 .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig">TRAINING INFORMATION</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">Every Tuesday 3:00PM to 5:30PM</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">RED CROSS Room &amp; Classroom Blk E L1</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Additional involvement on</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">OTHER DAYS for HQ activities</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">TEACHERS IN-CHARGE</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Ms Lim Li Whey (ext 176) OIC</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Mr Chong Kai Yang (ext 133)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Mr Lim Chee Wee (ext 126)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Ms Foo Ger Maine (ext 137)</td>
-  </tr>
-</tbody>
-</table>
-			</p>
+<table class="yck-table">
+  <thead>
+    <tr>
+      <th class="yck-th">
+        <h5>TRAINING SCHEDULE</h5>
+      </th>
+      <th class="yck-th">
+        <h5></h5>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="yck-td">Day &amp; Time</td>
+      <td class="yck-td">Every Tuesday 3:00PM to 5:30PM</td>
+    </tr>
+    <tr>
+      <td class="yck-td">Location</td>
+      <td class="yck-td">RED CROSS Room &amp; Classroom Blk E L1</td>
+    </tr>
+    <tr>
+      <td class="yck-td">Additional Involvement</td>
+      <td class="yck-td">OTHER DAYS for HQ activities</td>
+    </tr>
+    <tr>
+      <td class="yck-td"><strong>Teacher OIC</strong></td>
+      <td class="yck-td"><strong>Ms Lim Li Whey (ext 176)</strong></td>
+    </tr>
+    <tr>
+      <td class="yck-td">Other Teachers</td>
+      <td class="yck-td">
+        Mr Chong Kai Yang (ext 133),<br>
+        Mr Lim Chee Wee (ext 126),<br>
+        Ms Foo Ger Maine (ext 137)
+      </td>
+    </tr>
+  </tbody>
+</table>			</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
@@ -270,3 +271,107 @@ In YCKSS-RCY, we believe in developing caring and responsible individuals, who s
 
 	
 </ul>
+
+<style>
+html {
+  size-interpolation: allow-keywords;
+}
+
+ul, ol, li {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.yck-flexbox-grid {
+  --min: 25ch;
+  --gap: 1.5em;
+
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--gap);
+}
+
+.yck-flexbox-grid > * {
+  flex: 1 1 var(--min);
+}
+
+.yck-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: inherit;
+    line-height: inherit;
+}
+
+.yck-th {
+    background-color: #f2f2f2;
+    padding: 1.5rem clamp(1rem, 5%, 3rem);
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.yck-th h5 {
+    margin: 0 0 0.5em 0;
+}
+
+.yck-td {
+    padding: 1.5rem clamp(1rem, 5%, 3rem);
+    border-bottom: 1px solid #ddd;
+    max-width: 300px;
+    word-wrap: break-word;
+}
+
+.yck-details {
+  border: 1px dashed #eee;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  overflow: hidden; /* Prevent content overflow */
+  transition: border-color 0.7s;
+}
+
+.yck-details:hover {
+  border-color: #555;
+}
+
+/* Style the summary */
+.yck-details__summary {
+  cursor: pointer;
+  font-weight: 700;
+  font-size: clamp(1.5rem, 4vw, 2.25rem);
+  list-style: none;
+  padding: 1rem clamp(1rem, 5%, 2rem);
+}
+
+.yck-details__summary::marker {
+  font-size: 1.25em;
+  color: #555;
+}
+
+/* Handle the expandable/collapsible area */
+.yck-details::.yck-details__content {
+  block-size: 0; /* Logical height equivalent to height */
+  overflow: hidden; /* Prevent content overflow */
+  transition: block-size 0.5s ease, content-visibility 0.5s ease-in-out;
+  content-visibility: hidden;
+  opacity: 0;
+  transition: block-size 0.5s ease, content-visibility 0.5s ease-in-out, opacity 0.5s ease;
+}
+
+.yck-details__content[open]::.yck-details {
+  block-size: auto;
+  content-visibility: visible;
+  opacity: 1;
+}
+
+/* Style the paragraph inside */
+.yck-details__content p {
+  margin: 0;
+  padding: 0.5rem clamp(0.5rem, 5%, 2rem);
+  color: #555;
+}
+	
+</style>
