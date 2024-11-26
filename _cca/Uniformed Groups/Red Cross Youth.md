@@ -17,7 +17,7 @@ variant: markdown
     </p>
 </div>
 <br>
-<hr>
+
 
 
 
@@ -59,81 +59,63 @@ variant: markdown
     </tr>
   </tbody>
 </table>
-<hr>
+
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Proudest Moments</label>
     <div>
-      <table>
-        <thead>
-          <tr>
-            <th>2021</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>Disaster Risk Reduction Competition: Gold</td>
-          </tr>
-          <tr>
-            <th>2020</th>
-          </tr>
-          <tr>
-            <td>Excellent Unit Award: Gold</td>
-          </tr>
-          <tr>
-            <th>2019</th>
-          </tr>
-          <tr>
-            <td>First Aid Competition (Junior Category): Gold</td>
-          </tr>
-          <tr>
-            <td>First Aid Competition (Senior Category): Silver</td>
-          </tr>
-          <tr>
-            <td>Trailblazers Competition: Gold</td>
-          </tr>
-          <tr>
-            <th>2018</th>
-          </tr>
-          <tr>
-            <td>Excellent Unit Award: Gold</td>
-          </tr>
-          <tr>
-            <td>Trailblazers Competition: Gold</td>
-          </tr>
-          <tr>
-            <th>2017</th>
-          </tr>
-          <tr>
-            <td>Excellent Unit Award: Gold</td>
-          </tr>
-          <tr>
-            <td>First Aid Competition (Junior Category): Commendation</td>
-          </tr>
-          <tr>
-            <td>First Aid Competition (Senior Category): Bronze</td>
-          </tr>
-          <tr>
-            <td>Director’s Award Recipient: Justus Seow</td>
-          </tr>
-          <tr>
-            <th>2016</th>
-          </tr>
-          <tr>
-            <td>Excellent Unit Award: Gold</td>
-          </tr>
-          <tr>
-            <td>First Aid Competition (Junior Category): Silver</td>
-          </tr>
-          <tr>
-            <td>First Aid Competition (Senior Category): Bronze</td>
-          </tr>
-          <tr>
-            <td>Director’s Award Recipient: Rachael Loh</td>
-          </tr>
-        </tbody>
-      </table>
+<table class="yck-table">
+  <thead>
+    <tr>
+      <th class="yck-th">Year</th>
+      <th class="yck-th">Awards</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="yck-td yck-strong">2021</td>
+      <td class="yck-td">Disaster Risk Reduction Competition: Gold</td>
+    </tr>
+    <tr>
+      <td class="yck-td yck-strong">2020</td>
+      <td class="yck-td">Excellent Unit Award: Gold</td>
+    </tr>
+    <tr>
+      <td class="yck-td yck-strong">2019</td>
+      <td class="yck-td">
+        First Aid Competition (Junior Category): Gold<br>
+        First Aid Competition (Senior Category): Silver<br>
+        Trailblazers Competition: Gold
+      </td>
+    </tr>
+    <tr>
+      <td class="yck-td yck-strong">2018</td>
+      <td class="yck-td">
+        Excellent Unit Award: Gold<br>
+        Trailblazers Competition: Gold
+      </td>
+    </tr>
+    <tr>
+      <td class="yck-td yck-strong">2017</td>
+      <td class="yck-td">
+        Excellent Unit Award: Gold<br>
+        First Aid Competition (Junior Category): Commendation<br>
+        First Aid Competition (Senior Category): Bronze<br>
+        Director’s Award Recipient: Justus Seow
+      </td>
+    </tr>
+    <tr>
+      <td class="yck-td yck-strong">2016</td>
+      <td class="yck-td">
+        Excellent Unit Award: Gold<br>
+        First Aid Competition (Junior Category): Silver<br>
+        First Aid Competition (Senior Category): Bronze<br>
+        Director’s Award Recipient: Rachael Loh
+      </td>
+    </tr>
+  </tbody>
+</table>
     </div>
   </li>
   <li>
@@ -221,6 +203,10 @@ ul, ol, li {
 img {
   max-width: 100%;
   height: auto;
+}
+	
+.yck-strong {
+	font-weight: 700;
 }
 
 .yck-flexbox-grid {
