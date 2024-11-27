@@ -47,7 +47,7 @@ variant: markdown
     </tr>
     <tr>
       <td class="yck-td"><strong>Teacher OIC</strong></td>
-      <td class="yck-td"><strong>Ms Lim Li Whey (ext 176)</strong></td>
+      <td class="yck-td"><strong>Mrs Heng Lai Khar (ext 201)</strong></td>
     </tr>
     <tr>
       <td class="yck-td">Other Teachers</td>
