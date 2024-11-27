@@ -82,8 +82,8 @@ Director’s Award - Warrant Officer Karen Koh Sze Yee
     </tr>
     <tr>
       <td class="yck-td yck-strong">2023</td>
-      <td class="yck-td">2023 Excellent Unit Award - Gold
-2023 First Aid Championships (Junior) - Silver
+      <td class="yck-td">2023 Excellent Unit Award - Gold<br>
+2023 First Aid Championships (Junior) - Silver<br>
 2023 First Aid Championships (Senior) – Bronze
 </td>
     </tr>
