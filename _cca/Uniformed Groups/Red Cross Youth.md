@@ -52,8 +52,8 @@ variant: markdown
     <tr>
       <td class="yck-td">Other Teachers</td>
       <td class="yck-td">
-        Mr Chong Kai Yang (ext 133),<br>
-        Mr Lim Chee Wee (ext 126),<br>
+        Mr Chong Kai Yang (ext 133)<br>
+        Mr Lim Chee Wee (ext 126)<br>
         Ms Foo Ger Maine (ext 137)
       </td>
     </tr>
@@ -75,8 +75,8 @@ variant: markdown
   <tbody>
     <tr>
       <td class="yck-td yck-strong">2024</td>
-      <td class="yck-td">2024 First Aid Championships (Junior) – Bronze<br>
-2024 First Aid Championships (Senior) – Bronze<br>
+      <td class="yck-td">2024 First Aid Championships (Junior) - Bronze<br>
+2024 First Aid Championships (Senior) - Bronze<br>
 Director’s Award - Warrant Officer Karen Koh Sze Yee
 </td>
     </tr>
@@ -84,41 +84,8 @@ Director’s Award - Warrant Officer Karen Koh Sze Yee
       <td class="yck-td yck-strong">2023</td>
       <td class="yck-td">2023 Excellent Unit Award - Gold<br>
 2023 First Aid Championships (Junior) - Silver<br>
-2023 First Aid Championships (Senior) – Bronze
+2023 First Aid Championships (Senior) - Bronze
 </td>
-    </tr>
-    <tr>
-      <td class="yck-td yck-strong">2019</td>
-      <td class="yck-td">
-        First Aid Competition (Junior Category): Gold<br>
-        First Aid Competition (Senior Category): Silver<br>
-        Trailblazers Competition: Gold
-      </td>
-    </tr>
-    <tr>
-      <td class="yck-td yck-strong">2018</td>
-      <td class="yck-td">
-        Excellent Unit Award: Gold<br>
-        Trailblazers Competition: Gold
-      </td>
-    </tr>
-    <tr>
-      <td class="yck-td yck-strong">2017</td>
-      <td class="yck-td">
-        Excellent Unit Award: Gold<br>
-        First Aid Competition (Junior Category): Commendation<br>
-        First Aid Competition (Senior Category): Bronze<br>
-        Director’s Award Recipient: Justus Seow
-      </td>
-    </tr>
-    <tr>
-      <td class="yck-td yck-strong">2016</td>
-      <td class="yck-td">
-        Excellent Unit Award: Gold<br>
-        First Aid Competition (Junior Category): Silver<br>
-        First Aid Competition (Senior Category): Bronze<br>
-        Director’s Award Recipient: Rachael Loh
-      </td>
     </tr>
   </tbody>
 </table>
