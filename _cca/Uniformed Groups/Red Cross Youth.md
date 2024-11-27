@@ -74,8 +74,11 @@ variant: markdown
   </thead>
   <tbody>
     <tr>
-      <td class="yck-td yck-strong">2021</td>
-      <td class="yck-td">Disaster Risk Reduction Competition: Gold</td>
+      <td class="yck-td yck-strong">2024</td>
+      <td class="yck-td">2024 First Aid Championships (Junior) – Bronze<br>
+2024 First Aid Championships (Senior) – Bronze<br>
+Director’s Award - Warrant Officer Karen Koh Sze Yee
+</td>
     </tr>
     <tr>
       <td class="yck-td yck-strong">2020</td>
