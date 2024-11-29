@@ -187,8 +187,9 @@ html {
   size-interpolation: allow-keywords;
 }
 
-ul, ol, li {
+a, ul, ol, li {
   list-style: none;
+	text-decoration: none;
 	margin: 0;
 }
 
@@ -202,7 +203,7 @@ img {
 }
 
 .yck-flexbox-grid {
-  --min: 25ch;
+  --min: 20ch;
   --gap: 1.5em;
 
   display: flex;
