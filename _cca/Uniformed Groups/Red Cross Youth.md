@@ -157,7 +157,8 @@ Director’s Award - Warrant Officer Karen Koh Sze Yee
     <label for="accordion3">Gallery</label>
     <div>
       <p>
-
+</p><ul class="yck-flex-grid">
+	
 <img alt="Red Cross Youth 1" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/1_RedCrossYouth_2025.jpg">
 
 <img alt="Red Cross Youth 2" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/2_RedCrossYouth_2025.jpg">
@@ -172,12 +173,13 @@ Director’s Award - Warrant Officer Karen Koh Sze Yee
 
 <img alt="Red Cross Youth 7" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/7_RedCrossYouth_2025.jpg">
 				
+</ul>
+
 <img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R2.png">
         <img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R3.png">
-      </p>
+      <p></p>
     </div>
-  </li>
-</ul>
+
 
 <style>
 html {
@@ -288,4 +290,4 @@ img {
   color: #555;
 }
 	
-</style>
+</style></li></ul>
