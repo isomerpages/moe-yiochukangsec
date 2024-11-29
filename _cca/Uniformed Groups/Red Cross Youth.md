@@ -158,19 +158,19 @@ Director’s Award - Warrant Officer Karen Koh Sze Yee
     <div>
       <p>
 
-![Red Cross Youth 1](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/1_RedCrossYouth_2025.jpg)
+<img alt="Red Cross Youth 1" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/1_RedCrossYouth_2025.jpg">
 
-![Red Cross Youth 2](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/2_RedCrossYouth_2025.jpg)
+<img alt="Red Cross Youth 2" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/2_RedCrossYouth_2025.jpg">
 
-![Red Cross Youth 3](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/3_RedCrossYouth_2025.jpg)
+<img alt="Red Cross Youth 3" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/3_RedCrossYouth_2025.jpg">
 
-![Red Cross Youth 4](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/4_RedCrossYouth_2025.jpg)
+<img alt="Red Cross Youth 4" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/4_RedCrossYouth_2025.jpg">
 
-![Red Cross Youth 5](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/5_RedCrossYouth_2025.jpg)
+<img alt="Red Cross Youth 5" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/5_RedCrossYouth_2025.jpg">
 
-![Red Cross Youth 6](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/6_RedCrossYouth_2025.jpg)
+<img alt="Red Cross Youth 6" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/6_RedCrossYouth_2025.jpg">
 
-![Red Cross Youth 7](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/7_RedCrossYouth_2025.jpg)
+<img alt="Red Cross Youth 7" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/7_RedCrossYouth_2025.jpg">
 				
 <img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R2.png">
         <img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R3.png">
