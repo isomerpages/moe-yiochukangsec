@@ -157,8 +157,9 @@ Director’s Award - Warrant Officer Karen Koh Sze Yee
     <label for="accordion3">Gallery</label>
     <div>
       <p>
-</p><ul class="yck-flex-grid">
-	
+</p>
+			
+<ul class="yck-flex-grid">	
 <li><img alt="Red Cross Youth 1" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/1_RedCrossYouth_2025.jpg"></li>
 
 <li><img alt="Red Cross Youth 2" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/2_RedCrossYouth_2025.jpg"></li>
