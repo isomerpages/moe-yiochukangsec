@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-
 <div>
 
   <img alt="Red Cross Youth" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R1.jpg">
@@ -116,23 +115,32 @@ variant: markdown
 </table></li>
 <li>
 <table class="yck-table">
-                    <thead>
-                        <tr>
-                            <th class="yck-th h5">HQ Programmes</th>
-													<th class="yck-th h5"></th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td class="yck-td yck-strong">2024</td>
-                            <td class="yck-td">2024 First Aid Championships (Junior) - Bronze<br> 2024 First Aid Championships (Senior) - Bronze<br> Director’s Award - Warrant Officer Karen Koh Sze Yee </td>
-                        </tr>
-                        <tr>
-                            <td class="yck-td yck-strong">2023</td>
-                            <td class="yck-td">2023 Excellent Unit Award - Gold<br> 2023 First Aid Championships (Junior) - Silver<br> 2023 First Aid Championships (Senior) - Bronze </td>
-                        </tr>
-                    </tbody>
-                </table></li></ul>
+  <thead>
+    <tr>
+      <th class="yck-th h5">HQ Programmes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="yck-td">Gold Modular Workshops <br><small>(First Aid, Red Cross Knowledge, Youth Ambassador Blood Programme &amp; Disaster Management)</small></td>
+    </tr>
+    <tr>
+      <td class="yck-td">World Red Cross Day</td>
+    </tr>
+    <tr>
+      <td class="yck-td">Central District Orientation</td>
+    </tr>
+    <tr>
+      <td class="yck-td">Red Cross Flag Day</td>
+    </tr>
+    <tr>
+      <td class="yck-td">Warrant Officers Programme</td>
+    </tr>
+    <tr>
+      <td class="yck-td">Central District Leadership Workshop</td>
+    </tr>
+  </tbody>
+</table></li></ul>
     </div>
 </details>
 
