@@ -58,6 +58,8 @@ variant: markdown
 </table>
 </div>
 
+<hr style="1px solid grey">
+
 <details class="yck-details">
     <summary class="yck-details__summary h5">Proudest Moments</summary>
     <div class="yck-details__content"><div>
@@ -440,7 +442,6 @@ li {
     margin-top: 1rem;
     text-transform: uppercase;
 /*    font-size: clamp(1.25rem, 4vw, 2rem);*/
-    /* padding: 1rem clamp(1rem, 5%, 2rem); */
 }
 
 .yck-details__summary::after {
