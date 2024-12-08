@@ -58,7 +58,7 @@ variant: markdown
 </table>
 </div>
 
-<section>
+<section class="bp-section">
 
 <details class="yck-details">
     <summary class="yck-details__summary h5">Proudest Moments</summary>
