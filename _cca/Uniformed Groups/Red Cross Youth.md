@@ -58,7 +58,7 @@ variant: markdown
 </table>
 </div>
 
-<hr style="1px solid grey">
+<section>
 
 <details class="yck-details">
     <summary class="yck-details__summary h5">Proudest Moments</summary>
@@ -173,6 +173,7 @@ variant: markdown
     </div>
   </div>
 </details>
+	</section>
 
 
 
@@ -439,7 +440,7 @@ li {
     justify-content: space-between;
     cursor: pointer;
     font-weight: 700;
-    margin-top: 1rem;
+    margin-top: clamp(0.5rem, 5%, 2rem);
     text-transform: uppercase;
 /*    font-size: clamp(1.25rem, 4vw, 2rem);*/
 }
@@ -460,6 +461,7 @@ li {
 /* Initial state for content (hidden) */
 .yck-details__content {
     max-height: auto;
+	  margin-bottom: clamp(1.25rem, 5%, 1.75rem);
     opacity: 0;
     overflow: hidden;
     padding: 0;
@@ -528,7 +530,7 @@ li {
 
 .yck-flexbox-grid {
   --min: 22ch;
-  --gap: 1em;
+  --gap: 1.5em;
 
   display: flex;
   flex-wrap: wrap;
