@@ -251,6 +251,7 @@ body {
   /*font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
     Arial, sans-serif;*/
   font-size: var(--step-0);
+	font-color: inherit;
   color: var(--color-text);
   background-color: var(--color-background);
   /*    width: min(1000px, calc(70% + 100px));*/
