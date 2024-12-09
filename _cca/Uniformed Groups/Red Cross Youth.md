@@ -169,9 +169,7 @@ variant: markdown
       <ul>
         <li><img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R2.png"></li>
        <li> <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R3.png"></li>
-				<li><img src="https://fakeimg.pl/480x200/ff0000,128/000,255"></li>
-                <li><img src="https://fakeimg.pl/350x200/ff0000,128/000,255"></li>
-                <li><img src="https://fakeimg.pl/240x128/ff0000,128/000,255"></li>
+
       </ul>
     </div>
   </div>
