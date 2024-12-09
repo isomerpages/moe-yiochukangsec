@@ -192,7 +192,7 @@ variant: markdown
   --color-accent:  inherit;
   --color-background:  inherit;
   --color-text:  inherit;
-  --color-text-light:  inherit;
+  --color-text-light:  #888888;
   --color-link: var(--color-primary);
   --color-link-hover: var(--color-accent);
   --color-border: #e0e0e0;
@@ -252,7 +252,7 @@ body {
   text-rendering: optimizeSpeed;
   line-height: var(--text-line-height);
   font-size: var(--step-0);
-  font-color: var(--color-text);
+  color: var(--color-text);
   background-color: var(--color-background);
   /* 4. Improve text rendering */
   -webkit-font-smoothing: antialiased;
@@ -261,7 +261,7 @@ body {
 /* 5. Improve media defaults */
 img, picture, video, canvas, svg {
   display: block;
-  width: 100%;
+  max-width: 100%;
 }
 
 /* ==========================================================================
@@ -385,7 +385,7 @@ h4,
 h5,
 .h5 {
   font-size: var(--step-1);
-  margin-bottom: calc(var(--spacing-unit) * 0.5);
+  margin-bottom: calc(var(--spacing-unit) * 0.4);
 }
 
 small,
@@ -423,7 +423,8 @@ li {
 .yck-details {
     border-top: 1px solid rgba(0, 0, 0, 0.15);
     /* border-bottom: 1px solid rgba(0, 0, 0, 0.25); */
-    margin-bottom: 1rem;
+	margin-top: clamp(0.5rem, 5%, 2rem);
+    margin-bottom: clamp(1rem, 5% 1.5rem);
     overflow: hidden;
     transition: border-color 0.7s;
 }
@@ -438,7 +439,6 @@ li {
     align-items: center;
     justify-content: space-between;
     cursor: pointer;
-    font-weight: 700;
     margin-top: clamp(0.5rem, 5%, 2rem);
     text-transform: uppercase;
 /*    font-size: clamp(1.25rem, 4vw, 2rem);*/
