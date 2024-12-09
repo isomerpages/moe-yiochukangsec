@@ -169,6 +169,9 @@ variant: markdown
       <ul>
         <li><img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R2.png"></li>
        <li> <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R3.png"></li>
+				<li><img src="https://fakeimg.pl/480x200/ff0000,128/000,255"></li>
+                <li><img src="https://fakeimg.pl/350x200/ff0000,128/000,255"></li>
+                <li><img src="https://fakeimg.pl/240x128/ff0000,128/000,255"></li>
       </ul>
     </div>
   </div>
@@ -185,9 +188,9 @@ variant: markdown
 :root {
   /* Color Scheme */
   --color-primary: inherit;
-  --color-secondary: inherit;;
-  --color-accent:  inherit;;
-  --color-background:  inherit;;
+  --color-secondary: inherit;
+  --color-accent:  inherit;
+  --color-background:  inherit;
   --color-text:  inherit;
   --color-text-light:  inherit;
   --color-link: var(--color-primary);
@@ -239,7 +242,7 @@ variant: markdown
 }
 
 html {
-  font-size: 100%; /* [3] Define base font size in percentage for accessibility. */font: inherit;
+  font-size: 100%; /* [3] Define base font size in percentage for accessibility. */
   size-interpolation: allow-keywords;
 }
 
@@ -248,13 +251,9 @@ body {
   scroll-behavior: smooth;
   text-rendering: optimizeSpeed;
   line-height: var(--text-line-height);
-  /*font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
-    Arial, sans-serif;*/
   font-size: var(--step-0);
-	font-color: inherit;
-  color: var(--color-text);
+  font-color: var(--color-text);
   background-color: var(--color-background);
-  /*    width: min(1000px, calc(70% + 100px));*/
   /* 4. Improve text rendering */
   -webkit-font-smoothing: antialiased;
 }
@@ -262,7 +261,7 @@ body {
 /* 5. Improve media defaults */
 img, picture, video, canvas, svg {
   display: block;
-  max-width: 100%;
+  width: 100%;
 }
 
 /* ==========================================================================
