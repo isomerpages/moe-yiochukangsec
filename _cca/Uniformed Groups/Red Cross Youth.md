@@ -239,7 +239,7 @@ variant: markdown
 }
 
 html {
-  font-size: 100%; /* [3] Define base font size in percentage for accessibility. */
+  font-size: 100%; /* [3] Define base font size in percentage for accessibility. */font: inherit;
   size-interpolation: allow-keywords;
 }
 
