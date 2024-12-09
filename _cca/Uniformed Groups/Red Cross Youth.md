@@ -58,8 +58,8 @@ variant: markdown
 </table>
 </div>
 
-<section class="bp-section">
 
+<div>
 <details class="yck-details">
     <summary class="yck-details__summary h5">Proudest Moments</summary>
     <div class="yck-details__content"><div>
@@ -173,9 +173,8 @@ variant: markdown
     </div>
   </div>
 </details>
-	</section>
 
-
+</div>
 
 <style>
 /* ==========================================================================
