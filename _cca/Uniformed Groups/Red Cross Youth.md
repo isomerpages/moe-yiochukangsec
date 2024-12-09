@@ -184,12 +184,12 @@ variant: markdown
 
 :root {
   /* Color Scheme */
-  --color-primary: #4d90fe;
-  --color-secondary: #333333;
-  --color-accent: #ff4081;
-  --color-background: #ffffff;
-  --color-text: #333333;
-  --color-text-light: #999999;
+  --color-primary: inherit;
+  --color-secondary: inherit;;
+  --color-accent:  inherit;;
+  --color-background:  inherit;;
+  --color-text:  inherit;
+  --color-text-light:  inherit;
   --color-link: var(--color-primary);
   --color-link-hover: var(--color-accent);
   --color-border: #e0e0e0;
