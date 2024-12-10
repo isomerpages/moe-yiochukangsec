@@ -4,8 +4,146 @@ permalink: /testpage/
 description: ""
 variant: markdown
 ---
-<p></p>
-<p></p>
+<div>
+
+  <img alt="Red Cross Youth" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R1.jpg">
+    <p>
+      The primary goal of YCKSS’s Red Cross Youth Unit is to instill core values of compassion for humanity and a strong sense of civic responsibility. 
+      It also aims to impart skills and knowledge to its cadets to manage emergency scenarios and to make a difference in the lives of those in their community. 
+      The slogan for Red Cross Youth is <em>“Humanity in our Hands”</em>.
+    </p>
+    <p>
+      In YCKSS-RCY, we believe in developing caring and responsible individuals, who serve with humility, integrity, and excellence.
+    </p>
+</div>
+
+
+<div>
+<table class="yck-table">
+  <thead>
+    <tr>
+      <th class="yck-th h5">TRAINING SCHEDULE
+      </th>
+      <th class="yck-th">
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="yck-td"><p>Day &amp; Time</p></td>
+      <td class="yck-td"><p>Every Tuesday<br>3:00PM to 5:30PM</p></td>
+    </tr>
+    <tr>
+      <td class="yck-td">Location</td>
+      <td class="yck-td">RED CROSS Room &amp; <br>Blk E, Level 1 Classrooms</td>
+    </tr>
+    <tr>
+      <td class="yck-td">OTHER DAYS</td>
+      <td class="yck-td">Additional Involvement <br>for HQ activities</td>
+    </tr>
+    <tr>
+      <td class="yck-td"><strong>Teacher OIC</strong></td>
+      <td class="yck-td"><strong>Ms Lim Li Whey (ext 176)</strong></td>
+    </tr>
+    <tr>
+      <td class="yck-td">Other Teachers</td>
+      <td class="yck-td">
+        Mr Chong Kai Yang (ext 133)<br>
+        Mr Lim Chee Wee (ext 126)<br>
+        Ms Foo Ger Maine (ext 137)
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+<div>
+<details class="yck-details">
+    <summary class="yck-details__summary h5">Proudest Moments</summary>
+    <div class="yck-details__content"><div>
+            <table class="yck-table">
+                <thead>
+                    <tr>
+                        <th class="yck-th">Year</th>
+                        <th class="yck-th">Awards</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="yck-td yck-strong">2024</td>
+                        <td class="yck-td">2024 First Aid Championships (Junior) - Bronze<br> 2024 First Aid Championships (Senior) - Bronze<br> Director’s Award - Warrant Officer Karen Koh Sze Yee </td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td yck-strong">2023</td>
+                        <td class="yck-td">2023 Excellent Unit Award - Gold<br> 2023 First Aid Championships (Junior) - Silver<br> 2023 First Aid Championships (Senior) - Bronze </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div></div>
+</details>
+
+<details class="yck-details">
+    <summary class="yck-details__summary h5">Events &amp; Competitions</summary>
+    <div class="yck-details__content">
+      <ul class="yck-flexbox-grid">
+<li>            <table class="yck-table">
+  <thead>
+    <tr>
+      <th class="yck-th h5">Internal Programmes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="yck-td">Sec 3 Leadership Training Course</td>
+    </tr>
+    <tr>
+      <td class="yck-td">Speech Day &amp; National Day Parades</td>
+    </tr>
+    <tr>
+      <td class="yck-td">First Aid Coverage for school events like Sports Carnival, Health Fiesta, etc</td>
+    </tr>
+    <tr>
+      <td class="yck-td">Annual Home Visit</td>
+    </tr>
+    <tr>
+      <td class="yck-td">Fund raising for Singapore Red Cross</td>
+    </tr>
+    <tr>
+      <td class="yck-td">Unit Camp</td>
+    </tr>
+  </tbody>
+</table></li>
+<li>
+<table class="yck-table">
+  <thead>
+    <tr>
+      <th class="yck-th h5">HQ Programmes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="yck-td">Gold Modular Workshops <br><small>(First Aid, Red Cross Knowledge, Youth Ambassador Blood Programme &amp; Disaster Management)</small></td>
+    </tr>
+    <tr>
+      <td class="yck-td">World Red Cross Day</td>
+    </tr>
+    <tr>
+      <td class="yck-td">Central District Orientation</td>
+    </tr>
+    <tr>
+      <td class="yck-td">Red Cross Flag Day</td>
+    </tr>
+    <tr>
+      <td class="yck-td">Warrant Officers Programme</td>
+    </tr>
+    <tr>
+      <td class="yck-td">Central District Leadership Workshop</td>
+    </tr>
+  </tbody>
+</table></li></ul>
+    </div>
+</details>
 
 
 <style>
@@ -454,6 +592,4 @@ ul.jekyllcodex_accordion ul {
 ul.jekyllcodex_accordion ul > li {
   padding-left: 1rem; /* Optional: Adjust left padding for better alignment */
 }
-</style>
-
-  
+</style></div>
