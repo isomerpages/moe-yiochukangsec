@@ -168,8 +168,3 @@ The CCA Programme provides our students with a platform to discover their intere
     <p>For more information on LEAPS 2.0, please refer to the following website: <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0">Leaps 2.0</a></p>
     </div></li>
     </ul>
-
-
-
-
-
