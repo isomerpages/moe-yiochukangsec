@@ -185,10 +185,10 @@ variant: markdown
   /* Color Scheme */
   --color-primary: inherit;
   --color-secondary: inherit;
-  --color-accent:  inherit;
-  --color-background:  inherit;
+  --color-accent: inherit;
+  --color-background: inherit;
   --color-text:  inherit;
-  --color-text-light:  #888888;
+  --color-text-light: #888888;
   --color-link: var(--color-primary);
   --color-link-hover: var(--color-accent);
   --color-border: #e0e0e0;
