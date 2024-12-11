@@ -173,31 +173,3 @@ The CCA Programme provides our students with a platform to discover their intere
 
 
 
-
-.yck-table {
-  border-collapse: collapse;
-  line-height: 1.5rem;
-  max-width: 100%;
-  margin-top: 1.5em;
-}
-
-.yck-th {
-  background-color: #f2f2f2;
-  /* padding: clamp(1rem, 5%, 3rem); */
-  text-align: left;
-  border-bottom: 1px solid #ddd;
-  text-transform: uppercase;
-}
-
-.yck-th h5 {
-  margin: 0 0 0.5em 0;
-/*  font-size: clamp(1.05rem, 2vw, 1.55rem);*/
-}
-
-.yck-td {
-/*  font-size: clamp(1rem, 5%, 2rem);*/
-  /* padding: 1.5rem clamp(1rem, 5%, 3rem); */
-  border-bottom: 1px solid #ddd;
-  max-width: 300px;
-  word-wrap: break-word;
-}
