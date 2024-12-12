@@ -183,24 +183,9 @@ variant: markdown
 
 :root {
   /* Color Scheme */
-  --color-primary: inherit;
-  --color-secondary: inherit;
-  --color-accent: inherit;
-  --color-background: inherit;
-  --color-text:  inherit;
-  --color-text-light: #888888;
-  --color-link: var(--color-primary);
-  --color-link-hover: var(--color-accent);
   --color-border: #e0e0e0;
-
-  /* Typography Decorations */
-  --heading-font-weight: 700;
-  --text-line-height: 1.5;
-  --heading-line-height: 1.2;
-  --link-decoration: none;
-  --link-decoration-hover: none; /* Changed to none */
-  --heading-letter-spacing: -0.02em;
-
+  --color-text-light: #888888;
+	
   /* Animation */
   --transition-speed: 0.8s; /* Added transition speed variable */
   --transition-timing: cubic-bezier(0.4, 0, 0.2, 1); /* Added smooth easing */
@@ -225,39 +210,21 @@ variant: markdown
 /* ==========================================================================
    Reset & Base Styles
    ========================================================================== */
-/* 1. Use a more-intuitive box-sizing model */
-*, *::before, *::after {
-  box-sizing: border-box;
-}
 
-/* Reset Margins and Padding */
-* {
-  margin: 0;
-  padding: 0;  /* [2] Reset default margins and padding to create a consistent baseline for styling. */
-
-}
 
 html {
   font-size: 100%; /* [3] Define base font size in percentage for accessibility. */
-  size-interpolation: allow-keywords;
 }
 
 body {
   min-height: 100vh;
   scroll-behavior: smooth;
   text-rendering: optimizeSpeed;
-  line-height: var(--text-line-height);
   font-size: var(--step-0);
-  color: var(--color-text);
-  background-color: var(--color-background);
+  color: inherit;
+  background-color: inherit;
   /* 4. Improve text rendering */
   -webkit-font-smoothing: antialiased;
-}
-
-/* 5. Improve media defaults */
-img, picture, video, canvas, svg {
-  display: block;
-  max-width: 100%;
 }
 
 /* ==========================================================================
@@ -307,13 +274,6 @@ td {
   word-wrap: break-word; /* Ensure long content wraps within cells */
 }
 
-/* 
-
-/* 6. Inherit fonts for form controls */
-input, button, textarea, select {
-  font: inherit;
-}
-
 /* 7. Avoid text overflows */
 p, h1, h2, h3, h4, h5, h6 {
   overflow-wrap: break-word;
@@ -348,10 +308,10 @@ h4,
 .h4,
 h5,
 .h5 {
-  font-weight: var(--heading-font-weight);
-  line-height: var(--heading-line-height);
-  letter-spacing: var(--heading-letter-spacing);
-  color: var(--color-secondary);
+  font-weight: inherit;
+  line-height: inherit;
+  letter-spacing: inherit;
+  color: inherit;
 }
 
 h1,
