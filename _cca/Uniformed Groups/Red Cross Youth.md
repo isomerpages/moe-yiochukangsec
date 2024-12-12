@@ -221,8 +221,6 @@ body {
   scroll-behavior: smooth;
   text-rendering: optimizeSpeed;
   font-size: var(--step-0);
-  color: inherit;
-  background-color: inherit;
   /* 4. Improve text rendering */
   -webkit-font-smoothing: antialiased;
 }
@@ -311,7 +309,6 @@ h5,
   font-weight: inherit;
   line-height: inherit;
   letter-spacing: inherit;
-  color: inherit;
 }
 
 h1,
@@ -347,12 +344,10 @@ h5,
 small,
 .text-small {
   font-size: var(--step--1);
-  color: inherit;
 }
 
 .text-xs {
   font-size: var(--step--2);
-  color: var(--color-text-light);
 }
 
 p,
@@ -360,7 +355,6 @@ ul,
 ol {
   font-size: var(--step-0);
   margin-bottom: var(--spacing-unit);
-  color: var(--color-text);
 }
 
 .yck-details__content ul, .yck-details__content ol, .yck-details__content ul li,
