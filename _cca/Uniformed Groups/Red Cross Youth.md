@@ -347,7 +347,7 @@ h5,
 small,
 .text-small {
   font-size: var(--step--1);
-  color: var(--color-text-light);
+  color: inherit;
 }
 
 .text-xs {
