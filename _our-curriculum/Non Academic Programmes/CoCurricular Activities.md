@@ -98,7 +98,7 @@ The CCA Programme provides our students with a platform to discover their intere
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
     <p>The CCA Programme provides our students with a platform to discover their interests and talents. Students will progressively develop CCA-specific knowledge, skills, values and attitudes through sustained participation CCA. Explore the following tabs to learn more.</p>
-    <h2>CCA Learning Outcomes</h2>
+    <h3>CCA Learning Outcomes</h3>
     <p>Through participating in the CCAs, we help students develop and demonstrate the following:</p>
     <div>
         <ul>
@@ -119,7 +119,7 @@ The CCA Programme provides our students with a platform to discover their intere
             <li>The Clubs allow students to explore and extend their interests in wide-ranging and specialised areas which may be knowledge-based or skills-based.</li>
         </ul>
     </div>
-    <h2>CCA Policy</h2>
+    <h3>CCA Policy</h3>
     <div>
         <ul>
             <li>CCA participation in school is <strong>compulsory</strong> for all students in secondary schools. Students are required to be <strong>active in at least one CCA</strong>. As we strive to meet the diverse needs of the students, there is a quota in the number of members a CCA can offer due to constraint in facilities and/or manpower.</li>
@@ -134,9 +134,9 @@ The CCA Programme provides our students with a platform to discover their intere
             </li>
         </ul>
     </div>
-    <h2>CCA Stand Down for Exams</h2>
+    <h3>CCA Stand Down for Exams</h3>
     <p>In general, CCAs will stand down 2 weeks before the start of examinations. If there are CCAs still in competitions or completing badge work in UGs, they will stand down immediately after the last day of competition. CCAs will resume after the last day of exams.</p>
-    <h2>Recognition of Students’ Level of Attainment</h2>
+    <h3>Recognition of Students’ Level of Attainment</h3>
     <p>At the end of the graduating year, students’ co-curricular attainment will be recognised according to Excellent/Good/Fair.</p>
     <p>The level of attainment will be converted to a bonus point(s) which can be used for admission to Junior Colleges/ Polytechnics/ Institutes of Technical Education (JC/Poly/ITE).</p>
     <table class="yck-table">
