@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Non Academic Programmes
 variant: markdown
 ---
-The CCA Programme provides our students with a platform to discover their interests and talents. Students will progressively develop CCA-specific knowledge, skills, values and attitudes through sustained participation CCA.&nbsp; Explore the following tabs to learn more.
+<div>
+	<p>The CCA Programme provides our students with a platform to discover their interests and talents. Students will progressively develop CCA-specific knowledge, skills, values and attitudes through sustained participation CCA.&nbsp; Explore the following tabs to learn more.</p>
+	</div>
 
 <ul class="jekyllcodex_accordion">
 
@@ -13,7 +15,7 @@ The CCA Programme provides our students with a platform to discover their intere
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Clubs</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1"><h5>Clubs</h5></label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
@@ -196,5 +198,3 @@ The CCA Programme provides our students with a platform to discover their intere
 	line-height: 1.6rem;
 }	
 	</style>
-	
-	
