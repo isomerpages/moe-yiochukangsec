@@ -31,18 +31,7 @@ We are proud to have clinched the **IDE Series 2024 Robotics Competition** and r
 
 Join the **MARS Club** and be a part of the future of innovation and technology\! Together, let’s push the boundaries of creativity and exploration.
 
-
-<ul class="jekyllcodex_accordion">
-
-&nbsp;&nbsp;<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Training&nbsp;Schedule</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-<p> <b>MARs Club (Mechatronics, Aeronautics and Robotics)</b><br>
+<p> <b>TRAINING SCHEDULE</b><br>
 			<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -71,14 +60,17 @@ Join the **MARS Club** and be a part of the future of innovation and technology\
 </table>
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
-</li>
+
+
+<ul class="jekyllcodex_accordion">
+
+&nbsp;&nbsp;
 	<li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Events/Competitions&nbsp;&amp;&nbsp;Our&nbsp;Proudest&nbsp;Moments</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Events/Competitions&nbsp;&amp;&nbsp;Our&nbsp;Proudest&nbsp;Moments</label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
@@ -151,9 +143,9 @@ Join the **MARS Club** and be a part of the future of innovation and technology\
 	
 <li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Gallery</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Gallery</label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
