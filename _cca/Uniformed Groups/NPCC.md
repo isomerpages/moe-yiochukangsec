@@ -12,15 +12,6 @@ Through a variety of activities, values such as discipline, loyalty, integrity, 
 
 In NPCC, the cadets get a chance to learn more about the Singapore Police Force through their interactions at the Neighbourhood Police Centres and visits to the Singapore Police Establishments. Cadets are also exposed to various courses such as Anti-Drug Abuse, Basic Law, Crime Prevention, Crime Scene Investigation, First Aid, Police Procedures and SG Secure which widen their knowledge.
 
-
-<ul class="jekyllcodex_accordion">
-
-&nbsp;&nbsp;<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Training&nbsp;Schedule</label>
-
 <div>
   <table class="yck-table">
     <thead>
@@ -61,7 +52,17 @@ In NPCC, the cadets get a chance to learn more about the Singapore Police Force 
       </tr>
     </tbody>
   </table>
-</div></li>
+</div>
+
+<ul class="jekyllcodex_accordion">
+
+&nbsp;&nbsp;<li>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
+
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Training&nbsp;Schedule</label>
+
+</li>
     <li>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
