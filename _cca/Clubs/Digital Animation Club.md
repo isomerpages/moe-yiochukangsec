@@ -1,9 +1,14 @@
 ---
 title: Digital Animation Club
-permalink: /cca/Clubs/Digital-Animation-Club/
-description: ""
+permalink: /cca/clubs/digital-animation-club/
+description: '"Learn 2D animation with programs like CrazyTalk Animator,
+  Flipaclip, CapCut, and Keynote on iPad. Our structured program equips students
+  with creative and technical skills to produce animated films, preparing them
+  for infocomm courses and competitions like N.E.mation! Develop teamwork,
+  gratitude, and professional expertise with hands-on projects refined in Adobe
+  Premiere Pro and CapCut."'
 third_nav_title: Clubs
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/D1.png">

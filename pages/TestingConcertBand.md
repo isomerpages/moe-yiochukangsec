@@ -1,179 +1,128 @@
 ---
-title: Red Cross Youth
-permalink: /cca/Uniformed-Groups/Red-Cross-Youth/
-description: ""
-third_nav_title: Uniformed Groups
+title: TestingConcertBand
+permalink: /band/
+description: Page 4 Testing Porpoise
 variant: markdown
+image: /images/0cd1870b_103f_4767_8dfd_9abfe6e11817.jpg
 ---
-<div>
+# Test Page
 
-  <img alt="Red Cross Youth" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R1.jpg">
-    <p>
-      The primary goal of YCKSS’s Red Cross Youth Unit is to instill core values of compassion for humanity and a strong sense of civic responsibility. 
-      It also aims to impart skills and knowledge to its cadets to manage emergency scenarios and to make a difference in the lives of those in their community. 
-      The slogan for Red Cross Youth is <em>“Humanity in our Hands”</em>.
-    </p>
-    <p>
-      In YCKSS-RCY, we believe in developing caring and responsible individuals, who serve with humility, integrity, and excellence.
-    </p>
-</div>
-
-
-<div>
-<table class="yck-table">
-  <thead>
-    <tr>
-      <th class="yck-th h5">TRAINING SCHEDULE
-      </th>
-      <th class="yck-th">
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="yck-td"><p>Day &amp; Time</p></td>
-      <td class="yck-td"><p>Every Tuesday<br>3:00PM to 5:30PM</p></td>
-    </tr>
-    <tr>
-      <td class="yck-td">Location</td>
-      <td class="yck-td">RED CROSS Room &amp; <br>Blk E, Level 1 Classrooms</td>
-    </tr>
-    <tr>
-      <td class="yck-td">OTHER DAYS</td>
-      <td class="yck-td">Additional Involvement <br>for HQ activities</td>
-    </tr>
-    <tr>
-      <td class="yck-td"><strong>Teacher OIC</strong></td>
-      <td class="yck-td"><strong>Ms Lim Li Whey (ext 176)</strong></td>
-    </tr>
-    <tr>
-      <td class="yck-td">Other Teachers</td>
-      <td class="yck-td">
-        Mr Chong Kai Yang (ext 133)<br>
-        Mr Lim Chee Wee (ext 126)<br>
-        Ms Foo Ger Maine (ext 137)
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
-<div>
-<details class="yck-details">
-    <summary class="yck-details__summary h5">Proudest Moments</summary>
-    <div class="yck-details__content"><div>
-            <table class="yck-table">
-                <thead>
-                    <tr>
-                        <th class="yck-th">Year</th>
-                        <th class="yck-th">Awards</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td class="yck-td yck-strong">2024</td>
-                        <td class="yck-td">2024 First Aid Championships (Junior) - Bronze<br> 2024 First Aid Championships (Senior) - Bronze<br> Director’s Award - Warrant Officer Karen Koh Sze Yee </td>
-                    </tr>
-                    <tr>
-                        <td class="yck-td yck-strong">2023</td>
-                        <td class="yck-td">2023 Excellent Unit Award - Gold<br> 2023 First Aid Championships (Junior) - Silver<br> 2023 First Aid Championships (Senior) - Bronze </td>
-                    </tr>
-                </tbody>
-            </table>
-        </div></div>
-</details>
-
-<details class="yck-details">
-    <summary class="yck-details__summary h5">Events &amp; Competitions</summary>
-    <div class="yck-details__content">
-      <ul class="yck-flexbox-grid">
-<li>            <table class="yck-table">
-  <thead>
-    <tr>
-      <th class="yck-th h5">Internal Programmes</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="yck-td">Sec 3 Leadership Training Course</td>
-    </tr>
-    <tr>
-      <td class="yck-td">Speech Day &amp; National Day Parades</td>
-    </tr>
-    <tr>
-      <td class="yck-td">First Aid Coverage for school events like Sports Carnival, Health Fiesta, etc</td>
-    </tr>
-    <tr>
-      <td class="yck-td">Annual Home Visit</td>
-    </tr>
-    <tr>
-      <td class="yck-td">Fund raising for Singapore Red Cross</td>
-    </tr>
-    <tr>
-      <td class="yck-td">Unit Camp</td>
-    </tr>
-  </tbody>
-</table></li>
+  <ul class="yck-flexbox-grid">
 <li>
-<table class="yck-table">
-  <thead>
-    <tr>
-      <th class="yck-th h5">HQ Programmes</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="yck-td">Gold Modular Workshops <br><small>(First Aid, Red Cross Knowledge, Youth Ambassador Blood Programme &amp; Disaster Management)</small></td>
-    </tr>
-    <tr>
-      <td class="yck-td">World Red Cross Day</td>
-    </tr>
-    <tr>
-      <td class="yck-td">Central District Orientation</td>
-    </tr>
-    <tr>
-      <td class="yck-td">Red Cross Flag Day</td>
-    </tr>
-    <tr>
-      <td class="yck-td">Warrant Officers Programme</td>
-    </tr>
-    <tr>
-      <td class="yck-td">Central District Leadership Workshop</td>
-    </tr>
-  </tbody>
-</table></li></ul>
+  <img alt="Red Cross Youth 1" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/1_RedCrossYouth_2025.jpg">
+</li>
+<li>
+  <img alt="Red Cross Youth 2" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/2_RedCrossYouth_2025.jpg">
+</li>
+<li>
+  <img alt="Red Cross Youth 3" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/3_RedCrossYouth_2025.jpg">
+</li>
+<li>
+  <img alt="Red Cross Youth 4" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/4_RedCrossYouth_2025.jpg">
+</li>
+<li>
+  <img alt="Red Cross Youth 5" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/5_RedCrossYouth_2025.jpg">
+</li>
+<li>
+  <img alt="Red Cross Youth 6" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/6_RedCrossYouth_2025.jpg">
+</li>
+<li>
+  <img alt="Red Cross Youth 7" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/7_RedCrossYouth_2025.jpg">
+</li>
+    <li>
+    <img alt="Concert Band image 1" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_1.jpg">
+</li>
+<li>
+    <img alt="Concert Band image 2" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_2.jpg">
+</li>
+<li>
+    <img alt="Concert Band image 3" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_3.jpg">
+</li>
+<li>
+    <img alt="Concert Band image 4" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_4.jpg">
+</li>
+<li>
+    <img alt="Concert Band image 5" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_5.jpg">
+</li>
+<li>
+    <img alt="Concert Band image 6" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_6.jpg">
+</li>
+<li>
+    <img alt="Concert Band image 7" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_7.jpg">
+</li>
+<li>
+    <img alt="Indian Dance image 1" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_2025_1.jpg">
+</li>
+<li>
+    <img alt="Indian Dance image 2" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_9.jpg">
+</li>
+<li>
+    <img alt="Indian Dance image 3" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_0.jpg">
+</li>
+<li>
+    <img alt="Indian Dance image 4" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_2.jpg">
+</li>
+<li>
+    <img alt="Indian Dance image 5" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_5.jpg">
+</li>
+</ul>
+<hr>
+ 
+
+<blockquote>"Not all things turn out well. Use this to test the battleground ..."</blockquote>
+
+<details class="yck-details">
+    <summary class="yck-details__summary">59th Speech &amp; Prize Giving Day</summary>
+    <div class="yck-details__content">
+        <a href="https://www.youtube.com/watch?v=iivxaYHg7HY">
+            <img alt="59th Speech &amp; Prize Giving Day - Full Performance 26 May 2024" src="https://res.cloudinary.com/marcomontalbano/image/upload/v1717727983/video_to_markdown/images/youtube--iivxaYHg7HY-c05b58ac6eb4c4700831b2b3070cd403.jpg">
+        </a>
+        <a href="https://www.youtube.com/watch?v=vXqtR-VJkn4">
+            <img alt="Highlights from 59th Speech &amp; Prize Giving Day" src="https://res.cloudinary.com/marcomontalbano/image/upload/v1717728267/video_to_markdown/images/youtube--vXqtR-VJkn4-c05b58ac6eb4c4700831b2b3070cd403.jpg">
+        </a>
     </div>
 </details>
 
 <details class="yck-details">
-    <summary class="yck-details__summary h5">Gallery</summary>
+    <summary class="yck-details__summary">58th Speech &amp; Prize Giving Day</summary>
     <div class="yck-details__content">
-      <div>
-      <ul class="yck-flexbox-grid"> 
-<li><img alt="Red Cross Youth 1" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/1_RedCrossYouth_2025.jpg"></li>
-
-<li><img alt="Red Cross Youth 2" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/2_RedCrossYouth_2025.jpg"></li>
-
-<li><img alt="Red Cross Youth 3" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/3_RedCrossYouth_2025.jpg"></li>
-
-<li><img alt="Red Cross Youth 4" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/4_RedCrossYouth_2025.jpg"></li>
-
-<li><img alt="Red Cross Youth 5" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/5_RedCrossYouth_2025.jpg"></li>
-
-<li><img alt="Red Cross Youth 6" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/6_RedCrossYouth_2025.jpg"></li>
-
-<li><img alt="Red Cross Youth 7" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/7_RedCrossYouth_2025.jpg"></li>
-        
-</ul>
-      <ul>
-        <li><img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R2.png"></li>
-       <li> <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R3.png"></li>
-</ul></div>
-  </div>
+        <p>At the durian feast held on 31st July 2019, our staff were spoiled for choices. With a variety of fruits to choose from, the King of fruits was definitely the favourite. Staff who tried the Mao Shan Wang (MSW) durian, known to be the premium type, commented on its rich, bitter and heavily rich flavour.</p>
+        <p>It was indeed a great way to end the day and we had an enjoyable bonding session over the feasting.</p>
+        <img alt="Many happy and contented faces after a fruitful feast" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S17.png">
+        <img alt="Many happy and contented faces after a fruitful feast" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S18.png">
+        <img alt="Many happy and contented faces after a fruitful feast" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S19.png">
+    </div>
 </details>
 
-</div>
+<details class="yck-details">
+    <summary class="yck-details__summary">57th Speech &amp; Prize Giving Day</summary>
+    <div class="yck-details__content">
+        <a href="https://www.youtube.com/watch?v=_WaoEa4PJzU">
+            <img alt="Highlights from 57th Speech &amp; Prize Giving Day" src="https://res.cloudinary.com/marcomontalbano/image/upload/v1717728764/video_to_markdown/images/youtube--_WaoEa4PJzU-c05b58ac6eb4c4700831b2b3070cd403.jpg">
+        </a>
+    </div>
+</details>
+
+<details class="yck-details">
+    <summary class="yck-details__summary">56th Speech &amp; Prize Giving Day</summary>
+    <div class="yck-details__content">
+        <a href="https://www.youtube.com/watch?v=aHeeaGQKlwQ">
+            <img alt="Highlights from 56th Speech &amp; Prize Giving Day" src="/images/Our%20Story/Speech%20Day/56SpeechDay.jpg">
+        </a>
+    </div>
+</details>
+
+<details class="yck-details">
+    <summary class="yck-details__summary">Concert Band Photos</summary>
+    <div class="yck-details__content">
+        <div class="yck-list">
+            <img alt="Concert Band image 1" src="image1.jpg">
+            <img alt="Concert Band image 2" src="image2.jpg">
+        </div>
+    </div>
+</details>
+
+<hr>
 
 <style>
 /* ==========================================================================
@@ -183,9 +132,24 @@ variant: markdown
 
 :root {
   /* Color Scheme */
+  --color-primary: inherit;
+  --color-secondary: inherit;
+  --color-accent:  inherit;
+  --color-background:  inherit;
+  --color-text:  inherit;
+  --color-text-light:  #888888;
+  --color-link: var(--color-primary);
+  --color-link-hover: var(--color-accent);
   --color-border: #e0e0e0;
-  --color-text-light: #888888;
-	
+
+  /* Typography Decorations */
+  --heading-font-weight: 700;
+  --text-line-height: 1.5;
+  --heading-line-height: 1.2;
+  --link-decoration: none;
+  --link-decoration-hover: none; /* Changed to none */
+  --heading-letter-spacing: -0.02em;
+
   /* Animation */
   --transition-speed: 0.8s; /* Added transition speed variable */
   --transition-timing: cubic-bezier(0.4, 0, 0.2, 1); /* Added smooth easing */
@@ -210,19 +174,39 @@ variant: markdown
 /* ==========================================================================
    Reset & Base Styles
    ========================================================================== */
+/* 1. Use a more-intuitive box-sizing model */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
 
+/* Reset Margins and Padding */
+* {
+  margin: 0;
+  padding: 0;  /* [2] Reset default margins and padding to create a consistent baseline for styling. */
+
+}
 
 html {
   font-size: 100%; /* [3] Define base font size in percentage for accessibility. */
+  size-interpolation: allow-keywords;
 }
 
 body {
   min-height: 100vh;
   scroll-behavior: smooth;
   text-rendering: optimizeSpeed;
+  line-height: var(--text-line-height);
   font-size: var(--step-0);
+  color: var(--color-text);
+  background-color: var(--color-background);
   /* 4. Improve text rendering */
   -webkit-font-smoothing: antialiased;
+}
+
+/* 5. Improve media defaults */
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
 }
 
 /* ==========================================================================
@@ -272,6 +256,13 @@ td {
   word-wrap: break-word; /* Ensure long content wraps within cells */
 }
 
+/* 
+
+/* 6. Inherit fonts for form controls */
+input, button, textarea, select {
+  font: inherit;
+}
+
 /* 7. Avoid text overflows */
 p, h1, h2, h3, h4, h5, h6 {
   overflow-wrap: break-word;
@@ -306,9 +297,10 @@ h4,
 .h4,
 h5,
 .h5 {
-  font-weight: inherit;
-  line-height: inherit;
-  letter-spacing: inherit;
+  font-weight: var(--heading-font-weight);
+  line-height: var(--heading-line-height);
+  letter-spacing: var(--heading-letter-spacing);
+  color: var(--color-secondary);
 }
 
 h1,
@@ -344,10 +336,12 @@ h5,
 small,
 .text-small {
   font-size: var(--step--1);
+  color: var(--color-text-light);
 }
 
 .text-xs {
   font-size: var(--step--2);
+  color: var(--color-text-light);
 }
 
 p,
@@ -355,6 +349,7 @@ ul,
 ol {
   font-size: var(--step-0);
   margin-bottom: var(--spacing-unit);
+  color: var(--color-text);
 }
 
 .yck-details__content ul, .yck-details__content ol, .yck-details__content ul li,

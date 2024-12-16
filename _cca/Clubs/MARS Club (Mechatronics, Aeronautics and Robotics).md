@@ -7,21 +7,32 @@ variant: markdown
 ---
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/MARs%20Club/M1.jpg)
 
-The MARs (Mechatronics, Aeronautics and Robotics) Club was set up in January 2018 specifically to nurture a spirit of exploration and innovation where our students can channel their creative energies. We adopt the problem-based learning approach and students are provided with many opportunities to apply their knowledge into practical sessions. This is in-line with the focus on STEM (science, technology, engineering and mathematics) curriculum. The MARs Club adopts this interdisciplinary and applied approach in their activities, creating a cohesive, authentic learning experience for our students.
+At **Yio Chu Kang Secondary School**, the **Mechatronics, Aeronautics, and Robotics Society (MARS)** Club is where innovation meets exploration\! Our club focuses on **robotics**, **drones**, and the exciting realms of **STEM (Science, Technology, Engineering, and Mathematics)**.
 
+**What We Do:**
 
-<ul class="jekyllcodex_accordion">
+ **Robotics**: Dive into the world of automation and intelligent design. Learn to build, program, and compete with robots in various challenges.  
+**Drones**: Explore aeronautics by designing, flying, and mastering drones while understanding the technology behind them.  
+**STEM Alignment**: Apply engineering principles, enhance critical thinking, and collaborate on cutting-edge projects that prepare you for the future.
 
-&nbsp;&nbsp;<li>
+**Why Join Us?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
+* **Hands-On Learning**: Gain practical experience with tools and technologies that bring your ideas to life.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Training&nbsp;Schedule</label>
+* **Competitions &amp; Showcases**: Represent YCKSS in national and international robotics competitions.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
+* **Collaborative Spirit**: Work in teams to solve real-world problems through innovation and creativity.
 
-<p> <b>MARs Club (Mechatronics, Aeronautics and Robotics)</b><br>
-			<style type="text/css">
+* **Future-Ready Skills**: Develop critical skills that align with Singapore’s **Smart Nation** vision and prepare for a high-tech future.
+
+**Recent Achievements**
+
+We are proud to have clinched the **IDE Series 2024 Robotics Competition** and regularly participate in prestigious events like the **National Robotics Competition** and other STEM-focused initiatives.
+
+Join the **MARS Club** and be a part of the future of innovation and technology\! Together, let’s push the boundaries of creativity and exploration.
+
+<p> <b>TRAINING SCHEDULE</b><br>
+<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -41,22 +52,23 @@ The MARs (Mechatronics, Aeronautics and Robotics) Club was set up in January 201
 </thead>
 <tbody>
   <tr>
-    <td class="tg-jikt">Mr Wee Daiqi (ext 217)<br>Mr Foo Sian Kok,<br>Simon (ext 142),<br>Mr Vijeyaa Kumaran (ext 129)</td>
-    <td class="tg-ozs2"><span style="font-weight:bolder">President</span><br>Muhammad Aslam Bin Mohamad Fazli<br><span style="font-weight:bolder">Vice-President</span><br>Nathan Ian Arollado</td>
+    <td class="tg-jikt">Mr Wee Daiqi (ext 217)<br>Mr Foo Sian Kok,<br>Simon (ext 142),<br>Mdm Connie Yeo (ext 124)</td>
+    <td class="tg-ozs2"><span style="font-weight:bolder">President</span><br>RIESHARN NESWAR MURALI<br><span style="font-weight:bolder">Vice-President</span><br>ELGIN TAN SIE YUAN</td>
     <td class="tg-ozs2"><span style="font-weight:bolder">Every Tuesday &amp; Thursday</span><br>3.00pm to 5.30pm<br><span style="font-weight:bolder">Venue :</span> Techno Sphere</td>
   </tr>
 </tbody>
 </table>
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
-</li>
+<ul class="jekyllcodex_accordion">
+
+&nbsp;&nbsp;
 	<li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Events/Competitions&nbsp;&amp;&nbsp;Our&nbsp;Proudest&nbsp;Moments</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Events/Competitions&nbsp;&amp;&nbsp;Our&nbsp;Proudest&nbsp;Moments</label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
@@ -129,9 +141,9 @@ The MARs (Mechatronics, Aeronautics and Robotics) Club was set up in January 201
 	
 <li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Gallery</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Gallery</label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
