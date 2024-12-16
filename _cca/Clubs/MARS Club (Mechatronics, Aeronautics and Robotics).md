@@ -7,7 +7,29 @@ variant: markdown
 ---
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/MARs%20Club/M1.jpg)
 
-The MARs (Mechatronics, Aeronautics and Robotics) Club was set up in January 2018 specifically to nurture a spirit of exploration and innovation where our students can channel their creative energies. We adopt the problem-based learning approach and students are provided with many opportunities to apply their knowledge into practical sessions. This is in-line with the focus on STEM (science, technology, engineering and mathematics) curriculum. The MARs Club adopts this interdisciplinary and applied approach in their activities, creating a cohesive, authentic learning experience for our students.
+At **Yio Chu Kang Secondary School**, the **Mechatronics, Aeronautics, and Robotics Society (MARS)** Club is where innovation meets exploration\! Our club focuses on **robotics**, **drones**, and the exciting realms of **STEM (Science, Technology, Engineering, and Mathematics)**.
+
+**What We Do:**
+
+ **Robotics**: Dive into the world of automation and intelligent design. Learn to build, program, and compete with robots in various challenges.  
+**Drones**: Explore aeronautics by designing, flying, and mastering drones while understanding the technology behind them.  
+**STEM Alignment**: Apply engineering principles, enhance critical thinking, and collaborate on cutting-edge projects that prepare you for the future.
+
+**Why Join Us?**
+
+* **Hands-On Learning**: Gain practical experience with tools and technologies that bring your ideas to life.
+
+* **Competitions &amp; Showcases**: Represent YCKSS in national and international robotics competitions.
+
+* **Collaborative Spirit**: Work in teams to solve real-world problems through innovation and creativity.
+
+* **Future-Ready Skills**: Develop critical skills that align with Singapore’s **Smart Nation** vision and prepare for a high-tech future.
+
+**Recent Achievements**
+
+We are proud to have clinched the **IDE Series 2024 Robotics Competition** and regularly participate in prestigious events like the **National Robotics Competition** and other STEM-focused initiatives.
+
+Join the **MARS Club** and be a part of the future of innovation and technology\! Together, let’s push the boundaries of creativity and exploration.
 
 
 <ul class="jekyllcodex_accordion">
