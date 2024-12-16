@@ -32,7 +32,7 @@ We are proud to have clinched the **IDE Series 2024 Robotics Competition** and r
 Join the **MARS Club** and be a part of the future of innovation and technology\! Together, let’s push the boundaries of creativity and exploration.
 
 <p> <b>TRAINING SCHEDULE</b><br>
-			<style type="text/css">
+<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -52,15 +52,13 @@ Join the **MARS Club** and be a part of the future of innovation and technology\
 </thead>
 <tbody>
   <tr>
-    <td class="tg-jikt">Mr Wee Daiqi (ext 217)<br>Mr Foo Sian Kok,<br>Simon (ext 142),<br>Mr Vijeyaa Kumaran (ext 129)</td>
-    <td class="tg-ozs2"><span style="font-weight:bolder">President</span><br>Muhammad Aslam Bin Mohamad Fazli<br><span style="font-weight:bolder">Vice-President</span><br>Nathan Ian Arollado</td>
+    <td class="tg-jikt">Mr Wee Daiqi (ext 217)<br>Mr Foo Sian Kok,<br>Simon (ext 142),<br>Mdm Connie Yeo (ext 124)</td>
+    <td class="tg-ozs2"><span style="font-weight:bolder">President</span><br>RIESHARN NESWAR MURALI<br><span style="font-weight:bolder">Vice-President</span><br>ELGIN TAN SIE YUAN</td>
     <td class="tg-ozs2"><span style="font-weight:bolder">Every Tuesday &amp; Thursday</span><br>3.00pm to 5.30pm<br><span style="font-weight:bolder">Venue :</span> Techno Sphere</td>
   </tr>
 </tbody>
 </table>
 </p>
-
-
 
 
 <ul class="jekyllcodex_accordion">
