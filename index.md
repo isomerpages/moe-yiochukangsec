@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: DIRECT SCHOOL ADMISSION 2024
+        - title: 2025 Sec 1 Information
           description: Click here
-          url: /our-family/Students/Direct-School-Admission/
+          url: https://sites.google.com/moe.edu.sg/yckss-sec-1-2025
         - title: CALENDAR
           description: Click here
           url: https://sites.google.com/moe.edu.sg/2023-yckss-calendar
