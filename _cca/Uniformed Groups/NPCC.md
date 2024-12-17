@@ -55,19 +55,11 @@ In NPCC, the cadets get a chance to learn more about the Singapore Police Force 
 </div>
 
 <ul class="jekyllcodex_accordion">
-
-&nbsp;&nbsp;<li>
+    <li>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Training&nbsp;Schedule</label>
-
-</li>
-    <li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Proudest&nbsp;Moments</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Proudest&nbsp;Moments</label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
@@ -81,9 +73,9 @@ In NPCC, the cadets get a chance to learn more about the Singapore Police Force 
     
 <li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Events/Competitions</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Events/Competitions</label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
@@ -99,9 +91,9 @@ In NPCC, the cadets get a chance to learn more about the Singapore Police Force 
     
 <li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">Gallery</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Gallery</label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
