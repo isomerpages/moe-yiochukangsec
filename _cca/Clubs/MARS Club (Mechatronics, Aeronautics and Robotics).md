@@ -160,3 +160,75 @@ Join the **MARS Club** and be a part of the future of innovation and technology\
 
 	
 </ul>
+
+<style>
+/* Base styles for the accordion */
+.jekyllcodex_accordion {
+  margin: 1.4rem 0 !important;
+  padding: 0;
+  list-style: none; /* Remove bullets from the main list */
+  /* border-bottom: 1px solid rgba(0, 0, 0, 0.25); */
+}
+.jekyllcodex_accordion > li {
+  border-top: 1px solid rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  transition: border-color 0.7s;
+}
+.jekyllcodex_accordion > li:hover {
+  border-color: #555;
+}
+.jekyllcodex_accordion > li > label {
+  display: block;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: clamp(1.5rem, 4vw, 2.25rem);
+}
+.jekyllcodex_accordion > li > label::before {
+  content: "+";
+  font-size: 1.25rem;
+  color: #999;
+  margin-right: 0.5rem;
+  transition: transform 0.5s ease-in-out;
+}
+.jekyllcodex_accordion > li > div {
+  max-height: auto;
+  opacity: 0;
+  overflow: hidden;
+  transition: max-height 0.5s ease, opacity 0.5s ease;
+  padding: 0;
+}
+.jekyllcodex_accordion > li > input {
+  display: none;
+}
+.jekyllcodex_accordion > li > input:checked + label::before {
+  transform: rotate(-45deg);
+}
+.jekyllcodex_accordion > li > input:checked + label + div {
+  max-height: auto;
+  opacity: 1;
+}
+.jekyllcodex_accordion > li > div > p {
+  margin: 0;
+  color: #555;
+}
+/* Ensure no bullet points for ALL nested ul within jekyllcodex_accordion */
+.jekyllcodex_accordion ul,
+.jekyllcodex_accordion ol {
+    list-style: none; /* Remove bullet points and numbers */
+    padding-left: 0; /* Remove default indentation */
+    margin-left: 0;  /* Extra margin reset for some browsers */
+}
+/* Reset nested li within any div or ul */
+.jekyllcodex_accordion li > div ul > li,
+.jekyllcodex_accordion li > div ol > li {
+    list-style: none; /* Ensures nested lists have no bullets or numbers */
+}
+/* Remove bullet points from any nested ul */
+.jekyllcodex_accordion ul {
+  list-style: none; /* Disable bullet points for nested lists */
+  padding-left: 0; /* Remove default padding */
+}
+.jekyllcodex_accordion ul > li {
+  padding-left: 1rem; /* Optional: Adjust left padding for better alignment */
+}
+</style>
