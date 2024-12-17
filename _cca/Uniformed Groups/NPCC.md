@@ -237,19 +237,6 @@ touch-action: manipulation;
 box-shadow: rgba(0, 0, 0, .25) 0 3px 9px 0;
 transform: translateY(-2px);
 }
-html {
-  size-interpolation: allow-keywords;
-}
-
-ul, ol, li {
-  list-style: none;
-  margin: 0;
-}
-
-img {
-  max-width: 100%;
-  height: auto;
-}
 
 .yck-strong {
   font-weight: 700;
@@ -343,6 +330,67 @@ img {
   padding: 0.5rem clamp(0.5rem, 5%, 2rem);
   color: #555;
 }	
+	
+/* Base styles for the accordion */
+.jekyllcodex_accordion {
+  margin: 1.4rem 0 !important;
+  padding: 0;
+  list-style: none; /* Remove bullets from the main list */
+  /* border-bottom: 1px solid rgba(0, 0, 0, 0.25); */
+}
+.jekyllcodex_accordion > li {
+  border-top: 1px solid rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  transition: border-color 0.7s;
+}
+.jekyllcodex_accordion > li:hover {
+  border-color: #555;
+}
+.jekyllcodex_accordion > li > label {
+  display: block;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: clamp(1.5rem, 4vw, 2.25rem);
+}
+.jekyllcodex_accordion > li > label::before {
+  content: "+";
+  font-size: 1.25rem;
+  color: #999;
+  margin-right: 0.5rem;
+  transition: transform 0.5s ease-in-out;
+}
+.jekyllcodex_accordion > li > div {
+  max-height: auto;
+  opacity: 0;
+  overflow: hidden;
+  transition: max-height 0.5s ease, opacity 0.5s ease;
+  padding: 0;
+}
+.jekyllcodex_accordion > li > input {
+  display: none;
+}
+.jekyllcodex_accordion > li > input:checked + label::before {
+  transform: rotate(-45deg);
+}
+.jekyllcodex_accordion > li > input:checked + label + div {
+  max-height: auto;
+  opacity: 1;
+}
+.jekyllcodex_accordion > li > div > p {
+  margin: 0;
+  color: #555;
+}
+/* Ensure no bullet points for ALL nested ul within jekyllcodex_accordion */
+.jekyllcodex_accordion ul,
+.jekyllcodex_accordion ol {
+    list-style: none; /* Remove bullet points and numbers */
+    padding-left: 0; /* Remove default indentation */
+    margin-left: 0;  /* Extra margin reset for some browsers */
+}
+
+.jekyllcodex_accordion ul > li {
+  padding-left: 1rem; /* Optional: Adjust left padding for better alignment */
+}
 	
 	</style>
 </div></li>
