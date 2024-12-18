@@ -34,8 +34,9 @@ variant: markdown
 
 <hr>
 
-<details>
-<summary><h3>Our Achievements</h3></summary>
+<details class="yck-details">
+<summary class="yck-details__summary"><h3>Our Achievements</h3></summary>
+<div class="yck-details__content">
 <table class="yck-table">
 <tbody>
 <tr><th class="yck-th"><h5>2023</h5></th></tr>
@@ -70,6 +71,7 @@ variant: markdown
 <tr><td class="yck-td">SYF Central Judging - Gold with Honours for SYF</td></tr>
 </tbody>
 </table>
+</div>
 </details>
 
 <h3>Gallery</h3>
@@ -87,8 +89,9 @@ variant: markdown
 <img alt="Indian Dance 3" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_3.PNG">
 </div>
 
-<details>
-<summary><h4>Past Gallery</h4></summary>
+<details class="yck-details">
+<summary class="yck-details__summary"><h4>Past Gallery</h4></summary>
+<div class="yck-details__content">
 <div class="wrapper">
 <img alt="Indian Dance 4" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I4.png">
 <img alt="Indian Dance 5" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I5.png">
@@ -96,6 +99,7 @@ variant: markdown
 <img alt="Indian Dance 7" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I7.png">
 <img alt="Indian Dance 8" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I8.png">
 <img alt="Indian Dance 9" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I9.png">
+</div>
 </div>
 </details>
 <hr>
