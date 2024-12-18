@@ -13,33 +13,33 @@ variant: markdown
 
 <p>In NPCC, the cadets get a chance to learn more about the Singapore Police Force through their interactions at the Neighbourhood Police Centres and visits to the Singapore Police Establishments. Cadets are also exposed to various courses such as Anti-Drug Abuse, Basic Law, Crime Prevention, Crime Scene Investigation, First Aid, Police Procedures and SG Secure which widen their knowledge.</p>
 
-<table>
+<table class="yck-table">
 <thead>
 <tr>
-<th><h5>TRAINING SCHEDULE</h5></th>
-<th><h5></h5></th>
+<th class="yck-th"><h5>TRAINING SCHEDULE</h5></th>
+<th class="yck-th"><h5></h5></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Day &amp; Time</td>
-<td>Every Tuesday 3:00PM to 5:30PM</td>
+<td class="yck-td">Day &amp; Time</td>
+<td class="yck-td">Every Tuesday 3:00PM to 5:30PM</td>
 </tr>
 <tr>
-<td>Location</td>
-<td>NPCC Room &amp; Blk D L1 Classroom</td>
+<td class="yck-td">Location</td>
+<td class="yck-td">NPCC Room &amp; Blk D L1 Classroom</td>
 </tr>
 <tr>
-<td>Additional Involvement</td>
-<td>Additional involvement on other days for HQ activities</td>
+<td class="yck-td">Additional Involvement</td>
+<td class="yck-td">Additional involvement on other days for HQ activities</td>
 </tr>
 <tr>
-<td><strong>Teacher OIC</strong></td>
-<td><strong>Ms Goh Yu Fan (ext 174)</strong></td>
+<td class="yck-td"><strong>Teacher OIC</strong></td>
+<td class="yck-td"><strong>Ms Goh Yu Fan (ext 174)</strong></td>
 </tr>
 <tr>
-<td>Other Teachers</td>
-<td>Mr Wong Mingwei (ext 141),<br>Mr Goh Kok Hoe Octave (ext 136),<br>Mr Joseph C. George (ext 148),<br>Mrs Cindy Ong Kim Leng (ext 139)</td>
+<td class="yck-td">Other Teachers</td>
+<td class="yck-td">Mr Wong Mingwei (ext 141),<br>Mr Goh Kok Hoe Octave (ext 136),<br>Mr Joseph C. George (ext 148),<br>Mrs Cindy Ong Kim Leng (ext 139)</td>
 </tr>
 </tbody>
 </table>
@@ -49,27 +49,27 @@ variant: markdown
 <input type="checkbox" id="accordion1">
 <label for="accordion1">Proudest Moments</label>
 <div>
-<table>
+<table class="yck-table">
 <thead>
 <tr>
-<th><h5>2024</h5></th>
+<th class="yck-th"><h5>2024</h5></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>SPF-NPCC Badge Recipient: SSGT (NPCC) Aden Bin Azam</td>
+<td class="yck-td">SPF-NPCC Badge Recipient: SSGT (NPCC) Aden Bin Azam</td>
 </tr>
 <tr>
-<td>SPF-NPCC Badge Recipient: SSGT (NPCC) Tay Yu Qi Natalie (Zheng Yuqi)</td>
+<td class="yck-td">SPF-NPCC Badge Recipient: SSGT (NPCC) Tay Yu Qi Natalie (Zheng Yuqi)</td>
 </tr>
 <tr>
-<td>Inter-Unit .22 Revolver Shooting Competition (Individual Category - Boys): Louis Wong National 6th position</td>
+<td class="yck-td">Inter-Unit .22 Revolver Shooting Competition (Individual Category - Boys): Louis Wong National 6th position</td>
 </tr>
 <tr>
-<th><h5>2023</h5></th>
+<th class="yck-th"><h5>2023</h5></th>
 </tr>
 <tr>
-<td>Unit Overall Proficiency Award: Distinction</td>
+<td class="yck-td">Unit Overall Proficiency Award: Distinction</td>
 </tr>
 </tbody>
 </table>
@@ -80,52 +80,52 @@ variant: markdown
 <input type="checkbox" id="accordion2">
 <label for="accordion2">Events/Competitions</label>
 <div>
-<table>
+<table class="yck-table">
 <thead>
 <tr>
-<th><h5>Events</h5></th>
+<th class="yck-th"><h5>Events</h5></th>
 </tr>
 </thead>
 <tbody>
-<tr><td>Air Pistol Shooting Programme</td></tr>
-<tr><td>Annual Unit Camp</td></tr>
-<tr><td>Area 11 Adventure and Survival Training Camps at Pulau Ubin</td></tr>
-<tr><td>Area 11 Secondary One Cadets Swearing In Ceremony</td></tr>
-<tr><td>Area 11 Games Day</td></tr>
-<tr><td>Crime Prevention Programme</td></tr>
-<tr><td>Home Team Gallery Visit</td></tr>
-<tr><td>K-9 Dog Unit Visit</td></tr>
-<tr><td>Neighbourhood Police Centre Visit</td></tr>
-<tr><td>NPCC Annual Parade (NPAP)</td></tr>
-<tr><td>Police Heritage Visit</td></tr>
-<tr><td>Police Youth Ambassador</td></tr>
-<tr><td>Sports Enrichment Programme (SEP)</td></tr>
-<tr><td>Total Defence Programme</td></tr>
-<tr><td>YCKSS National Day Parade</td></tr>
-<tr><td>YCKSS Speech Day Parade</td></tr>
+<tr><td class="yck-td">Air Pistol Shooting Programme</td></tr>
+<tr><td class="yck-td">Annual Unit Camp</td></tr>
+<tr><td class="yck-td">Area 11 Adventure and Survival Training Camps at Pulau Ubin</td></tr>
+<tr><td class="yck-td">Area 11 Secondary One Cadets Swearing In Ceremony</td></tr>
+<tr><td class="yck-td">Area 11 Games Day</td></tr>
+<tr><td class="yck-td">Crime Prevention Programme</td></tr>
+<tr><td class="yck-td">Home Team Gallery Visit</td></tr>
+<tr><td class="yck-td">K-9 Dog Unit Visit</td></tr>
+<tr><td class="yck-td">Neighbourhood Police Centre Visit</td></tr>
+<tr><td class="yck-td">NPCC Annual Parade (NPAP)</td></tr>
+<tr><td class="yck-td">Police Heritage Visit</td></tr>
+<tr><td class="yck-td">Police Youth Ambassador</td></tr>
+<tr><td class="yck-td">Sports Enrichment Programme (SEP)</td></tr>
+<tr><td class="yck-td">Total Defence Programme</td></tr>
+<tr><td class="yck-td">YCKSS National Day Parade</td></tr>
+<tr><td class="yck-td">YCKSS Speech Day Parade</td></tr>
 </tbody>
 </table>
 
-<table>
+<table class="yck-table">
 <thead>
 <tr>
-<th><h5>Courses</h5></th>
+<th class="yck-th"><h5>Courses</h5></th>
 </tr>
 </thead>
 <tbody>
-<tr><td>Basic Law Course</td></tr>
-<tr><td>Cadet Leader Course</td></tr>
-<tr><td>Campcraft Course</td></tr>
-<tr><td>Crime Scene Investigation Course</td></tr>
-<tr><td>Drill Course</td></tr>
-<tr><td>Homefront Security Course</td></tr>
-<tr><td>Leadership and Mentoring Skills Course</td></tr>
-<tr><td>Marksmanship Course</td></tr>
-<tr><td>Non-Commissioned Officer Course</td></tr>
-<tr><td>Oral Communication Course</td></tr>
-<tr><td>Police Procedures Course</td></tr>
-<tr><td>Road Safety Course</td></tr>
-<tr><td>Unarmed Tactics Course</td></tr>
+<tr><td class="yck-td">Basic Law Course</td></tr>
+<tr><td class="yck-td">Cadet Leader Course</td></tr>
+<tr><td class="yck-td">Campcraft Course</td></tr>
+<tr><td class="yck-td">Crime Scene Investigation Course</td></tr>
+<tr><td class="yck-td">Drill Course</td></tr>
+<tr><td class="yck-td">Homefront Security Course</td></tr>
+<tr><td class="yck-td">Leadership and Mentoring Skills Course</td></tr>
+<tr><td class="yck-td">Marksmanship Course</td></tr>
+<tr><td class="yck-td">Non-Commissioned Officer Course</td></tr>
+<tr><td class="yck-td">Oral Communication Course</td></tr>
+<tr><td class="yck-td">Police Procedures Course</td></tr>
+<tr><td class="yck-td">Road Safety Course</td></tr>
+<tr><td class="yck-td">Unarmed Tactics Course</td></tr>
 </tbody>
 </table>
 </div>
