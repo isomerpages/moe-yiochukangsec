@@ -135,30 +135,32 @@ In NPCC, the cadets get a chance to learn more about the Singapore Police Force 
 
 
 <style>
-                                    @charset "UTF-8";
-                                    canvas,
-                                    img,
-                                    picture,
-                                    svg,
-                                    video {
-                                        display: block;
-                                        max-width: 100%
-                                    }
-                                    button,
-                                    input,
-                                    select,
-                                    textarea {
-                                        font: inherit
-                                    }
-                                    h1,
-                                    h2,
-                                    h3,
-                                    h4,
-                                    h5,
-                                    h6,
-                                    p {
-                                        overflow-wrap: break-word
-                                    }
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	overflow-wrap: break-word;
+}
+	
+p {
+	text-wrap: pretty;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	text-wrap: balance;
+}
+#root,
+#__next {
+	isolation: isolate;
+}
+
                                     .wrapper {
                                         width: 100%;
                                         max-width: 1270px;
