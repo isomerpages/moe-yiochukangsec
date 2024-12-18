@@ -5,88 +5,130 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/N1.jpg)
-The National Police Cadet Corps (NPCC) aims to nurture selfless individuals who contribute to the safety and security of the community. It also builds character, leadership and resilience in our cadets.
+<img alt="NPCC Image" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/N1.jpg">
 
-Through a variety of activities, values such as discipline, loyalty, integrity, resourcefulness, tenacity and civic-consciousness are inculcated to develop members into caring and responsible citizens.
+<p>The National Police Cadet Corps (NPCC) aims to nurture selfless individuals who contribute to the safety and security of the community. It also builds character, leadership and resilience in our cadets.</p>
 
-In NPCC, the cadets get a chance to learn more about the Singapore Police Force through their interactions at the Neighbourhood Police Centres and visits to the Singapore Police Establishments. Cadets are also exposed to various courses such as Anti-Drug Abuse, Basic Law, Crime Prevention, Crime Scene Investigation, First Aid, Police Procedures and SG Secure which widen their knowledge.
+<p>Through a variety of activities, values such as discipline, loyalty, integrity, resourcefulness, tenacity and civic-consciousness are inculcated to develop members into caring and responsible citizens.</p>
 
-<div>
-  <table class="yck-table">
-    <thead>
-      <tr>
-        <th class="yck-th">
-          <h5>TRAINING SCHEDULE</h5>
-        </th>
-        <th class="yck-th">
-          <h5></h5>
-        </th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td class="yck-td">Day &amp; Time</td>
-        <td class="yck-td">Every Tuesday 3:00PM to 5:30PM</td>
-      </tr>
-      <tr>
-        <td class="yck-td">Location</td>
-        <td class="yck-td">NPCC Room &amp; Blk D L1 Classroom</td>
-      </tr>
-      <tr>
-        <td class="yck-td">Additional Involvement</td>
-        <td class="yck-td">Additional involvement on other days for HQ activities</td>
-      </tr>
-      <tr>
-        <td class="yck-td"><strong>Teacher OIC</strong></td>
-        <td class="yck-td"><strong>Ms Goh Yu Fan (ext 174)</strong></td>
-      </tr>
-      <tr>
-        <td class="yck-td">Other Teachers</td>
-        <td class="yck-td">
-          Mr Wong Mingwei (ext 141),<br>
-          Mr Goh Kok Hoe Octave (ext 136),<br>
-          Mr Joseph C. George (ext 148),<br>
-          Mrs Cindy Ong Kim Leng (ext 139)
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<p>In NPCC, the cadets get a chance to learn more about the Singapore Police Force through their interactions at the Neighbourhood Police Centres and visits to the Singapore Police Establishments. Cadets are also exposed to various courses such as Anti-Drug Abuse, Basic Law, Crime Prevention, Crime Scene Investigation, First Aid, Police Procedures and SG Secure which widen their knowledge.</p>
+
+<table>
+<thead>
+<tr>
+<th><h5>TRAINING SCHEDULE</h5></th>
+<th><h5></h5></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Day &amp; Time</td>
+<td>Every Tuesday 3:00PM to 5:30PM</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>NPCC Room &amp; Blk D L1 Classroom</td>
+</tr>
+<tr>
+<td>Additional Involvement</td>
+<td>Additional involvement on other days for HQ activities</td>
+</tr>
+<tr>
+<td><strong>Teacher OIC</strong></td>
+<td><strong>Ms Goh Yu Fan (ext 174)</strong></td>
+</tr>
+<tr>
+<td>Other Teachers</td>
+<td>Mr Wong Mingwei (ext 141),<br>Mr Goh Kok Hoe Octave (ext 136),<br>Mr Joseph C. George (ext 148),<br>Mrs Cindy Ong Kim Leng (ext 139)</td>
+</tr>
+</tbody>
+</table>
 
 <ul class="jekyllcodex_accordion">
-    <li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Proudest&nbsp;Moments</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
-<table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;"> <thead> <tr> <th style="background-color: #f2f2f2; padding: 10px; text-align: left; border-bottom: 2px solid #ddd;"> <h5 style="margin: 0;">2024</h5> </th> </tr> </thead> <tbody> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">SPF-NPCC Badge Recipient: SSGT (NPCC) Aden Bin Azam</td> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">SPF-NPCC Badge Recipient: SSGT (NPCC) Tay Yu Qi Natalie (Zheng Yuqi)</td> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Inter-Unit .22 Revolver Shooting Competition (Individual Category - Boys): Louis Wong National 6th position</td> </tr> <tr> <th style="background-color: #f2f2f2; padding: 10px; text-align: left; border-bottom: 2px solid #ddd;"> <h5 style="margin: 0;">2023</h5> </th> </tr> <tr> <td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Unit Overall Proficiency Award: Distinction</td> </tr> </tbody> </table>
-        
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-    
 <li>
+<input type="checkbox" id="accordion1">
+<label for="accordion1">Proudest Moments</label>
+<div>
+<table>
+<thead>
+<tr>
+<th><h5>2024</h5></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SPF-NPCC Badge Recipient: SSGT (NPCC) Aden Bin Azam</td>
+</tr>
+<tr>
+<td>SPF-NPCC Badge Recipient: SSGT (NPCC) Tay Yu Qi Natalie (Zheng Yuqi)</td>
+</tr>
+<tr>
+<td>Inter-Unit .22 Revolver Shooting Competition (Individual Category - Boys): Louis Wong National 6th position</td>
+</tr>
+<tr>
+<th><h5>2023</h5></th>
+</tr>
+<tr>
+<td>Unit Overall Proficiency Award: Distinction</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
+<li>
+<input type="checkbox" id="accordion2">
+<label for="accordion2">Events/Competitions</label>
+<div>
+<table>
+<thead>
+<tr>
+<th><h5>Events</h5></th>
+</tr>
+</thead>
+<tbody>
+<tr><td>Air Pistol Shooting Programme</td></tr>
+<tr><td>Annual Unit Camp</td></tr>
+<tr><td>Area 11 Adventure and Survival Training Camps at Pulau Ubin</td></tr>
+<tr><td>Area 11 Secondary One Cadets Swearing In Ceremony</td></tr>
+<tr><td>Area 11 Games Day</td></tr>
+<tr><td>Crime Prevention Programme</td></tr>
+<tr><td>Home Team Gallery Visit</td></tr>
+<tr><td>K-9 Dog Unit Visit</td></tr>
+<tr><td>Neighbourhood Police Centre Visit</td></tr>
+<tr><td>NPCC Annual Parade (NPAP)</td></tr>
+<tr><td>Police Heritage Visit</td></tr>
+<tr><td>Police Youth Ambassador</td></tr>
+<tr><td>Sports Enrichment Programme (SEP)</td></tr>
+<tr><td>Total Defence Programme</td></tr>
+<tr><td>YCKSS National Day Parade</td></tr>
+<tr><td>YCKSS Speech Day Parade</td></tr>
+</tbody>
+</table>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Events/Competitions</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-<table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;"> <thead> <tr> <th style="background-color: #f2f2f2; padding: 10px; text-align: left; border-bottom: 2px solid #ddd;"> <h5 style="margin: 0;">Events</h5> </th> </tr> </thead> <tbody> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Air Pistol Shooting Programme</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Annual Unit Camp</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Area 11 Adventure and Survival Training Camps at Pulau Ubin</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Area 11 Secondary One Cadets Swearing In Ceremony</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Area 11 Games Day</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Crime Prevention Programme</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Home Team Gallery Visit</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">K-9 Dog Unit Visit</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Neighbourhood Police Centre Visit</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">NPCC Annual Parade (NPAP)</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Police Heritage Visit</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Police Youth Ambassador</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Sports Enrichment Programme (SEP)</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Total Defence Programme</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">YCKSS National Day Parade</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">YCKSS Speech Day Parade</td></tr> </tbody> </table>
-    
-
-<table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;"> <thead> <tr> <th style="background-color: #f2f2f2; padding: 10px; text-align: left; border-bottom: 2px solid #ddd;"> <h5 style="margin: 0;">Courses</h5> </th> </tr> </thead> <tbody> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Basic Law Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Cadet Leader Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Campcraft Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Crime Scene Investigation Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Drill Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Homefront Security Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Leadership and Mentoring Skills Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Marksmanship Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Non-Commissioned Officer Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Oral Communication Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Police Procedures Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Road Safety Course</td></tr> <tr><td style="padding: 10px; border-bottom: 1px solid #ddd; max-width: 600px; word-wrap: break-word;">Unarmed Tactics Course</td></tr> </tbody> </table>
-            <p></p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
+<table>
+<thead>
+<tr>
+<th><h5>Courses</h5></th>
+</tr>
+</thead>
+<tbody>
+<tr><td>Basic Law Course</td></tr>
+<tr><td>Cadet Leader Course</td></tr>
+<tr><td>Campcraft Course</td></tr>
+<tr><td>Crime Scene Investigation Course</td></tr>
+<tr><td>Drill Course</td></tr>
+<tr><td>Homefront Security Course</td></tr>
+<tr><td>Leadership and Mentoring Skills Course</td></tr>
+<tr><td>Marksmanship Course</td></tr>
+<tr><td>Non-Commissioned Officer Course</td></tr>
+<tr><td>Oral Communication Course</td></tr>
+<tr><td>Police Procedures Course</td></tr>
+<tr><td>Road Safety Course</td></tr>
+<tr><td>Unarmed Tactics Course</td></tr>
+</tbody>
+</table>
+</div>
 </li>
     
 <li>
