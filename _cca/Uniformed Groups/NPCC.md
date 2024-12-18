@@ -237,6 +237,32 @@ touch-action: manipulation;
 box-shadow: rgba(0, 0, 0, .25) 0 3px 9px 0;
 transform: translateY(-2px);
 }
+	
+.yck-table {
+	border-collapse: collapse;
+	max-width: 100%;
+	margin-top: 1.5em;
+	margin-bottom: clamp(1em, 5%, 3em);
+}
+
+.yck-th {
+	background-color: #f2f2f2;
+	text-align: left;
+	border-bottom: 1px solid #ddd;
+	text-transform: uppercase;
+}
+
+.yck-th h4 h5 h6 {
+	margin: 0 0 0.5em 0;
+}
+
+.yck-td {
+	border-bottom: 1px solid #ddd;
+	max-width: 300px;
+	word-wrap: break-word;
+	line-height: 1.6rem;
+}
+
 
 .yck-strong {
   font-weight: 700;
@@ -255,81 +281,6 @@ transform: translateY(-2px);
   flex: 1 1 var(--min);
 }
 
-.yck-table {
-    width: 100%;
-    border-collapse: collapse;
-    font-family: inherit;
-    line-height: inherit;
-}
-
-.yck-th {
-    background-color: #f2f2f2;
-    padding: 1.5rem clamp(1rem, 5%, 3rem);
-    text-align: left;
-    border-bottom: 1px solid #ddd;
-    text-transform: uppercase;
-}
-
-.yck-th h5 {
-    margin: 0 0 0.5em 0;
-}
-
-.yck-td {
-    padding: 1.5rem clamp(1rem, 5%, 3rem);
-    border-bottom: 1px solid #ddd;
-    max-width: 300px;
-    word-wrap: break-word;
-}
-
-.yck-details {
-  border: 1px dashed #eee;
-  border-radius: 4px;
-  margin-bottom: 1rem;
-  padding: 0.5rem;
-  overflow: hidden; /* Prevent content overflow */
-  transition: border-color 0.7s;
-}
-
-.yck-details:hover {
-  border-color: #555;
-}
-
-/* Style the summary */
-.yck-details__summary {
-  cursor: pointer;
-  font-weight: 700;
-  font-size: clamp(1.5rem, 4vw, 2.25rem);
-  list-style: none;
-  padding: 1rem clamp(1rem, 5%, 2rem);
-}
-
-.yck-details__summary::marker {
-  font-size: 1.25em;
-  color: #555;
-}
-
-/* Handle the expandable/collapsible area */
-.yck-details::.yck-details__content {
-  block-size: 0; /* Logical height equivalent to height */
-  overflow: hidden; /* Prevent content overflow */
-  transition: block-size 0.5s ease, content-visibility 0.5s ease-in-out;
-  content-visibility: hidden;
-  opacity: 0;
-  transition: block-size 0.5s ease, content-visibility 0.5s ease-in-out, opacity 0.5s ease;
-}
-
-.yck-details__content[open]::.yck-details {
-  block-size: auto;
-  content-visibility: visible;
-  opacity: 1;
-}
-
-/* Style the paragraph inside */
-.yck-details__content p {
-  margin: 0;
-  padding: 0.5rem clamp(0.5rem, 5%, 2rem);
-  color: #555;
-}	
 	
 /* Base styles for the accordion */
 .jekyllcodex_accordion {
