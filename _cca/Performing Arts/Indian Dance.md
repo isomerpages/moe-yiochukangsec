@@ -158,122 +158,116 @@ This year, our Indian Dance CCA had the exciting opportunity to perform at both 
 <hr>
 
 <style>
-table {
-    width: 100%;
+
+	
+/* Base styles for yck-details */
+.yck-details {
+	border-top: 1px solid rgba(0, 0, 0, 0.15);
+	/* border-bottom: 1px solid rgba(0, 0, 0, 0.25); */
+	margin-top: clamp(0.5rem, 5%, 2rem);
+	margin-bottom: clamp(1rem, 5%, 1.5rem);
+	overflow: hidden;
+	transition: border-color 0.7s;
+	color: inherit;
+}
+
+.yck-details:hover {
+	border-color: #555;
+}
+
+/* Summary styles */
+.yck-details__summary {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	cursor: pointer;
+	margin-top: clamp(0.5rem, 5%, 2rem);
+	text-transform: uppercase;
+	/*    font-size: clamp(1.25rem, 4vw, 2rem);*/
+}
+
+.yck-details__summary::after {
+	content: '+';
+	font-size: 1.5rem;
+	color: #999;
+	transition: transform 0.5s ease-in-out;
+	margin-right: 1rem;
+}
+
+/* Rotate marker when open */
+.yck-details[open] .yck-details__summary::after {
+	transform: rotate(-45deg);
+}
+
+/* Initial state for content (hidden) */
+.yck-details__content {
+	max-height: auto;
+	margin-bottom: clamp(1.25rem, 5%, 1.75rem);
+	opacity: 0;
+	overflow: hidden;
+	padding: 0;
+	color: inherit;
+	animation: fadeOutSlideUp 0.5s ease forwards; /* Default close state */
+}
+
+/* When open, animate slide and fade in */
+.yck-details[open] .yck-details__content {
+	animation: fadeInSlideDown 0.5s ease forwards;
+}
+
+/* Keyframe for fade-in and slide-down */
+@keyframes fadeInSlideDown {
+	0% {
+		max-height: auto;
+		opacity: 0;
+	}
+	100% {
+		max-height: auto; /* Adjust as needed */
+		opacity: 1;
+	}
+}
+
+/* Keyframe for fade-out and slide-up */
+@keyframes fadeOutSlideUp {
+	0% {
+		max-height: auto;
+		opacity: 1;
+	}
+	100% {
+		max-height: auto;
+		opacity: 0;
+	}
+}
+
+	
+.yck-table {
     border-collapse: collapse;
-    font-family: inherit; /* Inherit font family from the page */
-    font-size: inherit; /* Inherit font size from the page */
+    max-width: 100%;
+    margin-top: 1.5em;
+    margin-bottom: clamp(1em, 5%, 3em);
 }
-
-th {
+.yck-th {
     background-color: #f2f2f2;
-    padding: 10px;
     text-align: left;
-    border-bottom: 2px solid #ddd;
-    font-size: 1rem; /* Optional: relative size for clarity */
+    border-bottom: 1px solid #ddd;
+    text-transform: uppercase;
 }
-
-th h5 {
-    margin: 0;
-    font-size: 1.25rem; /* Optional: slightly larger for headers */
+.yck-th h4, .yck-th h5, .yck-th h6 {
+    margin: 0 0 0.5em 0;
 }
-
-td {
-    padding: 10px;
+.yck-td {
     border-bottom: 1px solid #ddd;
     max-width: 300px;
     word-wrap: break-word;
-    font-size: inherit; /* Inherit font size for content */
+    line-height: 1.6rem;
 }
-
-details {
-    max-width: 100ch;
-    background-color: inherit;
-    border-radius: 1rem;
-    margin-bottom: 2.5rem;
-    box-shadow: 0 .05rem .05rem rgba(0, 0, 0, .05);
-    font-family: inherit; /* Inherit font family */
-    font-size: inherit; /* Inherit font size */
+.wrapper img {
+    border-radius: 10px;
+    border: 10px solid white;
+    box-shadow: -5px -5px 10px rgba(0,0,0,0.1);
 }
+	
 
-details summary {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    font-weight: 400;
-    font-size: 1.5rem; /* Slightly larger for better readability */
-    margin-bottom: 1.5rem;
-    transition: margin-bottom .5s ease;
-    position: relative;
-}
-
-details summary::-webkit-details-marker,
-details summary::marker {
-    content: " ";
-    display: none;
-}
-
-details summary::after {
-    content: "+";
-    font-size: 1.25rem; /* Match button size to summary */
-    font-weight: 500;
-    margin-right: .8rem;
-    cursor: pointer;
-    background-color: inherit; /*rgba(255, 195, 5, .25);*/
-    padding: .75rem;
-    display: grid;
-    place-content: center;
-    aspect-ratio: 1;
-    line-height: 0;
-    position: absolute;
-    top: .5rem;
-    right: -1.5rem;
-    border-radius: 50%;
-}
-
-details :not(summary) {
-    animation-name: fade;
-    animation-duration: .5s;
-    font-size: inherit; /* Inherit font size for details content */
-}
-
-details[open] summary {
-    margin-bottom: 1.5rem;
-}
-
-details[open] summary::after {
-    content: "×";
-}
-
-@keyframes fade {
-    0% {
-        opacity: 0;
-    }
-
-    2.5% {
-        opacity: .02;
-    }
-
-    5% {
-        opacity: .05;
-    }
-
-    10% {
-        opacity: .1;
-    }
-
-    25% {
-        opacity: .25;
-    }
-
-    60% {
-        opacity: .6;
-    }
-
-    100% {
-        opacity: 1;
-    }
-}
 	
 .image-gallery {
     display: grid;
