@@ -5,155 +5,98 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_Nov2023_Cover.jpg)
+<img alt="Indian Dance Cover" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_Nov2023_Cover.jpg">
 
-The Indian Dance CCA aims to help develop and nurture the pupils holistically. Apart from exposure to Indian culture and different styles of Indian dance, the CCA also provides opportunities to the pupils to acquire self-confidence, determination, resilience, a sense of responsibility and the ability to work with others. With these qualities and disposition which align with the school values, we hope to equip them to succeed for life.
+<p>The Indian Dance CCA aims to help develop and nurture the pupils holistically. Apart from exposure to Indian culture and different styles of Indian dance, the CCA also provides opportunities to the pupils to acquire self-confidence, determination, resilience, a sense of responsibility and the ability to work with others. With these qualities and disposition which align with the school values, we hope to equip them to succeed for life.</p>
 
-This year, our Indian Dance CCA had the exciting opportunity to perform at both Dance Extravaganza and Senses 2024, where we took our art out into the public and shared it with a broader audience. The experience was made even more special as we collaborated on choreography and costume ideas, allowing each of us to bring our unique perspectives and creativity to the performances. These events highlighted our teamwork and commitment, and we are proud to have represented our school with passion and dedication.
+<p>This year, our Indian Dance CCA had the exciting opportunity to perform at both Dance Extravaganza and Senses 2024, where we took our art out into the public and shared it with a broader audience. The experience was made even more special as we collaborated on choreography and costume ideas, allowing each of us to bring our unique perspectives and creativity to the performances. These events highlighted our teamwork and commitment, and we are proud to have represented our school with passion and dedication.</p>
 
-### Training Schedule
+<h3>Training Schedule</h3>
+<table class="yck-table">
+<tbody><tr>
+<th class="yck-th">Training Information</th>
+<th class="yck-th">Teachers-in-charge</th>
+</tr>
+<tr>
+<td class="yck-td">Every WEDNESDAY<br>3:00PM to 5:30PM</td>
+<td class="yck-td">Mdm Siva (ext 136)<br>Mrs Ilango (ext 175)<br>Mdm Rathidevi (ext 170)</td>
+</tr>
+</tbody></table>
 
-
-| Training Information                 | Teachers-in-charge                         |
-| ------------------------------------ | ------------------------------------------ |
-| Every WEDNESDAY<br>3:00PM to 5:30PM | Mdm Siva (ext 136)<br>Mrs Ilango (ext 175)<br>Mdm Rathidevi (ext 170) |
-
-
-| Dance Instructor                      |
-| ------------------------------------- |
-| Mdm Suganthi Kesavan (Bharathaa Arts) |
-
-<br>
+<table class="yck-table">
+<tbody><tr>
+<th class="yck-th">Dance Instructor</th>
+</tr>
+<tr>
+<td class="yck-td">Mdm Suganthi Kesavan (Bharathaa Arts)</td>
+</tr>
+</tbody></table>
 
 <hr>
 
 <details>
-	<summary><h3>Our Achievements</h3></summary>
-<table>
-  <tbody><tr>
-    <th><h5>2023</h5></th>
-  </tr>
-  <tr>
-    <td>Deepavali Celebrations at Singapore Police Force's Police Intelligence Department</td>
-  </tr>
-  <tr>
-    <td>National Day Parade Performance</td>
-  </tr>
-  <tr>
-    <th><h5>2022</h5></th>
-  </tr>
-  <tr>
-    <td>Deepavali Celebrations at Ang Mo Kio Police Divisional HQ</td>
-  </tr>
-  <tr>
-    <th><h5>2021</h5></th>
-  </tr>
-  <tr>
-    <td>SYF Arts Presentation - Certificate of Distinction</td>
-  </tr>
-  <tr>
-    <th><h5>2019</h5></th>
-  </tr>
-  <tr>
-    <td>SYF Arts Presentation - Certificate of Distinction</td>
-  </tr>
-  <tr>
-    <th><h5>2018</h5></th>
-  </tr>
-  <tr>
-    <td>SYF Festival at Esplanade / National Day Observance Ceremony</td>
-  </tr>
-  <tr>
-    <td>YCK Community Celebration</td>
-  </tr>
-  <tr>
-    <th><h5>2017</h5></th>
-  </tr>
-  <tr>
-    <td>National Day Parade Performance</td>
-  </tr>
-  <tr>
-    <th><h5>2016</h5></th>
-  </tr>
-  <tr>
-    <td>Chingay Parade</td>
-  </tr>
-  <tr>
-    <th><h5>2015</h5></th>
-  </tr>
-  <tr>
-    <td>SG 50 Youth Celebration</td>
-  </tr>
-  <tr>
-    <th><h5>2013</h5></th>
-  </tr>
-  <tr>
-    <td>SYF Arts Presentation - Certificate of Distinction</td>
-  </tr>
-  <tr>
-    <th><h5>2012</h5></th>
-  </tr>
-  <tr>
-    <td>Arts Festival</td>
-  </tr>
-  <tr>
-    <th><h5>2011</h5></th>
-  </tr>
-  <tr>
-    <td>SYF Central Judging - Gold Award for SYF</td>
-  </tr>
-  <tr>
-    <th><h5>2009</h5></th>
-  </tr>
-  <tr>
-    <td>SYF Central Judging - Gold with Honours for SYF</td>
-  </tr>
-  <tr>
-    <th><h5>2008</h5></th>
-  </tr>
-  <tr>
-    <td>Arts Biennale at Victoria Theatre (School event)</td>
-  </tr>
-  <tr>
-    <th><h5>2007/2005</h5></th>
-  </tr>
-  <tr>
-    <td>SYF Central Judging - Gold with Honours for SYF</td>
-  </tr>
-</tbody></table>
-	
+<summary><h3>Our Achievements</h3></summary>
+<table class="yck-table">
+<tbody>
+<tr><th class="yck-th"><h5>2023</h5></th></tr>
+<tr><td class="yck-td">Deepavali Celebrations at Singapore Police Force's Police Intelligence Department</td></tr>
+<tr><td class="yck-td">National Day Parade Performance</td></tr>
+<tr><th class="yck-th"><h5>2022</h5></th></tr>
+<tr><td class="yck-td">Deepavali Celebrations at Ang Mo Kio Police Divisional HQ</td></tr>
+<tr><th class="yck-th"><h5>2021</h5></th></tr>
+<tr><td class="yck-td">SYF Arts Presentation - Certificate of Distinction</td></tr>
+<tr><th class="yck-th"><h5>2019</h5></th></tr>
+<tr><td class="yck-td">SYF Arts Presentation - Certificate of Distinction</td></tr>
+<tr><th class="yck-th"><h5>2018</h5></th></tr>
+<tr><td class="yck-td">SYF Festival at Esplanade / National Day Observance Ceremony</td></tr>
+<tr><td class="yck-td">YCK Community Celebration</td></tr>
+<tr><th class="yck-th"><h5>2017</h5></th></tr>
+<tr><td class="yck-td">National Day Parade Performance</td></tr>
+<tr><th class="yck-th"><h5>2016</h5></th></tr>
+<tr><td class="yck-td">Chingay Parade</td></tr>
+<tr><th class="yck-th"><h5>2015</h5></th></tr>
+<tr><td class="yck-td">SG 50 Youth Celebration</td></tr>
+<tr><th class="yck-th"><h5>2013</h5></th></tr>
+<tr><td class="yck-td">SYF Arts Presentation - Certificate of Distinction</td></tr>
+<tr><th class="yck-th"><h5>2012</h5></th></tr>
+<tr><td class="yck-td">Arts Festival</td></tr>
+<tr><th class="yck-th"><h5>2011</h5></th></tr>
+<tr><td class="yck-td">SYF Central Judging - Gold Award for SYF</td></tr>
+<tr><th class="yck-th"><h5>2009</h5></th></tr>
+<tr><td class="yck-td">SYF Central Judging - Gold with Honours for SYF</td></tr>
+<tr><th class="yck-th"><h5>2008</h5></th></tr>
+<tr><td class="yck-td">Arts Biennale at Victoria Theatre (School event)</td></tr>
+<tr><th class="yck-th"><h5>2007/2005</h5></th></tr>
+<tr><td class="yck-td">SYF Central Judging - Gold with Honours for SYF</td></tr>
+</tbody>
+</table>
 </details>
 
-### Gallery
-
-<div class="image-gallery">
-    <img alt="Indian Dance 2025 Image 0" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_0.jpg">
-    <img alt="Indian Dance 2025 Image 1" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_2025_1.jpg">
-    <img alt="Indian Dance 2025 Image 2" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_2.jpg">
-    <img alt="Indian Dance 2025 Image 5" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_5.jpg">
-    <img alt="Indian Dance 2025 Image 9" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_9.jpg">
+<h3>Gallery</h3>
+<div class="image-gallery wrapper">
+<img alt="Indian Dance 2025 Image 0" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_0.jpg">
+<img alt="Indian Dance 2025 Image 1" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_2025_1.jpg">
+<img alt="Indian Dance 2025 Image 2" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_2.jpg">
+<img alt="Indian Dance 2025 Image 5" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_5.jpg">
+<img alt="Indian Dance 2025 Image 9" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_9.jpg">
 </div>
 
+<div class="wrapper">
 <img alt="Indian Dance 1" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_1.PNG">
-
 <img alt="Indian Dance 2" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_2.PNG">
-
 <img alt="Indian Dance 3" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_3.PNG">
+</div>
 
 <details>
-	<summary><h4>Past Gallery</h4></summary>
+<summary><h4>Past Gallery</h4></summary>
+<div class="wrapper">
 <img alt="Indian Dance 4" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I4.png">
-
 <img alt="Indian Dance 5" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I5.png">
-
 <img alt="Indian Dance 6" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I6.png">
-
 <img alt="Indian Dance 7" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I7.png">
-
 <img alt="Indian Dance 8" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I8.png">
-
 <img alt="Indian Dance 9" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I9.png">
-
+</div>
 </details>
 <hr>
 
