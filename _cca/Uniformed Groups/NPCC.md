@@ -80,6 +80,8 @@ variant: markdown
 <input type="checkbox" id="accordion2">
 <label for="accordion2">Events/Competitions</label>
 <div>
+<ul class="yck-flexbox-grid">
+	<li>
 <table class="yck-table">
 <thead>
 <tr>
@@ -105,6 +107,8 @@ variant: markdown
 <tr><td class="yck-td">YCKSS Speech Day Parade</td></tr>
 </tbody>
 </table>
+	</li>
+	<li>
 
 <table class="yck-table">
 <thead>
@@ -128,6 +132,7 @@ variant: markdown
 <tr><td class="yck-td">Unarmed Tactics Course</td></tr>
 </tbody>
 </table>
+	</li></ul>
 </div>
 </li>
     
@@ -329,6 +334,7 @@ transform: translateY(-2px);
 
 .yck-flexbox-grid > * {
   flex: 1 1 var(--min);
+	list-style: none;
 }
 
 /* Keyframe for fade-in and slide-down */
