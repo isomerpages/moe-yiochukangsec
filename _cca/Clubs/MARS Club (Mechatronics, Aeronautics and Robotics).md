@@ -111,8 +111,8 @@ variant: markdown
 
 	/* Typography Decorations */
 	/* --heading-font-weight: 700; */
-	--text-line-height: 1.6rem;
-	--heading-line-height: 1.2rem;
+	--text-line-height: 1.6em;
+	--heading-line-height: 1.2em;
 	--heading-letter-spacing: -0.02em;
 
 	/* Animation */
