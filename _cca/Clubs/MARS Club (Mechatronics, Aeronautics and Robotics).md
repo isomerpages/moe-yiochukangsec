@@ -104,8 +104,41 @@ variant: markdown
 </ul>
 
 <style>
-	
-/* Avoid text overflows */
+:root {
+	/* Color Scheme */
+	--color-text-light: #888888;
+	--color-border: #e0e0e0;
+
+	/* Typography Decorations */
+	/* --heading-font-weight: 700; */
+	--text-line-height: 1.6rem;
+	--heading-line-height: 1.2rem;
+	--heading-letter-spacing: -0.02em;
+
+	/* Animation */
+	--transition-speed: 0.8s; /* Added transition speed variable */
+	--transition-timing: cubic-bezier(0.4, 0, 0.2, 1); /* Added smooth easing */
+
+	/* Spacing and Layout */
+	--content-width: 100%;
+	--spacing-unit: 1rem;
+	--border-radius: 4px;
+	--box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+	/* Typography Scale */
+	--step--2: clamp(0.7901rem, 0.763rem + 0.1355vw, 0.8681rem);
+  --step--1: clamp(0.8889rem, 0.8357rem + 0.2657vw, 1.0417rem);
+  --step-0: clamp(1rem, 0.913rem + 0.4348vw, 1.25rem);
+  --step-1: clamp(1.125rem, 0.9946rem + 0.6522vw, 1.5rem);
+  --step-2: clamp(1.2656rem, 1.0798rem + 0.9293vw, 1.8rem);
+  --step-3: clamp(1.4238rem, 1.1678rem + 1.2803vw, 2.16rem);
+  --step-4: clamp(1.6018rem, 1.2574rem + 1.7221vw, 2.592rem);
+  --step-5: clamp(1.802rem, 1.3469rem + 2.2754vw, 3.1104rem);
+
+}
+
+
+/* 7. Avoid text overflows */
 p,
 h1,
 h2,
@@ -135,6 +168,73 @@ h6 {
 #root,
 #__next {
 	isolation: isolate;
+}
+
+/* ==========================================================================
+   Typography
+   ========================================================================== */
+
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5 {
+	font-weight: var(--heading-font-weight);
+	line-height: var(--heading-line-height);
+	letter-spacing: var(--heading-letter-spacing);
+}
+
+h1,
+.h1 {
+	font-size: var(--step-5);
+	margin-bottom: var(--spacing-unit);
+}
+
+h2,
+.h2 {
+	font-size: var(--step-4);
+	margin-bottom: calc(var(--spacing-unit) * 0.8);
+}
+
+h3,
+.h3 {
+	font-size: var(--step-3);
+	margin-bottom: calc(var(--spacing-unit) * 0.6);
+}
+
+h4,
+.h4 {
+	font-size: var(--step-2);
+	margin-bottom: calc(var(--spacing-unit) * 0.5);
+	text-transform: uppercase;
+}
+
+h5,
+.h5 {
+	font-size: var(--step-1);
+	margin-bottom: calc(var(--spacing-unit) * 0.4);
+	text-transform: uppercase;
+}
+
+.text-small {
+	font-size: var(--step--1);
+}
+
+.text-xs {
+	font-size: var(--step--2);
+}
+
+p,
+ul,
+ol {
+	font-size: var(--step-0);
+	margin-bottom: var(--spacing-unit);
+	list-style: none;
 }
 	
 .yck-table {
