@@ -10,7 +10,7 @@ variant: markdown
 
 <div>
 <h4>Training&nbsp;Schedule</h4>
-<p>
+
 <table class="yck-table">
   <thead>
     <tr>
@@ -33,9 +33,7 @@ variant: markdown
     </tr>
   </tbody>
 </table>
-			</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+</div>
 
 
 <ul class="jekyllcodex_accordion">
