@@ -136,7 +136,7 @@ To make the learning real and to equip students with a better understanding of t
 	
 		
 
-&nbsp;&nbsp;&nbsp;&nbsp;</p></div>
+</p></div>
 
 #### National Education (NE)
 
