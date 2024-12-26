@@ -51,15 +51,12 @@ variant: markdown
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1"><h5>Events/Competitions&nbsp;&amp;&nbsp;Our&nbsp;Proudest&nbsp;Moments</h5></label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><table class="yck-table">
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1"><h4>Events/Competitions&nbsp;&amp;&nbsp;Our&nbsp;Proudest&nbsp;Moments</h4></label>
+<table class="yck-table">
   <thead>
     <tr>
-      <th class="yck-th h6">YEAR</th>
-      <th class="yck-th h6">Events, Competitions and Moments</th>
+      <th class="yck-th h5">YEAR</th>
+      <th class="yck-th h5">Events, Competitions and Moments</th>
     </tr>
   </thead>
   <tbody>
@@ -85,9 +82,7 @@ variant: markdown
     </tr>
   </tbody>
 </table>
-</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
@@ -95,16 +90,13 @@ variant: markdown
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2"><h5>Gallery</h5></label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2"><h4>Gallery</h4></label>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<p>   
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/MARs%20Club/M2.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/MARs%20Club/M3.png">
-			</p>
+<div> 
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/MARs%20Club/M2.png"></div>
+<div><img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/MARs%20Club/M3.png"></div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
@@ -135,16 +127,8 @@ variant: markdown
 	--border-radius: 4px;
 	--box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 
-	/* Typography Scale */
-	--step--2: clamp(0.7901rem, 0.763rem + 0.1355vw, 0.8681rem);
-  --step--1: clamp(0.8889rem, 0.8357rem + 0.2657vw, 1.0417rem);
-  --step-0: clamp(1rem, 0.913rem + 0.4348vw, 1.25rem);
-  --step-1: clamp(1.125rem, 0.9946rem + 0.6522vw, 1.5rem);
-  --step-2: clamp(1.2656rem, 1.0798rem + 0.9293vw, 1.8rem);
-  --step-3: clamp(1.4238rem, 1.1678rem + 1.2803vw, 2.16rem);
-  --step-4: clamp(1.6018rem, 1.2574rem + 1.7221vw, 2.592rem);
-  --step-5: clamp(1.802rem, 1.3469rem + 2.2754vw, 3.1104rem);
-
+	--step--1: clamp(0.8889rem, 0.8357rem + 0.2657vw, 1.0417rem);
+  --step-0: clamp(1rem, 0.913rem + 0.4348vw, 1.125rem);
 }
 
 
@@ -172,13 +156,6 @@ h6 {
 	text-wrap: balance;
 }
 
-/*
-  9. Create a root stacking context
-*/
-#root,
-#__next {
-	isolation: isolate;
-}
 
 /* ==========================================================================
    Typography
@@ -201,32 +178,27 @@ h5,
 
 h1,
 .h1 {
-	font-size: var(--step-5);
 	margin-bottom: var(--spacing-unit);
 }
 
 h2,
 .h2 {
-	font-size: var(--step-4);
 	margin-bottom: calc(var(--spacing-unit) * 0.8);
 }
 
 h3,
 .h3 {
-	font-size: var(--step-3);
 	margin-bottom: calc(var(--spacing-unit) * 0.6);
 }
 
 h4,
 .h4 {
-	font-size: var(--step-2);
 	margin-bottom: calc(var(--spacing-unit) * 0.5);
 	text-transform: uppercase;
 }
 
 h5,
 .h5 {
-	font-size: var(--step-1);
 	margin-bottom: calc(var(--spacing-unit) * 0.4);
 	text-transform: uppercase;
 }
@@ -239,6 +211,7 @@ h5,
 	font-size: var(--step--2);
 }
 
+div,	
 p,
 ul,
 ol {
