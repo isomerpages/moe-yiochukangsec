@@ -25,7 +25,7 @@ variant: markdown
 <h3>Recent Achievements</h3>
 <p>We are proud to have clinched the <strong>IDE Series 2024 Robotics Competition</strong> and regularly participate in prestigious events like the <strong>National Robotics Competition</strong> and other STEM-focused initiatives.</p>
 
-<h3>Training Schedule</h3>
+<h4>Training Schedule</h4>
 <table class="yck-table">
 <thead>
 <tr>
@@ -42,7 +42,6 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p></p>
 
 
 <ul class="jekyllcodex_accordion">
