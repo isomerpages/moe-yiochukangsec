@@ -131,7 +131,9 @@ To make the learning real and to equip students with a better understanding of t
 <a target="_blank&quot;" href="https://go.gov.sg/yckssecg">https://go.gov.sg/yckssecg</a>
 <br>	or scan the QR Code below.
 
-<img src="![](/images/Our%20Curriculum/Non%20Academic%20Programmes/NonAcademic%20Programmes/YCKSS_ECG_Poster_jpg_format__for_school_website_.jpg)<br">	
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/NonAcademic%20Programmes/YCKSS_ECG_Poster_jpg_format__for_school_website_.jpg)	
+	
+	
 		
 
 &nbsp;&nbsp;&nbsp;&nbsp;</p></div>
