@@ -136,11 +136,9 @@ To make the learning real and to equip students with a better understanding of t
 	
 		
 
-</p></div>
-
 #### National Education (NE)
 
-<div>
+</p><div>
 
 <p> National Education is experienced through the 4 key NE celebrations that are run throughout the year. Total Defence Day, International Friendship Day, Racial Harmony Day and National Day.<br>
   
@@ -220,4 +218,4 @@ You may click [here](/files/Sexuality%20Education%20(SEd)/SEd_Lessons.pdf)  for 
 
 13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at [yckss@moe.edu.sg](mailto:yckss@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
 
----
+---</div>
