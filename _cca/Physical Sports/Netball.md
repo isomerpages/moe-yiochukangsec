@@ -8,7 +8,7 @@ variant: markdown
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Netball/N1.jpg)
 <p>The Netball CCA aims to educate and nurture values such as teamwork, responsibility, respect, integrity, pride, tenacity and confidence in our girls. We also seek to bring out the best in our girls through the development of their skills in the sport. The sport builds character and develops their leadership qualities while inculcating an active and healthy lifestyle.</p>
 
-<div>
+
 <h4>Training&nbsp;Schedule</h4>
 
 <table class="yck-table">
@@ -33,7 +33,6 @@ variant: markdown
     </tr>
   </tbody>
 </table>
-</div>
 
 
 <ul class="jekyllcodex_accordion">
