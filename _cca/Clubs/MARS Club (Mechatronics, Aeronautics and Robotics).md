@@ -57,25 +57,36 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><table class="yck-table">
-<tbody>
-<tr><th class="yck-th">2022</th></tr>
-<tr><td class="yck-td">Ignite Skills Challenge</td></tr>
-<tr><td class="yck-td">AI Car Challenge - 2nd Runner Up</td></tr>
-<tr><td class="yck-td">Digital Making using Microbit - Finalist</td></tr>
-<tr><th class="yck-th">2021</th></tr>
-<tr><td class="yck-td">Ignite Skills Challenge</td></tr>
-<tr><td class="yck-td">Robo Genius Global Online Competition</td></tr>
-<tr><td class="yck-td">Ninja ball challenge - Bronze Medal</td></tr>
-<tr><th class="yck-th">2019</th></tr>
-<tr><td class="yck-td">One World Robotics Competition - 2nd Runner Up &amp; Winner of the Solution presentation</td></tr>
-<tr><td class="yck-td">Ripple UX Challenge - Champion, 1st Runner Up &amp; 2nd Runner Up</td></tr>
-<tr><td class="yck-td">Micro:bit tinkering competition for secondary school</td></tr>
-<tr><td class="yck-td">N6 Event</td></tr>
-<tr><th class="yck-th">2018</th></tr>
-<tr><td class="yck-td">Ripple UX Challenge - 2nd Runner Up &amp; Fastest Robot</td></tr>
-<tr><td class="yck-td">Robotics Challenge - Merit award for Creative Category</td></tr>
-</tbody>
-</table></p>
+  <thead>
+    <tr>
+      <th class="yck-th">YEAR</th>
+      <th class="yck-th">Events, Competitions and Moments</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="yck-td">2024</td>
+      <td class="yck-td">FIRST LEGO League Challenge</td>
+    </tr>
+    <tr>
+      <td class="yck-td"></td>
+      <td class="yck-td">IDE Series (Achieved Top 10 in the final round)</td>
+    </tr>
+    <tr>
+      <td class="yck-td"></td>
+      <td class="yck-td">Swift Explorers: App Design Challenge: Two prototypes of health and wellness apps were created</td>
+    </tr>
+    <tr>
+      <td class="yck-td"></td>
+      <td class="yck-td">National Robotics Competition</td>
+    </tr>
+    <tr>
+      <td class="yck-td"></td>
+      <td class="yck-td">National Youth Tech Championship</td>
+    </tr>
+  </tbody>
+</table>
+</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
