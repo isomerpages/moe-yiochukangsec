@@ -7,7 +7,7 @@ variant: markdown
 ---
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Floorball%20(Boys)/F1.jpg)
 
-The Floorball CCA aims to foster strong bonds among team members and a competitive spirit. It teaches our students the fundamentals of the sport and also inculcates the values and belinoteefs behind the nature of the sport. Floorball is a fast paced sport encompassing skilful manoeuvres and athletic endurance. It requires determination and discipline in players to master their individual skills. As a team, we train together with commitment and enthusiasm to bring YCKSS Floorball to greater heights.
+<p>The Floorball CCA aims to foster strong bonds among team members and a competitive spirit. It teaches our students the fundamentals of the sport and also inculcates the values and belinoteefs behind the nature of the sport. Floorball is a fast paced sport encompassing skilful manoeuvres and athletic endurance. It requires determination and discipline in players to master their individual skills. As a team, we train together with commitment and enthusiasm to bring YCKSS Floorball to greater heights.</p>
 
 
 ### Training Schedule
