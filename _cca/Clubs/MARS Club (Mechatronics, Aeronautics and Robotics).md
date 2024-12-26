@@ -52,15 +52,15 @@ variant: markdown
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Events/Competitions&nbsp;&amp;&nbsp;Our&nbsp;Proudest&nbsp;Moments</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1"><h5>Events/Competitions&nbsp;&amp;&nbsp;Our&nbsp;Proudest&nbsp;Moments</h5></label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><table class="yck-table">
   <thead>
     <tr>
-      <th class="yck-th">YEAR</th>
-      <th class="yck-th">Events, Competitions and Moments</th>
+      <th class="yck-th h6">YEAR</th>
+      <th class="yck-th h6">Events, Competitions and Moments</th>
     </tr>
   </thead>
   <tbody>
@@ -96,7 +96,7 @@ variant: markdown
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Gallery</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2"><h5>Gallery</h5></label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
