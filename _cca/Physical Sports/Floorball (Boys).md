@@ -9,12 +9,12 @@ variant: markdown
 
 <p>The Floorball CCA aims to foster strong bonds among team members and a competitive spirit. It teaches our students the fundamentals of the sport and also inculcates the values and belinoteefs behind the nature of the sport. Floorball is a fast paced sport encompassing skilful manoeuvres and athletic endurance. It requires determination and discipline in players to master their individual skills. As a team, we train together with commitment and enthusiasm to bring YCKSS Floorball to greater heights.</p>
 
-
+<h4>Training&nbsp;Schedule</h4>
 <table class="yck-table">
 	<thead>
 		<tr>
-			<th class="yck-th"><h4>Training Information</h4></th>
-			<th class="yck-th"><h4>Teachers-in-charge</h4></th>
+			<th class="yck-th"><h5>Training Information</h5></th>
+			<th class="yck-th"><h5>Teachers-in-charge</h5></th>
 		</tr>
 	</thead>
 	<tbody>
