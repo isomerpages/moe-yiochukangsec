@@ -8,17 +8,8 @@ variant: markdown
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Netball/N1.jpg)
 <p>The Netball CCA aims to educate and nurture values such as teamwork, responsibility, respect, integrity, pride, tenacity and confidence in our girls. We also seek to bring out the best in our girls through the development of their skills in the sport. The sport builds character and develops their leadership qualities while inculcating an active and healthy lifestyle.</p>
 
-
-<ul class="jekyllcodex_accordion">
-
-&nbsp;&nbsp;<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1"><h5>Training&nbsp;Schedule</h5></label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
+<div>
+<h4>Training&nbsp;Schedule</h4>
 <p>
 <table class="yck-table">
   <thead>
@@ -46,12 +37,14 @@ variant: markdown
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
-</li>
-	<li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
+<ul class="jekyllcodex_accordion">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2"><h5>Proudest&nbsp;Moments</h5></label>
+<li>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
+
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1"><h5>Proudest&nbsp;Moments</h5></label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
@@ -74,9 +67,9 @@ variant: markdown
 	
 <li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3"><h5>Events/Competitions</h5></label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2"><h5>Events/Competitions</h5></label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
@@ -100,9 +93,9 @@ T Net U14 Netball Tournament 2018 </p>
 	
 <li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">Gallery</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Gallery</label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
