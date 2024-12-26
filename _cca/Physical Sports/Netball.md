@@ -6,7 +6,7 @@ third_nav_title: Physical Sports
 variant: markdown
 ---
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Netball/N1.jpg)
-The Netball CCA aims to educate and nurture values such as teamwork, responsibility, respect, integrity, pride, tenacity and confidence in our girls. We also seek to bring out the best in our girls through the development of their skills in the sport. The sport builds character and develops their leadership qualities while inculcating an active and healthy lifestyle.
+<p>The Netball CCA aims to educate and nurture values such as teamwork, responsibility, respect, integrity, pride, tenacity and confidence in our girls. We also seek to bring out the best in our girls through the development of their skills in the sport. The sport builds character and develops their leadership qualities while inculcating an active and healthy lifestyle.</p>
 
 
 <ul class="jekyllcodex_accordion">
@@ -15,33 +15,32 @@ The Netball CCA aims to educate and nurture values such as teamwork, responsibil
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Training&nbsp;Schedule</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1"><h5>Training&nbsp;Schedule</h5></label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<p> <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-osv9{background-color:#F1F1F1;text-align:center;vertical-align:top}
-.tg .tg-1hsk{background-color:#F1F1F1;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-apyk">TRAINING INFORMATION</th>
-    <th class="tg-apyk">TEACHERS IN-CHARGE</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-1hsk"><span style="font-weight:700">EVERY MONDAY &amp; WEDNESDAY</span><br><span style="font-weight:700">3:00PM TO 5:30PM</span><br>ISH Level 1</td>
-    <td class="tg-osv9">Ms Amelia Tew (ext 140) <span style="font-weight:bolder">OIC</span><br>Ms Nurul Ain Bte Kamaldin (ext 176)<br>Ms Toh Lee Wah (ext 130)</td>
-  </tr>
-</tbody>
+<p>
+<table class="yck-table">
+  <thead>
+    <tr>
+      <th class="yck-th">TRAINING INFORMATION</th>
+      <th class="yck-th">TEACHERS IN-CHARGE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="yck-td">
+        <strong>EVERY MONDAY &amp; WEDNESDAY</strong><br>
+        <strong>3:00PM TO 5:30PM</strong><br>
+        ISH Level 1
+      </td>
+      <td class="yck-td">
+        Ms Amelia Tew (ext 140) <strong>OIC</strong><br>
+        Ms Nurul Ain Bte Kamaldin (ext 176)<br>
+        Ms Toh Lee Wah (ext 130)
+      </td>
+    </tr>
+  </tbody>
 </table>
 			</p>
 
@@ -52,7 +51,7 @@ The Netball CCA aims to educate and nurture values such as teamwork, responsibil
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Proudest&nbsp;Moments</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2"><h5>Proudest&nbsp;Moments</h5></label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
@@ -77,7 +76,7 @@ The Netball CCA aims to educate and nurture values such as teamwork, responsibil
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Events/Competitions</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3"><h5>Events/Competitions</h5></label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
@@ -120,3 +119,34 @@ T Net U14 Netball Tournament 2018 </p>
 
 	
 </ul>
+
+<style>
+	
+.yck-table {
+	border-collapse: collapse;
+	max-width: 100%;
+	margin-top: 1.5em;
+	margin-bottom: clamp(1em, 5%, 3em);
+}
+
+.yck-th {
+	background-color: #f2f2f2;
+	text-align: left;
+	border-bottom: 1px solid #ddd;
+	text-transform: uppercase;
+}
+
+.yck-th h4, .yck-th h5, .yck-th h6 {
+    margin: 0 0 0.5em 0;
+}
+
+.yck-td {
+	border-bottom: 1px solid #ddd;
+	max-width: 300px;
+	word-wrap: break-word;
+	line-height: 1.6rem;
+}
+
+
+	
+</style>
