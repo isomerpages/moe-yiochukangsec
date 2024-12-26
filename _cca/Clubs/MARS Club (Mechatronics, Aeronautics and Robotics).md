@@ -113,8 +113,8 @@ variant: markdown
 
 	/* Typography Decorations */
 	/* --heading-font-weight: 700; */
-	--text-line-height: 1.6em;
-	--heading-line-height: 1.2em;
+	--text-line-height: 1.55em;
+	--heading-line-height: 1.1em;
 	--heading-letter-spacing: -0.02em;
 
 	/* Animation */
@@ -123,7 +123,7 @@ variant: markdown
 
 	/* Spacing and Layout */
 	--content-width: 100%;
-	--spacing-unit: 1rem;
+	--spacing-unit: 1em;
 	--border-radius: 4px;
 	--box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 
@@ -183,23 +183,23 @@ h1,
 
 h2,
 .h2 {
-	margin-bottom: calc(var(--spacing-unit) * 0.8);
+	margin-bottom: calc(var(--spacing-unit) * 0.7);
 }
 
 h3,
 .h3 {
-	margin-bottom: calc(var(--spacing-unit) * 0.6);
+	margin-bottom: calc(var(--spacing-unit) * 0.5);
 }
 
 h4,
 .h4 {
-	margin-bottom: calc(var(--spacing-unit) * 0.5);
+	margin-bottom: calc(var(--spacing-unit) * 0.4);
 	text-transform: uppercase;
 }
 
 h5,
 .h5 {
-	margin-bottom: calc(var(--spacing-unit) * 0.4);
+	margin-bottom: calc(var(--spacing-unit) * 0.3);
 	text-transform: uppercase;
 }
 
