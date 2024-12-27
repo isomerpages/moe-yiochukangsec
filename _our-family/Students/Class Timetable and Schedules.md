@@ -5,15 +5,15 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
-<h4><strong>2024 EOY Exam Script-Checking schedule</strong></h4>
-<p>(updated on 7 October, 2024)</p>
-<p><a href="/files/Students/Class Timetable Schedules/EOY_Exam_Script_Checking_2024___Classes.pdf" rel="noopener nofollow" target="_blank">EOY Exam Script-Checking 2024 schedule (Classes)</a>
-</p>
-<h4><strong>2024 Class Timetable (Semester 2)</strong></h4>
+<h4></h4>
+<h4><strong>2025 Class Timetable (Semester 1)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong><a href="/files/Students/Class Timetable Schedules/2024_Sem_2_Special_Timetable___Classes__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Semester 2 Special Timetable </a></strong><em>(For 19 Jul, 23-25 Jul, 2 Aug &amp; 28 Aug)</em>
 <br>(Uploaded on 11 July 2024)</p>
+</li>
+<li>
+<p></p>
 <p></p>
 </li>
 <li>
