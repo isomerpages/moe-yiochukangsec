@@ -130,15 +130,14 @@ To make the learning real and to equip students with a better understanding of t
 <br>	To make an appointment, please click here: 
 <a target="_blank&quot;" href="https://go.gov.sg/yckssecg">https://go.gov.sg/yckssecg</a>
 <br>	or scan the QR Code below.
-
-<img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/ECG/YCKSS_ECG_booking.jpg"><br>	
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/NonAcademic%20Programmes/YCKSS_ECG_Poster_jpg_format__for_school_website_.jpg"></p>
+	
+	
 		
 
-&nbsp;&nbsp;&nbsp;&nbsp;</p></div>
+#### <b>National Education (NE)</b>
 
-#### National Education (NE)
-
-<div>
+<p></p><div>
 
 <p> National Education is experienced through the 4 key NE celebrations that are run throughout the year. Total Defence Day, International Friendship Day, Racial Harmony Day and National Day.<br>
   
@@ -218,4 +217,4 @@ You may click [here](/files/Sexuality%20Education%20(SEd)/SEd_Lessons.pdf)  for 
 
 13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at [yckss@moe.edu.sg](mailto:yckss@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
 
----
+---</div>

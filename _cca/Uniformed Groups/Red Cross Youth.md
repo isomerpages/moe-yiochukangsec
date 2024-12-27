@@ -7,7 +7,7 @@ variant: markdown
 ---
 <div>
 
-  <img alt="Red Cross Youth" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R1.jpg">
+  <img alt="Red Cross Youth" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R1.jpg">
     <p>
       The primary goal of YCKSS’s Red Cross Youth Unit is to instill core values of compassion for humanity and a strong sense of civic responsibility. 
       It also aims to impart skills and knowledge to its cadets to manage emergency scenarios and to make a difference in the lives of those in their community. 
@@ -124,7 +124,7 @@ variant: markdown
   </thead>
   <tbody>
     <tr>
-      <td class="yck-td">Gold Modular Workshops <br><small>(First Aid, Red Cross Knowledge, Youth Ambassador Blood Programme &amp; Disaster Management)</small></td>
+      <td class="yck-td">Gold Modular Workshops <br><span class="text-small">(First Aid, Red Cross Knowledge, Youth Ambassador Blood Programme &amp; Disaster Management)</span></td>
     </tr>
     <tr>
       <td class="yck-td">World Red Cross Day</td>
@@ -341,9 +341,9 @@ h5,
   margin-bottom: calc(var(--spacing-unit) * 0.4);
 }
 
-small,
 .text-small {
   font-size: var(--step--1);
+	color: var(--color-text-light);
 }
 
 .text-xs {

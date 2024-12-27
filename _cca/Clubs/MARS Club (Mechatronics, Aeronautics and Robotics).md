@@ -5,60 +5,43 @@ description: ""
 third_nav_title: Clubs
 variant: markdown
 ---
-![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/MARs%20Club/M1.jpg)
+<h3>MARS Club at Yio Chu Kang Secondary School</h3>
 
-At **Yio Chu Kang Secondary School**, the **Mechatronics, Aeronautics, and Robotics Society (MARS)** Club is where innovation meets exploration\! Our club focuses on **robotics**, **drones**, and the exciting realms of **STEM (Science, Technology, Engineering, and Mathematics)**.
+<p>The <strong>Mechatronics, Aeronautics, and Robotics Society (MARS)</strong> Club is where innovation meets exploration! Our club focuses on <strong>robotics</strong>, <strong>drones</strong>, and the exciting realms of <strong>STEM (Science, Technology, Engineering, and Mathematics)</strong>.</p>
 
-**What We Do:**
+<h3>What We Do</h3>
+<p><strong>Robotics:</strong> Dive into the world of automation and intelligent design. Learn to build, program, and compete with robots in various challenges.</p>
+<p><strong>Drones:</strong> Explore aeronautics by designing, flying, and mastering drones while understanding the technology behind them.</p>
+<p><strong>STEM Alignment:</strong> Apply engineering principles, enhance critical thinking, and collaborate on cutting-edge projects that prepare you for the future.</p>
 
- **Robotics**: Dive into the world of automation and intelligent design. Learn to build, program, and compete with robots in various challenges.  
-**Drones**: Explore aeronautics by designing, flying, and mastering drones while understanding the technology behind them.  
-**STEM Alignment**: Apply engineering principles, enhance critical thinking, and collaborate on cutting-edge projects that prepare you for the future.
+<h3>Why Join Us</h3>
+<ul>
+<li><strong>Hands-On Learning:</strong> Gain practical experience with tools and technologies that bring your ideas to life.</li>
+<li><strong>Competitions &amp; Showcases:</strong> Represent YCKSS in national and international robotics competitions.</li>
+<li><strong>Collaborative Spirit:</strong> Work in teams to solve real-world problems through innovation and creativity.</li>
+<li><strong>Future-Ready Skills:</strong> Develop critical skills that align with Singapore's <strong>Smart Nation</strong> vision and prepare for a high-tech future.</li>
+</ul>
 
-**Why Join Us?**
+<h3>Recent Achievements</h3>
+<p>We are proud to have clinched the <strong>IDE Series 2024 Robotics Competition</strong> and regularly participate in prestigious events like the <strong>National Robotics Competition</strong> and other STEM-focused initiatives.</p>
 
-* **Hands-On Learning**: Gain practical experience with tools and technologies that bring your ideas to life.
-
-* **Competitions &amp; Showcases**: Represent YCKSS in national and international robotics competitions.
-
-* **Collaborative Spirit**: Work in teams to solve real-world problems through innovation and creativity.
-
-* **Future-Ready Skills**: Develop critical skills that align with Singapore’s **Smart Nation** vision and prepare for a high-tech future.
-
-**Recent Achievements**
-
-We are proud to have clinched the **IDE Series 2024 Robotics Competition** and regularly participate in prestigious events like the **National Robotics Competition** and other STEM-focused initiatives.
-
-Join the **MARS Club** and be a part of the future of innovation and technology\! Together, let’s push the boundaries of creativity and exploration.
-
-<p> <b>TRAINING SCHEDULE</b><br>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ozs2{background-color:#F1F1F1;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-70mf{background-color:#FFF;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-jikt{background-color:#F1F1F1;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+<h4>Training Schedule</h4>
+<table class="yck-table">
 <thead>
-  <tr>
-    <th class="tg-70mf">Teachers-in-charge</th>
-    <th class="tg-70mf">Committee Members</th>
-    <th class="tg-70mf">Training Information</th>
-  </tr>
+<tr>
+<th class="yck-th">Teachers-in-charge</th>
+<th class="yck-th">Committee Members</th>
+<th class="yck-th">Training Information</th>
+</tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-jikt">Mr Wee Daiqi (ext 217)<br>Mr Foo Sian Kok,<br>Simon (ext 142),<br>Mdm Connie Yeo (ext 124)</td>
-    <td class="tg-ozs2"><span style="font-weight:bolder">President</span><br>RIESHARN NESWAR MURALI<br><span style="font-weight:bolder">Vice-President</span><br>ELGIN TAN SIE YUAN</td>
-    <td class="tg-ozs2"><span style="font-weight:bolder">Every Tuesday &amp; Thursday</span><br>3.00pm to 5.30pm<br><span style="font-weight:bolder">Venue :</span> Techno Sphere</td>
-  </tr>
+<tr>
+<td class="yck-td">Mr Wee Daiqi (ext 217)<br>Mr Foo Sian Kok, Simon <br>(ext 142),<br>Mdm Connie Yeo (ext 124)</td>
+<td class="yck-td"><strong>President</strong><br>RIESHARN NESWAR MURALI<br><strong>Vice-President</strong><br>ELGIN TAN SIE YUAN</td>
+<td class="yck-td"><strong>Every Tuesday &amp; Thursday</strong><br>3.00pm to 5.30pm<br><strong>Venue:</strong> Techno Sphere</td>
+</tr>
 </tbody>
 </table>
-</p>
 
 
 <ul class="jekyllcodex_accordion">
@@ -68,74 +51,38 @@ Join the **MARS Club** and be a part of the future of innovation and technology\
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Events/Competitions&nbsp;&amp;&nbsp;Our&nbsp;Proudest&nbsp;Moments</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1"><h4>Events/Competitions&nbsp;&amp;&nbsp;Our&nbsp;Proudest&nbsp;Moments</h4></label>
+<table class="yck-table">
+  <thead>
+    <tr>
+      <th class="yck-th h5">YEAR</th>
+      <th class="yck-th h5">Events, Competitions and Moments</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="yck-td">2024</td>
+      <td class="yck-td">FIRST LEGO League Challenge</td>
+    </tr>
+    <tr>
+      <td class="yck-td"></td>
+      <td class="yck-td">IDE Series (Achieved Top 10 in the final round)</td>
+    </tr>
+    <tr>
+      <td class="yck-td"></td>
+      <td class="yck-td">Swift Explorers: App Design Challenge: Two prototypes of health and wellness apps were created</td>
+    </tr>
+    <tr>
+      <td class="yck-td"></td>
+      <td class="yck-td">National Robotics Competition</td>
+    </tr>
+    <tr>
+      <td class="yck-td"></td>
+      <td class="yck-td">National Youth Tech Championship</td>
+    </tr>
+  </tbody>
+</table>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0lax">2022</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">Ignite Skills Challenge</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">AI Car Challenge - 2nd Runner Up</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Digital Making using Microbit - Finalist</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">2021</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Ignite Skills Challenge</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Robo Genius Global Online Competition</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Ninja ball challenge - Bronze Medal</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">2019</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">One World Robotics Competition - 2nd Runner Up &amp; Winner of the Solution presentation</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Ripple UX Challenge - Champion, 1st Runner Up &amp; 2nd Runner Up</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Micro:bit tinkering competition for secondary school</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">N6 Event</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">2018</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Ripple UX Challenge - 2nd Runner Up &amp; Fastest Robot</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Robotics Challenge - Merit award for Creative Category</td>
-  </tr>
-</tbody>
-</table> </p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
@@ -143,16 +90,13 @@ Join the **MARS Club** and be a part of the future of innovation and technology\
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Gallery</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2"><h4>Gallery</h4></label>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<p>   
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/MARs%20Club/M2.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/MARs%20Club/M3.png">
-			</p>
+<div> 
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/MARs%20Club/M2.png"></div>
+<div><img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/MARs%20Club/M3.png"></div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
@@ -160,3 +104,146 @@ Join the **MARS Club** and be a part of the future of innovation and technology\
 
 	
 </ul>
+
+<style>
+:root {
+	/* Color Scheme */
+	--color-text-light: #888888;
+	--color-border: #e0e0e0;
+
+	/* Typography Decorations */
+	/* --heading-font-weight: 700; */
+	--text-line-height: 1.55em;
+	--heading-line-height: 1.1em;
+	--heading-letter-spacing: -0.02em;
+
+	/* Animation */
+	--transition-speed: 0.8s; /* Added transition speed variable */
+	--transition-timing: cubic-bezier(0.4, 0, 0.2, 1); /* Added smooth easing */
+
+	/* Spacing and Layout */
+	--content-width: 100%;
+	--spacing-unit: 1em;
+	--border-radius: 4px;
+	--box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+	--step--1: clamp(0.8889rem, 0.8357rem + 0.2657vw, 1.0417rem);
+  --step-0: clamp(1rem, 0.913rem + 0.4348vw, 1.125rem);
+}
+
+
+/* 7. Avoid text overflows */
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	overflow-wrap: break-word;
+}
+
+/* 8. Improve line wrapping */
+p {
+	text-wrap: pretty;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	text-wrap: balance;
+}
+
+
+/* ==========================================================================
+   Typography
+   ========================================================================== */
+
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5 {
+	font-weight: var(--heading-font-weight);
+	line-height: var(--heading-line-height);
+	letter-spacing: var(--heading-letter-spacing);
+}
+
+h1,
+.h1 {
+	margin-bottom: var(--spacing-unit);
+}
+
+h2,
+.h2 {
+	margin-bottom: calc(var(--spacing-unit) * 0.7);
+}
+
+h3,
+.h3 {
+	margin-bottom: calc(var(--spacing-unit) * 0.5);
+}
+
+h4,
+.h4 {
+	margin-bottom: calc(var(--spacing-unit) * 0.4);
+	text-transform: uppercase;
+}
+
+h5,
+.h5 {
+	margin-bottom: calc(var(--spacing-unit) * 0.3);
+	text-transform: uppercase;
+}
+
+.text-small {
+	font-size: var(--step--1);
+}
+
+.text-xs {
+	font-size: var(--step--2);
+}
+
+div,	
+p,
+ul,
+ol {
+	font-size: var(--step-0);
+	margin-bottom: var(--spacing-unit);
+	list-style: none;
+}
+	
+.yck-table {
+	border-collapse: collapse;
+	max-width: 100%;
+	margin-top: 1.5em;
+	margin-bottom: clamp(1em, 5%, 3em);
+}
+
+.yck-th {
+	background-color: #f2f2f2;
+	text-align: left;
+	border-bottom: 1px solid #ddd;
+	text-transform: uppercase;
+}
+
+.yck-th h4, .yck-th h5, .yck-th h6 {
+    margin: 0 0 0.5em 0;
+}
+
+.yck-td {
+	border-bottom: 1px solid #ddd;
+	max-width: 300px;
+	word-wrap: break-word;
+	line-height: 1.6rem;
+}
+
+
+</style>
