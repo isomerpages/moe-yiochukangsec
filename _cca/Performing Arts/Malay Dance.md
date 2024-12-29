@@ -41,55 +41,29 @@ Throughout the year, our dancers have opportunities to perform at school functio
 
 <div>
 	<p></p><h3>Training Schedule</h3><p></p>
-
-<ul class="jekyllcodex_accordion">
-
-&nbsp;&nbsp;<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Training&nbsp;Schedule</label>
-
-
-
-
-<table class="yck-table">
+	<table class="yck-table">
     <thead>
       <tr>
         <th class="yck-th">TRAINING INFORMATION</th>
+        <th class="yck-th">TEACHERS-IN-CHARGE</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td class="yck-td">Every Wednesday</td>
-      </tr>
-      <tr>
-        <td class="yck-td">3:00PM to 5:30PM</td>
-      </tr>
-      <tr>
-        <td class="yck-td">Dance Studio 2 (Level 3)</td>
-      </tr>
-      <tr>
-        <th class="yck-th">TEACHERS IN-CHARGE</th>
-      </tr>
-      <tr>
-        <td class="yck-td">Mdm Sutinah (OIC) (ext 126)</td>
-      </tr>
-      <tr>
-        <td class="yck-td">Mdm Siti Aisha (ext 285)</td>
-      </tr>
-      <tr>
-        <td class="yck-td">Mrs Emily Ng (ext 123)</td>
+        <td class="yck-td">Every Wednesday<br>3:00PM to 5:30PM<br>Dance Studio 2 (Level 3)</td>
+        <td class="yck-td">Mdm Sutinah (OIC) (ext 126)<br>Mdm Siti Aisha (ext 285)<br>Mrs Emily Ng (ext 123)</td>
       </tr>
     </tbody>
-  </table>
+</table>
+</div>
 
-</li>
-	<li>
+<ul class="jekyllcodex_accordion">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
+<li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Proudest&nbsp;Moments</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
+
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1"><h3>Proudest&nbsp;Moments</h3></label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
@@ -118,9 +92,9 @@ Throughout the year, our dancers have opportunities to perform at school functio
 	
 <li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Events/Competitions</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2"><h3>Events/Competitions</h3></label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
@@ -134,9 +108,9 @@ School Speech Day
 	
 <li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">Gallery</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3"><h3>Gallery</h3></label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
@@ -267,4 +241,4 @@ ol {
 }
 
 	
-</style></div>
+</style>
