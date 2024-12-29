@@ -9,15 +9,15 @@ variant: markdown
     <div><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M1.jpg">
     </div>
     <div>
-        <h3>Overview</h3>
+			<p></p><h3>Overview</h3><p></p>
         <p>The Malay Dance Performing Arts CCA offers a vibrant platform for our dancers to immerse themselves in the beauty and cultural richness of Malay dance. Our program is designed to instill discipline, confidence, perseverance, and teamwork in every dancer. We believe in nurturing not only technical skills but also emotional depth, allowing dancers to convey their inner selves through movement.</p>
     </div>
     <div>
-        <h3>Vision &amp; Values</h3>
+        <p></p><h3>Vision &amp; Values</h3><p></p>
         <p>At the heart of our CCA is the spirit of <i>PERTAME NALURI SENI</i>, where dancers are encouraged to touch their inner soul and express their creativity with grace and authenticity. We aim to inspire a deep connection between the dancers and the cultural heritage of Malay dance, embracing both traditional and contemporary styles.</p>
     </div>
     <div>
-        <h3>Training &amp; Exposure</h3>
+        <p></p><h3>Training &amp; Exposure</h3><p></p>
         <p>Our dancers are exposed to a wide range of Malay dance genres, blending traditional movements with modern elements. We emphasize technique, coordination, and expression, ensuring that each dancer hones their skills while preserving the cultural essence of the art form.</p>
         <p>Throughout the year, our dancers have opportunities to perform at school functions and prestigious public events. They have proudly represented the school at national platforms such as:</p>
         <ul>
@@ -29,7 +29,7 @@ variant: markdown
         <p>These performances not only showcase the talents of our dancers but also provide them with valuable experiences, cultivating their confidence and enhancing their stage presence.</p>
     </div>
     <div>
-        <h3>Achievements &amp; Highlights</h3>
+        <p></p><h3>Achievements &amp; Highlights</h3><p></p>
         <p>Our CCA has garnered recognition for its artistic achievements, with performances that celebrate the elegance and energy of Malay dance. Through dedication and passion, our dancers consistently push the boundaries of creativity, delivering performances that captivate audiences.</p>
     </div>
 
@@ -38,7 +38,7 @@ variant: markdown
     </div>
 
    <div>
-        <h3>Training Schedule</h3>
+        <p></p><h3>Training Schedule</h3><p></p>
         <table class="yck-table">
             <thead>
               <tr>
