@@ -192,7 +192,7 @@ variant: markdown
 
   /* Spacing and Layout */
   --content-width: 100%;
-  --spacing-unit: 1rem;
+  --spacing-unit: 1em;
   --border-radius: 4px;
   --box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 
