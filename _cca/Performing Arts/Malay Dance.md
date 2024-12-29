@@ -6,7 +6,34 @@ third_nav_title: Performing Arts
 variant: markdown
 ---
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M1.jpg)
-The Malay Dance CCA aims to instill the importance of self-discipline, confidence, perseverance and teamwork. Embracing the spirit of PERTAME\_NALURI SENI, we always strive to firstly touch our inner soul and enhance our feel through the dance. Our dancers are exposed to traditional and contemporary styles with movements showcasing the rich heritage of the genres portrayed. Our dancers are given opportunities to showcase their talent in various school and public performances. Performing at national events such as Youth Celebrate!, Chingay Parade and Muara Festival enable our the dancers to gain valuable experiences that develop them into better and more skillful dancers.
+<div>
+<h3>Overview</h3>
+<p>The Malay Dance Performing Arts CCA offers a vibrant platform for our dancers to immerse themselves in the beauty and cultural richness of Malay dance. Our program is designed to instill discipline, confidence, perseverance, and teamwork in every dancer. We believe in nurturing not only technical skills but also emotional depth, allowing dancers to convey their inner selves through movement.</p>
+</div>
+<div>
+<h3>Vision &amp; Values</h3>
+<p>At the heart of our CCA is the spirit of <i>PERTAME NALURI SENI</i>, where dancers are encouraged to touch their inner soul and express their creativity with grace and authenticity. We aim to inspire a deep connection between the dancers and the cultural heritage of Malay dance, embracing both traditional and contemporary styles.</p>
+</div>
+<div>
+<h3>Training &amp; Exposure</h3>
+<p>Our dancers are exposed to a wide range of Malay dance genres, blending traditional movements with modern elements. We emphasize technique, coordination, and expression, ensuring that each dancer hones their skills while preserving the cultural essence of the art form.
+
+Throughout the year, our dancers have opportunities to perform at school functions and prestigious public events. They have proudly represented the school at national platforms such as:</p>
+<ul>
+	<li>Singapore Youth Festival</li>   
+<li>National Day Observance Ceremony</li>
+<li>Muara Festival @ Esplanade</li>  
+<li>Cantabile Concert</li>
+</ul>  
+
+<p>These performances not only showcase the talents of our dancers but also provide them with valuable experiences, cultivating their confidence and enhancing their stage presence.</p>
+</div>
+<div>
+<h3>Achievements &amp; Highlights</h3>
+<p>Our CCA has garnered recognition for its artistic achievements, with performances that celebrate the elegance and energy of Malay dance. Through dedication and passion, our dancers consistently push the boundaries of creativity, delivering performances that captivate audiences.
+</p>
+</div>
+
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M2.jpg)
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M3.jpg)
 
