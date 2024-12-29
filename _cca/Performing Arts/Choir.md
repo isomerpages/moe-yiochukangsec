@@ -8,40 +8,26 @@ variant: markdown
 <img alt="" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Choir/C1.jpg">
 
 <p>The YCKSS Choir consists of members who share a passion for singing and music. We aim to create a nurturing environment, where they share the joy of music through performances and competitions. The students are exposed to choral reading, intonation and expression in their musical repertoire. Besides practising for competitions, the members are exposed to a whole variety of other enriching experiences, including choral workshops, public concerts and choral exchanges with other choirs. The choir has maintained a high standard of musicianship and shares the joy of music through various performances and competitions.</p>
-
+<div>
+	<h3>Training Schedule</h3>
+<p>
 <table class="yck-table">
   <thead>
     <tr>
-      <th class="yck-th"><h4>Training Schedule</h4></th>
+      <th class="yck-th">TRAINING INFORMATION</th>
+      <th class="yck-th">TEACHERS-IN-CHARGE</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td class="yck-td">Every Tuesday and Thursday</td>
+			<td class="yck-td"><p>TUESDAY AND THURSDAY<br>3:00PM TO 5:30PM<br>Music Room, Level 1</p></td>
+      <td class="yck-td">Mdm Vijaya (OIC) (ext 203)<br>Mdm Lee Ching Fong (ext 142)<br>Ms Michelle Lim (ext 135)<br>Mr Loke Tuck Luen (ext 131)</td>
     </tr>
-    <tr>
-      <td class="yck-td">3:00PM to 5:30PM</td>
-    </tr>
-    <tr>
-      <td class="yck-td">Music Room, Level 1</td>
-    </tr>
-    <tr>
-      <th class="yck-th"><h4>TEACHERS IN-CHARGE</h4></th>
-    </tr>
-    <tr>
-      <td class="yck-td">Mdm Vijaya (OIC) (ext 203)</td>
-    </tr>
-    <tr>
-      <td class="yck-td">Mdm Lee Ching Fong (ext 142)</td>
-    </tr>
-    <tr>
-      <td class="yck-td">Ms Michelle Lim (ext 135)</td>
-    </tr>
-    <tr>
-      <td class="yck-td">Mr Loke Tuck Luen (ext 131)</td>
-    </tr>
+    
   </tbody>
 </table>
+</p>
+</div>
 <hr>
 <details class="jekyllcodex_accordion">
   <summary>Proudest Moments</summary>
