@@ -187,6 +187,39 @@ variant: markdown
 
 
 <style>
+	
+:root {
+    /* Color Scheme */
+    --color-text-light: #888888;
+    --color-border: #e0e0e0;
+
+    /* Typography Decorations */
+    /* --heading-font-weight: 700; */
+    --text-line-height: 1.6em;
+    --heading-line-height: 1.2em;
+    --heading-letter-spacing: -0.02em;
+
+    /* Animation */
+    --transition-speed: 0.8s; /* Added transition speed variable */
+    --transition-timing: cubic-bezier(0.4, 0, 0.2, 1); /* Added smooth easing */
+
+    /* Spacing and Layout */
+    --content-width: 100%;
+    --spacing-unit: 1em;
+    --border-radius: 4px;
+    --box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+    /* Typography Scale */
+    --step--2: clamp(0.7901rem, 0.763rem + 0.1355vw, 0.8681rem);
+  --step--1: clamp(0.8889rem, 0.8357rem + 0.2657vw, 1.0417rem);
+  --step-0: clamp(1rem, 0.913rem + 0.4348vw, 1.25rem);
+  --step-1: clamp(1.125rem, 0.9946rem + 0.6522vw, 1.5rem);
+  --step-2: clamp(1.2656rem, 1.0798rem + 0.9293vw, 1.8rem);
+  --step-3: clamp(1.4238rem, 1.1678rem + 1.2803vw, 2.16rem);
+//  --step-4: clamp(1.6018rem, 1.2574rem + 1.7221vw, 2.592rem);
+//  --step-5: clamp(1.802rem, 1.3469rem + 2.2754vw, 3.1104rem);
+
+}
 p,
 h1,
 h2,
@@ -207,10 +240,6 @@ h4,
 h5,
 h6 {
 	text-wrap: balance;
-}
-#root,
-#__next {
-	isolation: isolate;
 }
 
                                     .wrapper {
