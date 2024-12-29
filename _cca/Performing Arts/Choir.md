@@ -31,28 +31,43 @@ variant: markdown
 <hr>
 <details class="yck-details">
         <summary>Proudest Moments</summary>
-        <div>
-            <h3>2019</h3>
-            <ul>
-                <li>SYF Presentation - Certificate of Accomplishment</li>
-            </ul>
-            <h3>2017</h3>
-            <ul>
-                <li>2017 SYF Certificate of Distinction</li>
-            </ul>
-            <h3>2015</h3>
-            <ul>
-                <li>2015 SYF Certificate of Distinction</li>
-            </ul>
-            <h3>2013</h3>
-            <ul>
-                <li>2013 SYF Certificate of Distinction</li>
-            </ul>
-            <h3>2011</h3>
-            <ul>
-                <li>2011 SYF Gold with Honours</li>
-            </ul>
-        </div>
+        <details class="yck-details">
+        <summary>Proudest Moments</summary>
+        <table class="yck-table">
+ <thead>
+   <tr>
+     <th class="yck-th">
+       <h4>YEAR</h4>
+     </th>
+     <th class="yck-th">
+       <h4>EVENTS, COMPETITIONS AND MOMENTS</h4>
+     </th>
+   </tr>
+ </thead>
+ <tbody>
+   <tr>
+     <td class="yck-td">2019</td>
+     <td class="yck-td">SYF Presentation - Certificate of Accomplishment</td>
+   </tr>
+   <tr>
+     <td class="yck-td">2017</td>
+     <td class="yck-td">2017 SYF Certificate of Distinction</td>
+   </tr>
+   <tr>
+     <td class="yck-td">2015</td>
+     <td class="yck-td">2015 SYF Certificate of Distinction</td>
+   </tr>
+   <tr>
+     <td class="yck-td">2013</td>
+     <td class="yck-td">2013 SYF Certificate of Distinction</td>
+   </tr>
+   <tr>
+     <td class="yck-td">2011</td>
+     <td class="yck-td">2011 SYF Gold with Honours</td>
+   </tr>
+ </tbody>
+</table>
+    </details>
     </details>
 
    <details class="yck-details">
