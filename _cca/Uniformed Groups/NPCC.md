@@ -187,7 +187,7 @@ variant: markdown
 
 
 <style>
-	
+  
 :root {
     /* Color Scheme */
     --color-text-light: #888888;
@@ -220,27 +220,204 @@ variant: markdown
 //  --step-5: clamp(1.802rem, 1.3469rem + 2.2754vw, 3.1104rem);
 
 }
-p,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-	overflow-wrap: break-word;
+  
+
+/* 7. Avoid text overflows */
+p, h1, h2, h3, h4, h5, h6 {
+  overflow-wrap: break-word;
 }
-	
+
+/* 8. Improve line wrapping */
 p {
-	text-wrap: pretty;
+  text-wrap: pretty;
 }
+h1, h2, h3, h4, h5, h6 {
+  text-wrap: balance;
+}
+
+
 h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-	text-wrap: balance;
+.h1 {
+  font-size: var(--step-5);
+  margin-bottom: var(--spacing-unit);
 }
+
+h2,
+.h2 {
+  font-size: var(--step-4);
+  margin-bottom: calc(var(--spacing-unit) * 0.8);
+}
+
+h3,
+.h3 {
+  font-size: var(--step-3);
+  margin-bottom: calc(var(--spacing-unit) * 0.6);
+}
+
+h4,
+.h4 {
+  font-size: var(--step-2);
+  margin-bottom: calc(var(--spacing-unit) * 0.5);
+  text-transform: uppercase;
+}
+
+h5,
+.h5 {
+  font-size: var(--step-1);
+  margin-bottom: calc(var(--spacing-unit) * 0.4);
+  text-transform: uppercase;
+}
+
+.text-small {
+    font-size: var(--step--1);
+}
+
+.text-xs {
+    font-size: var(--step--2);
+}
+
+p,
+ul,
+ol {
+    font-size: var(--step-0);
+    margin-bottom: var(--spacing-unit);
+    list-style: none;
+}
+
+.yck-table {
+  border-collapse: collapse;
+  max-width: 100%;
+  margin-top: 1.5em;
+  margin-bottom: clamp(1em, 5%, 3em);
+}
+
+.yck-th {
+  background-color: #f2f2f2;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  text-transform: uppercase;
+}
+
+.yck-th h4, .yck-th h5, .yck-th h6 {
+    margin: 0 0 0.5em 0;
+}
+
+.yck-td {
+  border-bottom: 1px solid #ddd;
+  max-width: 300px;
+  word-wrap: break-word;
+  line-height: 1.6rem;
+}
+
+
+
+
+.yck-details__content ul, .yck-details__content ol, .yck-details__content ul li,
+.yck-details__content ol li,
+li {
+  list-style: none; /* Removes default marker */
+  padding: 0;
+  margin: 0;
+}
+
+.yck-strong {
+  font-weight: 700;
+}
+
+/* Base styles for yck-details */
+.yck-details {
+    border-top: 1px solid rgba(0, 0, 0, 0.15);
+    /* border-bottom: 1px solid rgba(0, 0, 0, 0.25); */
+  margin-top: clamp(0.5rem, 5%, 2rem);
+    margin-bottom: clamp(1rem, 5% 1.5rem);
+    overflow: hidden;
+    transition: border-color 0.7s;
+}
+
+.yck-details:hover {
+    border-color: #555;
+}
+
+/* Summary styles */
+.yck-details__summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    margin-top: clamp(0.5rem, 5%, 2rem);
+    text-transform: uppercase;
+/*    font-size: clamp(1.25rem, 4vw, 2rem);*/
+}
+
+.yck-details__summary::after {
+    content: "+";
+    font-size: 1.5rem;
+    color: #999;
+    transition: transform 0.5s ease-in-out;
+    margin-right: 1rem;
+}
+
+/* Rotate marker when open */
+.yck-details[open] .yck-details__summary::after {
+    transform: rotate(-45deg);
+}
+
+/* Initial state for content (hidden) */
+.yck-details__content {
+    max-height: auto;
+    margin-bottom: clamp(1.25rem, 5%, 1.75rem);
+    opacity: 0;
+    overflow: hidden;
+    padding: 0;
+    animation: fadeOutSlideUp 0.5s ease forwards; /* Default close state */
+}
+
+/* When open, animate slide and fade in */
+.yck-details[open] .yck-details__content {
+    animation: fadeInSlideDown 0.5s ease forwards;
+}
+
+/* Keyframe for fade-in and slide-down */
+@keyframes fadeInSlideDown {
+    0% {
+        max-height: auto;
+        opacity: 0;
+    }
+    100% {
+        max-height: auto; /* Adjust as needed */
+        opacity: 1;
+    }
+}
+
+/* Keyframe for fade-out and slide-up */
+@keyframes fadeOutSlideUp {
+    0% {
+        max-height: auto;
+        opacity: 1;
+    }
+    100% {
+        max-height: auto;
+        opacity: 0;
+    }
+}
+
+
+
+
+.yck-flexbox-grid {
+  --min: 22ch;
+  --gap: 1.5em;
+
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--gap);
+}
+
+.yck-flexbox-grid > * {
+  flex: 1 1 var(--min);
+}
+
+
 
                                     .wrapper {
                                         width: 100%;
@@ -321,73 +498,12 @@ box-shadow: rgba(0, 0, 0, .25) 0 3px 9px 0;
 transform: translateY(-2px);
 }
 	
-.yck-table {
-    border-collapse: collapse;
-    max-width: 100%;
-    margin-top: 1.5em;
-    margin-bottom: clamp(1em, 5%, 3em);
-}
-.yck-th {
-    background-color: #f2f2f2;
-    text-align: left;
-    border-bottom: 1px solid #ddd;
-    text-transform: uppercase;
-}
-.yck-th h4, .yck-th h5, .yck-th h6 {
-    margin: 0 0 0.5em 0;
-}
-.yck-td {
-    border-bottom: 1px solid #ddd;
-    max-width: 300px;
-    word-wrap: break-word;
-    line-height: 1.6rem;
-}
+
 .wrapper img {
     border-radius: 10px;
     border: 10px solid white;
     box-shadow: -5px -5px 10px rgba(0,0,0,0.1);
 }
 
-.yck-strong {
-  font-weight: 700;
-}
-
-.yck-flexbox-grid {
-  --min: 25ch;
-  --gap: 1.5em;
-
-  display: flex;
-  flex-wrap: wrap;
-  gap: var(--gap);
-}
-
-.yck-flexbox-grid > * {
-  flex: 1 1 var(--min);
-	list-style: none;
-}
-
-/* Keyframe for fade-in and slide-down */
-@keyframes fadeInSlideDown {
-	0% {
-		max-height: auto;
-		opacity: 0;
-	}
-	100% {
-		max-height: auto; /* Adjust as needed */
-		opacity: 1;
-	}
-}
-
-/* Keyframe for fade-out and slide-up */
-@keyframes fadeOutSlideUp {
-	0% {
-		max-height: auto;
-		opacity: 1;
-	}
-	100% {
-		max-height: auto;
-		opacity: 0;
-	}
-}
 	
 	</style>
