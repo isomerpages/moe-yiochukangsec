@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M1.jpg)
+<div><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M1.jpg">
+</div>
 <div>
 <h3>Overview</h3>
 <p>The Malay Dance Performing Arts CCA offers a vibrant platform for our dancers to immerse themselves in the beauty and cultural richness of Malay dance. Our program is designed to instill discipline, confidence, perseverance, and teamwork in every dancer. We believe in nurturing not only technical skills but also emotional depth, allowing dancers to convey their inner selves through movement.</p>
@@ -34,10 +35,12 @@ Throughout the year, our dancers have opportunities to perform at school functio
 </p>
 </div>
 
-![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M2.jpg)
-![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M3.jpg)
+<div><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M2.jpg"></div>
+<div><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M3.jpg">
+</div>
 
-
+<div>
+	<h3>Training Schedule</h3>
 
 <ul class="jekyllcodex_accordion">
 
@@ -47,49 +50,39 @@ Throughout the year, our dancers have opportunities to perform at school functio
 
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Training&nbsp;Schedule</label>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<p> <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig">TRAINING INFORMATION</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">Every Wednesday</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">3:00PM to 5:30PM</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Dance Studio 2 (Level 3)</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">TEACHERS IN-CHARGE</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Mdm Sutinah (OIC) (ext 126)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Mdm Siti Aisha (ext 285)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Mrs Emily Ng (ext 123)</td>
-  </tr>
-</tbody>
-</table> </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+<table class="yck-table">
+    <thead>
+      <tr>
+        <th class="yck-th">TRAINING INFORMATION</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="yck-td">Every Wednesday</td>
+      </tr>
+      <tr>
+        <td class="yck-td">3:00PM to 5:30PM</td>
+      </tr>
+      <tr>
+        <td class="yck-td">Dance Studio 2 (Level 3)</td>
+      </tr>
+      <tr>
+        <th class="yck-th">TEACHERS IN-CHARGE</th>
+      </tr>
+      <tr>
+        <td class="yck-td">Mdm Sutinah (OIC) (ext 126)</td>
+      </tr>
+      <tr>
+        <td class="yck-td">Mdm Siti Aisha (ext 285)</td>
+      </tr>
+      <tr>
+        <td class="yck-td">Mrs Emily Ng (ext 123)</td>
+      </tr>
+    </tbody>
+  </table>
 
 </li>
 	<li>
@@ -274,4 +267,4 @@ ol {
 }
 
 	
-</style>
+</style></div>
