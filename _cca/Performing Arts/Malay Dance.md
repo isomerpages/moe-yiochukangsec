@@ -248,5 +248,30 @@ ol {
     list-style: none;
 }
 
+.yck-table {
+	border-collapse: collapse;
+	max-width: 100%;
+	margin-top: 1.5em;
+	margin-bottom: clamp(1em, 5%, 3em);
+}
+
+.yck-th {
+	background-color: #f2f2f2;
+	text-align: left;
+	border-bottom: 1px solid #ddd;
+	text-transform: uppercase;
+}
+
+.yck-th h4, .yck-th h5, .yck-th h6 {
+    margin: 0 0 0.5em 0;
+}
+
+.yck-td {
+	border-bottom: 1px solid #ddd;
+	max-width: 300px;
+	word-wrap: break-word;
+	line-height: 1.6rem;
+}
+
 	
 </style>
