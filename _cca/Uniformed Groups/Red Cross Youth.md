@@ -176,11 +176,7 @@ variant: markdown
 </div>
 
 <style>
-/* ==========================================================================
-   THEME CUSTOMIZATION
-   These variables control the main color scheme and text decorations
-   ========================================================================== */
-
+	
 :root {
     /* Color Scheme */
     --color-text-light: #888888;
@@ -213,71 +209,7 @@ variant: markdown
 //  --step-5: clamp(1.802rem, 1.3469rem + 2.2754vw, 3.1104rem);
 
 }
-
-/* ==========================================================================
-   Reset & Base Styles
-   ========================================================================== */
-
-
-html {
-  font-size: 100%; /* [3] Define base font size in percentage for accessibility. */
-}
-
-body {
-  min-height: 100vh;
-  scroll-behavior: smooth;
-  text-rendering: optimizeSpeed;
-  font-size: var(--step-0);
-  /* 4. Improve text rendering */
-  -webkit-font-smoothing: antialiased;
-}
-
-/* ==========================================================================
-   Table Reset
-   ========================================================================== */
-
-table {
-  max-width: 100%; /* Ensure tables are responsive */
-  border-collapse: collapse; /* Remove space between borders */
-  border-spacing: 0; /* Reset spacing between cells if border-collapse is overridden */
-}
-
-th,
-td {
-  padding: 0; /* Remove default padding */
-  margin: 0; /* Remove default margin */
-  border: none; /* Remove default borders */
-  text-align: left; /* Standard alignment */
-  vertical-align: top; /* Consistent vertical alignment */
-}
-
-caption {
-  text-align: center; /* Default to center for captions */
-  font-size: inherit; /* Match caption font size with surrounding text */
-  font-weight: normal; /* Remove bold default styling */
-  padding: 0; /* Remove extra spacing */
-}
-
-thead,
-tbody,
-tfoot {
-  display: table-row-group; /* Ensure consistent group behavior */
-  vertical-align: middle; /* Align content properly within cells */
-}
-
-tr {
-  margin: 0; /* Reset row-specific margins */
-  padding: 0; /* Reset row-specific padding */
-}
-
-th {
-  font-weight: bold; /* Ensure header cells stand out */
-}
-
-td {
-  font-weight: normal; /* Regular text weight for data cells */
-  word-wrap: break-word; /* Ensure long content wraps within cells */
-}
+	
 
 /* 7. Avoid text overflows */
 p, h1, h2, h3, h4, h5, h6 {
@@ -292,31 +224,6 @@ h1, h2, h3, h4, h5, h6 {
   text-wrap: balance;
 }
 
-/*
-  9. Create a root stacking context
-*/
-#root, #__next {
-  isolation: isolate;
-}
-
-/* ==========================================================================
-   Typography
-   ========================================================================== */
-
-h1,
-.h1,
-h2,
-.h2,
-h3,
-.h3,
-h4,
-.h4,
-h5,
-.h5 {
-  font-weight: inherit;
-  line-height: inherit;
-  letter-spacing: inherit;
-}
 
 h1,
 .h1 {
@@ -340,29 +247,59 @@ h4,
 .h4 {
   font-size: var(--step-2);
   margin-bottom: calc(var(--spacing-unit) * 0.5);
+  text-transform: uppercase;
 }
 
 h5,
 .h5 {
   font-size: var(--step-1);
   margin-bottom: calc(var(--spacing-unit) * 0.4);
+  text-transform: uppercase;
 }
 
 .text-small {
-  font-size: var(--step--1);
-	color: var(--color-text-light);
+    font-size: var(--step--1);
 }
 
 .text-xs {
-  font-size: var(--step--2);
+    font-size: var(--step--2);
 }
 
 p,
 ul,
 ol {
-  font-size: var(--step-0);
-  margin-bottom: var(--spacing-unit);
+    font-size: var(--step-0);
+    margin-bottom: var(--spacing-unit);
+    list-style: none;
 }
+
+.yck-table {
+	border-collapse: collapse;
+	max-width: 100%;
+	margin-top: 1.5em;
+	margin-bottom: clamp(1em, 5%, 3em);
+}
+
+.yck-th {
+	background-color: #f2f2f2;
+	text-align: left;
+	border-bottom: 1px solid #ddd;
+	text-transform: uppercase;
+}
+
+.yck-th h4, .yck-th h5, .yck-th h6 {
+    margin: 0 0 0.5em 0;
+}
+
+.yck-td {
+	border-bottom: 1px solid #ddd;
+	max-width: 300px;
+	word-wrap: break-word;
+	line-height: 1.6rem;
+}
+
+
+
 
 .yck-details__content ul, .yck-details__content ol, .yck-details__content ul li,
 .yck-details__content ol li,
@@ -455,34 +392,6 @@ li {
 
 
 
-
-.yck-table {
-  border-collapse: collapse;
-  line-height: 1.5rem;
-  max-width: 100%;
-  margin-top: 1.5em;
-}
-
-.yck-th {
-  background-color: #f2f2f2;
-  /* padding: clamp(1rem, 5%, 3rem); */
-  text-align: left;
-  border-bottom: 1px solid #ddd;
-  text-transform: uppercase;
-}
-
-.yck-th h5 {
-  margin: 0 0 0.5em 0;
-/*  font-size: clamp(1.05rem, 2vw, 1.55rem);*/
-}
-
-.yck-td {
-/*  font-size: clamp(1rem, 5%, 2rem);*/
-  /* padding: 1.5rem clamp(1rem, 5%, 3rem); */
-  border-bottom: 1px solid #ddd;
-  max-width: 300px;
-  word-wrap: break-word;
-}
 
 .yck-flexbox-grid {
   --min: 22ch;
