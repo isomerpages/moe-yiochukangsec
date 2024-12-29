@@ -31,8 +31,8 @@ variant: markdown
   </thead>
   <tbody>
     <tr>
-      <td class="yck-td"><p>Day &amp; Time</p></td>
-      <td class="yck-td"><p>Every Tuesday<br>3:00PM to 5:30PM</p></td>
+      <td class="yck-td">Day &amp; Time</td>
+      <td class="yck-td">Every Tuesday<br>3:00PM to 5:30PM</td>
     </tr>
     <tr>
       <td class="yck-td">Location</td>
@@ -207,7 +207,6 @@ variant: markdown
   --step-3: clamp(1.4238rem, 1.1678rem + 1.2803vw, 2.16rem);
 //  --step-4: clamp(1.6018rem, 1.2574rem + 1.7221vw, 2.592rem);
 //  --step-5: clamp(1.802rem, 1.3469rem + 2.2754vw, 3.1104rem);
-
 }
 	
 
