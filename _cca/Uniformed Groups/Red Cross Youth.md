@@ -182,29 +182,36 @@ variant: markdown
    ========================================================================== */
 
 :root {
-  /* Color Scheme */
-  --color-border: #e0e0e0;
-  --color-text-light: #888888;
-	
-  /* Animation */
-  --transition-speed: 0.8s; /* Added transition speed variable */
-  --transition-timing: cubic-bezier(0.4, 0, 0.2, 1); /* Added smooth easing */
+    /* Color Scheme */
+    --color-text-light: #888888;
+    --color-border: #e0e0e0;
 
-  /* Spacing and Layout */
-  --content-width: 100%;
-  --spacing-unit: 1em;
-  --border-radius: 4px;
-  --box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    /* Typography Decorations */
+    /* --heading-font-weight: 700; */
+    --text-line-height: 1.6em;
+    --heading-line-height: 1.2em;
+    --heading-letter-spacing: -0.02em;
 
-  /* Typography Scale */
-  --step--2: clamp(0.7813rem, 0.7615rem + 0.0988vw, 0.88rem);
-  --step--1: clamp(0.9375rem, 0.905rem + 0.1625vw, 1.1rem);
-  --step-0: clamp(1.125rem, 1.075rem + 0.25vw, 1.375rem);
-  --step-1: clamp(1.35rem, 1.2763rem + 0.3688vw, 1.7188rem);
-  --step-2: clamp(1.62rem, 1.5143rem + 0.5284vw, 2.1484rem);
-  --step-3: clamp(1.944rem, 1.7957rem + 0.7415vw, 2.6855rem);
-  --step-4: clamp(2.3328rem, 2.128rem + 1.0241vw, 3.3569rem);
-  --step-5: clamp(2.7994rem, 2.52rem + 1.3968vw, 4.1962rem);
+    /* Animation */
+    --transition-speed: 0.8s; /* Added transition speed variable */
+    --transition-timing: cubic-bezier(0.4, 0, 0.2, 1); /* Added smooth easing */
+
+    /* Spacing and Layout */
+    --content-width: 100%;
+    --spacing-unit: 1em;
+    --border-radius: 4px;
+    --box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+    /* Typography Scale */
+    --step--2: clamp(0.7901rem, 0.763rem + 0.1355vw, 0.8681rem);
+  --step--1: clamp(0.8889rem, 0.8357rem + 0.2657vw, 1.0417rem);
+  --step-0: clamp(1rem, 0.913rem + 0.4348vw, 1.25rem);
+  --step-1: clamp(1.125rem, 0.9946rem + 0.6522vw, 1.5rem);
+  --step-2: clamp(1.2656rem, 1.0798rem + 0.9293vw, 1.8rem);
+  --step-3: clamp(1.4238rem, 1.1678rem + 1.2803vw, 2.16rem);
+//  --step-4: clamp(1.6018rem, 1.2574rem + 1.7221vw, 2.592rem);
+//  --step-5: clamp(1.802rem, 1.3469rem + 2.2754vw, 3.1104rem);
+
 }
 
 /* ==========================================================================
