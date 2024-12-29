@@ -105,6 +105,9 @@ variant: markdown
 <p>
 <img src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Science%20Department/Science_R16a.png">
 			</p>
+	<p>
+<img src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Science%20Department/Science_R16b.jpg">
+			</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
