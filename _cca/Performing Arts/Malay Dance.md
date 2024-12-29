@@ -169,9 +169,9 @@ School Speech Day
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<p> <iframe width="560" height="315" src="https://www.youtube.com/embed/rq9OGwsQ_VM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>YCKSS Malay Dance 2019<br>
+<p> <iframe width="560" height="315" src="https://www.youtube.com/embed/rq9OGwsQ_VM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><small><i>YCKSS Malay Dance 2019</i></small><br></p>
 			  
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M4.png">
+<p><img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M4.png">
 			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M5.png">
 			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M6.png">
 			</p>
@@ -221,37 +221,36 @@ School Speech Day
 
 }
 
-
 h1,
 .h1 {
-    font-size: var(--step-5);
-    margin-top: var(--spacing-unit);
+  font-size: var(--step-5);
+  margin-bottom: var(--spacing-unit);
 }
 
 h2,
 .h2 {
-    font-size: var(--step-4);
-    margin-top: calc(var(--spacing-unit) * 0.8);
+  font-size: var(--step-4);
+  margin-bottom: calc(var(--spacing-unit) * 0.8);
 }
 
 h3,
 .h3 {
-    font-size: var(--step-3);
-    margin-top: calc(var(--spacing-unit) * 0.6);
+  font-size: var(--step-3);
+  margin-bottom: calc(var(--spacing-unit) * 0.6);
 }
 
 h4,
 .h4 {
-    font-size: var(--step-2);
-    margin-top: calc(var(--spacing-unit) * 0.5);
-    text-transform: uppercase;
+  font-size: var(--step-2);
+  margin-bottom: calc(var(--spacing-unit) * 0.5);
+  text-transform: uppercase;
 }
 
 h5,
 .h5 {
-    font-size: var(--step-1);
-    margin-top: calc(var(--spacing-unit) * 0.4);
-    text-transform: uppercase;
+  font-size: var(--step-1);
+  margin-bottom: calc(var(--spacing-unit) * 0.4);
+  text-transform: uppercase;
 }
 
 .text-small {
