@@ -53,12 +53,28 @@ variant: markdown
             </thead>
             <tbody>
               <tr>
-                <td class="yck-td">Every Wednesday<br>3:00PM to 5:30PM<br>Dance Studio 2 (Level 3)</td>
+								<td class="yck-td"><strong>MONDAY @ Dance Studio 1</strong><br><strong>WEDNESDAY @ Dance Studio 2</strong><br>3:00PM to 5:30PM</td>
                 <td class="yck-td">Mdm Sutinah (OIC) (ext 126)<br>Mdm Siti Aisha (ext 285)<br>Mrs Emily Ng (ext 123)</td>
               </tr>
             </tbody>
         </table>
-    </div>
+
+ <table class="yck-table">
+  <tbody><tr>
+    <th class="yck-th h5">Dance Instructor</th>
+  </tr>
+  <tr>
+    <td class="yck-td"><strong>
+			Mr Osman Abdul Hamid</strong>
+            <ul class="yck-custom-list">
+                <li>ERA DANCE THEATRE, Co-Founder, Director and Choreographer</li>
+                <li>Cultural Medallion 2023</li>
+            </ul>
+
+   </td>
+  </tr>
+</tbody></table>
+</div>
 
   
 	
@@ -340,7 +356,29 @@ variant: markdown
       .yck-component .yck-blockquote cite::before {
       content: "\2014 \0020"; /* En dash */
       } 
-      
+	
+
+
+
+  .yck-component ul.yck-custom-list {
+    list-style: none;
+    padding-left: 0;
+    margin-left: 0;
+      font-size: inherit;
+  }
+
+  .yck-component ul.yck-custom-list li {
+    position: relative;
+    padding-left: 1.5em;
+    margin-bottom: 0.5em;
+	  line-height: 1em;
+  }
+
+  .yck-component ul.yck-custom-list li::before {
+    content: "~";
+    position: absolute;
+    left: 0;
+  }
       
       .yck-component .yck-details__content ul, .yck-component .yck-details__content ol, .yck-component .yck-details__content ul li,
       .yck-component .yck-details__content ol li,
