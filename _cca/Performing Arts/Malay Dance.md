@@ -293,6 +293,7 @@ variant: markdown
           max-width: 100%;
           margin-top: 1.5em;
           margin-bottom: clamp(1em, 5%, 3em);
+	   font-size: var(--yck-step--1);
       }
       
       .yck-component .yck-th {
