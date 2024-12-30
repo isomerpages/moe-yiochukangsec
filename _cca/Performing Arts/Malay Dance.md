@@ -9,15 +9,21 @@ variant: markdown
     <div><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M1.jpg">
     </div>
     <div>
-			<p></p><h3>Overview</h3><p></p>
+        <p></p>
+        <h3>Overview</h3>
+        <p></p>
         <p>The Malay Dance Performing Arts CCA offers a vibrant platform for our dancers to immerse themselves in the beauty and cultural richness of Malay dance. Our program is designed to instill discipline, confidence, perseverance, and teamwork in every dancer. We believe in nurturing not only technical skills but also emotional depth, allowing dancers to convey their inner selves through movement.</p>
     </div>
     <div>
-        <p></p><h3>Vision &amp; Values</h3><p></p>
+        <p></p>
+        <h3>Vision &amp; Values</h3>
+        <p></p>
         <p>At the heart of our CCA is the spirit of <i>PERTAME NALURI SENI</i>, where dancers are encouraged to touch their inner soul and express their creativity with grace and authenticity. We aim to inspire a deep connection between the dancers and the cultural heritage of Malay dance, embracing both traditional and contemporary styles.</p>
     </div>
     <div>
-        <p></p><h3>Training &amp; Exposure</h3><p></p>
+        <p></p>
+        <h3>Training &amp; Exposure</h3>
+        <p></p>
         <p>Our dancers are exposed to a wide range of Malay dance genres, blending traditional movements with modern elements. We emphasize technique, coordination, and expression, ensuring that each dancer hones their skills while preserving the cultural essence of the art form.</p>
         <p>Throughout the year, our dancers have opportunities to perform at school functions and prestigious public events. They have proudly represented the school at national platforms such as:</p>
         <ul>
@@ -29,166 +35,166 @@ variant: markdown
         <p>These performances not only showcase the talents of our dancers but also provide them with valuable experiences, cultivating their confidence and enhancing their stage presence.</p>
     </div>
     <div>
-        <p></p><h3>Achievements &amp; Highlights</h3><p></p>
+        <p></p>
+        <h3>Achievements &amp; Highlights</h3>
+        <p></p>
         <p>Our CCA has garnered recognition for its artistic achievements, with performances that celebrate the elegance and energy of Malay dance. Through dedication and passion, our dancers consistently push the boundaries of creativity, delivering performances that captivate audiences.</p>
     </div>
-
-   <div><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M2.jpg"></div>
-	<div class="yck-component">
-    <blockquote class="yck-blockquote">
-        <p>We are really proud of our Malay Dancers for showing resilience and determination in the face of the numerous challenges. The extra practices and sacrifices we have had to make were worthwhile. I hope this experience has taught them to persevere and never give up no matter what challenges may come their way in the future.</p>
-        <cite>Mdm Sutinah<br>Teacher in charge (Malay Dance)</cite>
-			<p><img alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M3plus.jpg"></p>
-    </blockquote>
-		
-
-   <div>
-        <p></p><h3>Training Schedule</h3><p></p>
-        <table class="yck-table">
-            <thead>
-              <tr>
-                <th class="yck-th">TRAINING INFORMATION</th>
-                <th class="yck-th">TEACHERS-IN-CHARGE</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-								<td class="yck-td"><strong>MONDAY @ Dance Studio 1</strong><br><strong>WEDNESDAY @ Dance Studio 2</strong><br>3:00PM to 5:30PM</td>
-                <td class="yck-td">Mdm Sutinah (OIC) (ext 126)<br>Mdm Siti Aisha (ext 285)<br>Mrs Emily Ng (ext 123)</td>
-              </tr>
-            </tbody>
-        </table>
-
- <table class="yck-table">
-  <tbody><tr>
-    <th class="yck-th h5">Dance Instructor</th>
-  </tr>
-  <tr>
-    <td class="yck-td"><strong>
-			Mr Osman Abdul Hamid</strong>
-            <ul class="yck-custom-list">
-                <li>ERA DANCE THEATRE, Co-Founder, Director and Choreographer</li>
-                <li>Cultural Medallion 2023</li>
-            </ul>
-
-   </td>
-  </tr>
-</tbody></table>
-</div>
-
-  
-	
-<details class="yck-details">
-    <summary class="yck-details__summary"><h4>Proudest Moments</h4></summary>
-    <div class="yck-details__content">
-        <table class="yck-table">
-            <thead>
-                <tr>
-                    <th class="yck-th">YEAR</th>
-                    <th class="yck-th">AWARDS</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td class="yck-td"><strong>2024</strong></td>
-                    <td class="yck-td">National Day Observance Ceremony<br>Muara Festival @ Esplanade – Inang : Terendak Ria<br>Cantabile Concert</td>
-                </tr>
-                <tr>
-                    <td class="yck-td"><strong>2023</strong></td>
-                    <td class="yck-td">National Day Parade Performance<br>Muara Festival @ Esplanade<br>Cantabile Concert</td>
-                </tr>
-                 <tr>
-                    <td class="yck-td"><strong>2022</strong></td>
-                    <td class="yck-td">Hari Raya Celebrations @ Singapore Police Force F Division Ang Mo Kio Headquarters</td>
-                </tr>
-                <tr>
-                    <td class="yck-td"><strong>2021</strong></td>
-                    <td class="yck-td">'Perlindungan' SYF Arts Presentation - Certificate of Accomplishment</td>
-                </tr>
-                <tr>
-                    <td class="yck-td"><strong>2019</strong></td>
-                    <td class="yck-td">'Tampi' SYF Arts Presentation - Certificate of Accomplishment</td>
-                </tr>
-                <tr>
-                    <td class="yck-td"><strong>2017</strong></td>
-                    <td class="yck-td">National Day Parade Performance (Thriving Together)</td>
-                </tr>
-                <tr>
-                    <td class="yck-td"><strong>2016</strong></td>
-                    <td class="yck-td">Participate in Chinese New Year Celebrations<br>Chingay Parade 2016<br>Muara Festival in 2016</td>
-                </tr>
-                <tr>
-                    <td class="yck-td"><strong>2015</strong></td>
-                    <td class="yck-td">Participation in Youth Celebrate<br>Muara Festival in 2015</td>
-                </tr>
-                <tr>
-                    <td class="yck-td"><strong>2013</strong></td>
-                    <td class="yck-td">'Topeng' SYF Arts Presentation - Certificate of Distinction</td>
-                </tr>
-                <tr>
-                    <td class="yck-td"><strong>2011</strong></td>
-                    <td class="yck-td">'Rindu' (SYF Central Judging - Gold Award)</td>
-                </tr>
-                <tr>
-                    <td class="yck-td"><strong>2009</strong></td>
-                    <td class="yck-td">'Jati' (SYF Central Judging - Gold with Honour Award) Perform @ Kallang Theatre</td>
-                </tr>
-                <tr>
-                    <td class="yck-td"><strong>2007</strong></td>
-                    <td class="yck-td">Zapin Tandak' (SYF Central Judging - Gold Award)</td>
-                </tr>
-                <tr>
-                    <td class="yck-td"><strong>2005</strong></td>
-                    <td class="yck-td">'Belenggu' (SYF Central Judging - Gold Award) Perform @ Sentosa</td>
-                </tr>
-                <tr>
-                    <td class="yck-td"><strong>2003</strong></td>
-                    <td class="yck-td">'Zapin Aksi' (SYF Central Judging - Gold Award) Perform @ Bird Park and SYF at the park.</td>
-                </tr>
-                <tr>
-                    <td class="yck-td"><strong>2001</strong></td>
-                    <td class="yck-td">'Tarian Piring' (SYF Central Judging - Gold Award, Top Dance Malay Dance Category) Perform @ SYF Presentation.</td>
-                </tr>
-                <tr>
-                    <td class="yck-td"><strong>1997</strong></td>
-                    <td class="yck-td">'Ceremonial Feast' (SYF Central Judging - Gold Award, SYF Top Dance) Perform @ SYF Presentation 1</td>
-                </tr>
-                 <tr>
-                    <td class="yck-td"><strong>1996</strong></td>
-                    <td class="yck-td">1996 - '1st Prize, RI Inter-school Malay Dance Competition</td>
-                </tr>
-                <tr>
-                    <td class="yck-td"><strong>1995</strong></td>
-                    <td class="yck-td">Zapin Budi' (SYF Certificate of Merit) (1st Prize in RI inter-school Malay Dance Competition)</td>
-                </tr>
-                 <tr>
-                    <td class="yck-td"><strong>1993</strong></td>
-                    <td class="yck-td">'Rentak Saji'(SYF Central Judging - Certificate of Merit)</td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
-  </details>
-
-   <details class="yck-details">
-        <summary class="yck-details__summary"><h4>Events/Competitions</h4></summary>
-        <div class="yck-details__content">
-                <p> Singapore Youth Festival – Arts Presentation<br>
-                School Speech Day
-                </p>
+    <div><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M2.jpg"></div>
+    <div class="yck-component">
+        <blockquote class="yck-blockquote">
+            <p>We are really proud of our Malay Dancers for showing resilience and determination in the face of the numerous challenges. The extra practices and sacrifices we have had to make were worthwhile. I hope this experience has taught them to persevere and never give up no matter what challenges may come their way in the future.</p>
+            <cite>Mdm Sutinah<br>Teacher in charge (Malay Dance)</cite>
+            <p><img alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M3plus.jpg"></p>
+        </blockquote>
+        <div>
+            <p></p>
+            <h3>Training Schedule</h3>
+            <p></p>
+            <table class="yck-table">
+                <thead>
+                    <tr>
+                        <th class="yck-th">TRAINING INFORMATION</th>
+                        <th class="yck-th">TEACHERS-IN-CHARGE</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="yck-td"><strong>MONDAY @ Dance Studio 1</strong><br><strong>WEDNESDAY @ Dance Studio 2</strong><br>3:00PM to 5:30PM</td>
+                        <td class="yck-td">Mdm Sutinah (OIC) (ext 126)<br>Mdm Siti Aisha (ext 285)<br>Mrs Emily Ng (ext 123)</td>
+                    </tr>
+                </tbody>
+            </table>
+            <table class="yck-table">
+                <tbody>
+                    <tr>
+                        <th class="yck-th h5">Dance Instructor</th>
+                    </tr>
+                    <tr>
+                        <td class="yck-td"><strong> Mr Osman Abdul Hamid</strong>
+                            <ul class="yck-custom-list">
+                                <li>ERA DANCE THEATRE, Co-Founder, Director and Choreographer</li>
+                                <li>Cultural Medallion 2023</li>
+                            </ul>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
         </div>
-    </details>
-
-   <details class="yck-details">
-        <summary class="yck-details__summary"><h4>Gallery</h4></summary>
-          <div class="yck-details__content">
+        <details class="yck-details">
+            <summary class="yck-details__summary">
+                <h4>Proudest Moments</h4>
+            </summary>
+            <div class="yck-details__content">
+                <table class="yck-table">
+                    <thead>
+                        <tr>
+                            <th class="yck-th">YEAR</th>
+                            <th class="yck-th">AWARDS</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="yck-td"><strong>2024</strong></td>
+                            <td class="yck-td">National Day Observance Ceremony<br>Muara Festival @ Esplanade – Inang : Terendak Ria<br>Cantabile Concert</td>
+                        </tr>
+                        <tr>
+                            <td class="yck-td"><strong>2023</strong></td>
+                            <td class="yck-td">National Day Parade Performance<br>Muara Festival @ Esplanade<br>Cantabile Concert</td>
+                        </tr>
+                        <tr>
+                            <td class="yck-td"><strong>2022</strong></td>
+                            <td class="yck-td">Hari Raya Celebrations @ Singapore Police Force F Division Ang Mo Kio Headquarters</td>
+                        </tr>
+                        <tr>
+                            <td class="yck-td"><strong>2021</strong></td>
+                            <td class="yck-td">'Perlindungan' SYF Arts Presentation - Certificate of Accomplishment</td>
+                        </tr>
+                        <tr>
+                            <td class="yck-td"><strong>2019</strong></td>
+                            <td class="yck-td">'Tampi' SYF Arts Presentation - Certificate of Accomplishment</td>
+                        </tr>
+                        <tr>
+                            <td class="yck-td"><strong>2017</strong></td>
+                            <td class="yck-td">National Day Parade Performance (Thriving Together)</td>
+                        </tr>
+                        <tr>
+                            <td class="yck-td"><strong>2016</strong></td>
+                            <td class="yck-td">Participate in Chinese New Year Celebrations<br>Chingay Parade 2016<br>Muara Festival in 2016</td>
+                        </tr>
+                        <tr>
+                            <td class="yck-td"><strong>2015</strong></td>
+                            <td class="yck-td">Participation in Youth Celebrate<br>Muara Festival in 2015</td>
+                        </tr>
+                        <tr>
+                            <td class="yck-td"><strong>2013</strong></td>
+                            <td class="yck-td">'Topeng' SYF Arts Presentation - Certificate of Distinction</td>
+                        </tr>
+                        <tr>
+                            <td class="yck-td"><strong>2011</strong></td>
+                            <td class="yck-td">'Rindu' (SYF Central Judging - Gold Award)</td>
+                        </tr>
+                        <tr>
+                            <td class="yck-td"><strong>2009</strong></td>
+                            <td class="yck-td">'Jati' (SYF Central Judging - Gold with Honour Award) Perform @ Kallang Theatre</td>
+                        </tr>
+                        <tr>
+                            <td class="yck-td"><strong>2007</strong></td>
+                            <td class="yck-td">Zapin Tandak' (SYF Central Judging - Gold Award)</td>
+                        </tr>
+                        <tr>
+                            <td class="yck-td"><strong>2005</strong></td>
+                            <td class="yck-td">'Belenggu' (SYF Central Judging - Gold Award) Perform @ Sentosa</td>
+                        </tr>
+                        <tr>
+                            <td class="yck-td"><strong>2003</strong></td>
+                            <td class="yck-td">'Zapin Aksi' (SYF Central Judging - Gold Award) Perform @ Bird Park and SYF at the park.</td>
+                        </tr>
+                        <tr>
+                            <td class="yck-td"><strong>2001</strong></td>
+                            <td class="yck-td">'Tarian Piring' (SYF Central Judging - Gold Award, Top Dance Malay Dance Category) Perform @ SYF Presentation.</td>
+                        </tr>
+                        <tr>
+                            <td class="yck-td"><strong>1997</strong></td>
+                            <td class="yck-td">'Ceremonial Feast' (SYF Central Judging - Gold Award, SYF Top Dance) Perform @ SYF Presentation 1</td>
+                        </tr>
+                        <tr>
+                            <td class="yck-td"><strong>1996</strong></td>
+                            <td class="yck-td">1996 - '1st Prize, RI Inter-school Malay Dance Competition</td>
+                        </tr>
+                        <tr>
+                            <td class="yck-td"><strong>1995</strong></td>
+                            <td class="yck-td">Zapin Budi' (SYF Certificate of Merit) (1st Prize in RI inter-school Malay Dance Competition)</td>
+                        </tr>
+                        <tr>
+                            <td class="yck-td"><strong>1993</strong></td>
+                            <td class="yck-td">'Rentak Saji'(SYF Central Judging - Certificate of Merit)</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </details>
+        <details class="yck-details">
+            <summary class="yck-details__summary">
+                <h4>Events/Competitions</h4>
+            </summary>
+            <div class="yck-details__content">
+                <p> Singapore Youth Festival – Arts Presentation<br> School Speech Day </p>
+            </div>
+        </details>
+        <details class="yck-details">
+            <summary class="yck-details__summary">
+                <h4>Gallery</h4>
+            </summary>
+            <div class="yck-details__content">
                 <p> <iframe width="560" height="315" src="https://www.youtube.com/embed/rq9OGwsQ_VM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><small><i>YCKSS Malay Dance 2019</i></small><br></p>
-                <p><img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M4.png">
-                    <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M5.png">
-                    <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M6.png">
+                <p><img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M4.png">
+                    <img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M5.png">
+                    <img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M6.png">
                 </p>
             </div>
-    </details>
+        </details>
+    </div>
 </div>
 
 <style>
@@ -494,4 +500,4 @@ variant: markdown
       .yck-component .yck-flexbox-grid > * {
           flex: 1 1 var(--yck-min);
       }
-  </style></div>
+  </style>
