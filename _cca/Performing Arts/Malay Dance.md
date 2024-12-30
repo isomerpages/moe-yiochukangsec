@@ -63,7 +63,7 @@ variant: markdown
   
 	
 <details class="yck-details">
-    <summary class="yck-details__summary"><h3>Proudest Moments</h3></summary>
+    <summary class="yck-details__summary"><h4>Proudest Moments</h4></summary>
     <div class="yck-details__content">
         <table class="yck-table">
             <thead>
@@ -143,7 +143,7 @@ variant: markdown
   </details>
 
    <details class="yck-details">
-        <summary class="yck-details__summary"><h3>Events/Competitions</h3></summary>
+        <summary class="yck-details__summary"><h4>Events/Competitions</h4></summary>
         <div class="yck-details__content">
                 <p> Singapore Youth Festival – Arts Presentation<br>
                 School Speech Day
@@ -152,7 +152,7 @@ variant: markdown
     </details>
 
    <details class="yck-details">
-        <summary class="yck-details__summary"><h3>Gallery</h3></summary>
+        <summary class="yck-details__summary"><h4>Gallery</h4></summary>
           <div class="yck-details__content">
                 <p> <iframe width="560" height="315" src="https://www.youtube.com/embed/rq9OGwsQ_VM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><small><i>YCKSS Malay Dance 2019</i></small><br></p>
                 <p><img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M4.png">
