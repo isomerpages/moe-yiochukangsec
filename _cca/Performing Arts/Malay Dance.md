@@ -90,6 +90,18 @@ variant: markdown
             </thead>
             <tbody>
                 <tr>
+                    <td class="yck-td"><strong>2024</strong></td>
+                    <td class="yck-td">National Day Observance Ceremony<br>Muara Festival @ Esplanade – Inang : Terendak Ria<br>Cantabile Concert</td>
+                </tr>
+                <tr>
+                    <td class="yck-td"><strong>2023</strong></td>
+                    <td class="yck-td">National Day Parade Performance<br>Muara Festival @ Esplanade<br>Cantabile Concert</td>
+                </tr>
+                 <tr>
+                    <td class="yck-td"><strong>2022</strong></td>
+                    <td class="yck-td">Hari Raya Celebrations @ Singapore Police Force F Division Ang Mo Kio Headquarters</td>
+                </tr>
+                <tr>
                     <td class="yck-td"><strong>2021</strong></td>
                     <td class="yck-td">'Perlindungan' SYF Arts Presentation - Certificate of Accomplishment</td>
                 </tr>
