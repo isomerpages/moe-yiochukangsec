@@ -320,6 +320,7 @@ variant: markdown
   
     .yck-component .yck-blockquote p {
         margin-bottom: 0.5em;
+				line-height: 1.35em;
         color: #555; /* Lighter font color */
           font-size: inherit;
     }
