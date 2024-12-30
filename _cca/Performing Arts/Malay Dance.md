@@ -34,7 +34,14 @@ variant: markdown
     </div>
 
    <div><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M2.jpg"></div>
-   <div><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M3.jpg">
+	<div class="yck-component">
+    <blockquote class="yck-blockquote">
+        <p>We are really proud of our Malay Dancers for showing resilience and determination in the face of the numerous challenges. The extra practices and sacrifices we have had to make were worthwhile. I hope this experience has taught them to persevere and never give up no matter what challenges may come their way in the future.</p>
+        <cite>Mdm Sutinah<br>Teacher in charge (Malay Dance)</cite>
+    </blockquote>
+		<img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M3plus.jpg">
+    </div>
+   <div><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M3plus.jpg">
     </div>
 
    <div>
@@ -193,7 +200,6 @@ variant: markdown
       /* Base for all yck components */
       .yck-component {
         /* Typography */
-        font-family: sans-serif;
         line-height: var(--yck-text-line-height);
         letter-spacing: normal;
       }
@@ -293,7 +299,48 @@ variant: markdown
           line-height: 1.6rem;
       }
       
-      
+     .yck-component .yck-blockquote {
+      margin: 1.5em 0;
+      padding: 1.5em 2em;
+      border-left: 4px solid var(--yck-color-border);
+      font-style: italic;
+      background-color: #f9f9f9;
+      position: relative;
+        border-radius: 8px;
+          box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+         font-size: var(--yck-step-0);
+    }
+  
+    .yck-component .yck-blockquote::before {
+      content: open-quote;
+      font-size: 2em;
+      position: absolute;
+        top: 0.25em;
+        left: 0.25em;
+        color: var(--yck-color-text-light);
+    }
+  
+    .yck-component .yck-blockquote p {
+        margin-bottom: 0.5em;
+        color: #555; /* Lighter font color */
+          font-size: inherit;
+    }
+  
+      .yck-component .yck-blockquote p:last-child {
+      margin-bottom: 0;
+    }
+      .yck-component .yck-blockquote cite {
+          display: block;
+          text-align: right;
+          margin-top: 1em;
+          font-style: normal;
+            color: #555; /* Lighter font color */
+           font-size: inherit;
+      }
+  
+      .yck-component .yck-blockquote cite::before {
+      content: "\2014 \0020"; /* En dash */
+      } 
       
       
       .yck-component .yck-details__content ul, .yck-component .yck-details__content ol, .yck-component .yck-details__content ul li,
