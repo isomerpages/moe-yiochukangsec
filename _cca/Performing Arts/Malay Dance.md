@@ -39,7 +39,7 @@ variant: markdown
         <p>We are really proud of our Malay Dancers for showing resilience and determination in the face of the numerous challenges. The extra practices and sacrifices we have had to make were worthwhile. I hope this experience has taught them to persevere and never give up no matter what challenges may come their way in the future.</p>
         <cite>Mdm Sutinah<br>Teacher in charge (Malay Dance)</cite>
     </blockquote>
-		<img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M3plus.jpg">
+		<img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M3plus.png">
     </div>
    <div><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M3plus.jpg">
     </div>
