@@ -230,10 +230,12 @@ variant: markdown
       }
       
       /* Base for all yck components */
+	    body,
       .yck-component {
         /* Typography */
         line-height: var(--yck-text-line-height);
         letter-spacing: normal;
+	font-size: var(--yck-step-0);
       }
         .yck-component p, .yck-component h1, .yck-component h2, .yck-component h3, .yck-component h4, .yck-component h5, .yck-component h6 {
           overflow-wrap: break-word;
