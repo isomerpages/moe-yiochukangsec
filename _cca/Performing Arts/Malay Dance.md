@@ -183,17 +183,23 @@ variant: markdown
             </div>
         </details>
         <details class="yck-details">
-            <summary class="yck-details__summary">
-                <h4>Gallery</h4>
-            </summary>
-            <div class="yck-details__content">
-                <p> <iframe width="560" height="315" src="https://www.youtube.com/embed/rq9OGwsQ_VM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><small><i>YCKSS Malay Dance 2019</i></small><br></p>
-                <p><img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M4.png">
-                    <img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M5.png">
-                    <img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M6.png">
-                </p>
+    <summary class="yck-details__summary">
+        <h4>Gallery</h4>
+    </summary>
+    <div class="yck-details__content">
+        <div class="yck-gallery-container">
+            <div class="yck-iframe-container">
+                <iframe src="https://www.youtube.com/embed/rq9OGwsQ_VM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
             </div>
-        </details>
+            <small><i>YCKSS Malay Dance 2019</i></small>
+            <div class="yck-image-row">
+              <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M4.png">
+              <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M5.png">
+              <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M6.png">
+            </div>
+        </div>
+    </div>
+</details>
     </div>
 </div>
 
@@ -313,7 +319,7 @@ variant: markdown
           max-width: 100%;
           margin-top: 1.5em;
           margin-bottom: clamp(1em, 5%, 3em);
-	   font-size: var(--yck-step--1);
+	   font-size: var(--yck-step-0);
       }
       
       .yck-component .yck-th {
@@ -371,7 +377,7 @@ variant: markdown
           margin-top: 1em;
           font-style: normal;
             color: #555; /* Lighter font color */
-           font-size: inherit;
+           font-size: var(--yck-step--1);
       }
   
       .yck-component .yck-blockquote cite::before {
@@ -409,7 +415,7 @@ variant: markdown
       }
       
       .yck-component .yck-strong {
-          font-weight: 700;
+          font-weight: 600;
       }
       
       /* Base styles for yck-details */
@@ -502,4 +508,54 @@ variant: markdown
       .yck-component .yck-flexbox-grid > * {
           flex: 1 1 var(--yck-min);
       }
+	
+	  .yck-component .yck-gallery-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1em; /* Space between items */
+  }
+
+  .yck-component .yck-gallery-container .yck-iframe-container {
+      position: relative;
+      width: 100%; /* Make iframe container take up full width of the parent*/
+      padding-bottom: 56.25%; /* 16:9 aspect ratio for the iframe */
+      overflow: hidden; /* Prevents content from overflowing*/
+  }
+
+
+  .yck-component .yck-gallery-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+      width: 100%; /* Make iframe fill full width of the container */
+       height: 100%; /* Make iframe fill the height*/
+     margin-bottom: 1em; /* Add bottom margin */
+  }
+
+  .yck-component .yck-gallery-container small {
+      display: block;
+      text-align: center;
+      font-style: italic;
+    margin-top: 0.5em;
+    color: var(--yck-color-text-light);
+  }
+
+   .yck-component .yck-gallery-container img {
+       display: block;
+       width: 100%;
+       height: auto; /* Preserve aspect ratio */
+   }
+
+  .yck-component .yck-gallery-container .yck-image-row {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      gap: 0.5em;
+  }
+
+    .yck-component .yck-gallery-container .yck-image-row img {
+        flex: 1 1 30%; /* Each image takes up about 30% of the row with equal spacing*/
+        object-fit: cover;
+    }
   </style>
