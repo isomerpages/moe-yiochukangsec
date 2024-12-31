@@ -8,7 +8,7 @@ variant: markdown
 <div class="yck-component yck-gallery-container"><img alt="" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Choir/C1.jpg"></div>
 <p>The YCKSS Choir consists of members who share a passion for singing and music. We aim to create a nurturing environment, where they share the joy of music through performances and competitions. The students are exposed to choral reading, intonation and expression in their musical repertoire. Besides practising for competitions, the members are exposed to a whole variety of other enriching experiences, including choral workshops, public concerts and choral exchanges with other choirs. The choir has maintained a high standard of musicianship and shares the joy of music through various performances and competitions.</p>
 <div class="yck-component">
-    <h3 class="h3">Training Schedule</h3>
+    <h3 class="yck-h3">Training Schedule</h3>
     <table class="yck-table">
         <thead>
             <tr>
