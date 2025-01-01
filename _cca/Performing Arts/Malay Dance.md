@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 variant: markdown
 ---
 <div class="yck-component">
-    <div><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M1.jpg">
+    <div><img alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M1_2025.png">
     </div>
     <div>
         <p></p>
@@ -193,6 +193,10 @@ variant: markdown
             </div>
             <small><i>YCKSS Malay Dance 2019</i></small>
             <div class="yck-image-row">
+							<div class="yck-flexbox-grid">
+							<img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M1.jpg">
+							<img alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M3plus.jpg">
+							</div>
               <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M4.png">
               <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M5.png">
               <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M6.png">
