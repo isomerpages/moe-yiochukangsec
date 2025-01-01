@@ -6,153 +6,141 @@ third_nav_title: Performing Arts
 variant: markdown
 ---
 <div class="yck-component">
-  <img class="yck-img" alt="Chinese Dance" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C1.jpg">
-  <p>The Chinese Dance Club aims to engage the dancers in fun and interesting ways. We provide a platform for students to showcase their talents and creativity in Chinese dance through collaboration with external organisations. Through the various public performances, the club aims to progressively nurture the dancers to be young and confident adults. We have a comprehensive and structured programme to expose students to Chinese culture and learn the skills and techniques of Chinese Dance. Through dance, we also hope to instil self-discipline, perseverance and teamwork.</p>
-  <img class="yck-img" alt="Chinese Dance" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C2.jpg">
-  <img class="yck-img" alt="Chinese Dance" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C3.jpg">
+    <img class="yck-img" alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Choir/C1.jpg">
+    <p>The YCKSS Choir consists of members who share a passion for singing and music. We aim to create a nurturing environment, where they share the joy of music through performances and competitions. The students are exposed to choral reading, intonation and expression in their musical repertoire. Besides practising for competitions, the members are exposed to a whole variety of other enriching experiences, including choral workshops, public concerts and choral exchanges with other choirs. The choir has maintained a high standard of musicianship and shares the joy of music through various performances and competitions.</p>
     <table class="yck-table">
-      <thead>
-        <tr>
-          <th class="yck-th">TRAINING INFORMATION</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td class="yck-td">EVERY TUESDAY</td>
-        </tr>
-        <tr>
-          <td class="yck-td">3:00PM to 5:30PM</td>
-        </tr>
-        <tr>
-          <td class="yck-td">Dance Studio 1 (Level 3); or</td>
-        </tr>
-        <tr>
-          <td class="yck-td">Hall (Level 2)</td>
-        </tr>
-        <tr>
-          <td class="yck-td">EVERY THURSDAY</td>
-        </tr>
-        <tr>
-          <td class="yck-td">3:00PM to 5:30PM</td>
-        </tr>
-        <tr>
-          <td class="yck-td">Dance Studio 1 (Level 3)</td>
-        </tr>
-        <tr>
-          <th class="yck-th">TEACHERS IN-CHARGE</th>
-        </tr>
-        <tr>
-          <td class="yck-td">Ms Tan Chun Buei (OIC) (ext 172)</td>
-        </tr>
-        <tr>
-          <td class="yck-td">Ms Teo Hwee Hong (ext 123)</td>
-        </tr>
-        <tr>
-          <td class="yck-td">Mdm Ye Yuluan (ext 197)</td>
-        </tr>
-      </tbody>
-    </table>
-  <details class="yck-details">
-    <summary class="yck-details__summary">Proudest Moments</summary>
-    <div class="yck-details__content">
-      <table class="yck-table">
         <thead>
-          <tr>
-            <th class="yck-th">
-              <h4 class="yck-h5">YEAR</h4>
-            </th>
-            <th class="yck-th">
-              <h4 class="yck-h5">ACCOMPLISHMENTS</h4>
-            </th>
-          </tr>
+            <tr>
+                <th class="yck-th">TRAINING INFORMATION</th>
+            </tr>
         </thead>
         <tbody>
-          <tr>
-            <td class="yck-td">2019</td>
-            <td class="yck-td">SYF Presentation - Certificate of Accomplishment</td>
-          </tr>
-          <tr>
-            <td class="yck-td">2017</td>
-            <td class="yck-td">2017 SYF Certificate of Distinction</td>
-          </tr>
-          <tr>
-            <td class="yck-td">2015</td>
-            <td class="yck-td">2015 SYF Certificate of Distinction</td>
-          </tr>
-          <tr>
-            <td class="yck-td">2013</td>
-            <td class="yck-td">2013 SYF Certificate of Distinction</td>
-          </tr>
-          <tr>
-            <td class="yck-td">2011</td>
-            <td class="yck-td">2011 SYF Gold with Honours</td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
-  <details class="yck-details">
-    <summary class="yck-details__summary">Events/Competitions</summary>
-    <div class="yck-details__content">
-      <table class="yck-table">
-        <thead>
-          <tr>
-            <th class="yck-th">
-              <h4 class="yck-h5">YEAR</h4>
-            </th>
-            <th class="yck-th">
-              <h4 class="yck-h5">EVENTS</h4>
-            </th>
-          </tr>
-        </thead>
-        <tbody>
-           <tr>
-            <td class="yck-td">2017</td>
-            <td class="yck-td">Participation in 2017 NDP Performance</td>
-          </tr>
-           <tr>
-              <td class="yck-td">2016</td>
-             <td class="yck-td">Limelight 2016</td>
-           </tr>
             <tr>
-              <td class="yck-td"></td>
-             <td class="yck-td">SYF Outreach @ the Malls</td>
-           </tr>
-           <tr>
-            <td class="yck-td">2015</td>
-            <td class="yck-td">SYF 2015</td>
-          </tr>
-           <tr>
-            <td class="yck-td"></td>
-            <td class="yck-td">49th Speech Day 2015</td>
-          </tr>
-            <tr>
-              <td class="yck-td">2014</td>
-              <td class="yck-td">48th Speech Day 2014</td>
+                <td class="yck-td">Every Tuesday and Thursday</td>
             </tr>
             <tr>
-              <td class="yck-td"></td>
-             <td class="yck-td">Limelight 2014</td>
-           </tr>
+                <td class="yck-td">3:00PM to 5:30PM</td>
+            </tr>
+            <tr>
+                <td class="yck-td">Music Room, Level 1</td>
+            </tr>
+            <tr>
+                <th class="yck-th">TEACHERS IN-CHARGE</th>
+            </tr>
+            <tr>
+                <td class="yck-td">Mdm Vijaya (OIC) (ext 203)</td>
+            </tr>
+            <tr>
+                <td class="yck-td">Mdm Lee Ching Fong (ext 142)</td>
+            </tr>
+            <tr>
+                <td class="yck-td">Ms Michelle Lim (ext 135)</td>
+            </tr>
+            <tr>
+                <td class="yck-td">Mr Loke Tuck Luen (ext 131)</td>
+            </tr>
         </tbody>
-      </table>
-    </div>
-  </details>
-  <details class="yck-details">
-    <summary class="yck-details__summary">Photo Gallery</summary>
-     <div class="yck-details__content">
-        <div class="yck-gallery-container">
-            <div class="yck-iframe-container">
-                <iframe src="https://www.youtube.com/embed/PKtc-skdeVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-             </div>
-              <div class="yck-image-row">
-                <img alt="Chinese Dance" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C4.png">
-                <img alt="Chinese Dance" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C5.png">
-                <img alt="Chinese Dance" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C6.png">
-               </div>
-          </div>
-     </div>
-  </details>
+    </table>
+    <details class="yck-details">
+        <summary class="yck-details__summary">Proudest Moments</summary>
+        <div class="yck-details__content">
+            <table class="yck-table">
+                <thead>
+                    <tr>
+                        <th class="yck-th">
+                            <h4 class="yck-h5">YEAR</h4>
+                        </th>
+                        <th class="yck-th">
+                            <h4 class="yck-h5">ACCOMPLISHMENTS</h4>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="yck-td">2019</td>
+                        <td class="yck-td">SYF Presentation - Certificate of Accomplishment</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">2017</td>
+                        <td class="yck-td">2017 SYF Certificate of Distinction</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">2015</td>
+                        <td class="yck-td">2015 SYF Certificate of Distinction</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">2013</td>
+                        <td class="yck-td">2013 SYF Certificate of Distinction</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">2011</td>
+                        <td class="yck-td">2011 SYF Gold with Honours</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </details>
+    <details class="yck-details">
+        <summary class="yck-details__summary">Events/Competitions</summary>
+        <div class="yck-details__content">
+            <table class="yck-table">
+                <thead>
+                    <tr>
+                        <th class="yck-th">
+                            <h4 class="yck-h5">YEAR</h4>
+                        </th>
+                        <th class="yck-th">
+                            <h4 class="yck-h5">EVENTS</h4>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="yck-td">2017</td>
+                        <td class="yck-td">Participation in 2017 NDP Performance</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">2016</td>
+                        <td class="yck-td">Limelight 2016</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td"></td>
+                        <td class="yck-td">SYF Outreach @ the Malls</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">2015</td>
+                        <td class="yck-td">SYF 2015</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td"></td>
+                        <td class="yck-td">49th Speech Day 2015</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">2014</td>
+                        <td class="yck-td">48th Speech Day 2014</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td"></td>
+                        <td class="yck-td">Limelight 2014</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </details>
+    <details class="yck-details">
+        <summary class="yck-details__summary">Gallery</summary>
+        <div class="yck-details__content">
+            <div class="yck-gallery-container">
+                <div class="yck-iframe-container">
+                    <iframe src="https://www.youtube.com/embed/TYoE4UY1WXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                </div>
+                <div class="yck-image-row">
+                    <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Choir/C2.png">
+                    <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Choir/C3.jpg">
+                </div>
+            </div>
+        </div>
+    </details>
 </div>
 
 <style>
