@@ -179,7 +179,7 @@ variant: markdown
                 <h4>Events/Competitions</h4>
             </summary>
             <div class="yck-details__content">
-                <p> Singapore Youth Festival – Arts Presentation<br> School Speech Day </p>
+                <p> Singapore Youth Festival – Arts Presentation<br> School Speech Day <br>Muara Festival @Esplanade<br>National Day Parade Celebration<br>National Day Observance Ceremony<br>Cantabile Concert<br>Chinese New Year Celebration</p>
             </div>
         </details>
         <details class="yck-details">
