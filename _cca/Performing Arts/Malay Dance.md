@@ -444,6 +444,7 @@ variant: markdown
           cursor: pointer;
           margin-top: clamp(0.5rem, 5%, 2rem);
           text-transform: uppercase;
+	        font-size: var(--yck-step-2);
       }
       
       .yck-component .yck-details__summary::after {
