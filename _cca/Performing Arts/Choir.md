@@ -8,40 +8,50 @@ variant: markdown
 <div class="yck-component">
     <img class="yck-img" alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Choir/C1.jpg">
     <p>The YCKSS Choir consists of members who share a passion for singing and music. We aim to create a nurturing environment, where they share the joy of music through performances and competitions. The students are exposed to choral reading, intonation and expression in their musical repertoire. Besides practising for competitions, the members are exposed to a whole variety of other enriching experiences, including choral workshops, public concerts and choral exchanges with other choirs. The choir has maintained a high standard of musicianship and shares the joy of music through various performances and competitions.</p>
-    <table class="yck-table">
+	
+	
+<h3>TRAINING SCHEDULE</h3>
+
+ <table class="yck-table">
         <thead>
             <tr>
                 <th class="yck-th">TRAINING INFORMATION</th>
+                <th class="yck-th"></th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td class="yck-td">Every Tuesday and Thursday</td>
+                <td class="yck-td">Day and Time</td>
+                <td class="yck-td">Every Tuesday and Thursday<br> 3:00PM to 5:30PM</td>
             </tr>
             <tr>
-                <td class="yck-td">3:00PM to 5:30PM</td>
-            </tr>
-            <tr>
+                <td class="yck-td">Location</td>
                 <td class="yck-td">Music Room, Level 1</td>
             </tr>
             <tr>
                 <th class="yck-th">TEACHERS IN-CHARGE</th>
+                <th class="yck-th"></th>
             </tr>
             <tr>
-                <td class="yck-td">Mdm Vijaya (OIC) (ext 203)</td>
+                <td class="yck-td">OIC</td>
+                <td class="yck-td">Mdm Vijaya (ext 203)</td>
             </tr>
             <tr>
+                <td class="yck-td"></td>
                 <td class="yck-td">Mdm Lee Ching Fong (ext 142)</td>
             </tr>
             <tr>
+                 <td class="yck-td"></td>
                 <td class="yck-td">Ms Michelle Lim (ext 135)</td>
             </tr>
             <tr>
+                 <td class="yck-td"></td>
                 <td class="yck-td">Mr Loke Tuck Luen (ext 131)</td>
             </tr>
         </tbody>
     </table>
-    <details class="yck-details">
+	
+<details class="yck-details">
         <summary class="yck-details__summary">Proudest Moments</summary>
         <div class="yck-details__content">
             <table class="yck-table">
