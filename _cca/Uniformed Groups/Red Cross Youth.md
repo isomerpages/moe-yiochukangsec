@@ -180,14 +180,14 @@ variant: markdown
     --yck-spacing-unit: 1em;
     --yck-border-radius: 4px;
     --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, .1);
-    --yck-step--2: clamp(0.64rem, .71rem+-.0778vw, .6944rem);
-    --yck-step--1: clamp(0.8rem, .8429rem+-.0476vw, .8333rem);
-    --yck-step-0: clamp(1rem, 1rem+0vw, 1rem);
-    --yck-step-1: clamp(1.2rem, 1.1857rem+0.0714vw, 1.25rem);
-    --yck-step-2: clamp(1.44rem, 1.405rem+0.175vw, 1.5625rem);
-    --yck-step-3: clamp(1.728rem, 1.6637rem+0.3216vw, 1.9531rem);
-    --yck-step-4: clamp(2.0736rem, 1.9685rem+0.5254vw, 2.4414rem);
-    --yck-step-5: clamp(2.4883rem, 2.3273rem+0.8049vw, 3.0518rem)
+    --yck-step--2: clamp(0.72rem, 0.8026rem + -0.1065vw, 0.7813rem);
+    --yck-step--1: clamp(0.9rem, 0.9505rem + -0.0652vw, 0.9375rem);
+    --yck-step-0: clamp(1.125rem, 1.125rem + 0vw, 1.125rem);
+    --yck-step-1: clamp(1.35rem, 1.3304rem + 0.0978vw, 1.4063rem);
+    --yck-step-2: clamp(1.62rem, 1.5721rem + 0.2397vw, 1.7578rem);
+    --yck-step-3: clamp(1.944rem, 1.8559rem + 0.4405vw, 2.1973rem);
+    --yck-step-4: clamp(2.3328rem, 2.1889rem + 0.7196vw, 2.7466rem);
+    --yck-step-5: clamp(2.7994rem, 2.5789rem + 1.1024vw, 3.4332rem);
 }
 
 .yck-component,
