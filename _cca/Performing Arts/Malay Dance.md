@@ -83,7 +83,7 @@ variant: markdown
         </div>
         <details class="yck-details">
             <summary class="yck-details__summary">
-                <h5>Proudest Moments</h5>
+                <h5 class="yck-h4">Proudest Moments</h5>
             </summary>
             <div class="yck-details__content">
                 <table class="yck-table">
@@ -176,7 +176,7 @@ variant: markdown
         </details>
         <details class="yck-details">
             <summary class="yck-details__summary">
-                <h5>Events/Competitions</h5>
+                <h5 class="yck-h4">Events/Competitions</h5>
             </summary>
             <div class="yck-details__content">
                 <p> Singapore Youth Festival – Arts Presentation<br> School Speech Day <br>Muara Festival @Esplanade<br>National Day Parade Celebration<br>National Day Observance Ceremony<br>Cantabile Concert<br>Chinese New Year Celebration</p>
@@ -184,7 +184,7 @@ variant: markdown
         </details>
         <details class="yck-details">
     <summary class="yck-details__summary">
-        <h5>Gallery</h5>
+        <h5 class="yck-h4">Gallery</h5>
     </summary>
     <div class="yck-details__content">
         <div class="yck-gallery-container">
