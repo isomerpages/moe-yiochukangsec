@@ -247,19 +247,18 @@ variant: markdown
 
 
 <style>
-
 :root {
     --yck-color-text-light: #888;
     --yck-color-border: #e0e0e0;
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
-    --yck-heading-letter-spacing: -.02em;
-    --yck-transition-speed: .8s;
-    --yck-transition-timing: cubic-bezier(0.4, 0, .2, 1);
+    --yck-heading-letter-spacing: -0.02em;
+    --yck-transition-speed: 0.8s;
+    --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
     --yck-content-width: 100%;
     --yck-spacing-unit: 1em;
     --yck-border-radius: 4px;
-    --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, .1);
+    --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     --yck-step--2: clamp(0.72rem, 0.8026rem + -0.1065vw, 0.7813rem);
     --yck-step--1: clamp(0.9rem, 0.9505rem + -0.0652vw, 0.9375rem);
     --yck-step-0: clamp(1.125rem, 1.125rem + 0vw, 1.125rem);
@@ -270,11 +269,11 @@ variant: markdown
     --yck-step-5: clamp(2.7994rem, 2.5789rem + 1.1024vw, 3.4332rem);
 }
 
-.yck-component,
-body {
+body,
+.yck-component {
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
-    font-size: var(--yck-step-0)
+    font-size:  var(--yck-step-0);
 }
 
 .yck-component h1,
@@ -284,11 +283,11 @@ body {
 .yck-component h5,
 .yck-component h6,
 .yck-component p {
-    overflow-wrap: break-word
+    overflow-wrap: break-word;
 }
 
 .yck-component p {
-    text-wrap: pretty
+    text-wrap: pretty;
 }
 
 .yck-component h1,
@@ -297,7 +296,7 @@ body {
 .yck-component h4,
 .yck-component h5,
 .yck-component h6 {
-    text-wrap: balance
+    text-wrap: balance;
 }
 
 .yck-component .yck-h1,
@@ -305,56 +304,56 @@ body {
     font-size: var(--yck-step-5);
     margin-bottom: var(--yck-spacing-unit);
     line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing)
+    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
 .yck-component .yck-h2,
 .yck-component h2 {
     font-size: var(--yck-step-4);
-    margin-bottom: calc(var(--yck-spacing-unit) * .8);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.8);
     line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing)
+    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
 .yck-component .yck-h3,
 .yck-component h3 {
     font-size: var(--yck-step-3);
-    margin-bottom: calc(var(--yck-spacing-unit) * .6);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.6);
     line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing)
+    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
 .yck-component .yck-h4,
 .yck-component h4 {
     font-size: var(--yck-step-2);
-    margin-bottom: calc(var(--yck-spacing-unit) * .5);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing)
+    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
 .yck-component .yck-h5,
 .yck-component h5 {
     font-size: var(--yck-step-1);
-    margin-bottom: calc(var(--yck-spacing-unit) * .4);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.4);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing)
+    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
 .yck-component .yck-text-small {
-    font-size: var(--yck-step--1)
+    font-size: var(--yck-step--1);
 }
 
 .yck-component .yck-text-xs {
-    font-size: var(--yck-step--2)
+    font-size: var(--yck-step--2);
 }
 
 .yck-component ol,
 .yck-component p,
 .yck-component ul {
     font-size: var(--yck-step-0);
-    margin-bottom: var(--yck-spacing-unit)
+    margin-bottom: var(--yck-spacing-unit);
 }
 
 .yck-component .yck-table {
@@ -362,27 +361,27 @@ body {
     max-width: 100%;
     margin-top: 1.5em;
     margin-bottom: clamp(1em, 5%, 3em);
-    font-size: var(--yck-step-0)
+    font-size: var(--yck-step-0);
 }
 
 .yck-component .yck-th {
     background-color: #f2f2f2;
     text-align: left;
     border-bottom: 1px solid #ddd;
-    text-transform: uppercase
+    text-transform: uppercase;
 }
 
 .yck-component .yck-th h4,
 .yck-component .yck-th h5,
 .yck-component .yck-th h6 {
-    margin: 0 0 .5em
+    margin: 0 0 0.5em;
 }
 
 .yck-component .yck-td {
     border-bottom: 1px solid #ddd;
     max-width: 300px;
     word-wrap: break-word;
-    line-height: 1.6rem
+    line-height: 1.6rem;
 }
 
 .yck-component .yck-blockquote {
@@ -393,28 +392,28 @@ body {
     background-color: #f9f9f9;
     position: relative;
     border-radius: 8px;
-    box-shadow: inset 0 2px 4px rgba(0, 0, 0, .1);
-    font-size: var(--yck-step-0)
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-size: var(--yck-step-0);
 }
 
 .yck-component .yck-blockquote::before {
     content: open-quote;
     font-size: 2em;
     position: absolute;
-    top: .25em;
-    left: .25em;
-    color: var(--yck-color-text-light)
+    top: 0.25em;
+    left: 0.25em;
+    color: var(--yck-color-text-light);
 }
 
 .yck-component .yck-blockquote p {
-    margin-bottom: .5em;
+    margin-bottom: 0.5em;
     line-height: 1.35em;
     color: #555;
-    font-size: inherit
+    font-size: inherit;
 }
 
 .yck-component .yck-blockquote p:last-child {
-    margin-bottom: 0
+    margin-bottom: 0;
 }
 
 .yck-component .yck-blockquote cite {
@@ -423,31 +422,31 @@ body {
     margin-top: 1em;
     font-style: normal;
     color: #555;
-    font-size: var(--yck-step--1)
+    font-size: var(--yck-step--1);
 }
 
 .yck-component .yck-blockquote cite::before {
-    content: "\2014 \0020"
+    content: '\2014 \0020';
 }
 
 .yck-component ul.yck-custom-list {
     list-style: none;
     padding-left: 0;
     margin-left: 0;
-    font-size: inherit
+    font-size: inherit;
 }
 
 .yck-component ul.yck-custom-list li {
     position: relative;
     padding-left: 1.5em;
-    margin-bottom: .5em;
-    line-height: 1em
+    margin-bottom: 0.5em;
+    line-height: 1em;
 }
 
 .yck-component ul.yck-custom-list li::before {
-    content: "~";
+    content: '~';
     position: absolute;
-    left: 0
+    left: 0;
 }
 
 .yck-component .yck-details__content,
@@ -456,23 +455,22 @@ body {
 .yck-component .yck-details__content ul,
 .yck-component .yck-details__content ul li {
     padding: 0;
-    margin: 0
+    margin: 0;
 }
 
 .yck-component .yck-strong {
-    font-weight: 600
+    font-weight: 600;
 }
 
 .yck-component .yck-details {
-    border-top: 1px solid rgba(0, 0, 0, .15);
-    margin-top: clamp(0.5rem, 5%, 2rem);
-    margin-bottom: clamp(1rem, 5% 1.5rem);
+    border-top: 1px solid rgba(0, 0, 0, 0.15);
+    margin-top: clamp(1rem, 5%, 2rem);
     overflow: hidden;
-    transition: border-color .7s
+    transition: border-color 0.7s;
 }
 
 .yck-component .yck-details:hover {
-    border-color: #555
+    border-color: #555;
 }
 
 .yck-component .yck-details__summary {
@@ -480,20 +478,22 @@ body {
     align-items: center;
     justify-content: space-between;
     cursor: pointer;
-    margin-top: clamp(0.5rem, 5%, 2rem);
-    text-transform: uppercase
+    margin-top: clamp(0.75rem, 5%, 1.5rem);
+    padding-bottom: clamp(1rem, 5%, 2rem);
+    text-transform: uppercase;
+    font-size: var(--yck-step-2);
 }
 
 .yck-component .yck-details__summary::after {
-    content: "+";
+    content: '+';
     font-size: 1.5rem;
     color: #999;
-    transition: transform .5s ease-in-out;
-    margin-right: 1rem
+    transition: transform 0.5s ease-in-out;
+    margin-right: 1rem;
 }
 
 .yck-component .yck-details[open] .yck-details__summary::after {
-    transform: rotate(-45deg)
+    transform: rotate(-45deg);
 }
 
 .yck-component .yck-details__content {
@@ -502,34 +502,34 @@ body {
     opacity: 0;
     overflow: hidden;
     padding: 0;
-    animation: yckFadeOutSlideUp .5s ease forwards
+    animation: yckFadeOutSlideUp 0.5s ease forwards;
 }
 
 .yck-component .yck-details[open] .yck-details__content {
-    animation: yckFadeInSlideDown .5s ease forwards
+    animation: yckFadeInSlideDown 0.5s ease forwards;
 }
 
 @keyframes yckFadeInSlideDown {
     0% {
         max-height: auto;
-        opacity: 0
+        opacity: 0;
     }
 
     100% {
         max-height: auto;
-        opacity: 1
+        opacity: 1;
     }
 }
 
 @keyframes yckFadeOutSlideUp {
     0% {
         max-height: auto;
-        opacity: 1
+        opacity: 1;
     }
 
     100% {
         max-height: auto;
-        opacity: 0
+        opacity: 0;
     }
 }
 
@@ -538,26 +538,26 @@ body {
     --yck-gap: 1.5em;
     display: flex;
     flex-wrap: wrap;
-    gap: var(--yck-gap)
+    gap: var(--yck-gap);
 }
 
-.yck-component .yck-flexbox-grid>* {
+.yck-component .yck-flexbox-grid > * {
     flex: 1 1 var(--yck-min);
-    list-style:  none;
+    list-style: none;
 }
 
 .yck-component .yck-gallery-container {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 1em
+    gap: 1em;
 }
 
 .yck-component .yck-gallery-container .yck-iframe-container {
     position: relative;
     width: 100%;
     padding-bottom: 56.25%;
-    overflow: hidden
+    overflow: hidden;
 }
 
 .yck-component .yck-gallery-container iframe {
@@ -566,34 +566,35 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    margin-bottom: 1em
+    margin-bottom: 1em;
 }
 
 .yck-component .yck-gallery-container small {
     display: block;
     text-align: center;
     font-style: italic;
-    margin-top: .5em;
-    color: var(--yck-color-text-light)
+    margin-top: 0.5em;
+    color: var(--yck-color-text-light);
 }
 
 .yck-component .yck-gallery-container img {
     display: block;
     width: 100%;
-    height: auto
+    height: auto;
 }
 
 .yck-component .yck-gallery-container .yck-image-row {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    gap: .5em
+    gap: 0.5em;
 }
 
 .yck-component .yck-gallery-container .yck-image-row img {
     flex: 1 1 30%;
-    object-fit: cover
+    object-fit: cover;
 }
+
 	
 
 .wrapper {
