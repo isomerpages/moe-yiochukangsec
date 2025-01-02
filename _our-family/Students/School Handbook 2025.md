@@ -5,4 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Students
 ---
-<p><a href="/files/YCKSS_STUDENT_HANDBOOK_2024__PDF_.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Handbook 2024</a></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Family/Students/School_Hand_Book_2024.png"></div><p></p>
+<h4>YCKSS Student Handbook 2025</h4>
+<p></p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Students/Student_handbook_2025/YCKSS_STUDENT_HANDBOOK_2025.pdf"><img style="width: 100%" height="auto" width="100%" alt="Cover page of the YCKSS Student Handbook 2025" src="/images/Our Family/Students/YCKSS_STUDENT_HANDBOOK_2025.jpg"></a>
+<p><a href="/files/Students/Student_handbook_2025/YCKSS_STUDENT_HANDBOOK_2025.pdf" rel="noopener nofollow" target="_blank">Click Me to download the Student Handbook 2025 ... </a>
+</p>
+<p></p>
+<p></p>
