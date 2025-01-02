@@ -3,6 +3,7 @@ title: Students Code of Conduct
 permalink: /our-family/Students/Students-Code-of-Conduct/
 description: ""
 third_nav_title: Students
+variant: markdown
 ---
 School Rules and Regulations
 
@@ -26,13 +27,13 @@ ATTIRE, ATTITUDE, ATTENDANCE, ASSIGNMENTS
 
 <ul class="jekyllcodex_accordion">
 
-  <li>
+&nbsp;&nbsp;<li>
 
-    <input type="checkbox" id="accordion1">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 
-    <label for="accordion1">The 4As</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">The&nbsp;4As</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> <b>ATTIRE</b><br><br>
 
@@ -44,13 +45,13 @@ The uniform is a representation of the school and its history. The school unifor
 
 Students are to wear the prescribed school uniform in school and during all school functions whether inside or outside the school. Modification to the uniform is strictly not allowed.<br>
 
-For the girls, the length of the skirt must be worn no shorter than 2 finger widths above the knee. For the boys, the pants should not be shortened beyond students’ ankles.<br><br>
+For the girls, the length of the skirt must be worn no shorter than 2 finger widths above the knee.&nbsp;For the boys, the pants should not be shortened beyond students’ ankles.<br><br>
 
 <b>PE Attire</b><br>  
 Only the school PE T-shirt and shorts are to be worn for PE lessons unless permission has been granted. Students must change into their school uniform during the first available break.<br><br>
 
 <b>Level T-shirt</b><br>  
-Students can only wear the Level T-shirt meant for that level.  This can only be worn on days when there are early school dismissals such as on Chinese New Year’s Eve, Sports Carnival, National Day Celebration and Teacher’s Day Celebration.<br><br>
+Students can only wear the Level T-shirt meant for that level.&nbsp; This can only be worn on days when there are early school dismissals such as on Chinese New Year’s Eve, Sports Carnival, National Day Celebration and Teacher’s Day Celebration.<br><br>
 
 <b>CCA Attire</b><br>  
 Only approved CCA attire or PE attire is allowed for CCAs.<br><br>
@@ -82,45 +83,45 @@ Students are to be courteous, respectful and well-behaved at all times.<br><br>
   
 
 <b>Morning Assembly</b><br>  
-All students are to report to school by 7.25 a.m. sharp.      
+All students are to report to school by 7.25 a.m. sharp.&nbsp; &nbsp;&nbsp;  
 
 Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist over the heart.<br><br>
 
   
 
 <b>Possession of Weapon</b><br>  
-All students are not allowed to have in their possession any weapon.  
-They are also not allowed to bring any weapon-like item that may distract or make the school an unsafe place.<br><br>    
+All&nbsp;students&nbsp;are not allowed to have in their possession any weapon.  
+They are also not allowed to bring any weapon-like item that may distract or make the school an unsafe place.<br><br> &nbsp;  
   
 <b>Use of Mobile Devices</b><br>  
-The rules and policies governing the use of mobile devices in the school aim to ensure the school community is a safe place for all students and staff, for students to learn values and self-management skills, and for learning to take place with fewer distractions. Mobile devices are not to be used as audio/ gaming devices.<br><br>    
+The rules and policies governing the use of mobile devices in the school aim to ensure the school community is a safe place for all students and staff, for students to learn values and self-management skills, and for learning to take place with fewer distractions. Mobile devices are not to be used as audio/ gaming devices.<br><br> &nbsp;  
   
 <b>Use of mobile devices</b><br>
-	including, but not limited to, mobile phones, tablets and laptops <b>must be switched off</b> and kept in the school bag or pocket <b>once students enter the school compound.</b><br>  
+	including, but not limited to, mobile phones, tablets and laptops&nbsp;<b>must be switched off</b>&nbsp;and kept in the school bag or pocket&nbsp;<b>once students enter the school compound.</b><br> &nbsp;
 
-<b>For the duration of curriculum time</b>, the mobile devices <b>must remain switched off</b>. This includes recess, remedials, enrichment programmes, workshops and CCAs unless authorised by teacher. <b>After curriculum hours</b>, students can use mobile devices only in the foyer (outside General Office) and canteen.<br>  
+<b>For the duration of curriculum time</b>, the mobile devices&nbsp;<b>must remain switched off</b>. This includes recess, remedials, enrichment programmes, workshops and CCAs unless authorised by teacher.&nbsp;<b>After curriculum hours</b>, students can use mobile devices only in the foyer (outside General Office) and canteen.<br> &nbsp;
 
   
-Students who urgently need to contact parents can use the phone in the General Office. Parents can contact their children through at 6456 0669 during office hours.<br>  
+Students who urgently need to contact parents can use the phone in the General Office. Parents can contact their children through at 6456 0669 during office hours.<br> &nbsp;
 
   
 No unauthorised use, modifications, uploading or distribution of audio, image and video recordings are allowed in any form, unless explicit permission has been sought and given.<br>  
   
-Any violation or suspected inappropriate use of the mobile device will result in the device being withheld and checked as a disciplinary measure or for the purpose of investigation.   The school shall not be responsible for the loss of any personal equipment or possession.<br><br>
+Any violation or suspected inappropriate use of the mobile device will result in the device being withheld and checked as a disciplinary measure or for the purpose of investigation. &nbsp; The school shall not be responsible for the loss of any personal equipment or possession.<br><br>
 	
 <b>ATTENDANCE</b><br><br>
 
   
 
-All students must attend lessons, CCAs, school events and activities regularly and punctually.<br>
+All students must attend&nbsp;lessons, CCAs, school events and activities&nbsp;regularly and punctually.<br>
 
 Absence from school as a result of illness must be supported by a valid Medical Certificate or letter from a certified doctor or medical specialist to be given to the Form Teacher promptly on the day the student returns to school.<br>
 
 A letter from the parent/ guardian will only be accepted if it is followed up by the parent/ guardian's call to the office on the day of the student's absence.<br>
 
-A copy of the Medical Certificate is also expected to be given to Subject Teacher(s) if it concerns any assessment (class assessment or school examination). Students without a medical certificate or valid reason for absence from any assessment will be awarded a zero mark.<br>
+A copy of the Medical Certificate is also expected to be given to Subject Teacher(s) if it concerns any assessment (class assessment or school examination).&nbsp;Students without a medical certificate or valid reason for absence from any assessment will be awarded a zero mark.<br>
 
-Absence from school, lessons, CCAs, any activities planned by the school without leave or valid reason is considered truancy. Prompt submission of document to support the absence is critical.<br><br>  
+Absence from school, lessons, CCAs, any activities planned by the school without leave or valid reason is considered&nbsp;truancy. Prompt submission of document to support the absence is critical.<br><br>  
 
 <b>ASSIGNMENTS and SCHOOL WORK</b><br>
 
@@ -132,18 +133,18 @@ All students are to:<br>
 *   Complete all schoolwork/homework assigned to them and to submit them on time.
 </p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	<li>
 
-    <input type="checkbox" id="accordion2">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Disciplinary Guidelines</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2"><h3>Disciplinary&nbsp;Guidelines</h3></label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-      <p> Every action has consequences. Students who break the Code of Conduct will be disciplined. Helping students realise this is one way we can empower our students to develop self-management. It is therefore important to understand the consequences for not abiding by the rules and regulations.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> Every action has consequences. Students who break the Code of Conduct will be disciplined. Helping students realise this is one way we can empower our students to develop self-management. It is therefore important to understand the consequences for not abiding by the rules and regulations.
 
 The following list shows the guidelines for managing disciplinary offences and violation of the Code of Conduct. The list is not exhaustive and is subject to changes. The school reserves the right to determine the disciplinary consequences in the context of each case.
 
@@ -215,7 +216,7 @@ The following list shows the guidelines for managing disciplinary offences and v
 			
 <b>* Caning is only applicable to boys.</b>
 
-Girls are subjected to other disciplinary actions e.g. suspension.
+Girls are subjected to other disciplinary actions&nbsp;e.g. suspension.
 
 <b>* Caning is only applicable to boys.</b>
 
@@ -223,24 +224,24 @@ Girls are subjected to other disciplinary actions
 e.g. suspension.
 			</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion3">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
 
-    <label for="accordion3">The 3Rs</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3"><h3>The 3Rs</h3></label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<p> <b>RULES, RESPECT & RESPONSIBILITIES</b>
+<p> </p><h4>RULES, RESPECT &amp; RESPONSIBILITIES</h4>
 
-All Yio Chu Kang Secondary School students are taught to <b>respect</b> the rights of others through <b>responsible</b> thinking by learning to obey instructions and <b>rules</b>.
-			</p>
+All Yio Chu Kang Secondary School students are taught to&nbsp;<b>respect</b>&nbsp;the rights of others through&nbsp;<b>responsible</b>&nbsp;thinking by learning to obey instructions and&nbsp;<b>rules</b>.
+			<p></p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
@@ -248,3 +249,356 @@ All Yio Chu Kang Secondary School students are taught to <b>respect</b> the ri
 
 	
 </ul>
+
+<style>
+:root {
+    --yck-color-text-light: #888;
+    --yck-color-border: #e0e0e0;
+    --yck-text-line-height: 1.6em;
+    --yck-heading-line-height: 1.2em;
+    --yck-heading-letter-spacing: -0.02em;
+    --yck-transition-speed: 0.8s;
+    --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
+    --yck-content-width: 100%;
+    --yck-spacing-unit: 1em;
+    --yck-border-radius: 4px;
+    --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    --yck-step--2: clamp(0.72rem, 0.8026rem + -0.1065vw, 0.7813rem);
+    --yck-step--1: clamp(0.9rem, 0.9505rem + -0.0652vw, 0.9375rem);
+    --yck-step-0: clamp(1.125rem, 1.125rem + 0vw, 1.125rem);
+    --yck-step-1: clamp(1.35rem, 1.3304rem + 0.0978vw, 1.4063rem);
+    --yck-step-2: clamp(1.62rem, 1.5721rem + 0.2397vw, 1.7578rem);
+    --yck-step-3: clamp(1.944rem, 1.8559rem + 0.4405vw, 2.1973rem);
+    --yck-step-4: clamp(2.3328rem, 2.1889rem + 0.7196vw, 2.7466rem);
+    --yck-step-5: clamp(2.7994rem, 2.5789rem + 1.1024vw, 3.4332rem);
+}
+
+body,
+.yck-component {
+    line-height: var(--yck-text-line-height);
+    letter-spacing: normal;
+    font-size:  var(--yck-step-0);
+}
+
+.yck-component h1,
+.yck-component h2,
+.yck-component h3,
+.yck-component h4,
+.yck-component h5,
+.yck-component h6,
+.yck-component p {
+    overflow-wrap: break-word;
+}
+
+.yck-component p {
+    text-wrap: pretty;
+}
+
+.yck-component h1,
+.yck-component h2,
+.yck-component h3,
+.yck-component h4,
+.yck-component h5,
+.yck-component h6 {
+    text-wrap: balance;
+}
+
+.yck-component .yck-h1,
+.yck-component h1 {
+    font-size: var(--yck-step-5);
+    margin-bottom: var(--yck-spacing-unit);
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
+
+.yck-component .yck-h2,
+.yck-component h2 {
+    font-size: var(--yck-step-4);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.8);
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
+
+.yck-component .yck-h3,
+.yck-component h3 {
+    font-size: var(--yck-step-3);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.6);
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
+
+.yck-component .yck-h4,
+.yck-component h4 {
+    font-size: var(--yck-step-2);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+    text-transform: uppercase;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
+
+.yck-component .yck-h5,
+.yck-component h5 {
+    font-size: var(--yck-step-1);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.4);
+    text-transform: uppercase;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
+
+.yck-component .yck-text-small {
+    font-size: var(--yck-step--1);
+}
+
+.yck-component .yck-text-xs {
+    font-size: var(--yck-step--2);
+}
+
+.yck-component ol,
+.yck-component p,
+.yck-component ul {
+    font-size: var(--yck-step-0);
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component .yck-table {
+    border-collapse: collapse;
+    max-width: 100%;
+    margin-top: 1.5em;
+    margin-bottom: clamp(1em, 5%, 3em);
+    font-size: var(--yck-step-0);
+}
+
+.yck-component .yck-th {
+    background-color: #f2f2f2;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    text-transform: uppercase;
+}
+
+.yck-component .yck-th h4,
+.yck-component .yck-th h5,
+.yck-component .yck-th h6 {
+    margin: 0 0 0.5em;
+}
+
+.yck-component .yck-td {
+    border-bottom: 1px solid #ddd;
+    max-width: 300px;
+    word-wrap: break-word;
+    line-height: 1.6rem;
+}
+
+.yck-component .yck-blockquote {
+    margin: 1.5em 0;
+    padding: 1.5em 2em;
+    border-left: 4px solid var(--yck-color-border);
+    font-style: italic;
+    background-color: #f9f9f9;
+    position: relative;
+    border-radius: 8px;
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-size: var(--yck-step-0);
+}
+
+.yck-component .yck-blockquote::before {
+    content: open-quote;
+    font-size: 2em;
+    position: absolute;
+    top: 0.25em;
+    left: 0.25em;
+    color: var(--yck-color-text-light);
+}
+
+.yck-component .yck-blockquote p {
+    margin-bottom: 0.5em;
+    line-height: 1.35em;
+    color: #555;
+    font-size: inherit;
+}
+
+.yck-component .yck-blockquote p:last-child {
+    margin-bottom: 0;
+}
+
+.yck-component .yck-blockquote cite {
+    display: block;
+    text-align: right;
+    margin-top: 1em;
+    font-style: normal;
+    color: #555;
+    font-size: var(--yck-step--1);
+}
+
+.yck-component .yck-blockquote cite::before {
+    content: '\2014 \0020';
+}
+
+.yck-component ul.yck-custom-list {
+    list-style: none;
+    padding-left: 0;
+    margin-left: 0;
+    font-size: inherit;
+}
+
+.yck-component ul.yck-custom-list li {
+    position: relative;
+    padding-left: 1.5em;
+    margin-bottom: 0.5em;
+    line-height: 1em;
+}
+
+.yck-component ul.yck-custom-list li::before {
+    content: '~';
+    position: absolute;
+    left: 0;
+}
+
+.yck-component .yck-details__content,
+.yck-component .yck-details__content ol,
+.yck-component .yck-details__content ol li,
+.yck-component .yck-details__content ul,
+.yck-component .yck-details__content ul li {
+    padding: 0;
+    margin: 0;
+}
+
+.yck-component .yck-strong {
+    font-weight: 600;
+}
+
+.yck-component .yck-details {
+    border-top: 1px solid rgba(0, 0, 0, 0.15);
+    margin-top: clamp(1rem, 5%, 2rem);
+    overflow: hidden;
+    transition: border-color 0.7s;
+}
+
+.yck-component .yck-details:hover {
+    border-color: #555;
+}
+
+.yck-component .yck-details__summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    margin-top: clamp(0.75rem, 5%, 1.5rem);
+    padding-bottom: clamp(1rem, 5%, 2rem);
+    text-transform: uppercase;
+    font-size: var(--yck-step-2);
+}
+
+.yck-component .yck-details__summary::after {
+    content: '+';
+    font-size: 1.5rem;
+    color: #999;
+    transition: transform 0.5s ease-in-out;
+    margin-right: 1rem;
+}
+
+.yck-component .yck-details[open] .yck-details__summary::after {
+    transform: rotate(-45deg);
+}
+
+.yck-component .yck-details__content {
+    max-height: auto;
+    margin-bottom: clamp(1.25rem, 5%, 1.75rem);
+    opacity: 0;
+    overflow: hidden;
+    padding: 0;
+    animation: yckFadeOutSlideUp 0.5s ease forwards;
+}
+
+.yck-component .yck-details[open] .yck-details__content {
+    animation: yckFadeInSlideDown 0.5s ease forwards;
+}
+
+@keyframes yckFadeInSlideDown {
+    0% {
+        max-height: auto;
+        opacity: 0;
+    }
+
+    100% {
+        max-height: auto;
+        opacity: 1;
+    }
+}
+
+@keyframes yckFadeOutSlideUp {
+    0% {
+        max-height: auto;
+        opacity: 1;
+    }
+
+    100% {
+        max-height: auto;
+        opacity: 0;
+    }
+}
+
+.yck-component .yck-flexbox-grid {
+    --yck-min: 22ch;
+    --yck-gap: 1.5em;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: var(--yck-gap);
+}
+
+.yck-component .yck-flexbox-grid > * {
+    flex: 1 1 var(--yck-min);
+    list-style: none;
+}
+
+.yck-component .yck-gallery-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1em;
+}
+
+.yck-component .yck-gallery-container .yck-iframe-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    overflow: hidden;
+}
+
+.yck-component .yck-gallery-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin-bottom: 1em;
+}
+
+.yck-component .yck-gallery-container small {
+    display: block;
+    text-align: center;
+    font-style: italic;
+    margin-top: 0.5em;
+    color: var(--yck-color-text-light);
+}
+
+.yck-component .yck-gallery-container img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius:  var(--yck-border-radius);
+    box-shadow: var(--yck-box-shadow);
+}
+
+.yck-component .yck-gallery-container .yck-image-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 0.5em;
+}
+
+.yck-component .yck-gallery-container .yck-image-row img {
+    flex: 1 1 30%;
+    object-fit: cover;
+}
+</style>
