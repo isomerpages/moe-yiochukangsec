@@ -7,23 +7,23 @@ variant: markdown
 ---
 <h2>School Rules and Regulations</h2>
 
-<p>We believe our students practise sound character, good citizenship and effective self-leadership through:
+<p>We believe our students practise sound character, good citizenship and effective self-leadership through:</p>
 
-**3Rs**:  
+<h4>3Rs: </h4>
 RULES, RESPECT, RESPONSIBILITY
 
-**4A**s:  
+<h4>4As:</h4>  
 ATTIRE, ATTITUDE, ATTENDANCE, ASSIGNMENTS
 
 
 
-</p><ul class="jekyllcodex_accordion">
+<ul class="jekyllcodex_accordion">
 
 &nbsp;&nbsp;<li>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">The&nbsp;4As</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1"><h3>The&nbsp;4As</h3></label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
