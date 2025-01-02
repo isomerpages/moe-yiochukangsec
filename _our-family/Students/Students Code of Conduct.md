@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Students
 variant: markdown
 ---
-School Rules and Regulations
+<h2>School Rules and Regulations</h2>
 
-We believe our students practise sound character, good citizenship and effective self-leadership through:
+<p>We believe our students practise sound character, good citizenship and effective self-leadership through:
 
 We believe our students practise  
 sound character, good citizenship  
@@ -25,7 +25,7 @@ RULES, RESPECT, RESPONSIBILITY
 **4As**:  
 ATTIRE, ATTITUDE, ATTENDANCE, ASSIGNMENTS
 
-<ul class="jekyllcodex_accordion">
+</p><ul class="jekyllcodex_accordion">
 
 &nbsp;&nbsp;<li>
 
