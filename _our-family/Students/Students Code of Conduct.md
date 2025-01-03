@@ -32,18 +32,20 @@ ATTIRE, ATTITUDE, ATTENDANCE, ASSIGNMENTS
   
 
 <b>School Uniform</b><br>  
+![](/images/Our%20Family/Students/Students%20Code%20of%20Conduct/SchoolUniformMF.png)
+![](/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttireMF.png)
+The school uniform is a representation of the school and its history. The school uniform is to be worn in a dignified manner that befits a YCKSian. Students are to wear the prescribed school uniform and modification to the uniform is not allowed.<br>
 
-The uniform is a representation of the school and its history. The school uniform is to be worn in a dignified manner that befits a YCKSian.<br>
+For the girls, the length of the skirt must be worn no shorter than two finger widths above the knee.&nbsp; For the boys, the pants should not be shortened beyond the ankles.
 
-Students are to wear the prescribed school uniform in school and during all school functions whether inside or outside the school. Modification to the uniform is strictly not allowed.<br>
-
-For the girls, the length of the skirt must be worn no shorter than 2 finger widths above the knee.&nbsp;For the boys, the pants should not be shortened beyond students’ ankles.<br><br>
+The school uniform must be worn during school assembly on Tuesdays.
+<br><br>
 
 <b>PE Attire</b><br>  
-Only the school PE T-shirt and shorts are to be worn for PE lessons unless permission has been granted. Students must change into their school uniform during the first available break.<br><br>
+Only the school PE T-shirt and shorts must be worn for PE lessons unless permission has been granted otherwise. On Mondays and non-HBL Fridays, when there are PE lessons, students may choose to wear the Level T-shirt.<br><br>
 
 <b>Level T-shirt</b><br>  
-Students can only wear the Level T-shirt meant for that level.&nbsp; This can only be worn on days when there are early school dismissals such as on Chinese New Year’s Eve, Sports Carnival, National Day Celebration and Teacher’s Day Celebration.<br><br>
+Students can only wear the Level T-shirt meant for their level.&nbsp;This can only be worn on Mondays and non-HBL Fridays. The school may inform students to wear the Level T-shirt on special occasions e.g. Sports Carnival and National Day Celebration.<br><br>
 
 <b>CCA Attire</b><br>  
 Only approved CCA attire or PE attire is allowed for CCAs.<br><br>
@@ -55,7 +57,7 @@ Cardigans must not be worn except in air-conditioned rooms. Students who are fee
 Wearing of religious items is not allowed as the school is a secular public space for all students.<br><br>
 
 <b>Footwear</b><br>  
-Only school approved white shoes and white socks are allowed. Socks must be visibly worn. Sports shoes may be worn for CCAs and on special occasion such as the School Sports Carnival, with permission from the teacher-in-charge.<br><br>
+Only school-approved plain white shoes and socks without any logo are allowed. Socks must be visibly worn. Sports shoes may be worn for CCAs and on special occasions such as Sports Carnival, with permission from the teacher-in-charge.<br><br>
 
 <b>GROOMING</b><br><br>
 	
@@ -332,6 +334,15 @@ body,
 .yck-component h5 {
     font-size: var(--yck-step-1);
     margin-bottom: calc(var(--yck-spacing-unit) * 0.4);
+    text-transform: uppercase;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
+	
+.yck-component .yck-h6,
+.yck-component h6 {
+    font-size: var(--yck-step-0);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.2);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
