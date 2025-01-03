@@ -29,10 +29,15 @@ ATTIRE, ATTITUDE, ATTENDANCE, ASSIGNMENTS
 
 <h4><b>ATTIRE</b></h4>
 <h5><b>School Uniform</b></h5>  
-	
-![](/images/Our%20Family/Students/Students%20Code%20of%20Conduct/SchoolUniformMF.png)
-	
-![](/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttireMF.png)
+
+<div class="yck-component">
+<ul class="yck-flexbox-grid">
+<li><img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/SchoolUniformMF.png">
+</li>
+<li><img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttireMF.png">
+	</li>
+</ul>
+	</div>
 
 The school uniform is a representation of the school and its history. The school uniform is to be worn in a dignified manner that befits a YCKSian. Students are to wear the prescribed school uniform and modification to the uniform is not allowed.<br>
 
