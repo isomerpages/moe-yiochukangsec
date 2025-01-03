@@ -27,13 +27,13 @@ ATTIRE, ATTITUDE, ATTENDANCE, ASSIGNMENTS
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<p> <b>ATTIRE</b><br><br>
-
-  
-
-<b>School Uniform</b><br>  
+<h4><b>ATTIRE</b></h4>
+<h5><b>School Uniform</b></h5>  
+	
 ![](/images/Our%20Family/Students/Students%20Code%20of%20Conduct/SchoolUniformMF.png)
+	
 ![](/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttireMF.png)
+
 The school uniform is a representation of the school and its history. The school uniform is to be worn in a dignified manner that befits a YCKSian. Students are to wear the prescribed school uniform and modification to the uniform is not allowed.<br>
 
 For the girls, the length of the skirt must be worn no shorter than two finger widths above the knee.&nbsp; For the boys, the pants should not be shortened beyond the ankles.
@@ -125,7 +125,7 @@ All students are to:<br>
 *   Study diligently and conscientiously and to take pride in their work.<br>  
     
 *   Complete all schoolwork/homework assigned to them and to submit them on time.
-</p>
+<p></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
@@ -390,4 +390,73 @@ body,
     word-wrap: break-word;
     line-height: 1.6rem;
 }
+	
+.yck-component .yck-flexbox-grid {
+    --yck-min: 22ch;
+    --yck-gap: 1.5em;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: var(--yck-gap);
+}
+
+.yck-component .yck-flexbox-grid > * {
+    flex: 1 1 var(--yck-min);
+    list-style: none;
+}
+
+.yck-component .yck-gallery-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1em;
+}
+
+.yck-component .yck-gallery-container .yck-iframe-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    overflow: hidden;
+}
+
+.yck-component .yck-gallery-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin-bottom: 1em;
+}
+
+.yck-component .yck-gallery-container small,
+.yck-component .yck-gallery-container .yck-figcaption {
+    display: block;
+    text-align: center;
+    font-style: italic;
+    margin-top: 0.5em;
+    color: var(--yck-color-text-light);
+}
+
+
+.yck-component .yck-gallery-container img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius:  var(--yck-border-radius);
+    box-shadow: var(--yck-box-shadow);
+}
+
+.yck-component .yck-gallery-container .yck-image-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 0.5em;
+}
+
+.yck-component .yck-gallery-container .yck-image-row img {
+    flex: 1 1 calc(25% - 0.5em); /* max 4 imgs in a row */
+    min-width: calc(50% - 0.5em); /* min 2 imgs in a row */
+    object-fit: cover;
+}
+
 </style>
