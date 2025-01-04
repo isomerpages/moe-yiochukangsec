@@ -35,6 +35,8 @@ ATTIRE, ATTITUDE, ATTENDANCE, ASSIGNMENTS
 <div class="yck-image-row">
 <img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/SchoolUniform_Boy.png">
 <img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/SchoolUniform_Girl.png">
+	</div>
+<div class="yck-image-row">
 <img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttire_Boy.png">
 <img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttire_Girl.png"></div>
 	</div>
