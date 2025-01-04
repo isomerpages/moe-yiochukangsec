@@ -67,10 +67,20 @@ Only school-approved plain white shoes and socks without any logo are allowed. S
 
 <b>GROOMING</b><br><br>
 	
-<img style="width:100%;height:50%" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/S2.png">
-<img style="width:100%;height:50%" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/S3.png"><br><br>
-	
-<img style="width:100%;height:50%" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/S4.png"><br><br>
+<div class="yck-component">
+<div class="yck-gallery-container">
+<div class="yck-image-row">
+<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/HairBoyFrntSide.png"><div class="yck-figcaption">
+	Front and Side views for boys
+</div>
+<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/HairGirlFrntSide.png"><div class="yck-figcaption">
+	Front and Side views for girls
+</div>
+</div>
+	</div>
+	</div>
+
+
 	
 <b>ATTITUDE</b><br><br>
 
