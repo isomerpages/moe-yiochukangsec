@@ -30,10 +30,13 @@ ATTIRE, ATTITUDE, ATTENDANCE, ASSIGNMENTS
 <h4><b>ATTIRE</b></h4>
 <h5><b>School Uniform</b></h5>  
 
-<div class="yck-component"><div class="yck-gallery-container">
-<div class="yck-image-row"><img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/SchoolUniformMF.png"><img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/SchoolUniformMF.png">
-<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/SchoolUniformMF.png">
-<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttireMF.png"></div>
+<div class="yck-component">
+<div class="yck-gallery-container">
+<div class="yck-image-row">
+<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/SchoolUniform_Boy.png">
+<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/SchoolUniform_Girl.png">
+<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttire_Boy.png">
+<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttire_Girl.png"></div>
 	</div>
 	</div>
 
