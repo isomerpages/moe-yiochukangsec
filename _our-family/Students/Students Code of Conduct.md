@@ -41,14 +41,14 @@ ATTIRE, ATTITUDE, ATTENDANCE, ASSIGNMENTS
 	</div>
 	</div>
 
-<p>The school uniform is a representation of the school and its history. The school uniform is to be worn in a dignified manner that befits a YCKSian. Students are to wear the prescribed school uniform and modification to the uniform is not allowed.<br>
+<p>The school uniform is a representation of the school and its history. The school uniform is to be worn in a dignified manner that befits a YCKSian. Students are to wear the prescribed school uniform and modification to the uniform is not allowed.</p>
 
-For the girls, the length of the skirt must be worn no shorter than two finger widths above the knee.&nbsp; For the boys, the pants should not be shortened beyond the ankles.</p>
+<p>For the girls, the length of the skirt must be worn no shorter than two finger widths above the knee.&nbsp; For the boys, the pants should not be shortened beyond the ankles.</p>
 
-<p>The school uniform must be worn during school assembly on Tuesdays.
-<br>
+<p>The school uniform must be worn during school assembly on Tuesdays.</p>
 
-<b>PE Attire</b><br>  
+
+<h4><b>PE Attire</b></h4>
 Only the school PE T-shirt and shorts must be worn for PE lessons unless permission has been granted otherwise. On Mondays and non-HBL Fridays, when there are PE lessons, students may choose to wear the Level T-shirt.<br><br>
 
 <b>Level T-shirt</b><br>  
@@ -64,7 +64,7 @@ Cardigans must not be worn except in air-conditioned rooms. Students who are fee
 Wearing of religious items is not allowed as the school is a secular public space for all students.<br><br>
 
 <b>Footwear</b><br>  
-Only school-approved plain white shoes and socks without any logo are allowed. Socks must be visibly worn. Sports shoes may be worn for CCAs and on special occasions such as Sports Carnival, with permission from the teacher-in-charge.</p>
+Only school-approved plain white shoes and socks without any logo are allowed. Socks must be visibly worn. Sports shoes may be worn for CCAs and on special occasions such as Sports Carnival, with permission from the teacher-in-charge.<p></p>
 
 <b>GROOMING</b><br><br>
 	
@@ -469,20 +469,20 @@ body,
     flex-wrap: wrap;
     gap: 0.5em;
 }
-	
-.yck-component .yck-gallery-container .yck-image-row small,
-.yck-component .yck-gallery-container .yck-image-row .yck-figcaption	{
-	display: block;
-    text-align: center;
-    font-style: italic;
-    margin-top: 0.5em;
-    color: var(--yck-color-text-light);
-}
 
 .yck-component .yck-gallery-container .yck-image-row img {
     flex: 1 1 calc(25% - 0.5em); /* max 4 imgs in a row */
     min-width: calc(50% - 0.5em); /* min 2 imgs in a row */
     object-fit: cover;
+}
+	
+.yck-component .yck-gallery-container .yck-image-row img small,
+.yck-component .yck-gallery-container .yck-image-row img .yck-figcaption	{
+	display: block;
+    text-align: center;
+    font-style: italic;
+    margin-top: 0.5em;
+    color: var(--yck-color-text-light);
 }
 
 </style>
