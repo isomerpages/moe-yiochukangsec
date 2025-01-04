@@ -6,7 +6,7 @@ third_nav_title: Students
 variant: markdown
 ---
 <h2>School Rules and Regulations</h2>
-
+<div class="yck-component">
 <p>We believe our students practise sound character, good citizenship and effective self-leadership through:</p>
 
 <h4>3Rs: </h4>
@@ -15,7 +15,7 @@ RULES, RESPECT, RESPONSIBILITY
 <h4>4As:</h4>  
 ATTIRE, ATTITUDE, ATTENDANCE, ASSIGNMENTS
 
-
+</div>
 
 <ul class="jekyllcodex_accordion">
 
@@ -27,16 +27,15 @@ ATTIRE, ATTITUDE, ATTENDANCE, ASSIGNMENTS
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
+<div class="yck-component">
 <h4><b>ATTIRE</b></h4>
 <h5><b>School Uniform</b></h5>  
 
-<div class="yck-component">
+
 <div class="yck-gallery-container">
 <div class="yck-image-row">
 <img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/SchoolUniform_Boy.png">
 <img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/SchoolUniform_Girl.png">
-	</div>
-<div class="yck-image-row">
 <img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttire_Boy.png">
 <img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttire_Girl.png"></div>
 	</div>
