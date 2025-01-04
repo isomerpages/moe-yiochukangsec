@@ -469,6 +469,15 @@ body,
     flex-wrap: wrap;
     gap: 0.5em;
 }
+	
+.yck-component .yck-gallery-container .yck-image-row small,
+.yck-component .yck-gallery-container .yck-image-row .yck-figcaption	{
+	display: block;
+    text-align: center;
+    font-style: italic;
+    margin-top: 0.5em;
+    color: var(--yck-color-text-light);
+}
 
 .yck-component .yck-gallery-container .yck-image-row img {
     flex: 1 1 calc(25% - 0.5em); /* max 4 imgs in a row */
