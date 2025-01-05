@@ -472,7 +472,7 @@ body,
 
 .yck-component .yck-gallery-container .yck-image-row img {
     flex: 1 1 calc(25% - 0.5em); /* max 4 imgs in a row */
-    min-width: calc(50% - 0.5em); /* min 2 imgs in a row */
+    min-width: calc(25% - 0.5em); /* min 2 imgs in a row */
     object-fit: cover;
 }
 	
