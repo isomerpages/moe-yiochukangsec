@@ -166,57 +166,183 @@ variant: markdown
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 .tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
 </style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-8rcp">No.</th>
-    <th class="tg-8rcp">Offence</th>
-    <th class="tg-8rcp">Actions and Consequences</th>
+<table class="guidelines">
+  <tbody><tr>
+    <th>No.</th>
+    <th>Offense</th>
+    <th>Consequences</th>
   </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-7yig">1</td>
-    <td class="tg-7yig">Inappropriate Attire</td>
-    <td class="tg-yst8">1st – 3rd Offence<br><br>Parents will be informed of the consequences for subsequent recurring offence;<br>Student will be given the excuse slip for returning to class.<br>For coloured and inappropriate hairstyles, parents will be notified and they have to pick student up from school for immediate follow up.<br>Recurring offence (more than 3 times)<br><br>Parents will bring the appropriate uniform/shoes or pick-up student for haircut.For parents who are not contactable or unavailable, student will be suspended from lessons for the day</td>
+  
+  
+  <tr class="category-attendance">
+    <td class="offense-number">1</td>
+    <td class="offense-type">Inappropriate Attire</td>
+    <td>
+      <div class="consequence-block severity-level-1">
+        <strong class="level-heading">Initial Offense (1st – 3rd)</strong>
+        <ul>
+          <li>Parent notification</li>
+          <li>Excuse slip for class return</li>
+        </ul>
+      </div>
+      <div class="consequence-block severity-level-2">
+        <strong class="level-heading">Recurring Offense</strong>
+        <ul>
+          <li>Parents must bring appropriate uniform/shoes</li>
+          <li>Student suspension from lessons if parents unavailable</li>
+        </ul>
+      </div>
+    </td>
   </tr>
-  <tr>
-    <td class="tg-7yig">2</td>
-    <td class="tg-7yig">Late-coming</td>
-    <td class="tg-yst8">Late for Lesson (4 times or less)<br><br>Student will provide a written statement;<br><br>Parents will be informed of consequences for subsequent recurring offence;<br><br>Student will be given an excuse slip for returning to class;<br><br>Student will serve detention (1 hour) after school.<br>Late for School (4 times or less)<br><br>Parents will be informed of consequences for subsequent recurring offence;<br><br>Student will be given an excuse slip for returning to class;<br><br>Student will serve detention (1 hour) after school (3rd – 4th time).<br>Recurring offence (More than 4 times)<br><br>Parents to meet Level DM<br><br>Referral to SSC for mandatory counselling sessions<br><br>Suspension (1 day) from class and “Fair” conduct grade (5th and 6th times)<br><br>Suspension (1 day) from school and “Poor” conduct grade (7th time and more).<br>Reporting to School after 8.00 am<br><br>Parents will be informed.<br>Student will be suspended from school/class if there is no valid reason.<br><br></td>
+
+  <tr class="category-attendance">
+    <td class="offense-number">2</td>
+    <td class="offense-type">Late-coming</td>
+    <td>
+      <div class="consequence-block severity-level-1">
+        <strong class="level-heading">Initial Late Arrivals (1-4)</strong>
+        <ul>
+          <li>Written statement required</li>
+          <li>Parent notification</li>
+          <li>Detention after school (3rd-4th instance)</li>
+        </ul>
+      </div>
+      <div class="consequence-block severity-level-2">
+        <strong class="level-heading">Repeated Late Arrivals (5-6)</strong>
+        <ul>
+          <li>One-day class suspension</li>
+          <li>"Fair" conduct grade</li>
+          <li>Mandatory counseling sessions</li>
+        </ul>
+      </div>
+      <div class="consequence-block severity-level-3">
+        <strong class="level-heading">Persistent Late Arrivals (7+)</strong>
+        <ul>
+          <li>One-day school suspension</li>
+          <li>"Poor" conduct grade</li>
+        </ul>
+      </div>
+    </td>
   </tr>
-  <tr>
-    <td class="tg-ktyi"> 3</td>
-    <td class="tg-ktyi"> Truancy</td>
-    <td class="tg-ktyi"><br><br><br><br><br>Truancy from Lesson<br><br>Student will provide a written statement;<br><br>Parents will be informed and the student will be suspended from class for the day.<br><br>Truancy from CCA<br><br>Student will provide a written statement;<br><br>Parents will be informed;<br><br>Student will serve detention after school (1 hour).<br><br>Recurring offence<br><br>Parents will meet P/ VPs and Level DM/ HOD PE and CCA (for CCA related);<br><br>Student will be referred for mandatory counselling sessions;<br><br>Suspension from class (2 days) and “Fair” conduct grade (2nd offence);<br><br>Suspension from school (2 days) and “Poor” conduct grade (3rd offence);<br><br>Caning* and “Poor” conduct grade (4th and subsequent offences).<br>Truancy from School<br><br>Parents will be informed and have to meet P/ VPs and Level DM;<br><br>Student will provide a written statement upon return to school;<br><br>Student will be referred for mandatory counselling sessions;<br><br>Suspension from class (3 days) and “Fair” conduct grade (1st offence);<br><br>Suspension from school (3 days) and “Poor” conduct grade (2nd offence);<br><br>Caning* and “Poor” conduct grade (recurring offences).<br><br><br><br><br></td>
+
+  <tr class="category-attendance">
+    <td class="offense-number">3</td>
+    <td class="offense-type">Truancy</td>
+    <td>
+      <div class="consequence-block severity-level-2">
+        <strong class="level-heading">Class Truancy</strong>
+        <ul>
+          <li>Written statement</li>
+          <li>Parent notification</li>
+          <li>One-day class suspension</li>
+        </ul>
+      </div>
+      <div class="consequence-block severity-level-3">
+        <strong class="level-heading">School Truancy</strong>
+        <ul>
+          <li>Three-day class suspension (1st offense)</li>
+          <li>Three-day school suspension (2nd offense)</li>
+          <li>Caning* or equivalent (recurring)</li>
+          <li>Mandatory parent meeting</li>
+          <li>Required counseling sessions</li>
+        </ul>
+      </div>
+    </td>
   </tr>
-  <tr>
-    <td class="tg-ktyi"> 4</td>
-    <td class="tg-ktyi">Defiance </td>
-    <td class="tg-ktyi"><br><br>Student will provide a written statement;<br><br>Parents will be informed;<br><br>Level DM will determine the severity of the act of defiance. Punishments may include community service, letter of apology, public apology, mediation between parties involved or suspension;<br><br>Possible “Fair” or “Poor” conduct grade. <br><br></td>
+
+  
+  <tr class="category-behavioral">
+    <td class="offense-number">4</td>
+    <td class="offense-type">Defiance</td>
+    <td>
+      <div class="consequence-block severity-level-2">
+        <ul>
+          <li>Written statement required</li>
+          <li>Parent notification</li>
+          <li>Possible community service</li>
+          <li>Potential "Fair" or "Poor" conduct grade</li>
+        </ul>
+      </div>
+    </td>
   </tr>
-  <tr>
-    <td class="tg-zr06"> 6</td>
-    <td class="tg-ktyi">Smoking </td>
-    <td class="tg-ktyi"><br>Suspected of Smoking<br>a.  1st Offence<br>Student will provide a written statement;<br><br>Smokerlyser test (Reading will be recorded on the statement);<br><br>Parents/Guardians will be informed to pick student up from school for washing up before he/she is allowed back to school;<br>For parents not contactable or available, student will be suspended from lessons for the day.<br>Student will be referred for mandatory counselling sessions;<br><br>“Fair” conduct grade.<br><br><br>b.  2nd Offence<br><br>As listed above in (a);<br><br>Parents will meet Level DM;<br><br>Student is required to attend a compulsory Smoking Cessation Programme with any hospitals or clinics e.g. National Healthcare Group Polyclinics;<br><br>Suspended from class (1 day) and “Poor” conduct grade.<br>c.  Recurring Offence<br>As listed above in (a);<br>Parents will have to meet P/ VPs and Level DM;<br>Suspension from class (2 days) and “Poor” conduct grade.<br><br><br>Smoking or Possession of Cigarettes<br>a.  1st Offence<br>Student will provide a written statement;<br>Smokerlyser test (Reading will be recorded on the statement);<br>Parents/Guardians will meet Level DM;<br>Student will be suspended from class until the first clinical session for the Smoking Cessation Programme with any hospitals or clinics;<br>Student will be referred for mandatory counselling sessions;<br>“Fair” conduct grade;<br>Update HSA<br><br>b.  2nd Offence<br>Student will provide a written statement;<br>Smokerlyser test (Reading will be recorded on the statement);<br>Parents/Guardians will meet Level DM;<br>Student will be suspended from school (2 days);<br>Student will be referred for mandatory counselling sessions;<br>“Poor” conduct grade;<br>Update HSAc.  Recurring offence<br><br>Student will provide a written statement;<br>Smokerlyser test (Reading will be recorded on the statement);<br>Parents/Guardians will have to meet P/ VPs and Level DM;<br>Student will be referred for mandatory counselling sessions;<br>Suspension from school (3 days) and “Poor” conduct grade;<br>Update HSA.</td>
+
+  <tr class="category-behavioral">
+    <td class="offense-number">6</td>
+    <td class="offense-type">Smoking</td>
+    <td>
+      <div class="consequence-block severity-level-2">
+        <strong class="level-heading">First Offense</strong>
+        <ul>
+          <li>Written statement required</li>
+          <li>Smokerlyzer test administration</li>
+          <li>Mandatory parent pickup</li>
+          <li>Required counseling sessions</li>
+          <li>"Fair" conduct grade</li>
+        </ul>
+      </div>
+      <div class="consequence-block severity-level-3">
+        <strong class="level-heading">Subsequent Offenses</strong>
+        <ul>
+          <li>All previous measures</li>
+          <li>Mandatory smoking cessation program</li>
+          <li>1-2 day suspension</li>
+          <li>"Poor" conduct grade</li>
+          <li>HSA notification required</li>
+        </ul>
+      </div>
+    </td>
   </tr>
+
+  
   <tr>
-    <td class="tg-ktyi"> 7</td>
-    <td class="tg-ktyi"> Vandalism</td>
-    <td class="tg-ktyi"><br><br>Student will provide a written statement;<br><br>Parents/Guardians will be informed and meet Level DM;<br><br>Student will be suspended immediately from class till parent’s conference with School (for serious vandalism cases);<br><br>Student will replace and pay for damages;<br><br>Student will be referred for mandatory counselling sessions (if necessary);<br><br>“Fair” or “Poor” conduct grade. <br><br></td>
+    <td class="offense-number">7</td>
+    <td class="offense-type">Vandalism</td>
+    <td>
+      <div class="consequence-block severity-level-3">
+        <ul>
+          <li>Written statement required</li>
+          <li>Mandatory parent meeting</li>
+          <li>Immediate suspension for serious cases</li>
+          <li>Full replacement/payment for damages</li>
+          <li>"Fair" or "Poor" conduct grade</li>
+        </ul>
+      </div>
+    </td>
   </tr>
+
   <tr>
-    <td class="tg-ktyi">8 </td>
-    <td class="tg-ktyi">Physical Violence </td>
-    <td class="tg-ktyi">Level DM will assess injuries (if any) and report straightaway to P/ VPs or DM if immediate medical attention is required;<br><br>Student will provide a written statement;<br><br>Parents/Guardians will be informed and meet Level DM;<br><br>Student will be suspended immediately from class until parent’s conference with School;<br><br>Student will be referred for mandatory counselling sessions;<br><br>Disciplinary actions will be taken (Suspension, Caning*, Expulsion);<br><br>“Fair” or “Poor” conduct grade. <br><br></td>
+    <td class="offense-number">8</td>
+    <td class="offense-type">Physical Violence</td>
+    <td>
+      <div class="consequence-block severity-level-3">
+        <ul>
+          <li>Immediate medical assessment</li>
+          <li>Written statement required</li>
+          <li>Mandatory parent meeting</li>
+          <li>Immediate suspension</li>
+          <li>Required counseling sessions</li>
+          <li>Potential caning*/suspension/expulsion</li>
+          <li>"Fair" or "Poor" conduct grade</li>
+        </ul>
+      </div>
+    </td>
   </tr>
+
   <tr>
-    <td class="tg-ktyi">9 </td>
-    <td class="tg-ktyi">Body Art<br></td>
-    <td class="tg-ktyi">Student will provide a written statement;<br>Parents/Guardians will need to meet P/ VPs and DM;<br>Student will be suspended immediately from School till the date of the first consultation with specialist; <br><br>“Poor” conduct grade. </td>
+    <td class="offense-number">9</td>
+    <td class="offense-type">Body Art</td>
+    <td>
+      <div class="consequence-block severity-level-3">
+        <ul>
+          <li>Written statement required</li>
+          <li>Mandatory parent meeting</li>
+          <li>Immediate suspension until specialist consultation</li>
+          <li>"Poor" conduct grade</li>
+        </ul>
+      </div>
+    </td>
   </tr>
-</tbody>
-</table>
+</tbody></table>
 			
 <p><b>* Caning is only applicable to boys.</b>
 
