@@ -147,15 +147,13 @@ variant: markdown
 </div></div></li>
 	<li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
+<input type="checkbox" id="accordion2">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2"><h3>Disciplinary&nbsp;Guidelines</h3></label>
+<label for="accordion2"><h3>Disciplinary&nbsp;Guidelines</h3></label>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
+<p> Every action has consequences. Students who break the Code of Conduct will be disciplined. Helping students realise this is one way we can empower our students to develop self-management. It is therefore important to understand the consequences for not abiding by the rules and regulations.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> Every action has consequences. Students who break the Code of Conduct will be disciplined. Helping students realise this is one way we can empower our students to develop self-management. It is therefore important to understand the consequences for not abiding by the rules and regulations.
-
-The following list shows the guidelines for managing disciplinary offences and violation of the Code of Conduct. The list is not exhaustive and is subject to changes. The school reserves the right to determine the disciplinary consequences in the context of each case.
+<p>The following list shows the guidelines for managing disciplinary offences and violation of the Code of Conduct. The list is not exhaustive and is subject to changes. The school reserves the right to determine the disciplinary consequences in the context of each case.</p>
 
   
 
@@ -231,9 +229,9 @@ Girls are subjected to other disciplinary actions&nbsp;e.g. suspension.
 
 Girls are subjected to other disciplinary actions  
 e.g. suspension.
-			</p>
+			<p></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 </li>
 	
