@@ -70,7 +70,7 @@ ATTIRE, ATTITUDE, ATTENDANCE, ASSIGNMENTS
 <h5><b>Footwear</b></h5>  
 <p>Only school-approved plain white shoes and socks without any logo are allowed. Socks must be visibly worn. Sports shoes may be worn for CCAs and on special occasions such as Sports Carnival, with permission from the teacher-in-charge.</p>
 
-<h4>GROOMING</h4>
+<h4><strong>GROOMING</strong></h4>
 	<h5>Hairstyle</h5>
 	
 <div class="yck-component">
@@ -104,13 +104,13 @@ ATTIRE, ATTITUDE, ATTENDANCE, ASSIGNMENTS
 
 <hr>
 	
-<b>ATTITUDE</b><br><br>
+<h4>ATTITUDE</h4>
 
   
 
-<b>Conduct and Behaviour</b><br>
+<h5>Conduct and Behaviour</h5>
 
-Students are to be courteous, respectful and well-behaved at all times.<br><br>  
+<p>Students are to be courteous, respectful and well-behaved at all times.</p>
 
   
 
@@ -378,7 +378,7 @@ body,
     letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.yck-component .yck-text-small {
+.yck-component .yck-text-small small {
     font-size: var(--yck-step--1);
 }
 
@@ -487,7 +487,7 @@ body,
 	flex-wrap: nowrap;
 	}
 	
-.yck-component .yck-gallery-container .yck-image-row img small,
+.yck-component .yck-gallery-container .yck-image-row img .yck-text-xs,
 .yck-component .yck-gallery-container .yck-image-row img .yck-figcaption	{
 	display: block;
     text-align: center;
