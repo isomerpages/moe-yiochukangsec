@@ -208,7 +208,7 @@ variant: markdown
   <tr>
     <td class="tg-ktyi">8 </td>
     <td class="tg-ktyi">Physical Violence </td>
-    <td class="tg-ktyi"><br><br>Level DM will assess injuries (if any) and report straightaway to P/ VPs or DM if immediate medical attention is required;<br><br>Student will provide a written statement;<br><br>Parents/Guardians will be informed and meet Level DM;<br><br>Student will be suspended immediately from class until parent’s conference with School;<br><br>Student will be referred for mandatory counselling sessions;<br><br>Disciplinary actions will be taken (Suspension, Caning*, Expulsion);<br><br>“Fair” or “Poor” conduct grade. <br><br></td>
+    <td class="tg-ktyi">Level DM will assess injuries (if any) and report straightaway to P/ VPs or DM if immediate medical attention is required;<br><br>Student will provide a written statement;<br><br>Parents/Guardians will be informed and meet Level DM;<br><br>Student will be suspended immediately from class until parent’s conference with School;<br><br>Student will be referred for mandatory counselling sessions;<br><br>Disciplinary actions will be taken (Suspension, Caning*, Expulsion);<br><br>“Fair” or “Poor” conduct grade. <br><br></td>
   </tr>
   <tr>
     <td class="tg-ktyi">9 </td>
@@ -216,34 +216,27 @@ variant: markdown
     <td class="tg-ktyi">Student will provide a written statement;<br>Parents/Guardians will need to meet P/ VPs and DM;<br>Student will be suspended immediately from School till the date of the first consultation with specialist; <br><br>“Poor” conduct grade. </td>
   </tr>
 </tbody>
-</table><br><br>
+</table>
 			
-<b>* Caning is only applicable to boys.</b>
+<p><b>* Caning is only applicable to boys.</b>
 
-Girls are subjected to other disciplinary actions&nbsp;e.g. suspension.
+Girls are subjected to other disciplinary actions; e.g. suspension.</p>
 
-<b>* Caning is only applicable to boys.</b>
-
-Girls are subjected to other disciplinary actions  
-e.g. suspension.
-			<p></p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 </li>
 	
 <li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
+<input type="checkbox" id="accordion3">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3"><h3>The 3Rs</h3></label>
+<label for="accordion3"><h3>The 3Rs</h3></label>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<p> </p><h4>RULES, RESPECT &amp; RESPONSIBILITIES</h4>
 
-All Yio Chu Kang Secondary School students are taught to&nbsp;<b>respect</b>&nbsp;the rights of others through&nbsp;<b>responsible</b>&nbsp;thinking by learning to obey instructions and&nbsp;<b>rules</b>.
-</div>
+<h4>RULES, RESPECT &amp; RESPONSIBILITIES</h4>
+
+<p>All Yio Chu Kang Secondary School students are taught to&nbsp;<b>respect</b>&nbsp;the rights of others through <b>responsible</b> thinking by learning to obey instructions and <b>rules</b>.</p>
+
 
 </li>
 	
