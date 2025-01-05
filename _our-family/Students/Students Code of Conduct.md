@@ -76,7 +76,7 @@ Only school-approved plain white shoes and socks without any logo are allowed. S
 <div class="yck-component">
 <div class="yck-gallery-container">
 <div class="yck-image-row">
-<div>
+
 <div>
 <img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/HairFrontBoy.png"><div class="yck-figcaption">
 	Front view for boys
@@ -85,9 +85,9 @@ Only school-approved plain white shoes and socks without any logo are allowed. S
 <div>
 	<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/HAirSideBoy.png"><div class="yck-figcaption">
 	Side view for boys
-	</div></div></div>
+	</div></div>
 	
-<div>
+
 <div>
 <img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/HairFrontGirl.png"><div class="yck-figcaption">
 	Front view for girls
@@ -97,7 +97,7 @@ Only school-approved plain white shoes and socks without any logo are allowed. S
 <img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/HairSideGirl.png"><div class="yck-figcaption">
 	Side view for girls
 </div>
-	</div></div>
+	</div>
 	</div>
 	</div>
 
@@ -480,9 +480,12 @@ body,
 .yck-component .yck-gallery-container .yck-image-row {
     display: flex;
     flex-direction: row;
-    flex-wrap: nowrap;
     gap: 0.5em;
 }
+	
+.yck-component .yck-gallery-container .yck-image-row img {
+	flex-wrap: nowrap;
+	}
 	
 .yck-component .yck-gallery-container .yck-image-row img small,
 .yck-component .yck-gallery-container .yck-image-row img .yck-figcaption	{
