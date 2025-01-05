@@ -110,47 +110,40 @@ Students who are Singapore citizens must sing the National Anthem and take the P
 All&nbsp;students&nbsp;are not allowed to have in their possession any weapon.  
 They are also not allowed to bring any weapon-like item that may distract or make the school an unsafe place.<br><br> &nbsp;  
   
-<b>Use of Mobile Devices</b><br>  
-The rules and policies governing the use of mobile devices in the school aim to ensure the school community is a safe place for all students and staff, for students to learn values and self-management skills, and for learning to take place with fewer distractions. Mobile devices are not to be used as audio/ gaming devices.<br><br> &nbsp;  
+<h5>Use of Personal Digital Devices</h5> 
+<p>The rules and policies governing the use of personal digital devices in the school aim to ensure the school community is a safe place for all students and staff, for students to learn values and self-management skills, and for learning to take place with minimal distractions. Students will be using Personal Learning Devices (PLDs) for learning purposes under the Personalised Digital Learning Programme (PDLP). Personal digital devices must not be used for non-educational or recreational purposes (e.g. playing games, listening to music). <strong>Students are not to use personal digital devices, including smartphones, during lessons unless explicit permission is given by the teacher.</strong></p>
   
-<b>Use of mobile devices</b><br>
-	including, but not limited to, mobile phones, tablets and laptops&nbsp;<b>must be switched off</b>&nbsp;and kept in the school bag or pocket&nbsp;<b>once students enter the school compound.</b><br> &nbsp;
+<p>Mobile phones or smartphones must be switched off once students enter the school compound. Students must lock their mobile phones or smartphones in the lockers provided <i>during curriculum hours</i>, unless otherwise instructed by teachers. This includes recess, remedial lessons, enrichment programmes, workshops and CCAs. Students must also lock their PLDs in the lockers during recess time. <i>After curriculum hours</i>, students can use mobile phones or smartphones only in the foyer (outside General Office) and canteen. Students who urgently need to contact parents can use the phone in the General Office. Parents can contact their children through the General Office at 6456 0669 during office hours.</p>
 
-<b>For the duration of curriculum time</b>, the mobile devices&nbsp;<b>must remain switched off</b>. This includes recess, remedials, enrichment programmes, workshops and CCAs unless authorised by teacher.&nbsp;<b>After curriculum hours</b>, students can use mobile devices only in the foyer (outside General Office) and canteen.<br> &nbsp;
-
-  
-Students who urgently need to contact parents can use the phone in the General Office. Parents can contact their children through at 6456 0669 during office hours.<br> &nbsp;
+<p>No unauthorised use, modifications, uploading or distribution of audio, image and video recordings are allowed in any form, unless explicit permission has been sought and given by the teacher.&nbsp;</p>
 
   
-No unauthorised use, modifications, uploading or distribution of audio, image and video recordings are allowed in any form, unless explicit permission has been sought and given.<br>  
-  
-Any violation or suspected inappropriate use of the mobile device will result in the device being withheld and checked as a disciplinary measure or for the purpose of investigation. &nbsp; The school shall not be responsible for the loss of any personal equipment or possession.<br><br>
+
+<p>Any violation or suspected inappropriate use of a personal digital device will result in the device being withheld and checked as a disciplinary measure or for the purpose of investigation.&nbsp;</p>
+
+<p>The school shall not be responsible for the loss of any personal digital device.</p>
 	
-<b>ATTENDANCE</b><br><br>
+<h5>ATTENDANCE</h5>
 
   
 
-All students must attend&nbsp;lessons, CCAs, school events and activities&nbsp;regularly and punctually.<br>
+<p>All students must attend&nbsp;lessons, CCAs, school events and activities&nbsp;regularly and punctually.</p>
 
-Absence from school as a result of illness must be supported by a valid Medical Certificate or letter from a certified doctor or medical specialist to be given to the Form Teacher promptly on the day the student returns to school.<br>
+<p>Absence from school as a result of illness must be supported by a valid Medical Certificate or letter from a certified doctor or medical specialist to be given to the Form Teacher promptly on the day the student returns to school.<br>
 
-A letter from the parent/ guardian will only be accepted if it is followed up by the parent/ guardian's call to the office on the day of the student's absence.<br>
+</p><p>A letter from the parent/ guardian will only be accepted if it is followed up by the parent/ guardian's call to the office on the day of the student's absence.<br>
 
-A copy of the Medical Certificate is also expected to be given to Subject Teacher(s) if it concerns any assessment (class assessment or school examination).&nbsp;Students without a medical certificate or valid reason for absence from any assessment will be awarded a zero mark.<br>
+</p><p>A copy of the Medical Certificate is also expected to be given to Subject Teacher(s) if it concerns any assessment (class assessment or school examination).&nbsp;Students without a medical certificate or valid reason for absence from any assessment will be awarded a zero mark.<br>
 
-Absence from school, lessons, CCAs, any activities planned by the school without leave or valid reason is considered&nbsp;truancy. Prompt submission of document to support the absence is critical.<br><br>  
+</p><p>Absence from school, lessons, CCAs, any activities planned by the school without leave or valid reason is considered&nbsp;truancy. Prompt submission of document to support the absence is critical.</p>
 
-<b>ASSIGNMENTS and SCHOOL WORK</b><br>
+<h5>ASSIGNMENTS and SCHOOL WORK</h5>
 
   
-All students are to:<br>  
-
-*   Study diligently and conscientiously and to take pride in their work.<br>  
-    
-*   Complete all schoolwork/homework assigned to them and to submit them on time.
-<p></p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+<p>All students are to:<br>  
+</p><ul><li>Study diligently and conscientiously and to take pride in their work.</li>
+<li>Complete all schoolwork/homework assigned to them and to submit them on time.</li>
+	</ul><p></p></div>
 
 </div></li>
 	<li>
