@@ -344,9 +344,9 @@ variant: markdown
   </tr>
 </tbody></table>
 			
-<p><b>* Caning is only applicable to boys.</b>
-
-Girls are subjected to other disciplinary actions; e.g. suspension.</p>
+<div class="notice">
+	<strong><sup>*</sup> Caning is only applicable to male students.</strong> Female students are subject to alternative disciplinary actions such as suspension.
+</div>
 
 
 </li>
