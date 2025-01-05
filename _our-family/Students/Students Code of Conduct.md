@@ -139,12 +139,9 @@ variant: markdown
 <h5>ASSIGNMENTS and SCHOOL WORK</h5>
 
   
-<p>All students are to:<br>  
-</p><ul><li>Study diligently and conscientiously and to take pride in their work.</li>
+<p>All students are to:</p><ul><li>Study diligently and conscientiously and to take pride in their work.</li>
 <li>Complete all schoolwork/homework assigned to them and to submit them on time.</li>
-	</ul><p></p></div>
-
-</div></div></li>
+	</ul><p></p></div></div></div></li>
 	<li>
 
 <input type="checkbox" id="accordion2">
