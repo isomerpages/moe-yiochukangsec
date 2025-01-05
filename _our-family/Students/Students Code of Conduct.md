@@ -147,7 +147,7 @@ variant: markdown
 <input type="checkbox" id="accordion2">
 
 <label for="accordion2"><h3>Disciplinary&nbsp;Guidelines</h3></label>
-
+<div>
 <p> Every action has consequences. Students who break the Code of Conduct will be disciplined. Helping students realise this is one way we can empower our students to develop self-management. It is therefore important to understand the consequences for not abiding by the rules and regulations.</p>
 
 <p>The following list shows the guidelines for managing disciplinary offences and violation of the Code of Conduct. The list is not exhaustive and is subject to changes. The school reserves the right to determine the disciplinary consequences in the context of each case.</p>
@@ -349,7 +349,7 @@ variant: markdown
 </div>
 
 
-</li>
+</div></li>
 	
 <li>
 
@@ -357,13 +357,13 @@ variant: markdown
 
 <label for="accordion3"><h3>The 3Rs</h3></label>
 
-
+<div>
 
 <h4>RULES, RESPECT &amp; RESPONSIBILITIES</h4>
 
 <p>All Yio Chu Kang Secondary School students are taught to&nbsp;<b>respect</b>&nbsp;the rights of others through <b>responsible</b> thinking by learning to obey instructions and <b>rules</b>.</p>
 
-
+</div>
 </li>
 	
 	
