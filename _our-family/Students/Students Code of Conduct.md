@@ -52,25 +52,26 @@ ATTIRE, ATTITUDE, ATTENDANCE, ASSIGNMENTS
 <p>The school uniform must be worn during school assembly on Tuesdays.</p>
 
 
-<h4><b>PE Attire</b></h4>
+<h5><b>PE Attire</b></h5>
 Only the school PE T-shirt and shorts must be worn for PE lessons unless permission has been granted otherwise. On Mondays and non-HBL Fridays, when there are PE lessons, students may choose to wear the Level T-shirt.<br><br>
 
-<b>Level T-shirt</b><br>  
+<h5><b>Level T-shirt</b></h5>  
 Students can only wear the Level T-shirt meant for their level.&nbsp;This can only be worn on Mondays and non-HBL Fridays. The school may inform students to wear the Level T-shirt on special occasions e.g. Sports Carnival and National Day Celebration.<br><br>
 
-<b>CCA Attire</b><br>  
+<h5>CCA Attire</h5>  
 Only approved CCA attire or PE attire is allowed for CCAs.<br><br>
 
-<b>Cardigans/ Sweaters</b><br>  
+<h5><b>Cardigans/ Sweaters</b></h5>  
 Cardigans must not be worn except in air-conditioned rooms. Students who are feeling unwell should rest in the Sick Bay.<br><br>
 
-<b>Religious Items</b><br>  
+<h5><b>Religious Items</b></h5>  
 Wearing of religious items is not allowed as the school is a secular public space for all students.<br><br>
 
-<b>Footwear</b><br>  
+<h5><b>Footwear</b></h5>  
 Only school-approved plain white shoes and socks without any logo are allowed. Socks must be visibly worn. Sports shoes may be worn for CCAs and on special occasions such as Sports Carnival, with permission from the teacher-in-charge.<p></p>
 
-<b>GROOMING</b><br><br>
+<h4>GROOMING</h4>
+	<h5>Hairstyle</h5>
 	
 <div class="yck-component">
 <div class="yck-gallery-container">
