@@ -103,26 +103,12 @@ variant: markdown
 <hr>
 	
 <h4>ATTITUDE</h4>
-
-  
-
-<h5>Conduct and Behaviour</h5>
-
-<p>Students are to be courteous, respectful and well-behaved at all times.</p>
-
-  
-
-<b>Morning Assembly</b><br>  
-All students are to report to school by 7.25 a.m. sharp.&nbsp; &nbsp;&nbsp;  
-
-Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist over the heart.<br><br>
-
-  
-
-<b>Possession of Weapon</b><br>  
-All&nbsp;students&nbsp;are not allowed to have in their possession any weapon.  
-They are also not allowed to bring any weapon-like item that may distract or make the school an unsafe place.<br><br> &nbsp;  
-  
+                            <h5>Conduct and Behaviour</h5>
+                            <p>Students are to be courteous, respectful and well-behaved at all times.</p>
+                            <h5>Morning Assembly</h5>
+                            <p>All students are to report to school by 7.25 a.m. sharp. Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist over the heart.</p>
+                            <h5>Possession of Weapon</h5>
+                            <p>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item that may distract or make the school an unsafe place.</p>  
 <h5>Use of Personal Digital Devices</h5> 
 <p>The rules and policies governing the use of personal digital devices in the school aim to ensure the school community is a safe place for all students and staff, for students to learn values and self-management skills, and for learning to take place with minimal distractions. Students will be using Personal Learning Devices (PLDs) for learning purposes under the Personalised Digital Learning Programme (PDLP). Personal digital devices must not be used for non-educational or recreational purposes (e.g. playing games, listening to music). <strong>Students are not to use personal digital devices, including smartphones, during lessons unless explicit permission is given by the teacher.</strong></p>
   
