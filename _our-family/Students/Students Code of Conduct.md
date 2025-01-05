@@ -34,10 +34,14 @@ ATTIRE, ATTITUDE, ATTENDANCE, ASSIGNMENTS
 
 <div class="yck-gallery-container">
 <div class="yck-image-row">
-<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/SchoolUniform_Boy.png">
-<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/SchoolUniform_Girl.png">
-<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttire_Boy.png">
-<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttire_Girl.png"></div>
+<div class="yck-figcaption">
+<img style="width:200px" alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/SchoolUniform_Boy.png">School Uniform for Boys</div>
+<div class="yck-figcaption">
+<img style="width:198px" alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/SchoolUniform_Girl.png">School Uniform for Girls</div>
+<div class="yck-figcaption">
+<img style="width:197px" alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttire_Boy.png">PE Attire for Boys</div>
+<div class="yck-figcaption">
+<img style="width:197px" alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttire_Girl.png">PE Attire for Girls</div>
 	</div>
 	</div>
 
@@ -146,7 +150,7 @@ All students are to:<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
-</li>
+</div></li>
 	<li>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
