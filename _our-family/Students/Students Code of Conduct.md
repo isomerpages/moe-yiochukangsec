@@ -54,30 +54,20 @@ variant: markdown
 	</div>
 
 <p>The school uniform is a representation of the school and its history. The school uniform is to be worn in a dignified manner that befits a YCKSian. Students are to wear the prescribed school uniform and modification to the uniform is not allowed.</p>
-
-<p>For the girls, the length of the skirt must be worn no shorter than two finger widths above the knee.&nbsp; For the boys, the pants should not be shortened beyond the ankles.</p>
-
-<p>The school uniform must be worn during school assembly on Tuesdays.</p>
-
-
-<h5><b>PE Attire</b></h5>
-<p>Only the school PE T-shirt and shorts must be worn for PE lessons unless permission has been granted otherwise. On Mondays and non-HBL Fridays, when there are PE lessons, students may choose to wear the Level T-shirt.</p>
-
-<h5><b>Level T-shirt</b></h5>  
-<p>Students can only wear the Level T-shirt meant for their level.&nbsp;This can only be worn on Mondays and non-HBL Fridays. The school may inform students to wear the Level T-shirt on special occasions e.g. Sports Carnival and National Day Celebration.</p>
-
-<h5><b>CCA Attire</b></h5>  
-<p>Only approved CCA attire or PE attire is allowed for CCAs.</p>
-
-<h5><b>Cardigans/ Sweaters</b></h5>  
-<p>Cardigans must not be worn except in air-conditioned rooms. Students who are feeling unwell should rest in the Sick Bay.</p>
-
-<h5><b>Religious Items</b></h5>  
-<p>Wearing of religious items is not allowed as the school is a secular public space for all students.</p>
-
-<h5><b>Footwear</b></h5>  
-<p>Only school-approved plain white shoes and socks without any logo are allowed. Socks must be visibly worn. Sports shoes may be worn for CCAs and on special occasions such as Sports Carnival, with permission from the teacher-in-charge.</p>
-
+                            <p>For the girls, the length of the skirt must be worn no shorter than two finger widths above the knee. For the boys, the pants should not be shortened beyond the ankles.</p>
+                            <p>The school uniform must be worn during school assembly on Tuesdays.</p>
+                            <h5>PE Attire</h5>
+                            <p>Only the school PE T-shirt and shorts must be worn for PE lessons unless permission has been granted otherwise. On Mondays and non-HBL Fridays, when there are PE lessons, students may choose to wear the Level T-shirt.</p>
+                            <h5>Level T-shirt</h5>
+                            <p>Students can only wear the Level T-shirt meant for their level. This can only be worn on Mondays and non-HBL Fridays. The school may inform students to wear the Level T-shirt on special occasions e.g. Sports Carnival and National Day Celebration.</p>
+                            <h5>CCA Attire</h5>
+                            <p>Only approved CCA attire or PE attire is allowed for CCAs.</p>
+                            <h5>Cardigans/ Sweaters</h5>
+                            <p>Cardigans must not be worn except in air-conditioned rooms. Students who are feeling unwell should rest in the Sick Bay.</p>
+                            <h5>Religious Items</h5>
+                            <p>Wearing of religious items is not allowed as the school is a secular public space for all students.</p>
+                            <h5>Footwear</h5>
+                            <p>Only school-approved plain white shoes and socks without any logo are allowed. Socks must be visibly worn. Sports shoes may be worn for CCAs and on special occasions such as Sports Carnival, with permission from the teacher-in-charge.</p>
 <h4><strong>GROOMING</strong></h4>
 	<h5>Hairstyle</h5>
 	
