@@ -8,14 +8,22 @@ variant: markdown
 <h2>School Rules and Regulations</h2>
 <div class="yck-component">
 <p>We believe our students practise sound character, good citizenship and effective self-leadership through:</p>
-
-<h4>3Rs: </h4>
-RULES, RESPECT, RESPONSIBILITY
-
-<h4>4As:</h4>  
-ATTIRE, ATTITUDE, ATTENDANCE, ASSIGNMENTS
-
-</div>
+                    <ul class="yck-flexbox-grid">
+                        <li>
+                            <h3 class="yck-h3">
+                                3Rs:<br><span class="yck-h4">
+                                    <h4>RULES, RESPECT, RESPONSIBILITY</h4>
+                                </span>
+                            </h3>
+                        </li>
+                        <li>
+                            <h3 class="yck-h3">
+                                4As:<br><span class="yck-h4">
+                                    <h4>ATTIRE, ATTITUDE, ATTENDANCE, ASSIGNMENTS</h4>
+                                </span>
+                            </h3>
+                        </li>
+                    </ul></div>
 
 <ul class="jekyllcodex_accordion">
 
