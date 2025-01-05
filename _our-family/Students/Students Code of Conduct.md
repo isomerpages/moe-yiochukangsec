@@ -75,20 +75,20 @@ ATTIRE, ATTITUDE, ATTENDANCE, ASSIGNMENTS
 	
 <div class="yck-component">
 <div class="yck-gallery-container">
+
 <div class="yck-image-row">
-
-
 <div>
-			<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/HairFrontBoy.png"><div class="yck-figcaption">
+			<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/HairFrontBoy.png">
+<div class="yck-figcaption">
 	Front view for boys
-			</div>Boys
-	<div>
+	</div>
+	</div>
+<div>
 	<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/HAirSideBoy.png"><div class="yck-figcaption">
 	Side view for boys
-	</div></div>
 	</div>
-	
-<div class="yck-image-row">
+	</div>
+
 <div>
 <img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/HairFrontGirl.png"><div class="yck-figcaption">
 	Front view for girls
@@ -98,9 +98,9 @@ ATTIRE, ATTITUDE, ATTENDANCE, ASSIGNMENTS
 <img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/HairSideGirl.png"><div class="yck-figcaption">
 	Side view for girls
 </div>
-	</div></div>
-	</div>
-	</div>
+	</div></div></div>
+
+
 
 <hr>
 	
@@ -484,7 +484,9 @@ body,
 }
 	
 .yck-component .yck-gallery-container .yck-image-row img {
-	flex-wrap: nowrap;
+	flex: 1 1 calc(25% - 0.5em); /* max 4 imgs in a row */
+    min-width: calc(50% - 0.5em); /* min 2 imgs in a row */
+	flex-wrap: wrap;
 	}
 	
 .yck-component .yck-gallery-container .yck-image-row img .yck-text-xs,
