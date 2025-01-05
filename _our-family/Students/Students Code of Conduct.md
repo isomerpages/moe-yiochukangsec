@@ -41,7 +41,7 @@ ATTIRE, ATTITUDE, ATTENDANCE, ASSIGNMENTS
 <div class="yck-figcaption">
 <img style="width:197px" alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttire_Boy.png">PE Attire for Boys</div>
 <div class="yck-figcaption">
-<img style="width:197px" alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttire_Girl.png">PE Attire for Girls</div>
+<img style="width:196px" alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttire_Girl.png">PE Attire for Girls</div>
 	</div>
 	</div>
 
@@ -463,20 +463,18 @@ body,
     display: block;
     width: 100%;
     height: auto;
-    border-radius:  var(--yck-border-radius);
-    box-shadow: var(--yck-box-shadow);
 }
 
 .yck-component .yck-gallery-container .yck-image-row {
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     gap: 0.5em;
 }
 
 .yck-component .yck-gallery-container .yck-image-row img {
-    flex: 1 1 calc(25% - 0.5em); /* max 4 imgs in a row */
-    min-width: calc(25% - 0.5em); /* min 2 imgs in a row */
+		border-radius:  var(--yck-border-radius);
+    box-shadow: var(--yck-box-shadow);
     object-fit: cover;
 }
 	
