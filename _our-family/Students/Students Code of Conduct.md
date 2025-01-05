@@ -77,27 +77,28 @@ Only school-approved plain white shoes and socks without any logo are allowed. S
 <div class="yck-gallery-container">
 <div class="yck-image-row">
 
-<div>
-<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/HairFrontBoy.png"><div class="yck-figcaption">
-	Front view for boys
-</div></div>
 
 <div>
+			<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/HairFrontBoy.png"><div class="yck-figcaption">
+	Front view for boys
+			</div>Boys
+	<div>
 	<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/HAirSideBoy.png"><div class="yck-figcaption">
 	Side view for boys
 	</div></div>
+	</div>
 	
-
+<div class="yck-image-row">
 <div>
 <img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/HairFrontGirl.png"><div class="yck-figcaption">
 	Front view for girls
 </div>
-</div>
+	</div>
 	<div>
 <img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/HairSideGirl.png"><div class="yck-figcaption">
 	Side view for girls
 </div>
-	</div>
+	</div></div>
 	</div>
 	</div>
 
@@ -263,9 +264,7 @@ e.g. suspension.
 <p> </p><h4>RULES, RESPECT &amp; RESPONSIBILITIES</h4>
 
 All Yio Chu Kang Secondary School students are taught to&nbsp;<b>respect</b>&nbsp;the rights of others through&nbsp;<b>responsible</b>&nbsp;thinking by learning to obey instructions and&nbsp;<b>rules</b>.
-			<p></p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+</div>
 
 </li>
 	
@@ -273,6 +272,7 @@ All Yio Chu Kang Secondary School students are taught to&nbsp;<b>respect</b>&nbs
 
 	
 </ul>
+
 
 <style>
 :root {
