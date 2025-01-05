@@ -463,6 +463,9 @@ body,
     display: block;
     width: 100%;
     height: auto;
+    border-radius:  var(--yck-border-radius);
+    box-shadow: var(--yck-box-shadow);
+		object-fit: cover;
 }
 
 .yck-component .yck-gallery-container .yck-image-row {
@@ -470,12 +473,6 @@ body,
     flex-direction: row;
     flex-wrap: nowrap;
     gap: 0.5em;
-}
-
-.yck-component .yck-gallery-container .yck-image-row img {
-		border-radius:  var(--yck-border-radius);
-    box-shadow: var(--yck-box-shadow);
-    object-fit: cover;
 }
 	
 .yck-component .yck-gallery-container .yck-image-row img small,
