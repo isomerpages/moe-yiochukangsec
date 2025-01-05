@@ -34,14 +34,14 @@ ATTIRE, ATTITUDE, ATTENDANCE, ASSIGNMENTS
 
 <div class="yck-gallery-container">
 <div class="yck-image-row">
-<div class="yck-figcaption">
-<img style="width:200px" alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/SchoolUniform_Boy.png">School Uniform for Boys</div>
-<div class="yck-figcaption">
-<img style="width:198px" alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/SchoolUniform_Girl.png">School Uniform for Girls</div>
-<div class="yck-figcaption">
-<img style="width:197px" alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttire_Boy.png">PE Attire for Boys</div>
-<div class="yck-figcaption">
-<img style="width:196px" alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttire_Girl.png">PE Attire for Girls</div>
+<div>
+<img style="width:200px" alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/SchoolUniform_Boy.png"><div class="yck-figcaption">School Uniform for Boys</div></div>
+<div>
+<img style="width:198px" alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/SchoolUniform_Girl.png"><div class="yck-figcaption">School Uniform for Girls</div></div>
+<div>
+<img style="width:197px" alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttire_Boy.png"><div class="yck-figcaption">PE Attire for Boys</div></div>
+<div>
+<img style="width:196px" alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttire_Girl.png"><div class="yck-figcaption">PE Attire for Girls</div></div>
 	</div>
 	</div>
 
