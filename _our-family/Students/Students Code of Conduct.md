@@ -44,13 +44,13 @@ variant: markdown
 <div class="yck-gallery-container">
 <div class="yck-image-row">
 <div>
-<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/SchoolUniform_Boy.png"><div class="yck-figcaption">School Uniform for Boys</div></div>
+<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/SchoolUniformBoy500x920.png"><div class="yck-figcaption">School Uniform for Boys</div></div>
 <div>
-<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/SchoolUniform_Girl.png"><div class="yck-figcaption">School Uniform for Girls</div></div>
+<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/SchoolUniformGirl500x920.png"><div class="yck-figcaption">School Uniform for Girls</div></div>
 <div>
-<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttire_Boy.png"><div class="yck-figcaption">PE Attire for Boys</div></div>
+<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttireBoy500x920.png"><div class="yck-figcaption">PE Attire for Boys</div></div>
 <div>
-<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttire_Girl.png"><div class="yck-figcaption">PE Attire for Girls</div></div>
+<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttireGirl500x920.png"><div class="yck-figcaption">PE Attire for Girls</div></div>
 	</div>
 	</div>
 
