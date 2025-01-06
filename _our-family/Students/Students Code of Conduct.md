@@ -146,7 +146,7 @@ variant: markdown
                             <h5>Conduct and Behaviour</h5>
                             <p>Students are to be courteous, respectful and well-behaved at all times.</p>
                             <h5>Morning Assembly</h5>
-<p>All students are to report to school by 7.25 a.m. sharp.</p> <p><strong>Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist over the heart.</strong></p>
+<p>All students are to report to school by 7.55 a.m. sharp.</p> <p><strong>Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist over the heart.</strong></p>
                             <h5>Possession of Weapon</h5>
                             <p><strong>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item that may distract or make the school an unsafe place.</strong></p>  
 <h5>Use of Personal Digital Devices</h5> 
@@ -162,19 +162,38 @@ variant: markdown
 
 <p>The school shall not be responsible for the loss of any personal digital device.</p>
 	
+<h5>Use of wearable technologies</h5>
+
+
+<p>Wearable technologies, such as smartwatches with cameras, video recording, or internet-enabled features, are not permitted. </p>
+
+
+<p>Possession of such devices during an assessment may be regarded as an attempt to cheat.</p>
+	
+	
+<h5>Social Media Conduct</h5>
+<p>Students must act responsibly and respectfully when using and communicating on social media platforms.</p>
+
+
+<p>Students are expected to be mindful of the content they post publicly, ensuring that messages are not offensive, racist, vulgar, or threatening.</p>
+
+
+<p>Harassment and cyberbullying, including malicious comments or insults directed at individuals, are strictly prohibited. Disciplinary actions will be taken against students who violate these guidelines.</p>
+
+	
 <h5>ATTENDANCE</h5>
 
   
 
-<p>All students must attend&nbsp;lessons, CCAs, school events and activities&nbsp;regularly and punctually.</p>
+<p>All students must attend lessons, CCAs, school events and activities regularly and punctually.
+</p>
 
-<p>Absence from school as a result of illness must be supported by a valid Medical Certificate or letter from a certified doctor or medical specialist to be given to the Form Teacher promptly on the day the student returns to school.<br>
+<p>Absence from school as a result of illness must be supported by a valid Medical Certificate or letter from a certified doctor or medical specialist to be given to the Form Teacher promptly on the day the student returns to school. </p>
 
-</p><p>A letter from the parent/ guardian will only be accepted if it is followed up by the parent/ guardian's call to the office on the day of the student's absence.<br>
-
-</p><p>A copy of the Medical Certificate is also expected to be given to Subject Teacher(s) if it concerns any assessment (class assessment or school examination).&nbsp;Students without a medical certificate or valid reason for absence from any assessment will be awarded a zero mark.<br>
-
-</p><p>Absence from school, lessons, CCAs, any activities planned by the school without leave or valid reason is considered&nbsp;truancy. Prompt submission of document to support the absence is critical.</p>
+<p>A letter from the parent / guardian will only be accepted if it is followed up by the parent/ guardian's call to the office on the day of the student's absence. For absence from school due to valid reasons and covered by parent’s letter/email, the school will not accept more than 10 such parents’ letters/emails per year.</p>
+	
+<p>A copy of the Medical Certificate is also expected to be given to Subject Teacher(s) if it concerns any assessment (class assessment or school examination). Students without a medical certificate or valid reason for absence from any assessment will be awarded a zero mark. </p>
+<p>Absence from school, lessons, CCAs, any activities planned by the school without leave or valid reason is considered truancy. Prompt submission of document to support the absence is critical.</p>
 
 <h5>ASSIGNMENTS and SCHOOL WORK</h5>
 
