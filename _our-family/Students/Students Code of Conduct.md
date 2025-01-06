@@ -207,7 +207,7 @@ variant: markdown
 
 <label for="accordion2"><h3>Disciplinary&nbsp;Guidelines</h3></label>
 <div>
-<p> Every action has consequences. Students who break the Code of Conduct will be disciplined. Helping students realise this is one way we can empower our students to develop self-management. It is therefore important to understand the consequences for not abiding by the rules and regulations.</p>
+<p>Every action has consequences. Students who break the Code of Conduct will be disciplined. Helping students realise this is one way we can empower our students to develop self-management. It is therefore important to understand the consequences for not abiding by the rules and regulations.</p>
 
 <p>The following list shows the guidelines for managing disciplinary offences and violation of the Code of Conduct. The list is not exhaustive and is subject to changes. The school reserves the right to determine the disciplinary consequences in the context of each case.</p>
 
@@ -225,21 +225,28 @@ variant: markdown
     <td class="offense-type">Inappropriate Attire</td>
     <td>
       <div class="consequence-block severity-level-1">
-        <strong class="level-heading">Initial Offense (1st – 3rd)</strong>
+        <strong class="level-heading">1st Offense</strong>
         <ul>
-          <li>Parent notification</li>
-          <li>Excuse slip for class return</li>
+          <li>The student is required to make the necessary corrections immediately.
+</li>
+          <li>For attire or grooming issues that cannot be resolved on the spot, the student will be given one day to make the required adjustments.</li>
+<li>Parents will be informed of the consequences for subsequent recurring offence; 
+</li>
         </ul>
       </div>
       <div class="consequence-block severity-level-2">
         <strong class="level-heading">Recurring Offense</strong>
         <ul>
-          <li>Parents must bring appropriate uniform/shoes</li>
-          <li>Student suspension from lessons if parents unavailable</li>
-        </ul>
-      </div>
-    </td>
-  </tr>
+					<li>Student will serve detention (1 hour) after school.</li>
+<li>Parents will be required to pick up students for haircut.
+</li>
+      </ul>
+      <p><i>For parents who are not contactable or unavailable, student will be suspended from lessons for the day.</i></p>
+<p><i>For coloured and inappropriate hairstyles, parents will be notified and they have to pick student up from school for immediate follow up.</i></p>
+
+</div>
+   </td>
+ </tr>
 
   <tr class="category-attendance">
     <td class="offense-number">2</td>
