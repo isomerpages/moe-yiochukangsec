@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Students
 variant: markdown
 ---
-<h2>School Rules and Regulations</h2>
 <div class="yck-component">
+<h2>School Rules and Regulations</h2>
+
 <p>We believe our students practise sound character, good citizenship and effective self-leadership through:</p>
                     <ul class="yck-flexbox-grid">
                         <li>
@@ -27,13 +28,13 @@ variant: markdown
 
 <ul class="jekyllcodex_accordion">
 
-&nbsp;&nbsp;<li>
+<li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
+<input type="checkbox" id="accordion1">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1"><h3>The&nbsp;4As</h3></label>
+<label for="accordion1"><h3>The&nbsp;4As</h3></label>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
+<div>
 
 <div class="yck-component">
 <h4><b>ATTIRE</b></h4>
