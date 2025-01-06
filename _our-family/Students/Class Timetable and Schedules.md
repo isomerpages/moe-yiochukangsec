@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h4></h4>
 <h4><strong>2025 Class Timetable (Semester 1)</strong></h4>
-<p>(Uploaded on 27 Dec 2025)</p>
+<p>(Uploaded on 27 Dec 2024)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Students/Class Timetable Schedules/2025/2025_Sem_1_Sec_4_Timetable.pdf" rel="noopener nofollow" target="_blank">2025 Sem 1 Sec 4 Timetable</a>
