@@ -44,31 +44,33 @@ variant: markdown
 <div class="yck-gallery-container">
 <div class="yck-image-row">
 <div>
-<img style="width:200px" alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/SchoolUniform_Boy.png"><div class="yck-figcaption">School Uniform for Boys</div></div>
+<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/SchoolUniform_Boy.png"><div class="yck-figcaption">School Uniform for Boys</div></div>
 <div>
-<img style="width:198px" alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/SchoolUniform_Girl.png"><div class="yck-figcaption">School Uniform for Girls</div></div>
+<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/SchoolUniform_Girl.png"><div class="yck-figcaption">School Uniform for Girls</div></div>
 <div>
-<img style="width:197px" alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttire_Boy.png"><div class="yck-figcaption">PE Attire for Boys</div></div>
+<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttire_Boy.png"><div class="yck-figcaption">PE Attire for Boys</div></div>
 <div>
-<img style="width:196px" alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttire_Girl.png"><div class="yck-figcaption">PE Attire for Girls</div></div>
+<img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttire_Girl.png"><div class="yck-figcaption">PE Attire for Girls</div></div>
 	</div>
 	</div>
-
-<p>The school uniform is a representation of the school and its history. The school uniform is to be worn in a dignified manner that befits a YCKSian. Students are to wear the prescribed school uniform and modification to the uniform is not allowed.</p>
-                            <p>For the girls, the length of the skirt must be worn no shorter than two finger widths above the knee. For the boys, the pants should not be shortened beyond the ankles.</p>
+<div>
+<p>The school uniform is a representation of the school and its history. The school uniform is to be worn in a dignified manner that befits a YCKSian. <strong>Students are to wear the prescribed school uniform and modification to the uniform is not allowed.</strong></p>
+                            <p>For the girls, the length of the skirt must be worn no shorter than two finger widths above the knee.&nbsp; For the boys, the pants should not be shortened beyond the ankles.</p>
                             <p>The school uniform must be worn during school assembly on Tuesdays.</p>
                             <h5>PE Attire</h5>
                             <p>Only the school PE T-shirt and shorts must be worn for PE lessons unless permission has been granted otherwise. On Mondays and non-HBL Fridays, when there are PE lessons, students may choose to wear the Level T-shirt.</p>
                             <h5>Level T-shirt</h5>
-                            <p>Students can only wear the Level T-shirt meant for their level. This can only be worn on Mondays and non-HBL Fridays. The school may inform students to wear the Level T-shirt on special occasions e.g. Sports Carnival and National Day Celebration.</p>
+                            <p>Students can only wear the Level T-shirt meant for their level.&nbsp;This can only be worn on Mondays and non-HBL Fridays. The school may inform students to wear the Level T-shirt on special occasions e.g. Sports Carnival and National Day Celebration.</p>
                             <h5>CCA Attire</h5>
                             <p>Only approved CCA attire or PE attire is allowed for CCAs.</p>
                             <h5>Cardigans/ Sweaters</h5>
                             <p>Cardigans must not be worn except in air-conditioned rooms. Students who are feeling unwell should rest in the Sick Bay.</p>
-                            <h5>Religious Items</h5>
-                            <p>Wearing of religious items is not allowed as the school is a secular public space for all students.</p>
                             <h5>Footwear</h5>
                             <p>Only school-approved plain white shoes and socks without any logo are allowed. Socks must be visibly worn. Sports shoes may be worn for CCAs and on special occasions such as Sports Carnival, with permission from the teacher-in-charge.</p>
+</div>
+</div>
+	
+
 <h4><strong>GROOMING</strong></h4>
 	<h5>Hairstyle</h5>
 	
@@ -142,7 +144,7 @@ variant: markdown
   
 <p>All students are to:</p><ul><li>Study diligently and conscientiously and to take pride in their work.</li>
 <li>Complete all schoolwork/homework assigned to them and to submit them on time.</li>
-	</ul><p></p></div></div></div></li>
+	</ul><p></p></div></div></li>
 	<li>
 
 <input type="checkbox" id="accordion2">
@@ -577,11 +579,7 @@ body,
 	
 .yck-component .yck-gallery-container .yck-image-row img .yck-text-xs,
 .yck-component .yck-gallery-container .yck-image-row img .yck-figcaption	{
-	display: block;
-    text-align: center;
-    font-style: italic;
-    margin-top: 0.5em;
-    color: var(--yck-color-text-light);
+	
 }
 
 </style>
