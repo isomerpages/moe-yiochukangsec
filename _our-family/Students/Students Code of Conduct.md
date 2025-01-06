@@ -125,16 +125,14 @@ variant: markdown
         <tr>
             <td>
                 <ul>
-                    <li>Item 1</li>
-                    <li>Item 2</li>
-                    <li>Item 3</li>
-                    <li>Item 4</li>
-                    <li>Item 5</li>
-                    <li>Item 6</li>
-                    <li>Item 7</li>
-                    <li>Item 8</li>
-                    <li>Item 9</li>
-                    <li>Item 10</li>
+                   <li>Short, neat and tidy hairstyles with natural colour. Long hair must be tied up neatly with simple rubber bands and clips that are black.</li>
+<li>No outlandish hairstyle.</li>
+<li>No tinting, dyeing, highlighting or perming of hair.</li>
+<li>Hair must not fall across the face or cover the eyes.</li>
+<li>Only one pair of simple ear studs is allowed. No jewellery/ ornaments is to be worn.</li>
+<li>Fingernails should be short and unvarnished.</li>
+<li>Coloured or fanciful contact lenses are not allowed.</li>
+<li>Make-up (including coloured lip balm and tinted sunblock) or body art is not allowed.</li>
                 </ul>
             </td>
         </tr>
