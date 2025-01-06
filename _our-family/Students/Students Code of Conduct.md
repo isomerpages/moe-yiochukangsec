@@ -186,7 +186,7 @@ variant: markdown
 <p>All students are to:</p><ul><li>Study diligently and conscientiously and to take pride in their work.</li>
 <li>Complete all schoolwork/homework assigned to them and to submit them on time.</li>
 	</ul><p></p></div></li></ul></div>
-	<li>
+<li>
 
 <input type="checkbox" id="accordion2">
 
