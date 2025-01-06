@@ -24,7 +24,7 @@ variant: markdown
                                 </span>
                             </h3>
                         </li>
-                    </ul></div>
+                    </ul>
 
 <ul class="jekyllcodex_accordion">
 
@@ -36,7 +36,7 @@ variant: markdown
 
 <div>
 
-<div class="yck-component">
+
 <h4><b>ATTIRE</b></h4>
 <h5><b>School Uniform</b></h5>  
 
@@ -53,7 +53,7 @@ variant: markdown
 <img alt="" src="/images/Our%20Family/Students/Students%20Code%20of%20Conduct/PEAttire_Girl.png"><div class="yck-figcaption">PE Attire for Girls</div></div>
 	</div>
 	</div>
-<div>
+
 <p>The school uniform is a representation of the school and its history. The school uniform is to be worn in a dignified manner that befits a YCKSian. <strong>Students are to wear the prescribed school uniform and modification to the uniform is not allowed.</strong></p>
                             <p>For the girls, the length of the skirt must be worn no shorter than two finger widths above the knee.&nbsp; For the boys, the pants should not be shortened beyond the ankles.</p>
                             <p>The school uniform must be worn during school assembly on Tuesdays.</p>
@@ -68,13 +68,11 @@ variant: markdown
                             <h5>Footwear</h5>
                             <p>Only school-approved plain white shoes and socks without any logo are allowed. Socks must be visibly worn. Sports shoes may be worn for CCAs and on special occasions such as Sports Carnival, with permission from the teacher-in-charge.</p>
 </div>
-</div>
-	
 
 <h4><strong>GROOMING</strong></h4>
 	<h5>Hairstyle</h5>
 	
-<div class="yck-component">
+
 <div class="yck-gallery-container">
 
 <div class="yck-image-row">
@@ -100,6 +98,49 @@ variant: markdown
 	Side view for girls
 </div>
 	</div></div></div>
+<table>
+        <tbody><tr>
+            <th>Boys</th>
+        </tr>
+        <tr>
+            <td>
+                <ul>
+                    <li>Item 1</li>
+                    <li>Item 2</li>
+                    <li>Item 3</li>
+                    <li>Item 4</li>
+                    <li>Item 5</li>
+                    <li>Item 6</li>
+                    <li>Item 7</li>
+                    <li>Item 8</li>
+                    <li>Item 9</li>
+                    <li>Item 10</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody></table>
+
+   <table>
+        <tbody><tr>
+            <th>Girls</th>
+        </tr>
+        <tr>
+            <td>
+                <ul>
+                    <li>Item 1</li>
+                    <li>Item 2</li>
+                    <li>Item 3</li>
+                    <li>Item 4</li>
+                    <li>Item 5</li>
+                    <li>Item 6</li>
+                    <li>Item 7</li>
+                    <li>Item 8</li>
+                    <li>Item 9</li>
+                    <li>Item 10</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody></table>
 
 
 
@@ -144,7 +185,7 @@ variant: markdown
   
 <p>All students are to:</p><ul><li>Study diligently and conscientiously and to take pride in their work.</li>
 <li>Complete all schoolwork/homework assigned to them and to submit them on time.</li>
-	</ul><p></p></div></div></li>
+	</ul><p></p></li></ul></div>
 	<li>
 
 <input type="checkbox" id="accordion2">
@@ -359,7 +400,7 @@ variant: markdown
 	
 
 	
-</ul>
+
 
 
 <style>
