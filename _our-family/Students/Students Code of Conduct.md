@@ -67,7 +67,7 @@ variant: markdown
                             <p>Cardigans must not be worn except in air-conditioned rooms. Students who are feeling unwell should rest in the Sick Bay.</p>
                             <h5>Footwear</h5>
                             <p>Only school-approved plain white shoes and socks without any logo are allowed. Socks must be visibly worn. Sports shoes may be worn for CCAs and on special occasions such as Sports Carnival, with permission from the teacher-in-charge.</p>
-</div>
+
 
 <h4><strong>GROOMING</strong></h4>
 	<h5>Hairstyle</h5>
@@ -185,7 +185,7 @@ variant: markdown
   
 <p>All students are to:</p><ul><li>Study diligently and conscientiously and to take pride in their work.</li>
 <li>Complete all schoolwork/homework assigned to them and to submit them on time.</li>
-	</ul><p></p></li></ul></div>
+	</ul><p></p></div></li></ul></div>
 	<li>
 
 <input type="checkbox" id="accordion2">
@@ -396,6 +396,7 @@ variant: markdown
 
 </div>
 </li>
+
 	
 	
 
