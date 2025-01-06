@@ -253,26 +253,33 @@ variant: markdown
     <td class="offense-type">Late-coming</td>
     <td>
       <div class="consequence-block severity-level-1">
-        <strong class="level-heading">Initial Late Arrivals (1-4)</strong>
+        <strong class="level-heading">Late for Lesson (4 times or less)</strong>
         <ul>
-          <li>Written statement required</li>
-          <li>Parent notification</li>
-          <li>Detention after school (3rd-4th instance)</li>
+          <li>Student will provide a written statement;</li>
+          <li>Parents will be informed of consequences for subsequent recurring offence;</li>
+          <li>Student will be given an excuse slip for returning to class;</li>
+					<li>Student will serve detention (1 hour) after school.</li>
         </ul>
       </div>
       <div class="consequence-block severity-level-2">
-        <strong class="level-heading">Repeated Late Arrivals (5-6)</strong>
+        <strong class="level-heading">Late for School (6 times or less)</strong>
         <ul>
-          <li>One-day class suspension</li>
-          <li>"Fair" conduct grade</li>
-          <li>Mandatory counseling sessions</li>
+          <li>Parents will be informed of consequences for subsequent recurring offence;</li>
+          <li>Student will be given an excuse slip for returning to class;</li>
+					<li>Student will serve detention (1 hour) after school (3<sup>rd</sup> - 6<sup>th</sup> times).</li>
         </ul>
       </div>
       <div class="consequence-block severity-level-3">
-        <strong class="level-heading">Persistent Late Arrivals (7+)</strong>
+        <strong class="level-heading">Recurring offence (More than 6 times)</strong>
         <ul>
-          <li>One-day school suspension</li>
-          <li>"Poor" conduct grade</li>
+          <li>Parents to meet Level DM;</li>
+          <li>Referral to SSC for mandatory counselling sessions;</li>
+					<li>Suspension (1 day) from class (7<sup>th</sup> time and more) and a possible "Fair" or "Poor" conduct grade.</li>
+        </ul>
+				<strong class="level-heading">Reporting to School after 9.00 am</strong>
+        <ul>
+          <li>Parents will be informed.</li>
+					<li>Student will be suspended from school/class if there is no valid reason.</li>
         </ul>
       </div>
     </td>
