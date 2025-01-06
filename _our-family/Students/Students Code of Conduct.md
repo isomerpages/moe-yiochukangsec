@@ -105,16 +105,14 @@ variant: markdown
         <tr>
             <td>
                 <ul>
-                    <li>Item 1</li>
-                    <li>Item 2</li>
-                    <li>Item 3</li>
-                    <li>Item 4</li>
-                    <li>Item 5</li>
-                    <li>Item 6</li>
-                    <li>Item 7</li>
-                    <li>Item 8</li>
-                    <li>Item 9</li>
-                    <li>Item 10</li>
+                    <li>Male students must be neat in appearance, clean-shaven and no facial hair is allowed.</li>
+<li>Short, neat and tidy hairstyle with natural colour. Hair must not touch the eyebrows, ears or shirt collar.</li>
+<li>No outlandish hairstyle.</li>
+<li>No tinting, dyeing, highlighting or perming of hair.</li>
+<li>No ear studs/sticks are allowed. No jewellery/ ornaments is to be worn.</li>
+<li>Fingernails should be short and unvarnished.</li>
+<li>Coloured or fanciful contact lenses are not allowed.</li>
+<li>Make-up (including coloured lip balm and tinted sunblock) or body art is not allowed.</li>
                 </ul>
             </td>
         </tr>
