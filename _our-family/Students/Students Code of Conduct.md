@@ -342,6 +342,27 @@ variant: markdown
     </td>
 </tr>
 
+<tr class="category-behavioral">
+    <td class="offense-number">5</td>
+    <td class="offense-type">Inappropriate use of personal digital devices (including mobile phone, smartphone, smartwatch, PLD, etc)</td>
+    <td>
+        <ul>
+            <li>Student will provide a written statement;</li>
+            <li>Parents will be informed of the consequences of a subsequent recurring offence;</li>
+            <li>Personal digital device will be withheld and returned at the end of the day by Level DM;</li>
+            <li>Student will have to serve Detention after school (1 hour) for second offence onwards.</li>
+        </ul>
+        <strong>Recurring offence (More than 5 times)</strong>
+        <ul>
+            <li>Parents will meet Level DM;</li>
+            <li>Student may be banned from bringing personal digital device to school or personal digital device will be held by school during curriculum hours;</li>
+            <li>Student will be referred for mandatory counselling sessions (if necessary);</li>
+            <li>Possible “Fair” conduct grade.</li>
+        </ul>
+    </td>
+</tr>
+
+
   <tr class="category-behavioral">
     <td class="offense-number">6</td>
     <td class="offense-type">Smoking</td>
