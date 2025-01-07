@@ -329,20 +329,18 @@ variant: markdown
 </tr>
 
   
-  <tr class="category-behavioral">
+ <tr class="category-behavioral">
     <td class="offense-number">4</td>
     <td class="offense-type">Defiance</td>
     <td>
-      <div class="consequence-block severity-level-2">
         <ul>
-          <li>Written statement required</li>
-          <li>Parent notification</li>
-          <li>Possible community service</li>
-          <li>Potential "Fair" or "Poor" conduct grade</li>
+            <li>Student will provide a written statement;</li>
+            <li>Parents will be informed;</li>
+            <li>Level DM will determine the severity of the act of defiance. Punishments may include community service, letter of apology, public apology, mediation between parties involved or suspension;</li>
+            <li>Possible “Fair” or “Poor” conduct grade.</li>
         </ul>
-      </div>
     </td>
-  </tr>
+</tr>
 
   <tr class="category-behavioral">
     <td class="offense-number">6</td>
