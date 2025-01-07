@@ -363,86 +363,103 @@ variant: markdown
 </tr>
 
 
-  <tr class="category-behavioral">
-    <td class="offense-number">6</td>
-    <td class="offense-type">Smoking</td>
+  <tr>
+    <td>6</td>
+    <td>Smoking and Vaping</td>
     <td>
-      <div class="consequence-block severity-level-2">
-        <strong class="level-heading">First Offense</strong>
-        <ul>
-          <li>Written statement required</li>
-          <li>Smokerlyzer test administration</li>
-          <li>Mandatory parent pickup</li>
-          <li>Required counseling sessions</li>
-          <li>"Fair" conduct grade</li>
-        </ul>
-      </div>
-      <div class="consequence-block severity-level-3">
-        <strong class="level-heading">Subsequent Offenses</strong>
-        <ul>
-          <li>All previous measures</li>
-          <li>Mandatory smoking cessation program</li>
-          <li>1-2 day suspension</li>
-          <li>"Poor" conduct grade</li>
-          <li>HSA notification required</li>
-        </ul>
-      </div>
+        <div>
+            <strong>1st Offense</strong>
+            <ul>
+                <li>Student will provide a written statement;</li>
+                <li>Smoking: Smokerlyser test (Reading will be recorded on the statement);</li>
+                <li>Vaping: Saliva test (Student will bear the cost of the test kit if the result is positive);</li>
+                <li>Parents/Guardians will meet Level DM;</li>
+                <li>Student will be suspended from class (1 day);</li>
+                <li>Student will be referred to the SHA for counselling and cessation support;</li>
+                <li>"Fair" conduct grade;</li>
+                <li>Update Health Sciences Authority (HSA).</li>
+            </ul>
+        </div>
+        <div>
+            <strong>2nd Offense</strong>
+            <ul>
+                <li>Student will provide a written statement;</li>
+                <li>Smokerlyser test (Reading will be recorded on the statement);</li>
+                <li>Vaping: Saliva test (Student will born the cost of the test-kit if found positive);</li>
+                <li>Parents/Guardians will meet Level DM;</li>
+                <li>Student will be suspended from school (2 days) and Caning*</li>
+                <li>Student will be referred to the SHA;</li>
+                <li>"Poor" conduct grade;</li>
+                <li>Update HSA.</li>
+            </ul>
+        </div>
+        <div>
+            <strong>Recurring offense</strong>
+            <ul>
+                <li>Student will provide a written statement;</li>
+                <li>Smokerlyser test (Reading will be recorded on the statement);</li>
+                <li>Vaping: Saliva test (Student will born the cost of the test-kit if found positive);</li>
+                <li>Parents/Guardians will have to meet P/ VPs and Level DM;</li>
+                <li>Student will be referred to the SHA;</li>
+                <li>Suspension from school (3 days) and Caning*</li>
+                <li>"Poor" conduct grade;</li>
+                <li>Update HSA.</li>
+            </ul>
+        </div>
     </td>
-  </tr>
-
+</tr>
   
-  <tr>
-    <td class="offense-number">7</td>
-    <td class="offense-type">Vandalism</td>
+ <tr>
+    <td>7</td>
+    <td>Vandalism</td>
     <td>
-      <div class="consequence-block severity-level-3">
-        <ul>
-          <li>Written statement required</li>
-          <li>Mandatory parent meeting</li>
-          <li>Immediate suspension for serious cases</li>
-          <li>Full replacement/payment for damages</li>
-          <li>"Fair" or "Poor" conduct grade</li>
-        </ul>
-      </div>
+        <div>
+            <ul>
+                <li>Student will provide a written statement;</li>
+                <li>Parents/Guardians will be informed and meet Level DM;</li>
+                <li>Student will be suspended immediately from class till parent's conference with School (for serious vandalism cases);</li>
+                <li>Student will replace and pay for damages;</li>
+                <li>Student will be referred for mandatory counselling sessions (if necessary);</li>
+                <li>"Fair" or "Poor" conduct grade.</li>
+            </ul>
+        </div>
     </td>
-  </tr>
-
+</tr>
   <tr>
-    <td class="offense-number">8</td>
-    <td class="offense-type">Physical Violence</td>
+    <td>8</td>
+    <td>Physical Violence</td>
     <td>
-      <div class="consequence-block severity-level-3">
-        <ul>
-          <li>Immediate medical assessment</li>
-          <li>Written statement required</li>
-          <li>Mandatory parent meeting</li>
-          <li>Immediate suspension</li>
-          <li>Required counseling sessions</li>
-          <li>Potential caning*/suspension/expulsion</li>
-          <li>"Fair" or "Poor" conduct grade</li>
-        </ul>
-      </div>
+        <div>
+            <ul>
+                <li>Level DM will assess injuries (if any) and report straightaway to P/ VPs or DM if immediate medical attention is required;</li>
+                <li>Student will provide a written statement;</li>
+                <li>Parents/Guardians will be informed and meet Level DM;</li>
+                <li>Student will be suspended immediately from class until parent's conference with School;</li>
+                <li>Student will be referred for mandatory counselling sessions;</li>
+							<li>Disciplinary actions will be taken (Suspension, Caning<sup>[1]</sup>, Expulsion);</li>
+                <li>"Fair" or "Poor" conduct grade.</li>
+            </ul>
+        </div>
     </td>
-  </tr>
-
+</tr>
   <tr>
-    <td class="offense-number">9</td>
-    <td class="offense-type">Body Art</td>
+    <td>9</td>
+    <td>Body Art</td>
     <td>
-      <div class="consequence-block severity-level-3">
-        <ul>
-          <li>Written statement required</li>
-          <li>Mandatory parent meeting</li>
-          <li>Immediate suspension until specialist consultation</li>
-          <li>"Poor" conduct grade</li>
-        </ul>
-      </div>
+        <div>
+            <ul>
+                <li>Student will provide a written statement;</li>
+                <li>Parents/Guardians will need to meet P/ VPs and DM;</li>
+                <li>Student will be suspended immediately from school till the date of the first consultation with specialist;</li>
+                <li>"Poor" conduct grade.</li>
+            </ul>
+        </div>
     </td>
-  </tr>
+</tr>
 </tbody></table>
 			
 <div class="notice">
-	<strong><sup>*</sup> Caning is only applicable to male students.</strong> Female students are subject to alternative disciplinary actions such as suspension.
+	<strong><sup>[1]</sup> Caning is only applicable to male students.</strong> Female students are subject to alternative disciplinary actions such as suspension.
 </div>
 
 
