@@ -285,30 +285,48 @@ variant: markdown
     </td>
   </tr>
 
-  <tr class="category-attendance">
+  <tr class="category-behavioral">
     <td class="offense-number">3</td>
     <td class="offense-type">Truancy</td>
     <td>
       <div class="consequence-block severity-level-2">
-        <strong class="level-heading">Class Truancy</strong>
+        <strong class="level-heading">Truancy from Lesson</strong>
         <ul>
-          <li>Written statement</li>
-          <li>Parent notification</li>
-          <li>One-day class suspension</li>
+          <li>Student will provide a written statement;</li>
+          <li>Parents will be informed and the student will be suspended from class for the day.</li>
+        </ul>
+      </div>
+      <div class="consequence-block severity-level-2">
+        <strong class="level-heading">Truancy from CCA</strong>
+        <ul>
+          <li>Student will provide a written statement;</li>
+          <li>Parents will be informed;</li>
+          <li>Student will serve detention after school (1 hour).</li>
         </ul>
       </div>
       <div class="consequence-block severity-level-3">
-        <strong class="level-heading">School Truancy</strong>
+        <strong class="level-heading">Recurring offence</strong>
         <ul>
-          <li>Three-day class suspension (1st offense)</li>
-          <li>Three-day school suspension (2nd offense)</li>
-          <li>Caning* or equivalent (recurring)</li>
-          <li>Mandatory parent meeting</li>
-          <li>Required counseling sessions</li>
+          <li>Parents will meet P/ VPs and Level DM/ HOD PE and CCA (for CCA related);</li>
+          <li>Student will be referred for mandatory counselling sessions;</li>
+          <li>Suspension from class (2 days) and “Fair” conduct grade (2nd offence);</li>
+          <li>Suspension from school (2 days) and “Poor” conduct grade (3rd offence);</li>
+          <li>Caning* and “Poor” conduct grade (4th and subsequent offences).</li>
+        </ul>
+      </div>
+      <div class="consequence-block severity-level-2">
+        <strong class="level-heading">Truancy from School</strong>
+        <ul>
+          <li>Parents will be informed and have to meet P/ VPs and Level DM;</li>
+          <li>Student will provide a written statement upon return to school;</li>
+          <li>Student will be referred for mandatory counselling sessions;</li>
+          <li>Suspension from class (3 days) and “Fair” conduct grade (1st offence);</li>
+          <li>Suspension from school (3 days) and “Poor” conduct grade (2nd offence);</li>
+          <li>Caning* and “Poor” conduct grade (recurring offences).</li>
         </ul>
       </div>
     </td>
-  </tr>
+</tr>
 
   
   <tr class="category-behavioral">
