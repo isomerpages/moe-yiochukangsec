@@ -41,14 +41,12 @@ variant: markdown
       </tr>
       <tr>
         <td class="yck-td"><span class="yck-strong">Teacher OIC</span></td>
-        <td class="yck-td"><span class="yck-strong">Ms Lim Li Whey (ext 176)</span></td>
+        <td class="yck-td"><span class="yck-strong">Mrs Heng Lai Khar (ext. 138)</span></td>
       </tr>
       <tr>
         <td class="yck-td">Other Teachers</td>
         <td class="yck-td">
-          Mr Chong Kai Yang (ext 133)<br>
-          Mr Lim Chee Wee (ext 126)<br>
-          Ms Foo Ger Maine (ext 137)
+          Ms Foo Ger Maine (ext. 137)<br>Mr Lim Chee Wee (ext. 126)<br>Mdm Alvina Loganathan (ext. 134)<br>Mr Mark Tan (ext. 150)<br>Mdm Liu Xuefang (ext. 172)
         </td>
       </tr>
     </tbody>
