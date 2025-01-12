@@ -6,6 +6,10 @@ third_nav_title: Organisation Chart
 variant: markdown
 ---
 <style>
+body {
+            margin: 0;
+            overflow: hidden;
+        }
   .yck-component .yck-nav-bar {
       display: flex;
       justify-content: space-around;
@@ -34,6 +38,29 @@ variant: markdown
     .yck-component .yck-nav-bar a:hover::after {
        right: 0;
      }
+
+.ken-burns-container {
+            max-width: 100%;
+            height: auto;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .ken-burns-image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            animation: kenBurns 30s ease-in-out infinite alternate;
+        }
+
+        @keyframes kenBurns {
+            from {
+                transform: scale(1);
+            }
+            to {
+                transform: scale(1.3);
+            }
+        }
 </style>
 <div class="yck-component">
     <nav class="yck-nav-bar">
@@ -44,5 +71,9 @@ variant: markdown
 
    </nav>
 </div>
+
+<div class="ken-burns-container">
+        <img alt="Ken Burns Effect" src="/images/Our%20Story/Organisation%20Chart/Organisation%20Chart/O1.jpg" class="ken-burns-image">
+    </div>
 
 ![](/images/Our%20Story/Organisation%20Chart/Organisation%20Chart/O1.jpg)
