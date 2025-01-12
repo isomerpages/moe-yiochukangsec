@@ -39,7 +39,7 @@ The Basketball CCA aims to cultivate positive self-esteem and sportsmanship in s
 <tbody>
   <tr>
     <td class="tg-1hsk"><span style="font-weight:700">EVERY TUESDAY &amp; THURSDAY</span><br><span style="font-weight:700">3:00PM TO 5:30PM</span><br>ISH Level 2</td>
-    <td class="tg-osv9">Ms Anna Leong (ext 218) <span style="font-weight:bolder">OIC</span><br>Mr Jude Ang (ext 150)<br>Mr Jeremy Chen (ext 145) 
+    <td class="tg-osv9">Ms Anna Leong (ext 218) <span style="font-weight:bolder">OIC</span><br>Mr Jude Ang (ext 150)<br>Mr Jeremy Chen (ext 145) <br>Mdm Chua Sock Huang (ext 133)
 </td>
   </tr>
 </tbody>
