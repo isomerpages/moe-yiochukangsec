@@ -7,4 +7,4 @@ variant: markdown
 ---
 ![Our Key Personnel](/images/Our%20Story/Organisation%20Chart/Key%20Personnel/Key_Personnel_R4.png)
 ![Our Key Personnel](/images/Our%20Story/Organisation%20Chart/Key%20Personnel/Key_Personnel_R5.png)
-![Our Key Personnel](/images/Our%20Story/Organisation%20Chart/Key%20Personnel/Key_Personnel_R6.png)
+![Our Key Personnel](/images/Our%20Story/Organisation%20Chart/Key%20Personnel/key_personnel03b.png)
