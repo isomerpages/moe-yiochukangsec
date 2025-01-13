@@ -61,6 +61,7 @@ body {
                 transform: scale(1.3);
             }
         }
+
 </style>
 <div class="yck-component">
     <nav class="yck-nav-bar">
@@ -75,4 +76,3 @@ body {
 <div class="ken-burns-container">
         <img alt="Ken Burns Effect" src="/images/Our%20Story/Organisation%20Chart/Organisation%20Chart/O1.jpg" class="ken-burns-image">
     </div>
-
