@@ -5,8 +5,57 @@ description: ""
 variant: markdown
 ---
 <div class="yck-component">
+	<h1>Heading 1</h1>
+	<p>Some text here which I think is way too far away from the main header although the text do look good. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue.</p> 
 	
+<p>Maecenas at nunc in libero feugiat tincidunt sed vitae urna. Nulla non quam diam. Praesent gravida maximus placerat. Donec sodales turpis ac laoreet imperdiet.</p>
 	
+<h2>Heading 2</h2>
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue. Some text here which I think is way too far away from the main header although the text do look good. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue.</p> 
+	
+<h3>Heading</h3>
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue. Some text here which I think is way too far away from the main header although the text do look good. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue.</p> 
+	
+<h4>Heading 4</h4>
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue. Some text here which I think is way too far away from the main header although the text do look good. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue.</p> 
+	 <table class="yck-table">
+        <thead>
+            <tr>
+                <th class="yck-th">TRAINING INFORMATION</th>
+                <th class="yck-th"></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="yck-td">Day and Time</td>
+                <td class="yck-td">Every Tuesday and Thursday<br> 3:00PM to 5:30PM</td>
+            </tr>
+            <tr>
+                <td class="yck-td">Location</td>
+                <td class="yck-td">Music Room, Level 1</td>
+            </tr>
+            <tr>
+                <th class="yck-th">TEACHERS IN-CHARGE</th>
+                <th class="yck-th"></th>
+            </tr>
+            <tr>
+                <td class="yck-td">OIC</td>
+                <td class="yck-td">Mdm Vijaya (ext 203)</td>
+            </tr>
+            <tr>
+                <td class="yck-td"></td>
+                <td class="yck-td">Mdm Lee Ching Fong (ext 142)</td>
+            </tr>
+            <tr>
+                 <td class="yck-td"></td>
+                <td class="yck-td">Ms Michelle Lim (ext 135)</td>
+            </tr>
+            <tr>
+                 <td class="yck-td"></td>
+                <td class="yck-td">Mr Loke Tuck Luen (ext 131)</td>
+            </tr>
+        </tbody>
+    </table>
 </div>
 
 <style>
@@ -34,15 +83,7 @@ variant: markdown
     --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
-    --yck-space-3xs: clamp(0.3125rem, 0.3125rem + 0vw, 0.3125rem);
-    --yck-space-2xs: clamp(0.5625rem, 0.5408rem + 0.1087vw, 0.625rem);
-    --yck-space-xs: clamp(0.875rem, 0.8533rem + 0.1087vw, 0.9375rem);
-    --yck-space-s: clamp(1.125rem, 1.0815rem + 0.2174vw, 1.25rem);
-    --yck-space-m: clamp(1.6875rem, 1.6223rem + 0.3261vw, 1.875rem);
-    --yck-space-l: clamp(2.25rem, 2.163rem + 0.4348vw, 2.5rem);
-    --yck-space-xl: clamp(3.375rem, 3.2446rem + 0.6522vw, 3.75rem);
-    --yck-space-2xl: clamp(4.5rem, 4.3261rem + 0.8696vw, 5rem);
-    --yck-space-3xl: clamp(6.75rem, 6.4891rem + 1.3043vw, 7.5rem);
+    --yck-space-s-l: clamp(1.125rem, 0.7337rem + 1.9565vw, 2.25rem);
 }
 
 body,
@@ -78,7 +119,7 @@ body,
 .yck-component .yck-h1,
 .yck-component h1 {
     font-size: var(--yck-step-5);
-    margin-bottom: var(--yck-space-3xl);
+    margin-bottom: var(--yck-space-s-l);
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -86,7 +127,7 @@ body,
 .yck-component .yck-h2,
 .yck-component h2 {
     font-size: var(--yck-step-4);
-    margin-bottom: var(--yck-space-2xl);
+    margin-bottom: var(--yck-space-s-l) * 0.8;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
