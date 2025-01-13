@@ -135,7 +135,7 @@ body,
 .yck-component .yck-h3,
 .yck-component h3 {
     font-size: var(--yck-step-3);
-    margin-bottom: var(--yck-space-xl);
+    margin-bottom: var(--yck-space-s-l) * 0.6;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -143,8 +143,8 @@ body,
 .yck-component .yck-h4,
 .yck-component h4 {
     font-size: var(--yck-step-2);
-    margin-bottom: var(--yck-space-l);
-    text-transform: uppercase;
+    margin-bottom: var(--yck-space-s-l) * 0.4;
+    text-transform: titlecase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -181,7 +181,7 @@ body,
 .yck-component p,
 .yck-component ul {
     font-size: var(--yck-step-0);
-    margin-bottom: var(--yck-space-s);
+    margin-bottom: var(--yck-spacing-unit);
 }
 
 .yck-component ul.yck-custom-list {
