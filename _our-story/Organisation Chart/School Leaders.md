@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Organisation Chart
 variant: markdown
 ---
-![Our School Leaders: Mrs Betty Chow, Mr Kevin Lim and Ms Sarah Abdullah](/images/Our%20Story/Organisation%20Chart/School%20Leaders/school_leaders.png)
+<img alt="Our School Leaders: Mrs Betty Chow, Mr Kevin Lim and Mr Alvin Pek" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/Organisation%20Chart/School%20Leaders/school_leaders.png">
+
+
 
 <style>	
 	img {
