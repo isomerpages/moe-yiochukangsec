@@ -5,9 +5,13 @@ description: ""
 third_nav_title: Organisation Chart
 variant: markdown
 ---
-<img alt="Our Key Personnel" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/Organisation%20Chart/Key%20Personnel/Key_Personnel_R4.png">
-<img alt="Our Key Personnel" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/Organisation%20Chart/Key%20Personnel/Key_Personnel_R5.png">
-<img alt="Our Key Personnel" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/Organisation%20Chart/Key%20Personnel/key_personnel03b.png">
+<img alt="Key Personnel Row 01" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/Organisation%20Chart/Key%20Personnel/01keyperson2025.png">
+<img alt="Key Personnel Row 02" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/Organisation%20Chart/Key%20Personnel/02keyperson2025.png">
+<img alt="Key Personnel Row 03" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/Organisation%20Chart/Key%20Personnel/03keyperson2025.png">
+<img alt="Key Personnel Row 04" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/Organisation%20Chart/Key%20Personnel/04keyperson2025.png">
+<img alt="Key Personnel Row 05" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/Organisation%20Chart/Key%20Personnel/05keyperson2025.png">
+<img alt="Key Personnel Row 06" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/Organisation%20Chart/Key%20Personnel/06keyperson2025.png">
+<img alt="Key Personnel Row 07" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/Organisation%20Chart/Key%20Personnel/07keyperson2025.png">
 
 <style>	
 	img {
