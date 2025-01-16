@@ -13,7 +13,7 @@ variant: markdown
       <p>
         <img src="/images/Our%20Story/Organisation%20Chart/01DNT2025.png">
         <img src="/images/Our%20Story/Organisation%20Chart/02DNT2025.png">
-        <img src="/images/Our%20Story/Organisation%20Chart/03dnt2025.png">
+        <img src="/images/Our%20Story/Organisation%20Chart/03DNT2025.png">
       </p>
     </div>
   </li>
@@ -95,8 +95,11 @@ variant: markdown
     align-items: center;
     padding: 10px;
     cursor: pointer;
+	 font-size: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem);
   }
-
+	.jekyllcodex_accordion label::before {
+	    display: none;
+}
   .jekyllcodex_accordion label::after {
     content: '+';
     transition: transform 0.3s ease;
