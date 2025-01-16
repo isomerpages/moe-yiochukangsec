@@ -197,53 +197,5 @@ variant: markdown
 	word-wrap: break-word;
 	line-height: 1.6rem;
 }	
-	
-  .jekyllcodex_accordion li {
-    margin-bottom: 10px;
-	  list-style: none;
-  }
 
-  .jekyllcodex_accordion input[type="checkbox"] {
-    display: none;
-  }
-
-  .jekyllcodex_accordion label {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px;
-    cursor: pointer;
-	 font-size: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem);
-  }
-	
-.jekyllcodex_accordion label::before {
-	   content: none;
-}
- 
-.jekyllcodex_accordion label::after {
-    content: '+';
-    transition: transform 0.3s ease;
-  }
-
-  .jekyllcodex_accordion input[type="checkbox"]:checked + label::after {
-    transform: rotate(45deg);
-  }
-	
-  .jekyllcodex_accordion div {
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.3s ease-out, opacity 0.3s ease-out;
-    opacity: 0;
-  }
-
-  .jekyllcodex_accordion input[type="checkbox"]:checked + label + div {
-    max-height: 1000px;
-    opacity: 1;
-    transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
-  }
-
-  .jekyllcodex_accordion img {
-    max-width: 100%;
-    height: auto;
-  }
 	</style>
