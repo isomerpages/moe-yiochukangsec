@@ -79,3 +79,42 @@ variant: markdown
     </div>
   </li>
 </ul>
+
+<style>
+  .jekyllcodex_accordion li {
+    margin-bottom: 10px;
+  }
+
+  .jekyllcodex_accordion input[type="checkbox"] {
+    display: none;
+  }
+
+  .jekyllcodex_accordion label {
+    display: block;
+    padding: 10px;
+    background-color: #f0f0f0;
+    cursor: pointer;
+  }
+
+  .jekyllcodex_accordion div {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out, opacity 0.3s ease-out;
+    opacity: 0;
+  }
+
+  .jekyllcodex_accordion input[type="checkbox"]:checked + label + div {
+    max-height: 1000px;
+    opacity: 1;
+    transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+  }
+
+  .jekyllcodex_accordion img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .jekyllcodex_accordion li {
+   list-style: none;
+  }
+</style>
