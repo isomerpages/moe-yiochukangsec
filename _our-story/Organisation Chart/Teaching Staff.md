@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Organisation Chart
 variant: markdown
 ---
+<div class="yck-component">
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
@@ -79,56 +80,56 @@ variant: markdown
     </div>
   </li>
 </ul>
+</div>
 
 <style>
-  .jekyllcodex_accordion li {
+.yck-component .jekyllcodex_accordion li {
     margin-bottom: 10px;
 	  list-style: none;
   }
 
-  .jekyllcodex_accordion input[type="checkbox"] {
+.yck-component .jekyllcodex_accordion input[type="checkbox"] {
     display: none;
   }
 
-  .jekyllcodex_accordion label {
+.yck-component .jekyllcodex_accordion label {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 10px;
     cursor: pointer;
-	 font-size: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem);
+	 font-size: var(--yck-step-1);
   }
 	
-.jekyllcodex_accordion label::before {
+.yck-component .jekyllcodex_accordion label::before {
 	   content: none;
 }
  
-.jekyllcodex_accordion label::after {
+.yck-component .jekyllcodex_accordion label::after {
     content: '+';
     transition: transform 0.3s ease;
   }
 
-  .jekyllcodex_accordion input[type="checkbox"]:checked + label::after {
+.yck-component .jekyllcodex_accordion input[type="checkbox"]:checked + label::after {
     transform: rotate(45deg);
   }
 	
-  .jekyllcodex_accordion div {
+.yck-component .jekyllcodex_accordion div {
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.3s ease-out, opacity 0.3s ease-out;
     opacity: 0;
   }
 
-  .jekyllcodex_accordion input[type="checkbox"]:checked + label + div {
+.yck-component .jekyllcodex_accordion input[type="checkbox"]:checked + label + div {
     max-height: 1000px;
     opacity: 1;
     transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
   }
 
-  .jekyllcodex_accordion img {
+.yck-component .jekyllcodex_accordion img {
     max-width: 100%;
     height: auto;
   }
-
-
+	
 </style>
