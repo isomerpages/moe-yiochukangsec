@@ -14,7 +14,7 @@ variant: markdown
       <p>
         <img src="/images/Our%20Story/Organisation%20Chart/01DNT2025.png">
         <img src="/images/Our%20Story/Organisation%20Chart/02DNT2025.png">
-        <img src="/images/Our%20Story/Organisation%20Chart/03DNT2025.png">
+        <img src="/images/Our%20Story/Organisation%20Chart/03dnt2025.png">
       </p>
     </div>
   </li>
