@@ -90,12 +90,21 @@ variant: markdown
   }
 
   .jekyllcodex_accordion label {
-    display: block;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     padding: 10px;
-    background-color: #f0f0f0;
     cursor: pointer;
   }
 
+  .jekyllcodex_accordion label::after {
+    content: '+';
+    transition: transform 0.3s ease;
+  }
+
+  .jekyllcodex_accordion input[type="checkbox"]:checked + label::after {
+    transform: rotate(45deg);
+  }
   .jekyllcodex_accordion div {
     max-height: 0;
     overflow: hidden;
