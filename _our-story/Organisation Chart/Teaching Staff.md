@@ -32,8 +32,8 @@ variant: markdown
     <label for="accordion3">Mathematics and Principles of Accounts Department</label>
     <div>
       <p>
-        <img src="/images/Our%20Story/Organisation%20Chart/01mathpoa2025.png">
-        <img src="/images/Our%20Story/Organisation%20Chart/02mathpoa2025.png">
+        <img src="/images/Our%20Story/Organisation%20Chart/01mathspoa2025.png">
+        <img src="/images/Our%20Story/Organisation%20Chart/02mathspoa2025.png">
         <img src="/images/Our%20Story/Organisation%20Chart/03mathpoa2025.png">
       </p>
     </div>
