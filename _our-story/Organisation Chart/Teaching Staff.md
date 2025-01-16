@@ -102,7 +102,7 @@ variant: markdown
   }
 	
 .yck-component .jekyllcodex_accordion label::before {
-	   content: none;
+	   display: none;
 }
  
 .yck-component .jekyllcodex_accordion label::after {
