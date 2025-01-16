@@ -83,6 +83,7 @@ variant: markdown
 <style>
   .jekyllcodex_accordion li {
     margin-bottom: 10px;
+	  list-style: none;
   }
 
   .jekyllcodex_accordion input[type="checkbox"] {
@@ -97,10 +98,12 @@ variant: markdown
     cursor: pointer;
 	 font-size: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem);
   }
-	.jekyllcodex_accordion label::before {
-	    display: none;
+	
+.jekyllcodex_accordion label::before {
+	   content: none;
 }
-  .jekyllcodex_accordion label::after {
+ 
+.jekyllcodex_accordion label::after {
     content: '+';
     transition: transform 0.3s ease;
   }
@@ -108,6 +111,7 @@ variant: markdown
   .jekyllcodex_accordion input[type="checkbox"]:checked + label::after {
     transform: rotate(45deg);
   }
+	
   .jekyllcodex_accordion div {
     max-height: 0;
     overflow: hidden;
@@ -126,7 +130,5 @@ variant: markdown
     height: auto;
   }
 
-  .jekyllcodex_accordion li {
-   list-style: none;
-  }
+
 </style>
