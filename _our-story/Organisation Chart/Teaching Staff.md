@@ -98,7 +98,7 @@ variant: markdown
     align-items: center;
     padding: 10px;
     cursor: pointer;
-	 font-size: var(--yck-step-1);
+	 font-size: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem);
   }
 	
 .yck-component .jekyllcodex_accordion label::before {
