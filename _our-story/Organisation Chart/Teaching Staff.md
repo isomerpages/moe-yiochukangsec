@@ -5,142 +5,131 @@ description: ""
 third_nav_title: Organisation Chart
 variant: markdown
 ---
+<div class="yck-component">
 <ul class="jekyllcodex_accordion">
-
-&nbsp;&nbsp;<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Design and Enterprise Department</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-<p> 
-<img src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Design%20and%20Enterprise%20Dpt/DnT_R8.png">
-	<img src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Design%20and%20Enterprise%20Dpt/DnT_R9.png">
-
-</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-	<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Humanities&nbsp;Department</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> 
-				<img src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Humanities%20Department/Humanities_R10.png">
-
-</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-	
-	
-<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Mathematics&nbsp;and&nbsp; Principles&nbsp;of&nbsp;Accounts Department</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-<p> 			
-<img src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Mathematics%20and%20%20POA%20Dpt/Maths_n_POA_R11.png">
-	</p>
-	<p>
-<img src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Mathematics%20and%20%20POA%20Dpt/Maths_n_POA_R12.png">
-</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-	
-<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">Mother&nbsp;Tongue&nbsp;Languages&nbsp;Department</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-<p>
-<img src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/MTL%20Department/MTL_R13.png">
-<img src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/MTL%20Department/MTL_R14.png">
-	
-</p>
-
-&nbsp;&nbsp;</div>
-
-</li>
-	
-<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion5">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion5">Physical&nbsp;Education&nbsp;Department</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<p>	<img src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Physical%20Education%20Department/PE_R15.png"> 
-			</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-	
-<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion6">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion6">Science&nbsp;Department</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-<p>
-<img src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Science%20Department/Science_R16a.png">
-			</p>
-	<p>
-<img src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/Science%20Department/Science_R16b.jpg">
-			</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-	
-<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion7">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion7">English&nbsp;Language&nbsp;Department</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-<p> 
-<img src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/English%20Language%20Department/English_R17.png">
-</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-	
-	
-
-	
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Design and Enterprise Department</label>
+    <div>
+      <p>
+        <img src="/images/Our%20Story/Organisation%20Chart/01DNT2025.png">
+        <img src="/images/Our%20Story/Organisation%20Chart/02DNT2025.png">
+        <img src="/images/Our%20Story/Organisation%20Chart/03dnt2025.png">
+      </p>
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Humanities Department</label>
+    <div>
+      <p>
+        <img src="/images/Our%20Story/Organisation%20Chart/01humanities2025.png">
+        <img src="/images/Our%20Story/Organisation%20Chart/02humanities2025.png">
+      </p>
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">Mathematics and Principles of Accounts Department</label>
+    <div>
+      <p>
+        <img src="/images/Our%20Story/Organisation%20Chart/01mathspoa2025.png">
+        <img src="/images/Our%20Story/Organisation%20Chart/02mathspoa2025.png">
+        <img src="/images/Our%20Story/Organisation%20Chart/03mathpoa2025.png">
+      </p>
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">Mother Tongue Languages Department</label>
+    <div>
+      <p>
+        <img src="/images/Our%20Story/Organisation%20Chart/01mtl2025.png">
+        <img src="/images/Our%20Story/Organisation%20Chart/02mtl2025.png">
+        <img src="/images/Our%20Story/Organisation%20Chart/03mtl2025.png">
+      </p>
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">Physical Education Department</label>
+    <div>
+      <p>
+        <img src="/images/Our%20Story/Organisation%20Chart/01pe2025.png">
+      </p>
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">Science Department</label>
+    <div>
+      <p>
+        <img src="/images/Our%20Story/Organisation%20Chart/01science2025.png">
+        <img src="/images/Our%20Story/Organisation%20Chart/02science2025.png">
+        <img src="/images/Our%20Story/Organisation%20Chart/03science2025.png">
+      </p>
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7">English Language Department</label>
+    <div>
+      <p>
+        <img src="/images/Our%20Story/Organisation%20Chart/Teaching%20Staff/English%20Language%20Department/English_R17.png">
+      </p>
+    </div>
+  </li>
 </ul>
+</div>
 
-<style>	
-	img {
-		font-style: italic;
-		max-width: 100%;
-		height: auto;
-		vertical-align: middle;
-		background-repeat: no- repeat;
-		background-size: cover;
-	}
-	</style>
+<style>
+.yck-component .jekyllcodex_accordion li {
+    margin-bottom: 10px;
+	  list-style: none;
+  }
+
+.yck-component .jekyllcodex_accordion input[type="checkbox"] {
+    display: none;
+  }
+
+.yck-component .jekyllcodex_accordion label {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    cursor: pointer;
+	 font-size: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem);
+  }
+	
+.yck-component .jekyllcodex_accordion label::before {
+	   display: none;
+}
+ 
+.yck-component .jekyllcodex_accordion label::after {
+    content: '+';
+    transition: transform 0.3s ease;
+  }
+
+.yck-component .jekyllcodex_accordion input[type="checkbox"]:checked + label::after {
+    transform: rotate(45deg);
+  }
+	
+.yck-component .jekyllcodex_accordion div {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out, opacity 0.3s ease-out;
+    opacity: 0;
+  }
+
+.yck-component .jekyllcodex_accordion input[type="checkbox"]:checked + label + div {
+    max-height: 1000px;
+    opacity: 1;
+    transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+  }
+
+.yck-component .jekyllcodex_accordion img {
+    max-width: 100%;
+    height: auto;
+  }
+	
+</style>
