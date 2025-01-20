@@ -5,10 +5,10 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-
 <div class="yck-component">
   <h2>Nurturing Leaders and Responsible Citizens</h2>
-    <div class="intro-text">
+    <div>
+			<img alt="NPCC Cadets saluting" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/N1.jpg">
       <p>Yio Chu Kang Secondary School's National Police Cadet Corps (NPCC) CCA is committed to nurturing selfless
         individuals who contribute to the safety and security of the community. Through engaging activities and
         meaningful experiences, our cadets develop strong character, leadership, and resilience, equipping them to
@@ -200,14 +200,14 @@ variant: markdown
     --yck-spacing-unit: 1em;
     --yck-border-radius: 4px;
     --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    --yck-step--2: clamp(0.72rem, 0.8026rem + -0.1065vw, 0.7813rem);
-    --yck-step--1: clamp(0.9rem, 0.9505rem + -0.0652vw, 0.9375rem);
+    --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
+    --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
     --yck-step-0: clamp(1.125rem, 1.125rem + 0vw, 1.125rem);
-    --yck-step-1: clamp(1.35rem, 1.3304rem + 0.0978vw, 1.4063rem);
-    --yck-step-2: clamp(1.62rem, 1.5721rem + 0.2397vw, 1.7578rem);
-    --yck-step-3: clamp(1.944rem, 1.8559rem + 0.4405vw, 2.1973rem);
-    --yck-step-4: clamp(2.3328rem, 2.1889rem + 0.7196vw, 2.7466rem);
-    --yck-step-5: clamp(2.7994rem, 2.5789rem + 1.1024vw, 3.4332rem);
+    --yck-step-1: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem);
+    --yck-step-2: clamp(1.4238rem, 1.3556rem + 0.3412vw, 1.62rem);
+    --yck-step-3: clamp(1.6018rem, 1.4828rem + 0.5951vw, 1.944rem);
+    --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
+    --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 }
 
 .yck-component {
