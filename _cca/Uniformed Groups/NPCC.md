@@ -5,207 +5,148 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
+
 <div class="yck-component">
-  <img class="yck-img" alt="NPCC Image" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/N1.jpg">
-
-  <p>The National Police Cadet Corps (NPCC) aims to nurture selfless individuals who contribute to the safety and security of the community. It also builds character, leadership and resilience in our cadets.</p>
-
-  <p>Through a variety of activities, values such as discipline, loyalty, integrity, resourcefulness, tenacity and civic-consciousness are inculcated to develop members into caring and responsible citizens.</p>
-
-  <p>In NPCC, the cadets get a chance to learn more about the Singapore Police Force through their interactions at the Neighbourhood Police Centres and visits to the Singapore Police Establishments. Cadets are also exposed to various courses such as Anti-Drug Abuse, Basic Law, Crime Prevention, Crime Scene Investigation, First Aid, Police Procedures and SG Secure which widen their knowledge.</p>
-
-  <table class="yck-table">
-    <thead>
-      <tr>
-        <th class="yck-th">
-          <h5>TRAINING SCHEDULE</h5>
-        </th>
-        <th class="yck-th">
-          <h5></h5>
-        </th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td class="yck-td">Day &amp; Time</td>
-        <td class="yck-td">Every Tuesday 3:00PM to 5:30PM</td>
-      </tr>
-      <tr>
-        <td class="yck-td">Location</td>
-        <td class="yck-td">NPCC Room &amp; Blk D L1 Classroom</td>
-      </tr>
-      <tr>
-        <td class="yck-td">Additional Involvement</td>
-        <td class="yck-td">Additional involvement on other days for HQ activities</td>
-      </tr>
-      <tr>
-        <td class="yck-td"><strong>Teacher OIC</strong></td>
-        <td class="yck-td">
-          <strong>Ms Goh Yu Fan (ext 174)</strong>
-        </td>
-      </tr>
-      <tr>
-        <td class="yck-td">Other Teachers</td>
-        <td class="yck-td">Mr Wong Mingwei (ext 141),<br>Mr Goh Kok Hoe Octave (ext 136),<br>Mr Joseph C. George (ext 148),<br>Mrs Cindy Ong Kim Leng (ext 139)
-        </td>
-      </tr>
-    </tbody>
-  </table>
-
-  <details class="yck-details">
-    <summary class="yck-details__summary">Proudest Moments</summary>
-    <div class="yck-details__content">
-      <table class="yck-table">
-        <thead>
-          <tr>
-            <th class="yck-th">
-              <h5>2024</h5>
-            </th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td class="yck-td">SPF-NPCC Badge Recipient: SSGT (NPCC) Aden Bin Azam</td>
-          </tr>
-          <tr>
-            <td class="yck-td">SPF-NPCC Badge Recipient: SSGT (NPCC) Tay Yu Qi Natalie (Zheng Yuqi)</td>
-          </tr>
-          <tr>
-            <td class="yck-td">Inter-Unit .22 Revolver Shooting Competition (Individual Category - Boys): Louis Wong National 6th position</td>
-          </tr>
-          <tr>
-            <th class="yck-th">
-              <h5>2023</h5>
-            </th>
-          </tr>
-          <tr>
-            <td class="yck-td">Unit Overall Proficiency Award: Distinction</td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
-
-  <details class="yck-details">
-    <summary class="yck-details__summary">Events/Competitions</summary>
-    <div class="yck-details__content">
-      <ul class="yck-flexbox-grid">
-        <li>
-          <table class="yck-table">
+  <h2>Nurturing Leaders and Responsible Citizens</h2>
+    <div class="intro-text">
+      <p>Yio Chu Kang Secondary School's National Police Cadet Corps (NPCC) CCA is committed to nurturing selfless
+        individuals who contribute to the safety and security of the community. Through engaging activities and
+        meaningful experiences, our cadets develop strong character, leadership, and resilience, equipping them to
+        excel as caring and responsible citizens.</p>
+      <p>NPCC instills core values such as discipline, loyalty, integrity,
+        resourcefulness, tenacity, and civic consciousness, fostering a sense of responsibility and pride. Cadets gain
+        unique insights into the Singapore Police Force (SPF) through interactions with officers at Neighbourhood
+        Police Centres and visits to various police establishments. To broaden their knowledge and skills, cadets
+        participate in specialized courses, including Anti-Drug Abuse, Basic Law, Crime Prevention, Crime Scene
+        Investigation, First Aid, Police Procedures, and SG Secure. These experiences enrich their learning journey,
+        shaping them into capable and community-conscious individuals.</p>
+     </div>
+      <h3>Training Schedule</h3>
+        <table class="yck-table">
             <thead>
-              <tr>
-                <th class="yck-th">
-                  <h5>Events</h5>
-                </th>
-              </tr>
+                <tr>
+                    <th class="yck-th"><h4 class="yck-h5">DAY &amp; TIME:</h4></th>
+                    <th class="yck-th"><h4 class="yck-h5">TEACHERS-IN-CHARGE</h4></th>
+                     <th class="yck-th"><h4 class="yck-h5">VENUE:</h4></th>
+                </tr>
             </thead>
             <tbody>
-              <tr>
-                <td class="yck-td">Air Pistol Shooting Programme</td>
-              </tr>
-              <tr>
-                <td class="yck-td">Annual Unit Camp</td>
-              </tr>
-              <tr>
-                <td class="yck-td">Area 11 Adventure and Survival Training Camps at Pulau Ubin</td>
-              </tr>
-              <tr>
-                <td class="yck-td">Area 11 Secondary One Cadets Swearing In Ceremony</td>
-              </tr>
-              <tr>
-                <td class="yck-td">Area 11 Games Day</td>
-              </tr>
-              <tr>
-                <td class="yck-td">Crime Prevention Programme</td>
-              </tr>
-              <tr>
-                <td class="yck-td">Home Team Gallery Visit</td>
-              </tr>
-              <tr>
-                <td class="yck-td">K-9 Dog Unit Visit</td>
-              </tr>
-              <tr>
-                <td class="yck-td">Neighbourhood Police Centre Visit</td>
-              </tr>
-              <tr>
-                <td class="yck-td">NPCC Annual Parade (NPAP)</td>
-              </tr>
-              <tr>
-                <td class="yck-td">Police Heritage Visit</td>
-              </tr>
-              <tr>
-                <td class="yck-td">Police Youth Ambassador</td>
-              </tr>
-              <tr>
-                <td class="yck-td">Sports Enrichment Programme (SEP)</td>
-              </tr>
-              <tr>
-                <td class="yck-td">Total Defence Programme</td>
-              </tr>
-              <tr>
-                <td class="yck-td">YCKSS National Day Parade</td>
-              </tr>
-              <tr>
-                <td class="yck-td">YCKSS Speech Day Parade</td>
-              </tr>
+                <tr>
+                    <td class="yck-td">Every Tuesday<br>3.00pm to 5.30pm</td>
+                    <td class="yck-td">
+                        Ms Goh Yu Fan (ext 174)<br>
+                        Mr Wong Mingwei (ext 141)<br>
+                        Mr Octave Goh (ext 136)<br>
+                        Mr Joseph George (ext 148)<br>
+                        Mdm Cindy Ong (ext 139)<br>
+                        Ms Nadia Rachael (ext 218)
+                    </td>
+                    <td class="yck-td">NPCC Room (Level 2) &amp; <br>Blk D Classrooms (Level 1)</td>
+                </tr>
             </tbody>
-          </table>
-        </li>
-        <li>
-          <table class="yck-table">
-            <thead>
-              <tr>
-                <th class="yck-th">
-                  <h5>Courses</h5>
-                </th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td class="yck-td">Basic Law Course</td>
-              </tr>
-              <tr>
-                <td class="yck-td">Cadet Leader Course</td>
-              </tr>
-              <tr>
-                <td class="yck-td">Campcraft Course</td>
-              </tr>
-              <tr>
-                <td class="yck-td">Crime Scene Investigation Course</td>
-              </tr>
-              <tr>
-                <td class="yck-td">Drill Course</td>
-              </tr>
-              <tr>
-                <td class="yck-td">Homefront Security Course</td>
-              </tr>
-              <tr>
-                <td class="yck-td">Leadership and Mentoring Skills Course</td>
-              </tr>
-              <tr>
-                <td class="yck-td">Marksmanship Course</td>
-              </tr>
-              <tr>
-                <td class="yck-td">Non-Commissioned Officer Course</td>
-              </tr>
-              <tr>
-                <td class="yck-td">Oral Communication Course</td>
-              </tr>
-              <tr>
-                <td class="yck-td">Police Procedures Course</td>
-              </tr>
-              <tr>
-                <td class="yck-td">Road Safety Course</td>
-              </tr>
-              <tr>
-                <td class="yck-td">Unarmed Tactics Course</td>
-              </tr>
-            </tbody>
-          </table>
-        </li>
-      </ul>
-    </div>
-  </details>
+        </table>
+      <details class="yck-details">
+        <summary class="yck-details__summary">Events &amp; Competitions</summary>
+         <div class="yck-details__content">
+             <ul class="yck-events-list">
+                    <li><b>2024</b>
+                        <ul>
+                            <li>SPF-NPCC Badge Recipient: Staff Seargeant Aden Bin Azam &amp; Staff Seargeant Tay Yu Qi Natalie</li>
+                            <li>Inter-Unit .22 Revolver Shooting Competition (Individual Category - Boys): Louis Wong National 6th Placing</li>
+                        </ul>
+                    </li>
+                    <li><b>2023</b>
+                        <ul>
+                            <li>Unit Overall Proficiency Award: <b>DISTINCTION</b></li>
+                            <li>SPF-NPCC Badge Recipient: Staff Seargeant Liew Tze Wan &amp; Staff Sergeant Xiong Shiqi</li>
+                        </ul>
+                    </li>
+                     <li><b>2022</b>
+                        <ul>
+                            <li>Unit Overall Proficiency Award: <b>DISTINCTION</b></li>
+                            <li>SPF-NPCC Badge Recipient:
+                            <ul>
+                                <li>Staff Seargeant Lim Boon Yu &amp; Staff Sergeant Nur Rashiqa Binte Muhammad Risman</li>
+                               </ul>
+                            </li>
+                       </ul>
+                     </li>
+                    <li><b>2021</b>
+                        <ul>
+                           <li>Unit Overall Proficiency Award: Distinction.</li>
+                         </ul>
+                    </li>
+                     <li><b>2020</b>
+                        <ul>
+                            <li>Unit Overall Proficiency Award: Distinction</li>
+                        </ul>
+                     </li>
+                     <li><b>2019</b>
+                        <ul>
+                             <li>Unit Overall Proficiency Award: Distinction</li>
+                        </ul>
+                    </li>
+                    <li><b>2018</b>
+                        <ul>
+                            <li>Unit Overall Proficiency Award: Distinction</li>
+                        </ul>
+                    </li>
+                </ul>
+         </div>
+     </details>
+	<details class="yck-details">
+        <summary class="yck-details__summary">ANNUAL EVENTS AND COURSES</summary>
+        <div class="yck-flexbox-grid">
+            <table class="yck-table">
+                <thead>
+                    <tr>
+                        <th class="yck-th"><h4 class="yck-h5">EVENTS:</h4></th>
+                    </tr>
+                </thead>
+                <tbody>
+                     <tr><td class="yck-td">Air Pistol Shooting Programme</td></tr>
+                    <tr><td class="yck-td">Annual Unit Camp</td></tr>
+                    <tr><td class="yck-td">Area 11 Adventure &amp; Survival Training Camp</td></tr>
+                     <tr><td class="yck-td">Area 11 Secondary 1 Cadets Swearing In Ceremony</td></tr>
+                    <tr><td class="yck-td">Area 11 Games Day</td></tr>
+                    <tr><td class="yck-td">Crime Prevention Programme</td></tr>
+                     <tr><td class="yck-td">Home Team Gallery Visit</td></tr>
+                    <tr><td class="yck-td">K-9 Dog Unit Visit</td></tr>
+                    <tr><td class="yck-td">Neighbourhood Police Centre Visit</td></tr>
+                    <tr><td class="yck-td">NPCC Annual Parade (NPAP)</td></tr>
+                    <tr><td class="yck-td">Police Heritage Visit</td></tr>
+                    <tr><td class="yck-td">Yeoman for National School Games (Swimming)</td></tr>
+                    <tr><td class="yck-td">Police Youth Ambassador</td></tr>
+                     <tr><td class="yck-td">Sports Enrichment Programme (SEP)</td></tr>
+                     <tr><td class="yck-td">Total Defence Programme</td></tr>
+                      <tr><td class="yck-td">YCKSS National Day Parade</td></tr>
+                     <tr><td class="yck-td">YCKSS Speech Day Parade</td></tr>
+                </tbody>
+            </table>
+              <table class="yck-table">
+                <thead>
+                    <tr>
+                        <th class="yck-th"><h4 class="yck-h5">COURSES:</h4></th>
+                    </tr>
+                </thead>
+                 <tbody>
+                     <tr><td class="yck-td">Basic Law Course</td></tr>
+                    <tr><td class="yck-td">Cadet Leader Course</td></tr>
+                     <tr><td class="yck-td">Campcraft Course</td></tr>
+                    <tr><td class="yck-td">Crime Scene Investigation Course</td></tr>
+                     <tr><td class="yck-td">Drill Course</td></tr>
+                     <tr><td class="yck-td">Homefront Security Course</td></tr>
+                    <tr><td class="yck-td">Leadership and Mentoring Skills Course</td></tr>
+                   <tr><td class="yck-td">Marksmanship Course</td></tr>
+                    <tr><td class="yck-td">Non-Commissioned Officer Course</td></tr>
+                    <tr><td class="yck-td">Oral Communication Course</td></tr>
+                   <tr><td class="yck-td">Police Procedures Course</td></tr>
+                    <tr><td class="yck-td">Road Safety Course</td></tr>
+                     <tr><td class="yck-td">Unarmed Tactics Course</td></tr>
+                </tbody>
+            </table>
+        </div>
+	</details>
    <details class="yck-details">
       <summary class="yck-details__summary">Gallery</summary>
       <div class="yck-details__content">
@@ -269,11 +210,10 @@ variant: markdown
     --yck-step-5: clamp(2.7994rem, 2.5789rem + 1.1024vw, 3.4332rem);
 }
 
-body,
 .yck-component {
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
-    font-size:  var(--yck-step-0);
+    font-size: var(--yck-step-0);
 }
 
 .yck-component h1,
@@ -310,6 +250,7 @@ body,
 .yck-component .yck-h2,
 .yck-component h2 {
     font-size: var(--yck-step-4);
+    font-weight: 600;
     margin-bottom: calc(var(--yck-spacing-unit) * 0.8);
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -318,6 +259,7 @@ body,
 .yck-component .yck-h3,
 .yck-component h3 {
     font-size: var(--yck-step-3);
+    font-weight: 500;
     margin-bottom: calc(var(--yck-spacing-unit) * 0.6);
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -326,8 +268,9 @@ body,
 .yck-component .yck-h4,
 .yck-component h4 {
     font-size: var(--yck-step-2);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
-    text-transform: uppercase;
+    font-weight: 400;
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.4);
+    text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -335,18 +278,32 @@ body,
 .yck-component .yck-h5,
 .yck-component h5 {
     font-size: var(--yck-step-1);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.4);
+    font-weight: 400;
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.3);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
 
+.yck-component .yck-h6,
+.yck-component h6 {
+    font-size: var(--yck-step-0);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.2);
+    text-transform: uppercase;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
+
+.yck-component small,
 .yck-component .yck-text-small {
     font-size: var(--yck-step--1);
+    font-weight: 200;
+    font-color: var(--yck-color-text-light);
 }
 
 .yck-component .yck-text-xs {
     font-size: var(--yck-step--2);
+    font-weight: 200;
 }
 
 .yck-component ol,
@@ -383,72 +340,7 @@ body,
     word-wrap: break-word;
     line-height: 1.6rem;
 }
-
-.yck-component .yck-blockquote {
-    margin: 1.5em 0;
-    padding: 1.5em 2em;
-    border-left: 4px solid var(--yck-color-border);
-    font-style: italic;
-    background-color: #f9f9f9;
-    position: relative;
-    border-radius: 8px;
-    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
-    font-size: var(--yck-step-0);
-}
-
-.yck-component .yck-blockquote::before {
-    content: open-quote;
-    font-size: 2em;
-    position: absolute;
-    top: 0.25em;
-    left: 0.25em;
-    color: var(--yck-color-text-light);
-}
-
-.yck-component .yck-blockquote p {
-    margin-bottom: 0.5em;
-    line-height: 1.35em;
-    color: #555;
-    font-size: inherit;
-}
-
-.yck-component .yck-blockquote p:last-child {
-    margin-bottom: 0;
-}
-
-.yck-component .yck-blockquote cite {
-    display: block;
-    text-align: right;
-    margin-top: 1em;
-    font-style: normal;
-    color: #555;
-    font-size: var(--yck-step--1);
-}
-
-.yck-component .yck-blockquote cite::before {
-    content: '\2014 \0020';
-}
-
-.yck-component ul.yck-custom-list {
-    list-style: none;
-    padding-left: 0;
-    margin-left: 0;
-    font-size: inherit;
-}
-
-.yck-component ul.yck-custom-list li {
-    position: relative;
-    padding-left: 1.5em;
-    margin-bottom: 0.5em;
-    line-height: 1em;
-}
-
-.yck-component ul.yck-custom-list li::before {
-    content: '~';
-    position: absolute;
-    left: 0;
-}
-
+	
 .yck-component .yck-details__content,
 .yck-component .yck-details__content ol,
 .yck-component .yck-details__content ol li,
@@ -456,10 +348,6 @@ body,
 .yck-component .yck-details__content ul li {
     padding: 0;
     margin: 0;
-}
-
-.yck-component .yck-strong {
-    font-weight: 600;
 }
 
 .yck-component .yck-details {
@@ -486,7 +374,7 @@ body,
 
 .yck-component .yck-details__summary::after {
     content: '+';
-    font-size: 1.5rem;
+    font-size: var(--yck-step-2);
     color: #999;
     transition: transform 0.5s ease-in-out;
     margin-right: 1rem;
@@ -532,12 +420,13 @@ body,
         opacity: 0;
     }
 }
-
+	
 .yck-component .yck-flexbox-grid {
     --yck-min: 22ch;
     --yck-gap: 1.5em;
     display: flex;
     flex-wrap: wrap;
+    list-style: none;
     gap: var(--yck-gap);
 }
 
@@ -545,59 +434,6 @@ body,
     flex: 1 1 var(--yck-min);
     list-style: none;
 }
-
-.yck-component .yck-gallery-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 1em;
-}
-
-.yck-component .yck-gallery-container .yck-iframe-container {
-    position: relative;
-    width: 100%;
-    padding-bottom: 56.25%;
-    overflow: hidden;
-}
-
-.yck-component .yck-gallery-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    margin-bottom: 1em;
-}
-
-.yck-component .yck-gallery-container small {
-    display: block;
-    text-align: center;
-    font-style: italic;
-    margin-top: 0.5em;
-    color: var(--yck-color-text-light);
-}
-
-.yck-component .yck-gallery-container img {
-    display: block;
-    width: 100%;
-    height: auto;
-    border-radius:  var(--yck-border-radius);
-    box-shadow: var(--yck-box-shadow);
-}
-
-.yck-component .yck-gallery-container .yck-image-row {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 0.5em;
-}
-
-.yck-component .yck-gallery-container .yck-image-row img {
-    flex: 1 1 30%;
-    object-fit: cover;
-}
-
-	
 
 .wrapper {
     width: 100%;
