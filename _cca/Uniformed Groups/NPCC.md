@@ -48,50 +48,65 @@ variant: markdown
       <details class="yck-details">
         <summary class="yck-details__summary">Events &amp; Competitions</summary>
          <div class="yck-details__content">
-             <ul class="yck-events-list">
-                    <li><b>2024</b>
-                        <ul>
-                            <li>SPF-NPCC Badge Recipient: Staff Seargeant Aden Bin Azam &amp; Staff Seargeant Tay Yu Qi Natalie</li>
-                            <li>Inter-Unit .22 Revolver Shooting Competition (Individual Category - Boys): Louis Wong National 6th Placing</li>
-                        </ul>
-                    </li>
-                    <li><b>2023</b>
-                        <ul>
-                            <li>Unit Overall Proficiency Award: <b>DISTINCTION</b></li>
-                            <li>SPF-NPCC Badge Recipient: Staff Seargeant Liew Tze Wan &amp; Staff Sergeant Xiong Shiqi</li>
-                        </ul>
-                    </li>
-                     <li><b>2022</b>
-                        <ul>
-                            <li>Unit Overall Proficiency Award: <b>DISTINCTION</b></li>
-                            <li>SPF-NPCC Badge Recipient:
-                            <ul>
-                                <li>Staff Seargeant Lim Boon Yu &amp; Staff Sergeant Nur Rashiqa Binte Muhammad Risman</li>
-                               </ul>
-                            </li>
-                       </ul>
-                     </li>
-                    <li><b>2021</b>
-                        <ul>
-                           <li>Unit Overall Proficiency Award: Distinction.</li>
-                         </ul>
-                    </li>
-                     <li><b>2020</b>
-                        <ul>
-                            <li>Unit Overall Proficiency Award: Distinction</li>
-                        </ul>
-                     </li>
-                     <li><b>2019</b>
-                        <ul>
-                             <li>Unit Overall Proficiency Award: Distinction</li>
-                        </ul>
-                    </li>
-                    <li><b>2018</b>
-                        <ul>
-                            <li>Unit Overall Proficiency Award: Distinction</li>
-                        </ul>
-                    </li>
-                </ul>
+             <table class="yck-table">
+        <thead>
+            <tr>
+                <th class="yck-th">
+                    <h4 class="yck-h5">YEAR</h4>
+                </th>
+                <th class="yck-th">
+                    <h4 class="yck-h5">EVENTS, COMPETITIONS AND MOMENTS</h4>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+							<td class="yck-td"><strong>2024</strong></td>
+                <td class="yck-td">
+                    <p>SPF-NPCC Badge Recipients: Staff Seargeant Aden Bin Azam &amp; Staff Seargeant Tay Yu Qi Natalie</p>
+                    <p>Inter-Unit .22 Revolver Shooting Competition (Individual Category - Boys): Louis Wong National 6th Placing</p>
+                </td>
+            </tr>
+            <tr>
+                <td class="yck-td">2023</td>
+                <td class="yck-td">
+                    <p>Unit Overall Proficiency Award: DISTINCTION</p>
+                    <p>SPF-NPCC Badge Recipients: Staff Seargeant Liew Tze Wan &amp; Staff Sergeant Xiong Shiqi</p>
+                </td>
+            </tr>
+            <tr>
+                <td class="yck-td">2022</td>
+                <td class="yck-td">
+                    <p>Unit Overall Proficiency Award: DISTINCTION</p>
+                    <p>SPF-NPCC Badge Recipients: Staff Seargeant Lim Boon Yu &amp; Staff Sergeant Nur Rashiqa Binte Muhammad Risman</p>
+                </td>
+            </tr>
+            <tr>
+                <td class="yck-td">2021</td>
+                <td class="yck-td">
+                    <p>Unit Overall Proficiency Award: Distinction</p>
+                </td>
+            </tr>
+            <tr>
+                <td class="yck-td">2020</td>
+                <td class="yck-td">
+                    <p>Unit Overall Proficiency Award: Distinction</p>
+                </td>
+            </tr>
+            <tr>
+                <td class="yck-td">2019</td>
+                <td class="yck-td">
+                    <p>Unit Overall Proficiency Award: Distinction</p>
+                </td>
+            </tr>
+            <tr>
+                <td class="yck-td">2018</td>
+                <td class="yck-td">
+                    <p>Unit Overall Proficiency Award: Distinction</p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
          </div>
      </details>
 	<details class="yck-details">
@@ -316,8 +331,8 @@ variant: markdown
 .yck-component .yck-table {
     border-collapse: collapse;
     max-width: 100%;
-    margin-top: 1.5em;
-    margin-bottom: clamp(1em, 5%, 3em);
+    margin-top: 1.6em;
+    margin-bottom: var(--yck-spacing-unit);
     font-size: var(--yck-step-0);
 }
 
@@ -339,7 +354,18 @@ variant: markdown
     max-width: 300px;
     word-wrap: break-word;
     line-height: 1.6rem;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+  }
+
+.yck-component .yck-table tbody .yck-td p {
+    margin-block: 0;
+    padding-bottom: 0.5em;
 }
+    
+ .yck-component .yck-table tbody .yck-td p:last-child {
+     padding-bottom: 1.5em;
+ }
 	
 .yck-component .yck-details__content,
 .yck-component .yck-details__content ol,
