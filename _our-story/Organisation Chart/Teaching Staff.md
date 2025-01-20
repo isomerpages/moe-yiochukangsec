@@ -82,6 +82,7 @@ variant: markdown
 </ul>
 </div>
 
+
 <style>
 :root {
     --yck-color-text-light: #888;
@@ -105,7 +106,7 @@ variant: markdown
     --yck-step-5: clamp(2.7994rem, 2.5789rem + 1.1024vw, 3.4332rem);
 }
 
-body,
+
 .yck-component {
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
@@ -223,7 +224,8 @@ body,
     align-items: center;
     padding: 10px;
     cursor: pointer;
-	 font-size: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem);
+	 font-size: var(--yck-step-1);
+	text-transform: uppercase;
   }
 	
 .yck-component .jekyllcodex_accordion label::before {
@@ -258,7 +260,6 @@ body,
   }
 	
 	.jekyllcodex_accordion li {
-    margin-bottom: 10px;
     list-style: none;
 }
 
@@ -270,9 +271,9 @@ body,
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px;
     cursor: pointer;
-    font-size: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem);
+    font-size: var(--yck-step-1);
+	 text-transform: 
 }
 
 .jekyllcodex_accordion label::before {
