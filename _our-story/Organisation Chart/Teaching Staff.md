@@ -83,8 +83,6 @@ variant: markdown
 </div>
 
 <style>
-
-/*! minireset.css v0.0.6 | MIT License | github.com/jgthms/minireset.css */html,body,p,ol,ul,li,dl,dt,dd,blockquote,figure,fieldset,legend,textarea,pre,iframe,hr,h1,h2,h3,h4,h5,h6{margin:0;padding:0}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}ul{list-style:none}button,input,select{margin:0}html{box-sizing:border-box}*,*::before,*::after{box-sizing:inherit}img,video{height:auto;max-width:100%}iframe{border:0}table{border-collapse:collapse;border-spacing:0}td,th{padding:0}
 	
 .yck-component .jekyllcodex_accordion li {
     margin-bottom: 10px;
@@ -134,5 +132,54 @@ variant: markdown
     max-width: 100%;
     height: auto;
   }
+	
+	.jekyllcodex_accordion li {
+    margin-bottom: 10px;
+    list-style: none;
+}
+
+.jekyllcodex_accordion input[type="checkbox"] {
+    display: none;
+}
+
+.jekyllcodex_accordion label {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    cursor: pointer;
+    font-size: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem);
+}
+
+.jekyllcodex_accordion label::before {
+    content: none;
+}
+
+.jekyllcodex_accordion label::after {
+    content: '+';
+    transition: transform 0.3s ease;
+}
+
+.jekyllcodex_accordion input[type="checkbox"]:checked+label::after {
+    transform: rotate(45deg);
+}
+
+.jekyllcodex_accordion div {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out, opacity 0.3s ease-out;
+    opacity: 0;
+}
+
+.jekyllcodex_accordion input[type="checkbox"]:checked+label+div {
+    max-height: 1000px;
+    opacity: 1;
+    transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+}
+
+.jekyllcodex_accordion img {
+    max-width: 100%;
+    height: auto;
+}
 	
 </style>
