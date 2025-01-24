@@ -13,7 +13,7 @@ variant: markdown
 <h2>Heading 2</h2>
 	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue. Some text here which I think is way too far away from the main header although the text do look good. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue.</p> 
 	
-<h3>Heading</h3>
+<h3>Heading 3</h3>
 	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue. Some text here which I think is way too far away from the main header although the text do look good. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue.</p> 
 	
 <h4>Heading 4</h4>
@@ -63,8 +63,21 @@ variant: markdown
   <div class="accordion-title h5"><span>Heading 5 in Accordion Title</span></div>
   <div class="accordion-content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue. Some text here which I think is way too far away from the main header although the text do look good. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue.</p> </div> 
   <input class="accordion-select" name="select" type="radio">
-  <div class="accordion-title"><span>Title</span></div>
-  <div class="accordion-content">Content</div> 
+  <div class="accordion-title"><span>Using yck-flexbox-grid ...</span></div>
+  <div class="accordion-content">
+	<ul class="yck-flexbox-grid">
+		<li>
+	<h4>Heading 4</h4>
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue. Some text here which I think is way too far away from the main header although the text do look good. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue.</p> 	
+		</li>
+	<li>
+		<h4>Level 4 Heading</h4>
+		<p>Maecenas at nunc in libero feugiat tincidunt sed vitae urna. Nulla non quam diam. Praesentgravida maximus placerat. Donec sodales turpis ac laoreet imperdiet.</p>
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue.</p>
+</li>
+</ul>
+
+</div> 
   <input class="accordion-select" name="select" type="radio">
   <div class="accordion-title yck-h4"><span>Table as Content using H4 Headers ...</span></div>
   <div class="accordion-content">
