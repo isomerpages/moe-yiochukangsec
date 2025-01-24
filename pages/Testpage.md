@@ -58,6 +58,38 @@ variant: markdown
     </table>
 </div>
 
+<div class="accordion">
+  <input checked="" class="accordion-select" name="select" type="radio">
+  <div class="accordion-title h5"><span>Heading 5 in Accordion Title</span></div>
+  <div class="accordion-content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue. Some text here which I think is way too far away from the main header although the text do look good. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue.</p> </div> 
+  <input class="accordion-select" name="select" type="radio">
+  <div class="accordion-title"><span>Title</span></div>
+  <div class="accordion-content">Content</div> 
+  <input class="accordion-select" name="select" type="radio">
+  <div class="accordion-title yck-h4"><span>Table as Content using H4 Headers ...</span></div>
+  <div class="accordion-content">
+	<table class="yck-table">
+        <thead>
+            <tr>
+                <th class="yck-th">TRAINING INFORMATION</th>
+                <th class="yck-th"></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="yck-td">Day and Time</td>
+                <td class="yck-td">Every Tuesday and Thursday<br> 3:00PM to 5:30PM</td>
+            </tr>
+            <tr>
+                <td class="yck-td">Location</td>
+                <td class="yck-td">Music Room, Level 1</td>
+            </tr>
+		</tbody>
+		</table>
+	</div> 
+</div> 
+
+
 <style>
 	:root {
     --yck-color-text-light: #888;
@@ -86,7 +118,7 @@ variant: markdown
     --yck-space-s-l: clamp(1.125rem, 0.7337rem + 1.9565vw, 2.25rem);
 }
 
-body,
+
 .yck-component {
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
@@ -467,6 +499,121 @@ body,
 	
 }
 	
+ .accordion {
+  box-sizing: border-box;
+  display: flex;
+  overflow: hidden;
+  width: 100%;
+}
+
+.accordion-select {
+  cursor: pointer;
+  margin: 0;
+  opacity: 0;
+  z-index: 1;
+}
+
+.accordion-title {
+  position: relative;
+}
+
+.accordion-title:not(:nth-last-child(2))::after {
+  border: 1px solid transparent;
+  bottom: 0;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.accordion-title span {
+  bottom: 0px;
+  box-sizing: border-box;
+  display: block;
+  position: absolute;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.accordion-content {
+  box-sizing: border-box;
+  overflow: auto;
+  position: relative;
+  transition: margin 0.3s ease 0.1s;
+}
+
+.accordion-select:checked + .accordion-title + .accordion-content {
+  margin-bottom: 0;
+  margin-right: 0;
+}
+
+/* Generated styles starts here */ 
+
+ .accordion {
+    border-color: #dedede;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+    flex-direction: column;
+    height: auto;
+	box-shadow:
+  0.6px 0.7px 1.2px rgba(0, 0, 0, 0.015),
+  1.3px 1.5px 2.7px rgba(0, 0, 0, 0.022),
+  2.1px 2.5px 4.6px rgba(0, 0, 0, 0.027),
+  3.2px 3.7px 6.9px rgba(0, 0, 0, 0.031),
+  4.6px 5.4px 10px rgba(0, 0, 0, 0.035),
+  6.6px 7.6px 14.2px rgba(0, 0, 0, 0.039),
+  9.3px 10.8px 20.1px rgba(0, 0, 0, 0.043),
+  13.5px 15.7px 29.2px rgba(0, 0, 0, 0.048),
+  20.8px 24.2px 45px rgba(0, 0, 0, 0.055),
+  37px 43px 80px rgba(0, 0, 0, 0.07)
+;
+} 
+
+ .accordion-title,
+.accordion-select  {
+    background-color: #ddd;
+    color: #444;
+    width: 100%;
+    height:  2.5em;
+    font-size: var(--yck-step-2);
+}
+
+.accordion-select {
+    margin-bottom: -2.5em;
+    margin-right: -55px;
+}
+
+.accordion-title:not(:nth-last-child(2))::after {
+    border-bottom-color: #eaeaea;
+    border-right-color: transparent;
+} 
+
+ .accordion-select:hover + .accordion-title,
+.accordion-select:checked + .accordion-title {
+    background-color: #eee;
+} 
+
+ .accordion-title span  {	
+    transform: rotate(0deg);
+    -ms-writing-mode: lr-tb;
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=0);
+    padding-left: 28px;
+    padding-right: 28px;
+    line-height: 2.5em;
+} 
+
+ .accordion-content {
+    background-color: #fff;
+    color: #888;
+    height: 400px;
+    margin-bottom: -400px;
+    margin-right: 0;
+    padding: 30px;
+    width: 100%;
+	font-size: var(--yck-step-0);
+} 
 	
 	
 	
