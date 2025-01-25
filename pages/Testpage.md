@@ -620,8 +620,8 @@ variant: markdown
  .accordion-content {
     background-color: #fff;
     color: #888;
-    height: 400px;
-    margin-bottom: -400px;
+    height: 50vh;
+    margin-bottom: -50vh;
     margin-right: 0;
     padding: 30px;
     width: 100%;
