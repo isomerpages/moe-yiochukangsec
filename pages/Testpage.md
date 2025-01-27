@@ -570,22 +570,22 @@ variant: markdown
 
 .accordion-content {
   box-sizing: border-box;
-	font-size: var(--yck-step-0);
-  overflow: auto;
+  overflow: hidden;
   position: relative;
-  transition: margin 0.5s ease 0.3s;
+  transition: max-height 0.3s ease 0.1s, padding 0.3s ease 0.1s; /* Add transition for smooth effect */
   background-color: #fff;
   color: #888;
-  padding: 30px;
+  padding: 0 30px; /* Start with no padding */
+  max-height: 0; /* Collapse content initially */
   width: 100%;
-  margin-bottom: 0; /* No negative margins */
-  max-height: none; /* Remove height restrictions */
-  display: none; /* Initially hide content */
+	font-size: var(--yck-step-0);
 }
 
 .accordion-select:checked + .accordion-title + .accordion-content {
-  display: block; /* Display content when checked */
+  max-height: 1000px; /* Large enough to fit most content */
+  padding: 30px; /* Restore padding */
 }
+
 	
 .yck-component .accordion-content .yck-flexbox-grid {
     --yck-min: 22ch;
