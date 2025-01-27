@@ -58,6 +58,8 @@ variant: markdown
     </table>
 </div>
 
+<hr>
+<div class="yck-component">
 <div class="accordion">
   <input checked="" class="accordion-select" name="select" type="radio">
   <div class="accordion-title h5"><span>Heading 5 in Accordion Title</span></div>
@@ -101,7 +103,7 @@ variant: markdown
 		</table>
 	</div> 
 </div> 
-
+</div>
 
 <style>
 	:root {
