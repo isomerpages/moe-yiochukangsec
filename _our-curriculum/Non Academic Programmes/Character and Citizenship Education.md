@@ -360,6 +360,8 @@ lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
+<p>Please click <a href="/files/Sexuality Education (SEd)/2025_Info_on_SEd_for_YCKSS_website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+view the 2025 YCKSS Sexuality Education Programme.</p>
 <p><strong>&nbsp;<em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme developed
 by Health Promotion Board, in collaboration with the Ministry of Education,
