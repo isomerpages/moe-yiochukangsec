@@ -499,11 +499,18 @@ variant: markdown
 	
 }
 	
- .accordion {
+/* Base styles for accordion */
+.accordion {
   box-sizing: border-box;
   display: flex;
   overflow: hidden;
   width: 100%;
+  border-color: #dedede;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 1px;
+  flex-direction: column;
+  height: auto;
 }
 
 .accordion-select {
@@ -511,10 +518,22 @@ variant: markdown
   margin: 0;
   opacity: 0;
   z-index: 1;
+  background-color: #ddd;
+  color: #444;
+  width: 100%;
+  height: 55px;
+  font-size: var(--yck-step-2);
+  margin-bottom: -55px;
+  margin-right: -55px;
 }
 
 .accordion-title {
   position: relative;
+  background-color: #ddd;
+  color: #444;
+  width: 100%;
+  height: 55px;
+  font-size: var(--yck-step-2);
 }
 
 .accordion-title:not(:nth-last-child(2))::after {
@@ -525,6 +544,13 @@ variant: markdown
   position: absolute;
   right: 0;
   top: 0;
+  border-bottom-color: #eaeaea;
+  border-right-color: transparent;
+}
+
+.accordion-select:hover + .accordion-title,
+.accordion-select:checked + .accordion-title {
+  background-color: #eee;
 }
 
 .accordion-title span {
@@ -534,86 +560,32 @@ variant: markdown
   position: absolute;
   white-space: nowrap;
   width: 100%;
+  transform: rotate(0deg);
+  -ms-writing-mode: lr-tb;
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=0);
+  padding-left: 28px;
+  padding-right: 28px;
+  line-height: 55px;
 }
 
 .accordion-content {
   box-sizing: border-box;
+	font-size: var(--yck-step-0);
   overflow: auto;
   position: relative;
-  transition: margin 0.3s ease 0.1s;
+  transition: margin 0.5s ease 0.3s;
+  background-color: #fff;
+  color: #888;
+  padding: 30px;
+  width: 100%;
+  margin-bottom: 0; /* No negative margins */
+  max-height: none; /* Remove height restrictions */
+  display: none; /* Initially hide content */
 }
 
 .accordion-select:checked + .accordion-title + .accordion-content {
-  margin-bottom: 0;
-  margin-right: 0;
+  display: block; /* Display content when checked */
 }
-
-/* Generated styles starts here */ 
-
- .accordion {
-    border-color: #dedede;
-    border-radius: 10px;
-    border-style: solid;
-    border-width: 1px;
-    flex-direction: column;
-    height: auto;
-	box-shadow:
-  0.6px 0.7px 1.2px rgba(0, 0, 0, 0.015),
-  1.3px 1.5px 2.7px rgba(0, 0, 0, 0.022),
-  2.1px 2.5px 4.6px rgba(0, 0, 0, 0.027),
-  3.2px 3.7px 6.9px rgba(0, 0, 0, 0.031),
-  4.6px 5.4px 10px rgba(0, 0, 0, 0.035),
-  6.6px 7.6px 14.2px rgba(0, 0, 0, 0.039),
-  9.3px 10.8px 20.1px rgba(0, 0, 0, 0.043),
-  13.5px 15.7px 29.2px rgba(0, 0, 0, 0.048),
-  20.8px 24.2px 45px rgba(0, 0, 0, 0.055),
-  37px 43px 80px rgba(0, 0, 0, 0.07)
-;
-} 
-
- .accordion-title,
-.accordion-select  {
-    background-color: #ddd;
-    color: #444;
-    width: 100%;
-    height:  2.5em;
-    font-size: var(--yck-step-2);
-}
-
-.accordion-select {
-    margin-bottom: -2.5em;
-    margin-right: -55px;
-}
-
-.accordion-title:not(:nth-last-child(2))::after {
-    border-bottom-color: #eaeaea;
-    border-right-color: transparent;
-} 
-
- .accordion-select:hover + .accordion-title,
-.accordion-select:checked + .accordion-title {
-    background-color: #eee;
-} 
-
- .accordion-title span  {	
-    transform: rotate(0deg);
-    -ms-writing-mode: lr-tb;
-    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=0);
-    padding-left: 28px;
-    padding-right: 28px;
-    line-height: 2.5em;
-} 
-
- .accordion-content {
-    background-color: #fff;
-    color: #888;
-    height: 50vh;
-    margin-bottom: -50vh;
-    margin-right: 0;
-    padding: 30px;
-    width: 100%;
-	font-size: var(--yck-step-0);
-} 
 	
 .yck-component .accordion-content .yck-flexbox-grid {
     --yck-min: 22ch;
