@@ -13,7 +13,7 @@ variant: markdown
 <h2>Heading 2</h2>
 	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue. Some text here which I think is way too far away from the main header although the text do look good. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue.</p> 
 	
-<h3>Heading</h3>
+<h3>Heading 3</h3>
 	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue. Some text here which I think is way too far away from the main header although the text do look good. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue.</p> 
 	
 <h4>Heading 4</h4>
@@ -58,6 +58,51 @@ variant: markdown
     </table>
 </div>
 
+<div class="accordion">
+  <input checked="" class="accordion-select" name="select" type="radio">
+  <div class="accordion-title h5"><span>Heading 5 in Accordion Title</span></div>
+  <div class="accordion-content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue. Some text here which I think is way too far away from the main header although the text do look good. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue.</p> </div> 
+  <input class="accordion-select" name="select" type="radio">
+  <div class="accordion-title"><span>Using yck-flexbox-grid ...</span></div>
+  <div class="accordion-content">
+	<ul class="yck-flexbox-grid">
+		<li>
+	<h4>Heading 4</h4>
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue. Some text here which I think is way too far away from the main header although the text do look good. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue.</p> 	
+		</li>
+	<li>
+		<h4>Level 4 Heading</h4>
+		<p>Maecenas at nunc in libero feugiat tincidunt sed vitae urna. Nulla non quam diam. Praesentgravida maximus placerat. Donec sodales turpis ac laoreet imperdiet.</p>
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue.</p>
+</li>
+</ul>
+
+</div> 
+  <input class="accordion-select" name="select" type="radio">
+  <div class="accordion-title yck-h4"><span>Table as Content using H4 Headers ...</span></div>
+  <div class="accordion-content">
+	<table class="yck-table">
+        <thead>
+            <tr>
+                <th class="yck-th">TRAINING INFORMATION</th>
+                <th class="yck-th"></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="yck-td">Day and Time</td>
+                <td class="yck-td">Every Tuesday and Thursday<br> 3:00PM to 5:30PM</td>
+            </tr>
+            <tr>
+                <td class="yck-td">Location</td>
+                <td class="yck-td">Music Room, Level 1</td>
+            </tr>
+		</tbody>
+		</table>
+	</div> 
+</div> 
+
+
 <style>
 	:root {
     --yck-color-text-light: #888;
@@ -86,7 +131,7 @@ variant: markdown
     --yck-space-s-l: clamp(1.125rem, 0.7337rem + 1.9565vw, 2.25rem);
 }
 
-body,
+
 .yck-component {
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
@@ -394,19 +439,6 @@ body,
     }
 }
 
-.yck-component .yck-flexbox-grid {
-    --yck-min: 22ch;
-    --yck-gap: 1.5em;
-    display: flex;
-    flex-wrap: wrap;
-    list-style: none;
-    gap: var(--yck-gap);
-}
-
-.yck-component .yck-flexbox-grid>* {
-    flex: 1 1 var(--yck-min);
-    list-style: none;
-}
 
 .yck-component .yck-gallery-container {
     display: flex;
@@ -467,7 +499,107 @@ body,
 	
 }
 	
+/* Base styles for accordion */
+.accordion {
+  box-sizing: border-box;
+  display: flex;
+  overflow: hidden;
+  width: 100%;
+  border-color: #dedede;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 1px;
+  flex-direction: column;
+  height: auto;
+}
+
+.accordion-select {
+  cursor: pointer;
+  margin: 0;
+  opacity: 0;
+  z-index: 1;
+  background-color: #ddd;
+  color: #444;
+  width: 100%;
+  height: 55px;
+  font-size: var(--yck-step-2);
+  margin-bottom: -55px;
+  margin-right: -55px;
+}
+
+.accordion-title {
+  position: relative;
+  background-color: #ddd;
+  color: #444;
+  width: 100%;
+  height: 55px;
+  font-size: var(--yck-step-2);
+}
+
+.accordion-title:not(:nth-last-child(2))::after {
+  border: 1px solid transparent;
+  bottom: 0;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  border-bottom-color: #eaeaea;
+  border-right-color: transparent;
+}
+
+.accordion-select:hover + .accordion-title,
+.accordion-select:checked + .accordion-title {
+  background-color: #eee;
+}
+
+.accordion-title span {
+  bottom: 0px;
+  box-sizing: border-box;
+  display: block;
+  position: absolute;
+  white-space: nowrap;
+  width: 100%;
+  transform: rotate(0deg);
+  -ms-writing-mode: lr-tb;
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=0);
+  padding-left: 28px;
+  padding-right: 28px;
+  line-height: 55px;
+}
+
+.accordion-content {
+  box-sizing: border-box;
+	font-size: var(--yck-step-0);
+  overflow: auto;
+  position: relative;
+  transition: margin 0.5s ease 0.3s;
+  background-color: #fff;
+  color: #888;
+  padding: 30px;
+  width: 100%;
+  margin-bottom: 0; /* No negative margins */
+  max-height: none; /* Remove height restrictions */
+  display: none; /* Initially hide content */
+}
+
+.accordion-select:checked + .accordion-title + .accordion-content {
+  display: block; /* Display content when checked */
+}
 	
+.yck-component .accordion-content .yck-flexbox-grid {
+    --yck-min: 22ch;
+    --yck-gap: 1.5em;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: var(--yck-gap);
+}
+
+.yck-component .accordion-content .yck-flexbox-grid > * {
+    flex: 1 1 var(--yck-min);
+    list-style: none;
+}
 	
 	
 </style>
