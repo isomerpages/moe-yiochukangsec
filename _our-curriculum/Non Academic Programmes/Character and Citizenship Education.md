@@ -288,7 +288,7 @@ International Students Integration Programme group.
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
 <h4><strong>Sexuality Education (SEd)</strong></h4>
-<p><strong>Moe Sexuality Education in Schools</strong>
+<p><strong>MOE Sexuality Education in Schools</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
 aims to enable students to understand the physiological, social and emotional
