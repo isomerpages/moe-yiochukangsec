@@ -586,6 +586,27 @@ variant: markdown
   padding: 30px; /* Restore padding */
 }
 
+	/* Custom styles for second accordion content */
+.accordion-content ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 2 columns */
+  gap: 20px;
+}
+
+.accordion-content ul li h4 {
+  margin: 0;
+  font-weight: bold;
+  text-align: left;
+}
+
+@media (max-width: 480px) {
+  .accordion-content ul {
+    grid-template-columns: 1fr; /* Single column for small screens */
+  }
+}
 	
 .yck-component .accordion-content .yck-flexbox-grid {
     --yck-min: 22ch;
