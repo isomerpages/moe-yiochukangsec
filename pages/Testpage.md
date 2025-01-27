@@ -58,6 +58,8 @@ variant: markdown
     </table>
 </div>
 
+<hr>
+<div class="yck-component">
 <div class="accordion">
   <input checked="" class="accordion-select" name="select" type="radio">
   <div class="accordion-title h5"><span>Heading 5 in Accordion Title</span></div>
@@ -101,7 +103,7 @@ variant: markdown
 		</table>
 	</div> 
 </div> 
-
+</div>
 
 <style>
 	:root {
@@ -570,21 +572,42 @@ variant: markdown
 
 .accordion-content {
   box-sizing: border-box;
-	font-size: var(--yck-step-0);
-  overflow: auto;
+  overflow: hidden;
   position: relative;
-  transition: margin 0.5s ease 0.3s;
+  transition: max-height 0.3s ease 0.1s, padding 0.3s ease 0.1s; /* Add transition for smooth effect */
   background-color: #fff;
   color: #888;
-  padding: 30px;
+  padding: 0 30px; /* Start with no padding */
+  max-height: 0; /* Collapse content initially */
   width: 100%;
-  margin-bottom: 0; /* No negative margins */
-  max-height: none; /* Remove height restrictions */
-  display: none; /* Initially hide content */
+	font-size: var(--yck-step-0);
 }
 
 .accordion-select:checked + .accordion-title + .accordion-content {
-  display: block; /* Display content when checked */
+  max-height: 1000px; /* Large enough to fit most content */
+  padding: 30px; /* Restore padding */
+}
+
+	/* Custom styles for second accordion content */
+.accordion-content ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 2 columns */
+  gap: 20px;
+}
+
+.accordion-content ul li h4 {
+  margin: 0;
+  font-weight: bold;
+  text-align: left;
+}
+
+@media (max-width: 480px) {
+  .accordion-content ul {
+    grid-template-columns: 1fr; /* Single column for small screens */
+  }
 }
 	
 .yck-component .accordion-content .yck-flexbox-grid {

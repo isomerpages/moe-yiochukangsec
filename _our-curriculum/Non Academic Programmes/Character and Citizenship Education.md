@@ -404,8 +404,7 @@ are the key messages.</p>
 <p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raise awareness and provide knowledge
-on:</p>
+<p>Raise awareness and provide knowledge on:</p>
 <p>a)&nbsp;&nbsp;&nbsp; Infectious diseases (STIs and HIV): what it is, how
 it spreads, how to prevent infection mainly through ABC (abstinence, being
 faithful, correct, and consistent condom use).</p>
@@ -421,9 +420,8 @@ healthy way.</p>
 <p>Classroom-based Lesson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn to negotiate their way out
-of a risky situation by applying skills of assertiveness and responsible
-decision-making</p>
+<p>Learn to negotiate their way out of a risky situation by applying skills
+of assertiveness and responsible decision-making</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -440,12 +438,12 @@ education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong>Sexuality Education lessons</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also downloadable <a href="https://go.gov.sg_yckss-sed-2025" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed form is
+of the year and is also downloadable <a href="https://go.gov.sg/yckss-sed-2025" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed form is
 to be submitted by 07/02/2025.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
-the year and is also downloadable <a href="https://go.gov.sg_yckss-eteens-2025" rel="noopener noreferrer nofollow" target="_blank">here</a>. &nbsp;The completed
+the year and is also downloadable <a href="https://go.gov.sg/yckss-eteens-2025" rel="noopener noreferrer nofollow" target="_blank">here</a>. &nbsp;The completed
 form is to be submitted by 07/02/2025.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 64560669
 or email the school,&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">yckss@moe.edu.sg</a>&nbsp;for
