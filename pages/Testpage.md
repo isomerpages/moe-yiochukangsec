@@ -66,7 +66,9 @@ variant: markdown
 	<li>
 		<h4>Level 4 Heading</h4>
 		<p>Maecenas at nunc in libero feugiat tincidunt sed vitae urna. Nulla non quam diam. Praesentgravida maximus placerat. Donec sodales turpis ac laoreet imperdiet.</p>
-	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue.</p>
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue.</p></li>
+<li>		<h4>Some other Header</h4>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue. Some text here which I think is way too far away from the main header although the text do look good. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue.</p>
 </li>
 </ul>
 
@@ -74,7 +76,18 @@ variant: markdown
   <input class="accordion-select" name="select" type="radio">
   <div class="accordion-title yck-h4"><span>Table as Content using H4 Headers ...</span></div>
   <div class="accordion-content">
-	<table class="yck-table">
+	<ul class="yck-flexbox-grid">
+		<li>
+	<h4>Heading 4</h4>
+	<p>Some text here which I think is way too far away from the main header although the text do look good.</p> <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+		</li>
+	<li>
+		<h4>Level 4 Heading</h4>
+		<p>Maecenas at nunc in libero feugiat tincidunt sed vitae urna. Nulla non quam diam. Praesentgravida maximus placerat. Donec sodales turpis ac laoreet imperdiet.</p>
+</li>
+</ul>
+
+<table class="yck-table">
         <thead>
             <tr>
                 <th class="yck-th">TRAINING INFORMATION</th>
@@ -242,7 +255,7 @@ variant: markdown
     left: 0;
 }
 
-..yck-component .yck-table {
+.yck-component .yck-table {
     border-collapse: collapse;
     max-width: 100%;
     margin-top: 1.6em;
@@ -272,176 +285,16 @@ variant: markdown
     padding-bottom: 0.5em;
   }
 
-.yck-component .yck-table tbody p {
+.yck-component .yck-table tbody .yck-td p {
     margin-block: 0;
     padding-bottom: 0.5em;
 }
     
- .yck-component .yck-table tbody p:last-child {
+ .yck-component .yck-table tbody .yck-td p:last-child {
      padding-bottom: 1.5em;
  }
 
-.yck-component .yck-blockquote {
-    margin: 1.5em 0;
-    padding: 1.5em 2em;
-    border-left: 4px solid var(--yck-color-border);
-    font-style: italic;
-    background-color: #f9f9f9;
-    position: relative;
-    border-radius: 8px;
-    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
-    font-size: var(--yck-step-0);
-}
 
-.yck-component .yck-blockquote::before {
-    content: open-quote;
-    font-size: 2em;
-    position: absolute;
-    top: 0.25em;
-    left: 0.25em;
-    color: var(--yck-color-text-light);
-}
-
-.yck-component .yck-blockquote p {
-    margin-bottom: var(--yck-space-m);
-    line-height: 1.35em;
-    color: #555;
-    font-size: var(--yck-step-0);
-}
-
-.yck-component .yck-blockquote p:last-child {
-    margin-bottom: 0;
-}
-
-.yck-component .yck-blockquote cite {
-    display: block;
-    text-align: right;
-    margin-top: 1em;
-    font-style: normal;
-    color: #555;
-    font-size: var(--yck-step--1);
-}
-
-.yck-component .yck-blockquote cite::before {
-    content: '\2014 \0020';
-}
-
-.yck-component .yck-details__content,
-.yck-component .yck-details__content ol,
-.yck-component .yck-details__content ol li,
-.yck-component .yck-details__content ul,
-.yck-component .yck-details__content ul li {
-    padding: 0;
-    margin: 0;
-}
-
-.yck-component .yck-strong {
-    font-weight: 600;
-}
-
-.yck-component .yck-details {
-    border-top: 1px solid rgba(0, 0, 0, 0.15);
-    margin-top: var(--yck-space-m);
-    overflow: hidden;
-    transition: border-color 0.7s;
-}
-
-.yck-component .yck-details:hover {
-    border-color: #555;
-}
-
-.yck-component .yck-details__summary {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    cursor: pointer;
-    margin-top: var(--yck-space-m);
-    padding-bottom: var(--yck-space-l);
-    text-transform: uppercase;
-    font-size: var(--yck-step-2);
-}
-
-.yck-component .yck-details__summary::after {
-    content: '+';
-    font-size: var(--yck-step-2);
-    color: #999;
-    transition: transform 0.5s ease-in-out;
-    margin-right: 1rem;
-}
-
-.yck-component .yck-details[open] .yck-details__summary::after {
-    transform: rotate(-45deg);
-}
-
-.yck-component .yck-details__content {
-    max-height: auto;
-    margin-bottom: var(--yck-space-m);
-    opacity: 0;
-    overflow: hidden;
-    padding: 0;
-    animation: yckFadeOutSlideUp 0.5s ease forwards;
-}
-
-.yck-component .yck-details[open] .yck-details__content {
-    animation: yckFadeInSlideDown 0.5s ease forwards;
-}
-
-.yck-component .yck-details__content ul.yck-events-list {
-    list-style: none;
-    padding-left: 0;
-    margin-left: 0;
-}
-
-.yck-component .yck-details__content ul.yck-events-list>li {
-    margin-bottom: 0.75em;
-    /* Add space below each year */
-}
-
-.yck-component .yck-details__content ul.yck-events-list>li>ul {
-    list-style: none;
-    /* Remove bullets from nested lists */
-    padding-left: 1.5em;
-    /* Indent the nested list */
-    margin-top: 0.25em;
-}
-
-.yck-component .yck-details__content ul.yck-events-list>li>ul>li::before {
-    content: "•";
-    /* Use a circle as bullet point */
-    position: absolute;
-    left: 0;
-    margin-left: -0.75em;
-    /* Adjust if necessary */
-}
-
-.yck-component .yck-details__content ul.yck-events-list li>ul>li {
-    position: relative;
-    margin-bottom: 0.5em;
-}
-
-@keyframes yckFadeInSlideDown {
-    0% {
-        max-height: auto;
-        opacity: 0;
-    }
-
-    100% {
-        max-height: auto;
-        opacity: 1;
-    }
-}
-
-@keyframes yckFadeOutSlideUp {
-    0% {
-        max-height: auto;
-        opacity: 1;
-    }
-
-    100% {
-        max-height: auto;
-        opacity: 0;
-    }
-}
 
 
 .yck-component .yck-gallery-container {
@@ -578,7 +431,7 @@ variant: markdown
   position: relative;
   transition: max-height 0.3s ease 0.1s, padding 0.3s ease 0.1s; /* Add transition for smooth effect */
   background-color: #fff;
-  color: #888;
+  color: inherit;
   padding: 0 30px; /* Start with no padding */
   max-height: 0; /* Collapse content initially */
   width: 100%;
