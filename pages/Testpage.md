@@ -439,7 +439,7 @@ variant: markdown
 }
 
 .accordion-select:checked + .accordion-title + .accordion-content {
-  max-height: 100vh; /* Large enough to fit most content */
+  max-height: 1920px; /* Large enough to fit most content */
   padding: 30px; /* Restore padding */
 }
 
