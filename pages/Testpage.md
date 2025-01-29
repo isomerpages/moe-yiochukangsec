@@ -27,12 +27,12 @@ variant: markdown
         </thead>
         <tbody>
             <tr>
-                <td class="yck-td">Day and Time</td>
-                <td class="yck-td">Every Tuesday and Thursday<br> 3:00PM to 5:30PM</td>
+							<td class="yck-td"><p>Day and Time</p></td>
+							<td class="yck-td"><p>Every Tuesday and Thursday<br> 3:00PM to 5:30PM</p></td>
             </tr>
             <tr>
-                <td class="yck-td">Location</td>
-                <td class="yck-td">Music Room, Level 1</td>
+							<td class="yck-td"><p>Location</p></td>
+							<td class="yck-td"><p>Music Room, Level 1</p></td>
             </tr>
             <tr>
                 <th class="yck-th">TEACHERS IN-CHARGE</th>
@@ -40,19 +40,10 @@ variant: markdown
             </tr>
             <tr>
                 <td class="yck-td">OIC</td>
-                <td class="yck-td">Mdm Vijaya (ext 203)</td>
-            </tr>
-            <tr>
-                <td class="yck-td"></td>
-                <td class="yck-td">Mdm Lee Ching Fong (ext 142)</td>
-            </tr>
-            <tr>
-                 <td class="yck-td"></td>
-                <td class="yck-td">Ms Michelle Lim (ext 135)</td>
-            </tr>
-            <tr>
-                 <td class="yck-td"></td>
-                <td class="yck-td">Mr Loke Tuck Luen (ext 131)</td>
+                <td class="yck-td"><p>Mdm Vijaya (ext 203)<br>
+																									Mdm Lee Ching Fong (ext 142)<br>
+																									Ms Michelle Lim (ext 135)<br>
+									Mr Loke Tuck Luen (ext 131)</p></td>
             </tr>
         </tbody>
     </table>
@@ -251,11 +242,11 @@ variant: markdown
     left: 0;
 }
 
-.yck-component .yck-table {
+..yck-component .yck-table {
     border-collapse: collapse;
     max-width: 100%;
     margin-top: 1.6em;
-    margin-bottom: var(--yck-space-l);
+    margin-bottom: var(--yck-spacing-unit);
     font-size: var(--yck-step-0);
 }
 
@@ -277,7 +268,18 @@ variant: markdown
     max-width: 300px;
     word-wrap: break-word;
     line-height: 1.6rem;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+  }
+
+.yck-component .yck-table tbody .yck-td p {
+    margin-block: 0;
+    padding-bottom: 0.5em;
 }
+    
+ .yck-component .yck-table tbody .yck-td p:last-child {
+     padding-bottom: 2em;
+ }
 
 .yck-component .yck-blockquote {
     margin: 1.5em 0;
