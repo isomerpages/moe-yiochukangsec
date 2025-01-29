@@ -278,7 +278,7 @@ variant: markdown
 }
     
  .yck-component .yck-table tbody .yck-td p:last-child {
-     padding-bottom: 2em;
+     padding-bottom: 1.5em;
  }
 
 .yck-component .yck-blockquote {
