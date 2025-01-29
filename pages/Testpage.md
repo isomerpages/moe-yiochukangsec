@@ -28,10 +28,10 @@ variant: markdown
         <tbody>
             <tr>
 							<td class="yck-td"><p>Day and Time</p></td>
-							<td class="yck-td"><p>Every Tuesday and Thursday<br> 3:00PM to 5:30PM</p></td>
+							<td class="yck-td">Every Tuesday and Thursday<br> 3:00PM to 5:30PM</td>
             </tr>
             <tr>
-							<td class="yck-td"><p>Location</p></td>
+							<td class="yck-td">Location</td>
 							<td class="yck-td"><p>Music Room, Level 1</p></td>
             </tr>
             <tr>
@@ -272,12 +272,12 @@ variant: markdown
     padding-bottom: 0.5em;
   }
 
-.yck-component .yck-table tbody .yck-td p {
+.yck-component .yck-table tbody p {
     margin-block: 0;
     padding-bottom: 0.5em;
 }
     
- .yck-component .yck-table tbody .yck-td p:last-child {
+ .yck-component .yck-table tbody p:last-child {
      padding-bottom: 1.5em;
  }
 
