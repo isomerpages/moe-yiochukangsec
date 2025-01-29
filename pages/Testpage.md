@@ -278,7 +278,7 @@ variant: markdown
 
 .yck-component .yck-td {
     border-bottom: 1px solid #ddd;
-    max-width: 300px;
+    max-width: 320px;
     word-wrap: break-word;
     line-height: 1.6rem;
     padding-top: 0.5em;
@@ -439,7 +439,7 @@ variant: markdown
 }
 
 .accordion-select:checked + .accordion-title + .accordion-content {
-  max-height: 1000px; /* Large enough to fit most content */
+  max-height: 100vh; /* Large enough to fit most content */
   padding: 30px; /* Restore padding */
 }
 
