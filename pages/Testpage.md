@@ -467,7 +467,7 @@ variant: markdown
 	
 .yck-component .accordion-content .yck-flexbox-grid {
     --yck-min: 22ch;
-    --yck-gap: 1.5em;
+    --yck-gap: var(--yck-space-s-l);
     display: flex;
     flex-wrap: wrap;
     list-style: none;
