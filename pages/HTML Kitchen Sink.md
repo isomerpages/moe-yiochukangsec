@@ -806,7 +806,7 @@ A leaflet.
       <picture>
         <source srcset="https://www.fillmurray.com/240/300 2x,
                                 https://www.fillmurray.com/120/150 1x">
-        <img alt="Bill Murray" src="https://www.fillmurray.com/120/150">
+        <img alt="Red Cross Youth" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R1.jpg">
       </picture>
     </p>
     <p>
