@@ -7,6 +7,7 @@ description: This page will show what various HTML elements will look like using
 variant: markdown
 image: /images/0cd1870b_103f_4767_8dfd_9abfe6e11817.jpg
 ---
+<div class="yck-coponent">
 <header role="banner">
   <h1>HTML5 Kitchen Sink</h1>
   <small>Jump to: <a href="#headings">Headings</a> |
@@ -339,6 +340,7 @@ image: /images/0cd1870b_103f_4767_8dfd_9abfe6e11817.jpg
     <h4><a href="#forms">#</a> Forms</h4>
     <hr>
     <form>
+			<p>Seems like they really don't want the form fields to be displayed prominently ...</p>
       <p>
         <label for="example-input-email">Email address</label>
         <input id="example-input-email" type="email">
@@ -838,3 +840,9 @@ A leaflet.
     <a href="https://github.com/dbox/html5-kitchen-sink">GitHub</a>.
   </p>
 </footer>
+</div>
+
+<style>
+	
+	
+</style>
