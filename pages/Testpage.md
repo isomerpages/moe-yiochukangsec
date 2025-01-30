@@ -110,7 +110,7 @@ variant: markdown
 </div>
 
 <style>
-	:root {
+:root {
     --yck-color-text-light: #888;
     --yck-color-border: #e0e0e0;
     --yck-text-line-height: 1.6em;
@@ -233,8 +233,8 @@ variant: markdown
 .yck-component ul {
     font-size: var(--yck-step-0);
     margin-bottom: var(--yck-spacing-unit);
+    text-wrap: pretty;
 }
-
 .yck-component ul.yck-custom-list {
     list-style: none;
     padding-left: 0;
