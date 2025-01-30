@@ -7,8 +7,6 @@ description: This page will show what various HTML elements will look like using
 variant: markdown
 image: /images/0cd1870b_103f_4767_8dfd_9abfe6e11817.jpg
 ---
-
-
 <header role="banner">
   <h1>HTML5 Kitchen Sink</h1>
   <small>Jump to: <a href="#headings">Headings</a> |
@@ -331,10 +329,10 @@ image: /images/0cd1870b_103f_4767_8dfd_9abfe6e11817.jpg
     </dl>
     <p><code>figure</code>:</p>
     <figure>
-      <img src="https://www.fillmurray.com/402/295">
+      <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R1.jpg">
       <figcaption>
-        Figure 1: A picture of Bill Murray from
-        <a href="https://www.fillmurray.com/">fillmurray.com</a>
+        Figure 1: A picture the Red Cross Youth
+        <a href="https://www.yiochukangsec.moe.edu.sg/cca/Uniformed-Groups/Red-Cross-Youth/"></a>
       </figcaption>
     </figure>
     <br><br>
