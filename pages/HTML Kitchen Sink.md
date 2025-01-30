@@ -755,11 +755,11 @@ A leaflet.
    </p>
     <p>
       <code>iframe</code>:
-      <iframe src="https://youtu.be/h-oHl2GOpbg"></iframe>
+      <iframe></iframe>
     </p>
     <p>
       <code>img</code>:
-      <img alt="Bill Murray" src="https://www.fillmurray.com/150/150">
+      <img alt="Bill Murray" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R1.jpg">
     </p>
     <p><code>math</code>:</p>
     <math xmlns="http://www.w3.org/1998/Math/MathML">
