@@ -334,32 +334,44 @@ variant: markdown
     margin-bottom: var(--yck-spacing-unit);
     text-wrap: pretty;
 }      
-      .yck-component .yck-table {
-          border-collapse: collapse;
-          max-width: 100%;
-          margin-top: 1.5em;
-          margin-bottom: clamp(1em, 5%, 3em);
-	   font-size: var(--yck-step-0);
-      }
-      
-      .yck-component .yck-th {
-          background-color: #f2f2f2;
-          text-align: left;
-          border-bottom: 1px solid #ddd;
-          text-transform: uppercase;
-      }
-      
-      .yck-component .yck-th h4, .yck-component .yck-th h5, .yck-component .yck-th h6 {
-          margin: 0 0 0.5em 0;
-      }
-      
-      .yck-component .yck-td {
-          border-bottom: 1px solid #ddd;
-          max-width: 300px;
-          word-wrap: break-word;
-          line-height: 1.6rem;
-      }
-      
+.yck-component .yck-table {
+    border-collapse: collapse;
+    max-width: 100%;
+    margin-top: 1.6em;
+    margin-bottom: var(--yck-spacing-unit);
+    font-size: var(--yck-step-0);
+}
+
+.yck-component .yck-th {
+    background-color: #f2f2f2;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    text-transform: uppercase;
+}
+
+.yck-component .yck-th h4,
+.yck-component .yck-th h5,
+.yck-component .yck-th h6 {
+    margin: 0 0 0.5em;
+}
+
+.yck-component .yck-td {
+    border-bottom: 1px solid #ddd;
+    max-width: 300px;
+    word-wrap: break-word;
+    line-height: 1.6rem;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+  }
+
+.yck-component .yck-table tbody .yck-td p {
+    margin-block: 0;
+    padding-bottom: 0.5em;
+}
+    
+ .yck-component .yck-table tbody .yck-td p:last-child {
+     padding-bottom: 1.5em;
+ }      
      .yck-component .yck-blockquote {
       margin: 1.5em 0;
       padding: 1.5em 2em;
