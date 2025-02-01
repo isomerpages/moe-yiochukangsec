@@ -58,7 +58,7 @@ variant: markdown
                 <td class="yck-td">Students apply Science concepts and understand the impact of Science in society. The vertical farming facility taps on sustainable and innovative technology to grow plants/food in a limited space. This relates to the importance of finding innovative solutions to grow food in land-scarce Singapore as observed in the urban farming movement.</td>
             </tr>
             <tr>
-                <td class="yck-td">Science and the environment</td>
+							<td class="yck-td"><p>Science and the environment</p></td>
                 <td class="yck-td">Students understand how energy can be conserved through the application of sustainable technology and the importance of conserving biodiversity.</td>
             </tr>
         </tbody>
