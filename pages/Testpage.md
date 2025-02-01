@@ -93,7 +93,7 @@ variant: markdown
         <li>
             <input type="checkbox" id="accordion1">
             <label for="accordion1">Photo Gallery</label>
-
+<div class="yck-component">
    <div class="yck-gallery-container">
         <div class="yck-iframe-container">
             <iframe src="https://www.youtube.com/embed/nZCKqhtKvpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
@@ -110,7 +110,7 @@ variant: markdown
         </div>
     </div>
 
-        </li>
+        </div></li>
         <li>
             <input type="checkbox" id="accordion2">
             <label for="accordion2">Voices of Science</label>
@@ -127,6 +127,7 @@ variant: markdown
             </div>
         </li>
 	</ul>
+
 
 
 <style>
@@ -298,59 +299,35 @@ variant: markdown
 
 
 
-.yck-component .yck-gallery-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 1em;
-}
+/* Event List Styles */
+    .yck-component .yck-details__content ul.yck-events-list {
+        list-style: none;
+        padding-left: 0;
+        margin-left: 0;
+    }
 
-.yck-component .yck-gallery-container .yck-iframe-container {
-    position: relative;
-    width: 100%;
-    padding-bottom: 56.25%;
-    overflow: hidden;
-}
+    .yck-component .yck-details__content ul.yck-events-list > li {
+        margin-bottom: 0.75em; /* Add space below each year */
+      }
+      
+   .yck-component .yck-details__content ul.yck-events-list > li > ul {
+        list-style: none; /* Remove bullets from nested lists */
+        padding-left: 1.5em; /* Indent the nested list */
+       margin-top: 0.25em;
+    }
+      
+    .yck-component .yck-details__content ul.yck-events-list > li > ul > li::before {
+        content: "•"; /* Use a circle as bullet point */
+        position: absolute;
+        left: 0;
+        margin-left: -0.75em; /* Adjust if necessary */
+    }
 
-.yck-component .yck-gallery-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    margin-bottom: 1em;
-}
+  .yck-component .yck-details__content ul.yck-events-list li > ul > li {
+          position: relative;
+        margin-bottom: 0.5em;
+  }
 
-.yck-component .yck-gallery-container small,
-.yck-component .yck-gallery-container .yck-figcaption {
-    display: block;
-    text-align: center;
-    font-style: italic;
-    margin-top: 0.5em;
-    color: var(--yck-color-text-light);
-}
-
-.yck-component .yck-gallery-container img {
-    display: block;
-    width: 100%;
-    height: auto;
-    border-radius: var(--yck-border-radius);
-    box-shadow: var(--yck-box-shadow);
-    object-fit: cover;
-}
-
-.yck-component .yck-gallery-container .yck-image-row {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 0.5em;
-}
-
-.yck-component .yck-gallery-container .yck-image-row img {
-    flex: 1 1 calc(25% - 0.5em);
-    min-width: calc(50% - 0.5em);
-    object-fit: cover;
-}
 
 .yck-component .yck-gallery-container .yck-image-row img .yck-text-xs,
 .yck-component .yck-gallery-container .yck-image-row img .yck-figcaption	{
