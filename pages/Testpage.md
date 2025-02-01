@@ -89,9 +89,20 @@ variant: markdown
 </div>
     <hr>
 		<div class="yck-component">
+	<ul class="yck-flexbox-grid">
+		<li>
+	<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title yck-h4">HOD Science</div>
+	<div class="isomer-card-description"><p>Ms Alicia Lock [ext 207]</p></div>
+</div>
+</div>
+		</li>
+	</ul>
+</div>
    <p><strong>HOD Science: Ms Alicia Lock [ext 207]</strong></p><br>
    <hr>
-	</div>
+	
 <div class="yck-component">
    <ul>
         <li>
