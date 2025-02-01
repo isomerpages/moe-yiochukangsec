@@ -361,36 +361,6 @@ variant: markdown
     content: '\2014 \0020';
 }
 
-
-/* Event List Styles */
-    .yck-component .yck-details__content ul.yck-events-list {
-        list-style: none;
-        padding-left: 0;
-        margin-left: 0;
-    }
-
-    .yck-component .yck-details__content ul.yck-events-list > li {
-        margin-bottom: 0.75em; /* Add space below each year */
-      }
-      
-   .yck-component .yck-details__content ul.yck-events-list > li > ul {
-        list-style: none; /* Remove bullets from nested lists */
-        padding-left: 1.5em; /* Indent the nested list */
-       margin-top: 0.25em;
-    }
-      
-    .yck-component .yck-details__content ul.yck-events-list > li > ul > li::before {
-        content: "•"; /* Use a circle as bullet point */
-        position: absolute;
-        left: 0;
-        margin-left: -0.75em; /* Adjust if necessary */
-    }
-
-  .yck-component .yck-details__content ul.yck-events-list li > ul > li {
-          position: relative;
-        margin-bottom: 0.5em;
-  }
-
 /* Gallery Container */
 .yck-component .yck-gallery-container {
     display: flex;
@@ -457,6 +427,20 @@ variant: markdown
            min-width: initial;
         }	
 	
+/* Flexbox Grid */
+.yck-component .yck-flexbox-grid {
+    --yck-min: 22ch;
+    --yck-gap: 1.5em;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: var(--yck-gap);
+}
+
+.yck-component .yck-flexbox-grid > * {
+    flex: 1 1 var(--yck-min);
+    list-style: none;
+}	
 	
 /* Base styles for accordion */
 .accordion {
