@@ -65,7 +65,7 @@ variant: markdown
     </table>
 </div>
    <h4><strong>Da Vinci Programme (Secondary 2 – 4)</strong></h4>
-    <p>
+   <p>
         The Da Vinci Programme is a progressive Science Talent Development Programme that complements the Science department’s core curriculum in developing the scientific minds of our students. The objective of the Da Vinci Programme is to enable selected students who demonstrated an attitude and aptitude for scientific research to participate in research projects under the guidance of teacher mentors from different Science disciplines.&nbsp;
     </p>
     <p>
