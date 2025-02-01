@@ -120,10 +120,13 @@ variant: markdown
 <blockquote class="yck-blockquote">                <p>
                     “The entirety of Elementz was filled with fun. I was able to further bond with my classmates as we came up with the hypothesis for the project and executed it. I was glad to be part of my Elementz team and we even brought back a Silver medal! All in all, I felt that Elementz has allowed me to apply the concepts that I learnt in Biology to solve problems, other than the usual class work. Given the chance, I would definitely sign up for a research project again." </p> <cite><strong>Dion Kuoh Zixian, 4E1</strong></cite>
 	<p></p></blockquote>
-                <p>
-                    “The healthcare mentorship programme has been very fruitful and it has inspired me to work in the healthcare industry and contribute to society. I felt it was a once-in-a-lifetime experience for a 15-year-old like me to be part of this extraordinary programme. It has encouraged me to study harder for Biology. I hope future participants can reap as many benefits as I had from the experiences.” <strong>Tan Huey Shin, 4E2</strong>
-                </p>
-            </div>
+   <blockquote class="yck-blockquote">
+    <p>
+       “The healthcare mentorship programme has been very fruitful and it has inspired me to work in the healthcare industry and contribute to society. I felt it was a once-in-a-lifetime experience for a 15-year-old like me to be part of this extraordinary programme. It has encouraged me to study harder for Biology. I hope future participants can reap as many benefits as I had from the experiences.” 
+    </p>
+     <cite><strong>Tan Huey Shin, 4E2</strong></cite>
+  </blockquote>
+</div>
         </li>
 	</ul>
 
