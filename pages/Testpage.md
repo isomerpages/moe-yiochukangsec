@@ -87,7 +87,7 @@ variant: markdown
         This programme aims to help our students better understand the challenges our healthcare workers face in their work, the importance of giving back to the society, and inspire them to possibly seek out a career in the healthcare sector.&nbsp;
     </p>
 </div>
-    <hr>
+<hr>
 <div class="yck-component">
 	<ul class="yck-flexbox-grid">
 		<li>
