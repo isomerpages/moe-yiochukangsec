@@ -87,8 +87,8 @@ variant: markdown
     </p>
     <hr>
    <p><strong>HOD Science: Ms Alicia Lock [ext 207]</strong></p><br>
-    <hr>
-
+   <hr>
+<div class="yck-component">
    <ul>
         <li>
             <input type="checkbox" id="accordion1">
@@ -109,8 +109,8 @@ variant: markdown
             <img class="yck-img" alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Science/S9.png">
         </div>
     </div>
-      </div>
-	</li>
+
+</div></li>
         <li>
             <input type="checkbox" id="accordion2">
             <label for="accordion2">Voices of Science</label>
@@ -129,7 +129,7 @@ variant: markdown
 </div>
         </li>
 	</ul>
-
+</div>
 
 
 <style>
