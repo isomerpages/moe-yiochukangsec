@@ -115,12 +115,11 @@ variant: markdown
             <input type="checkbox" id="accordion2">
             <label for="accordion2">Voices of Science</label>
             <div>
-                <p>
-										 </p><blockquote> “Throughout this journey, I learnt that with hard work and teamwork, the output will be fruitful. I felt that my teammates and I supported each other well. One example was the presentation in front of a panel of judges. My teammates' confidence boosted my morale and helped me deliver my lines effectively. Without their support, I never would have been able to overcome my nervousness.” <strong>Kim Seulkichan, 4E1</strong>
-											 <p></p></blockquote>
-                <p>
-                    “The entirety of Elementz was filled with fun. I was able to further bond with my classmates as we came up with the hypothesis for the project and executed it. I was glad to be part of my Elementz team and we even brought back a Silver medal! All in all, I felt that Elementz has allowed me to apply the concepts that I learnt in Biology to solve problems, other than the usual class work. Given the chance, I would definitely sign up for a research project again." <strong>Dion Kuoh Zixian, 4E1</strong>
-                </p>
+<blockquote class="yck-blockquote"> <p>“Throughout this journey, I learnt that with hard work and teamwork, the output will be fruitful. I felt that my teammates and I supported each other well. One example was the presentation in front of a panel of judges. My teammates' confidence boosted my morale and helped me deliver my lines effectively. Without their support, I never would have been able to overcome my nervousness.” </p><cite><strong>Kim Seulkichan, 4E1</strong></cite>
+</blockquote>
+<blockquote class="yck-blockquote">                <p>
+                    “The entirety of Elementz was filled with fun. I was able to further bond with my classmates as we came up with the hypothesis for the project and executed it. I was glad to be part of my Elementz team and we even brought back a Silver medal! All in all, I felt that Elementz has allowed me to apply the concepts that I learnt in Biology to solve problems, other than the usual class work. Given the chance, I would definitely sign up for a research project again." </p> <cite><strong>Dion Kuoh Zixian, 4E1</strong></cite>
+	<p></p></blockquote>
                 <p>
                     “The healthcare mentorship programme has been very fruitful and it has inspired me to work in the healthcare industry and contribute to society. I felt it was a once-in-a-lifetime experience for a 15-year-old like me to be part of this extraordinary programme. It has encouraged me to study harder for Biology. I hope future participants can reap as many benefits as I had from the experiences.” <strong>Tan Huey Shin, 4E2</strong>
                 </p>
@@ -296,7 +295,51 @@ variant: markdown
      padding-bottom: 1.5em;
  }
 
+/* Blockquote styles */
+.yck-component .yck-blockquote {
+    margin: 1.5em 0;
+    padding: 1.5em 2em;
+    border-left: 4px solid var(--yck-color-border);
+    font-style: italic;
+    background-color: #f9f9f9;
+    position: relative;
+    border-radius: 8px;
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-size: var(--yck-step-0);
+}
 
+.yck-component .yck-blockquote::before {
+    content: open-quote;
+    font-size: 2em;
+    position: absolute;
+    top: 0.25em;
+    left: 0.25em;
+    color: var(--yck-color-text-light);
+}
+
+.yck-component .yck-blockquote p {
+    margin-bottom: var(--yck-space-m);
+    line-height: 1.35em;
+    color: #555;
+    font-size: inherit;
+}
+
+.yck-component .yck-blockquote p:last-child {
+    margin-bottom: 0;
+}
+
+.yck-component .yck-blockquote cite {
+    display: block;
+    text-align: right;
+    margin-top: 1em;
+    font-style: normal;
+    color: #555;
+    font-size: var(--yck-step--1);
+}
+
+.yck-component .yck-blockquote cite::before {
+    content: '\2014 \0020';
+}
 
 
 /* Event List Styles */
@@ -328,11 +371,72 @@ variant: markdown
         margin-bottom: 0.5em;
   }
 
+/* Gallery Container */
+.yck-component .yck-gallery-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1em;
+}
 
+.yck-component .yck-gallery-container .yck-iframe-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    overflow: hidden;
+}
+
+.yck-component .yck-gallery-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin-bottom: 1em;
+}
+
+.yck-component .yck-gallery-container small,
+.yck-component .yck-gallery-container .yck-figcaption {
+    display: block;
+    text-align: center;
+    font-style: italic;
+    margin-top: 0.5em;
+    color: var(--yck-color-text-light);
+}
+
+.yck-component .yck-gallery-container img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius:  var(--yck-border-radius);
+    box-shadow: var(--yck-box-shadow);
+}
+
+.yck-component .yck-gallery-container .yck-image-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 0.5em;
+}
+
+.yck-component .yck-gallery-container .yck-image-row img {
+    flex: 1 1 calc(25% - 0.5em);
+    min-width: calc(50% - 0.5em);
+    object-fit: cover;
+}
+	
 .yck-component .yck-gallery-container .yck-image-row img .yck-text-xs,
 .yck-component .yck-gallery-container .yck-image-row img .yck-figcaption	{
-	
+	  font-size: var(--yck-size-xs);
+	color: var(--yck-color-text-light);
 }
+	
+ @media screen and (min-width: 1240px) {
+        .yck-component .yck-gallery-container .yck-image-row img {
+           flex: 1 1 calc(25% - 0.5em);
+           min-width: initial;
+        }	
+	
 	
 /* Base styles for accordion */
 .accordion {
