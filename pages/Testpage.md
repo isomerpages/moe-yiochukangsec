@@ -5,109 +5,123 @@ description: ""
 variant: markdown
 ---
 <div class="yck-component">
-	<h1>Heading 1</h1>
-	<p>Some text here which I think is way too far away from the main header although the text do look good. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue.</p> 
-	
-<p>Maecenas at nunc in libero feugiat tincidunt sed vitae urna. Nulla non quam diam. Praesent gravida maximus placerat. Donec sodales turpis ac laoreet imperdiet.</p>
-	
-<h2>Heading 2</h2>
-	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue. Some text here which I think is way too far away from the main header although the text do look good. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue.</p> 
-	
-<h3>Heading 3</h3>
-	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue. Some text here which I think is way too far away from the main header although the text do look good. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue.</p> 
-	
-<h4>Heading 4</h4>
-	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue. Some text here which I think is way too far away from the main header although the text do look good. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue.</p> 
-	 <table class="yck-table">
+
+   <img alt="Science Curriculum Image" src="/images/Our%20Curriculum/Academic%20Programmes/Science/S1.jpg">
+    <p>
+        Please <a href="/files/Academic%20Programmes/Science/Science_Department_Programme_and_Subject_Information.pdf">click here</a> for more details on the department programme and subject information.
+    </p>
+
+   <h2><strong>Vision</strong>&nbsp;</h2>
+    <p>Inquirers and explorers of the universe who call the adventure Science&nbsp;</p>
+
+   <h2><strong>Mission</strong></h2>
+    <p>To nurture critical and creative thinkers with a life-long passion for science by fostering a spirit of inquiry and bringing real-world science into the classroom experience.&nbsp;</p>
+    <hr>
+
+   <h3><strong>Key Programmes</strong></h3>
+    
+   <h4><strong>Lower Secondary Science SPA</strong></h4>
+    <p>
+        In Lower Secondary Science SPA, students are taught Science Practical Skills of Performing, Observing and Planning over a period of two years. Skills-based assessments which address the different kinds of laboratory skills in practical work will be embedded to complement the learning cycle. Assessment for learning and assessment as learning will be scheduled during the whole learning cycle.&nbsp;
+    </p>
+
+   <h4><strong>Mendel’s Garden (Lower Secondary Science)</strong></h4>
+    <p>
+        “Mendel’s Garden” is an instructional programme inspired by a working life-size experimental greenhouse which demonstrates the applications of vertical urban farming. It is named after the Father of Genetics, Gregor Mendel, who discovered the fundamental laws of inheritance through his work on pea plants grown in his own garden.&nbsp;
+    </p>
+    <p>
+        This discovery in one’s own garden provided the impetus for the school to create its own Mendel’s Garden to provide opportunities for students to learn beyond the classroom through hands-on experimentation and collaborative problem-solving. Mendel’s Garden features a vertical growing system that uses sophisticated technology to overcome the challenges of growing crops in limited spaces.&nbsp;
+    </p>
+    <p>
+        In this garden, lower secondary science students see Science comes alive in the following focus areas.
+    </p>
+
+
+   <table class="yck-table">
         <thead>
             <tr>
-                <th class="yck-th">TRAINING INFORMATION</th>
-                <th class="yck-th"></th>
+                <th class="yck-th">
+                    <h4 class="yck-h5">Focus Area</h4>
+                </th>
+                <th class="yck-th">
+                    <h4 class="yck-h5">Enabled By “Mendel’s Garden”</h4>
+                </th>
             </tr>
         </thead>
         <tbody>
             <tr>
-							<td class="yck-td"><p>Day and Time</p></td>
-							<td class="yck-td">Every Tuesday and Thursday<br> 3:00PM to 5:30PM</td>
+                <td class="yck-td">Science in daily life</td>
+                <td class="yck-td">Students learn Science processes such as photosynthesis and energy conversion in food chains that are paramount to the support of life in the ecosystem.</td>
             </tr>
             <tr>
-							<td class="yck-td">Location</td>
-							<td class="yck-td"><p>Music Room, Level 1</p></td>
+                <td class="yck-td">Science in society</td>
+                <td class="yck-td">Students apply Science concepts and understand the impact of Science in society. The vertical farming facility taps on sustainable and innovative technology to grow plants/food in a limited space. This relates to the importance of finding innovative solutions to grow food in land-scarce Singapore as observed in the urban farming movement.</td>
             </tr>
             <tr>
-                <th class="yck-th">TEACHERS IN-CHARGE</th>
-                <th class="yck-th"></th>
-            </tr>
-            <tr>
-                <td class="yck-td">OIC</td>
-                <td class="yck-td"><p>Mdm Vijaya (ext 203)<br>
-																									Mdm Lee Ching Fong (ext 142)<br>
-																									Ms Michelle Lim (ext 135)<br>
-									Mr Loke Tuck Luen (ext 131)</p></td>
+                <td class="yck-td">Science and the environment</td>
+                <td class="yck-td">Students understand how energy can be conserved through the application of sustainable technology and the importance of conserving biodiversity.</td>
             </tr>
         </tbody>
     </table>
 </div>
+   <h4><strong>Da Vinci Programme (Secondary 2 – 4)</strong></h4>
+    <p>
+        The Da Vinci Programme is a progressive Science Talent Development Programme that complements the Science department’s core curriculum in developing the scientific minds of our students. The objective of the Da Vinci Programme is to enable selected students who demonstrated an attitude and aptitude for scientific research to participate in research projects under the guidance of teacher mentors from different Science disciplines.&nbsp;
+    </p>
+    <p>
+        The students work on research projects under the close mentorship of teacher mentors throughout a two-year programme spanning between Secondary 2 and 3. They will identify problems and attempt to use scientific solutions to investigate.&nbsp;
+    </p>
+    <p>Students’ research will culminate in a project presentation at:</p>
+    <ul>
+        <li><strong>Unity Scientific Innovation Challenge (USIC)</strong> – Secondary 2;</li>
+        <li><strong>North Zone Elementz Science Research Conference and Exhibition</strong> – Secondary 3; and the participation in the</li>
+        <li><strong>C B Paul Science Quiz</strong> by ACJC, NTU and NUS, which provides a platform for students to network with other like-minded students and budding scientists in Singapore. – Secondary 4&nbsp;</li>
+    </ul>
 
-<hr>
-<div class="yck-component">
-<div class="accordion">
-  <input checked="" class="accordion-select" name="select" type="radio">
-  <div class="accordion-title h5"><span>Heading 5 in Accordion Title</span></div>
-  <div class="accordion-content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue. Some text here which I think is way too far away from the main header although the text do look good. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue.</p> </div> 
-  <input class="accordion-select" name="select" type="radio">
-  <div class="accordion-title"><span>Using yck-flexbox-grid ...</span></div>
-  <div class="accordion-content">
-	<ul class="yck-flexbox-grid">
-		<li>
-	<h4>Heading 4</h4>
-	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue. Some text here which I think is way too far away from the main header although the text do look good. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue.</p> 	
-		</li>
-	<li>
-		<h4>Level 4 Heading</h4>
-		<p>Maecenas at nunc in libero feugiat tincidunt sed vitae urna. Nulla non quam diam. Praesentgravida maximus placerat. Donec sodales turpis ac laoreet imperdiet.</p>
-	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue.</p></li>
-<li>		<h4>Some other Header</h4>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue. Some text here which I think is way too far away from the main header although the text do look good. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum diam et lobortis ultricies. Curabitur eleifend, arcunec tempus elementum, leo justo vestibulum sapien, sagittis venenatis purus massa eu augue.</p>
-</li>
-</ul>
+   <h4><strong>Healthcare Mentorship programme (Secondary 3)</strong></h4>
+    <p>
+        The Healthcare Mentorship programme seeks to expose our Secondary 3 Biology students to the real healthcare environment where they experience first-hand and learn how the knowledge and skills they acquired in school can be applied to the work environment.&nbsp;
+    </p>
+    <p>
+        This programme aims to help our students better understand the challenges our healthcare workers face in their work, the importance of giving back to the society, and inspire them to possibly seek out a career in the healthcare sector.&nbsp;
+    </p>
+    <hr>
+   <p><strong>HOD Science: Ms Alicia Lock [ext 207]</strong></p><br>
+    <hr>
 
-</div> 
-  <input class="accordion-select" name="select" type="radio">
-  <div class="accordion-title yck-h4"><span>Table as Content using H4 Headers ...</span></div>
-  <div class="accordion-content">
-	<ul class="yck-flexbox-grid">
-		<li>
-	<h4>Heading 4</h4>
-	<p>Some text here which I think is way too far away from the main header although the text do look good.</p> <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-		</li>
-	<li>
-		<h4>Level 4 Heading</h4>
-		<p>Maecenas at nunc in libero feugiat tincidunt sed vitae urna. Nulla non quam diam. Praesentgravida maximus placerat. Donec sodales turpis ac laoreet imperdiet.</p>
-</li>
-</ul>
+   <ul>
+        <li>
+            <input type="checkbox" id="accordion1">
+            <label for="accordion1">Photo Gallery</label>
+            <div>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/nZCKqhtKvpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Science/S2.png">
+                <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Science/S3.png">
+                <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Science/S4.png">
+                <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Science/S5.png">
+                <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Science/S6.png">
+                <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Science/S7.png">
+                <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Science/S8.png">
+                <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Academic%20Programmes/Science/S9.png">
+            </div>
+        </li>
+        <li>
+            <input type="checkbox" id="accordion2">
+            <label for="accordion2">Voices of Science</label>
+            <div>
+                <p>
+                    “Throughout this journey, I learnt that with hard work and teamwork, the output will be fruitful. I felt that my teammates and I supported each other well. One example was the presentation in front of a panel of judges. My teammates' confidence boosted my morale and helped me deliver my lines effectively. Without their support, I never would have been able to overcome my nervousness.” <strong>Kim Seulkichan, 4E1</strong>
+                </p>
+                <p>
+                    “The entirety of Elementz was filled with fun. I was able to further bond with my classmates as we came up with the hypothesis for the project and executed it. I was glad to be part of my Elementz team and we even brought back a Silver medal! All in all, I felt that Elementz has allowed me to apply the concepts that I learnt in Biology to solve problems, other than the usual class work. Given the chance, I would definitely sign up for a research project again." <strong>Dion Kuoh Zixian, 4E1</strong>
+                </p>
+                <p>
+                    “The healthcare mentorship programme has been very fruitful and it has inspired me to work in the healthcare industry and contribute to society. I felt it was a once-in-a-lifetime experience for a 15-year-old like me to be part of this extraordinary programme. It has encouraged me to study harder for Biology. I hope future participants can reap as many benefits as I had from the experiences.” <strong>Tan Huey Shin, 4E2</strong>
+                </p>
+            </div>
+        </li>
+	</ul>
 
-<table class="yck-table">
-        <thead>
-            <tr>
-                <th class="yck-th">TRAINING INFORMATION</th>
-                <th class="yck-th"></th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td class="yck-td">Day and Time</td>
-                <td class="yck-td">Every Tuesday and Thursday<br> 3:00PM to 5:30PM</td>
-            </tr>
-            <tr>
-                <td class="yck-td">Location</td>
-                <td class="yck-td">Music Room, Level 1</td>
-            </tr>
-		</tbody>
-		</table>
-	</div> 
-</div> 
-</div>
 
 <style>
 :root {
@@ -234,25 +248,6 @@ variant: markdown
     font-size: var(--yck-step-0);
     margin-bottom: var(--yck-spacing-unit);
     text-wrap: pretty;
-}
-.yck-component ul.yck-custom-list {
-    list-style: none;
-    padding-left: 0;
-    margin-left: 0;
-    font-size: inherit;
-}
-
-.yck-component ul.yck-custom-list li {
-    position: relative;
-    padding-left: 1.5em;
-    margin-bottom: 0.5em;
-    line-height: 1em;
-}
-
-.yck-component ul.yck-custom-list li::before {
-    content: '~';
-    position: absolute;
-    left: 0;
 }
 
 .yck-component .yck-table {
