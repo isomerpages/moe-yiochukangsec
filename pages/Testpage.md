@@ -35,8 +35,8 @@ variant: markdown
     <p>
         In this garden, lower secondary science students see Science comes alive in the following focus areas.
     </p>
-
-
+</div>
+<div class="yck-component">
    <table class="yck-table">
         <thead>
             <tr>
@@ -64,6 +64,7 @@ variant: markdown
         </tbody>
     </table>
 </div>
+<div class="yck-component">
    <h4><strong>Da Vinci Programme (Secondary 2 – 4)</strong></h4>
    <p>
         The Da Vinci Programme is a progressive Science Talent Development Programme that complements the Science department’s core curriculum in developing the scientific minds of our students. The objective of the Da Vinci Programme is to enable selected students who demonstrated an attitude and aptitude for scientific research to participate in research projects under the guidance of teacher mentors from different Science disciplines.&nbsp;
@@ -85,9 +86,12 @@ variant: markdown
     <p>
         This programme aims to help our students better understand the challenges our healthcare workers face in their work, the importance of giving back to the society, and inspire them to possibly seek out a career in the healthcare sector.&nbsp;
     </p>
+</div>
     <hr>
+		<div class="yck-component">
    <p><strong>HOD Science: Ms Alicia Lock [ext 207]</strong></p><br>
    <hr>
+	</div>
 <div class="yck-component">
    <ul>
         <li>
@@ -114,7 +118,7 @@ variant: markdown
         <li>
             <input type="checkbox" id="accordion2">
             <label for="accordion2">Voices of Science</label>
-            <div>
+            <div class="yck-component">
 <blockquote class="yck-blockquote"> <p>“Throughout this journey, I learnt that with hard work and teamwork, the output will be fruitful. I felt that my teammates and I supported each other well. One example was the presentation in front of a panel of judges. My teammates' confidence boosted my morale and helped me deliver my lines effectively. Without their support, I never would have been able to overcome my nervousness.” </p><cite><strong>Kim Seulkichan, 4E1</strong></cite>
 </blockquote>
 <blockquote class="yck-blockquote">                <p>
