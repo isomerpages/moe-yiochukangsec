@@ -10,12 +10,16 @@ variant: markdown
     <p>
         Please <a href="/files/Academic%20Programmes/Science/Science_Department_Programme_and_Subject_Information.pdf">click here</a> for more details on the department programme and subject information.
     </p>
-
+<ul class="yck-flexbox-grid">
+	<li>
    <h2><strong>Vision</strong>&nbsp;</h2>
     <p>Inquirers and explorers of the universe who call the adventure Science&nbsp;</p>
-
+	</li>
+<li>
    <h2><strong>Mission</strong></h2>
     <p>To nurture critical and creative thinkers with a life-long passion for science by fostering a spirit of inquiry and bringing real-world science into the classroom experience.&nbsp;</p>
+	</li>
+	</ul>
     <hr>
 
    <h3><strong>Key Programmes</strong></h3>
