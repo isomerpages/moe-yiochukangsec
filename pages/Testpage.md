@@ -116,8 +116,8 @@ variant: markdown
             <label for="accordion2">Voices of Science</label>
             <div>
                 <p>
-                    “Throughout this journey, I learnt that with hard work and teamwork, the output will be fruitful. I felt that my teammates and I supported each other well. One example was the presentation in front of a panel of judges. My teammates' confidence boosted my morale and helped me deliver my lines effectively. Without their support, I never would have been able to overcome my nervousness.” <strong>Kim Seulkichan, 4E1</strong>
-                </p>
+										 </p><blockquote> “Throughout this journey, I learnt that with hard work and teamwork, the output will be fruitful. I felt that my teammates and I supported each other well. One example was the presentation in front of a panel of judges. My teammates' confidence boosted my morale and helped me deliver my lines effectively. Without their support, I never would have been able to overcome my nervousness.” <strong>Kim Seulkichan, 4E1</strong>
+											 <p></p></blockquote>
                 <p>
                     “The entirety of Elementz was filled with fun. I was able to further bond with my classmates as we came up with the hypothesis for the project and executed it. I was glad to be part of my Elementz team and we even brought back a Silver medal! All in all, I felt that Elementz has allowed me to apply the concepts that I learnt in Biology to solve problems, other than the usual class work. Given the chance, I would definitely sign up for a research project again." <strong>Dion Kuoh Zixian, 4E1</strong>
                 </p>
