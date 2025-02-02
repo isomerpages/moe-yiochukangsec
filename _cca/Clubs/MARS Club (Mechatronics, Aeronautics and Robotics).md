@@ -105,145 +105,174 @@ variant: markdown
 	
 </ul>
 
+
 <style>
 :root {
-	/* Color Scheme */
-	--color-text-light: #888888;
-	--color-border: #e0e0e0;
+    --yck-color-text-light: #888;
+    --yck-color-border: #e0e0e0;
+    --yck-text-line-height: 1.6em;
+    --yck-heading-line-height: 1.2em;
+    --yck-heading-letter-spacing: -0.02em;
+    --yck-content-width: 100%;
+    --yck-transition-speed: 0.8s;
+    --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
+    --yck-spacing-unit: 1em;
+    --yck-border-radius: 4px;
+    --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 
-	/* Typography Decorations */
-	/* --heading-font-weight: 700; */
-	--text-line-height: 1.55em;
-	--heading-line-height: 1.1em;
-	--heading-letter-spacing: -0.02em;
+    /* @link https://utopia.fyi/type/calculator?c=320,18,1.125,1240,18,1.2,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
 
-	/* Animation */
-	--transition-speed: 0.8s; /* Added transition speed variable */
-	--transition-timing: cubic-bezier(0.4, 0, 0.2, 1); /* Added smooth easing */
+    --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
+    --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
+    --yck-step-0: clamp(1.125rem, 1.125rem + 0vw, 1.125rem);
+    --yck-step-1: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem);
+    --yck-step-2: clamp(1.4238rem, 1.3556rem + 0.3412vw, 1.62rem);
+    --yck-step-3: clamp(1.6018rem, 1.4828rem + 0.5951vw, 1.944rem);
+    --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
+    --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
-	/* Spacing and Layout */
-	--content-width: 100%;
-	--spacing-unit: 1em;
-	--border-radius: 4px;
-	--box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-
-	--step--1: clamp(0.8889rem, 0.8357rem + 0.2657vw, 1.0417rem);
-  --step-0: clamp(1rem, 0.913rem + 0.4348vw, 1.125rem);
+    --yck-space-s-l: clamp(0.85rem, 0.7337rem + 1.9565vw, 2.5rem);
 }
 
 
-/* 7. Avoid text overflows */
-p,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-	overflow-wrap: break-word;
+.yck-component {
+    line-height: var(--yck-text-line-height);
+    letter-spacing: normal;
+    font-size: var(--yck-step-0);
+    list-style: none;
 }
 
-/* 8. Improve line wrapping */
-p {
-	text-wrap: pretty;
-}
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-	text-wrap: balance;
+.yck-component h1,
+.yck-component h2,
+.yck-component h3,
+.yck-component h4,
+.yck-component h5,
+.yck-component h6,
+.yck-component p {
+    overflow-wrap: break-word;
 }
 
-
-/* ==========================================================================
-   Typography
-   ========================================================================== */
-
-h1,
-.h1,
-h2,
-.h2,
-h3,
-.h3,
-h4,
-.h4,
-h5,
-.h5 {
-	font-weight: var(--heading-font-weight);
-	line-height: var(--heading-line-height);
-	letter-spacing: var(--heading-letter-spacing);
+.yck-component p {
+    text-wrap: pretty;
 }
 
-h1,
-.h1 {
-	margin-bottom: var(--spacing-unit);
+.yck-component h1,
+.yck-component h2,
+.yck-component h3,
+.yck-component h4,
+.yck-component h5,
+.yck-component h6 {
+    text-wrap: balance;
 }
 
-h2,
-.h2 {
-	margin-bottom: calc(var(--spacing-unit) * 0.7);
+.yck-component .yck-h1,
+.yck-component h1 {
+    font-size: var(--yck-step-5);
+    margin-bottom: var(--yck-space-s-l);
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-h3,
-.h3 {
-	margin-bottom: calc(var(--spacing-unit) * 0.5);
+.yck-component .yck-h2,
+.yck-component h2 {
+    font-size: var(--yck-step-4);
+    margin-bottom: calc(var(--yck-space-s-l) * 0.8); 
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-h4,
-.h4 {
-	margin-bottom: calc(var(--spacing-unit) * 0.4);
-	text-transform: uppercase;
+.yck-component .yck-h3,
+.yck-component h3 {
+    font-size: var(--yck-step-3);
+    margin-bottom: calc(var(--yck-space-s-l) * 0.6);
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-h5,
-.h5 {
-	margin-bottom: calc(var(--spacing-unit) * 0.3);
-	text-transform: uppercase;
+.yck-component .yck-h4,
+.yck-component h4 {
+    font-size: var(--yck-step-2);
+    margin-bottom: calc(var(--yck-space-s-l) * 0.4);
+    text-transform: titlecase;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.text-small {
-	font-size: var(--step--1);
+.yck-component .yck-h5,
+.yck-component h5 {
+    font-size: var(--yck-step-1);
+    margin-bottom: calc(var(--yck-space-s-l) * 0.2);
+    text-transform: uppercase;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.text-xs {
-	font-size: var(--step--2);
+.yck-component .yck-h6,
+.yck-component h6 {
+    font-size: var(--yck-step-0);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.1);
+    text-transform: uppercase;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-div,	
-p,
-ul,
-ol {
-	font-size: var(--step-0);
-	margin-bottom: var(--spacing-unit);
-	list-style: none;
+.yck-component .yck-text-small {
+    font-size: var(--yck-step--1);
+    margin-bottom: calc(var(--yck-space-s-l) * 0.1);
 }
+
+.yck-component .yck-text-xs {
+    font-size: var(--yck-step--2);
+    margin-bottom: calc(var(--yck-space-s-l) * 0.1);
+}
+
+.yck-component ol,
+.yck-component p,
+.yck-component ul {
+    font-size: var(--yck-step-0);
+    margin-bottom: var(--yck-spacing-unit);
+    text-wrap: pretty;
+}
+.yck-component .yck-table {
+    border-collapse: collapse;
+    max-width: 100%;
+    margin-top: 1.6em;
+    margin-bottom: var(--yck-spacing-unit);
+    font-size: var(--yck-step-0);
+}
+
+.yck-component .yck-th {
+    background-color: #f2f2f2;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    text-transform: uppercase;
+}
+
+.yck-component .yck-th h4,
+.yck-component .yck-th h5,
+.yck-component .yck-th h6 {
+    margin: 0 0 0.5em;
+}
+
+.yck-component .yck-td {
+    border-bottom: 1px solid #ddd;
+    max-width: 300px;
+    word-wrap: break-word;
+    line-height: 1.6rem;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+  }
+
+.yck-component .yck-table tbody .yck-td p {
+    margin-block: 0;
+    padding-bottom: 0.5em;
+}
+    
+ .yck-component .yck-table tbody .yck-td p:last-child {
+     padding-bottom: 1.5em;
+ }
 	
-.yck-table {
-	border-collapse: collapse;
-	max-width: 100%;
-	margin-top: 1.5em;
-	margin-bottom: clamp(1em, 5%, 3em);
-}
 
-.yck-th {
-	background-color: #f2f2f2;
-	text-align: left;
-	border-bottom: 1px solid #ddd;
-	text-transform: uppercase;
-}
-
-.yck-th h4, .yck-th h5, .yck-th h6 {
-    margin: 0 0 0.5em 0;
-}
-
-.yck-td {
-	border-bottom: 1px solid #ddd;
-	max-width: 300px;
-	word-wrap: break-word;
-	line-height: 1.6rem;
-}
+	</style>
 
 
-</style>
