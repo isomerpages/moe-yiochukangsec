@@ -89,41 +89,40 @@ sound too good to be true, they probably are.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Silver Award" src="/images/Silver.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Team 28</u></strong> 
-<br>BUKIT PANJANG GOVT. HIGH SCHOOL
-<br>ST. STEPHEN'S SCHOOL</p>
+<td rowspan="1" colspan="2">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Synopsis: Often times, the youth are tricked by malicious scammers due
-to the lack of awareness of scams. Our video aims to broaden the knowledge
-of primary school students on making smart choices to protect themselves
-against scams. It features a boy who caused both him and his sister to
-fall for the schemes of the scammers. Through this, we bring to light the
-common methods used by scammers in hopes to bring our message across, “If
-it’s too good to be true, it probably is.”</p>
+<div class="isomer-image-wrapper">
+<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/Silver.png">
+</div>
+<p><strong><u>TEAM 9:</u></strong>  <strong>Ang Mo Kio Secondary School, Serangoon Garden Secondary School &amp; Nanyang Primary School</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Synopsis:</strong> Ophelia is a victim of an impersonation scam.
+She realizes that it is a scam only after losing her money without checking
+first if it was legitimate and never actually meeting Messi. Along the
+way, she learns how to protect herself from such scams and does the right
+thing. Be Safe, Be Smart, and Be Kind.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/47-ywCVnpaA?si=56wWjB2BFDiuNew2"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SUN6y6GXrzc?si=V52ChH-fXGSeCJBF"></iframe>
 </div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Bronze Award" src="/images/Bronze2.jpg">
-</div>
+<td rowspan="1" colspan="2">
+<p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Team 9</u></strong> 
-<br>EDGEFIELD SECONDARY SCHOOL
-<br>ANCHOR GREEN PRIMARY SCHOOL</p>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<p></p>
 </td>
 </tr>
 <tr>
