@@ -121,34 +121,37 @@ thing. Be Safe, Be Smart, and Be Kind.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/Bronze.png">
+</div>
+<p><strong><u>TEAM 6:</u> Whitley Secondary School &amp; Bendemeer Primary School</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Synopsis:</strong> Our video appeals to elderly or young adults
+who are easily persuaded by scams online. Our video is for them to be educated
+on situations like this and would hence also be able to impart this on
+similar events. This video shows that just because it is cheap and affordable,
+does not mean that it is true. Most people, often fall for these scams
+and end up losing large amounts of their money. This means that, by giving
+card information, without confirming and verifying that where they are
+buying is an official website, they could be tricked and this results in
+a devastating loss in their fortune.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5B-Fh7Amtk8?si=FqmHAFf5QnMUvnAd"></iframe>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Synopsis: The video shows that you can’t trust anybody you see online
-because anybody can pretend to be someone they are not on the internet.
-In this video, it shows a teenage girl who befriends somebody she don’t
-know online and plans to meet her after realising that they are in the
-same school. The online friend she befriended was actually a stalker who
-planned to kidnap her. The key message that we want to get across is to
-be safe online and to not trust people online that we do not know.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Md8dz1c14hE?si=AxMEgOrLe6JFhR1O"></iframe>
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Bronze Award" src="/images/Bronze2.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Team 22</u></strong> 
-<br>BOWEN SECONDARY SCHOOL
-<br>ROSYTH SCHOOL</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -202,5 +205,6 @@ their stolen money. Anyone can get scammed. Check before you act.</p>
 <p></p>
 <p></p>
 <h5></h5>
+<p></p>
 <p></p>
 <p></p>
