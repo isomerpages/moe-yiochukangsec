@@ -151,23 +151,30 @@ a devastating loss in their fortune.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/Bronze.png">
+</div>
+<p><strong><u>TEAM 16:</u> Crescent Girls’ School &amp; Singapore Chinese Girls' Primary School</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Synopsis: A 67 year old uncle with back pain. He receives a Whatsapp message
-from a person impersonating as a Carousell seller but it’s actually a scam.
-The scammer was selling back pain supplements for $50 per bottle when the
-original price is actually $500. And the scammer asked for a picture of
-his bank card and his address. Being tempted he gives and before he gives
-a picture of his bank card his daughter that was passing by saw and stopped
-him by questioning him. and telling him it is wrong of him to do so and
-it was actually a scammer. But he protested saying that the seller was
-nice. But his daughter insisted that it was a scam and told him to stop
-texting the Carousell seller.</p>
+<p><strong>Synopsis:</strong> With cyberbullying becoming more rampant in
+today’s world, it is vital for us to take on the role of an ‘upstander’,
+putting a stop to cyberbullying by urging cyberbullies to think before
+they post anything online. This video follows Gabrielle, who was faced
+with harsh comments by a fellow classmate after posting selfies on Instagram,
+Claudia. Saddened by Claudia’s words, Gabrielle was consoled by her friends
+and was urged to report the incident to their teachers, Ms Kate and Ms
+Evan, after knowing what has happened. Understanding the severity of cyberbullying,
+the teachers spoke to Claudia about her wrongdoings and all was well as
+Claudia apologised to Gabrielle. Targeted to cyberbullies who are unaware
+of the consequences of their actions, this video also focuses on the potential
+reasons behind the occurrence of cyberbullying and how seemingly simple
+words can have a lasting impact on someone’s mental and physical health.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/s8H58su3Vps?si=EiriBKOfBfYTrYqs"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0t1dTuLlXMw?si=cz4VKFrofyJ8Mzmo"></iframe>
 </div>
 </td>
 </tr>
