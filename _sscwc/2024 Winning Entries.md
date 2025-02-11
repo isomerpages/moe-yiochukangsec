@@ -179,30 +179,34 @@ words can have a lasting impact on someone’s mental and physical health.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Bronze Award" src="/images/Bronze2.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Team 24</u></strong> 
-<br>COMMONWEALTH SECONDARY SCHOOL
-<br>NORTHLAND PRIMARY SCHOOL</p>
+<td rowspan="1" colspan="2">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Synopsis: Have you ever thought before you opened a link? More than half
-of the global population owns a smartphone and that for one means that
-we should strengthen our safety and security in the cyberspace. In this
-video, we will explore how vulnerable we are to scams. In our video, civilians
-are going about their lives, when a mysterious hacker sends phishing scams
-to people. Slowly, each of the civilians begin to click onto the website
-and their banking details get stolen. Only after they have clicked, do
-they realise what they have done. There was nothing they could do to retrieve
-their stolen money. Anyone can get scammed. Check before you act.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/Bronze.png">
+</div>
+<p><strong><u>TEAM 16:</u> Westwood Secondary School &amp; Marymount Convent School</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Synopsis:</strong> Lily posted a Tiktok video of her dancing. Her
+classmates saw the Tiktok and posted mean comments about her. This cyberbullying
+slowly evolved into traditional bullying. Lily’s friend, Erin witnessed
+this. Overtime, the cyberbullying began to affect Lily mentally, leading
+to her failing classes and crying in the school bathrooms. Erin overheard
+her crying and&nbsp; decided to confront the bullies in an aggressive manner.
+As a result, the bullies became even more aggravated. Erin realised her
+mistake and decided to change tactics. Instead, she supported the victim
+and reported the bullying. In the end, the cyberbullies received their
+comeuppance. Now, with the support of Erin, Lily’s grades improved and
+she gained the confidence to continue posting her dances online.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ucpmTjFkr_k?si=5c7V0p0wr_w48i6N"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9ta6KN0KL2o?si=-MtmV5Nle3pZ0LX3"></iframe>
 </div>
 </td>
 </tr>
