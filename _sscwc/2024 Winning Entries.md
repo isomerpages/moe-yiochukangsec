@@ -31,15 +31,15 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 15%;" height="auto" width="100%" alt="" src="/images/Gold.png">
 </div>
-<p><strong><u>Team 12</u></strong>  <strong>YUAN CHING SECONDARY SCHOOL &nbsp;&amp; ROSYTH SCHOOL</strong>
+<p><strong><u>TEAM 12:</u></strong>  <strong>Yuan Ching Secondary School &nbsp;&amp; Rosyth School</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Synopsis: In today’s digital world, we are all at risk of exposure to
-scams, including impersonation and phishing schemes. Cybercriminals often
-disguise themselves as trusted figures, exploiting our trust to gather
+<p><strong>Synopsis:</strong> In today’s digital world, we are all at risk
+of exposure to scams, including impersonation and phishing schemes. Cybercriminals
+often disguise themselves as trusted figures, exploiting our trust to gather
 sensitive information such as bank details, passwords, or personal data.
 These scams can be very sophisticated, and victims may not realize they’ve
 been scammed until it’s too late, leading to serious financial loss, emotional
@@ -57,37 +57,34 @@ Be alert in the cyberworld!</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Silver Award" src="/images/Silver.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Team 8</u></strong> 
-<br>BUKIT VIEW SEC SCHOOL
-<br>YIO CHU KANG SEC SCHOOL
-<br>MARYMOUNT CONVENT SCHOOL</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Synopsis: One day, Olivia was online shopping when she received a message
-from an anonymous number. It offered a 70% discount on the iPhone 15. It
-was an irresistible deal that seemed too good to be true. She decided to
-fill in her personal information. Unbeknownst to her, it was a SCAM… She
-lost a large sum of money. The video rewinds and shows what Olivia should
-have done instead. When she clicked the link, instead of filling in her
-personal information, she decided to look through the website to find any
-indications that this could potentially be a scam. The end shows how to
-identify if it is a scam to avoid falling victim to scams. Think twice
-or pay the price. Stay safe online.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/Silver.png">
+</div>
+<p><strong><u>TEAM 7:</u></strong>  <strong>School Of The Arts &nbsp;&amp; Ngee Ann Primary School</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Synopsis:</strong> The theme that we chose was “Be Safe”. Our target
+audience is primary and secondary school students. So, we came up with
+a gaming skit to entice them to watch. The skit is about a boy named Zack,
+who loves playing games. One day, he receives a message in-game about an
+attractive deal for something he wants. He gives his game account details
+to a mysterious person. However, he soon receives an email telling him
+that his game account had been blocked! In the end, he learns that if things
+sound too good to be true, they probably are.</p>
+<p>Thus, our message is: Beware of the dangers online! Be safe.</p>
+<p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jzMh-3SSwB0?si=HHKX8hsaCM869qm3"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a-nw-LLRgeM?si=MEMNRXBMyIFBau94"></iframe>
 </div>
 </td>
 </tr>
@@ -206,4 +203,5 @@ their stolen money. Anyone can get scammed. Check before you act.</p>
 <p></p>
 <p></p>
 <h5></h5>
+<p></p>
 <p></p>
