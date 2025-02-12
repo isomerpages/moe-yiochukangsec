@@ -188,7 +188,7 @@ words can have a lasting impact on someone’s mental and physical health.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 15%;" height="auto" width="100%" alt="" src="/images/Bronze.png">
 </div>
-<p><strong><u>TEAM 16:</u> Westwood Secondary School &amp; Marymount Convent School</strong>
+<p><strong><u>TEAM 23:</u> Westwood Secondary School &amp; Marymount Convent School</strong>
 </p>
 </td>
 </tr>
