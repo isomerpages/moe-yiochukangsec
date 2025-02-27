@@ -39,7 +39,7 @@ Students who have a keen interest in STEM can further hone their knowledge and s
 
   
 
-#### Key Personnel IC: Ms Hoon Siew Hui (HOD D&E) \[ext: 206\]
+
 
 
 
@@ -51,3 +51,5 @@ Students who have a keen interest in STEM can further hone their knowledge and s
 ![](/images/Our%20Curriculum/Distinctive%20Programmes/Applied%20Learning%20Programme/A6.png)
 ![](/images/Our%20Curriculum/Distinctive%20Programmes/Applied%20Learning%20Programme/A7.png)
 ![](/images/Our%20Curriculum/Distinctive%20Programmes/Applied%20Learning%20Programme/A8.png)
+
+#### Key Personnel IC: Ms Hoon Siew Hui (HOD D&E) \[ext: 206\]
