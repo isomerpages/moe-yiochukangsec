@@ -24,7 +24,7 @@ In this programme, students are introduced to the world of Science, Technology, 
 
 This is a structured programme&nbsp;&nbsp;**during curriculum hours.**&nbsp;It is structured to develop digital literacies of&nbsp;**Computational Thinking**,&nbsp;**Creation**, and&nbsp;**Communication &amp; Collaboration**.
 
-![](/images/Our%20Curriculum/Distinctive%20Programmes/Applied%20Learning%20Programme/DP_ALP_A2updated_20240506.png)
+![](/images/Our%20Curriculum/Distinctive%20Programmes/Applied%20Learning%20Programme/DP_ALP_A2updated_20250227.png)
 
 Additional opportunities that are more concrete  
 
