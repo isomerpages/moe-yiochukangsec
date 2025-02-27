@@ -11,7 +11,7 @@ The school offers an Applied Learning Programme (ALP)  **to nurture inquiring 
 
   
 
-In this programme, students are introduced to the world of Science, Technology, Engineering and Mathematics (STEM) in the form of Embedded Electronics, and learn to develop innovative ideas and integrated solutions for real-life problems in the community. The ALP gives students opportunities to explore the connections between problem-solving skills needed in the real world and academic knowledge related to STEM. The progressive ALP curriculum equips all students with coding and computational thinking skills using an inquiry-based learning approach. Importantly, the ALP encourages students to stay curious and learn about how technology can be applied in new ways to improve the quality of life around us. In this way, the ALP hopes to nurture students capable of adapting to change.
+In this programme, students are introduced to the world of Science, Technology, Engineering and Mathematics (STEM) in the form of Emerging Technologies, and learn to develop innovative ideas and integrated solutions for real-life problems in the community. The ALP gives students opportunities to explore the connections between problem-solving skills needed in the real world and academic knowledge related to STEM. The progressive ALP curriculum equips all students with coding and computational thinking skills using an inquiry-based learning approach. Importantly, the ALP encourages students to stay curious and learn about how technology can be applied in new ways to improve the quality of life around us. In this way, the ALP hopes to nurture students capable of adapting to change.
 
   
 ## Objectives of the programme
@@ -24,9 +24,9 @@ In this programme, students are introduced to the world of Science, Technology, 
 
 This is a structured programme  **during curriculum hours.** It is structured to develop digital literacies of **Computational Thinking**, **Creation**, and **Communication & Collaboration**.
 
-Additional opportunities that are more concrete  
+![](/images/Our%20Curriculum/Distinctive%20Programmes/Applied%20Learning%20Programme/DP_ALP_A2updated_20240506.png)
 
-  
+Additional opportunities that are more concrete  
 
 Students who have a keen interest in STEM can further hone their knowledge and skills via
 
@@ -41,7 +41,7 @@ Students who have a keen interest in STEM can further hone their knowledge and s
 
 #### Key Personnel IC: Ms Hoon Siew Hui (HOD D&E) \[ext: 206\]
 
-![](/images/Our%20Curriculum/Distinctive%20Programmes/Applied%20Learning%20Programme/DP_ALP_A2updated_20240506.png)
+
 
 ### **Photo Gallery**
 
