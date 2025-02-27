@@ -38,6 +38,9 @@ Students who have a keen interest in STEM can further hone their knowledge and s
 *   Maker Programme at Techno Sphere 
 
   
+## Direct School Admission (DSA)
+
+Successful DSA applicants are expected to enrol in Mechatronics, Aeronautical, Robotics (MARs) Club to help develop their talents progressively. The students will be involved in trainings, workshops and competitions related to Robotics, Drones and STEM related topics.
 
 
 
