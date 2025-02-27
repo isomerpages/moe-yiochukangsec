@@ -42,6 +42,13 @@ Students who have a keen interest in STEM can further hone their knowledge and s
 
 Successful DSA applicants are expected to enrol in Mechatronics, Aeronautical, Robotics (MARs) Club to help develop their talents progressively. The students will be involved in trainings, workshops and competitions related to Robotics, Drones and STEM related topics.
 
+#### Selection Criteria
+* **Aptitude**
+	* Students should preferably have strong interest in Science, Electronics or Aeronautics or Mechatronics and/or Robotics.
+* **CCA Achievement**
+	* Students should preferably have done well in Science/Design-related competitions or projects.
+* **Character** 
+	* Students should possess a positive attitude and a sense of commitment in their talent area.
 
 
 
