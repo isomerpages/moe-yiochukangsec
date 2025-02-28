@@ -4,7 +4,11 @@ permalink: /testpage/
 description: ""
 variant: markdown
 ---
+
+
 <div class="yck-component">
+	
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSYdoHxbLzDy0zqSKsRUd1w--IYPdoCn337q6SZP0igd26jwTB0vKVsb5VypGdSLyijlQp8ZAYGIWMS/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
    <img alt="Science Curriculum Image" src="/images/Our%20Curriculum/Academic%20Programmes/Science/S1.jpg">
     <p>
