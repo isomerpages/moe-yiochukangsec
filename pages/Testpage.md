@@ -7,6 +7,7 @@ variant: markdown
 #### Customized embed via GSlides
 <iframe allowfullscreen="false" height="487px" width="800px" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSYdoHxbLzDy0zqSKsRUd1w--IYPdoCn337q6SZP0igd26jwTB0vKVsb5VypGdSLyijlQp8ZAYGIWMS/embed?start=true&amp;loop=true&amp;delayms=6000"></iframe>
 
+<br>
 <hr><br>
 
 <div class="yck-component">
