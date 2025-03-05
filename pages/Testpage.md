@@ -6,7 +6,7 @@ variant: markdown
 ---
 #### Embedded 60th Anniversary Overview Video
 
-<iframe allowfullscreen="true" height="487" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJHjlU7jfAcpaJVC3bvIxzIJOw1futlWnwDN3Fofv7XFvL6uompMHpIEJUet88HR-4L3reds1t2XXa/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="839" width="1440" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJHjlU7jfAcpaJVC3bvIxzIJOw1futlWnwDN3Fofv7XFvL6uompMHpIEJUet88HR-4L3reds1t2XXa/embed?start=true&amp;loop=true&amp;delayms=60000"></iframe>
 <p>Demo of 60th Anniversary Overview video hosted on a Google Drive. 
 	</p><ul>
 		<li>The video must be saved onto a Google Drive.</li>
@@ -24,7 +24,7 @@ variant: markdown
             <iframe src="https://www.youtube.com/embed/nZCKqhtKvpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
         </div>
 		  <div class="yck-iframe-container">
-		 <iframe allowfullscreen="true" height="487" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJHjlU7jfAcpaJVC3bvIxzIJOw1futlWnwDN3Fofv7XFvL6uompMHpIEJUet88HR-4L3reds1t2XXa/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+		 <iframe allowfullscreen="true" height="839" width="1440" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJHjlU7jfAcpaJVC3bvIxzIJOw1futlWnwDN3Fofv7XFvL6uompMHpIEJUet88HR-4L3reds1t2XXa/embed?start=true&amp;loop=true&amp;delayms=60000"></iframe>
 	</div>
 	</div>
 	</div>
@@ -33,7 +33,7 @@ variant: markdown
 <hr>
 
 #### Customized embed via GSlides
-<iframe allowfullscreen="false" height="487px" width="800px" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSYdoHxbLzDy0zqSKsRUd1w--IYPdoCn337q6SZP0igd26jwTB0vKVsb5VypGdSLyijlQp8ZAYGIWMS/embed?start=true&amp;loop=true&amp;delayms=6000"></iframe>
+<iframe allowfullscreen="false" height="487px" width="800px" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSYdoHxbLzDy0zqSKsRUd1w--IYPdoCn337q6SZP0igd26jwTB0vKVsb5VypGdSLyijlQp8ZAYGIWMS/embed?start=true&amp;loop=true&amp;delayms=60000"></iframe>
 <p>The above is a demo showing how Google Slides can be embedded within a page. This allows the owner of the page or whoever is incharge to upload the pictures. There are some cavaets to iron out though. </p>
 <br>
 <hr><br>
