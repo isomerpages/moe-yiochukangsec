@@ -6,7 +6,7 @@ variant: markdown
 ---
 #### Embedded 60th Anniversary Overview Video
 
-<iframe allowfullscreen="true" height="839" width="1440" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJHjlU7jfAcpaJVC3bvIxzIJOw1futlWnwDN3Fofv7XFvL6uompMHpIEJUet88HR-4L3reds1t2XXa/embed?start=true&amp;loop=true&amp;delayms=60000"></iframe>
+
 <p>Demo of 60th Anniversary Overview video hosted on a Google Drive. 
 	</p><ul>
 		<li>The video must be saved onto a Google Drive.</li>
