@@ -6,6 +6,14 @@ variant: markdown
 ---
 #### Embedded 60th Anniversary Overview Video
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/F9miy3c2ZRY?si=5nkNPSAdDBwbGriM" height="315" width="560"></iframe><br><small class="--yck-step--1">Non-responsive (fixed sized version)</small>
+
+<div class="yck-component">
+   <div class="yck-gallery-container">
+        <div class="yck-iframe-container">
+           <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/F9miy3c2ZRY?si=5nkNPSAdDBwbGriM" height="315" width="560"></iframe>
+        </div><small class="--yck-step--1">Responsive (auto-sizes version)</small>
+	</div>
 
 <p>Demo of 60th Anniversary Overview video hosted on a Google Drive. 
 	</p><ul>
@@ -16,6 +24,7 @@ variant: markdown
 		<li>Paste the Gslide's embed code into the webpage.</li>
 		</ul>
 The only ugly downside is that the Google Slides will always appear under the video since the video is inserted into a Google Slide. Branding ...<p></p>
+</div>
 
 <h4>Example how an embedded Youtube video and Google Slide responds to changes in screen size on variours devices</h4>
 <div class="yck-component">
