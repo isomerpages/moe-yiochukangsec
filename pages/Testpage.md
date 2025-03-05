@@ -4,16 +4,23 @@ permalink: /testpage/
 description: ""
 variant: markdown
 ---
+#### Embedded 60th Anniversary Overview Video
+
+<iframe height="480" width="640" src="https://drive.google.com/file/d/1vWBG_7XLrolXmnVIeDRVPQQV4yH0VoHH/preview"></iframe>
+
+<br>
+
+<hr>
+
 #### Customized embed via GSlides
 <iframe allowfullscreen="false" height="487px" width="800px" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSYdoHxbLzDy0zqSKsRUd1w--IYPdoCn337q6SZP0igd26jwTB0vKVsb5VypGdSLyijlQp8ZAYGIWMS/embed?start=true&amp;loop=true&amp;delayms=6000"></iframe>
-
+<p>The above is a demo showing how Google Slides can be embedded within a page. This allows the owner of the page or whoever is incharge to upload the pictures. There are some cavaets to iron out though. </p>
 <br>
 <hr><br>
 
 <div class="yck-component">
 
-#### Default embed size via GSlides ...
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSYdoHxbLzDy0zqSKsRUd1w--IYPdoCn337q6SZP0igd26jwTB0vKVsb5VypGdSLyijlQp8ZAYGIWMS/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+# Science Dept. Demo ...
 
    <img alt="Science Curriculum Image" src="/images/Our%20Curriculum/Academic%20Programmes/Science/S1.jpg">
     <p>
