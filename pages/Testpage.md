@@ -15,16 +15,24 @@ variant: markdown
 		<li>Publish the GSlide using the embed option.</li>
 		<li>Paste the Gslide's embed code into the webpage.</li>
 		</ul>
-	<p></p>
+<p></p>
 	<p>Downsides are ... 
 </p><ul>
-		<li>Video is not resize when the webpage size changes from desktop to mobile view. The right side of the video may extend beyond the screen.</li>
-		<li>A Google Slide need to be created.</li>
-		<li>The video is then inserted into the GSlide.</li>
-		<li>Publish the GSlide using the embed option.</li>
-		<li>Paste the Gslide's embed code into the webpage.</li>
+		<li>Video is not resize when the webpage size changes from desktop to mobile view. The right side of the video may extend beyond the screen. <i>Example just below ...</i></li>
+		<li>There will always be a Google Slides with the slide navigation under the video.</li>
 		</ul>
 <p></p>	
+<h4>Example how an embedded Youtube video and Google Slide responds to changes in screen size on variours devices</h4>
+<div class="yck-component">
+   <div class="yck-gallery-container"><i>Youtube</i>
+        <div class="yck-iframe-container">
+            <iframe src="https://www.youtube.com/embed/nZCKqhtKvpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+        </div>
+		  <div class="yck-iframe-container">
+		 <iframe allowfullscreen="true" height="487" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJHjlU7jfAcpaJVC3bvIxzIJOw1futlWnwDN3Fofv7XFvL6uompMHpIEJUet88HR-4L3reds1t2XXa/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+	</div>
+	</div>
+	</div>
 <br>
 
 <hr>
