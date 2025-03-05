@@ -6,8 +6,25 @@ variant: markdown
 ---
 #### Embedded 60th Anniversary Overview Video
 
-<iframe height="480" width="640" src="https://drive.google.com/file/d/1vWBG_7XLrolXmnVIeDRVPQQV4yH0VoHH/preview"></iframe>
-
+<iframe allowfullscreen="true" height="487" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJHjlU7jfAcpaJVC3bvIxzIJOw1futlWnwDN3Fofv7XFvL6uompMHpIEJUet88HR-4L3reds1t2XXa/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<p>Demo of 60th Anniversary Overview video hosted on a Google Drive. 
+	</p><ul>
+		<li>The video must be saved onto a Google Drive.</li>
+		<li>A Google Slide need to be created.</li>
+		<li>The video is then inserted into the GSlide.</li>
+		<li>Publish the GSlide using the embed option.</li>
+		<li>Paste the Gslide's embed code into the webpage.</li>
+		</ul>
+	<p></p>
+	<p>Downsides are ... 
+</p><ul>
+		<li>Video is not resize when the webpage size changes from desktop to mobile view. The right side of the video may extend beyond the screen.</li>
+		<li>A Google Slide need to be created.</li>
+		<li>The video is then inserted into the GSlide.</li>
+		<li>Publish the GSlide using the embed option.</li>
+		<li>Paste the Gslide's embed code into the webpage.</li>
+		</ul>
+<p></p>	
 <br>
 
 <hr>
