@@ -4,39 +4,17 @@ permalink: /testpage/
 description: ""
 variant: markdown
 ---
-#### Embedded 60th Anniversary Overview Video
+#### 60th Anniversary Overview Video on Youtube
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/F9miy3c2ZRY?si=5nkNPSAdDBwbGriM" height="315" width="560"></iframe><br><small class="--yck-step--1">Non-responsive (fixed sized version)</small>
 
 <div class="yck-component">
    <div class="yck-gallery-container">
-        <div class="yck-iframe-container --yck-space-s-l">
-           <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/F9miy3c2ZRY?si=5nkNPSAdDBwbGriM" height="315" width="560"></iframe>
+        <div class="yck-iframe-container">
+           <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YCKSS 60th Anniversary Overview Video" src="https://www.youtube.com/embed/F9miy3c2ZRY?si=5nkNPSAdDBwbGriM" height="315" width="560"></iframe>
         </div><small class="h6">Responsive (auto-sizes version)</small>
 	</div>
 
-<p>Demo of 60th Anniversary Overview video hosted on a Google Drive. 
-	</p><ul>
-		<li>The video must be saved onto a Google Drive.</li>
-		<li>A Google Slide need to be created.</li>
-		<li>The video is then inserted into the GSlide.</li>
-		<li>Publish the GSlide using the embed option.</li>
-		<li>Paste the Gslide's embed code into the webpage.</li>
-		</ul>
-The only ugly downside is that the Google Slides will always appear under the video since the video is inserted into a Google Slide. Branding ...<p></p>
-</div>
 
-<h4>Example how an embedded Youtube video and Google Slide responds to changes in screen size on variours devices</h4>
-<div class="yck-component">
-   <div class="yck-gallery-container"><i>Youtube</i>
-        <div class="yck-iframe-container">
-           <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/F9miy3c2ZRY?si=5nkNPSAdDBwbGriM" height="315" width="560"></iframe>
-        </div>
-		  <div class="yck-iframe-container">
-		 <iframe allowfullscreen="true" height="839" width="1440" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJHjlU7jfAcpaJVC3bvIxzIJOw1futlWnwDN3Fofv7XFvL6uompMHpIEJUet88HR-4L3reds1t2XXa/embed?start=true&amp;loop=true&amp;delayms=60000"></iframe>
-	</div>
-	</div>
-	</div>
 <br>
 
 <hr>
@@ -615,4 +593,4 @@ The only ugly downside is that the Google Slides will always appear under the vi
 }
 	
 	
-</style>
+</style></div>
