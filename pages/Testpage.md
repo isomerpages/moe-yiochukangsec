@@ -16,12 +16,7 @@ variant: markdown
 		<li>Paste the Gslide's embed code into the webpage.</li>
 		</ul>
 <p></p>
-	<p>Downsides are ... 
-</p><ul>
-		<li>Video is not resize when the webpage size changes from desktop to mobile view. The right side of the video may extend beyond the screen. <i>Example just below ...</i></li>
-		<li>There will always be a Google Slides with the slide navigation under the video.</li>
-		</ul>
-<p></p>	
+
 <h4>Example how an embedded Youtube video and Google Slide responds to changes in screen size on variours devices</h4>
 <div class="yck-component">
    <div class="yck-gallery-container"><i>Youtube</i>
