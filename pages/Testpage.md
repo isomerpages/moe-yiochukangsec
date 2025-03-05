@@ -21,7 +21,7 @@ The only ugly downside is that the Google Slides will always appear under the vi
 <div class="yck-component">
    <div class="yck-gallery-container"><i>Youtube</i>
         <div class="yck-iframe-container">
-            <iframe src="https://www.youtube.com/embed/nZCKqhtKvpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+           <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/F9miy3c2ZRY?si=5nkNPSAdDBwbGriM" height="315" width="560"></iframe>
         </div>
 		  <div class="yck-iframe-container">
 		 <iframe allowfullscreen="true" height="839" width="1440" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJHjlU7jfAcpaJVC3bvIxzIJOw1futlWnwDN3Fofv7XFvL6uompMHpIEJUet88HR-4L3reds1t2XXa/embed?start=true&amp;loop=true&amp;delayms=60000"></iframe>
