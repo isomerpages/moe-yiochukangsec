@@ -15,7 +15,7 @@ variant: markdown
 		<li>Publish the GSlide using the embed option.</li>
 		<li>Paste the Gslide's embed code into the webpage.</li>
 		</ul>
-<p></p>
+The only ugly downside is that the Google Slides will always appear under the video since the video is inserted into a Google Slide. Branding ...<p></p>
 
 <h4>Example how an embedded Youtube video and Google Slide responds to changes in screen size on variours devices</h4>
 <div class="yck-component">
