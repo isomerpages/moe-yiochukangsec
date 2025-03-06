@@ -193,17 +193,8 @@ variant: markdown
 
 <style>
 :root {
-    --yck-color-text-light: #888;
-    --yck-color-border: #e0e0e0;
-    --yck-text-line-height: 1.6em;
-    --yck-heading-line-height: 1.2em;
-    --yck-heading-letter-spacing: -0.02em;
-    --yck-content-width: 100%;
-    --yck-transition-speed: 0.8s;
-    --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
-    --yck-spacing-unit: 1em;
-    --yck-border-radius: 4px;
-    --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  --yck-spacing-unit: 1em;
+	--yck-line-height: 1.55em;
 
     /* @link https://utopia.fyi/type/calculator?c=320,18,1.125,1240,18,1.2,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
 
@@ -221,9 +212,10 @@ variant: markdown
 
 
 .yck-component {
-    line-height: var(--yck-text-line-height);
     letter-spacing: normal;
     font-size: var(--yck-step-0);
+	 line-height: var(--yck-line-height);
+	margin-bottom: var(--yck-space-s-l);
 }
 
 .yck-component h1,
@@ -234,10 +226,7 @@ variant: markdown
 .yck-component h6,
 .yck-component p {
     overflow-wrap: break-word;
-}
-
-.yck-component p {
-    text-wrap: pretty;
+	  
 }
 	
 .yck-component p:last-child {
@@ -257,33 +246,24 @@ variant: markdown
 .yck-component h1 {
     font-size: var(--yck-step-5);
     margin-bottom: var(--yck-space-s-l);
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
 .yck-component .yck-h2,
 .yck-component h2 {
     font-size: var(--yck-step-4);
     margin-bottom: var(--yck-space-s-l) * 0.8;
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
 .yck-component .yck-h3,
 .yck-component h3 {
     font-size: var(--yck-step-3);
-    margin-bottom: calc(var(--yck-space-s-l) * 0.6P);
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
+    margin-bottom: calc(var(--yck-space-s-l) * 0.6);
 }
 
 .yck-component .yck-h4,
 .yck-component h4 {
     font-size: var(--yck-step-2);
     margin-bottom: calc(var(--yck-space-s-l) * 0.4);
-    text-transform: titlecase;
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
 .yck-component .yck-h5,
@@ -291,8 +271,6 @@ variant: markdown
     font-size: var(--yck-step-1);
     margin-bottom: calc(var(--yck-space-s-l) * 0.2);
     text-transform: uppercase;
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
 .yck-component .yck-h6,
@@ -300,9 +278,6 @@ variant: markdown
     font-size: var(--yck-step-0);
     margin-bottom: calc(var(--yck-spacing-unit) * 0.1);
     text-transform: uppercase;
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
-}
 
 .yck-component .yck-text-small {
     font-size: var(--yck-step--1);
