@@ -4,15 +4,32 @@ permalink: /testpage/
 description: ""
 variant: markdown
 ---
-#### 60th Anniversary Overview Video on Youtube
-
 
 <div class="yck-component">
+
+<h4>60th Anniversary Celebrations</h4>
+
+
+
    <div class="yck-gallery-container">
         <div class="yck-iframe-container">
            <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YCKSS 60th Anniversary Celebration Overview" src="https://www.youtube.com/embed/F9miy3c2ZRY?si=5nkNPSAdDBwbGriM" height="315" width="560"></iframe>
         </div><p class="yck-text-xs">DISCLAIMER: This video is produced by [Institution Name] for educational and informational purposes only. All content remains our intellectual property and unauthorised reproduction is prohibited. While we strive for accuracy, information presented may not be current and should be independently verified. Views expressed by individuals do not necessarily represent those of [Institution Name] or the Ministry of Education, Singapore. All participants have provided consent for their appearance in this video. © [Current Year] [Institution Name]. All rights reserved. For enquiries: [contact email].
 	</p></div>
+	</div>
+	
+<div class="yck-component">
+
+<h4>Works with Google Slides Photo Gallery too ...</h4>
+
+
+
+   <div class="yck-gallery-container">
+        <div class="yck-iframe-container">	
+<iframe allowfullscreen="true" height="749" width="1280" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ-s9KQdt89XFfUwymKsIIgRmvtkqDLulgCfmlAsrVTg2eQdN8o2Caij1HfHE-dmw/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+</div>
+</div>
+</div>
 
 
 <br>
@@ -253,7 +270,7 @@ variant: markdown
 .yck-component .yck-h3,
 .yck-component h3 {
     font-size: var(--yck-step-3);
-    margin-bottom: var(--yck-space-s-l) * 0.6;
+    margin-bottom: calc(var(--yck-space-s-l) * 0.6P);
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -261,7 +278,7 @@ variant: markdown
 .yck-component .yck-h4,
 .yck-component h4 {
     font-size: var(--yck-step-2);
-    margin-bottom: var(--yck-space-s-l) * 0.4;
+    margin-bottom: calc(var(--yck-space-s-l) * 0.4);
     text-transform: titlecase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -270,7 +287,7 @@ variant: markdown
 .yck-component .yck-h5,
 .yck-component h5 {
     font-size: var(--yck-step-1);
-    margin-bottom: var(--yck-space-m);
+    margin-bottom: calc(var(--yck-space-s-l) * 0.2);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -279,7 +296,7 @@ variant: markdown
 .yck-component .yck-h6,
 .yck-component h6 {
     font-size: var(--yck-step-0);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.2);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.1);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -293,7 +310,7 @@ variant: markdown
 .yck-component .yck-text-xs {
     font-size: var(--yck-step--2);
 	  line-height: var(--yck-spacing-unit);
-    margin-bottom: var(--yck-space-s-l) * 0.6;
+    margin-bottom: calc(var(--yck-space-s-l) * 0.01);
 }
 
 .yck-component ol,
@@ -593,4 +610,4 @@ variant: markdown
 }
 	
 	
-</style></div>
+</style>
