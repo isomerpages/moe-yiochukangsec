@@ -192,8 +192,17 @@ variant: markdown
 
 <style>
 :root {
-  --yck-spacing-unit: 1em;
-	--yck-line-height: 1.5em;
+    --yck-color-text-light: #888;
+    --yck-color-border: #e0e0e0;
+    --yck-text-line-height: 1.6em;
+    --yck-heading-line-height: 1.2em;
+    --yck-heading-letter-spacing: -0.02em;
+    --yck-content-width: 100%;
+    --yck-transition-speed: 0.8s;
+    --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
+    --yck-spacing-unit: 1em;
+    --yck-border-radius: 4px;
+    --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 
     /* @link https://utopia.fyi/type/calculator?c=320,18,1.125,1240,18,1.2,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
 
@@ -211,10 +220,9 @@ variant: markdown
 
 
 .yck-component {
+    line-height: var(--yck-text-line-height);
     letter-spacing: normal;
     font-size: var(--yck-step-0);
-	 line-height: var(--yck-line-height);
-	margin-bottom: var(--yck-space-s-l);
 }
 
 .yck-component h1,
@@ -225,12 +233,12 @@ variant: markdown
 .yck-component h6,
 .yck-component p {
     overflow-wrap: break-word;
-	  
 }
-	
-.yck-component p:last-child {
-	margin-bottom: var(--yck-space-s-l);
-	}
+
+.yck-component p {
+    text-wrap: pretty;
+
+}
 
 .yck-component h1,
 .yck-component h2,
@@ -245,46 +253,61 @@ variant: markdown
 .yck-component h1 {
     font-size: var(--yck-step-5);
     margin-bottom: var(--yck-space-s-l);
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
 .yck-component .yck-h2,
 .yck-component h2 {
     font-size: var(--yck-step-4);
-    margin-bottom: calc(var(--yck-space-s-l) * 0.8);
+    margin-bottom: var(--yck-space-s-l) * 0.8;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
 .yck-component .yck-h3,
 .yck-component h3 {
     font-size: var(--yck-step-3);
-    margin-bottom: calc(var(--yck-space-s-l) * 0.6);
+    margin-bottom: var(--yck-space-s-l) * 0.6;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
 .yck-component .yck-h4,
 .yck-component h4 {
     font-size: var(--yck-step-2);
-    margin-bottom: calc(var(--yck-space-s-l) * 0.4);
+    margin-bottom: var(--yck-space-s-l) * 0.4;
+    text-transform: titlecase;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
 .yck-component .yck-h5,
 .yck-component h5 {
     font-size: var(--yck-step-1);
-    margin-bottom: calc(var(--yck-space-s-l) * 0.2);
+    margin-bottom: var(--yck-space-m);
     text-transform: uppercase;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
 .yck-component .yck-h6,
 .yck-component h6 {
     font-size: var(--yck-step-0);
-    margin-bottom: var(--yck-spacing-unit);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.2);
     text-transform: uppercase;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
 
 .yck-component .yck-text-small {
     font-size: var(--yck-step--1);
+    margin-bottom: var(--yck-space-xs);
 }
 
 .yck-component .yck-text-xs {
     font-size: var(--yck-step--2);
-	  line-height: var(--yck-line-height);
+    margin-bottom: var(--yck-space-2xs);
 }
 
 .yck-component ol,
@@ -292,9 +315,88 @@ variant: markdown
 .yck-component ul {
     font-size: var(--yck-step-0);
     margin-bottom: var(--yck-spacing-unit);
-    text-wrap: pretty;
+}	
+
+.yck-component p:last-child {
+    margin-bottom: calc(var(--yck-space-s-l)*1.125);
+}
+	
+.yck-component details {
+    max-width: 100ch;
+    margin: 1.5rem 1.25rem;
+    padding-block: var(--yck-space-s-l);
+    background-color: none;
+    border-radius: 1rem;
+    box-shadow: 0 0.05rem 0.05rem rgba(0, 0, 0, 0.05);
 }
 
+.yck-component details summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+	font-size: var(--yck-step-3);
+    margin-bottom: var(--yck-space-s-l);
+    transition: margin-bottom 0.5s ease;
+    position: relative;
+}
+
+.yck-component details summary::-webkit-details-marker,
+.yck-component details summary::marker {
+    content: " ";
+    display: none;
+}
+
+.yck-component details summary::after {
+    content: "+";
+    cursor: pointer;
+    display: grid;
+    place-content: center;
+    position: absolute;
+}
+
+.yck-component details *:not(summary) {
+    animation-name: fade;
+    animation-duration: 0.5s;
+}
+
+.yck-component details[open] summary {
+    margin-bottom: var(--yck-space-s-l);
+}
+
+.yck-component details[open] summary::after {
+    content: "×";
+}
+
+@keyframes fade {
+    0% {
+        opacity: 0;
+    }
+
+    2.5% {
+        opacity: 0.02;
+    }
+
+    5% {
+        opacity: 0.05;
+    }
+
+    10% {
+        opacity: 0.1;
+    }
+
+    25% {
+        opacity: 0.25;
+    }
+
+    60% {
+        opacity: 0.6;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+	
 .yck-component .yck-table {
     border-collapse: collapse;
     max-width: 100%;
