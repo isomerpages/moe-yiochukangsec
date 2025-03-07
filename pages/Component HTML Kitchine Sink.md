@@ -966,7 +966,7 @@ A leaflet.
     margin-bottom: var(--yck-spacing-unit);
 }	
 	
-details {
+.yck-component details {
     max-width: 100ch;
     margin: 1.5rem 1.25rem;
     padding: 1.25rem;
@@ -975,7 +975,7 @@ details {
     box-shadow: 0 0.05rem 0.05rem rgba(0, 0, 0, 0.05);
 }
 
-details summary {
+.yck-component details summary {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -986,13 +986,13 @@ details summary {
     position: relative;
 }
 
-details summary::-webkit-details-marker,
-details summary::marker {
+.yck-component details summary::-webkit-details-marker,
+.yck-component details summary::marker {
     content: " ";
     display: none;
 }
 
-details summary::after {
+.yck-component details summary::after {
     content: "+";
     font-size: 1.5rem;
     font-weight: 500;
@@ -1011,16 +1011,16 @@ details summary::after {
     border-radius: 50%;
 }
 
-details *:not(summary) {
+.yck-component details *:not(summary) {
     animation-name: fade;
     animation-duration: 0.5s;
 }
 
-details[open] summary {
+.yck-component details[open] summary {
     margin-bottom: 1.5rem;
 }
 
-details[open] summary::after {
+.yck-component details[open] summary::after {
     content: "×";
 }
 
