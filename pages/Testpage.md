@@ -147,11 +147,8 @@ variant: markdown
 </div>
 <hr>
 <div class="yck-component">
-   <ul>
-        <li>
-            <input type="checkbox" id="accordion1">
-            <label for="accordion1">Photo Gallery</label>
-<div class="yck-component">
+	<details>
+<summary>Photo Gallery</summary>
    <div class="yck-gallery-container">
         <div class="yck-iframe-container">
             <iframe src="https://www.youtube.com/embed/nZCKqhtKvpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
@@ -167,8 +164,8 @@ variant: markdown
             <img class="yck-img" alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Science/S9.png">
         </div>
     </div>
-
-</div></li>
+	</details>
+</div>
         <li>
             <input type="checkbox" id="accordion2">
             <label for="accordion2">Voices of Science</label>
@@ -186,8 +183,8 @@ variant: markdown
   </blockquote>
 </div>
         </li>
-	</ul>
-</div>
+	
+
 
 
 <style>
@@ -318,16 +315,13 @@ variant: markdown
 }	
 
 .yck-component p:last-child {
-    margin-bottom: calc(var(--yck-space-s-l)*1.125);
+    margin-bottom: calc(var(--yck-space-s-l)*1.25);
 }
 	
 .yck-component details {
     max-width: 100ch;
-    margin: 1.5rem 1.25rem;
     padding-block: var(--yck-space-s-l);
     background-color: none;
-    border-radius: 1rem;
-    box-shadow: 0 0.05rem 0.05rem rgba(0, 0, 0, 0.05);
 }
 
 .yck-component details summary {
@@ -335,10 +329,14 @@ variant: markdown
     align-items: center;
     justify-content: space-between;
 	font-size: var(--yck-step-3);
+    cursor: pointer;
     margin-bottom: var(--yck-space-s-l);
-    transition: margin-bottom 0.5s ease;
+	animation-name: fade;
+    animation-duration: 0.5s;
     position: relative;
 }
+	
+
 
 .yck-component details summary::-webkit-details-marker,
 .yck-component details summary::marker {
@@ -349,9 +347,6 @@ variant: markdown
 .yck-component details summary::after {
     content: "+";
     cursor: pointer;
-    display: grid;
-    place-content: center;
-    position: absolute;
 }
 
 .yck-component details *:not(summary) {
@@ -360,7 +355,9 @@ variant: markdown
 }
 
 .yck-component details[open] summary {
-    margin-bottom: var(--yck-space-s-l);
+   animation-name: fade;
+    animation-duration: 0.5s;
+	margin-bottom: var(--yck-space-s-l);
 }
 
 .yck-component details[open] summary::after {
