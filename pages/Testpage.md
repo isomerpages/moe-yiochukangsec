@@ -13,12 +13,11 @@ variant: markdown
    <div class="yck-gallery-container">
         <div class="yck-iframe-container">
            <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YCKSS 60th Anniversary Celebration Overview" src="https://www.youtube.com/embed/F9miy3c2ZRY?si=5nkNPSAdDBwbGriM" height="315" width="560"></iframe>
-        </div>
-		 <details>
+		<details>
 			 <summary class="yck-text-xs">DISCLAIMER: This video is produced by ... </summary>
 			 <p class="yck-text-xs">[Institution Name] for educational and informational purposes only. All content remains our intellectual property and unauthorised reproduction is prohibited. While we strive for accuracy, information presented may not be current and should be independently verified. Views expressed by individuals do not necessarily represent those of [Institution Name] or the Ministry of Education, Singapore. All participants have provided consent for their appearance in this video. © [Current Year] [Institution Name]. All rights reserved. For enquiries: [contact email].
 	</p></details></div>
-	</div>
+	</div></div>
 	
 <div class="yck-component">
 
@@ -194,7 +193,7 @@ variant: markdown
 <style>
 :root {
   --yck-spacing-unit: 1em;
-	--yck-line-height: 1.55em;
+	--yck-line-height: 1.5em;
 
     /* @link https://utopia.fyi/type/calculator?c=320,18,1.125,1240,18,1.2,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
 
@@ -251,7 +250,7 @@ variant: markdown
 .yck-component .yck-h2,
 .yck-component h2 {
     font-size: var(--yck-step-4);
-    margin-bottom: var(--yck-space-s-l) * 0.8;
+    margin-bottom: calc(var(--yck-space-s-l) * 0.8);
 }
 
 .yck-component .yck-h3,
@@ -276,18 +275,16 @@ variant: markdown
 .yck-component .yck-h6,
 .yck-component h6 {
     font-size: var(--yck-step-0);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.1);
+    margin-bottom: var(--yck-spacing-unit);
     text-transform: uppercase;
 
 .yck-component .yck-text-small {
     font-size: var(--yck-step--1);
-    margin-bottom: var(--yck-space-xs);
 }
 
 .yck-component .yck-text-xs {
     font-size: var(--yck-step--2);
-	  line-height: var(--yck-spacing-unit);
-    margin-bottom: calc(var(--yck-space-s-l) * 0.01);
+	  line-height: var(--yck-line-height);
 }
 
 .yck-component ol,
