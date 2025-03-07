@@ -433,7 +433,7 @@ variant: markdown
 }
     
  .yck-component .yck-table tbody .yck-td p:last-child {
-     padding-bottom: 1.5em;
+     padding-bottom: var(--yck-space-s-l);
  }
 
 /* Blockquote styles */
