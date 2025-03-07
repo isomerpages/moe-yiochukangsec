@@ -95,16 +95,16 @@ variant: markdown
         </thead>
         <tbody>
             <tr>
-                <td class="yck-td">Science in daily life</td>
-                <td class="yck-td">Students learn Science processes such as photosynthesis and energy conversion in food chains that are paramount to the support of life in the ecosystem.</td>
+							<td class="yck-td"><p>Science in daily life</p></td>
+                <td class="yck-td"><p>Students learn Science processes such as photosynthesis and energy conversion in food chains that are paramount to the support of life in the ecosystem.</p></td>
             </tr>
             <tr>
-                <td class="yck-td">Science in society</td>
-                <td class="yck-td">Students apply Science concepts and understand the impact of Science in society. The vertical farming facility taps on sustainable and innovative technology to grow plants/food in a limited space. This relates to the importance of finding innovative solutions to grow food in land-scarce Singapore as observed in the urban farming movement.</td>
+                <td class="yck-td"><p>Science in society</p></td>
+                <td class="yck-td"><p>Students apply Science concepts and understand the impact of Science in society. The vertical farming facility taps on sustainable and innovative technology to grow plants/food in a limited space. This relates to the importance of finding innovative solutions to grow food in land-scarce Singapore as observed in the urban farming movement.</p></td>
             </tr>
             <tr>
 							<td class="yck-td"><p>Science and the environment</p></td>
-                <td class="yck-td">Students understand how energy can be conserved through the application of sustainable technology and the importance of conserving biodiversity.</td>
+                <td class="yck-td"><p>Students understand how energy can be conserved through the application of sustainable technology and the importance of conserving biodiversity.</p></td>
             </tr>
         </tbody>
     </table>
@@ -177,7 +177,7 @@ variant: markdown
 </blockquote>
 <blockquote class="yck-blockquote">                <p>
                     “The entirety of Elementz was filled with fun. I was able to further bond with my classmates as we came up with the hypothesis for the project and executed it. I was glad to be part of my Elementz team and we even brought back a Silver medal! All in all, I felt that Elementz has allowed me to apply the concepts that I learnt in Biology to solve problems, other than the usual class work. Given the chance, I would definitely sign up for a research project again." </p> <cite><strong>Dion Kuoh Zixian, 4E1</strong></cite>
-	<p></p></blockquote>
+<p></p></blockquote>
    <blockquote class="yck-blockquote">
     <p>
        “The healthcare mentorship programme has been very fruitful and it has inspired me to work in the healthcare industry and contribute to society. I felt it was a once-in-a-lifetime experience for a 15-year-old like me to be part of this extraordinary programme. It has encouraged me to study harder for Biology. I hope future participants can reap as many benefits as I had from the experiences.” 
