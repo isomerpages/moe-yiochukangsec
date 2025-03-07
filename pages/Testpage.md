@@ -260,7 +260,7 @@ variant: markdown
 .yck-component .yck-h2,
 .yck-component h2 {
     font-size: var(--yck-step-4);
-    margin-bottom: var(--yck-space-s-l) * 0.8;
+    margin-bottom: calc(var(--yck-space-s-l) * 0.8);
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -268,7 +268,7 @@ variant: markdown
 .yck-component .yck-h3,
 .yck-component h3 {
     font-size: var(--yck-step-3);
-    margin-bottom: var(--yck-space-s-l) * 0.6;
+    margin-bottom: calc(var(--yck-space-s-l) * 0.6);
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -276,7 +276,7 @@ variant: markdown
 .yck-component .yck-h4,
 .yck-component h4 {
     font-size: var(--yck-step-2);
-    margin-bottom: var(--yck-space-s-l) * 0.4;
+    margin-bottom: calc(var(--yck-space-s-l) * 0.4);
     text-transform: titlecase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -285,7 +285,7 @@ variant: markdown
 .yck-component .yck-h5,
 .yck-component h5 {
     font-size: var(--yck-step-1);
-    margin-bottom: var(--yck-space-m);
+    margin-bottom: calc(var(--yck-space-s-l) * 0.2);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -294,7 +294,7 @@ variant: markdown
 .yck-component .yck-h6,
 .yck-component h6 {
     font-size: var(--yck-step-0);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.2);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.1);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -401,7 +401,7 @@ variant: markdown
     border-collapse: collapse;
     max-width: 100%;
     margin-top: 1.6em;
-    margin-bottom: var(--yck-spacing-unit);
+    margin-bottom: var(--yck-space-s-l);
     font-size: var(--yck-step-0);
 }
 
@@ -422,13 +422,14 @@ variant: markdown
     border-bottom: 1px solid #ddd;
     max-width: 320px;
     word-wrap: break-word;
-    line-height: 1.6rem;
+    line-height: 1.125rem;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
   }
 
 .yck-component .yck-table tbody .yck-td p {
     margin-block: 0;
+	line-height: 1.35rem;
     padding-bottom: 0.5em;
 }
     
