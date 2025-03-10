@@ -966,4 +966,92 @@ A leaflet.
     margin-bottom: var(--yck-spacing-unit);
 }	
 	
+.yck-component details {
+    max-width: 100ch;
+    margin: 1.5rem 1.25rem;
+    padding: 1.25rem;
+    background-color: none;
+    border-radius: 1rem;
+    box-shadow: 0 0.05rem 0.05rem rgba(0, 0, 0, 0.05);
+}
+
+.yck-component details summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: 400;
+	  font-size: 1.75rem;
+    margin-bottom: 0;
+    transition: margin-bottom 0.5s ease;
+    position: relative;
+}
+
+.yck-component details summary::-webkit-details-marker,
+.yck-component details summary::marker {
+    content: " ";
+    display: none;
+}
+
+.yck-component details summary::after {
+    content: "+";
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 1;
+    margin-right: 0.8rem;
+    cursor: pointer;
+    background-color: rgba(255, 195, 5, 0.25);
+    padding: 0.75rem;
+    display: grid;
+    place-content: center;
+    aspect-ratio: 1;
+    line-height: 0;
+    position: absolute;
+    top: 0.5rem;
+    right: -1.5rem;
+    border-radius: 50%;
+}
+
+.yck-component details *:not(summary) {
+    animation-name: fade;
+    animation-duration: 0.5s;
+}
+
+.yck-component details[open] summary {
+    margin-bottom: 1.5rem;
+}
+
+.yck-component details[open] summary::after {
+    content: "×";
+}
+
+@keyframes fade {
+    0% {
+        opacity: 0;
+    }
+
+    2.5% {
+        opacity: 0.02;
+    }
+
+    5% {
+        opacity: 0.05;
+    }
+
+    10% {
+        opacity: 0.1;
+    }
+
+    25% {
+        opacity: 0.25;
+    }
+
+    60% {
+        opacity: 0.6;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+	
 </style>

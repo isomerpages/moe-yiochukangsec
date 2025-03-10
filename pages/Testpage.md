@@ -6,6 +6,47 @@ variant: markdown
 ---
 <div class="yck-component">
 
+<h4>60th Anniversary Celebrations</h4>
+
+
+
+   <div class="yck-gallery-container">
+        <div class="yck-iframe-container">
+           <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YCKSS 60th Anniversary Celebration Overview" src="https://www.youtube.com/embed/F9miy3c2ZRY?si=5nkNPSAdDBwbGriM" height="315" width="560"></iframe>
+		<details>
+			 <summary class="yck-text-xs">DISCLAIMER: This video is produced by ... </summary>
+			 <p class="yck-text-xs">[Institution Name] for educational and informational purposes only. All content remains our intellectual property and unauthorised reproduction is prohibited. While we strive for accuracy, information presented may not be current and should be independently verified. Views expressed by individuals do not necessarily represent those of [Institution Name] or the Ministry of Education, Singapore. All participants have provided consent for their appearance in this video. © [Current Year] [Institution Name]. All rights reserved. For enquiries: [contact email].
+	</p></details></div>
+	</div></div>
+	
+<div class="yck-component">
+
+<h4>Works with Google Slides Photo Gallery too ...</h4>
+
+
+
+   <div class="yck-gallery-container">
+        <div class="yck-iframe-container">	
+<iframe allowfullscreen="true" height="749" width="1280" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ-s9KQdt89XFfUwymKsIIgRmvtkqDLulgCfmlAsrVTg2eQdN8o2Caij1HfHE-dmw/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+</div>
+</div>
+</div>
+
+
+<br>
+
+<hr>
+
+#### Customized embed via GSlides
+<iframe allowfullscreen="false" height="487px" width="800px" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSYdoHxbLzDy0zqSKsRUd1w--IYPdoCn337q6SZP0igd26jwTB0vKVsb5VypGdSLyijlQp8ZAYGIWMS/embed?start=true&amp;loop=true&amp;delayms=60000"></iframe>
+<p>The above is a demo showing how Google Slides can be embedded within a page. This allows the owner of the page or whoever is incharge to upload the pictures. There are some cavaets to iron out though. </p>
+<br>
+<hr><br>
+
+<div class="yck-component">
+
+# Science Dept. Demo ...
+
    <img alt="Science Curriculum Image" src="/images/Our%20Curriculum/Academic%20Programmes/Science/S1.jpg">
     <p>
         Please <a href="/files/Academic%20Programmes/Science/Science_Department_Programme_and_Subject_Information.pdf">click here</a> for more details on the department programme and subject information.
@@ -54,16 +95,16 @@ variant: markdown
         </thead>
         <tbody>
             <tr>
-                <td class="yck-td">Science in daily life</td>
-                <td class="yck-td">Students learn Science processes such as photosynthesis and energy conversion in food chains that are paramount to the support of life in the ecosystem.</td>
+							<td class="yck-td"><p>Science in daily life</p></td>
+                <td class="yck-td"><p>Students learn Science processes such as photosynthesis and energy conversion in food chains that are paramount to the support of life in the ecosystem.</p></td>
             </tr>
             <tr>
-                <td class="yck-td">Science in society</td>
-                <td class="yck-td">Students apply Science concepts and understand the impact of Science in society. The vertical farming facility taps on sustainable and innovative technology to grow plants/food in a limited space. This relates to the importance of finding innovative solutions to grow food in land-scarce Singapore as observed in the urban farming movement.</td>
+                <td class="yck-td"><p>Science in society</p></td>
+                <td class="yck-td"><p>Students apply Science concepts and understand the impact of Science in society. The vertical farming facility taps on sustainable and innovative technology to grow plants/food in a limited space. This relates to the importance of finding innovative solutions to grow food in land-scarce Singapore as observed in the urban farming movement.</p></td>
             </tr>
             <tr>
 							<td class="yck-td"><p>Science and the environment</p></td>
-                <td class="yck-td">Students understand how energy can be conserved through the application of sustainable technology and the importance of conserving biodiversity.</td>
+                <td class="yck-td"><p>Students understand how energy can be conserved through the application of sustainable technology and the importance of conserving biodiversity.</p></td>
             </tr>
         </tbody>
     </table>
@@ -106,11 +147,8 @@ variant: markdown
 </div>
 <hr>
 <div class="yck-component">
-   <ul>
-        <li>
-            <input type="checkbox" id="accordion1">
-            <label for="accordion1">Photo Gallery</label>
-<div class="yck-component">
+	<details>
+<summary>Photo Gallery</summary>
    <div class="yck-gallery-container">
         <div class="yck-iframe-container">
             <iframe src="https://www.youtube.com/embed/nZCKqhtKvpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
@@ -126,8 +164,8 @@ variant: markdown
             <img class="yck-img" alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Science/S9.png">
         </div>
     </div>
-
-</div></li>
+	</details>
+</div>
         <li>
             <input type="checkbox" id="accordion2">
             <label for="accordion2">Voices of Science</label>
@@ -136,7 +174,7 @@ variant: markdown
 </blockquote>
 <blockquote class="yck-blockquote">                <p>
                     “The entirety of Elementz was filled with fun. I was able to further bond with my classmates as we came up with the hypothesis for the project and executed it. I was glad to be part of my Elementz team and we even brought back a Silver medal! All in all, I felt that Elementz has allowed me to apply the concepts that I learnt in Biology to solve problems, other than the usual class work. Given the chance, I would definitely sign up for a research project again." </p> <cite><strong>Dion Kuoh Zixian, 4E1</strong></cite>
-	<p></p></blockquote>
+<p></p></blockquote>
    <blockquote class="yck-blockquote">
     <p>
        “The healthcare mentorship programme has been very fruitful and it has inspired me to work in the healthcare industry and contribute to society. I felt it was a once-in-a-lifetime experience for a 15-year-old like me to be part of this extraordinary programme. It has encouraged me to study harder for Biology. I hope future participants can reap as many benefits as I had from the experiences.” 
@@ -145,8 +183,8 @@ variant: markdown
   </blockquote>
 </div>
         </li>
-	</ul>
-</div>
+	
+
 
 
 <style>
@@ -196,6 +234,7 @@ variant: markdown
 
 .yck-component p {
     text-wrap: pretty;
+
 }
 
 .yck-component h1,
@@ -218,7 +257,7 @@ variant: markdown
 .yck-component .yck-h2,
 .yck-component h2 {
     font-size: var(--yck-step-4);
-    margin-bottom: var(--yck-space-s-l) * 0.8;
+    margin-bottom: calc(var(--yck-space-s-l) * 0.8);
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -226,7 +265,7 @@ variant: markdown
 .yck-component .yck-h3,
 .yck-component h3 {
     font-size: var(--yck-step-3);
-    margin-bottom: var(--yck-space-s-l) * 0.6;
+    margin-bottom: calc(var(--yck-space-s-l) * 0.6);
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -234,7 +273,7 @@ variant: markdown
 .yck-component .yck-h4,
 .yck-component h4 {
     font-size: var(--yck-step-2);
-    margin-bottom: var(--yck-space-s-l) * 0.4;
+    margin-bottom: calc(var(--yck-space-s-l) * 0.4);
     text-transform: titlecase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -243,7 +282,7 @@ variant: markdown
 .yck-component .yck-h5,
 .yck-component h5 {
     font-size: var(--yck-step-1);
-    margin-bottom: var(--yck-space-m);
+    margin-bottom: calc(var(--yck-space-s-l) * 0.2);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -252,7 +291,7 @@ variant: markdown
 .yck-component .yck-h6,
 .yck-component h6 {
     font-size: var(--yck-step-0);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.2);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.1);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -273,14 +312,93 @@ variant: markdown
 .yck-component ul {
     font-size: var(--yck-step-0);
     margin-bottom: var(--yck-spacing-unit);
-    text-wrap: pretty;
+}	
+
+.yck-component p:last-child {
+    margin-bottom: calc(var(--yck-space-s-l)*1.25);
+}
+	
+.yck-component details {
+    max-width: 100ch;
+    padding-block: var(--yck-space-s-l);
+    background-color: none;
 }
 
+.yck-component details summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+	font-size: var(--yck-step-3);
+    cursor: pointer;
+    margin-bottom: var(--yck-space-s-l);
+	animation-name: fade;
+    animation-duration: 0.5s;
+    position: relative;
+}
+	
+
+
+.yck-component details summary::-webkit-details-marker,
+.yck-component details summary::marker {
+    content: " ";
+    display: none;
+}
+
+.yck-component details summary::after {
+    content: "+";
+    cursor: pointer;
+}
+
+.yck-component details *:not(summary) {
+    animation-name: fade;
+    animation-duration: 0.5s;
+}
+
+.yck-component details[open] summary {
+   animation-name: fade;
+    animation-duration: 0.5s;
+	margin-bottom: var(--yck-space-s-l);
+}
+
+.yck-component details[open] summary::after {
+    content: "×";
+}
+
+@keyframes fade {
+    0% {
+        opacity: 0;
+    }
+
+    2.5% {
+        opacity: 0.02;
+    }
+
+    5% {
+        opacity: 0.05;
+    }
+
+    10% {
+        opacity: 0.1;
+    }
+
+    25% {
+        opacity: 0.25;
+    }
+
+    60% {
+        opacity: 0.6;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+	
 .yck-component .yck-table {
     border-collapse: collapse;
     max-width: 100%;
     margin-top: 1.6em;
-    margin-bottom: var(--yck-spacing-unit);
+    margin-bottom: var(--yck-space-s-l);
     font-size: var(--yck-step-0);
 }
 
@@ -301,18 +419,19 @@ variant: markdown
     border-bottom: 1px solid #ddd;
     max-width: 320px;
     word-wrap: break-word;
-    line-height: 1.6rem;
+    line-height: 1.125rem;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
   }
 
 .yck-component .yck-table tbody .yck-td p {
     margin-block: 0;
+	line-height: 1.35rem;
     padding-bottom: 0.5em;
 }
     
  .yck-component .yck-table tbody .yck-td p:last-child {
-     padding-bottom: 1.5em;
+     padding-bottom: var(--yck-space-s-l);
  }
 
 /* Blockquote styles */
@@ -365,7 +484,6 @@ variant: markdown
 .yck-component .yck-gallery-container {
     display: flex;
     flex-direction: column;
-    align-items: center;
     gap: 1em;
 }
 
