@@ -52,7 +52,7 @@ description: Mocking up pages before public release
     </section>
 
 <section>
-        <h3>Annual Events and Courses</h3>
+        <h3>Events and Courses</h3>
 
 <table>
     <thead>
@@ -167,3 +167,8 @@ description: Mocking up pages before public release
     </tbody>
 </table>
     </section>
+		
+<section>
+	<h3>Gallery</h3>
+	
+</section>
