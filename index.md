@@ -24,7 +24,7 @@ sections:
       subtitle: Singapore schools
       button: Winning Entries
       url: https://www.yiochukangsec.moe.edu.sg/2024-winning-entries/
-      image: /images/Sscwc/SSCWCWinningEntries2025.png
+      image: /images/Sscwc/SSCWCWinningEntries.png
       alt: Image alt text
   - infopic:
       title: Visit Us
