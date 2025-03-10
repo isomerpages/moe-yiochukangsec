@@ -5,7 +5,7 @@ variant: markdown
 description: Mocking up pages before public release
 ---
 <header>
-        <h1>Nurturing Leaders and Responsible Citizens</h1>
+        <h2>Nurturing Leaders and Responsible Citizens</h2>
     </header>
 
 <section>
@@ -25,7 +25,7 @@ description: Mocking up pages before public release
     </section>
 
 <section>
-        <h2>CCA Details</h2>
+        <h3>Training Schedule</h3>
         <table>
             <thead>
                 <tr>
@@ -52,7 +52,7 @@ description: Mocking up pages before public release
     </section>
 
 <section>
-        <h2>Annual Events and Courses</h2>
+        <h3>Annual Events and Courses</h3>
 
 <table>
     <thead>
