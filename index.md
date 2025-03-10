@@ -22,9 +22,9 @@ sections:
   - infopic:
       title: Cyber Wellness Challenge 2024
       subtitle: Singapore schools
-      button: Find Out More
-      url: https://www.yiochukangsec.moe.edu.sg/sscwc/sscwc2024/
-      image: /images/Homepage.png
+      button: Winning Entries
+      url: https://www.yiochukangsec.moe.edu.sg/2024-winning-entries/
+      image: /images/Sscwc/SSCWCWinningEntries2025.png
       alt: Image alt text
   - infopic:
       title: Visit Us
