@@ -55,82 +55,115 @@ description: Mocking up pages before public release
         <h2>Annual Events and Courses</h2>
 
 <table>
-            <thead>
-                <tr>
-                    <th>Events</th>
-                    <th>Courses</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>Air Pistol Shooting Programme</td>
-                    <td>Basic Law Course</td>
-                </tr>
-                <tr>
-                    <td>Annual Unit Camp</td>
-                    <td>Cadet Leader Course</td>
-                </tr>
-                <tr>
-                    <td>Area 11 Adventure &amp; Survival Training Camp</td>
-                    <td>Campcraft Course</td>
-                </tr>
-                <tr>
-                    <td>Area 11 Secondary 1 Cadets Swearing In Ceremony</td>
-                    <td>Crime Scene Investigation Course</td>
-                </tr>
-                <tr>
-                    <td>Area 11 Games Day</td>
-                    <td>Drill Course</td>
-                </tr>
-                <tr>
-                    <td>Crime Prevention Programme</td>
-                    <td>Homefront Security Course</td>
-                </tr>
-                <tr>
-                    <td>Home Team Gallery Visit</td>
-                    <td>Leadership and Mentoring Skills Course</td>
-                </tr>
-                <tr>
-                    <td>K-9 Dog Unit Visit</td>
-                    <td>Marksmanship Course</td>
-                </tr>
-                <tr>
-                    <td>Neighbourhood Police Centre Visit</td>
-                    <td>Non-Commissioned Officer Course</td>
-                </tr>
-                <tr>
-                    <td>NPCC Annual Parade (NPAP)</td>
-                    <td>Oral Communication Course</td>
-                </tr>
-                <tr>
-                    <td>Police Heritage Visit</td>
-                    <td>Police Procedures Course</td>
-                </tr>
-                <tr>
-                    <td>Yeoman for National School Games (Swimming)</td>
-                    <td>Road Safety Course</td>
-                </tr>
-                <tr>
-                    <td>Police Youth Ambassador</td>
-                    <td>Unarmed Tactics Course</td>
-                </tr>
-                <tr>
-                    <td>Sports Enrichment Programme (SEP)</td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>Total Defence Programme</td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>YCKSS National Day Parade</td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>YCKSS Speech Day Parade</td>
-                    <td></td>
-                </tr>
-            </tbody>
-        </table>
+    <thead>
+        <tr>
+            <th>
+                <h4>EVENTS</h4>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Air Pistol Shooting Programme</td>
+        </tr>
+        <tr>
+            <td>Annual Unit Camp</td>
+        </tr>
+        <tr>
+            <td>Area 11 Adventure &amp; Survival Training Camp</td>
+        </tr>
+        <tr>
+            <td>Area 11 Secondary 1 Cadets Swearing In Ceremony</td>
+        </tr>
+        <tr>
+            <td>Area 11 Games Day</td>
+        </tr>
+        <tr>
+            <td>Crime Prevention Programme</td>
+        </tr>
+        <tr>
+            <td>Home Team Gallery Visit</td>
+        </tr>
+        <tr>
+            <td>K-9 Dog Unit Visit</td>
+        </tr>
+        <tr>
+            <td>Neighbourhood Police Centre Visit</td>
+        </tr>
+        <tr>
+            <td>NPCC Annual Parade (NPAP)</td>
+        </tr>
+        <tr>
+            <td>Police Heritage Visit</td>
+        </tr>
+        <tr>
+            <td>Yeoman for National School Games (Swimming)</td>
+        </tr>
+        <tr>
+            <td>Police Youth Ambassador</td>
+        </tr>
+        <tr>
+            <td>Sports Enrichment Programme (SEP)</td>
+        </tr>
+        <tr>
+            <td>Total Defence Programme</td>
+        </tr>
+        <tr>
+            <td>YCKSS National Day Parade</td>
+        </tr>
+        <tr>
+            <td>YCKSS Speech Day Parade</td>
+        </tr>
+    </tbody>
+</table>
+<table>
+    <thead>
+        <tr>
+            <th>
+                <h4>COURSES</h4>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Basic Law Course</td>
+        </tr>
+        <tr>
+            <td>Cadet Leader Course</td>
+        </tr>
+        <tr>
+            <td>Campcraft Course</td>
+        </tr>
+        <tr>
+            <td>Crime Scene Investigation Course</td>
+        </tr>
+        <tr>
+            <td>Drill Course</td>
+        </tr>
+        <tr>
+            <td>Homefront Security Course</td>
+        </tr>
+        <tr>
+            <td>Leadership and Mentoring Skills Course</td>
+        </tr>
+        <tr>
+            <td>Marksmanship Course</td>
+        </tr>
+        <tr>
+            <td>Non-Commissioned Officer Course</td>
+        </tr>
+        <tr>
+            <td>Oral Communication Course</td>
+        </tr>
+        <tr>
+            <td>Police Procedures Course</td>
+        </tr>
+        <tr>
+            <td>Road Safety Course</td>
+        </tr>
+        <tr>
+            <td>Unarmed Tactics Course</td>
+        </tr>
+    </tbody>
+</table>
     </section>
-
