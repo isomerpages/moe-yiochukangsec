@@ -6,6 +6,7 @@ description: Mocking up pages before public release
 ---
 <style> .video-wrapper { width: 100%; margin-bottom: 5px; /\* Space between video and caption \*/ } .video-container { position: relative; width: 100%; padding-bottom: 56.25%; /\* 16:9 aspect ratio \*/ height: 0; overflow: hidden; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } .video-caption { font-style: italic; color: #999; /\* Light gray \*/ font-size: 0.8em; text-align: left; margin-top: 5px; /\* Space between video and caption \*/ } </style> <div class="video-wrapper"> <div class="video-container"> <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YCKSS 60th Anniversary Celebration Overview" src="https://www.youtube.com/embed/F9miy3c2ZRY?si=5nkNPSAdDBwbGriM" height="315" width="560"></iframe> </div> <p class="video-caption">YCKSS 60th Anniversary Celebration Overview</p> </div>
 
+<div class="yck-component">
 <details>
 	<summary>Digital Animation Club</summary>
 	    <article>
@@ -91,10 +92,10 @@ description: Mocking up pages before public release
                 </section>
             
 </details>
-
+</div>
 
 <hr>
-
+<div class="yck-component">
 <details>
 <summary>
        NPCC
@@ -266,6 +267,8 @@ description: Mocking up pages before public release
 	
 </section>
 </details>
+	
+</div>
 
 <style>
 
