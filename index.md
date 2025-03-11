@@ -20,6 +20,14 @@ sections:
       background: /images/Homepage/2024_YCKSS_Homepage_GIF.gif
       variant: image
   - infopic:
+      title: 60th Anniversary Celebration
+      subtitle: YIO CHU KANG SECONDARY SCHOOL
+      id: infopic
+      button: Come and join us
+      url: https://www.yiochukangsec.moe.edu.sg/60th-anniversary-celebrations/
+      image: /images/60th_Anniversary_Celebration.gif
+      alt: 60th Celebration GIF
+  - infopic:
       title: Cyber Wellness Challenge
       subtitle: Singapore schools
       button: Winning Entries
