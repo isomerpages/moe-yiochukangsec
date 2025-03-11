@@ -32,4 +32,12 @@ sections:
       url: https://4d.silvrcraft.com/yckss360vt/index.htm
       image: /images/openhouse.jpg
       alt: Virtual Tour
+  - infopic:
+      title: 60th Anniversary Celebration
+      subtitle: YIO CHU KANG SECONDARY SCHOOL
+      id: infopic
+      button: Come and join us
+      url: https://www.yiochukangsec.moe.edu.sg/60th-anniversary-celebrations/
+      image: /images/60th_Anniversary_Celebration.gif
+      alt: 60th Celebration GIF
 ---
