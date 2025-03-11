@@ -8,9 +8,12 @@ description: ""
 	<p>Our school is celebrating her 60th Anniversary this year with a series of exciting events: the <strong>Homecoming Carnival</strong> in May, the <strong>Alumni Dinner</strong> in July, and the <strong>Concert for Hope</strong> in November. Stay tuned for more updates, and join us in making this milestone celebration unforgettable! Gather your friends and family to be part of the celebrations!</p>
 </div>
 
+<div class="yck-component">
 <div class="video-container">
   <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YCKSS 60th Anniversary Celebration Overview" src="https://www.youtube.com/embed/F9miy3c2ZRY?si=5nkNPSAdDBwbGriM" height="315" width="560"></iframe>
+	    <p class="video-caption">YCKSS 60th Anniversary Celebration Overview</p>
 	 </div>
+</div>
 	
 <style>
 
@@ -64,18 +67,29 @@ description: ""
 }
 	
 	/** Responsive Video container **/
-    .video-container {
+.yck-component  .video-container {
         position: relative;
         width: 100%;
         padding-bottom: 56.25%; /* 16:9 aspect ratio */
         height: 0;
         overflow: hidden;
     }
-    .video-container iframe {
+.yck-component .video-container iframe {
         position: absolute;
         top: 0;
         left: 0;
         width: 100%;
         height: 100%;
     }
+	
+.yck-component  .video-caption {
+            position: absolute;
+            bottom: -90px; /* Position below the video */
+            left: 0;
+            width: 100%;
+            font-style: italic;
+            color: #999; /* Light gray */
+            font-size: 0.8em;
+            text-align: left;
+	}
 </style>
