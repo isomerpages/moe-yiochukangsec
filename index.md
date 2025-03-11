@@ -24,7 +24,7 @@ sections:
       subtitle: YIO CHU KANG SECONDARY SCHOOL
       id: infopic
       button: Come and join us
-      url: https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/60th-anniversary-celebrations/
+      url: https://www.yiochukangsec.moe.edu.sg/60th-anniversary-celebrations/
       image: /images/60th_Anniversary_Celebration.gif
       alt: 60th Celebration GIF
   - infopic:
