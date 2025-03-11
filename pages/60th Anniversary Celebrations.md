@@ -16,7 +16,7 @@ description: ""
 	
 <style>
 
-	:root {
+:root {
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
@@ -31,7 +31,7 @@ description: ""
     --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
-    --yck-space-s-l: clamp(1.125rem, 0.7337rem + 1.9565vw, 2.25rem);
+    --yck-space-s-xl: clamp(1.125rem, 0.7337rem + 1.9565vw, 2.7994rem);
 }
 
 
@@ -51,11 +51,6 @@ description: ""
     overflow-wrap: break-word;
 }
 
-.yck-component p {
-    text-wrap: pretty;
-    padding-bottom: var(--yck-space-s-l);
-}
-
 .yck-component h1,
 .yck-component h2,
 .yck-component h3,
@@ -63,6 +58,17 @@ description: ""
 .yck-component h5,
 .yck-component h6 {
     text-wrap: balance;
+}
+
+.yck-component p,
+.yck-component ol,
+.yck-component ul {
+    text-wrap: pretty;
+    padding-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component p:last-child {
+    padding-bottom: var(--yck-space-s-xl);
 }
 	
 	/** Responsive Video container **/
