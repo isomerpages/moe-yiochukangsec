@@ -270,6 +270,21 @@ description: Mocking up pages before public release
 	
 </div>
 
+<section>
+	<div class="accordion">
+  <input checked="" class="accordion-select" name="select" type="radio">
+  <div class="accordion-title"><span>Title</span></div>
+  <div class="accordion-content">Content</div> 
+  <input class="accordion-select" name="select" type="radio">
+  <div class="accordion-title"><span>Title</span></div>
+  <div class="accordion-content">Content</div> 
+  <input class="accordion-select" name="select" type="radio">
+  <div class="accordion-title"><span>Title</span></div>
+  <div class="accordion-content">Content</div> 
+</div> 
+	
+</section>
+
 <style>
 
 :root {
@@ -342,5 +357,110 @@ description: Mocking up pages before public release
         width: 100%;
         height: 100%;
     }
+	
+	/** CSS Only Accordion **/
+	 .accordion {
+  box-sizing: border-box;
+  display: flex;
+  font-family: Arial, Helvetica, sans-serif;
+  overflow: hidden;
+  width: 100%;
+}
+
+.accordion-select {
+  cursor: pointer;
+  margin: 0;
+  opacity: 0;
+  z-index: 1;
+}
+
+.accordion-title {
+  position: relative;
+}
+
+.accordion-title:not(:nth-last-child(2))::after {
+  border: 1px solid transparent;
+  bottom: 0;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.accordion-title span {
+  bottom: 0px;
+  box-sizing: border-box;
+  display: block;
+  position: absolute;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.accordion-content {
+  box-sizing: border-box;
+  overflow: auto;
+  position: relative;
+  transition: margin 0.3s ease 0.1s;
+}
+
+.accordion-select:checked + .accordion-title + .accordion-content {
+  margin-bottom: 0;
+  margin-right: 0;
+}
+
+/* Generated styles starts here */ 
+
+ .accordion {
+    border-color: #dedede;
+    border-radius: 0px;
+    border-style: solid;
+    border-width: 0px;
+    flex-direction: column;
+    height: auto;
+} 
+
+ .accordion-title,
+.accordion-select  {
+    background-color: #ffffff;
+    color: #000;
+    width: 100%;
+    height: 60px;
+    font-size: 24px;
+}
+
+.accordion-select {
+    margin-bottom: -60px;
+    margin-right: -60px;
+}
+
+.accordion-title:not(:nth-last-child(2))::after {
+    border-bottom-color: #eaeaea;
+    border-right-color: transparent;
+} 
+
+ .accordion-select:hover + .accordion-title,
+.accordion-select:checked + .accordion-title {
+    background-color: #fafafa;
+} 
+
+ .accordion-title span  {	
+    transform: rotate(0deg);
+    -ms-writing-mode: lr-tb;
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=0);
+    padding-left: 30px;
+    padding-right: 30px;
+    line-height: 60px;
+} 
+
+ .accordion-content {
+    background-color: #fafafa;
+    color: #4f4f4f;
+    height: 280px;
+    margin-bottom: -280px;
+    margin-right: 0;
+    padding: 25px;
+    width: 100%;
+} 
 
 </style>
