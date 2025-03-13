@@ -98,7 +98,7 @@ variant: markdown
 
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion6">CCA&nbsp;Learning&nbsp;Outcomes&nbsp;&amp;&nbsp;Policy</label>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div class="yck-component">
     <p>The CCA Programme provides our students with a platform to discover their interests and talents. Students will progressively develop CCA-specific knowledge, skills, values and attitudes through sustained participation CCA. Explore the following tabs to learn more.</p>
     <h3>CCA Learning Outcomes</h3>
     <p>Through participating in the CCAs, we help students develop and demonstrate the following:</p>
@@ -121,8 +121,8 @@ variant: markdown
             <li>The Clubs allow students to explore and extend their interests in wide-ranging and specialised areas which may be knowledge-based or skills-based.</li>
         </ul>
     </div>
+	<div class="yck-component">
     <h3>CCA Policy</h3>
-    <div>
         <ul>
             <li>CCA participation in school is <strong>compulsory</strong> for all students in secondary schools. Students are required to be <strong>active in at least one CCA</strong>. As we strive to meet the diverse needs of the students, there is a quota in the number of members a CCA can offer due to constraint in facilities and/or manpower.</li>
             <li>A student may opt to participate in <strong>more than one CCA</strong> to broaden his/her experience, gain more exposure and learn a wider range of skills. Such involvement will be <strong>passion-driven</strong> and students <strong>will not be awarded a higher attainment</strong> for the participation in an additional CCA.</li>
@@ -136,6 +136,7 @@ variant: markdown
             </li>
         </ul>
     </div>
+	<div class="yck-component">
     <h3>CCA Stand Down for Exams</h3>
     <p>In general, CCAs will stand down 2 weeks before the start of examinations. If there are CCAs still in competitions or completing badge work in UGs, they will stand down immediately after the last day of competition. CCAs will resume after the last day of exams.</p>
     <h3>Recognition of Students’ Level of Attainment</h3>
@@ -168,34 +169,194 @@ variant: markdown
     </tbody>
 </table>
     <p>For more information on LEAPS 2.0, please refer to the following website: <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0">Leaps 2.0</a></p>
-    </div></li>
+    </div></div></li>
     </ul>
 		
 <style>
 	
-.yck-table {
+:root {
+    --yck-text-line-height: 1.6em;
+    --yck-heading-line-height: 1.2em;
+    --yck-heading-letter-spacing: -0.02em;
+    --yck-spacing-unit: 1em;
+
+    --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
+    --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
+    --yck-step-0: clamp(1.125rem, 1.125rem + 0vw, 1.125rem);
+    --yck-step-1: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem);
+    --yck-step-2: clamp(1.4238rem, 1.3556rem + 0.3412vw, 1.62rem);
+    --yck-step-3: clamp(1.6018rem, 1.4828rem + 0.5951vw, 1.944rem);
+    --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
+    --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
+
+    --yck-space-s-xl: clamp(1.125rem, 0.7337rem + 1.9565vw, 2.7994rem);
+}
+
+
+.yck-component {
+    line-height: var(--yck-text-line-height);
+    letter-spacing: normal;
+    font-size: var(--yck-step-0);
+}
+
+.yck-component h1,
+.yck-component h2,
+.yck-component h3,
+.yck-component h4,
+.yck-component h5,
+.yck-component h6,
+.yck-component p {
+    overflow-wrap: break-word;
+}
+
+.yck-component h1,
+.yck-component h2,
+.yck-component h3,
+.yck-component h4,
+.yck-component h5,
+.yck-component h6 {
+    text-wrap: balance;
+}
+
+.yck-component p,
+.yck-component ol,
+.yck-component ul {
+    text-wrap: pretty;
+    padding-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component p:last-child {
+    padding-bottom: var(--yck-space-s-xl);
+}
+	
+.yck-component .yck-table {
 	border-collapse: collapse;
 	max-width: 100%;
 	margin-top: 1.5em;
 	margin-bottom: clamp(1em, 5%, 2em);
 }
 
-.yck-th {
+.yck-component .yck-th {
 	background-color: #f2f2f2;
 	text-align: left;
 	border-bottom: 1px solid #ddd;
 	text-transform: uppercase;
 }
 
-.yck-th h4 h5 h6 {
+.yck-component .yck-th h4 h5 h6 {
 	margin: 0 0 0.5em 0;
 }
 
-.yck-td {
+.yck-component .yck-td {
 	border-bottom: 1px solid #ddd;
 	max-width: 300px;
 	word-wrap: break-word;
 	line-height: 1.6rem;
 }	
+	
+	/** CSS Only Accordion **/
+	 .accordion {
+  box-sizing: border-box;
+  display: flex;
+  font-family: inherit;
+  overflow: hidden;
+  width: 100%;
+}
+
+.accordion-select {
+  cursor: pointer;
+  margin: 0;
+  opacity: 0;
+  z-index: 1;
+}
+
+.accordion-title {
+  position: relative;
+}
+
+.accordion-title:not(:nth-last-child(2))::after {
+  border: 1px solid transparent;
+  bottom: 0;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.accordion-title span {
+  bottom: 0px;
+  box-sizing: border-box;
+  display: block;
+  position: absolute;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.accordion-content {
+  box-sizing: border-box;
+  overflow: auto;
+  position: relative;
+  transition: margin 0.3s ease 0.1s;
+}
+
+.accordion-select:checked + .accordion-title + .accordion-content {
+  margin-bottom: 0;
+  margin-right: 0;
+}
+
+/* Generated styles starts here */ 
+
+ .accordion {
+    border-color: #dedede;
+    border-radius: 0px;
+    border-style: solid;
+    border-width: 0px;
+    flex-direction: column;
+    height: auto;
+} 
+
+ .accordion-title,
+.accordion-select  {
+    background-color: #ffffff;
+    color: #000;
+    width: 100%;
+    height: 60px;
+	  font-size: var(--yck-step-4);
+}
+
+.accordion-select {
+    margin-bottom: -60px;
+    margin-right: -60px;
+}
+
+.accordion-title:not(:nth-last-child(2))::after {
+    border-bottom-color: #eaeaea;
+    border-right-color: transparent;
+} 
+
+ .accordion-select:hover + .accordion-title,
+.accordion-select:checked + .accordion-title {
+    background-color: #fafafa;
+} 
+
+ .accordion-title span  {	
+    transform: rotate(0deg);
+    -ms-writing-mode: lr-tb;
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=0);
+    padding-left: 30px;
+    padding-right: 30px;
+    line-height: 60px;
+} 
+
+ .accordion-content {
+    background-color: #fafafa;
+    color: #4f4f4f;
+    height: auto;
+    margin-right: 0;
+    padding: 25px;
+    width: 100%;
+} 
+
 
 	</style>
