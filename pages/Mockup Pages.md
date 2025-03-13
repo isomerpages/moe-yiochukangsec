@@ -451,7 +451,7 @@ description: Mocking up pages before public release
     }
 	
 	/** CSS Only Accordion **/
-.accordion {
+ .accordion {
   box-sizing: border-box;
   display: flex;
   overflow: hidden;
@@ -504,53 +504,53 @@ description: Mocking up pages before public release
 
  .accordion {
     border-color: #dedede;
-    border-radius: 0px;
+    border-radius: 8px;
     border-style: solid;
-    border-width: 0px;
+    border-width: 1px;
     flex-direction: column;
     height: auto;
 } 
 
-.accordion-title,
+ .accordion-title,
 .accordion-select  {
     background-color: #ffffff;
-    color: #000;
+    color: #7f8787;
     width: 100%;
-    height: var(--yck-step-5);
-	  font-size: var(--yck-step-4);
+    height: 65px;
+    font-size: var(--yck-step-3);
 }
 
 .accordion-select {
-    margin-bottom: -60px;
-    margin-right: -60px;
+    margin-bottom: -65px;
+    margin-right: 0;
 }
 
 .accordion-title:not(:nth-last-child(2))::after {
-    border-bottom-color: #eaeaea;
+    border-bottom-color: rgb(234, 234, 234);
     border-right-color: transparent;
 } 
 
  .accordion-select:hover + .accordion-title,
 .accordion-select:checked + .accordion-title {
-    background-color: #fafafa;
+    background-color: #ffffff;
 } 
 
  .accordion-title span  {	
     transform: rotate(0deg);
     -ms-writing-mode: lr-tb;
     filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=0);
-    padding-left: 30px;
-    padding-right: 30px;
-    line-height: 60px;
+    padding-left: 33px;
+    padding-right: 33px;
+    line-height: 65px;
 } 
 
  .accordion-content {
-    background-color: #fafafa;
-    color: #4f4f4f;
-    height: auto;
+    background-color: #f7f7f7;
+    color: #7f8787;
+    height: 280px;
+	  margin-bottom: -280px;
     margin-right: 0;
-    padding: 25px;
+    padding: 30px;
     width: 100%;
 } 
-
 </style>
