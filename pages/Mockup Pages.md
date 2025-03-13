@@ -273,13 +273,95 @@ description: Mocking up pages before public release
 <section>
 	<div class="accordion">
   <input checked="" class="accordion-select" name="select" type="radio">
-  <div class="accordion-title"><span>Title</span></div>
+  <div class="accordion-title"><span>Digital Animation Club</span></div>
+  <div class="accordion-content">
+	 <article class="yck-component">
+                    <h3>Bringing Creativity to Life</h3>
+                    <p>Yio Chu Kang Secondary School's Digital Animation Club CCA enables students to dive into the exciting world of 2D animation, using programs such as CrazyTalk Animator, Flipaclip, CapCut, and Keynote on their iPads. They learn both the technical and creative aspects of animation, developing the skills needed to create their own animated films. Our structured programme equips students with foundational knowledge and experience to prepare them for infocomm-related courses in Institutes of Higher Learning.</p>
+                    <p>Members have the opportunity to participate in prestigious competitions, including N.E.mation! and other animation challenges, showcasing their talent and creativity. Students work collaboratively to produce short animated video clips featuring dynamic 2D characters and creations. Final editing is completed using Adobe Premiere Pro and CapCut, culminating in polished, professional projects. Throughout their animation journey, students cultivate important values like teamwork, perseverance, and gratitude, making this a truly enriching experience.</p>
+                </article>
+    
+<section class="yck-component">
+                    <h3>Training Schedule</h3>
+                    <table>
+                        <tbody><tr>
+                            <th>Day &amp; Time</th>
+                            <th>Teachers-in-charge</th>
+                            <th>Venue</th>
+                        </tr>
+                        <tr>
+                            <td>Every Monday<br>3.00pm to 5.30pm</td>
+                            <td rowspan="2">
+                                <ul>
+                                    <li>Mrs Audrey Yip (ext 140)</li>
+                                    <li>Mdm Chong Nyuk Foong (ext 135)</li>
+                                    <li>Mr Christopher Tan (ext 172)</li>
+                                </ul>
+                            </td>
+                            <td rowspan="2">Digital Learning Lab 1 (Level 4)</td>
+                        </tr>
+                        <tr>
+                            <td>Every Tuesday<br>3.00pm to 5.30pm</td>
+                        </tr>
+                    </tbody></table>
+                </section>
+    
+<section class="yck-component">
+                    <h3>Events / Competitions</h3>
+                    <ul>
+                        <li>
+                            <h4>2024</h4>
+                            <ul>
+                                <li>YCKSS Chinese New Year Video Creation</li>
+                            </ul>
+                        </li>
+                        <li>
+                            <h4>2023</h4>
+                            <ul>
+                                <li>YCKSS Chinese New Year Video Creation</li>
+                                <li>YCKSS 58th Annual Speech &amp; Prize Giving Day Video</li>
+                                <li>Video Competition</li>
+                            </ul>
+                        </li>
+                        <li>
+                            <h4>2022</h4>
+                            <ul>
+                                <li>YCKSS Chinese New Year Video Creation</li>
+                                <li>YCKSS 57th Annual Speech &amp; Prize Giving Day Video</li>
+                            </ul>
+                        </li>
+                        <li>
+                            <h4>2021</h4>
+                            <ul>
+                                <li>N.E.mation!</li>
+                            </ul>
+                        </li>
+                        <li>
+                            <h4>2019</h4>
+                            <ul>
+                                <li>PacificLight's Crea8sustainability Animation Competition – 2nd Placing &amp; 3rd Placing</li>
+                            </ul>
+                        </li>
+                        <li>
+                            <h4>2018</h4>
+                            <ul>
+                                <li>N6 Cluster Media &amp; Design Festival 2018</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </section>
+    
+<section class="yck-component">&gt;
+                    <h3>Gallery</h3>
+                    <p>10 best photos from 2018 onwards</p>
+                    <p><a target="_blank" href="https://drive.google.com/drive/folders/1Rscxp9o02wDBqG9MpAXe5fucKNVVL807?usp=sharing">View Gallery</a></p>
+                </section>	
+	</div> 
+  <input class="accordion-select" name="select" type="radio">
+  <div class="accordion-title"><span>NPCC</span></div>
   <div class="accordion-content">Content</div> 
   <input class="accordion-select" name="select" type="radio">
-  <div class="accordion-title"><span>Title</span></div>
-  <div class="accordion-content">Content</div> 
-  <input class="accordion-select" name="select" type="radio">
-  <div class="accordion-title"><span>Title</span></div>
+  <div class="accordion-title"><span>60th Anniversary Celebrations</span></div>
   <div class="accordion-content">Content</div> 
 </div> 
 	
