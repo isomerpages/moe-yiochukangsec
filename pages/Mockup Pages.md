@@ -351,7 +351,7 @@ description: Mocking up pages before public release
                     </ul>
                 </section>
     
-<section class="yck-component">&gt;
+<section class="yck-component">
                     <h3>Gallery</h3>
                     <p>10 best photos from 2018 onwards</p>
                     <p><a target="_blank" href="https://drive.google.com/drive/folders/1Rscxp9o02wDBqG9MpAXe5fucKNVVL807?usp=sharing">View Gallery</a></p>
@@ -444,7 +444,7 @@ description: Mocking up pages before public release
 	 .accordion {
   box-sizing: border-box;
   display: flex;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: inherit;
   overflow: hidden;
   width: 100%;
 }
@@ -508,7 +508,7 @@ description: Mocking up pages before public release
     color: #000;
     width: 100%;
     height: 60px;
-    font-size: 24px;
+	  font-size: var(--yck-step-4);
 }
 
 .accordion-select {
@@ -538,8 +538,7 @@ description: Mocking up pages before public release
  .accordion-content {
     background-color: #fafafa;
     color: #4f4f4f;
-    height: 280px;
-    margin-bottom: -280px;
+    height: auto;
     margin-right: 0;
     padding: 25px;
     width: 100%;
