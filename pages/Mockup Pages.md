@@ -362,7 +362,17 @@ description: Mocking up pages before public release
   <div class="accordion-content">Content</div> 
   <input class="accordion-select" name="select" type="radio">
   <div class="accordion-title"><span>60th Anniversary Celebrations</span></div>
-  <div class="accordion-content">Content</div> 
+  <div class="accordion-content">
+		<div class="yck-component">
+	<p>Our school is celebrating her 60th Anniversary this year with a series of exciting events: the <strong>Homecoming Carnival</strong> in May, the <strong>Alumni Dinner</strong> in July, and the <strong>Concert for Hope</strong> in November.</p> <p>Stay tuned for more updates, and join us in making this milestone celebration unforgettable! Gather your friends and family to be part of the celebrations!</p>
+</div>
+
+<div class="yck-component">
+<div class="video-container">
+  <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="60th Anniversary Celebration Overview" src="https://www.youtube.com/embed/F9miy3c2ZRY?si=5nkNPSAdDBwbGriM" height="315" width="560"></iframe>
+	 </div>
+</div>
+		</div> 
 </div> 
 	
 </section>
@@ -373,7 +383,7 @@ description: Mocking up pages before public release
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
-    --yck-spacing-unit: 1em;
+    --yck-spacing-unit: 0.5rem;
 
     --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
     --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
@@ -507,7 +517,7 @@ description: Mocking up pages before public release
     background-color: #ffffff;
     color: #000;
     width: 100%;
-    height: 60px;
+    height: var(--yck-space-s-xl);
 	  font-size: var(--yck-step-4);
 }
 
