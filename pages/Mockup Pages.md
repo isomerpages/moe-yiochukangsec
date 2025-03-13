@@ -451,10 +451,9 @@ description: Mocking up pages before public release
     }
 	
 	/** CSS Only Accordion **/
-	 .accordion {
+.accordion {
   box-sizing: border-box;
   display: flex;
-  font-family: inherit;
   overflow: hidden;
   width: 100%;
 }
@@ -512,12 +511,12 @@ description: Mocking up pages before public release
     height: auto;
 } 
 
- .accordion-title,
+.accordion-title,
 .accordion-select  {
     background-color: #ffffff;
     color: #000;
     width: 100%;
-    height: var(--yck-space-s-xl);
+    height: var(--yck-step-5);
 	  font-size: var(--yck-step-4);
 }
 
