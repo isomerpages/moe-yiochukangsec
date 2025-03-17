@@ -7,20 +7,19 @@ description: This page will show what various HTML elements will look like using
 variant: markdown
 image: /images/0cd1870b_103f_4767_8dfd_9abfe6e11817.jpg
 ---
-
 <h2>Responsive Columns using CSS Multi-column Layout</h2>
     <div class="container">
         <div class="card">
-            <h2>Column One</h2>
-            <p>This is the content for the first column. It will adapt based on available space using CSS Multi-column Layout properties.</p>
+            <h3>Band</h3>
+             <img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Band.jpg">
         </div>
         <div class="card">
-            <h2>Column Two</h2>
-            <p>When the viewport width goes below 480px, the layout will automatically collapse to a single column.</p>
+            <h3>Drama</h3>
+           <img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/EngDrama.jpg">
         </div>
         <div class="card">
-            <h2>Column Three</h2>
-            <p>The column-width property ensures content adapts responsively without media queries or JavaScript.</p>
+            <h3>Choir</h3>
+             <img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Choir.jpg">
         </div>
     </div>
 		
