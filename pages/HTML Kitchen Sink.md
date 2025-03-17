@@ -7,7 +7,73 @@ description: This page will show what various HTML elements will look like using
 variant: markdown
 image: /images/0cd1870b_103f_4767_8dfd_9abfe6e11817.jpg
 ---
-<header role="banner">
+
+<h2>Responsive Columns using CSS Multi-column Layout</h2>
+    <div class="container">
+        <div class="card">
+            <h2>Column One</h2>
+            <p>This is the content for the first column. It will adapt based on available space using CSS Multi-column Layout properties.</p>
+        </div>
+        <div class="card">
+            <h2>Column Two</h2>
+            <p>When the viewport width goes below 480px, the layout will automatically collapse to a single column.</p>
+        </div>
+        <div class="card">
+            <h2>Column Three</h2>
+            <p>The column-width property ensures content adapts responsively without media queries or JavaScript.</p>
+        </div>
+    </div>
+		
+<style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            padding: 20px;
+            color: #333;
+        }
+        
+        .container {
+            width: 100%;
+            max-width: 1200px;
+            margin: 0 auto;
+            
+            /* CSS Multi-column Layout properties */
+            column-count: 3;
+            column-width: 160px; /* This is the key property */
+            column-gap: 20px;
+        }
+        
+        .card {
+            break-inside: avoid; /* Prevents content from breaking across columns */
+            page-break-inside: avoid; /* For older browsers */
+            padding: 20px;
+            margin-bottom: 20px;
+            background-color: #f5f5f5;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        h2 {
+            margin-bottom: 15px;
+            color: #2c3e50;
+        }
+        
+        p {
+            line-height: 1.6;
+        }
+  </style>
+
+
+<hr>
+
+<details>
+	<summary>About the HTML Kitchen Sink</summary>
+	<header role="banner">
   <h1>HTML5 Kitchen Sink</h1>
   <small>Jump to: <a href="#headings">Headings</a> |
     <a href="#sections">Sections</a> |
@@ -839,6 +905,8 @@ A leaflet.
     <a href="https://github.com/dbox/html5-kitchen-sink">GitHub</a>.
   </p>
 </footer>
+	
+</details>
 
 
 <style>
