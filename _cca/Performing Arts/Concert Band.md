@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
+
+![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Band.jpg)
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/C1NEW.png)
 The Concert Band aims to develop a dedicated group of musicians who strive to achieve excellence in instrumental music performance. Our students experience the joy of making music and forging friendships that will last for life. Band students learn instrumental and ensemble skills on a wind orchestra instrument and actively participate in school, community, and national events. New student applicants will undergo an aptitude test to determine the instrument(s) best suited to their unique abilities for them to study. Our CCA trains three times a week, with the goal of developing the students’ instrumental and ensemble skills to their highest level. With the aid of professional instructors and the support of dedicated alumni, the Concert Band seeks to bring their performances to greater heights.
 
@@ -151,6 +153,8 @@ Exchange Concerts with Sembawang Wind Orchestra
 
 	
 </ul>
+
+<iframe allowfullscreen="true" height="839" width="1440" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQEFS0lTPV_Xp8eKt4tGkoYY6QEhQp22QSGOiozcqiekV-ZlfQx9dh64lmT8ljBNw/embed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
 
 <style>
 table {
