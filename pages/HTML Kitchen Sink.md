@@ -878,22 +878,6 @@ A leaflet.
 
 
 <style>
-
-* {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-        }
-        
-        body {
-            padding: 20px;
-            color: #333;
-        }
-        
-        .container {
-            width: 100%;
-            max-width: 1200px;
-            margin: 0 auto;
             
             /* CSS Multi-column Layout properties */
             column-count: 3;
