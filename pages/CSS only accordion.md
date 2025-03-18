@@ -147,27 +147,14 @@ The Celebration of Learning Day employed the Blended Learning approach with VP M
 </section>
 </details>
 
+
+
+
 <style>
 
 @charset "UTF-8";
 	
-blockquote {
-    position: relative;
-    font-family: serif;
-    font-color: grey;
-    font-weight: 300;
-    font-size: 2.4em;
-    line-height: 1.5em;
-    font-style: italic;
-}
 
-blockquote span {
-    top: 0.25em;
-    left: -0.15em;
-    color: red;
-    font-size: 6em;
-    z-index: -1;
-}
 
 details {
     max-width: 100ch;
