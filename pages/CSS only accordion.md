@@ -147,15 +147,130 @@ The Celebration of Learning Day employed the Blended Learning approach with VP M
 </section>
 </details>
 
+<hr>
 
+
+<div class="accordion">
+  <input checked="" class="accordion-select" name="select" type="radio">
+  <div class="accordion-title"><span>Title</span></div>
+  <div class="accordion-content">Content</div> 
+  <input class="accordion-select" name="select" type="radio">
+  <div class="accordion-title"><span>Title</span></div>
+  <div class="accordion-content">Content</div> 
+  <input class="accordion-select" name="select" type="radio">
+  <div class="accordion-title"><span>Title</span></div>
+  <div class="accordion-content">Content</div> 
+</div> 
 
 
 <style>
 
 @charset "UTF-8";
 	
+ .accordion {
+  box-sizing: border-box;
+  display: flex;
+  font-family: Arial, Helvetica, sans-serif;
+  overflow: hidden;
+  width: 100%;
+}
 
+.accordion-select {
+  cursor: pointer;
+  margin: 0;
+  opacity: 0;
+  z-index: 1;
+}
 
+.accordion-title {
+  position: relative;
+}
+
+.accordion-title:not(:nth-last-child(2))::after {
+  border: 1px solid transparent;
+  bottom: 0;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.accordion-title span {
+  bottom: 0px;
+  box-sizing: border-box;
+  display: block;
+  position: absolute;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.accordion-content {
+  box-sizing: border-box;
+  overflow: auto;
+  position: relative;
+  transition: margin 0.3s ease 0.1s;
+}
+
+.accordion-select:checked + .accordion-title + .accordion-content {
+  margin-bottom: 0;
+  margin-right: 0;
+}
+
+/* Generated styles starts here */ 
+
+ .accordion {
+    border-color: #dedede;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+    flex-direction: column;
+    height: auto;
+} 
+
+ .accordion-title,
+.accordion-select  {
+    background-color: #eaeaea;
+    color: #484848;
+    width: 100%;
+    height: 65px;
+    font-size: 15px;
+}
+
+.accordion-select {
+    margin-bottom: -65px;
+    margin-right: 0;
+}
+
+.accordion-title:not(:nth-last-child(2))::after {
+    border-bottom-color: #dedede;
+    border-right-color: transparent;
+} 
+
+ .accordion-select:hover + .accordion-title,
+.accordion-select:checked + .accordion-title {
+    background-color: #dedede;
+} 
+
+ .accordion-title span  {	
+    transform: rotate(0deg);
+    -ms-writing-mode: lr-tb;
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=0);
+    padding-left: 33px;
+    padding-right: 33px;
+    line-height: 65px;
+} 
+
+ .accordion-content {
+    background-color: #fcfdfe;
+    color: #888888;
+    height: 280px;
+    margin-bottom: -280px;
+    margin-right: 0;
+    padding: 30px;
+    width: 100%;
+}
+	
 details {
     max-width: 100ch;
     margin: 1.5rem 1.25rem;
@@ -243,4 +358,6 @@ details[open] summary::after {
         opacity: 1;
     }
 }
+	
+	
 </style>
