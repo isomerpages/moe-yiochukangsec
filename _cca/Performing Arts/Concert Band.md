@@ -152,8 +152,11 @@ Exchange Concerts with Sembawang Wind Orchestra
 
 	
 </ul>
-
+<div class="yck-component">
+	<div class="video-container">
 <iframe allowfullscreen="true" height="839" width="1440" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQEFS0lTPV_Xp8eKt4tGkoYY6QEhQp22QSGOiozcqiekV-ZlfQx9dh64lmT8ljBNw/embed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
+	</div>
+</div>
 
 <style>
 	
