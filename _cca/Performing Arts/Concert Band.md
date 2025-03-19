@@ -15,7 +15,7 @@ variant: markdown
 </div>
 
 <div class="yck-component">
-	<h3>Training Schedule</h3>
+	<h3 class="yck-h4">Training Schedule</h3>
 <table class="yck-table">
             <thead>
                 <tr>
@@ -26,16 +26,15 @@ variant: markdown
             </thead>
             <tbody>
                 <tr>
-                    <td class="yck-td">Every Tuesday<br>3.00pm to 5.30pm</td>
-                    <td class="yck-td">
-                        Ms Goh Yu Fan (ext 174)<br>
-                        Mr Wong Mingwei (ext 141)<br>
-                        Mr Octave Goh (ext 136)<br>
-                        Mr Joseph George (ext 148)<br>
-                        Mdm Cindy Ong (ext 139)<br>
-                        Ms Nadia Rachael (ext 218)
+									<td class="yck-td"><p>Every Tuesday<br>3.00pm to 5.30pm</p>
+									<p>Every Thursday<br>3.00pm to 5.30pm</p></td>
+                    <td class="yck-td"><p>
+												Mr Michael Cartwright (ext 128)<br>
+                        Ms Lim Li May (ext 171)<br>
+                        Ms Nur Rafizah Bte Safiee (ext 286)<br>
+                        Ms Fong Ya Yi (Adele) (ext 122)</p>
                     </td>
-                    <td class="yck-td">NPCC Room (Level 2) &amp; <br>Blk D Classrooms (Level 1)</td>
+									<td class="yck-td"><p>Band room &amp; some classrooms (Level 2)</p></td>
                 </tr>
             </tbody>
         </table>
@@ -256,7 +255,7 @@ Exchange Concerts with Sembawang Wind Orchestra
 .yck-component .yck-h2,
 .yck-component h2 {
     font-size: var(--yck-step-4);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.8);
+    margin-bottom: calc(var(--yck-space-s-xl) * 0.7);
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -272,7 +271,7 @@ Exchange Concerts with Sembawang Wind Orchestra
 .yck-component .yck-h4,
 .yck-component h4 {
     font-size: var(--yck-step-2);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.4);
+    margin-bottom: calc(var(--yck-space-s-xl) * 0.6);
     text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -281,7 +280,7 @@ Exchange Concerts with Sembawang Wind Orchestra
 .yck-component .yck-h5,
 .yck-component h5 {
     font-size: var(--yck-step-1);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.2);
+    margin-bottom: calc(var(--yck-space-s-xl) * 0.4);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -290,7 +289,7 @@ Exchange Concerts with Sembawang Wind Orchestra
 .yck-component .yck-h6,
 .yck-component h6 {
     font-size: var(--yck-step-0);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.1);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.2);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
