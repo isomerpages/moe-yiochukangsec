@@ -214,7 +214,7 @@ Exchange Concerts with Sembawang Wind Orchestra
 .yck-component .yck-h2,
 .yck-component h2 {
     font-size: var(--yck-step-4);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.7);
+    margin-bottom: calc(var(--yck-space-s-xl) * 0.8);
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -230,7 +230,7 @@ Exchange Concerts with Sembawang Wind Orchestra
 .yck-component .yck-h4,
 .yck-component h4 {
     font-size: var(--yck-step-2);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.6);
+    margin-bottom: calc(var(--yck-space-s-xl) * 0.4);
     text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -239,7 +239,7 @@ Exchange Concerts with Sembawang Wind Orchestra
 .yck-component .yck-h5,
 .yck-component h5 {
     font-size: var(--yck-step-1);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.4);
+    margin-bottom: calc(var(--yck-space-s-xl) * 0.3);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -257,7 +257,7 @@ Exchange Concerts with Sembawang Wind Orchestra
 .yck-component .yck-table {
     border-collapse: collapse;
     max-width: 100%;
-    margin-top: 1.6em;
+    margin-top: 0.5em;
     margin-bottom: var(--yck-space-s-xl);
     font-size: var(--yck-step-0);
 }
