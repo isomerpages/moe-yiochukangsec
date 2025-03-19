@@ -219,6 +219,57 @@ Exchange Concerts with Sembawang Wind Orchestra
 .yck-component p:last-child {
     padding-bottom: var(--yck-space-s-xl);
 }
+	
+.yck-component .yck-h1,
+.yck-component h1 {
+    font-size: var(--yck-step-5);
+    margin-bottom: var(--yck-space-s-xl);
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
+
+.yck-component .yck-h2,
+.yck-component h2 {
+    font-size: var(--yck-step-4);
+    margin-bottom: calc(var(--yck-space-s-xl) * 0.8);
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
+
+.yck-component .yck-h3,
+.yck-component h3 {
+    font-size: var(--yck-step-3);
+    margin-bottom: calc(var(--yck-space-s-xl) * 0.6);
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
+
+.yck-component .yck-h4,
+.yck-component h4 {
+    font-size: var(--yck-step-2);
+    margin-bottom: calc(var(--yck-space-s-xl) * 0.4);
+    text-transform: titlecase;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
+
+.yck-component .yck-h5,
+.yck-component h5 {
+    font-size: var(--yck-step-1);
+    margin-bottom: calc(var(--yck-space-s-xl) * 0.2);
+    text-transform: uppercase;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
+
+.yck-component .yck-h6,
+.yck-component h6 {
+    font-size: var(--yck-step-0);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.1);
+    text-transform: uppercase;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
 
 table {
     width: 100%;
