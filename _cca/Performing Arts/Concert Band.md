@@ -63,12 +63,6 @@ variant: markdown
 				<li>School National Day Celebration</li>
 				<li>Exchange Concerts with Sembawang Wind Orchestra</li>
 			</ul>
-			<p> Chinese New Year celebrations<br>  
-Singapore Youth Festival<br>  
-Singapore International Band Festival<br>  
-School National Day Celebration<br>  
-Exchange Concerts with Sembawang Wind Orchestra
-			</p>
 		</div>
 	</div>
 	
