@@ -41,47 +41,6 @@ variant: markdown
 </div>
 	
 <ul class="jekyllcodex_accordion">
-
-&nbsp;&nbsp;<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Training&nbsp;Schedule</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-<p>   
-
-<table>
-  <thead>
-    <tr>
-      <th>Training Schedule</th>
-      <th>Teachers-in-charge</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <p>EVERY TUESDAY</p>
-        <p>3:00PM to 5:30PM</p>
-        <p>EVERY THURSDAY</p>
-        <p>3:00PM to 5:30PM</p>
-        <p>VENUE</p>
-        <p>Band room &amp; some classrooms (Level 2)</p>
-      </td>
-      <td>
-        <p>Mr Michael Cartwright (ext 128)</p>
-        <p>Ms Lim Li May (ext 171)</p>
-        <p>Ms Nur Rafizah Bte Safiee (ext 286)</p>
-        <p>Ms Fong Ya Yi (Adele) (ext 122)</p>
-      </td>
-    </tr>
-  </tbody>
-</table></p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
 	<li>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
