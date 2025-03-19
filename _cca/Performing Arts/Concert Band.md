@@ -273,6 +273,7 @@ details {
 
 	/* CSS Multi-column Layout properties */
 	column-count: 2;
+	column-width: 400px;
 	column-gap: 20px;
 }
 
