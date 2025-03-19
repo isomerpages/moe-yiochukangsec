@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Band.jpg)
 ![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/C1NEW.png)
 The Concert Band aims to develop a dedicated group of musicians who strive to achieve excellence in instrumental music performance. Our students experience the joy of making music and forging friendships that will last for life. Band students learn instrumental and ensemble skills on a wind orchestra instrument and actively participate in school, community, and national events. New student applicants will undergo an aptitude test to determine the instrument(s) best suited to their unique abilities for them to study. Our CCA trains three times a week, with the goal of developing the students’ instrumental and ensemble skills to their highest level. With the aid of professional instructors and the support of dedicated alumni, the Concert Band seeks to bring their performances to greater heights.
@@ -157,6 +156,62 @@ Exchange Concerts with Sembawang Wind Orchestra
 <iframe allowfullscreen="true" height="839" width="1440" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQEFS0lTPV_Xp8eKt4tGkoYY6QEhQp22QSGOiozcqiekV-ZlfQx9dh64lmT8ljBNw/embed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
 
 <style>
+	
+:root {
+    --yck-text-line-height: 1.6em;
+    --yck-heading-line-height: 1.2em;
+    --yck-heading-letter-spacing: -0.02em;
+    --yck-spacing-unit: 1em;
+
+    --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
+    --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
+    --yck-step-0: clamp(1.125rem, 1.125rem + 0vw, 1.125rem);
+    --yck-step-1: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem);
+    --yck-step-2: clamp(1.4238rem, 1.3556rem + 0.3412vw, 1.62rem);
+    --yck-step-3: clamp(1.6018rem, 1.4828rem + 0.5951vw, 1.944rem);
+    --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
+    --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
+
+    --yck-space-s-xl: clamp(1.125rem, 0.7337rem + 1.9565vw, 2.7994rem);
+}
+
+
+.yck-component {
+    line-height: var(--yck-text-line-height);
+    letter-spacing: normal;
+    font-size: var(--yck-step-0);
+}
+
+.yck-component h1,
+.yck-component h2,
+.yck-component h3,
+.yck-component h4,
+.yck-component h5,
+.yck-component h6,
+.yck-component p {
+    overflow-wrap: break-word;
+}
+
+.yck-component h1,
+.yck-component h2,
+.yck-component h3,
+.yck-component h4,
+.yck-component h5,
+.yck-component h6 {
+    text-wrap: balance;
+}
+
+.yck-component p,
+.yck-component ol,
+.yck-component ul {
+    text-wrap: pretty;
+    padding-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component p:last-child {
+    padding-bottom: var(--yck-space-s-xl);
+}
+
 table {
     width: 100%;
     border-collapse: collapse;
@@ -273,6 +328,23 @@ details[open] summary::after {
         opacity: 1;
     }
 }
+	
+	
+	/** Responsive Video container **/
+.yck-component  .video-container {
+        position: relative;
+        width: 100%;
+        padding-bottom: 56.25%; /* 16:9 aspect ratio */
+        height: 0;
+        overflow: hidden;
+    }
+.yck-component .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
 	
 .image-gallery {
     display: grid;
