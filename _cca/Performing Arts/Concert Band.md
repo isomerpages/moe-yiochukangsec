@@ -92,21 +92,16 @@ variant: markdown
 </li>
 	
 <li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Events/Competitions</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
+<div class="yck-component">
+	<input type="checkbox" id="accordion3">
+	<label class="yck-h4" for="accordion3">Events/Competitions</label>
 <p> Chinese New Year celebrations<br>  
 Singapore Youth Festival<br>  
 Singapore International Band Festival<br>  
 School National Day Celebration<br>  
 Exchange Concerts with Sembawang Wind Orchestra
 			</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+	</div>
 
 </li>
 	
