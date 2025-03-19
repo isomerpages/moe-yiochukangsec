@@ -54,6 +54,15 @@ variant: markdown
 <p><b>2015</b><br>  
 	2015 SYF 2015 Arts Presentation for Band: Certificate of Accomplishment</p> 
 		</div>
+		<div class="column">
+			<h5>Events/Competitions</h5>
+			<p> Chinese New Year celebrations<br>  
+Singapore Youth Festival<br>  
+Singapore International Band Festival<br>  
+School National Day Celebration<br>  
+Exchange Concerts with Sembawang Wind Orchestra
+			</p>
+		</div>
 	</div>
 	
 </div>
@@ -272,7 +281,6 @@ details {
 	page-break-inside: avoid; /* For older browsers */
 	padding: 20px;
 	margin-bottom: 20px;
-	background-color: #f5f5f5;
 	border-radius: 5px;
 	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
