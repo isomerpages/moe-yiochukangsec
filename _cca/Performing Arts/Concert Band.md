@@ -105,37 +105,13 @@ Exchange Concerts with Sembawang Wind Orchestra
 
 </li>
 	
-<li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">Gallery</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-<div class="image-gallery">
-<img alt="Concert Band 2025 Image 7" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_7.jpg">
-<img alt="Concert Band 2025 Image 6" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_6.jpg">
-<img alt="Concert Band 2025 Image 5" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/ConcertBand2025_5.jpg">
-	</div>
-	
-
-<details>
-	<summary><h4>Previous Moments ...</h4></summary>
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/C4.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/C5.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/C6.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/C7.png"></details>
-
-&nbsp;&nbsp;</div>
-
-</li>
-	
 	
 
 	
 </ul>
 <div class="yck-component">
+	<h4>Gallery</h4>
 	<div class="video-container">
 <iframe allowfullscreen="true" height="839" width="1440" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQEFS0lTPV_Xp8eKt4tGkoYY6QEhQp22QSGOiozcqiekV-ZlfQx9dh64lmT8ljBNw/embed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
 	</div>
