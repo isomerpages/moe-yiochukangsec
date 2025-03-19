@@ -173,7 +173,6 @@ The Celebration of Learning Day employed the Blended Learning approach with VP M
  .accordion {
   box-sizing: border-box;
   display: flex;
-  font-family: Arial, Helvetica, sans-serif;
   overflow: hidden;
   width: 100%;
 }
@@ -233,7 +232,7 @@ The Celebration of Learning Day employed the Blended Learning approach with VP M
 
  .accordion-title,
 .accordion-select  {
-    background-color: #eaeaea;
+    background-color: white;
     color: #484848;
     width: 100%;
     height: 65px;
@@ -252,7 +251,7 @@ The Celebration of Learning Day employed the Blended Learning approach with VP M
 
  .accordion-select:hover + .accordion-title,
 .accordion-select:checked + .accordion-title {
-    background-color: #dedede;
+    background-color: #fefefe;
 } 
 
  .accordion-title span  {	
@@ -265,7 +264,7 @@ The Celebration of Learning Day employed the Blended Learning approach with VP M
 } 
 
  .accordion-content {
-    background-color: #fcfdfe;
+    background-color: #fefefe;
     color: #888888;
     height: 280px;
     margin-bottom: -280px;
