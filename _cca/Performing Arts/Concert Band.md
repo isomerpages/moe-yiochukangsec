@@ -66,43 +66,10 @@ Exchange Concerts with Sembawang Wind Orchestra
 	</div>
 	
 </div>
-	
-<ul class="jekyllcodex_accordion">
-	<li>
-<div class="yck-component">
-	<input type="checkbox" id="accordion2">
-	<label class="yck-h4" for="accordion2">Proudest&nbsp;Moments</label>
-	<p> <b>2021</b><br>SYF Presentation&nbsp; - Certificate of Accomplishment</p> 
-	<p><b>2019</b><br>&nbsp;SYF Presentation&nbsp; - Certificate of Accomplishment</p>  
-	
-<p><b>2017</b><br>  
-2017 Exchange concert with Sembawang Wind Orchestra @ Singapore Botanic Gardens<br>  
-	2017 SYF Arts Presentation: Certificate of Accomplishment</p>  
- 
-<p><b>2015</b><br>  
-	2015 SYF 2015 Arts Presentation for Band: Certificate of Accomplishment</p>  
-  
-</div>
 
-</li>
-	
-<li>
-<div class="yck-component">
-	<input type="checkbox" id="accordion3">
-	<label class="yck-h4" for="accordion3">Events/Competitions</label>
-<p> Chinese New Year celebrations<br>  
-Singapore Youth Festival<br>  
-Singapore International Band Festival<br>  
-School National Day Celebration<br>  
-Exchange Concerts with Sembawang Wind Orchestra
-			</p>
-</div>
-
-</li>
-</ul>
 
 <div class="yck-component">
-	<h4>Gallery</h4>
+	<h4 class="yck-h5">Gallery</h4>
 	<div class="video-container">
 <iframe allowfullscreen="true" height="839" width="1440" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQEFS0lTPV_Xp8eKt4tGkoYY6QEhQp22QSGOiozcqiekV-ZlfQx9dh64lmT8ljBNw/embed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
 	</div>
@@ -255,16 +222,6 @@ Exchange Concerts with Sembawang Wind Orchestra
  .yck-component .yck-table tbody .yck-td p:last-child {
      margin-bottom: var(--yck-space-s-xl);
  }
-
-details {
-    max-width: 100ch;
-    background-color: inherit;
-    border-radius: 1rem;
-    margin-bottom: 2.5rem;
-    box-shadow: 0 .05rem .05rem rgba(0, 0, 0, .05);
-    font-family: inherit; /* Inherit font family */
-    font-size: inherit; /* Inherit font size */
-}
 	
 .yck-component .col-container {
 	width: 100%;
@@ -297,75 +254,7 @@ details summary {
     position: relative;
 }
 
-details summary::-webkit-details-marker,
-details summary::marker {
-    content: " ";
-    display: none;
-}
 
-details summary::after {
-    content: "+";
-    font-size: 1.25rem; /* Match button size to summary */
-    font-weight: 500;
-    margin-right: .8rem;
-    cursor: pointer;
-    background-color: inherit; /*rgba(255, 195, 5, .25);*/
-    padding: .75rem;
-    display: grid;
-    place-content: center;
-    aspect-ratio: 1;
-    line-height: 0;
-    position: absolute;
-    top: .5rem;
-    right: -1.5rem;
-    border-radius: 50%;
-}
-
-details :not(summary) {
-    animation-name: fade;
-    animation-duration: .5s;
-    font-size: inherit; /* Inherit font size for details content */
-}
-
-details[open] summary {
-    margin-bottom: 1.5rem;
-}
-
-details[open] summary::after {
-    content: "×";
-}
-
-@keyframes fade {
-    0% {
-        opacity: 0;
-    }
-
-    2.5% {
-        opacity: .02;
-    }
-
-    5% {
-        opacity: .05;
-    }
-
-    10% {
-        opacity: .1;
-    }
-
-    25% {
-        opacity: .25;
-    }
-
-    60% {
-        opacity: .6;
-    }
-
-    100% {
-        opacity: 1;
-    }
-}
-	
-	
 	/** Responsive Video container **/
 .yck-component  .video-container {
         position: relative;
