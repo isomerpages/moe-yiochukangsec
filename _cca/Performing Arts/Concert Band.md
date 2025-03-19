@@ -5,9 +5,14 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Band.jpg)
-![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Concert%20Band/C1NEW.png)
-The Concert Band aims to develop a dedicated group of musicians who strive to achieve excellence in instrumental music performance. Our students experience the joy of making music and forging friendships that will last for life. Band students learn instrumental and ensemble skills on a wind orchestra instrument and actively participate in school, community, and national events. New student applicants will undergo an aptitude test to determine the instrument(s) best suited to their unique abilities for them to study. Our CCA trains three times a week, with the goal of developing the students’ instrumental and ensemble skills to their highest level. With the aid of professional instructors and the support of dedicated alumni, the Concert Band seeks to bring their performances to greater heights.
+<div class="yck-component">
+<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Band.jpg">
+
+<p>The Concert Band aims to develop a dedicated group of musicians who strive to achieve excellence in instrumental music performance. Our students experience the joy of making music and forging friendships that will last for life.</p> 
+<p>Band students learn instrumental and ensemble skills on a wind orchestra instrument and actively participate in school, community, and national events. New student applicants will undergo an aptitude test to determine the instrument(s) best suited to their unique abilities for them to study.</p> 
+<p>Our CCA trains three times a week, with the goal of developing the students’ instrumental and ensemble skills to their highest level. With the aid of professional instructors and the support of dedicated alumni, the Concert Band seeks to bring their performances to greater heights.</p>
+	
+</div>
 
 
 
