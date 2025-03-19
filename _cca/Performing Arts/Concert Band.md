@@ -42,52 +42,20 @@ variant: markdown
 	
 <ul class="jekyllcodex_accordion">
 	<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Proudest&nbsp;Moments</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-<p> <b>2021</b><br>&nbsp;SYF Presentation&nbsp; - Certificate of Accomplishment<br><br> <b>2019</b><br>&nbsp;SYF Presentation&nbsp; - Certificate of Accomplishment<br><br>  
-	<b>2017</b><br>  
+<div class="yck-component">
+	<input type="checkbox" id="accordion2">
+	<label class="yck-h4" for="accordion2">Proudest&nbsp;Moments</label>
+	<p> <b>2021</b><br>SYF Presentation&nbsp; - Certificate of Accomplishment</p> 
+	<p><b>2019</b><br>&nbsp;SYF Presentation&nbsp; - Certificate of Accomplishment</p>  
+	
+<p><b>2017</b><br>  
 2017 Exchange concert with Sembawang Wind Orchestra @ Singapore Botanic Gardens<br>  
-2017 SYF Arts Presentation: Certificate of Accomplishment<br><br>  
+	2017 SYF Arts Presentation: Certificate of Accomplishment</p>  
  
-<b>2015</b><br>  
-2015 SYF 2015 Arts Presentation for Band: Certificate of Accomplishment<br><br>  
+<p><b>2015</b><br>  
+	2015 SYF 2015 Arts Presentation for Band: Certificate of Accomplishment</p>  
   
-<b>2013</b><br>  
-2013 SYF Arts Presentation - Certificate of Accomplishment<br><br>  
-  
-<b>2012</b><br>  
-2012 Performed with Dunman High School Symphonic Band<br>  
-2012 Performed at the YCKSS Celebrate the Arts!<br>  
-2012 Performed at the 11th Singapore-Hong Kong Exchange Program Farewell Ceremony<br>  
-2012 Hosted Macau Baptist College Band for the 17th Conference of the Asia Pacific Band Directors’ Association<br><br>  
-  
-<b>2011</b><br>  
-2011 Silver Award for SYF Central Judging<br><br>  
-<b>2010</b><br>  
-2010 YCKSS 45th Anniversary Performance<br><br>  
-  
-<b>2009</b><br>  
-2009 Gold Award for SYF Central Judging<br><br>  
-  
-<b>2008</b><br>  
-2008 Music and Cultural Exchange to Brisbane, Australia<br><br>  
-  
-<b>2007</b><br>  
-2007 Silver Award for SYF Central Judging<br><br>
-  
-<b>2005</b>  
-2005 Silver Award for SYF Central Judging<br><br> 
-  
-<b>2003</b>  
-2003 Gold Award for SYF Central Judging
-			</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+</div>
 
 </li>
 	
