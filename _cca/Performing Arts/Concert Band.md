@@ -244,18 +244,6 @@ variant: markdown
 	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-details summary {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    font-weight: 400;
-    font-size: 1.5rem; /* Slightly larger for better readability */
-    margin-bottom: 1.5rem;
-    transition: margin-bottom .5s ease;
-    position: relative;
-}
-
-
 	/** Responsive Video container **/
 .yck-component  .video-container {
         position: relative;
