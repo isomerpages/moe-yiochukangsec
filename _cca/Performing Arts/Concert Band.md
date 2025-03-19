@@ -39,6 +39,24 @@ variant: markdown
             </tbody>
         </table>
 </div>
+
+<div class="yck-component">
+	<div class="col-container">
+		<div class="column">
+			<h5>Proudest Moments</h5>
+			<p> <b>2021</b><br>SYF Presentation&nbsp; - Certificate of Accomplishment</p> 
+	<p><b>2019</b><br>&nbsp;SYF Presentation&nbsp; - Certificate of Accomplishment</p>  
+	
+<p><b>2017</b><br>  
+2017 Exchange concert with Sembawang Wind Orchestra @ Singapore Botanic Gardens<br>  
+	2017 SYF Arts Presentation: Certificate of Accomplishment</p>  
+ 
+<p><b>2015</b><br>  
+	2015 SYF 2015 Arts Presentation for Band: Certificate of Accomplishment</p> 
+		</div>
+	</div>
+	
+</div>
 	
 <ul class="jekyllcodex_accordion">
 	<li>
@@ -237,6 +255,26 @@ details {
     box-shadow: 0 .05rem .05rem rgba(0, 0, 0, .05);
     font-family: inherit; /* Inherit font family */
     font-size: inherit; /* Inherit font size */
+}
+	
+.col-container {
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto;
+
+	/* CSS Multi-column Layout properties */
+	column-count: 2;
+	column-gap: 20px;
+}
+
+.column {
+	break-inside: avoid; /* Prevents content from breaking across columns */
+	page-break-inside: avoid; /* For older browsers */
+	padding: 20px;
+	margin-bottom: 20px;
+	background-color: #f5f5f5;
+	border-radius: 5px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 details summary {
