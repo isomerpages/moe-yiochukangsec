@@ -878,7 +878,7 @@ A leaflet.
 
 
 <style>
-            
+ .container { 
             /* CSS Multi-column Layout properties */
             column-count: 3;
             column-width: 160px; /* This is the key property */
