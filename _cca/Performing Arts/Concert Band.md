@@ -19,9 +19,9 @@ variant: markdown
 <table class="yck-table">
             <thead>
                 <tr>
-                    <th class="yck-th"><h4 class="yck-h5">DAY &amp; TIME:</h4></th>
-                    <th class="yck-th"><h4 class="yck-h5">TEACHERS-IN-CHARGE</h4></th>
-                     <th class="yck-th"><h4 class="yck-h5">VENUE:</h4></th>
+                    <th class="yck-th"><h5 class="yck-h5">DAY &amp; TIME:</h5></th>
+                    <th class="yck-th"><h5 class="yck-h5">TEACHERS-IN-CHARGE</h5></th>
+                     <th class="yck-th"><h5 class="yck-h5">VENUE:</h5></th>
                 </tr>
             </thead>
             <tbody>
@@ -294,34 +294,46 @@ Exchange Concerts with Sembawang Wind Orchestra
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
-
-table {
-    width: 100%;
+	
+.yck-component .yck-table {
     border-collapse: collapse;
-    font-family: inherit; /* Inherit font family from the page */
-    font-size: inherit; /* Inherit font size from the page */
+    max-width: 100%;
+    margin-top: 1.6em;
+    margin-bottom: var(--yck-space-s-xl);
+    font-size: var(--yck-step-0);
 }
 
-th {
+.yck-component .yck-th {
     background-color: #f2f2f2;
-    padding: 10px;
     text-align: left;
-    border-bottom: 2px solid #ddd;
-    font-size: 1rem; /* Optional: relative size for clarity */
-}
-
-th h5 {
-    margin: 0;
-    font-size: 1.25rem; /* Optional: slightly larger for headers */
-}
-
-td {
-    padding: 10px;
     border-bottom: 1px solid #ddd;
-    max-width: 300px;
-    word-wrap: break-word;
-    font-size: inherit; /* Inherit font size for content */
+    text-transform: uppercase;
 }
+
+.yck-component .yck-th h4,
+.yck-component .yck-th h5,
+.yck-component .yck-th h6 {
+    margin: 0 0 0.5em;
+}
+
+.yck-component .yck-td {
+    border-bottom: 1px solid #ddd;
+    max-width: 320px;
+    word-wrap: break-word;
+    line-height: 1.125em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+  }
+
+.yck-component .yck-table tbody .yck-td p {
+    margin-block: 0;
+	  line-height: 1.5rem;
+    padding-bottom: 0.5em;
+}
+    
+ .yck-component .yck-table tbody .yck-td p:last-child {
+     margin-bottom: var(--yck-space-s-xl);
+ }
 
 details {
     max-width: 100ch;
