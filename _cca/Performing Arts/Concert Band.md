@@ -29,10 +29,10 @@ variant: markdown
 									<td class="yck-td"><p>Every Tuesday<br>3.00pm to 5.30pm</p>
 									<p>Every Thursday<br>3.00pm to 5.30pm</p></td>
                     <td class="yck-td"><p>
-												Mr Michael Cartwright (ext 128)<br>
-                        Ms Lim Li May (ext 171)<br>
-                        Ms Nur Rafizah Bte Safiee (ext 286)<br>
-                        Ms Fong Ya Yi (Adele) (ext 122)</p>
+											Mr Michael Cartwright (ext 128)</p>
+                       <p>Ms Lim Li May (ext 171)</p>
+                        <p>Ms Nur Rafizah Bte Safiee (ext 286)</p>
+                        <p>Ms Fong Ya Yi (Adele) (ext 122)</p>
                     </td>
 									<td class="yck-td"><p>Band room &amp; some classrooms (Level 2)</p></td>
                 </tr>
