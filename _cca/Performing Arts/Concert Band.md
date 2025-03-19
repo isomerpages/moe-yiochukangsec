@@ -101,6 +101,7 @@ variant: markdown
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
     font-size: var(--yck-step-0);
+	 margin-bottom: var(--yck-spacing-unit);
 }
 
 .yck-component h1,
@@ -209,14 +210,13 @@ variant: markdown
     border-bottom: 1px solid #ddd;
     max-width: 320px;
     word-wrap: break-word;
-    line-height: 1.125em;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
   }
 
 .yck-component .yck-table tbody .yck-td p {
     margin-block: 0;
-	  line-height: 1.5rem;
+	  line-height: 1.6rem;
     padding-bottom: 0.5em;
 }
     
@@ -227,7 +227,7 @@ variant: markdown
 .yck-component .col-container {
 	width: 100%;
 	max-width: 1200px;
-	margin: 0 0 auto;
+	margin: 0 auto;
 
 	/* CSS Multi-column Layout properties */
 	column-count: 2;
