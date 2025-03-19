@@ -266,7 +266,7 @@ details {
     font-size: inherit; /* Inherit font size */
 }
 	
-.col-container {
+.yck-component .col-container {
 	width: 100%;
 	max-width: 1200px;
 	margin: 0 auto;
@@ -276,7 +276,7 @@ details {
 	column-gap: 20px;
 }
 
-.column {
+.yck-component .column {
 	break-inside: avoid; /* Prevents content from breaking across columns */
 	page-break-inside: avoid; /* For older browsers */
 	padding: 20px;
