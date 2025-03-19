@@ -169,7 +169,7 @@ Exchange Concerts with Sembawang Wind Orchestra
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
-    --yck-spacing-unit: 1em;
+    --yck-spacing-unit: 0.75em;
 
     --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
     --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
