@@ -227,7 +227,7 @@ variant: markdown
 .yck-component .col-container {
 	width: 100%;
 	max-width: 1200px;
-	margin: 0 auto;
+	margin: var(--yck-spacing-unit);
 
 	/* CSS Multi-column Layout properties */
 	column-count: 2;
