@@ -213,11 +213,11 @@ Exchange Concerts with Sembawang Wind Orchestra
 .yck-component ol,
 .yck-component ul {
     text-wrap: pretty;
-    padding-bottom: var(--yck-spacing-unit);
+    margin-bottom: var(--yck-spacing-unit);
 }
 
 .yck-component p:last-child {
-    padding-bottom: var(--yck-space-s-xl);
+    padding-bottom: calc(var(--yck-space-s-xl)*2);
 }
 	
 .yck-component .yck-h1,
