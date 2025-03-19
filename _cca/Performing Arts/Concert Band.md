@@ -56,6 +56,13 @@ variant: markdown
 		</div>
 		<div class="column">
 			<h5>Events/Competitions</h5>
+			<ul>
+				<li>Chinese New Year celebrations</li>  
+				<li>Singapore Youth Festival</li>
+				<li>Singapore International Band Festival</li>
+				<li>School National Day Celebration</li>
+				<li>Exchange Concerts with Sembawang Wind Orchestra</li>
+			</ul>
 			<p> Chinese New Year celebrations<br>  
 Singapore Youth Festival<br>  
 Singapore International Band Festival<br>  
