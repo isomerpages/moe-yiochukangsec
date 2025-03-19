@@ -14,8 +14,33 @@ variant: markdown
 	
 </div>
 
-
-
+<div class="yck-component">
+	<h3>Training Schedule</h3>
+<table class="yck-table">
+            <thead>
+                <tr>
+                    <th class="yck-th"><h4 class="yck-h5">DAY &amp; TIME:</h4></th>
+                    <th class="yck-th"><h4 class="yck-h5">TEACHERS-IN-CHARGE</h4></th>
+                     <th class="yck-th"><h4 class="yck-h5">VENUE:</h4></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="yck-td">Every Tuesday<br>3.00pm to 5.30pm</td>
+                    <td class="yck-td">
+                        Ms Goh Yu Fan (ext 174)<br>
+                        Mr Wong Mingwei (ext 141)<br>
+                        Mr Octave Goh (ext 136)<br>
+                        Mr Joseph George (ext 148)<br>
+                        Mdm Cindy Ong (ext 139)<br>
+                        Ms Nadia Rachael (ext 218)
+                    </td>
+                    <td class="yck-td">NPCC Room (Level 2) &amp; <br>Blk D Classrooms (Level 1)</td>
+                </tr>
+            </tbody>
+        </table>
+</div>
+	
 <ul class="jekyllcodex_accordion">
 
 &nbsp;&nbsp;<li>
@@ -169,7 +194,7 @@ Exchange Concerts with Sembawang Wind Orchestra
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
-    --yck-spacing-unit: 0.75em;
+    --yck-spacing-unit: 1em;
 
     --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
     --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
