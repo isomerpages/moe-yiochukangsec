@@ -242,7 +242,7 @@ Exchange Concerts with Sembawang Wind Orchestra
 }
 
 .yck-component p:last-child {
-    padding-bottom: calc(var(--yck-space-s-xl)*2);
+    margin-bottom: calc(var(--yck-space-s-xl)*2);
 }
 	
 .yck-component .yck-h1,
@@ -273,7 +273,7 @@ Exchange Concerts with Sembawang Wind Orchestra
 .yck-component h4 {
     font-size: var(--yck-step-2);
     margin-bottom: calc(var(--yck-space-s-xl) * 0.4);
-    text-transform: titlecase;
+    text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
