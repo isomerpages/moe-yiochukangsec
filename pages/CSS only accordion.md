@@ -152,13 +152,16 @@ The Celebration of Learning Day employed the Blended Learning approach with VP M
 
 <div class="accordion">
   <input checked="" class="accordion-select" name="select" type="radio">
-  <div class="accordion-title"><span>Title</span></div>
+  <div class="accordion-title"><span>Social</span></div>
   <div class="accordion-content">Content</div> 
   <input class="accordion-select" name="select" type="radio">
-  <div class="accordion-title"><span>Title</span></div>
+  <div class="accordion-title"><span>Emotional</span></div>
   <div class="accordion-content">Content</div> 
   <input class="accordion-select" name="select" type="radio">
-  <div class="accordion-title"><span>Title</span></div>
+  <div class="accordion-title"><span>Physical</span></div>
+  <div class="accordion-content">Content</div> 
+ <input class="accordion-select" name="select" type="radio">
+  <div class="accordion-title"><span>Intellectual</span></div>
   <div class="accordion-content">Content</div> 
 </div> 
 
