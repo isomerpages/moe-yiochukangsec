@@ -227,7 +227,7 @@ variant: markdown
 .yck-component .col-container {
 	width: 100%;
 	max-width: 1200px;
-	margin: var(--yck-spacing-unit);
+	margin: 0 auto;
 
 	/* CSS Multi-column Layout properties */
 	column-count: 2;
@@ -239,7 +239,7 @@ variant: markdown
 	break-inside: avoid; /* Prevents content from breaking across columns */
 	page-break-inside: avoid; /* For older browsers */
 	padding: 20px;
-	margin-bottom: var(--yck-space-s-xl);
+	margin-bottom: 50px;
 	border-radius: 5px;
 	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
