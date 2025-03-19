@@ -69,15 +69,11 @@ Singapore International Band Festival<br>
 School National Day Celebration<br>  
 Exchange Concerts with Sembawang Wind Orchestra
 			</p>
-	</div>
+</div>
 
 </li>
-	
-
-	
-
-	
 </ul>
+
 <div class="yck-component">
 	<h4>Gallery</h4>
 	<div class="video-container">
