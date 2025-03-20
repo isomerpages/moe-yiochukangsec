@@ -93,8 +93,8 @@ variant: markdown
     </thead>
     <tbody>
         <tr>
-            <td class="yck-td">2017</td>
-					<td class="yck-td">Participation in 2017 NDP Performance</td>
+            <td>2017</td>
+					<td>Participation in 2017 NDP Performance</td>
         </tr>
         <tr>
             <td>2016</td>
@@ -114,21 +114,26 @@ variant: markdown
 	</div>
 	</div>
 
+<div class="yck-component">
+	
+</div>
+
+<div class="yck-component">
    <details class="yck-details">
         <summary class="yck-details__summary">Gallery</summary>
         <div class="yck-details__content">
+					<div class="video-container">
+		 <iframe src="https://www.youtube.com/embed/TYoE4UY1WXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+	</div>
             <div class="yck-gallery-container">
-                <div class="yck-iframe-container">
-                    <iframe src="https://www.youtube.com/embed/TYoE4UY1WXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-                </div>
-                <div class="yck-image-row">
+							<div class="yck-image-row">
                     <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Choir/C2.png">
                     <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Choir/C3.jpg">
                 </div>
             </div>
         </div>
     </details>
-
+</div>
 
 <style>
 	
