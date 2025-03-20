@@ -120,7 +120,7 @@ variant: markdown
 
 <div class="yck-component">
    <details class="yck-details">
-        <summary class="yck-details__summary">Gallery</summary>
+		 <summary class="yck-details__summary yck-h5">Gallery</summary>
         <div class="yck-details__content">
 					<div class="video-container">
 		 <iframe src="https://www.youtube.com/embed/TYoE4UY1WXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
