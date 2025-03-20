@@ -7,10 +7,40 @@ variant: markdown
 ---
 <div class="yck-component">
     <img class="yck-img" alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Choir/C1.jpg">
-    <p>The YCKSS Choir consists of members who share a passion for singing and music. We aim to create a nurturing environment, where they share the joy of music through performances and competitions. The students are exposed to choral reading, intonation and expression in their musical repertoire. Besides practising for competitions, the members are exposed to a whole variety of other enriching experiences, including choral workshops, public concerts and choral exchanges with other choirs. The choir has maintained a high standard of musicianship and shares the joy of music through various performances and competitions.</p>
-	
-	
-<h3>TRAINING SCHEDULE</h3>
+    <p>The YCKSS Choir consists of members who share a passion for singing and music. We aim to create a nurturing environment, where they share the joy of music through performances and competitions. The students are exposed to choral reading, intonation and expression in their musical repertoire.</p> 
+<p>Besides practising for competitions, the members are exposed to a whole variety of other enriching experiences, including choral workshops, public concerts and choral exchanges with other choirs. The choir has maintained a high standard of musicianship and shares the joy of music through various performances and competitions.</p>
+</div>
+
+<div class="yck-component">
+	<h3 class="yck-h4">Training Schedule</h3>
+<table class="yck-table">
+            <thead>
+                <tr>
+                    <th class="yck-th"><h5 class="yck-h5">DAY &amp; TIME:</h5></th>
+                    <th class="yck-th"><h5 class="yck-h5">TEACHERS-IN-CHARGE</h5></th>
+                     <th class="yck-th"><h5 class="yck-h5">VENUE:</h5></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+									<td class="yck-td"><p>Every Tuesday<br>  
+3:00PM to 5:30PM</p>
+									<p>Every Thursday<br>3.00pm to 5.30pm</p></td>
+                    <td class="yck-td"><p>
+											Mdm Vijaya (ext 203) - <i>OIC</i></p>
+                       <p>Mdm Lee Ching Fong (ext 142)</p>
+                        <p>Ms Michelle Lim (ext 135)</p>
+                        <p>Mr Loke Tuck Luen (ext 131)</p>
+                    </td>
+									<td class="yck-td"><p>Music Room, Level 1</p></td>
+                </tr>
+            </tbody>
+        </table>
+</div>
+
+
+<div class="yck-component">	
+<h4>TRAINING SCHEDULE</h4>
 
  <table class="yck-table">
         <thead>
@@ -50,7 +80,8 @@ variant: markdown
             </tr>
         </tbody>
     </table>
-	
+</div>
+
 <details class="yck-details">
         <summary class="yck-details__summary">Proudest Moments</summary>
         <div class="yck-details__content">
@@ -151,7 +182,7 @@ variant: markdown
             </div>
         </div>
     </details>
-</div>
+
 
 <style>
 	
