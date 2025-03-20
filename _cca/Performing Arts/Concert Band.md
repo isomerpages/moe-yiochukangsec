@@ -130,8 +130,9 @@ variant: markdown
     margin-bottom: var(--yck-spacing-unit);
 }
 
-.yck-component p:last-child {
-    margin-bottom: calc(var(--yck-space-s-xl)*2);
+.yck-component p:last-child,
+.yck-component li:last-child {
+    margin-bottom: calc(var(--yck-space-s-xl)*1.25);
 }
 	
 .yck-component .yck-h1,
