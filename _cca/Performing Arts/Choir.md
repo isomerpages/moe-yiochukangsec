@@ -39,136 +39,82 @@ variant: markdown
 </div>
 
 
-<div class="yck-component">	
-<h4>TRAINING SCHEDULE</h4>
 
- <table class="yck-table">
-        <thead>
-            <tr>
-                <th class="yck-th">TRAINING INFORMATION</th>
-                <th class="yck-th"></th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td class="yck-td">Day and Time</td>
-                <td class="yck-td">Every Tuesday and Thursday<br> 3:00PM to 5:30PM</td>
-            </tr>
-            <tr>
-                <td class="yck-td">Location</td>
-                <td class="yck-td">Music Room, Level 1</td>
-            </tr>
-            <tr>
-                <th class="yck-th">TEACHERS IN-CHARGE</th>
-                <th class="yck-th"></th>
-            </tr>
-            <tr>
-                <td class="yck-td">OIC</td>
-                <td class="yck-td">Mdm Vijaya (ext 203)</td>
-            </tr>
-            <tr>
-                <td class="yck-td"></td>
-                <td class="yck-td">Mdm Lee Ching Fong (ext 142)</td>
-            </tr>
-            <tr>
-                 <td class="yck-td"></td>
-                <td class="yck-td">Ms Michelle Lim (ext 135)</td>
-            </tr>
-            <tr>
-                 <td class="yck-td"></td>
-                <td class="yck-td">Mr Loke Tuck Luen (ext 131)</td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-
-<details class="yck-details">
-        <summary class="yck-details__summary">Proudest Moments</summary>
-        <div class="yck-details__content">
-            <table class="yck-table">
+<div class="yck-component">
+	<h4>Events &amp; Accomplishments</h4>
+	<div class="col-container">
+		<div class="column">
+            <table>
                 <thead>
                     <tr>
-                        <th class="yck-th">
-                            <h4 class="yck-h5">YEAR</h4>
+                        <th>
+                            <h5 class="yck-h5">YEAR</h5>
                         </th>
-                        <th class="yck-th">
+                        <th>
                             <h4 class="yck-h5">ACCOMPLISHMENTS</h4>
                         </th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
-                        <td class="yck-td">2019</td>
-                        <td class="yck-td">SYF Presentation - Certificate of Accomplishment</td>
+                        <td>2019</td>
+                        <td>SYF Presentation - Certificate of Accomplishment</td>
                     </tr>
                     <tr>
-                        <td class="yck-td">2017</td>
-                        <td class="yck-td">2017 SYF Certificate of Distinction</td>
+                        <td>2017</td>
+                        <td>2017 SYF Certificate of Distinction</td>
                     </tr>
                     <tr>
-                        <td class="yck-td">2015</td>
-                        <td class="yck-td">2015 SYF Certificate of Distinction</td>
+                        <td>2015</td>
+                        <td>2015 SYF Certificate of Distinction</td>
                     </tr>
                     <tr>
-                        <td class="yck-td">2013</td>
-                        <td class="yck-td">2013 SYF Certificate of Distinction</td>
+                        <td>2013</td>
+                        <td>2013 SYF Certificate of Distinction</td>
                     </tr>
                     <tr>
-                        <td class="yck-td">2011</td>
-                        <td class="yck-td">2011 SYF Gold with Honours</td>
+                        <td>2011</td>
+                        <td>2011 SYF Gold with Honours</td>
                     </tr>
                 </tbody>
             </table>
         </div>
-    </details>
-    <details class="yck-details">
-        <summary class="yck-details__summary">Events/Competitions</summary>
-        <div class="yck-details__content">
-            <table class="yck-table">
-                <thead>
-                    <tr>
-                        <th class="yck-th">
-                            <h4 class="yck-h5">YEAR</h4>
-                        </th>
-                        <th class="yck-th">
-                            <h4 class="yck-h5">EVENTS</h4>
-                        </th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td class="yck-td">2017</td>
-                        <td class="yck-td">Participation in 2017 NDP Performance</td>
-                    </tr>
-                    <tr>
-                        <td class="yck-td">2016</td>
-                        <td class="yck-td">Limelight 2016</td>
-                    </tr>
-                    <tr>
-                        <td class="yck-td"></td>
-                        <td class="yck-td">SYF Outreach @ the Malls</td>
-                    </tr>
-                    <tr>
-                        <td class="yck-td">2015</td>
-                        <td class="yck-td">SYF 2015</td>
-                    </tr>
-                    <tr>
-                        <td class="yck-td"></td>
-                        <td class="yck-td">49th Speech Day 2015</td>
-                    </tr>
-                    <tr>
-                        <td class="yck-td">2014</td>
-                        <td class="yck-td">48th Speech Day 2014</td>
-                    </tr>
-                    <tr>
-                        <td class="yck-td"></td>
-                        <td class="yck-td">Limelight 2014</td>
-                    </tr>
-                </tbody>
-            </table>
+		<div class="column">
+			<table class="yck-table">
+    <thead>
+        <tr>
+            <th>
+                <h5>YEAR</h5>
+            </th>
+            <th>
+                <h5>EVENTS</h5>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="yck-td">2017</td>
+					<td class="yck-td">Participation in 2017 NDP Performance</td>
+        </tr>
+        <tr>
+            <td>2016</td>
+					<td>Limelight 2016<br>SYF Outreach @ the Malls</td>
+        </tr>
+        <tr>
+            <td>2015</td>
+            <td>SYF 2015<br>49th Speech Day 2015</td>
+        </tr>
+        <tr>
+            <td>2014</td>
+            <td>48th Speech Day 2014<br>Limelight 2014</td>
+        </tr>
+    </tbody>
+</table>
         </div>
-    </details>
-    <details class="yck-details">
+	</div>
+	</div>
+
+   <details class="yck-details">
         <summary class="yck-details__summary">Gallery</summary>
         <div class="yck-details__content">
             <div class="yck-gallery-container">
