@@ -44,18 +44,18 @@ variant: markdown
 	<div class="col-container">
 		<div class="column">
 			<h5>Proudest Moments</h5>
-			<p> <b>2021</b><br>SYF Presentation&nbsp; - Certificate of Accomplishment</p> 
-	<p><b>2019</b><br>&nbsp;SYF Presentation&nbsp; - Certificate of Accomplishment</p>  
+			<p> <b>2021</b><br>SYF Presentation - Certificate of Accomplishment</p> 
+	<p><b>2019</b><br>SYF Arts Presentation - Certificate of Accomplishment</p>  
 	
 <p><b>2017</b><br>  
-2017 Exchange concert with Sembawang Wind Orchestra @ Singapore Botanic Gardens<br>  
-	2017 SYF Arts Presentation: Certificate of Accomplishment</p>  
+Exchange concert with Sembawang Wind Orchestra @ Singapore Botanic Gardens<br>  
+SYF Arts Presentation - Certificate of Accomplishment</p>  
  
 <p><b>2015</b><br>  
-	2015 SYF 2015 Arts Presentation for Band: Certificate of Accomplishment</p> 
+SYF Arts Presentation - Certificate of Accomplishment</p> 
 		</div>
 		<div class="column">
-			<h5>Events/Competitions</h5>
+			<h5>Events &amp; Competitions</h5>
 			<ul>
 				<li>Chinese New Year celebrations</li>  
 				<li>Singapore Youth Festival</li>
