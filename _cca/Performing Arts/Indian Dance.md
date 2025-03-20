@@ -5,12 +5,15 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
+<div class="yck-component">
 <img alt="Indian Dance Cover" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_Nov2023_Cover.jpg">
 
 <p>The Indian Dance CCA aims to help develop and nurture the pupils holistically. Apart from exposure to Indian culture and different styles of Indian dance, the CCA also provides opportunities to the pupils to acquire self-confidence, determination, resilience, a sense of responsibility and the ability to work with others. With these qualities and disposition which align with the school values, we hope to equip them to succeed for life.</p>
 
 <p>This year, our Indian Dance CCA had the exciting opportunity to perform at both Dance Extravaganza and Senses 2024, where we took our art out into the public and shared it with a broader audience. The experience was made even more special as we collaborated on choreography and costume ideas, allowing each of us to bring our unique perspectives and creativity to the performances. These events highlighted our teamwork and commitment, and we are proud to have represented our school with passion and dedication.</p>
+</div>
 
+<div class="yck-component">
 <h3>Training Schedule</h3>
 <table class="yck-table">
 <tbody><tr>
@@ -22,7 +25,9 @@ variant: markdown
 <td class="yck-td">Mdm Siva (ext 136)<br>Mrs Ilango (ext 175)<br>Mdm Rathidevi (ext 170)</td>
 </tr>
 </tbody></table>
+</div>
 
+<div class="yck-component">
 <table class="yck-table">
 <tbody><tr>
 <th class="yck-th">Dance Instructor</th>
@@ -31,6 +36,7 @@ variant: markdown
 <td class="yck-td">Mdm Suganthi Kesavan (Bharathaa Arts)</td>
 </tr>
 </tbody></table>
+</div>
 
 <hr>
 
@@ -104,118 +110,197 @@ variant: markdown
 </details>
 <hr>
 
+
 <style>
+    
+:root {
+    --yck-text-line-height: 1.6em;
+    --yck-heading-line-height: 1.2em;
+    --yck-heading-letter-spacing: -0.02em;
+    --yck-spacing-unit: 1em;
 
-	
-/* Base styles for yck-details */
-.yck-details {
-	border-top: 1px solid rgba(0, 0, 0, 0.15);
-	/* border-bottom: 1px solid rgba(0, 0, 0, 0.25); */
-	margin-top: clamp(0.5rem, 5%, 2rem);
-	margin-bottom: clamp(1rem, 5%, 1.5rem);
-	overflow: hidden;
-	transition: border-color 0.7s;
-	color: inherit;
+    --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
+    --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
+    --yck-step-0: clamp(1.125rem, 1.125rem + 0vw, 1.125rem);
+    --yck-step-1: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem);
+    --yck-step-2: clamp(1.4238rem, 1.3556rem + 0.3412vw, 1.62rem);
+    --yck-step-3: clamp(1.6018rem, 1.4828rem + 0.5951vw, 1.944rem);
+    --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
+    --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
+
+    --yck-space-s-xl: clamp(0.75rem, 0.7337rem + 1.9565vw, 2.7994rem);
 }
 
-.yck-details:hover {
-	border-color: #555;
+.yck-component {
+    line-height: var(--yck-text-line-height);
+    letter-spacing: normal;
+    font-size: var(--yck-step-0);
+     margin-bottom: var(--yck-spacing-unit);
 }
 
-/* Summary styles */
-.yck-details__summary {
-	display: flex;
-	align-items: center;
-	justify-content: space-between;
-	cursor: pointer;
-	margin-top: clamp(0.5rem, 5%, 2rem);
-	text-transform: uppercase;
-	/*    font-size: clamp(1.25rem, 4vw, 2rem);*/
+.yck-component h1,
+.yck-component h2,
+.yck-component h3,
+.yck-component h4,
+.yck-component h5,
+.yck-component h6,
+.yck-component p {
+    overflow-wrap: break-word;
 }
 
-.yck-details__summary::after {
-	content: '+';
-	font-size: 1.5rem;
-	color: #999;
-	transition: transform 0.5s ease-in-out;
-	margin-right: 1rem;
+.yck-component h1,
+.yck-component h2,
+.yck-component h3,
+.yck-component h4,
+.yck-component h5,
+.yck-component h6 {
+    text-wrap: balance;
 }
 
-/* Rotate marker when open */
-.yck-details[open] .yck-details__summary::after {
-	transform: rotate(-45deg);
+.yck-component p,
+.yck-component ol,
+.yck-component ul {
+    text-wrap: pretty;
+    margin-bottom: var(--yck-spacing-unit);
 }
 
-/* Initial state for content (hidden) */
-.yck-details__content {
-	max-height: auto;
-	margin-bottom: clamp(1.25rem, 5%, 1.75rem);
-	opacity: 0;
-	overflow: hidden;
-	padding: 0;
-	color: inherit;
-	animation: fadeOutSlideUp 0.5s ease forwards; /* Default close state */
+.yck-component p:last-child,
+.yck-component li:last-child {
+    margin-bottom: calc(var(--yck-space-s-xl)*1.25);
+}
+    
+.yck-component .yck-h1,
+.yck-component h1 {
+    font-size: var(--yck-step-5);
+    margin-bottom: var(--yck-space-s-xl);
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-/* When open, animate slide and fade in */
-.yck-details[open] .yck-details__content {
-	animation: fadeInSlideDown 0.5s ease forwards;
+.yck-component .yck-h2,
+.yck-component h2 {
+    font-size: var(--yck-step-4);
+    margin-bottom: calc(var(--yck-space-s-xl) * 0.8);
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-/* Keyframe for fade-in and slide-down */
-@keyframes fadeInSlideDown {
-	0% {
-		max-height: auto;
-		opacity: 0;
-	}
-	100% {
-		max-height: auto; /* Adjust as needed */
-		opacity: 1;
-	}
+.yck-component .yck-h3,
+.yck-component h3 {
+    font-size: var(--yck-step-3);
+    margin-bottom: calc(var(--yck-space-s-xl) * 0.6);
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-/* Keyframe for fade-out and slide-up */
-@keyframes fadeOutSlideUp {
-	0% {
-		max-height: auto;
-		opacity: 1;
-	}
-	100% {
-		max-height: auto;
-		opacity: 0;
-	}
+.yck-component .yck-h4,
+.yck-component h4 {
+    font-size: var(--yck-step-2);
+    margin-bottom: calc(var(--yck-space-s-xl) * 0.4);
+    text-transform: capitalize;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-	
-.yck-table {
+.yck-component .yck-h5,
+.yck-component h5 {
+    font-size: var(--yck-step-1);
+    margin-bottom: calc(var(--yck-space-s-xl) * 0.3);
+    text-transform: uppercase;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
+
+.yck-component .yck-h6,
+.yck-component h6 {
+    font-size: var(--yck-step-0);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.2);
+    text-transform: uppercase;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
+    
+.yck-component .yck-table {
     border-collapse: collapse;
     max-width: 100%;
-    margin-top: 1.5em;
-    margin-bottom: clamp(1em, 5%, 3em);
+    margin-top: 0.5em;
+    margin-bottom: var(--yck-space-s-xl);
+    font-size: var(--yck-step-0);
 }
-.yck-th {
+
+.yck-component .yck-th {
     background-color: #f2f2f2;
     text-align: left;
     border-bottom: 1px solid #ddd;
     text-transform: uppercase;
 }
-.yck-th h4, .yck-th h5, .yck-th h6 {
-    margin: 0 0 0.5em 0;
+
+.yck-component .yck-th h4,
+.yck-component .yck-th h5,
+.yck-component .yck-th h6 {
+    margin: 0 0 0.5em;
 }
-.yck-td {
+
+.yck-component .yck-td {
     border-bottom: 1px solid #ddd;
-    max-width: 300px;
+    max-width: 320px;
     word-wrap: break-word;
-    line-height: 1.6rem;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+  }
+
+.yck-component .yck-table tbody .yck-td p {
+    margin-block: 0;
+      line-height: 1.6rem;
+    padding-bottom: 0.5em;
 }
+    
+.yck-component .yck-table tbody .yck-td p:last-child {
+     margin-bottom: var(--yck-space-s-xl);
+ }
+    
+.yck-component .col-container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+
+    /* CSS Multi-column Layout properties */
+    column-count: 2;
+    column-width: 400px;
+    column-gap: 20px;
+}
+
+.yck-component .column {
+    break-inside: avoid; /* Prevents content from breaking across columns */
+    page-break-inside: avoid; /* For older browsers */
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+    /** Responsive Video container **/
+.yck-component  .video-container {
+        position: relative;
+        width: 100%;
+        padding-bottom: 56.25%; /* 16:9 aspect ratio */
+        height: 0;
+        overflow: hidden;
+    }
+.yck-component .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
 .wrapper img {
     border-radius: 10px;
     border: 10px solid white;
     box-shadow: -5px -5px 10px rgba(0,0,0,0.1);
 }
-	
-
-	
+		
 .image-gallery {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Flexible columns with a minimum of 200px */
