@@ -109,6 +109,71 @@ description: Mocking up pages before public release
     </table>
 </div>
 
+<div class="yck-component">
+	<div class="col-container">
+		<div class="column">
+<table class="yck-table">
+                <thead>
+                    <tr>
+                        <th class="yck-th"><h4 class="yck-h5">EVENTS:</h4></th>
+                    </tr>
+                </thead>
+                <tbody>
+                     <tr><td class="yck-td">Air Pistol Shooting Programme</td></tr>
+                    <tr><td class="yck-td">Annual Unit Camp</td></tr>
+                    <tr><td class="yck-td">Area 11 Adventure &amp; Survival Training Camp</td></tr>
+                     <tr><td class="yck-td">Area 11 Secondary 1 Cadets Swearing In Ceremony</td></tr>
+                    <tr><td class="yck-td">Area 11 Games Day</td></tr>
+                    <tr><td class="yck-td">Crime Prevention Programme</td></tr>
+                     <tr><td class="yck-td">Home Team Gallery Visit</td></tr>
+                    <tr><td class="yck-td">K-9 Dog Unit Visit</td></tr>
+                    <tr><td class="yck-td">Neighbourhood Police Centre Visit</td></tr>
+                    <tr><td class="yck-td">NPCC Annual Parade (NPAP)</td></tr>
+                    <tr><td class="yck-td">Police Heritage Visit</td></tr>
+                    <tr><td class="yck-td">Yeoman for National School Games (Swimming)</td></tr>
+                    <tr><td class="yck-td">Police Youth Ambassador</td></tr>
+                     <tr><td class="yck-td">Sports Enrichment Programme (SEP)</td></tr>
+                     <tr><td class="yck-td">Total Defence Programme</td></tr>
+                      <tr><td class="yck-td">YCKSS National Day Parade</td></tr>
+                     <tr><td class="yck-td">YCKSS Speech Day Parade</td></tr>
+                </tbody>
+            </table>
+		</div>
+		<div class="column">
+			<table class="yck-table">
+                <thead>
+                    <tr>
+                        <th class="yck-th"><h4 class="yck-h5">COURSES:</h4></th>
+                    </tr>
+                </thead>
+                 <tbody>
+                     <tr><td class="yck-td">Basic Law Course</td></tr>
+                    <tr><td class="yck-td">Cadet Leader Course</td></tr>
+                     <tr><td class="yck-td">Campcraft Course</td></tr>
+                    <tr><td class="yck-td">Crime Scene Investigation Course</td></tr>
+                     <tr><td class="yck-td">Drill Course</td></tr>
+                     <tr><td class="yck-td">Homefront Security Course</td></tr>
+                    <tr><td class="yck-td">Leadership and Mentoring Skills Course</td></tr>
+                   <tr><td class="yck-td">Marksmanship Course</td></tr>
+                    <tr><td class="yck-td">Non-Commissioned Officer Course</td></tr>
+                    <tr><td class="yck-td">Oral Communication Course</td></tr>
+                   <tr><td class="yck-td">Police Procedures Course</td></tr>
+                    <tr><td class="yck-td">Road Safety Course</td></tr>
+                     <tr><td class="yck-td">Unarmed Tactics Course</td></tr>
+                </tbody>
+            </table>
+		</div>
+	</div>
+</div>
+<div class="yck-component">
+	<h4>Gallery</h4>
+	<div class="pic-gallery">
+		
+	</div>
+</div>
+	
+	
+
 <hr>
 
 <style> .video-wrapper { width: 100%; margin-bottom: 5px; /\* Space between video and caption \*/ } .video-container { position: relative; width: 100%; padding-bottom: 56.25%; /\* 16:9 aspect ratio \*/ height: 0; overflow: hidden; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } .video-caption { font-style: italic; color: #999; /\* Light gray \*/ font-size: 0.8em; text-align: left; margin-top: 5px; /\* Space between video and caption \*/ } </style> <div class="video-wrapper"> <div class="video-container"> <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YCKSS 60th Anniversary Celebration Overview" src="https://www.youtube.com/embed/F9miy3c2ZRY?si=5nkNPSAdDBwbGriM" height="315" width="560"></iframe> </div> <p class="video-caption">YCKSS 60th Anniversary Celebration Overview</p> </div>
