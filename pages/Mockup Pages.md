@@ -47,6 +47,68 @@ description: Mocking up pages before public release
         </table>
 </div>
 
+<div class="yck-component">
+	<table class="yck-table">
+        <thead>
+            <tr>
+                <th class="yck-th">
+                    <h4 class="yck-h5">YEAR</h4>
+                </th>
+                <th class="yck-th">
+                    <h4 class="yck-h5">EVENTS, COMPETITIONS AND MOMENTS</h4>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+							<td class="yck-td"><strong>2024</strong></td>
+                <td class="yck-td">
+                    <p>SPF-NPCC Badge Recipients: Staff Seargeant Aden Bin Azam &amp; Staff Seargeant Tay Yu Qi Natalie</p>
+                    <p>Inter-Unit .22 Revolver Shooting Competition (Individual Category - Boys): Louis Wong National 6th Placing</p>
+                </td>
+            </tr>
+            <tr>
+                <td class="yck-td">2023</td>
+                <td class="yck-td">
+                    <p>Unit Overall Proficiency Award: DISTINCTION</p>
+                    <p>SPF-NPCC Badge Recipients: Staff Seargeant Liew Tze Wan &amp; Staff Sergeant Xiong Shiqi</p>
+                </td>
+            </tr>
+            <tr>
+                <td class="yck-td">2022</td>
+                <td class="yck-td">
+                    <p>Unit Overall Proficiency Award: DISTINCTION</p>
+                    <p>SPF-NPCC Badge Recipients: Staff Seargeant Lim Boon Yu &amp; Staff Sergeant Nur Rashiqa Binte Muhammad Risman</p>
+                </td>
+            </tr>
+            <tr>
+                <td class="yck-td">2021</td>
+                <td class="yck-td">
+                    <p>Unit Overall Proficiency Award: Distinction</p>
+                </td>
+            </tr>
+            <tr>
+                <td class="yck-td">2020</td>
+                <td class="yck-td">
+                    <p>Unit Overall Proficiency Award: Distinction</p>
+                </td>
+            </tr>
+            <tr>
+                <td class="yck-td">2019</td>
+                <td class="yck-td">
+                    <p>Unit Overall Proficiency Award: Distinction</p>
+                </td>
+            </tr>
+            <tr>
+                <td class="yck-td">2018</td>
+                <td class="yck-td">
+                    <p>Unit Overall Proficiency Award: Distinction</p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
 <hr>
 
 <style> .video-wrapper { width: 100%; margin-bottom: 5px; /\* Space between video and caption \*/ } .video-container { position: relative; width: 100%; padding-bottom: 56.25%; /\* 16:9 aspect ratio \*/ height: 0; overflow: hidden; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } .video-caption { font-style: italic; color: #999; /\* Light gray \*/ font-size: 0.8em; text-align: left; margin-top: 5px; /\* Space between video and caption \*/ } </style> <div class="video-wrapper"> <div class="video-container"> <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YCKSS 60th Anniversary Celebration Overview" src="https://www.youtube.com/embed/F9miy3c2ZRY?si=5nkNPSAdDBwbGriM" height="315" width="560"></iframe> </div> <p class="video-caption">YCKSS 60th Anniversary Celebration Overview</p> </div>
