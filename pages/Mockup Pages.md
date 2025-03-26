@@ -7,7 +7,7 @@ description: Mocking up pages before public release
 <div class="yck-component">
   <h2>Nurturing Leaders and Responsible Citizens</h2>
 
-			<img alt="NPCC Cadets saluting" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/N1.jpg">
+<img alt="NPCC Cadets saluting" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/N1.jpg">
       <p>Yio Chu Kang Secondary School's National Police Cadet Corps (NPCC) CCA is committed to nurturing selfless
         individuals who contribute to the safety and security of the community. Through engaging activities and
         meaningful experiences, our cadets develop strong character, leadership, and resilience, equipping them to
