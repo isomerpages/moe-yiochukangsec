@@ -4,6 +4,51 @@ permalink: /mockup-pages/
 variant: markdown
 description: Mocking up pages before public release
 ---
+<div class="yck-component">
+  <h2>Nurturing Leaders and Responsible Citizens</h2>
+
+			<img alt="NPCC Cadets saluting" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/N1.jpg">
+      <p>Yio Chu Kang Secondary School's National Police Cadet Corps (NPCC) CCA is committed to nurturing selfless
+        individuals who contribute to the safety and security of the community. Through engaging activities and
+        meaningful experiences, our cadets develop strong character, leadership, and resilience, equipping them to
+        excel as caring and responsible citizens.</p>
+      <p>NPCC instills core values such as discipline, loyalty, integrity,
+        resourcefulness, tenacity, and civic consciousness, fostering a sense of responsibility and pride. Cadets gain
+        unique insights into the Singapore Police Force (SPF) through interactions with officers at Neighbourhood
+        Police Centres and visits to various police establishments. To broaden their knowledge and skills, cadets
+        participate in specialized courses, including Anti-Drug Abuse, Basic Law, Crime Prevention, Crime Scene
+        Investigation, First Aid, Police Procedures, and SG Secure. These experiences enrich their learning journey,
+        shaping them into capable and community-conscious individuals.</p>
+</div>
+<div class="yck-component">
+      <h3>Training Schedule</h3>
+        <table class="yck-table">
+            <thead>
+                <tr>
+                    <th class="yck-th"><h4 class="yck-h5">DAY &amp; TIME:</h4></th>
+                    <th class="yck-th"><h4 class="yck-h5">TEACHERS-IN-CHARGE</h4></th>
+                     <th class="yck-th"><h4 class="yck-h5">VENUE:</h4></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="yck-td">Every Tuesday<br>3.00pm to 5.30pm</td>
+                    <td class="yck-td">
+                        Ms Goh Yu Fan (ext 174)<br>
+                        Mr Wong Mingwei (ext 141)<br>
+                        Mr Octave Goh (ext 136)<br>
+                        Mr Joseph George (ext 148)<br>
+                        Mdm Cindy Ong (ext 139)<br>
+                        Ms Nadia Rachael (ext 218)
+                    </td>
+                    <td class="yck-td">NPCC Room (Level 2) &amp; <br>Blk D Classrooms (Level 1)</td>
+                </tr>
+            </tbody>
+        </table>
+</div>
+
+<hr>
+
 <style> .video-wrapper { width: 100%; margin-bottom: 5px; /\* Space between video and caption \*/ } .video-container { position: relative; width: 100%; padding-bottom: 56.25%; /\* 16:9 aspect ratio \*/ height: 0; overflow: hidden; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } .video-caption { font-style: italic; color: #999; /\* Light gray \*/ font-size: 0.8em; text-align: left; margin-top: 5px; /\* Space between video and caption \*/ } </style> <div class="video-wrapper"> <div class="video-container"> <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YCKSS 60th Anniversary Celebration Overview" src="https://www.youtube.com/embed/F9miy3c2ZRY?si=5nkNPSAdDBwbGriM" height="315" width="560"></iframe> </div> <p class="video-caption">YCKSS 60th Anniversary Celebration Overview</p> </div>
 
 <div class="yck-component">
