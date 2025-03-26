@@ -169,7 +169,7 @@ description: Mocking up pages before public release
 	<h4>Gallery</h4>
 	<div class="pic-gallery">
 		
-	</div>
+</div>
 </div>
 	
 	
