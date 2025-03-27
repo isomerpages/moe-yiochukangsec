@@ -23,7 +23,7 @@ description: Mocking up pages before public release
 <div class="col-container">
 		<div class="column">
 			<blockquote>
-		Tell me what you really want to know about ...
+				<p>Tell me what you really want to know about ...</p>
 		<cite>Annonymous</cite>
 	</blockquote>
 			<div class="column">
@@ -458,8 +458,8 @@ description: Mocking up pages before public release
 .yck-component blockquote::before {
     content: '"';
     position: absolute;
-    top: 10px;
-    left: 10px;
+    top: 20px;
+    left: 20px;
     color: #ff6b6b;
     font-size: 60px;
     font-family: Georgia, serif;
@@ -471,6 +471,7 @@ description: Mocking up pages before public release
     margin-top: 15px;
     font-style: normal;
     font-weight: bold;
+	  font-size: var(--yck-step--1);
     color: #555;
     text-align: right;
   }
