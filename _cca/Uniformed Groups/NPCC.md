@@ -368,6 +368,41 @@ variant: markdown
      padding-bottom: 1.5em;
  }
 	
+.yck-component .col-container {
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto;
+
+	/* CSS Multi-column Layout properties */
+	column-count: 2;
+	column-width: 400px;
+	column-gap: 20px;
+}
+
+.yck-component .column {
+	break-inside: avoid; /* Prevents content from breaking across columns */
+	page-break-inside: avoid; /* For older browsers */
+	padding: 20px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+	/** Responsive Video container **/
+.yck-component  .video-container {
+        position: relative;
+        width: 100%;
+        padding-bottom: 56.25%; /* 16:9 aspect ratio */
+        height: 0;
+        overflow: hidden;
+    }
+.yck-component .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+	
 
 	
 .yck-component .yck-details__content,
