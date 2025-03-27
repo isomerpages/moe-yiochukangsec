@@ -98,22 +98,11 @@ variant: markdown
 
 <div class="yck-component">
 	<h4>Gallery</h4>
-        <ul class="yck-flexbox-grid"> 
-          <li><img alt="Red Cross Youth 1" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/1_RedCrossYouth_2025.jpg"></li>
-          <li><img alt="Red Cross Youth 2" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/2_RedCrossYouth_2025.jpg"></li>
-          <li><img alt="Red Cross Youth 3" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/3_RedCrossYouth_2025.jpg"></li>
-          <li><img alt="Red Cross Youth 4" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/4_RedCrossYouth_2025.jpg"></li>
-          <li><img alt="Red Cross Youth 5" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/5_RedCrossYouth_2025.jpg"></li>
-          <li><img alt="Red Cross Youth 6" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/6_RedCrossYouth_2025.jpg"></li>
-          <li><img alt="Red Cross Youth 7" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/7_RedCrossYouth_2025.jpg"></li>
-        </ul>
-        <ul class="yck-flexbox-grid">
-          <li><img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R2.png"></li>
-        </ul>
-	<ul class="yck-flexbox-grid">
-          <li><img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R3.png"></li>
-        </ul>
-      </div>
+	<div class="video-container">
+	<iframe allowfullscreen="true" height="1109" width="1920" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTGfHnkn10FIWSpX56HUqzm5dtdoCdFtZ1U7c37JgWnU3xVTzlrTsXLfb6WhZSjWQ/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+	</div>
+       
+ </div>
     
 
 
@@ -172,9 +161,8 @@ variant: markdown
     margin-bottom: var(--yck-spacing-unit);
 }
 
-.yck-component p:last-child,
-.yck-component li:last-child {
-    margin-bottom: calc(var(--yck-space-s-xl)*1.25);
+.yck-component p:last-child {
+    margin-bottom: calc(var(--yck-space-s-xl)*2);
 }
 	
 .yck-component .yck-h1,
@@ -227,17 +215,7 @@ variant: markdown
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
-
-.yck-component .yck-text-small {
-    font-size: var(--yck-step--1);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.1);
-}
-
-.yck-component .yck-text-xs {
-    font-size: var(--yck-step--2);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.1);
-}
-
+	
 .yck-component .yck-table {
     border-collapse: collapse;
     max-width: 100%;
@@ -275,7 +253,45 @@ variant: markdown
     
  .yck-component .yck-table tbody .yck-td p:last-child {
      margin-bottom: var(--yck-space-s-xl);
- }	
+ }
+
+ .yck-component blockquote {
+    position: relative;
+    margin: 40px 0;
+    padding: 30px 40px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+  
+.yck-component blockquote p {
+    color: #ff6b6b;
+    font-style: italic;
+    font-size: var(--yck-step-1);
+    line-height: 1.6;
+    margin: 0;
+  }
+  
+.yck-component blockquote::before {
+    content: '"';
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    color: #ff6b6b;
+    font-size: 60px;
+    font-family: Georgia, serif;
+    opacity: 0.3;
+  }
+  
+.yck-component cite {
+    display: block;
+    margin-top: 15px;
+    font-style: normal;
+    font-weight: bold;
+	  font-size: var(--yck-step--1);
+    color: #555;
+    text-align: right;
+  }
 	
 .yck-component .col-container {
 	width: 100%;
@@ -297,69 +313,34 @@ variant: markdown
 	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-
+/* Flexbox Grid */
 .yck-component .yck-flexbox-grid {
     --yck-min: 22ch;
     --yck-gap: 1.5em;
     display: flex;
     flex-wrap: wrap;
-    gap: var(--yck-gap)
+    list-style: none;
+    gap: var(--yck-gap);
 }
 
-.yck-component .yck-flexbox-grid>* {
+.yck-component .yck-flexbox-grid > * {
     flex: 1 1 var(--yck-min);
-	list-style: none;
+    list-style: none;
 }
-
-.yck-component .yck-gallery-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 1em
-}
-
-.yck-component .yck-gallery-container .yck-iframe-container {
-    position: relative;
-    width: 100%;
-    padding-bottom: 56.25%;
-    overflow: hidden
-}
-
-.yck-component .yck-gallery-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    margin-bottom: 1em
-}
-
-.yck-component .yck-gallery-container small {
-    display: block;
-    text-align: center;
-    font-style: italic;
-    margin-top: .5em;
-    color: var(--yck-color-text-light)
-}
-
-.yck-component .yck-gallery-container img {
-    display: block;
-    width: 100%;
-    height: auto;
-    border-radius:  var(--yck-border-radius);
-    box-shadow: var(--yck-box-shadow);
-}
-
-.yck-component .yck-gallery-container .yck-image-row {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 0.5em;
-}
-
-.yck-component .yck-gallery-container .yck-image-row img {
-    flex: 1 1 30%;
-    object-fit: cover;
-}
+	/** Responsive Video container **/
+.yck-component  .video-container {
+        position: relative;
+        width: 100%;
+        padding-bottom: 56.25%; /* 16:9 aspect ratio */
+        height: 0;
+        overflow: hidden;
+    }
+.yck-component .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
 
 </style>
