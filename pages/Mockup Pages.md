@@ -19,21 +19,8 @@ description: Mocking up pages before public release
         participate in specialized courses, including Anti-Drug Abuse, Basic Law, Crime Prevention, Crime Scene
         Investigation, First Aid, Police Procedures, and SG Secure. These experiences enrich their learning journey,
         shaping them into capable and community-conscious individuals.</p>
-
-<div class="col-container">
-		<div class="column">
-			<blockquote>
-				<p>Tell me what you really want to know about ...</p>
-		<cite>Annonymous</cite>
-	</blockquote>
-			<div class="column">
-				<blockquote>
-					Another one of those thingys ...
-					<cite>Annonymous again ...</cite>
-				</blockquote>
-	</div>
-	</div>
 </div>
+
 <div class="yck-component">
       <h3>Training Schedule</h3>
         <table class="yck-table">
@@ -59,15 +46,6 @@ description: Mocking up pages before public release
                 </tr>
             </tbody>
         </table>
-	<blockquote>
-		Tell me what you really want to know about ...
-		<cite>Annonymous</cite>
-	</blockquote>
-			
-<blockquote>
-					Another one of those thingys ...
-					<cite>Annonymous again ...</cite>
-				</blockquote>
 </div>
 
 <div class="yck-component">
@@ -644,4 +622,4 @@ description: Mocking up pages before public release
     padding: 30px;
     width: 100%;
 } 
-</style></div>
+</style>
