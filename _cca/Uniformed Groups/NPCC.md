@@ -153,6 +153,7 @@ variant: markdown
 	</div>
 </div>
 
+<div class="yck-component">
    <details class="yck-details">
       <summary class="yck-details__summary">Gallery</summary>
       <div class="yck-details__content">
@@ -190,7 +191,7 @@ variant: markdown
              </div>
     </div>
 </details>
-
+</div>
 
 
 <style>
@@ -434,9 +435,7 @@ variant: markdown
         width: 100%;
         height: 100%;
     }
-	
-
-	
+		
 .yck-component .yck-details__content,
 .yck-component .yck-details__content ol,
 .yck-component .yck-details__content ol li,
@@ -517,20 +516,6 @@ variant: markdown
     }
 }
 	
-.yck-component .yck-flexbox-grid {
-    --yck-min: 22ch;
-    --yck-gap: 1.5em;
-    display: flex;
-    flex-wrap: wrap;
-    list-style: none;
-    gap: var(--yck-gap);
-}
-
-.yck-component .yck-flexbox-grid > * {
-    flex: 1 1 var(--yck-min);
-    list-style: none;
-}
-
 .wrapper {
     width: 100%;
     max-width: 1270px;
@@ -624,5 +609,4 @@ variant: markdown
     border: 10px solid #fff;
     box-shadow: -5px -5px 10px rgba(0, 0, 0, .1)
 }
-
 </style>
