@@ -135,28 +135,22 @@ description: Mocking up pages before public release
     </ul>
 		</div>
 		<div class="column">
-			<table class="yck-table">
-                <thead>
-                    <tr>
-                        <th class="yck-th"><h4 class="yck-h5">COURSES:</h4></th>
-                    </tr>
-                </thead>
-                 <tbody>
-                     <tr><td class="yck-td">Basic Law Course</td></tr>
-                    <tr><td class="yck-td">Cadet Leader Course</td></tr>
-                     <tr><td class="yck-td">Campcraft Course</td></tr>
-                    <tr><td class="yck-td">Crime Scene Investigation Course</td></tr>
-                     <tr><td class="yck-td">Drill Course</td></tr>
-                     <tr><td class="yck-td">Homefront Security Course</td></tr>
-                    <tr><td class="yck-td">Leadership and Mentoring Skills Course</td></tr>
-                   <tr><td class="yck-td">Marksmanship Course</td></tr>
-                    <tr><td class="yck-td">Non-Commissioned Officer Course</td></tr>
-                    <tr><td class="yck-td">Oral Communication Course</td></tr>
-                   <tr><td class="yck-td">Police Procedures Course</td></tr>
-                    <tr><td class="yck-td">Road Safety Course</td></tr>
-                     <tr><td class="yck-td">Unarmed Tactics Course</td></tr>
-                </tbody>
-            </table>
+			 <h5 class="yck-h5">COURSES:</h5>
+    <ul>
+        <li>Basic Law Course</li>
+        <li>Cadet Leader Course</li>
+        <li>Campcraft Course</li>
+        <li>Crime Scene Investigation Course</li>
+        <li>Drill Course</li>
+        <li>Homefront Security Course</li>
+        <li>Leadership and Mentoring Skills Course</li>
+        <li>Marksmanship Course</li>
+        <li>Non-Commissioned Officer Course</li>
+        <li>Oral Communication Course</li>
+        <li>Police Procedures Course</li>
+        <li>Road Safety Course</li>
+        <li>Unarmed Tactics Course</li>
+    </ul>
 		</div>
 	</div>
 </div>
