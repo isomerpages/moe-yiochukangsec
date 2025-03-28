@@ -19,8 +19,9 @@ variant: markdown
         participate in specialized courses, including Anti-Drug Abuse, Basic Law, Crime Prevention, Crime Scene
         Investigation, First Aid, Police Procedures, and SG Secure. These experiences enrich their learning journey,
         shaping them into capable and community-conscious individuals.</p>
-     </div>
-		 <div class="yck-component">
+  </div>
+		 
+<div class="yck-component">
       <h3>Training Schedule</h3>
         <table class="yck-table">
             <thead>
