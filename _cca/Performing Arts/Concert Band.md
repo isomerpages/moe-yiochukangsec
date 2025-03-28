@@ -76,9 +76,7 @@ SYF Arts Presentation - <em>Certificate of Accomplishment</em></p>
 	</div>
 </div>
 
-<style>
-	
-:root {
+<style>:root {
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
@@ -94,6 +92,7 @@ SYF Arts Presentation - <em>Certificate of Accomplishment</em></p>
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
     --yck-space-s-xl: clamp(0.75rem, 0.7337rem + 1.9565vw, 2.7994rem);
+    interpolate-size: allow-keywords;
 }
 
 
@@ -101,7 +100,7 @@ SYF Arts Presentation - <em>Certificate of Accomplishment</em></p>
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
     font-size: var(--yck-step-0);
-	 margin-bottom: var(--yck-spacing-unit);
+    margin-bottom: var(--yck-spacing-unit);
 }
 
 .yck-component h1,
@@ -131,10 +130,11 @@ SYF Arts Presentation - <em>Certificate of Accomplishment</em></p>
 }
 
 .yck-component p:last-child,
-.yck-component li:last-child {
-    margin-bottom: calc(var(--yck-space-s-xl)*1.25);
+.yck-component ul li:last-child,
+.yck-component ol li:last-child {
+    margin-bottom: calc(var(--yck-space-s-xl)*1.2);
 }
-	
+
 .yck-component .yck-h1,
 .yck-component h1 {
     font-size: var(--yck-step-5);
@@ -185,7 +185,7 @@ SYF Arts Presentation - <em>Certificate of Accomplishment</em></p>
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
-	
+
 .yck-component .yck-table {
     border-collapse: collapse;
     max-width: 100%;
@@ -209,57 +209,122 @@ SYF Arts Presentation - <em>Certificate of Accomplishment</em></p>
 
 .yck-component .yck-td {
     border-bottom: 1px solid #ddd;
-    max-width: 320px;
+    max-width: 400px;
     word-wrap: break-word;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
-  }
+}
 
 .yck-component .yck-table tbody .yck-td p {
-    margin-block: 0;
-	  line-height: 1.6rem;
+    margin-top: 0;
+    margin-bottom: 0.25em;
+    line-height: 1.6rem;
     padding-bottom: 0.5em;
 }
-    
- .yck-component .yck-table tbody .yck-td p:last-child {
-     margin-bottom: var(--yck-space-s-xl);
- }
-	
-.yck-component .col-container {
-	width: 100%;
-	max-width: 1200px;
-	margin: 0 auto;
 
-	/* CSS Multi-column Layout properties */
-	column-count: 2;
-	column-width: 400px;
-	column-gap: 20px;
+.yck-component .yck-table tbody .yck-td p:last-child {
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component .bqcontainer {
+    max-width: 800px;
+    padding: 20px;
+    margin-bottom: var(--yck-space-s-xl);
+}
+
+.yck-component blockquote {
+    position: relative;
+    margin: 40px 0;
+    padding: 30px 40px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.yck-component blockquote p {
+    color: #ff6b6b;
+    font-style: italic;
+    font-size: var(--yck-step-1);
+    line-height: 1.6;
+    margin: 0;
+}
+
+.yck-component blockquote::before {
+    content: '"';
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: #ff6b6b;
+    font-size: 60px;
+    font-family: Georgia, serif;
+    opacity: 0.3;
+}
+
+.yck-component cite {
+    display: block;
+    margin-top: var(--yck-spacing-unit);
+    font-size: var(--yck-step-0);
+    font-style: normal;
+    font-weight: bold;
+    color: #555;
+    text-align: right;
+}
+
+.yck-component .col-container {
+    width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
+
+    /* CSS Multi-column Layout properties */
+    /* column-count: 2; */
+    column-width: 400px;
+    column-gap: 20px;
 }
 
 .yck-component .column {
-	break-inside: avoid; /* Prevents content from breaking across columns */
-	page-break-inside: avoid; /* For older browsers */
-	padding: 20px;
-	margin-bottom: 20px;
-	border-radius: 5px;
-	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    break-inside: avoid;
+    /* Prevents content from breaking across columns */
+    page-break-inside: avoid;
+    /* For older browsers */
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-	/** Responsive Video container **/
-.yck-component  .video-container {
-        position: relative;
-        width: 100%;
-        padding-bottom: 56.25%; /* 16:9 aspect ratio */
-        height: 0;
-        overflow: hidden;
-    }
+/* Flexbox Grid */
+.yck-component .yck-flexbox-grid {
+    --yck-min: 22ch;
+    --yck-gap: 1.5em;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: var(--yck-gap);
+}
+
+.yck-component .yck-flexbox-grid>* {
+    flex: 1 1 var(--yck-min);
+    list-style: none;
+}
+
+/** Responsive Video container **/
+.yck-component .video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+}
+
 .yck-component .video-container iframe {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-    }
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
 	
 .image-gallery {
     display: grid;
