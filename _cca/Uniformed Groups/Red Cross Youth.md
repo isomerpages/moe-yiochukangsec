@@ -125,6 +125,7 @@ variant: markdown
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
     --yck-space-s-xl: clamp(0.75rem, 0.7337rem + 1.9565vw, 2.7994rem);
+    interpolate-size: allow-keywords;
 }
 
 
@@ -161,10 +162,11 @@ variant: markdown
     margin-bottom: var(--yck-spacing-unit);
 }
 
-.yck-component p:last-child {
-    margin-bottom: calc(var(--yck-space-s-xl)*2);
+.yck-component p:last-child,
+.yck-component ul li:last-child {
+    margin-bottom: calc(var(--yck-space-s-xl)*1.6);
 }
-	
+
 .yck-component .yck-h1,
 .yck-component h1 {
     font-size: var(--yck-step-5);
@@ -215,7 +217,7 @@ variant: markdown
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
-	
+
 .yck-component .yck-table {
     border-collapse: collapse;
     max-width: 100%;
@@ -239,23 +241,29 @@ variant: markdown
 
 .yck-component .yck-td {
     border-bottom: 1px solid #ddd;
-    max-width: 320px;
+    max-width: 400px;
     word-wrap: break-word;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
   }
 
 .yck-component .yck-table tbody .yck-td p {
-    margin-block: 0;
+    margin-top: 0;
+    margin-bottom: 0.25em;
 	  line-height: 1.6rem;
     padding-bottom: 0.5em;
 }
-    
+
  .yck-component .yck-table tbody .yck-td p:last-child {
-     margin-bottom: var(--yck-space-s-xl);
+     margin-bottom: var(--yck-spacing-unit);
  }
 
- .yck-component blockquote {
+.yck-component .bqcontainer {
+    max-width: 800px;
+    padding: 20px;
+  }
+
+.yck-component blockquote {
     position: relative;
     margin: 40px 0;
     padding: 30px 40px;
@@ -263,7 +271,7 @@ variant: markdown
     border-radius: 5px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
   }
-  
+
 .yck-component blockquote p {
     color: #ff6b6b;
     font-style: italic;
@@ -271,35 +279,34 @@ variant: markdown
     line-height: 1.6;
     margin: 0;
   }
-  
+
 .yck-component blockquote::before {
     content: '"';
     position: absolute;
-    top: 20px;
-    left: 20px;
+    top: 10px;
+    left: 10px;
     color: #ff6b6b;
     font-size: 60px;
     font-family: Georgia, serif;
     opacity: 0.3;
   }
-  
+
 .yck-component cite {
     display: block;
     margin-top: 15px;
     font-style: normal;
     font-weight: bold;
-	  font-size: var(--yck-step--1);
     color: #555;
     text-align: right;
   }
-	
+
 .yck-component .col-container {
 	width: 100%;
 	max-width: 1200px;
 	margin: 0 auto;
 
 	/* CSS Multi-column Layout properties */
-	column-count: 2;
+	/* column-count: 2; */
 	column-width: 400px;
 	column-gap: 20px;
 }
@@ -342,5 +349,4 @@ variant: markdown
         width: 100%;
         height: 100%;
     }
-
 </style>
