@@ -7,7 +7,6 @@ variant: markdown
 ---
 <div class="yck-component">
   <h2>Nurturing Leaders and Responsible Citizens</h2>
-    <div>
 			<img alt="NPCC Cadets saluting" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/N1.jpg">
       <p>Yio Chu Kang Secondary School's National Police Cadet Corps (NPCC) CCA is committed to nurturing selfless
         individuals who contribute to the safety and security of the community. Through engaging activities and
@@ -21,6 +20,7 @@ variant: markdown
         Investigation, First Aid, Police Procedures, and SG Secure. These experiences enrich their learning journey,
         shaping them into capable and community-conscious individuals.</p>
      </div>
+		 <div class="yck-component">
       <h3>Training Schedule</h3>
         <table class="yck-table">
             <thead>
@@ -45,6 +45,7 @@ variant: markdown
                 </tr>
             </tbody>
         </table>
+</div>
 <div class="yck-component">
              	<table class="yck-table">
         <thead>
@@ -110,7 +111,7 @@ variant: markdown
 <div class="yck-component">
 	<div class="col-container">
 		<div class="column">
-<h5 class="yck-h5">EVENTS:</h5>
+<h5 class="yck-h5">EVENTS</h5>
     <ul>
         <li>Air Pistol Shooting Programme</li>
         <li>Annual Unit Camp</li>
@@ -132,7 +133,7 @@ variant: markdown
     </ul>
 		</div>
 		<div class="column">
-			 <h5 class="yck-h5">COURSES:</h5>
+			 <h5 class="yck-h5">COURSES</h5>
     <ul>
         <li>Basic Law Course</li>
         <li>Cadet Leader Course</li>
@@ -189,7 +190,7 @@ variant: markdown
              </div>
     </div>
 </details>
-</div>
+
 
 
 <style>
