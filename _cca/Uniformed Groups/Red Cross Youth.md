@@ -108,8 +108,7 @@ variant: markdown
 
 
 
-<style>
-:root {
+<style>:root {
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
@@ -133,7 +132,7 @@ variant: markdown
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
     font-size: var(--yck-step-0);
-	 margin-bottom: var(--yck-spacing-unit);
+    margin-bottom: var(--yck-spacing-unit);
 }
 
 .yck-component h1,
@@ -163,8 +162,9 @@ variant: markdown
 }
 
 .yck-component p:last-child,
-.yck-component ul li:last-child {
-    margin-bottom: calc(var(--yck-space-s-xl)*1.6);
+.yck-component ul li:last-child,
+.yck-component ol li:last-child {
+    margin-bottom: calc(var(--yck-space-s-xl)*1.2);
 }
 
 .yck-component .yck-h1,
@@ -245,23 +245,24 @@ variant: markdown
     word-wrap: break-word;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
-  }
+}
 
 .yck-component .yck-table tbody .yck-td p {
     margin-top: 0;
     margin-bottom: 0.25em;
-	  line-height: 1.6rem;
+    line-height: 1.6rem;
     padding-bottom: 0.5em;
 }
 
- .yck-component .yck-table tbody .yck-td p:last-child {
-     margin-bottom: var(--yck-spacing-unit);
- }
+.yck-component .yck-table tbody .yck-td p:last-child {
+    margin-bottom: var(--yck-spacing-unit);
+}
 
 .yck-component .bqcontainer {
     max-width: 800px;
     padding: 20px;
-  }
+    margin-bottom: var(--yck-space-s-xl);
+}
 
 .yck-component blockquote {
     position: relative;
@@ -269,8 +270,8 @@ variant: markdown
     padding: 30px 40px;
     background-color: white;
     border-radius: 5px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  }
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
 
 .yck-component blockquote p {
     color: #ff6b6b;
@@ -278,7 +279,7 @@ variant: markdown
     font-size: var(--yck-step-1);
     line-height: 1.6;
     margin: 0;
-  }
+}
 
 .yck-component blockquote::before {
     content: '"';
@@ -289,35 +290,38 @@ variant: markdown
     font-size: 60px;
     font-family: Georgia, serif;
     opacity: 0.3;
-  }
+}
 
 .yck-component cite {
     display: block;
-    margin-top: 15px;
+    margin-top: var(--yck-spacing-unit);
+    font-size: var(--yck-step-0);
     font-style: normal;
     font-weight: bold;
     color: #555;
     text-align: right;
-  }
+}
 
 .yck-component .col-container {
-	width: 100%;
-	max-width: 1200px;
-	margin: 0 auto;
+    width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
 
-	/* CSS Multi-column Layout properties */
-	/* column-count: 2; */
-	column-width: 400px;
-	column-gap: 20px;
+    /* CSS Multi-column Layout properties */
+    /* column-count: 2; */
+    column-width: 400px;
+    column-gap: 20px;
 }
 
 .yck-component .column {
-	break-inside: avoid; /* Prevents content from breaking across columns */
-	page-break-inside: avoid; /* For older browsers */
-	padding: 20px;
-	margin-bottom: 20px;
-	border-radius: 5px;
-	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    break-inside: avoid;
+    /* Prevents content from breaking across columns */
+    page-break-inside: avoid;
+    /* For older browsers */
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 /* Flexbox Grid */
@@ -330,23 +334,27 @@ variant: markdown
     gap: var(--yck-gap);
 }
 
-.yck-component .yck-flexbox-grid > * {
+.yck-component .yck-flexbox-grid>* {
     flex: 1 1 var(--yck-min);
     list-style: none;
 }
-	/** Responsive Video container **/
-.yck-component  .video-container {
-        position: relative;
-        width: 100%;
-        padding-bottom: 56.25%; /* 16:9 aspect ratio */
-        height: 0;
-        overflow: hidden;
-    }
+
+/** Responsive Video container **/
+.yck-component .video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+}
+
 .yck-component .video-container iframe {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-    }
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
 </style>
