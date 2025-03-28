@@ -365,6 +365,7 @@ variant: markdown
     /* 16:9 aspect ratio */
     height: 0;
     overflow: hidden;
+	margin-bottom: var(--yck-spacing-unit);
 }
 
 .yck-component .video-container iframe {
