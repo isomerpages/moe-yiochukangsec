@@ -339,7 +339,6 @@ variant: markdown
     list-style: none;
 }
 
-/** Responsive Video container **/
 .yck-component .video-container {
     position: relative;
     width: 100%;
@@ -347,6 +346,7 @@ variant: markdown
     /* 16:9 aspect ratio */
     height: 0;
     overflow: hidden;
+	margin-bottom: var(--yck-spacing-unit);
 }
 
 .yck-component .video-container iframe {
