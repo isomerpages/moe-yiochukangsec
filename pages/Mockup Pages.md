@@ -113,32 +113,26 @@ description: Mocking up pages before public release
 <div class="yck-component">
 	<div class="col-container">
 		<div class="column">
-<table class="yck-table">
-                <thead>
-                    <tr>
-                        <th class="yck-th"><h4 class="yck-h5">EVENTS:</h4></th>
-                    </tr>
-                </thead>
-                <tbody>
-                     <tr><td class="yck-td">Air Pistol Shooting Programme</td></tr>
-                    <tr><td class="yck-td">Annual Unit Camp</td></tr>
-                    <tr><td class="yck-td">Area 11 Adventure &amp; Survival Training Camp</td></tr>
-                     <tr><td class="yck-td">Area 11 Secondary 1 Cadets Swearing In Ceremony</td></tr>
-                    <tr><td class="yck-td">Area 11 Games Day</td></tr>
-                    <tr><td class="yck-td">Crime Prevention Programme</td></tr>
-                     <tr><td class="yck-td">Home Team Gallery Visit</td></tr>
-                    <tr><td class="yck-td">K-9 Dog Unit Visit</td></tr>
-                    <tr><td class="yck-td">Neighbourhood Police Centre Visit</td></tr>
-                    <tr><td class="yck-td">NPCC Annual Parade (NPAP)</td></tr>
-                    <tr><td class="yck-td">Police Heritage Visit</td></tr>
-                    <tr><td class="yck-td">Yeoman for National School Games (Swimming)</td></tr>
-                    <tr><td class="yck-td">Police Youth Ambassador</td></tr>
-                     <tr><td class="yck-td">Sports Enrichment Programme (SEP)</td></tr>
-                     <tr><td class="yck-td">Total Defence Programme</td></tr>
-                      <tr><td class="yck-td">YCKSS National Day Parade</td></tr>
-                     <tr><td class="yck-td">YCKSS Speech Day Parade</td></tr>
-                </tbody>
-            </table>
+<h5 class="yck-h5">EVENTS:</h5>
+    <ul>
+        <li>Air Pistol Shooting Programme</li>
+        <li>Annual Unit Camp</li>
+        <li>Area 11 Adventure &amp; Survival Training Camp</li>
+        <li>Area 11 Secondary 1 Cadets Swearing In Ceremony</li>
+        <li>Area 11 Games Day</li>
+        <li>Crime Prevention Programme</li>
+        <li>Home Team Gallery Visit</li>
+        <li>K-9 Dog Unit Visit</li>
+        <li>Neighbourhood Police Centre Visit</li>
+        <li>NPCC Annual Parade (NPAP)</li>
+        <li>Police Heritage Visit</li>
+        <li>Yeoman for National School Games (Swimming)</li>
+        <li>Police Youth Ambassador</li>
+        <li>Sports Enrichment Programme (SEP)</li>
+        <li>Total Defence Programme</li>
+        <li>YCKSS National Day Parade</li>
+        <li>YCKSS Speech Day Parade</li>
+    </ul>
 		</div>
 		<div class="column">
 			<table class="yck-table">
@@ -269,6 +263,7 @@ description: Mocking up pages before public release
 
 <hr>
 
+
 <style>
 :root {
     --yck-text-line-height: 1.6em;
@@ -286,6 +281,7 @@ description: Mocking up pages before public release
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
     --yck-space-s-xl: clamp(0.75rem, 0.7337rem + 1.9565vw, 2.7994rem);
+    interpolate-size: allow-keywords;
 }
 
 
@@ -322,10 +318,11 @@ description: Mocking up pages before public release
     margin-bottom: var(--yck-spacing-unit);
 }
 
-.yck-component p:last-child {
-    margin-bottom: calc(var(--yck-space-s-xl)*2);
+.yck-component p:last-child,
+.yck-component ul li:last-child {
+    margin-bottom: calc(var(--yck-space-s-xl)*1.6);
 }
-	
+
 .yck-component .yck-h1,
 .yck-component h1 {
     font-size: var(--yck-step-5);
@@ -376,7 +373,7 @@ description: Mocking up pages before public release
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
-	
+
 .yck-component .yck-table {
     border-collapse: collapse;
     max-width: 100%;
@@ -400,23 +397,29 @@ description: Mocking up pages before public release
 
 .yck-component .yck-td {
     border-bottom: 1px solid #ddd;
-    max-width: 320px;
+    max-width: 400px;
     word-wrap: break-word;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
   }
 
 .yck-component .yck-table tbody .yck-td p {
-    margin-block: 0;
+    margin-top: 0;
+    margin-bottom: 0.25em;
 	  line-height: 1.6rem;
     padding-bottom: 0.5em;
 }
-    
+
  .yck-component .yck-table tbody .yck-td p:last-child {
-     margin-bottom: var(--yck-space-s-xl);
+     margin-bottom: var(--yck-spacing-unit);
  }
 
- .yck-component blockquote {
+.yck-component .bqcontainer {
+    max-width: 800px;
+    padding: 20px;
+  }
+
+.yck-component blockquote {
     position: relative;
     margin: 40px 0;
     padding: 30px 40px;
@@ -424,7 +427,7 @@ description: Mocking up pages before public release
     border-radius: 5px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
   }
-  
+
 .yck-component blockquote p {
     color: #ff6b6b;
     font-style: italic;
@@ -432,35 +435,34 @@ description: Mocking up pages before public release
     line-height: 1.6;
     margin: 0;
   }
-  
+
 .yck-component blockquote::before {
     content: '"';
     position: absolute;
-    top: 20px;
-    left: 20px;
+    top: 10px;
+    left: 10px;
     color: #ff6b6b;
     font-size: 60px;
     font-family: Georgia, serif;
     opacity: 0.3;
   }
-  
+
 .yck-component cite {
     display: block;
     margin-top: 15px;
     font-style: normal;
     font-weight: bold;
-	  font-size: var(--yck-step--1);
     color: #555;
     text-align: right;
   }
-	
+
 .yck-component .col-container {
 	width: 100%;
 	max-width: 1200px;
 	margin: 0 auto;
 
 	/* CSS Multi-column Layout properties */
-	column-count: 2;
+	/* column-count: 2; */
 	column-width: 400px;
 	column-gap: 20px;
 }
@@ -503,7 +505,7 @@ description: Mocking up pages before public release
         width: 100%;
         height: 100%;
     }
-	
+
 .image-gallery {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Flexible columns with a minimum of 200px */
