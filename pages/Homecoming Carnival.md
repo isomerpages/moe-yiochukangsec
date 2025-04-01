@@ -6,7 +6,7 @@ description: ""
 image: /images/Our Story/School Logo/A Brand New Design for a New B/YCKSS_Logo.svg
 ---
 <div class="yck-component">
-<h4 class="yck-h4">60th Anniversary - Homecoming Carnival</h4>
+<h3 class="yck-h3">60th Anniversary - Homecoming Carnival</h3>
 <div class="yck-flexbox-grid">
 <p>Stay tuned for more updates, and join us in making this milestone celebration unforgettable!</p>
 <img alt="60th Celebration GIF" src="/images/60th_Anniversary_Celebration.gif">
