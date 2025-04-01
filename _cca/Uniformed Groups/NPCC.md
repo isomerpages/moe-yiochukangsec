@@ -246,6 +246,7 @@ variant: markdown
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
     --yck-spacing-unit: 1em;
+
     --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
     --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
     --yck-step-0: clamp(1.125rem, 1.125rem + 0vw, 1.125rem);
@@ -254,6 +255,7 @@ variant: markdown
     --yck-step-3: clamp(1.6018rem, 1.4828rem + 0.5951vw, 1.944rem);
     --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
+
     --yck-space-s-xl: clamp(0.75rem, 0.7337rem + 1.9565vw, 2.7994rem);
     interpolate-size: allow-keywords;
 }
@@ -386,6 +388,7 @@ variant: markdown
     padding-bottom: 0.5em;
 }
 
+/* Apply margin-bottom only when it is the last table-date in the row or contains the last paragraph */
 .yck-component .yck-table tbody tr:last-child .yck-td:last-child,
 .yck-component .yck-table tbody tr:last-child .yck-td:last-child p:last-child {
     margin-bottom: calc(var(--yck-space-s-xl)*1.2);
@@ -434,8 +437,10 @@ variant: markdown
 
 .yck-component .col-container {
     width: 100%;
-    /* max-width: 1400px;  */
+    /* max-width: 1400px; */
     margin: 0 auto;
+
+    /* CSS Multi-column Layout properties */
     column-count: 2;
     column-width: 320px;
     column-gap: 1em;
@@ -443,13 +448,16 @@ variant: markdown
 
 .yck-component .column {
     break-inside: avoid;
+    /* Prevents content from breaking across columns */
     page-break-inside: avoid;
+    /* For older browsers */
     padding: 20px;
     margin-bottom: var(--yck-spacing-unit);
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
+/* Flexbox Grid */
 .yck-component .yck-flexbox-grid {
     --yck-min: 22ch;
     --yck-gap: 1.5em;
@@ -459,15 +467,17 @@ variant: markdown
     gap: var(--yck-gap);
 }
 
-.yck-component .yck-flexbox-grid > * {
+.yck-component .yck-flexbox-grid>* {
     flex: 1 1 var(--yck-min);
     list-style: none;
 }
 
+/** Responsive Video container **/
 .yck-component .video-container {
     position: relative;
     width: 100%;
     padding-bottom: 56.25%;
+    /* 16:9 aspect ratio */
     height: 0;
     overflow: hidden;
     margin-bottom: var(--yck-spacing-s-xl);
@@ -491,9 +501,11 @@ variant: markdown
 .yck-component .yck-nav-bar a {
     text-decoration: none;
     color: inherit;
+    /* Inherit text color */
     padding-bottom: 0.5em;
     position: relative;
 }
+
 
 .yck-component .yck-nav-bar a::after {
     content: '';
