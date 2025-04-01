@@ -19,53 +19,41 @@ variant: markdown
 <p>The structured programme aims to prepare our students for infocomm-related courses in the Institutes of Higher Learning. Students participate in external competitions such as N.E.mation! and other related competitions.</p>
 	
 <p>They will use their skills to produce a short, animated video clip with 2D characters and impressive 2D creations before finalising the video in adobe Premiere pro and in Capcut. Students will learn values such as teamwork and gratitude while completing their team submission.</p>
+</div>
 
-
-
-<h3>Training&nbsp;Schedule</h3>
-
-
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Teachers-in-charge</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Committee Members</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Training Information</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Audrey Chye (Ext 140)
-<br>Mdm Chong Nyuk Foong (Ext 135)
-<br>Mr Christopher Tan&nbsp; (Ext 172)
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>President</strong> 
-<br>Zaven Pang Xing Yu
-<br><strong>Vice-President</strong> 
-<br>Foo Su Fang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Monday</strong> (Lower secondary) 3.00pm to 5.30pm</p>
-<p><strong>Tuesday</strong> (Upper secondary) 3.00pm to 5.30pm</p>
-<p><strong>Venue :</strong> Digital Learning Lab 1</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
+<div class="yck-component"><div class="yck-component">
+    <h3>Training Schedule</h3>
+    <table class="yck-table">
+        <thead>
+            <tr>
+                <th class="yck-th">
+                    <h4 class="yck-h5">DAY &amp; TIME:</h4>
+                </th>
+                <th class="yck-th">
+                    <h4 class="yck-h5">TEACHERS IN-CHARGE</h4>
+                </th>
+                <th class="yck-th">
+                    <h4 class="yck-h5">VENUE:</h4>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="yck-td">
+                    <p>Every Tuesday &amp; Thursday<br>3.00pm to 5.30pm</p>
+                </td>
+                <td class="yck-td">
+                    <p>Mr Wee Daiqi (ext 217)</p>
+                    <p>Mr Foo Sian Kok, Simon (ext 142)</p>
+                    <p>Mdm Connie Yeo (ext 124)</p>
+                </td>
+                <td class="yck-td">
+                    <p>The Technosphere. <br> Block B, Level 3</p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div><hr>
 <h4>Events/Competitions&nbsp;&amp;&nbsp;Our&nbsp;Proudest&nbsp;Moments</h4>
 <blockquote>
 <p>&nbsp;&nbsp;2022</p>
