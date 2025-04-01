@@ -126,7 +126,7 @@ variant: markdown
 </div>
 
 <style>
-	:root {
+:root {
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
@@ -144,7 +144,6 @@ variant: markdown
     --yck-space-s-xl: clamp(0.75rem, 0.7337rem + 1.9565vw, 2.7994rem);
     interpolate-size: allow-keywords;
 }
-
 
 .yck-component {
     line-height: var(--yck-text-line-height);
@@ -259,50 +258,52 @@ variant: markdown
 
 .yck-component .yck-td {
     border-bottom: 1px solid #ddd;
-    max-width: 400px;
+    min-width: 140px;
+    max-width: 640px;
     word-wrap: break-word;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
 }
 
+.yck-component .yck-table tbody .yck-td,
 .yck-component .yck-table tbody .yck-td p {
     margin-top: 0;
     margin-bottom: 0.25em;
-    line-height: 1.6rem;
+    line-height: 1.5rem;
     padding-bottom: 0.5em;
 }
 
-.yck-component .yck-table tbody .yck-td p:last-child {
-    margin-bottom: var(--yck-spacing-unit);
+/* Apply margin-bottom only when it is the last table-date in the row or contains the last paragraph */
+.yck-component .yck-table tbody tr:last-child .yck-td:last-child,
+.yck-component .yck-table tbody tr:last-child .yck-td:last-child p:last-child {
+    margin-bottom: calc(var(--yck-space-s-xl)*1.2);
 }
 
+
 .yck-component .bqcontainer {
-    max-width: 800px;
-    padding: 20px;
     margin-bottom: var(--yck-space-s-xl);
 }
 
 .yck-component blockquote {
     position: relative;
-    margin: 40px 0;
-    padding: 30px 40px;
+    padding: 25px 35px;
     background-color: white;
     border-radius: 5px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
 }
 
 .yck-component blockquote p {
     color: #ff6b6b;
     font-style: italic;
     font-size: var(--yck-step-1);
-    line-height: 1.6;
+    line-height: 1.5;
     margin: 0;
 }
 
 .yck-component blockquote::before {
     content: '"';
     position: absolute;
-    top: 10px;
+    top: 20px;
     left: 10px;
     color: #ff6b6b;
     font-size: 60px;
@@ -313,22 +314,21 @@ variant: markdown
 .yck-component cite {
     display: block;
     margin-top: var(--yck-spacing-unit);
-    font-size: var(--yck-step-0);
-    font-style: normal;
-    font-weight: bold;
+    font-size: var(--yck-step--1);
+    font-style: italic;
     color: #555;
     text-align: right;
 }
 
 .yck-component .col-container {
     width: 100%;
-    max-width: 1400px;
+    /* max-width: 1400px; */
     margin: 0 auto;
 
     /* CSS Multi-column Layout properties */
-    /* column-count: 2; */
-    column-width: 400px;
-    column-gap: 20px;
+    column-count: 2;
+    column-width: 320px;
+    column-gap: 1em;
 }
 
 .yck-component .column {
@@ -337,7 +337,7 @@ variant: markdown
     page-break-inside: avoid;
     /* For older browsers */
     padding: 20px;
-    margin-bottom: 20px;
+    margin-bottom: var(--yck-spacing-unit);
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
@@ -365,7 +365,7 @@ variant: markdown
     /* 16:9 aspect ratio */
     height: 0;
     overflow: hidden;
-	margin-bottom: var(--yck-spacing-unit);
+    margin-bottom: var(--yck-spacing-unit);
 }
 
 .yck-component .video-container iframe {
@@ -376,5 +376,83 @@ variant: markdown
     height: 100%;
 }
 
-	
+.yck-component .yck-nav-bar {
+    display: flex;
+    justify-content: space-around;
+    padding: 1em 0;
+    position: relative;
+}
+
+.yck-component .yck-nav-bar a {
+    text-decoration: none;
+    color: inherit;
+    /* Inherit text color */
+    padding-bottom: 0.5em;
+    position: relative;
+}
+
+
+.yck-component .yck-nav-bar a::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 100%;
+    bottom: 0;
+    height: 2px;
+    background-color: #4372d6;
+    /* Highlight Color */
+    transition: right 0.3s ease-in-out;
+    /* Transition on right for fade in from left */
+}
+
+.yck-component .yck-nav-bar a:hover::after {
+    right: 0;
+}
+
+.yck-component ul,
+.yck-component ol {
+    list-style: none;
+    line-height: 1.5em;
+    margin: 0 auto;
+    padding: 0px;
+}
+
+/* Apply the styles to the list items */
+.yck-component ul li {
+    margin-left: 1rem;
+    border-bottom: 0.5px solid #FFF;
+    transition: right 1s ease-in-out;
+}
+
+/* Apply the animation on hover */
+.yck-component ul li:hover {
+    animation: fadeIn 1s forwards;
+}
+
+/* Revert the animation when not hovering */
+.yck-component ul li:not(:hover) {
+    animation: fadeOut 1s forwards;
+}
+
+/* Define the keyframes for the fade-in effect */
+@keyframes fadeIn {
+    from {
+        border-bottom: 0.5px solid #EEE;
+    }
+
+    to {
+        border-bottom: 1px solid #888;
+    }
+}
+
+/* Define the keyframes for the fade-out effect */
+@keyframes fadeOut {
+    from {
+        border-bottom: 1px solid #888;
+    }
+
+    to {
+        border-bottom: 0.5px solid #FFF;
+    }
+}	
 </style>
