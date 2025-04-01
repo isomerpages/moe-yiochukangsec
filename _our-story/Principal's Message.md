@@ -33,7 +33,6 @@ variant: markdown
 </div>
 	
 <style>
-	
 :root {
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
@@ -50,14 +49,14 @@ variant: markdown
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
     --yck-space-s-xl: clamp(0.75rem, 0.7337rem + 1.9565vw, 2.7994rem);
+    interpolate-size: allow-keywords;
 }
-
 
 .yck-component {
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
     font-size: var(--yck-step-0);
-	 margin-bottom: var(--yck-spacing-unit);
+    margin-bottom: var(--yck-spacing-unit);
 }
 
 .yck-component h1,
@@ -87,10 +86,11 @@ variant: markdown
 }
 
 .yck-component p:last-child,
-.yck-component li:last-child {
-    margin-bottom: calc(var(--yck-space-s-xl)*1.25);
+.yck-component ul li:last-child,
+.yck-component ol li:last-child {
+    margin-bottom: calc(var(--yck-space-s-xl)*1.2);
 }
-	
+
 .yck-component .yck-h1,
 .yck-component h1 {
     font-size: var(--yck-step-5);
@@ -142,24 +142,5 @@ variant: markdown
     letter-spacing: var(--yck-heading-letter-spacing);
 }
 		
-.yck-component .col-container {
-	width: 100%;
-	max-width: 1200px;
-	margin: 0 auto;
-
-	/* CSS Multi-column Layout properties */
-	column-count: 2;
-	column-width: 400px;
-	column-gap: 20px;
-}
-
-.yck-component .column {
-	break-inside: avoid; /* Prevents content from breaking across columns */
-	page-break-inside: avoid; /* For older browsers */
-	padding: 20px;
-	margin-bottom: 20px;
-	border-radius: 5px;
-	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
 
 </style>
