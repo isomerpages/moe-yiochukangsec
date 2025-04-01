@@ -44,13 +44,13 @@ variant: markdown
 	<h4>Events &amp; Accomplishments</h4>
 	<div class="col-container">
 		<div class="column">
-            <table>
+            <table class="yck-table">
                 <thead>
                     <tr>
-                        <th>
+                        <th class="yck-th">
                             <h5 class="yck-h5">YEAR</h5>
                         </th>
-                        <th>
+                        <th class="yck-th">
                             <h4 class="yck-h5">ACCOMPLISHMENTS</h4>
                         </th>
                     </tr>
@@ -58,23 +58,23 @@ variant: markdown
                 <tbody>
                     <tr>
                         <td>2019</td>
-                        <td>SYF Presentation - Certificate of Accomplishment</td>
+											<td><p>SYF Presentation - Certificate of Accomplishment</p></td>
                     </tr>
                     <tr>
                         <td>2017</td>
-                        <td>2017 SYF Certificate of Distinction</td>
+											<td><p>2017 SYF Certificate of Distinction</p></td>
                     </tr>
                     <tr>
                         <td>2015</td>
-                        <td>2015 SYF Certificate of Distinction</td>
+											<td><p>2015 SYF Certificate of Distinction</p></td>
                     </tr>
                     <tr>
                         <td>2013</td>
-                        <td>2013 SYF Certificate of Distinction</td>
+											<td><p>2013 SYF Certificate of Distinction</p></td>
                     </tr>
                     <tr>
                         <td>2011</td>
-                        <td>2011 SYF Gold with Honours</td>
+											<td><p>2011 SYF Gold with Honours</p></td>
                     </tr>
                 </tbody>
             </table>
@@ -83,10 +83,10 @@ variant: markdown
 			<table class="yck-table">
     <thead>
         <tr>
-            <th>
+            <th class="yck-th">
                 <h5>YEAR</h5>
             </th>
-            <th>
+            <th class="yck-th">
                 <h5>EVENTS</h5>
             </th>
         </tr>
