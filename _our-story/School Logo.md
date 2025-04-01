@@ -9,15 +9,15 @@ variant: markdown
 
   
 
-The symmetry of the logo symbolises the&nbsp;**balance of a holistic education for all**. It features three orange shapes that resemble the bloom of petals. Collectively, they represent the school’s desire to&nbsp;**nurture students who flourish as Competent Learners, Confident Leaders and Caring Innovators**.  
+<p>The symmetry of the logo symbolises the&nbsp;**balance of a holistic education for all**. It features three orange shapes that resemble the bloom of petals. Collectively, they represent the school’s desire to&nbsp;**nurture students who flourish as Competent Learners, Confident Leaders and Caring Innovators**.  </p>
   
-The&nbsp;**three segments**&nbsp;also suggest seeds beginning to burst open with energy and life, expressing optimism in growing people and nurturing aspirations. They reflect the belief that an open mind and a willingness to seek new experiences, ensures that students learn, thrive and make a difference. In this way the three seeds echo the key words of the school’s enduring motto of&nbsp;**Pursuit, Knowledge, and Service**.  
+<p>The&nbsp;**three segments**&nbsp;also suggest seeds beginning to burst open with energy and life, expressing optimism in growing people and nurturing aspirations. They reflect the belief that an open mind and a willingness to seek new experiences, ensures that students learn, thrive and make a difference. In this way the three seeds echo the key words of the school’s enduring motto of&nbsp;**Pursuit, Knowledge, and Service**.  </p>
   
-A strong&nbsp;**“Y”**&nbsp;in the centre not only stands for Yio Chu Kang Secondary School, but also suggests a tree trunk with branches pointing skyward in&nbsp;**open embrace of learning and service to others**.  
+<p>A strong&nbsp;**“Y”**&nbsp;in the centre not only stands for Yio Chu Kang Secondary School, but also suggests a tree trunk with branches pointing skyward in&nbsp;**open embrace of learning and service to others**.  </p>
   
-The&nbsp;**circle**&nbsp;that brings all the elements together forms a never ending ring to symbolise the&nbsp;**collaborative synergy of staff, students and the community**&nbsp;working together in a spirit of inclusivity.
+<p>The&nbsp;**circle**&nbsp;that brings all the elements together forms a never ending ring to symbolise the&nbsp;**collaborative synergy of staff, students and the community**&nbsp;working together in a spirit of inclusivity.</p><p>
 
-**Extra Information below**
+	</p><p>**Extra Information below**</p>
 	
 </div>
 
