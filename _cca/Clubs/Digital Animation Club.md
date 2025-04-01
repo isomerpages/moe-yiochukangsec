@@ -10,7 +10,7 @@ description: '"Learn 2D animation with programs like CrazyTalk Animator,
 third_nav_title: Clubs
 variant: markdown
 ---
-<div class="isomer-image-wrapper">
+
 <div class="yck-component">
 <h2>The Digital Animation Club</h2>
 <img alt="Digital Animation Club members" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/DigitalAnimateClub.png">
@@ -54,6 +54,7 @@ variant: markdown
         </tbody>
     </table>
 </div><hr>
+<div class="yck-component">
 <h4>Events/Competitions&nbsp;&amp;&nbsp;Our&nbsp;Proudest&nbsp;Moments</h4>
 <blockquote>
 <p>&nbsp;&nbsp;2022</p>
@@ -79,6 +80,7 @@ Secondary)</p>
 </li>
 </ul>
 </blockquote>
+</div>
 <hr>
 <h4>Gallery</h4>
 <div class="isomer-image-wrapper">
@@ -341,4 +343,4 @@ Secondary)</p>
         border-bottom: 0.5px solid #FFF;
     }
 }
-	</style></div></div>
+	</style></div>
