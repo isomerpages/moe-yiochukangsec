@@ -4,44 +4,25 @@ permalink: /our-story/School-Vision-Mission-Motto-and-Values/
 description: ""
 variant: markdown
 ---
-**Vision**
 
-  
+<div class="yck-component">
+	<h2>Vision</h2>
+<p>A COMMUNITY OF LEARNERS, LEADERS AND INNOVATORS</p>
 
-A COMMUNITY OF LEARNERS, LEADERS AND INNOVATORS
+<h2>Mission</h2>
+<p>Nurturing students of character who thrive through love of learning, and a willingness to grow and lead in meaningful service to self and others</p>
 
-  
+<h2>Motto</h2>
+<p>Pursuit of Knowledge, Service to All</p>
 
-**Mission**
+<h2>Values</h2>
+<p><strong>GROWTH</strong></p>
+<p>Gratitude, Respect, Optimism, Wholeheartedness, Teamwork, Honesty</p>
 
-  
-
-Nurturing students of character who thrive through love of learning,&nbsp;
-
-and a willingness to grow and lead in meaningful service to self and others
-
-  
-
-**Motto**
-
-  
-
-Pursuit of Knowledge, Service to All
-
-  
-
-**Values**
-
-  
-
-GROWTH
-
-Gratitude, Respect, Optimism, Wholeheartedness, Teamwork, Honesty
-
-![](/images/Our%20Story/School%20Vision,%20Mission/V1.png)
-![](/images/Our%20Story/School%20Vision,%20Mission/V2.png)
-![](/images/Our%20Story/School%20Vision,%20Mission/V3.png)
-
+<img alt="Vision Image" src="/images/Our%20Story/School%20Vision,%20Mission/V1.png">
+<img alt="Mission Image" src="/images/Our%20Story/School%20Vision,%20Mission/V2.png">
+<img alt="Values Image" src="/images/Our%20Story/School%20Vision,%20Mission/V3.png">
+</div>
 
 <style>
 :root {
