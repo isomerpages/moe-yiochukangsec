@@ -40,6 +40,7 @@ variant: markdown
 
 <hr>
 
+<div class="yck-component">
 <details class="yck-details">
 <summary class="yck-details__summary"><h3>Our Achievements</h3></summary>
 <div class="yck-details__content">
@@ -79,22 +80,28 @@ variant: markdown
 </table>
 </div>
 </details>
+</div>
 
+<div class="yck-component">
 <h3>Gallery</h3>
-<div class="image-gallery wrapper">
+<div class="image-gallery">
 <img alt="Indian Dance 2025 Image 0" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_0.jpg">
 <img alt="Indian Dance 2025 Image 1" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_2025_1.jpg">
 <img alt="Indian Dance 2025 Image 2" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_2.jpg">
 <img alt="Indian Dance 2025 Image 5" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_5.jpg">
 <img alt="Indian Dance 2025 Image 9" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_9.jpg">
 </div>
+</div>
 
+<div class="yck-component">
 <div class="image-gallery">
 <img alt="Indian Dance 1" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_1.PNG">
 <img alt="Indian Dance 2" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_2.PNG">
 <img alt="Indian Dance 3" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_3.PNG">
 </div>
+</div>
 
+<div class="yck-component">
 <details class="yck-details">
 <summary class="yck-details__summary yck-h4">Past Gallery</summary>
 <div class="yck-details__content">
@@ -108,6 +115,7 @@ variant: markdown
 </div>
 </div>
 </details>
+</div>
 <hr>
 
 
