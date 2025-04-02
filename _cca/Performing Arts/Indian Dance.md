@@ -89,16 +89,16 @@ variant: markdown
 <img alt="Indian Dance 2025 Image 9" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_9.jpg">
 </div>
 
-<div class="wrapper">
+<div class="image-gallery">
 <img alt="Indian Dance 1" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_1.PNG">
 <img alt="Indian Dance 2" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_2.PNG">
 <img alt="Indian Dance 3" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_3.PNG">
 </div>
 
 <details class="yck-details">
-<summary class="yck-details__summary"><h4>Past Gallery</h4></summary>
+<summary class="yck-details__summary yck-h4">Past Gallery</summary>
 <div class="yck-details__content">
-<div class="wrapper">
+<div class="image-gallery">
 <img alt="Indian Dance 4" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I4.png">
 <img alt="Indian Dance 5" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I5.png">
 <img alt="Indian Dance 6" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I6.png">
@@ -129,13 +129,14 @@ variant: markdown
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
     --yck-space-s-xl: clamp(0.75rem, 0.7337rem + 1.9565vw, 2.7994rem);
+    interpolate-size: allow-keywords;
 }
 
 .yck-component {
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
     font-size: var(--yck-step-0);
-     margin-bottom: var(--yck-spacing-unit);
+    margin-bottom: var(--yck-spacing-unit);
 }
 
 .yck-component h1,
@@ -164,11 +165,12 @@ variant: markdown
     margin-bottom: var(--yck-spacing-unit);
 }
 
-.yck-component p:last-child,
-.yck-component li:last-child {
-    margin-bottom: calc(var(--yck-space-s-xl)*1.25);
+.yck-component *:last-child,
+.yck-component ul li:last-child,
+.yck-component ol li:last-child {
+    margin-bottom: calc(var(--yck-space-s-xl)*1.2);
 }
-    
+
 .yck-component .yck-h1,
 .yck-component h1 {
     font-size: var(--yck-step-5);
@@ -219,7 +221,7 @@ variant: markdown
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
-    
+	
 .yck-component .yck-table {
     border-collapse: collapse;
     max-width: 100%;
@@ -297,14 +299,13 @@ variant: markdown
 
 .wrapper img {
     border-radius: 10px;
-    border: 10px solid white;
     box-shadow: -5px -5px 10px rgba(0,0,0,0.1);
 }
 		
 .image-gallery {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Flexible columns with a minimum of 200px */
-    gap: 10px; /* Space between grid items */
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); /* Flexible columns with a minimum of 200px */
+    gap: 1em; /* Space between grid items */
     justify-items: center; /* Center the images within their grid cells */
 }
 
