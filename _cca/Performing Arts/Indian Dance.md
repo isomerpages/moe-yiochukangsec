@@ -41,9 +41,7 @@ variant: markdown
 <hr>
 
 <div class="yck-component">
-<details class="yck-details">
-<summary class="yck-details__summary"><h3>Our Achievements</h3></summary>
-<div class="yck-details__content">
+<h3>Our Achievements</h3>
 <table class="yck-table">
 <tbody>
 <tr><th class="yck-th"><h5>2023</h5></th></tr>
@@ -78,8 +76,6 @@ variant: markdown
 <tr><td class="yck-td">SYF Central Judging - Gold with Honours for SYF</td></tr>
 </tbody>
 </table>
-</div>
-</details>
 </div>
 
 <div class="yck-component">
@@ -144,7 +140,7 @@ variant: markdown
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
     font-size: var(--yck-step-0);
-    margin-bottom: var(--yck-spacing-unit);
+    margin-bottom: var(--yck-space-s-xl);
 }
 
 .yck-component h1,
@@ -229,7 +225,7 @@ variant: markdown
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
-	
+
 .yck-component .yck-table {
     border-collapse: collapse;
     max-width: 100%;
@@ -241,7 +237,7 @@ variant: markdown
 .yck-component .yck-th {
     background-color: #f2f2f2;
     text-align: left;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px dotted #ddd;
     text-transform: uppercase;
 }
 
@@ -252,23 +248,28 @@ variant: markdown
 }
 
 .yck-component .yck-td {
-    border-bottom: 1px solid #ddd;
-    max-width: 320px;
+    border-bottom: 1px dotted #ddd;
+    min-width: 140px;
+    max-width: 640px;
     word-wrap: break-word;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
-  }
+}
 
+.yck-component .yck-table tbody .yck-td,
 .yck-component .yck-table tbody .yck-td p {
-    margin-block: 0;
-      line-height: 1.6rem;
+    margin-top: 0;
+    margin-bottom: 0.25em;
+    line-height: 1.5rem;
     padding-bottom: 0.5em;
 }
-    
-.yck-component .yck-table tbody .yck-td p:last-child {
-     margin-bottom: var(--yck-space-s-xl);
- }
-    
+
+/* Apply margin-bottom only when it is the last table-date in the row or contains the last paragraph */
+.yck-component .yck-table tbody tr:last-child .yck-td:last-child,
+.yck-component .yck-table tbody tr:last-child .yck-td:last-child p:last-child {
+    margin-bottom: calc(var(--yck-space-s-xl)*1.2);
+}
+	
 .yck-component .col-container {
     width: 100%;
     max-width: 1200px;
