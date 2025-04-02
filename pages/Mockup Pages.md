@@ -278,12 +278,11 @@ description: Mocking up pages before public release
     interpolate-size: allow-keywords;
 }
 
-
 .yck-component {
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
     font-size: var(--yck-step-0);
-	 margin-bottom: var(--yck-spacing-unit);
+    margin-bottom: var(--yck-spacing-unit);
 }
 
 .yck-component h1,
@@ -313,8 +312,9 @@ description: Mocking up pages before public release
 }
 
 .yck-component p:last-child,
-.yck-component ul li:last-child {
-    margin-bottom: calc(var(--yck-space-s-xl)*1.6);
+.yck-component ul li:last-child,
+.yck-component ol li:last-child {
+    margin-bottom: calc(var(--yck-space-s-xl)*1.2);
 }
 
 .yck-component .yck-h1,
@@ -391,83 +391,47 @@ description: Mocking up pages before public release
 
 .yck-component .yck-td {
     border-bottom: 1px solid #ddd;
-    max-width: 400px;
+    min-width: 140px;
+    max-width: 640px;
     word-wrap: break-word;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
-  }
+}
 
+.yck-component .yck-table tbody .yck-td,
 .yck-component .yck-table tbody .yck-td p {
     margin-top: 0;
     margin-bottom: 0.25em;
-	  line-height: 1.6rem;
+    line-height: 1.5rem;
     padding-bottom: 0.5em;
 }
 
- .yck-component .yck-table tbody .yck-td p:last-child {
-     margin-bottom: var(--yck-spacing-unit);
- }
-
-.yck-component .bqcontainer {
-    max-width: 800px;
-    padding: 20px;
-  }
-
-.yck-component blockquote {
-    position: relative;
-    margin: 40px 0;
-    padding: 30px 40px;
-    background-color: white;
-    border-radius: 5px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  }
-
-.yck-component blockquote p {
-    color: #ff6b6b;
-    font-style: italic;
-    font-size: var(--yck-step-1);
-    line-height: 1.6;
-    margin: 0;
-  }
-
-.yck-component blockquote::before {
-    content: '"';
-    position: absolute;
-    top: 10px;
-    left: 10px;
-    color: #ff6b6b;
-    font-size: 60px;
-    font-family: Georgia, serif;
-    opacity: 0.3;
-  }
-
-.yck-component cite {
-    display: block;
-    margin-top: 15px;
-    font-style: normal;
-    font-weight: bold;
-    color: #555;
-    text-align: right;
-  }
+/* Apply margin-bottom only when it is the last table-date in the row or contains the last paragraph */
+.yck-component .yck-table tbody tr:last-child .yck-td:last-child,
+.yck-component .yck-table tbody tr:last-child .yck-td:last-child p:last-child {
+    margin-bottom: calc(var(--yck-space-s-xl)*1.2);
+}
 
 .yck-component .col-container {
-	width: 100%;
-	max-width: 1200px;
-	margin: 0 auto;
+    width: 100%;
+    /* max-width: 1400px; */
+    margin: 0 auto;
 
-	/* CSS Multi-column Layout properties */
-	/* column-count: 2; */
-	column-width: 400px;
-	column-gap: 20px;
+    /* CSS Multi-column Layout properties */
+    column-count: 2;
+    column-width: 320px;
+    column-gap: 1em;
 }
 
 .yck-component .column {
-	break-inside: avoid; /* Prevents content from breaking across columns */
-	page-break-inside: avoid; /* For older browsers */
-	padding: 20px;
-	margin-bottom: 20px;
-	border-radius: 5px;
-	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    break-inside: avoid;
+    /* Prevents content from breaking across columns */
+    page-break-inside: avoid;
+    /* For older browsers */
+    padding: 20px;
+    margin-bottom: var(--yck-spacing-unit);
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 /* Flexbox Grid */
@@ -480,142 +444,76 @@ description: Mocking up pages before public release
     gap: var(--yck-gap);
 }
 
-.yck-component .yck-flexbox-grid > * {
+.yck-component .yck-flexbox-grid>* {
     flex: 1 1 var(--yck-min);
     list-style: none;
 }
-	/** Responsive Video container **/
-.yck-component  .video-container {
-        position: relative;
-        width: 100%;
-        padding-bottom: 56.25%; /* 16:9 aspect ratio */
-        height: 0;
-        overflow: hidden;
-    }
+
+/** Responsive Video container **/
+.yck-component .video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    margin-bottom: var(--yck-space-s-xl);
+}
+
 .yck-component .video-container iframe {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+.yck-component .column ul,
+.yck-component .column ol {
+    list-style: none;
+    line-height: 1.5em;
+    margin: 0 auto;
+    padding: 0px;
+}
+
+/* Apply the styles to the list items */
+.yck-component ul li {
+    margin-left: 1rem;
+    border-bottom: 0.5px solid #FFF;
+    transition: right 1s ease-in-out;
+}
+
+/* Apply the animation on hover */
+.yck-component ul li:hover {
+    animation: fadeIn 1s forwards;
+}
+
+/* Revert the animation when not hovering */
+.yck-component ul li:not(:hover) {
+    animation: fadeOut 1s forwards;
+}
+
+/* Define the keyframes for the fade-in effect */
+@keyframes fadeIn {
+    from {
+        border-bottom: 0.5px solid #EEE;
     }
 
-.image-gallery {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Flexible columns with a minimum of 200px */
-    gap: 10px; /* Space between grid items */
-    justify-items: center; /* Center the images within their grid cells */
+    to {
+        border-bottom: 1px solid #888;
+    }
 }
 
-.image-gallery img {
-    width: 100%; /* Ensure the images take up the full width of their grid cell */
-    height: auto; /* Maintain aspect ratio */
-    border-radius: 5px; /* Optional: Add rounded corners */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add subtle shadow */
-    object-fit: cover; /* Ensures images fit nicely */
+/* Define the keyframes for the fade-out effect */
+@keyframes fadeOut {
+    from {
+        border-bottom: 1px solid #888;
+    }
+
+    to {
+        border-bottom: 0.5px solid #FFF;
+    }
 }
-	
-	/** CSS Only Accordion **/
- .accordion {
-  box-sizing: border-box;
-  display: flex;
-  overflow: hidden;
-  width: 100%;
-}
-
-.accordion-select {
-  cursor: pointer;
-  margin: 0;
-  opacity: 0;
-  z-index: 1;
-}
-
-.accordion-title {
-  position: relative;
-}
-
-.accordion-title:not(:nth-last-child(2))::after {
-  border: 1px solid transparent;
-  bottom: 0;
-  content: "";
-  left: 0;
-  position: absolute;
-  right: 0;
-  top: 0;
-}
-
-.accordion-title span {
-  bottom: 0px;
-  box-sizing: border-box;
-  display: block;
-  position: absolute;
-  white-space: nowrap;
-  width: 100%;
-}
-
-.accordion-content {
-  box-sizing: border-box;
-  overflow: auto;
-  position: relative;
-  transition: margin 0.3s ease 0.1s;
-}
-
-.accordion-select:checked + .accordion-title + .accordion-content {
-  margin-bottom: 0;
-  margin-right: 0;
-}
-
-/* Generated styles starts here */ 
-
- .accordion {
-    border-color: #dedede;
-    border-radius: 8px;
-    border-style: solid;
-    border-width: 1px;
-    flex-direction: column;
-    height: auto;
-} 
-
- .accordion-title,
-.accordion-select  {
-    background-color: #ffffff;
-    color: #7f8787;
-    width: 100%;
-    height: 65px;
-    font-size: var(--yck-step-3);
-}
-
-.accordion-select {
-    margin-bottom: -65px;
-    margin-right: 0;
-}
-
-.accordion-title:not(:nth-last-child(2))::after {
-    border-bottom-color: rgb(234, 234, 234);
-    border-right-color: transparent;
-} 
-
- .accordion-select:hover + .accordion-title,
-.accordion-select:checked + .accordion-title {
-    background-color: #ffffff;
-} 
-
- .accordion-title span  {	
-    transform: rotate(0deg);
-    -ms-writing-mode: lr-tb;
-    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=0);
-    padding-left: 33px;
-    padding-right: 33px;
-    line-height: 65px;
-} 
-
- .accordion-content {
-    background-color: #f7f7f7;
-    color: #7f8787;
-    height: 280px;
-	  margin-bottom: -280px;
-    margin-right: 0;
-    padding: 30px;
-    width: 100%;
-} 
 </style>
