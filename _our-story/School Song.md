@@ -6,20 +6,20 @@ variant: markdown
 ---
 <div class="yck-component">
 
-![](/images/Our%20Story/School%20Song/S1.jpg)
-
-**Our School is Yio Chu Kang.**  
-**Together we learn and grow.**  
-**Pursuit of knowledge, service to all,**  
-**With gratitude and character, we show.**  
-**Wholeheartedly, our Home.**  
-
-**Through our hopes and dreams,**  
-**We see the best in all.**  
-**With heart and soul, we lead**  
-**And strive for excellence.**  
-**Wholeheartedly, our School.**  
-**Wholeheartedly, our Home**.
+ <img class="school-image" alt="School Image" src="/images/Our%20Story/School%20Song/S1.jpg">
+        <p>
+            <strong>Our School is Yio Chu Kang.</strong><br>
+            <strong>Together we learn and grow.</strong><br>
+            <strong>Pursuit of knowledge, service to all,</strong><br>
+            <strong>With gratitude and character, we show.</strong><br>
+            <strong>Wholeheartedly, our Home.</strong><br>
+            <strong>Through our hopes and dreams,</strong><br>
+            <strong>We see the best in all.</strong><br>
+            <strong>With heart and soul, we lead</strong><br>
+            <strong>And strive for excellence.</strong><br>
+            <strong>Wholeheartedly, our School.</strong><br>
+            <strong>Wholeheartedly, our Home</strong>.
+        </p>
 
   
 
@@ -30,7 +30,7 @@ variant: markdown
 
 <div class="yck-component">
 
-#### **About the School Song**
+<h3>About the School Song</h3>
 
 
 <p>In 2018, Music teachers, Miss Dan Wei Lio and Mr Michael Cartwright began work on composing the music and writing the lyrics to a new song to represent the newly merged school. The song was officially launched during the 2019 Speech and Prize Giving Day.L</p>
