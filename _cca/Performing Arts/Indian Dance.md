@@ -304,7 +304,99 @@ variant: markdown
         left: 0;
         width: 100%;
         height: 100%;
+  }
+	
+.yck-component .yck-details__content,
+.yck-component .yck-details__content ol,
+.yck-component .yck-details__content ol li,
+.yck-component .yck-details__content ul,
+.yck-component .yck-details__content ul li {
+    padding: 0;
+    margin: 0;
+}
+
+.yck-component .yck-details {
+    border-top: 1px solid rgba(0, 0, 0, 0.15);
+    margin-top: clamp(1rem, 5%, 2rem);
+    overflow: hidden;
+    transition: border-color 0.7s;
+}
+
+.yck-component .yck-details:hover {
+    border-color: #555;
+}
+
+.yck-component .yck-details__summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    margin-top: clamp(0.75rem, 5%, 1.5rem);
+    padding-bottom: clamp(1rem, 5%, 2rem);
+    text-transform: uppercase;
+    font-size: var(--yck-step-2);
+}
+
+.yck-component .yck-details__summary::after {
+    content: '+';
+    font-size: var(--yck-step-2);
+    color: #999;
+    transition: transform 0.5s ease-in-out;
+    margin-right: 1rem;
+}
+
+.yck-component .yck-details[open] .yck-details__summary::after {
+    transform: rotate(-45deg);
+}
+
+.yck-component .yck-details__content {
+    max-height: auto;
+    margin-bottom: clamp(1.25rem, 5%, 1.75rem);
+    opacity: 0;
+    overflow: hidden;
+    padding: 0;
+    animation: yckFadeOutSlideUp 0.5s ease forwards;
+}
+
+.yck-component .yck-details[open] .yck-details__content {
+    animation: yckFadeInSlideDown 0.5s ease forwards;
+}
+
+@keyframes yckFadeInSlideDown {
+    0% {
+        max-height: auto;
+        opacity: 0;
     }
+
+    100% {
+        max-height: auto;
+        opacity: 1;
+    }
+}
+
+@keyframes yckFadeOutSlideUp {
+    0% {
+        max-height: auto;
+        opacity: 1;
+    }
+
+    100% {
+        max-height: auto;
+        opacity: 0;
+    }
+}
+
+.wrapper {
+    width: 100%;
+    max-width: 1270px;
+    margin-inline: auto;
+    position: relative;
+    height: 493px;
+    margin-top: 1.5rem;
+    overflow: hidden;
+    mask-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1) 8%, rgba(0, 0, 0, 1) 92%, rgba(0, 0, 0, 0))
+}
+
 
 .wrapper img {
     border-radius: 10px;
