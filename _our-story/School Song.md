@@ -25,8 +25,8 @@ variant: markdown
 
 <small><i>Musics &amp; Lyrics by:  
 	Mr Michael William Cartwright &amp; Ms Lio Dan Wei</i>
-	
-</small></div><small>
+</small>
+</div>
 
 <div class="yck-component">
 
@@ -151,4 +151,4 @@ variant: markdown
     letter-spacing: var(--yck-heading-letter-spacing);
 }
 	
-</style></small>
+</style>
