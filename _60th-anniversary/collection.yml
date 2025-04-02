@@ -2,4 +2,5 @@ collections:
   60th-anniversary:
     output: true
     order:
+      - Alumni Dinner.md
       - 60th Anniversary Celebrations.md
