@@ -62,6 +62,25 @@ description: ""
 
 </div>
 
+<div class="yck-component">
+<div class="bqcontainer">
+                                    <div class="yck-flexbox-grid">
+                                      <blockquote>
+                                            <p>
+                                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+                                            <cite>Says no one ever ...</cite>
+                                        </blockquote>
+                                        <blockquote>
+                                            <p>
+                                                All Work and no play makes the Drummer Boy Dull ...
+                                            </p>
+                                            <cite>Says no one ever ...</cite>
+                                        </blockquote>                                     
+                                    </div>
+                                </div>	
+
+</div>
+
 <style>
 	
 :root {
