@@ -115,6 +115,12 @@ description: ""
 	
 </div>
 
+<div class="yck-component">
+	<div class="video-container">
+		<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YCKSS 60th Anniversary Celebration Overview" src="https://www.youtube.com/embed/F9miy3c2ZRY?si=5nkNPSAdDBwbGriM" height="315" width="560"></iframe>
+	</div>
+	</div>
+
 <style>
 	
 :root {
@@ -278,7 +284,7 @@ description: ""
     /* CSS Multi-column Layout properties */
     column-count: 2;
     column-width: 320px;
-    column-gap: 1em;
+    column-gap: 1.5em;
 }
 
 .yck-component .column {
@@ -380,13 +386,13 @@ description: ""
 
 .yck-component .bqcontainer {
     margin:  0 auto;
-    margin-bottom: var(--yck-space-s-xl) !important;
-    width: min(1000px, calc(70% + 160px));
+    width: 100%;
 }
 
 .yck-component blockquote {
     position: relative;
     padding: 25px 35px;
+	  margin: 0 auto;
     margin-bottom: var(--yck-spacing-unit) !important;
     border-left:  none !important;
     border-radius: 5px;
@@ -404,7 +410,7 @@ description: ""
 .yck-component blockquote::before {
     content: '"';
     position: absolute;
-    top: 20px;
+    top: 25px;
     left: 10px;
     color: #ff6b6b !important;
     font-size: 60px;
