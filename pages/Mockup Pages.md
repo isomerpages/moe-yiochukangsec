@@ -282,7 +282,7 @@ description: Mocking up pages before public release
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
     font-size: var(--yck-step-0);
-    margin-bottom: var(--yck-spacing-unit);
+    margin-bottom: var(--yck-space-s-xl);
 }
 
 .yck-component h1,
@@ -305,13 +305,13 @@ description: Mocking up pages before public release
 }
 
 .yck-component p,
-.yck-component ol,
-.yck-component ul {
+.yck-component ol li,
+.yck-component ul li {
     text-wrap: pretty;
     margin-bottom: var(--yck-spacing-unit);
 }
 
-.yck-component p:last-child,
+.yck-component *:last-child,
 .yck-component ul li:last-child,
 .yck-component ol li:last-child {
     margin-bottom: calc(var(--yck-space-s-xl)*1.2);
@@ -379,7 +379,7 @@ description: Mocking up pages before public release
 .yck-component .yck-th {
     background-color: #f2f2f2;
     text-align: left;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px dotted #ddd;
     text-transform: uppercase;
 }
 
@@ -390,9 +390,9 @@ description: Mocking up pages before public release
 }
 
 .yck-component .yck-td {
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px dotted #ddd;
     min-width: 140px;
-    max-width: 640px;
+    max-width: 800px;
     word-wrap: break-word;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
@@ -414,7 +414,7 @@ description: Mocking up pages before public release
 
 .yck-component .col-container {
     width: 100%;
-    /* max-width: 1400px; */
+    max-width: 1000px;
     margin: 0 auto;
 
     /* CSS Multi-column Layout properties */
@@ -449,7 +449,7 @@ description: Mocking up pages before public release
     list-style: none;
 }
 
-/** Responsive Video container **/
+/** Responsive Video or object container **/
 .yck-component .video-container {
     position: relative;
     width: 100%;
@@ -469,51 +469,123 @@ description: Mocking up pages before public release
 }
 
 
-
+/* Custom lists */
 .yck-component .column ul,
 .yck-component .column ol {
     list-style: none;
-    line-height: 1.5em;
     margin: 0 auto;
     padding: 0px;
 }
 
 /* Apply the styles to the list items */
-.yck-component ul li {
+.yck-component .column ul li {
     margin-left: 1rem;
-    border-bottom: 0.5px solid #FFF;
-    transition: right 1s ease-in-out;
+    margin-right: 1.5rem;
+    line-height: 1.5em;
+    border-bottom: 1px solid #eee;
+    transition: right 1.25s ease-in-out;
 }
 
 /* Apply the animation on hover */
-.yck-component ul li:hover {
+.yck-component .column ul li:hover {
     animation: fadeIn 1s forwards;
 }
 
 /* Revert the animation when not hovering */
-.yck-component ul li:not(:hover) {
+.yck-component .column ul li:not(:hover) {
     animation: fadeOut 1s forwards;
 }
 
-/* Define the keyframes for the fade-in effect */
+/* Define the keyframes for the fade-in/out effect */
 @keyframes fadeIn {
     from {
-        border-bottom: 0.5px solid #EEE;
+        border-bottom: 1px solid #eee;
     }
 
     to {
-        border-bottom: 1px solid #888;
+        border-bottom: 1px solid #e37f2a;
     }
 }
 
 /* Define the keyframes for the fade-out effect */
 @keyframes fadeOut {
     from {
-        border-bottom: 1px solid #888;
+        border-bottom: 1px solid #e37f2a;
     }
 
     to {
-        border-bottom: 0.5px solid #FFF;
+        border-bottom: 1px solid #eee;
     }
 }
+
+/* Blockquotes */
+
+.yck-component .bqcontainer {
+    margin:  0 auto;
+    margin-bottom: var(--yck-space-s-xl) !important;
+    width: min(1000px, calc(70% + 160px));
+}
+
+.yck-component blockquote {
+    position: relative;
+    padding: 25px 35px;
+    margin-bottom: var(--yck-spacing-unit) !important;
+    border-left:  none !important;
+    border-radius: 5px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+}
+
+.yck-component blockquote p {
+    color: #ff6b6b !important; 
+    font-style: italic !important;
+    font-size: var(--yck-step-1) !important;
+    line-height: 1.5em !important;
+    margin: 0;
+}
+
+.yck-component blockquote::before {
+    content: '"';
+    position: absolute;
+    top: 20px;
+    left: 10px;
+    color: #ff6b6b !important;
+    font-size: 60px;
+    font-family: Georgia, serif;
+    opacity: 0.3;
+}
+
+.yck-component cite {
+    display: block;
+    margin-top: var(--yck-spacing-unit);
+    font-size: var(--yck-step--1);
+    font-style: italic;
+    color: #555;
+    text-align: right;
+}
+
+.yck-component figure {
+/*   border: thin #c0c0c0 solid; */
+  display: flex;
+  flex-flow: column;
+/*   padding: 5px; */
+  max-width: 100%;
+  margin: auto;
+}
+
+.yck-component img { 
+  max-width: 100%;  /* [9] Prevent images from overflowing their container. */
+  height: auto; /* [9] Maintain aspect ratio while resizing. */ 
+  display: block; /* [9] Prevent spacing issues by forcing images to start on a new line. */
+}
+
+.yck-component figcaption {
+  background-color: rgba(255, 255, 255, 0.75);
+  color: #333;
+  font: italic var(--yck-step--1) sans-serif;
+  padding: 5px;
+  text-align: left;
+}
+
+
+
 </style>
