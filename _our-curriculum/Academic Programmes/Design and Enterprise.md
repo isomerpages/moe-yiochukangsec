@@ -5,55 +5,26 @@ description: ""
 third_nav_title: Academic Programmes
 variant: markdown
 ---
-![](/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D1.jpg)
-Please [click&nbsp;here](/files/Academic%20Programmes/Design%20and%20Enterprise/DE_Department_Programme_and_Subject_Information_.pdf) for more details on the department programme and subject information. 
+<div class="yck-component">
+    <figure>
+        <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D1.jpg">
+    </figure>
 
-
-## **Vision**
-
-Caring innovators who are creative and passionate about their crafts&nbsp;
-
-  
-
-## **Mission**
-
-To enhance the quality of life through the values, skills and knowledge acquired through the design process
-
-  
-
-The Design and Enterprise Department offers the following subjects to develop an&nbsp;**innovative mindset**&nbsp;in our students. The hands-on approach adopted in these subjects allows students to anchor on design actions and the application of knowledge and process skills in real-life situations.
-
-![](/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D2.png)
-
-### **Opportunities for Innovation and Creative Thinking**
-
-#### Art:&nbsp;&nbsp;
-
-Students are required to reflect and express their uniqueness by communicating their thoughts and emotions using images and objects. In order for them to create art, they must think about WHAT they are doing, HOW they are doing, and WHAT they find to be the meaning inherent in the artwork.&nbsp;
-
-  
-
-#### D&amp;T:&nbsp;&nbsp;
-
-Students are nurtured in a way of doing and thinking through the design process – IDENTIFYING NEEDS from real world experiences, GENERATING AND DEVELOPING ideas, and REALISING the design solution, with research carried out.
-
-  
-
-#### FCE/FN/FS:&nbsp;&nbsp;
-
-Students are required to respond to new lifestyle and consumer trends in health and financial management. They are taught culinary skills to prepare healthy meals for the family.&nbsp;
-
-  
-
-#### MUSIC:&nbsp;&nbsp;
-
-Students are enabled to express their thoughts and emotions through music with an array of instruments of their choices.&nbsp;
-
-  
-
-#### SET:&nbsp;&nbsp;
-
-Students are connected to current and future needs of industries in an immediate and explicit manner. They are trained to plan and design a smart home using home automation systems.  
+   <div class="yck-flexbox-grid">
+        <div class="isomer-card">
+            <h2><strong>Vision</strong></h2>
+            <p>Caring innovators who are creative and passionate about their crafts</p>
+        </div>
+        <div class="isomer-card">
+            <h2><strong>Mission</strong></h2>
+            <p>To enhance the quality of life through the values, skills and knowledge acquired through the design process</p>
+        </div>
+    </div>
+    <p>The Design and Enterprise Department offers the following subjects to develop an <strong>innovative mindset</strong> in our students. The hands-on approach adopted in these subjects allows students to anchor on design actions and the application of knowledge and process skills in real-life situations.</p>
+    <div class="figure">
+        <img alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D_Tframework.png">
+    </div>
+</div>
 
 <div class="yck-component">
     <h3><strong>Opportunities for Innovation and Creative Thinking</strong></h3>
