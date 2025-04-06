@@ -5,14 +5,11 @@ description: ""
 third_nav_title: Academic Programmes
 variant: markdown
 ---
-<div class="yck-component">
-	<div class="ken-burns-container">
-    <figure>
-        <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D1.jpg">
-    </figure>
-	</div>
-	</div>
-	<div class="-&quot;yck-component&quot;">
+
+<div class="ken-burns-container">
+        <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D1.jpg" class="ken-burns-image">
+</div>
+	<div class="yck-component">
    <div class="yck-flexbox-grid">
         <div class="isomer-card">
             <h2><strong>Vision</strong></h2>
