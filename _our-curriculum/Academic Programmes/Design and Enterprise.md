@@ -8,7 +8,8 @@ variant: markdown
 <div class="ken-burns-container">
         <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D1.jpg" class="ken-burns-image">
 </div>
-	<div class="yck-component">
+
+<div class="yck-component">
    <div class="yck-flexbox-grid">
         <div class="isomer-card">
             <h2><strong>Vision</strong></h2>
