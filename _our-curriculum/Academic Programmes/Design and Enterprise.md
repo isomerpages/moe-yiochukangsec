@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Academic Programmes
 variant: markdown
 ---
-
 <div class="ken-burns-container">
         <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D1.jpg" class="ken-burns-image">
 </div>
