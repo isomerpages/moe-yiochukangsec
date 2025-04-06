@@ -55,40 +55,53 @@ Students are enabled to express their thoughts and emotions through music with a
 
 Students are connected to current and future needs of industries in an immediate and explicit manner. They are trained to plan and design a smart home using home automation systems.  
 
----
+<div class="yck-component">
+    <h3><strong>Opportunities for Innovation and Creative Thinking</strong></h3>
+    <h4>Art:</h4>
+    <p>Students are required to reflect and express their uniqueness by communicating their thoughts and emotions using images and objects. In order for them to create art, they must think about WHAT they are doing, HOW they are doing, and WHAT they find to be the meaning inherent in the artwork.</p>
+    <h4>D&amp;T:</h4>
+    <p>Students are nurtured in a way of doing and thinking through the design process – IDENTIFYING NEEDS from real world experiences, GENERATING AND DEVELOPING ideas, and REALISING the design solution, with research carried out.</p>
+    <h4>FCE/FN/FS:</h4>
+    <p>Students are required to respond to new lifestyle and consumer trends in health and financial management. They are taught culinary skills to prepare healthy meals for the family.</p>
+    <h4>MUSIC:</h4>
+    <p>Students are enabled to express their thoughts and emotions through music with an array of instruments of their choices.</p>
+    <h4>SET:</h4>
+    <p>Students are connected to current and future needs of industries in an immediate and explicit manner. They are trained to plan and design a smart home using home automation systems.</p>
+</div>
+<hr>
+<div class="yck-component">
+    <p>To enhance awareness and appreciation of the latest trends, our students embark on learning journeys and participate in activities or competitions that connect classroom knowledge to real-world contexts. These experiences allow them to view different subject disciplines from fresh perspectives.</p>
+</div>
+<div class="yck-component">
+    <div class="col-container">
+        <div class="isomer-card">
+            <details>
+                <summary class="yck-h5">HOD Design &amp; Enterprise</summary>
+                <p class="yck-h6">Ms Hoon Siew Hui [ext: 206]</p>
+            </details>
+        </div>
+    </div>
+</div>
 
-### **Learning Journey in Arts**&nbsp;
 
-To increase awareness and appreciation of the latest trends, our Secondary Three Art students are brought on learning journeys to Nanyang Academy of Fine Arts (NAFA) Open House, National Gallery or Singapore Art Week. It allows them to link what they have learnt in class to real world context and see art in a different light.&nbsp;
+<div class="yck-component">
+    <h3><strong>Photo Gallery</strong></h3>
+    <div class="yck-flexbox-grid">
+        <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D3.png">
+        <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D4.png">
+    </div>
+    <div class="yck-flexbox-grid">
+        <figure>
+            <img alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/STEM_Playground_Challenge.png">
+            <figcaption>STEM Playground Challenge</figcaption>
+        </figure>
+        <figure>
+            <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/Design_Thinking_Workshop.png">
+            <figcaption>Design Thinking Workshop</figcaption>
+        </figure>
+    </div>
+</div>
 
-
-### **Learning Journey in Applied Designs**&nbsp;
-
-Secondary Three Design &amp; Technology (D&amp;T) students are brought on a learning journey to the Red Dot Museum. It allows them to link what they have learnt in class to real world context and see how design is closely integrated into their daily life.
-
-### **Culinary Competitions**&nbsp;&nbsp;
-
-In empowering our students to be health-conscious and discerning consumers, selected Secondary One Food and Consumer Education (FCE) students participate in this annual culinary competition organised by the Nutrition and Food Science Team. They will bring cuisines from various ASEAN countries and fusion dishes together to commemorate International Friendship Day and/or Racial Harmony Day.&nbsp;
-
-### **Partnership with CASE**&nbsp;&nbsp;
-
-In collaboration with Consumer Association of Singapore (CASE), all Secondary Two students will have a deeper understanding of consumer rights and the Lemon Law through an outreach programme. This is to complement the Food and Consumer Education (FCE) curriculum with an assembly talk and an exhibition held in the school.&nbsp;
-
-### **Creative Song-Writing**&nbsp;&nbsp;
-
-To enable our students to discover and express their personal voices through the process of music creation, selected students are invited to participate in song-writing competitions. This gives them the opportunity to learn from real world situations.
-
----
-
-##### **HOD D&amp;E: Ms Hoon Siew Hui \[ext: 206\]**
-
----
-
-### **Photo Gallery**
-
-![](/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D3.png)
-![](/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D4.png)
-![](/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D5.png)
 
 <style>
 :root {
