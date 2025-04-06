@@ -6,10 +6,13 @@ third_nav_title: Academic Programmes
 variant: markdown
 ---
 <div class="yck-component">
+	<div class="ken-burns-container">
     <figure>
         <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D1.jpg">
     </figure>
-
+	</div>
+	</div>
+	<div class="-&quot;yck-component&quot;">
    <div class="yck-flexbox-grid">
         <div class="isomer-card">
             <h2><strong>Vision</strong></h2>
@@ -63,7 +66,7 @@ variant: markdown
     </div>
     <div class="yck-flexbox-grid">
         <figure>
-            <img alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/STEM_Playground_Challenge.png">
+            <img class="ken-burns-img" alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/STEM_Playground_Challenge.png">
             <figcaption>STEM Playground Challenge</figcaption>
         </figure>
         <figure>
@@ -230,8 +233,6 @@ variant: markdown
     margin: auto !important;
 }
 
-
-
 .yck-component figcaption {
     background-color: rgba(255, 255, 255, 0.75);
     color: #333;
@@ -239,4 +240,27 @@ variant: markdown
     padding: 5px;
     text-align: center;
 }
+	
+.ken-burns-container {
+            max-width: 100%;
+            height: auto;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .ken-burns-image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            animation: kenBurns 30s ease-in-out infinite alternate;
+        }
+
+        @keyframes kenBurns {
+            from {
+                transform: scale(1);
+            }
+            to {
+                transform: scale(1.3);
+            }
+        }
 </style>
