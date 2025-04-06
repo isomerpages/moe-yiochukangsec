@@ -166,42 +166,33 @@ variant: markdown
     </div>
 	</details>
 </div>
-        <li>
-            <input type="checkbox" id="accordion2">
-            <label for="accordion2">Voices of Science</label>
-            <div class="yck-component">
-<blockquote class="yck-blockquote"> <p>“Throughout this journey, I learnt that with hard work and teamwork, the output will be fruitful. I felt that my teammates and I supported each other well. One example was the presentation in front of a panel of judges. My teammates' confidence boosted my morale and helped me deliver my lines effectively. Without their support, I never would have been able to overcome my nervousness.” </p><cite><strong>Kim Seulkichan, 4E1</strong></cite>
+
+ <div class="yck-component">
+<div class="bqcontainer">
+<blockquote> <p>“Throughout this journey, I learnt that with hard work and teamwork, the output will be fruitful. I felt that my teammates and I supported each other well. One example was the presentation in front of a panel of judges. My teammates' confidence boosted my morale and helped me deliver my lines effectively. Without their support, I never would have been able to overcome my nervousness.” </p><cite><strong>Kim Seulkichan, 4E1</strong></cite>
 </blockquote>
-<blockquote class="yck-blockquote">                <p>
+<blockquote>                <p>
                     “The entirety of Elementz was filled with fun. I was able to further bond with my classmates as we came up with the hypothesis for the project and executed it. I was glad to be part of my Elementz team and we even brought back a Silver medal! All in all, I felt that Elementz has allowed me to apply the concepts that I learnt in Biology to solve problems, other than the usual class work. Given the chance, I would definitely sign up for a research project again." </p> <cite><strong>Dion Kuoh Zixian, 4E1</strong></cite>
-<p></p></blockquote>
-   <blockquote class="yck-blockquote">
+</blockquote>
+<blockquote>
     <p>
        “The healthcare mentorship programme has been very fruitful and it has inspired me to work in the healthcare industry and contribute to society. I felt it was a once-in-a-lifetime experience for a 15-year-old like me to be part of this extraordinary programme. It has encouraged me to study harder for Biology. I hope future participants can reap as many benefits as I had from the experiences.” 
     </p>
      <cite><strong>Tan Huey Shin, 4E2</strong></cite>
   </blockquote>
 </div>
-        </li>
+</div>
 	
+
 
 
 
 <style>
 :root {
-    --yck-color-text-light: #888;
-    --yck-color-border: #e0e0e0;
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
-    --yck-content-width: 100%;
-    --yck-transition-speed: 0.8s;
-    --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
-    --yck-spacing-unit: 1em;
-    --yck-border-radius: 4px;
-    --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-
-    /* @link https://utopia.fyi/type/calculator?c=320,18,1.125,1240,18,1.2,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
+    --yck-spacing-unit: 1rem;
 
     --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
     --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
@@ -212,14 +203,15 @@ variant: markdown
     --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
-    --yck-space-s-l: clamp(1.125rem, 0.7337rem + 1.9565vw, 2.25rem);
+    --yck-space-s-xl: clamp(0.75rem, 0.9263rem + 1.9565vw, 2.7994rem);
+    interpolate-size: allow-keywords;
 }
-
 
 .yck-component {
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
     font-size: var(--yck-step-0);
+    margin-bottom: var(--yck-spacing-unit);
 }
 
 .yck-component h1,
@@ -232,11 +224,6 @@ variant: markdown
     overflow-wrap: break-word;
 }
 
-.yck-component p {
-    text-wrap: pretty;
-
-}
-
 .yck-component h1,
 .yck-component h2,
 .yck-component h3,
@@ -246,10 +233,23 @@ variant: markdown
     text-wrap: balance;
 }
 
+.yck-component p,
+.yck-component ol li,
+.yck-component ul li {
+    text-wrap: pretty;
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component p:last-child,
+.yck-component ul li:last-child,
+.yck-component ol li:last-child {
+    margin-bottom: calc(var(--yck-space-s-xl)*1.2);
+}
+
 .yck-component .yck-h1,
 .yck-component h1 {
     font-size: var(--yck-step-5);
-    margin-bottom: var(--yck-space-s-l);
+    margin-bottom: var(--yck-space-s-xl);
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -257,7 +257,7 @@ variant: markdown
 .yck-component .yck-h2,
 .yck-component h2 {
     font-size: var(--yck-step-4);
-    margin-bottom: calc(var(--yck-space-s-l) * 0.8);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.6);
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -265,7 +265,7 @@ variant: markdown
 .yck-component .yck-h3,
 .yck-component h3 {
     font-size: var(--yck-step-3);
-    margin-bottom: calc(var(--yck-space-s-l) * 0.6);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -273,8 +273,8 @@ variant: markdown
 .yck-component .yck-h4,
 .yck-component h4 {
     font-size: var(--yck-step-2);
-    margin-bottom: calc(var(--yck-space-s-l) * 0.4);
-    text-transform: titlecase;
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.3);
+    text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -282,7 +282,7 @@ variant: markdown
 .yck-component .yck-h5,
 .yck-component h5 {
     font-size: var(--yck-step-1);
-    margin-bottom: calc(var(--yck-space-s-l) * 0.2);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.1);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -291,31 +291,66 @@ variant: markdown
 .yck-component .yck-h6,
 .yck-component h6 {
     font-size: var(--yck-step-0);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.1);
+    margin-bottom: var(--yck-spacing-unit);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.yck-component .yck-text-small {
-    font-size: var(--yck-step--1);
-    margin-bottom: var(--yck-space-xs);
+.yck-component .col-container {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+
+    /* CSS Multi-column Layout properties */
+    column-count: 2;
+    column-width: 360px;
+    column-gap: 1.5rem;
 }
 
-.yck-component .yck-text-xs {
-    font-size: var(--yck-step--2);
-    margin-bottom: var(--yck-space-2xs);
+.yck-component .isomer-card {
+    break-inside: avoid;
+    /* Prevents content from breaking across columns */
+    page-break-inside: avoid;
+    /* For older browsers */
+    padding: 20px;
+    margin-bottom: var(--yck-spacing-unit) !important;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.yck-component ol,
-.yck-component p,
-.yck-component ul {
-    font-size: var(--yck-step-0);
-    margin-bottom: var(--yck-spacing-unit);
-}	
+/* Flexbox Grid */
+.yck-component .yck-flexbox-grid {
+    --yck-min: 22ch;
+    --yck-gap: 1.5em;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: var(--yck-gap);
+}
 
-.yck-component p:last-child {
-    margin-bottom: calc(var(--yck-space-s-l)*1.25);
+.yck-component .yck-flexbox-grid>* {
+    flex: 1 0 var(--yck-min);
+    list-style: none;
+}
+
+.yck-component figure {
+    /*   border: thin #c0c0c0 solid; */
+    display: flex !important;
+    flex-flow: column !important;
+    /*   padding: 5px; */
+    max-width: 100%;
+    margin: auto !important;
+}
+
+
+
+.yck-component figcaption {
+    background-color: rgba(255, 255, 255, 0.75);
+    color: #333;
+    font: italic var(--yck-step--1) sans-serif;
+    padding: 5px;
+    text-align: center;
 }
 	
 .yck-component details {
@@ -393,172 +428,6 @@ variant: markdown
         opacity: 1;
     }
 }
-	
-.yck-component .yck-table {
-    border-collapse: collapse;
-    max-width: 100%;
-    margin-top: 1.6em;
-    margin-bottom: var(--yck-space-s-l);
-    font-size: var(--yck-step-0);
-}
-
-.yck-component .yck-th {
-    background-color: #f2f2f2;
-    text-align: left;
-    border-bottom: 1px solid #ddd;
-    text-transform: uppercase;
-}
-
-.yck-component .yck-th h4,
-.yck-component .yck-th h5,
-.yck-component .yck-th h6 {
-    margin: 0 0 0.5em;
-}
-
-.yck-component .yck-td {
-    border-bottom: 1px solid #ddd;
-    max-width: 320px;
-    word-wrap: break-word;
-    line-height: 1.125rem;
-    padding-top: 0.5em;
-    padding-bottom: 0.5em;
-  }
-
-.yck-component .yck-table tbody .yck-td p {
-    margin-block: 0;
-	line-height: 1.35rem;
-    padding-bottom: 0.5em;
-}
-    
- .yck-component .yck-table tbody .yck-td p:last-child {
-     padding-bottom: var(--yck-space-s-l);
- }
-
-/* Blockquote styles */
-.yck-component .yck-blockquote {
-    margin: 1.5em 0;
-    padding: 1.5em 2em;
-    border-left: 4px solid var(--yck-color-border);
-    font-style: italic;
-    background-color: #f9f9f9;
-    position: relative;
-    border-radius: 8px;
-    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
-    font-size: var(--yck-step-0);
-}
-
-.yck-component .yck-blockquote::before {
-    content: open-quote;
-    font-size: 2em;
-    position: absolute;
-    top: 0.25em;
-    left: 0.25em;
-    color: var(--yck-color-text-light);
-}
-
-.yck-component .yck-blockquote p {
-    margin-bottom: var(--yck-space-m);
-    line-height: 1.35em;
-    color: #555;
-    font-size: inherit;
-}
-
-.yck-component .yck-blockquote p:last-child {
-    margin-bottom: 0;
-}
-
-.yck-component .yck-blockquote cite {
-    display: block;
-    text-align: right;
-    margin-top: 1em;
-    font-style: normal;
-    color: #555;
-    font-size: var(--yck-step--1);
-}
-
-.yck-component .yck-blockquote cite::before {
-    content: '\2014 \0020';
-}
-
-/* Gallery Container */
-.yck-component .yck-gallery-container {
-    display: flex;
-    flex-direction: column;
-    gap: 1em;
-}
-
-.yck-component .yck-gallery-container .yck-iframe-container {
-    position: relative;
-    width: 100%;
-    padding-bottom: 56.25%;
-    overflow: hidden;
-}
-
-.yck-component .yck-gallery-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    margin-bottom: 1em;
-}
-
-.yck-component .yck-gallery-container small,
-.yck-component .yck-gallery-container .yck-figcaption {
-    display: block;
-    text-align: center;
-    font-style: italic;
-    margin-top: 0.5em;
-    color: var(--yck-color-text-light);
-}
-
-.yck-component .yck-gallery-container img {
-    display: block;
-    width: 100%;
-    height: auto;
-    border-radius:  var(--yck-border-radius);
-    box-shadow: var(--yck-box-shadow);
-}
-
-.yck-component .yck-gallery-container .yck-image-row {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 0.5em;
-}
-
-.yck-component .yck-gallery-container .yck-image-row img {
-    flex: 1 1 calc(25% - 0.5em);
-    min-width: calc(50% - 0.5em);
-    object-fit: cover;
-}
-	
-.yck-component .yck-gallery-container .yck-image-row img .yck-text-xs,
-.yck-component .yck-gallery-container .yck-image-row img .yck-figcaption	{
-	  font-size: var(--yck-size-xs);
-	color: var(--yck-color-text-light);
-}
-	
- @media screen and (min-width: 1240px) {
-        .yck-component .yck-gallery-container .yck-image-row img {
-           flex: 1 1 calc(25% - 0.5em);
-           min-width: initial;
-        }	
-	
-/* Flexbox Grid */
-.yck-component .yck-flexbox-grid {
-    --yck-min: 22ch;
-    --yck-gap: 1.5em;
-    display: flex;
-    flex-wrap: wrap;
-    list-style: none;
-    gap: var(--yck-gap);
-}
-
-.yck-component .yck-flexbox-grid > * {
-    flex: 1 1 var(--yck-min);
-    list-style: none;
-}	
 	
 /* Base styles for accordion */
 .accordion {
@@ -683,5 +552,4 @@ variant: markdown
     list-style: none;
 }
 	
-	
-</style>
+	</style>
