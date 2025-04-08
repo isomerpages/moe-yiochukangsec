@@ -13,6 +13,13 @@ image: /images/Our Story/School Logo/School Logo/S1.png
 <p>Don’t miss the fun! Reserve your seat today! Come have dinner with us on 4 July!</p>
 </div>
 
+<div class="yck-component">
+	<div class="video-container">
+		<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ydfN3bz0f68?si=FXImbSRrrmerLK9R" height="315" width="560"></iframe>
+	</div>
+	
+</div>
+
 <style>
 :root {
     --yck-text-line-height: 1.6em;
