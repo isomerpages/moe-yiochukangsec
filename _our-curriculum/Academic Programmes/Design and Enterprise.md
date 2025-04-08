@@ -57,9 +57,15 @@ variant: markdown
 
 <div class="yck-component">
     <h3><strong>Photo Gallery</strong></h3>
-    <div class="yck-flexbox-grid">
-        <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D3.png">
-        <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D4.png">
+     <div class="yck-flexbox-grid">
+        <figure>
+            <img class="ken-burns-img" alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/Art_masterpieces_in_the_making.png">
+            <figcaption>Art masterpieces in the making</figcaption>
+        </figure>
+        <figure>
+            <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/Live_On___Design_Competition.png">
+            <figcaption>Live On! - Design Competition</figcaption>
+        </figure>
     </div>
 	 <div class="yck-flexbox-grid">
         <figure>
