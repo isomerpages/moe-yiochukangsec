@@ -20,6 +20,17 @@ sections:
       background: /images/Homepage/2024_YCKSS_Homepage_GIF.gif
       variant: image
   - infopic:
+      title: 60th Anniversary Dinner
+      subtitle: You don’t want to miss this!
+      id: infopic
+      description: Let’s reconnect with old friends, relive cherished moments, and
+        honour those who shaped our journey at the dinner. Don’t miss the fun!
+        Reserve your seat today!
+      button: Come have dinner with us on 4 July!
+      url: https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/60th-anniversary/60th-anniversary-dinner
+      image: /images/60th_Anniversary_Dinner.gif
+      alt: 60th Anniversary Dinner GIF
+  - infopic:
       title: 60th Anniversary Celebration
       subtitle: YIO CHU KANG SECONDARY SCHOOL
       id: infopic
