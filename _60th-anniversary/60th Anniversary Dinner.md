@@ -6,11 +6,11 @@ description: ""
 image: /images/Our Story/School Logo/School Logo/S1.png
 ---
 <div class="yck-component">
-<h3 class="yck-h3">60th Anniversary - Alumni Dinner</h3>
-<div class="yck-flexbox-grid">
-<p>Stay tuned for more updates, and join us in making this milestone celebration unforgettable!</p>
-<img alt="60th Celebration GIF" src="/images/60th_Anniversary_Celebration.gif">
-</div>
+<h3 class="yck-h3">60th Anniversary Dinner</h3>
+<img alt="60th Anniversary Dinner" src="/images/Our%20Story/YCKSS_60th_Annivesary_Dinner_QRCode.png">
+
+<p>Let’s reconnect with old friends, relive cherished moments, and honour those who shaped our journey at the dinner.</p>
+<p>Don’t miss the fun! Reserve your seat today! Come have dinner with us on 4 July!</p>
 </div>
 
 <style>
@@ -137,4 +137,24 @@ image: /images/Our Story/School Logo/School Logo/S1.png
     flex: 1 1 var(--yck-min);
     list-style: none;
 }
+	
+/** Responsive Video or object container **/
+.yck-component .video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    margin-bottom: var(--yck-space-s-xl);
+}
+
+.yck-component .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
 </style>
