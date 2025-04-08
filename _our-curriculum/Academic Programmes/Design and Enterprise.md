@@ -61,6 +61,16 @@ variant: markdown
         <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D3.png">
         <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D4.png">
     </div>
+	 <div class="yck-flexbox-grid">
+        <figure>
+            <img class="ken-burns-img" alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/STEM_Playground_Challenge.png">
+            <figcaption>STEM Playground Challenge</figcaption>
+        </figure>
+        <figure>
+            <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/Design_Thinking_Workshop.png">
+            <figcaption>Design Thinking Workshop</figcaption>
+        </figure>
+    </div>
     <div class="yck-flexbox-grid">
         <figure>
             <img class="ken-burns-img" alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/STEM_Playground_Challenge.png">
@@ -240,7 +250,6 @@ variant: markdown
 	
 .ken-burns-container {
             max-width: 100%;
-            height: auto;
             overflow: hidden;
             position: relative;
         }
