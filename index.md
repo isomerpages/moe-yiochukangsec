@@ -27,7 +27,7 @@ sections:
         honour those who shaped our journey at the dinner. Don’t miss the fun!
         Reserve your seat today!
       button: Come have dinner with us on 4 July!
-      url: https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/60th-anniversary/60th-anniversary-dinner
+      url: https://www.yiochukangsec.moe.edu.sg/60th-anniversary-dinner/
       image: /images/60th_Anniversary_Dinner.gif
       alt: 60th Anniversary Dinner GIF
   - infopic:
