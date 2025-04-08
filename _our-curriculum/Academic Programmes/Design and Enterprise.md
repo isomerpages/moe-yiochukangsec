@@ -32,7 +32,7 @@ variant: markdown
     <p>Students are required to reflect and express their uniqueness by communicating their thoughts and emotions using images and objects. In order for them to create art, they must think about WHAT they are doing, HOW they are doing, and WHAT they find to be the meaning inherent in the artwork.</p>
     <h4>D&amp;T:</h4>
     <p>Students are nurtured in a way of doing and thinking through the design process – IDENTIFYING NEEDS from real world experiences, GENERATING AND DEVELOPING ideas, and REALISING the design solution, with research carried out.</p>
-    <h4>FCE/FN/FS:</h4>
+    <h4>&nbsp;FCE/NFS:</h4>
     <p>Students are required to respond to new lifestyle and consumer trends in health and financial management. They are taught culinary skills to prepare healthy meals for the family.</p>
     <h4>MUSIC:</h4>
     <p>Students are enabled to express their thoughts and emotions through music with an array of instruments of their choices.</p>
