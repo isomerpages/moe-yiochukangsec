@@ -21,9 +21,7 @@ variant: markdown
         </div>
     </div>
     <p>The Design and Enterprise Department offers the following subjects to develop an <strong>innovative mindset</strong> in our students. The hands-on approach adopted in these subjects allows students to anchor on design actions and the application of knowledge and process skills in real-life situations.</p>
-    <figure>
         <img alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D_Tframework.png">
-    </figure>
 </div>
 
 <div class="yck-component">
@@ -32,7 +30,7 @@ variant: markdown
     <p>Students are required to reflect and express their uniqueness by communicating their thoughts and emotions using images and objects. In order for them to create art, they must think about WHAT they are doing, HOW they are doing, and WHAT they find to be the meaning inherent in the artwork.</p>
     <h4>D&amp;T:</h4>
     <p>Students are nurtured in a way of doing and thinking through the design process – IDENTIFYING NEEDS from real world experiences, GENERATING AND DEVELOPING ideas, and REALISING the design solution, with research carried out.</p>
-    <h4>&nbsp;FCE/NFS:</h4>
+    <h4>FCE/NFS:</h4>
     <p>Students are required to respond to new lifestyle and consumer trends in health and financial management. They are taught culinary skills to prepare healthy meals for the family.</p>
     <h4>MUSIC:</h4>
     <p>Students are enabled to express their thoughts and emotions through music with an array of instruments of their choices.</p>
@@ -142,6 +140,11 @@ variant: markdown
     text-wrap: pretty;
     margin-bottom: var(--yck-spacing-unit);
 }
+	
+.yck-component figure img {
+	border-radius: 10px;
+	box-shadow: 0 3px 5px rgba(0, 0, 0, 0.5);
+	}
 
 .yck-component p:last-child,
 .yck-component ul li:last-child,
