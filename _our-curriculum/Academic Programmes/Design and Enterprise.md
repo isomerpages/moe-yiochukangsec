@@ -63,12 +63,12 @@ variant: markdown
     </div>
 	 <div class="yck-flexbox-grid">
         <figure>
-            <img class="ken-burns-img" alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/STEM_Playground_Challenge.png">
-            <figcaption>STEM Playground Challenge</figcaption>
+            <img class="ken-burns-img" alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/Healthy_Cooking.png">
+            <figcaption>Healthy Cooking</figcaption>
         </figure>
         <figure>
-            <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/Design_Thinking_Workshop.png">
-            <figcaption>Design Thinking Workshop</figcaption>
+            <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/Preparing_a_healthy_meal.png">
+            <figcaption>Preparing a Healthy Meal</figcaption>
         </figure>
     </div>
     <div class="yck-flexbox-grid">
