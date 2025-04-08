@@ -5,43 +5,57 @@ description: ""
 third_nav_title: Clubs
 variant: markdown
 ---
-<h3>MARS Club at Yio Chu Kang Secondary School</h3>
+<div class="yck-component">
+    <h2>MARS Club at Yio Chu Kang Secondary School</h2>
+    <p>The <strong>Mechatronics, Aeronautics, and Robotics Society (MARS)</strong> Club is where innovation meets exploration! Our club focuses on <strong>robotics</strong>, <strong>drones</strong>, and the exciting realms of <strong>STEM (Science, Technology, Engineering, and Mathematics)</strong>.</p>
+    <h3>What We Do</h3>
+    <p><strong>Robotics:</strong> Dive into the world of automation and intelligent design. Learn to build, program, and compete with robots in various challenges.</p>
+    <p><strong>Drones:</strong> Explore aeronautics by designing, flying, and mastering drones while understanding the technology behind them.</p>
+    <p><strong>STEM Alignment:</strong> Apply engineering principles, enhance critical thinking, and collaborate on cutting-edge projects that prepare you for the future.</p>
+    <h3>Why Join Us</h3>
+    <ul>
+        <li><strong>Hands-On Learning:</strong> Gain practical experience with tools and technologies that bring your ideas to life.</li>
+        <li><strong>Competitions &amp; Showcases:</strong> Represent YCKSS in national and international robotics competitions.</li>
+        <li><strong>Collaborative Spirit:</strong> Work in teams to solve real-world problems through innovation and creativity.</li>
+        <li><strong>Future-Ready Skills:</strong> Develop critical skills that align with Singapore's <strong>Smart Nation</strong> vision and prepare for a high-tech future.</li>
+    </ul>
+    <h3>Recent Achievements</h3>
+    <p>We are proud to have clinched the <strong>IDE Series 2024 Robotics Competition</strong> and regularly participate in prestigious events like the <strong>National Robotics Competition</strong> and other STEM-focused initiatives.</p>
+</div>
 
-<p>The <strong>Mechatronics, Aeronautics, and Robotics Society (MARS)</strong> Club is where innovation meets exploration! Our club focuses on <strong>robotics</strong>, <strong>drones</strong>, and the exciting realms of <strong>STEM (Science, Technology, Engineering, and Mathematics)</strong>.</p>
-
-<h3>What We Do</h3>
-<p><strong>Robotics:</strong> Dive into the world of automation and intelligent design. Learn to build, program, and compete with robots in various challenges.</p>
-<p><strong>Drones:</strong> Explore aeronautics by designing, flying, and mastering drones while understanding the technology behind them.</p>
-<p><strong>STEM Alignment:</strong> Apply engineering principles, enhance critical thinking, and collaborate on cutting-edge projects that prepare you for the future.</p>
-
-<h3>Why Join Us</h3>
-<ul>
-<li><strong>Hands-On Learning:</strong> Gain practical experience with tools and technologies that bring your ideas to life.</li>
-<li><strong>Competitions &amp; Showcases:</strong> Represent YCKSS in national and international robotics competitions.</li>
-<li><strong>Collaborative Spirit:</strong> Work in teams to solve real-world problems through innovation and creativity.</li>
-<li><strong>Future-Ready Skills:</strong> Develop critical skills that align with Singapore's <strong>Smart Nation</strong> vision and prepare for a high-tech future.</li>
-</ul>
-
-<h3>Recent Achievements</h3>
-<p>We are proud to have clinched the <strong>IDE Series 2024 Robotics Competition</strong> and regularly participate in prestigious events like the <strong>National Robotics Competition</strong> and other STEM-focused initiatives.</p>
-
-<h4>Training Schedule</h4>
-<table class="yck-table">
-<thead>
-<tr>
-<th class="yck-th">Teachers-in-charge</th>
-<th class="yck-th">Committee Members</th>
-<th class="yck-th">Training Information</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="yck-td">Mr Wee Daiqi (ext 217)<br>Mr Foo Sian Kok, Simon <br>(ext 142),<br>Mdm Connie Yeo (ext 124)</td>
-<td class="yck-td"><strong>President</strong><br>RIESHARN NESWAR MURALI<br><strong>Vice-President</strong><br>ELGIN TAN SIE YUAN</td>
-<td class="yck-td"><strong>Every Tuesday &amp; Thursday</strong><br>3.00pm to 5.30pm<br><strong>Venue:</strong> Techno Sphere</td>
-</tr>
-</tbody>
-</table>
+<div class="yck-component">
+    <h3>Training Schedule</h3>
+    <table class="yck-table">
+        <thead>
+            <tr>
+                <th class="yck-th">
+                    <h4 class="yck-h5">DAY &amp; TIME:</h4>
+                </th>
+                <th class="yck-th">
+                    <h4 class="yck-h5">TEACHERS IN-CHARGE</h4>
+                </th>
+                <th class="yck-th">
+                    <h4 class="yck-h5">VENUE:</h4>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="yck-td">
+                    <p>Every Tuesday &amp; Thursday<br>3.00pm to 5.30pm</p>
+                </td>
+                <td class="yck-td">
+                    <p>Mr Wee Daiqi (ext 217)</p>
+                    <p>Mr Foo Sian Kok, Simon (ext 142)</p>
+                    <p>Mdm Connie Yeo (ext 124)</p>
+                </td>
+                <td class="yck-td">
+                    <p>The Technosphere. <br> Block B, Level 3</p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 
 <ul class="jekyllcodex_accordion">
@@ -108,19 +122,10 @@ variant: markdown
 
 <style>
 :root {
-    --yck-color-text-light: #888;
-    --yck-color-border: #e0e0e0;
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
-    --yck-content-width: 100%;
-    --yck-transition-speed: 0.8s;
-    --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
     --yck-spacing-unit: 1em;
-    --yck-border-radius: 4px;
-    --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-
-    /* @link https://utopia.fyi/type/calculator?c=320,18,1.125,1240,18,1.2,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
 
     --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
     --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
@@ -131,15 +136,15 @@ variant: markdown
     --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
-    --yck-space-s-l: clamp(0.85rem, 0.7337rem + 1.9565vw, 2.5rem);
+    --yck-space-s-xl: clamp(0.75rem, 0.7337rem + 1.9565vw, 2.7994rem);
+    interpolate-size: allow-keywords;
 }
-
 
 .yck-component {
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
     font-size: var(--yck-step-0);
-    list-style: none;
+    margin-bottom: var(--yck-spacing-unit);
 }
 
 .yck-component h1,
@@ -152,10 +157,6 @@ variant: markdown
     overflow-wrap: break-word;
 }
 
-.yck-component p {
-    text-wrap: pretty;
-}
-
 .yck-component h1,
 .yck-component h2,
 .yck-component h3,
@@ -165,10 +166,23 @@ variant: markdown
     text-wrap: balance;
 }
 
+.yck-component p,
+.yck-component ol,
+.yck-component ul {
+    text-wrap: pretty;
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component p:last-child,
+.yck-component ul li:last-child,
+.yck-component ol li:last-child {
+    margin-bottom: calc(var(--yck-space-s-xl)*1.2);
+}
+
 .yck-component .yck-h1,
 .yck-component h1 {
     font-size: var(--yck-step-5);
-    margin-bottom: var(--yck-space-s-l);
+    margin-bottom: var(--yck-space-s-xl);
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -176,7 +190,7 @@ variant: markdown
 .yck-component .yck-h2,
 .yck-component h2 {
     font-size: var(--yck-step-4);
-    margin-bottom: calc(var(--yck-space-s-l) * 0.8); 
+    margin-bottom: calc(var(--yck-space-s-xl) * 0.8);
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -184,7 +198,7 @@ variant: markdown
 .yck-component .yck-h3,
 .yck-component h3 {
     font-size: var(--yck-step-3);
-    margin-bottom: calc(var(--yck-space-s-l) * 0.6);
+    margin-bottom: calc(var(--yck-space-s-xl) * 0.6);
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -192,8 +206,8 @@ variant: markdown
 .yck-component .yck-h4,
 .yck-component h4 {
     font-size: var(--yck-step-2);
-    margin-bottom: calc(var(--yck-space-s-l) * 0.4);
-    text-transform: titlecase;
+    margin-bottom: calc(var(--yck-space-s-xl) * 0.4);
+    text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -201,7 +215,7 @@ variant: markdown
 .yck-component .yck-h5,
 .yck-component h5 {
     font-size: var(--yck-step-1);
-    margin-bottom: calc(var(--yck-space-s-l) * 0.2);
+    margin-bottom: calc(var(--yck-space-s-xl) * 0.3);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -210,34 +224,17 @@ variant: markdown
 .yck-component .yck-h6,
 .yck-component h6 {
     font-size: var(--yck-step-0);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.1);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.2);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.yck-component .yck-text-small {
-    font-size: var(--yck-step--1);
-    margin-bottom: calc(var(--yck-space-s-l) * 0.1);
-}
-
-.yck-component .yck-text-xs {
-    font-size: var(--yck-step--2);
-    margin-bottom: calc(var(--yck-space-s-l) * 0.1);
-}
-
-.yck-component ol,
-.yck-component p,
-.yck-component ul {
-    font-size: var(--yck-step-0);
-    margin-bottom: var(--yck-spacing-unit);
-    text-wrap: pretty;
-}
 .yck-component .yck-table {
     border-collapse: collapse;
     max-width: 100%;
-    margin-top: 1.6em;
-    margin-bottom: var(--yck-spacing-unit);
+    margin-top: 0.5em;
+    margin-bottom: var(--yck-space-s-xl);
     font-size: var(--yck-step-0);
 }
 
@@ -256,23 +253,201 @@ variant: markdown
 
 .yck-component .yck-td {
     border-bottom: 1px solid #ddd;
-    max-width: 300px;
+    min-width: 140px;
+    max-width: 640px;
     word-wrap: break-word;
-    line-height: 1.6rem;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
-  }
+}
 
+.yck-component .yck-table tbody .yck-td,
 .yck-component .yck-table tbody .yck-td p {
-    margin-block: 0;
+    margin-top: 0;
+    margin-bottom: 0.25em;
+    line-height: 1.5rem;
     padding-bottom: 0.5em;
 }
-    
- .yck-component .yck-table tbody .yck-td p:last-child {
-     padding-bottom: 1.5em;
- }
-	
 
+/* Apply margin-bottom only when it is the last table-date in the row or contains the last paragraph */
+.yck-component .yck-table tbody tr:last-child .yck-td:last-child,
+.yck-component .yck-table tbody tr:last-child .yck-td:last-child p:last-child {
+    margin-bottom: calc(var(--yck-space-s-xl)*1.2);
+}
+
+
+.yck-component .bqcontainer {
+    margin-bottom: var(--yck-space-s-xl);
+}
+
+.yck-component blockquote {
+    position: relative;
+    padding: 25px 35px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+}
+
+.yck-component blockquote p {
+    color: #ff6b6b;
+    font-style: italic;
+    font-size: var(--yck-step-1);
+    line-height: 1.5;
+    margin: 0;
+}
+
+.yck-component blockquote::before {
+    content: '"';
+    position: absolute;
+    top: 20px;
+    left: 10px;
+    color: #ff6b6b;
+    font-size: 60px;
+    font-family: Georgia, serif;
+    opacity: 0.3;
+}
+
+.yck-component cite {
+    display: block;
+    margin-top: var(--yck-spacing-unit);
+    font-size: var(--yck-step--1);
+    font-style: italic;
+    color: #555;
+    text-align: right;
+}
+
+.yck-component .col-container {
+    width: 100%;
+    /* max-width: 1400px; */
+    margin: 0 auto;
+
+    /* CSS Multi-column Layout properties */
+    column-count: 2;
+    column-width: 320px;
+    column-gap: 1em;
+}
+
+.yck-component .column {
+    break-inside: avoid;
+    /* Prevents content from breaking across columns */
+    page-break-inside: avoid;
+    /* For older browsers */
+    padding: 20px;
+    margin-bottom: var(--yck-spacing-unit);
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Flexbox Grid */
+.yck-component .yck-flexbox-grid {
+    --yck-min: 22ch;
+    --yck-gap: 1.5em;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: var(--yck-gap);
+}
+
+.yck-component .yck-flexbox-grid>* {
+    flex: 1 1 var(--yck-min);
+    list-style: none;
+}
+
+/** Responsive Video container **/
+.yck-component .video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    margin-bottom: var(--yck-space-s-xl);
+}
+
+.yck-component .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.yck-component .yck-nav-bar {
+    display: flex;
+    justify-content: space-around;
+    padding: 1em 0;
+    position: relative;
+}
+
+.yck-component .yck-nav-bar a {
+    text-decoration: none;
+    color: inherit;
+    /* Inherit text color */
+    padding-bottom: 0.5em;
+    position: relative;
+}
+
+
+.yck-component .yck-nav-bar a::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 100%;
+    bottom: 0;
+    height: 2px;
+    background-color: #4372d6;
+    /* Highlight Color */
+    transition: right 0.3s ease-in-out;
+    /* Transition on right for fade in from left */
+}
+
+.yck-component .yck-nav-bar a:hover::after {
+    right: 0;
+}
+
+.yck-component .column ul,
+.yck-component .column ol {
+    list-style: none;
+    line-height: 1.5em;
+    margin: 0 auto;
+    padding: 0px;
+}
+
+/* Apply the styles to the list items */
+.yck-component ul li {
+    margin-left: 1rem;
+    border-bottom: 0.5px solid #FFF;
+    transition: right 1s ease-in-out;
+}
+
+/* Apply the animation on hover */
+.yck-component ul li:hover {
+    animation: fadeIn 1s forwards;
+}
+
+/* Revert the animation when not hovering */
+.yck-component ul li:not(:hover) {
+    animation: fadeOut 1s forwards;
+}
+
+/* Define the keyframes for the fade-in effect */
+@keyframes fadeIn {
+    from {
+        border-bottom: 0.5px solid #EEE;
+    }
+
+    to {
+        border-bottom: 1px solid #888;
+    }
+}
+
+/* Define the keyframes for the fade-out effect */
+@keyframes fadeOut {
+    from {
+        border-bottom: 1px solid #888;
+    }
+
+    to {
+        border-bottom: 0.5px solid #FFF;
+    }
+}
 	</style>
-
-

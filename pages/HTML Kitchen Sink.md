@@ -7,7 +7,41 @@ description: This page will show what various HTML elements will look like using
 variant: markdown
 image: /images/0cd1870b_103f_4767_8dfd_9abfe6e11817.jpg
 ---
-<header role="banner">
+<h2>Responsive Columns using CSS Multi-column Layout</h2>
+   <div class="container">
+        <div class="card">
+            <h3>Band</h3>
+             <img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Band.jpg">
+        </div>
+        <div class="card">
+            <h3>Drama</h3>
+           <img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/EngDrama.jpg">
+        </div>
+        <div class="card">
+            <h3>Choir</h3>
+             <img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Choir.jpg">
+        </div>
+    </div>
+		
+<style>
+        
+        
+        h2 {
+            margin-bottom: 15px;
+            color: #2c3e50;
+        }
+        
+        p {
+            line-height: 1.6;
+        }
+  </style>
+
+
+<hr>
+
+<details>
+	<summary>About the HTML Kitchen Sink</summary>
+	<header role="banner">
   <h1>HTML5 Kitchen Sink</h1>
   <small>Jump to: <a href="#headings">Headings</a> |
     <a href="#sections">Sections</a> |
@@ -839,9 +873,66 @@ A leaflet.
     <a href="https://github.com/dbox/html5-kitchen-sink">GitHub</a>.
   </p>
 </footer>
+	
+</details>
 
 
 <style>
+ .container { 
+            /* CSS Multi-column Layout properties */
+            column-count: 3;
+            column-width: 160px; /* This is the key property */
+            column-gap: 20px;
+        }
+        
+        .card {
+            break-inside: avoid; /* Prevents content from breaking across columns */
+            page-break-inside: avoid; /* For older browsers */
+            padding: 20px;
+            margin-bottom: 20px;
+            background-color: #f5f5f5;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
 	
+.yck-component .yck-table {
+    border-collapse: collapse;
+    max-width: 100%;
+    margin-top: 1.6em;
+    margin-bottom: var(--yck-space-s-l);
+    font-size: var(--yck-step-0);
+}
+
+.yck-component .yck-th {
+    background-color: #f2f2f2;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    text-transform: uppercase;
+}
+
+.yck-component .yck-th h4,
+.yck-component .yck-th h5,
+.yck-component .yck-th h6 {
+    margin: 0 0 0.5em;
+}
+
+.yck-component .yck-td {
+    border-bottom: 1px solid #ddd;
+    max-width: 320px;
+    word-wrap: break-word;
+    line-height: 1.125em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+  }
+
+.yck-component .yck-table tbody .yck-td p {
+    margin-block: 0;
+	line-height: 1.35rem;
+    padding-bottom: 0.5em;
+}
+    
+ .yck-component .yck-table tbody .yck-td p:last-child {
+     padding-bottom: var(--yck-space-s-l);
+ }
 	
 </style>

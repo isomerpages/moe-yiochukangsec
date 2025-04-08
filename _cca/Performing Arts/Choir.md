@@ -6,59 +6,49 @@ third_nav_title: Performing Arts
 variant: markdown
 ---
 <div class="yck-component">
-    <img class="yck-img" alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Choir/C1.jpg">
-    <p>The YCKSS Choir consists of members who share a passion for singing and music. We aim to create a nurturing environment, where they share the joy of music through performances and competitions. The students are exposed to choral reading, intonation and expression in their musical repertoire. Besides practising for competitions, the members are exposed to a whole variety of other enriching experiences, including choral workshops, public concerts and choral exchanges with other choirs. The choir has maintained a high standard of musicianship and shares the joy of music through various performances and competitions.</p>
-	
-	
-<h3>TRAINING SCHEDULE</h3>
+    <img class="yck-img" alt="" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Choir.jpg">
+    <p>The YCKSS Choir consists of members who share a passion for singing and music. We aim to create a nurturing environment, where they share the joy of music through performances and competitions. The students are exposed to choral reading, intonation and expression in their musical repertoire.</p> 
+<p>Besides practising for competitions, the members are exposed to a whole variety of other enriching experiences, including choral workshops, public concerts and choral exchanges with other choirs. The choir has maintained a high standard of musicianship and shares the joy of music through various performances and competitions.</p>
+</div>
 
- <table class="yck-table">
-        <thead>
-            <tr>
-                <th class="yck-th">TRAINING INFORMATION</th>
-                <th class="yck-th"></th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td class="yck-td">Day and Time</td>
-                <td class="yck-td">Every Tuesday and Thursday<br> 3:00PM to 5:30PM</td>
-            </tr>
-            <tr>
-                <td class="yck-td">Location</td>
-                <td class="yck-td">Music Room, Level 1</td>
-            </tr>
-            <tr>
-                <th class="yck-th">TEACHERS IN-CHARGE</th>
-                <th class="yck-th"></th>
-            </tr>
-            <tr>
-                <td class="yck-td">OIC</td>
-                <td class="yck-td">Mdm Vijaya (ext 203)</td>
-            </tr>
-            <tr>
-                <td class="yck-td"></td>
-                <td class="yck-td">Mdm Lee Ching Fong (ext 142)</td>
-            </tr>
-            <tr>
-                 <td class="yck-td"></td>
-                <td class="yck-td">Ms Michelle Lim (ext 135)</td>
-            </tr>
-            <tr>
-                 <td class="yck-td"></td>
-                <td class="yck-td">Mr Loke Tuck Luen (ext 131)</td>
-            </tr>
-        </tbody>
-    </table>
-	
-<details class="yck-details">
-        <summary class="yck-details__summary">Proudest Moments</summary>
-        <div class="yck-details__content">
+<div class="yck-component">
+	<h3 class="yck-h4">Training Schedule</h3>
+<table class="yck-table">
+            <thead>
+                <tr>
+                    <th class="yck-th"><h5 class="yck-h5">DAY &amp; TIME:</h5></th>
+                    <th class="yck-th"><h5 class="yck-h5">TEACHERS-IN-CHARGE</h5></th>
+                     <th class="yck-th"><h5 class="yck-h5">VENUE:</h5></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+									<td class="yck-td"><p>Every Tuesday<br>  
+3:00PM to 5:30PM</p>
+									<p>Every Thursday<br>3.00pm to 5.30pm</p></td>
+                    <td class="yck-td"><p>
+											Mdm Vijaya (ext 203) - <i>OIC</i></p>
+                       <p>Mdm Lee Ching Fong (ext 142)</p>
+                        <p>Ms Michelle Lim (ext 135)</p>
+                        <p>Mr Loke Tuck Luen (ext 131)</p>
+                    </td>
+									<td class="yck-td"><p>Music Room, Level 1</p></td>
+                </tr>
+            </tbody>
+        </table>
+</div>
+
+
+
+<div class="yck-component">
+	<h4>Events &amp; Accomplishments</h4>
+	<div class="col-container">
+		<div class="column">
             <table class="yck-table">
                 <thead>
                     <tr>
                         <th class="yck-th">
-                            <h4 class="yck-h5">YEAR</h4>
+                            <h5 class="yck-h5">YEAR</h5>
                         </th>
                         <th class="yck-th">
                             <h4 class="yck-h5">ACCOMPLISHMENTS</h4>
@@ -67,120 +57,99 @@ variant: markdown
                 </thead>
                 <tbody>
                     <tr>
-                        <td class="yck-td">2019</td>
-                        <td class="yck-td">SYF Presentation - Certificate of Accomplishment</td>
+                        <td>2019</td>
+											<td><p>SYF Presentation - Certificate of Accomplishment</p></td>
                     </tr>
                     <tr>
-                        <td class="yck-td">2017</td>
-                        <td class="yck-td">2017 SYF Certificate of Distinction</td>
+                        <td>2017</td>
+											<td><p>2017 SYF Certificate of Distinction</p></td>
                     </tr>
                     <tr>
-                        <td class="yck-td">2015</td>
-                        <td class="yck-td">2015 SYF Certificate of Distinction</td>
+                        <td>2015</td>
+											<td><p>2015 SYF Certificate of Distinction</p></td>
                     </tr>
                     <tr>
-                        <td class="yck-td">2013</td>
-                        <td class="yck-td">2013 SYF Certificate of Distinction</td>
+                        <td>2013</td>
+											<td><p>2013 SYF Certificate of Distinction</p></td>
                     </tr>
                     <tr>
-                        <td class="yck-td">2011</td>
-                        <td class="yck-td">2011 SYF Gold with Honours</td>
+                        <td>2011</td>
+											<td><p>2011 SYF Gold with Honours</p></td>
                     </tr>
                 </tbody>
             </table>
         </div>
-    </details>
-    <details class="yck-details">
-        <summary class="yck-details__summary">Events/Competitions</summary>
-        <div class="yck-details__content">
-            <table class="yck-table">
-                <thead>
-                    <tr>
-                        <th class="yck-th">
-                            <h4 class="yck-h5">YEAR</h4>
-                        </th>
-                        <th class="yck-th">
-                            <h4 class="yck-h5">EVENTS</h4>
-                        </th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td class="yck-td">2017</td>
-                        <td class="yck-td">Participation in 2017 NDP Performance</td>
-                    </tr>
-                    <tr>
-                        <td class="yck-td">2016</td>
-                        <td class="yck-td">Limelight 2016</td>
-                    </tr>
-                    <tr>
-                        <td class="yck-td"></td>
-                        <td class="yck-td">SYF Outreach @ the Malls</td>
-                    </tr>
-                    <tr>
-                        <td class="yck-td">2015</td>
-                        <td class="yck-td">SYF 2015</td>
-                    </tr>
-                    <tr>
-                        <td class="yck-td"></td>
-                        <td class="yck-td">49th Speech Day 2015</td>
-                    </tr>
-                    <tr>
-                        <td class="yck-td">2014</td>
-                        <td class="yck-td">48th Speech Day 2014</td>
-                    </tr>
-                    <tr>
-                        <td class="yck-td"></td>
-                        <td class="yck-td">Limelight 2014</td>
-                    </tr>
-                </tbody>
-            </table>
+		<div class="column">
+			<table class="yck-table">
+    <thead>
+        <tr>
+            <th class="yck-th">
+                <h5>YEAR</h5>
+            </th>
+            <th class="yck-th">
+                <h5>EVENTS</h5>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>2017</td>
+					<td>Participation in 2017 NDP Performance</td>
+        </tr>
+        <tr>
+            <td>2016</td>
+					<td>Limelight 2016<br>SYF Outreach @ the Malls</td>
+        </tr>
+        <tr>
+            <td>2015</td>
+            <td>SYF 2015<br>49th Speech Day 2015</td>
+        </tr>
+        <tr>
+            <td>2014</td>
+            <td>48th Speech Day 2014<br>Limelight 2014</td>
+        </tr>
+    </tbody>
+</table>
         </div>
-    </details>
-    <details class="yck-details">
-        <summary class="yck-details__summary">Gallery</summary>
-        <div class="yck-details__content">
-            <div class="yck-gallery-container">
-                <div class="yck-iframe-container">
-                    <iframe src="https://www.youtube.com/embed/TYoE4UY1WXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-                </div>
-                <div class="yck-image-row">
-                    <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Choir/C2.png">
-                    <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Choir/C3.jpg">
-                </div>
-            </div>
-        </div>
-    </details>
+	</div>
+	</div>
+
+<div class="yck-component">
+	<h4>Gallery</h4>
+			<div class="video-container">
+		 <iframe src="https://www.youtube.com/embed/TYoE4UY1WXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+	</div>
+
+<div class="video-container">
+<iframe allowfullscreen="true" height="1109" width="1920" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ_LQl5O6LemYnx5IahVDsre5nZVveYG1VTdOd1xdgfhmBbH-yftOUqRwkTYFe8YA/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+	</div>
 </div>
 
 <style>
 :root {
-    --yck-color-text-light: #888;
-    --yck-color-border: #e0e0e0;
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
-    --yck-transition-speed: 0.8s;
-    --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
-    --yck-content-width: 100%;
     --yck-spacing-unit: 1em;
-    --yck-border-radius: 4px;
-    --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    --yck-step--2: clamp(0.72rem, 0.8026rem + -0.1065vw, 0.7813rem);
-    --yck-step--1: clamp(0.9rem, 0.9505rem + -0.0652vw, 0.9375rem);
+
+    --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
+    --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
     --yck-step-0: clamp(1.125rem, 1.125rem + 0vw, 1.125rem);
-    --yck-step-1: clamp(1.35rem, 1.3304rem + 0.0978vw, 1.4063rem);
-    --yck-step-2: clamp(1.62rem, 1.5721rem + 0.2397vw, 1.7578rem);
-    --yck-step-3: clamp(1.944rem, 1.8559rem + 0.4405vw, 2.1973rem);
-    --yck-step-4: clamp(2.3328rem, 2.1889rem + 0.7196vw, 2.7466rem);
-    --yck-step-5: clamp(2.7994rem, 2.5789rem + 1.1024vw, 3.4332rem);
+    --yck-step-1: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem);
+    --yck-step-2: clamp(1.4238rem, 1.3556rem + 0.3412vw, 1.62rem);
+    --yck-step-3: clamp(1.6018rem, 1.4828rem + 0.5951vw, 1.944rem);
+    --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
+    --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
+
+    --yck-space-s-xl: clamp(0.75rem, 0.7337rem + 1.9565vw, 2.7994rem);
+    interpolate-size: allow-keywords;
 }
 
-body,
 .yck-component {
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
-    font-size:  var(--yck-step-0);
+    font-size: var(--yck-step-0);
+    margin-bottom: var(--yck-spacing-unit);
 }
 
 .yck-component h1,
@@ -193,10 +162,6 @@ body,
     overflow-wrap: break-word;
 }
 
-.yck-component p {
-    text-wrap: pretty;
-}
-
 .yck-component h1,
 .yck-component h2,
 .yck-component h3,
@@ -206,10 +171,23 @@ body,
     text-wrap: balance;
 }
 
+.yck-component p,
+.yck-component ol,
+.yck-component ul {
+    text-wrap: pretty;
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component p:last-child,
+.yck-component ul li:last-child,
+.yck-component ol li:last-child {
+    margin-bottom: calc(var(--yck-space-s-xl)*1.2);
+}
+
 .yck-component .yck-h1,
 .yck-component h1 {
     font-size: var(--yck-step-5);
-    margin-bottom: var(--yck-spacing-unit);
+    margin-bottom: var(--yck-space-s-xl);
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -217,7 +195,7 @@ body,
 .yck-component .yck-h2,
 .yck-component h2 {
     font-size: var(--yck-step-4);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.8);
+    margin-bottom: calc(var(--yck-space-s-xl) * 0.8);
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -225,7 +203,7 @@ body,
 .yck-component .yck-h3,
 .yck-component h3 {
     font-size: var(--yck-step-3);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.6);
+    margin-bottom: calc(var(--yck-space-s-xl) * 0.6);
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -233,8 +211,8 @@ body,
 .yck-component .yck-h4,
 .yck-component h4 {
     font-size: var(--yck-step-2);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
-    text-transform: uppercase;
+    margin-bottom: calc(var(--yck-space-s-xl) * 0.4);
+    text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -242,32 +220,26 @@ body,
 .yck-component .yck-h5,
 .yck-component h5 {
     font-size: var(--yck-step-1);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.4);
+    margin-bottom: calc(var(--yck-space-s-xl) * 0.3);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.yck-component .yck-text-small {
-    font-size: var(--yck-step--1);
-}
-
-.yck-component .yck-text-xs {
-    font-size: var(--yck-step--2);
-}
-
-.yck-component ol,
-.yck-component p,
-.yck-component ul {
+.yck-component .yck-h6,
+.yck-component h6 {
     font-size: var(--yck-step-0);
-    margin-bottom: var(--yck-spacing-unit);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.2);
+    text-transform: uppercase;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
 .yck-component .yck-table {
     border-collapse: collapse;
     max-width: 100%;
-    margin-top: 1.5em;
-    margin-bottom: clamp(1em, 5%, 3em);
+    margin-top: 0.5em;
+    margin-bottom: var(--yck-space-s-xl);
     font-size: var(--yck-step-0);
 }
 
@@ -286,221 +258,201 @@ body,
 
 .yck-component .yck-td {
     border-bottom: 1px solid #ddd;
-    max-width: 300px;
+    min-width: 140px;
+    max-width: 640px;
     word-wrap: break-word;
-    line-height: 1.6rem;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
 }
 
-.yck-component .yck-blockquote {
-    margin: 1.5em 0;
-    padding: 1.5em 2em;
-    border-left: 4px solid var(--yck-color-border);
+.yck-component .yck-table tbody .yck-td,
+.yck-component .yck-table tbody .yck-td p {
+    margin-top: 0;
+    margin-bottom: 0.25em;
+    line-height: 1.5rem;
+    padding-bottom: 0.5em;
+}
+
+/* Apply margin-bottom only when it is the last table-date in the row or contains the last paragraph */
+.yck-component .yck-table tbody tr:last-child .yck-td:last-child,
+.yck-component .yck-table tbody tr:last-child .yck-td:last-child p:last-child {
+    margin-bottom: calc(var(--yck-space-s-xl)*1.2);
+}
+
+
+.yck-component .bqcontainer {
+    margin-bottom: var(--yck-space-s-xl);
+}
+
+.yck-component blockquote {
+    position: relative;
+    padding: 25px 35px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+}
+
+.yck-component blockquote p {
+    color: #ff6b6b;
     font-style: italic;
-    background-color: #f9f9f9;
-    position: relative;
-    border-radius: 8px;
-    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
-    font-size: var(--yck-step-0);
-}
-
-.yck-component .yck-blockquote::before {
-    content: open-quote;
-    font-size: 2em;
-    position: absolute;
-    top: 0.25em;
-    left: 0.25em;
-    color: var(--yck-color-text-light);
-}
-
-.yck-component .yck-blockquote p {
-    margin-bottom: 0.5em;
-    line-height: 1.35em;
-    color: #555;
-    font-size: inherit;
-}
-
-.yck-component .yck-blockquote p:last-child {
-    margin-bottom: 0;
-}
-
-.yck-component .yck-blockquote cite {
-    display: block;
-    text-align: right;
-    margin-top: 1em;
-    font-style: normal;
-    color: #555;
-    font-size: var(--yck-step--1);
-}
-
-.yck-component .yck-blockquote cite::before {
-    content: '\2014 \0020';
-}
-
-.yck-component ul.yck-custom-list {
-    list-style: none;
-    padding-left: 0;
-    margin-left: 0;
-    font-size: inherit;
-}
-
-.yck-component ul.yck-custom-list li {
-    position: relative;
-    padding-left: 1.5em;
-    margin-bottom: 0.5em;
-    line-height: 1em;
-}
-
-.yck-component ul.yck-custom-list li::before {
-    content: '~';
-    position: absolute;
-    left: 0;
-}
-
-.yck-component .yck-details__content,
-.yck-component .yck-details__content ol,
-.yck-component .yck-details__content ol li,
-.yck-component .yck-details__content ul,
-.yck-component .yck-details__content ul li {
-    padding: 0;
+    font-size: var(--yck-step-1);
+    line-height: 1.5;
     margin: 0;
 }
 
-.yck-component .yck-strong {
-    font-weight: 600;
+.yck-component blockquote::before {
+    content: '"';
+    position: absolute;
+    top: 20px;
+    left: 10px;
+    color: #ff6b6b;
+    font-size: 60px;
+    font-family: Georgia, serif;
+    opacity: 0.3;
 }
 
-.yck-component .yck-details {
-    border-top: 1px solid rgba(0, 0, 0, 0.15);
-    margin-top: clamp(1rem, 5%, 2rem);
-    overflow: hidden;
-    transition: border-color 0.7s;
+.yck-component cite {
+    display: block;
+    margin-top: var(--yck-spacing-unit);
+    font-size: var(--yck-step--1);
+    font-style: italic;
+    color: #555;
+    text-align: right;
 }
 
-.yck-component .yck-details:hover {
-    border-color: #555;
+.yck-component .col-container {
+    width: 100%;
+    /* max-width: 1400px; */
+    margin: 0 auto;
+
+    /* CSS Multi-column Layout properties */
+    column-count: 2;
+    column-width: 320px;
+    column-gap: 1em;
 }
 
-.yck-component .yck-details__summary {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    cursor: pointer;
-    margin-top: clamp(0.75rem, 5%, 1.5rem);
-    padding-bottom: clamp(1rem, 5%, 2rem);
-    text-transform: uppercase;
-    font-size: var(--yck-step-2);
+.yck-component .column {
+    break-inside: avoid;
+    /* Prevents content from breaking across columns */
+    page-break-inside: avoid;
+    /* For older browsers */
+    padding: 20px;
+    margin-bottom: var(--yck-spacing-unit);
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.yck-component .yck-details__summary::after {
-    content: '+';
-    font-size: 1.5rem;
-    color: #999;
-    transition: transform 0.5s ease-in-out;
-    margin-right: 1rem;
-}
-
-.yck-component .yck-details[open] .yck-details__summary::after {
-    transform: rotate(-45deg);
-}
-
-.yck-component .yck-details__content {
-    max-height: auto;
-    margin-bottom: clamp(1.25rem, 5%, 1.75rem);
-    opacity: 0;
-    overflow: hidden;
-    padding: 0;
-    animation: yckFadeOutSlideUp 0.5s ease forwards;
-}
-
-.yck-component .yck-details[open] .yck-details__content {
-    animation: yckFadeInSlideDown 0.5s ease forwards;
-}
-
-@keyframes yckFadeInSlideDown {
-    0% {
-        max-height: auto;
-        opacity: 0;
-    }
-
-    100% {
-        max-height: auto;
-        opacity: 1;
-    }
-}
-
-@keyframes yckFadeOutSlideUp {
-    0% {
-        max-height: auto;
-        opacity: 1;
-    }
-
-    100% {
-        max-height: auto;
-        opacity: 0;
-    }
-}
-
+/* Flexbox Grid */
 .yck-component .yck-flexbox-grid {
     --yck-min: 22ch;
     --yck-gap: 1.5em;
     display: flex;
     flex-wrap: wrap;
+    list-style: none;
     gap: var(--yck-gap);
 }
 
-.yck-component .yck-flexbox-grid > * {
+.yck-component .yck-flexbox-grid>* {
     flex: 1 1 var(--yck-min);
     list-style: none;
 }
 
-.yck-component .yck-gallery-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 1em;
-}
-
-.yck-component .yck-gallery-container .yck-iframe-container {
+/** Responsive Video container **/
+.yck-component .video-container {
     position: relative;
     width: 100%;
     padding-bottom: 56.25%;
+    /* 16:9 aspect ratio */
+    height: 0;
     overflow: hidden;
+    margin-bottom: var(--yck-spacing-unit);
 }
 
-.yck-component .yck-gallery-container iframe {
+.yck-component .video-container iframe {
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    margin-bottom: 1em;
 }
 
-.yck-component .yck-gallery-container small {
-    display: block;
-    text-align: center;
-    font-style: italic;
-    margin-top: 0.5em;
-    color: var(--yck-color-text-light);
-}
-
-.yck-component .yck-gallery-container img {
-    display: block;
-    width: 100%;
-    height: auto;
-    border-radius:  var(--yck-border-radius);
-    box-shadow: var(--yck-box-shadow);
-}
-
-.yck-component .yck-gallery-container .yck-image-row {
+.yck-component .yck-nav-bar {
     display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 0.5em;
+    justify-content: space-around;
+    padding: 1em 0;
+    position: relative;
 }
 
-.yck-component .yck-gallery-container .yck-image-row img {
-    flex: 1 1 30%;
-    object-fit: cover;
+.yck-component .yck-nav-bar a {
+    text-decoration: none;
+    color: inherit;
+    /* Inherit text color */
+    padding-bottom: 0.5em;
+    position: relative;
 }
+
+
+.yck-component .yck-nav-bar a::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 100%;
+    bottom: 0;
+    height: 2px;
+    background-color: #4372d6;
+    /* Highlight Color */
+    transition: right 0.3s ease-in-out;
+    /* Transition on right for fade in from left */
+}
+
+.yck-component .yck-nav-bar a:hover::after {
+    right: 0;
+}
+
+.yck-component ul,
+.yck-component ol {
+    list-style: none;
+    line-height: 1.5em;
+    margin: 0 auto;
+    padding: 0px;
+}
+
+/* Apply the styles to the list items */
+.yck-component ul li {
+    margin-left: 1rem;
+    border-bottom: 0.5px solid #FFF;
+    transition: right 1s ease-in-out;
+}
+
+/* Apply the animation on hover */
+.yck-component ul li:hover {
+    animation: fadeIn 1s forwards;
+}
+
+/* Revert the animation when not hovering */
+.yck-component ul li:not(:hover) {
+    animation: fadeOut 1s forwards;
+}
+
+/* Define the keyframes for the fade-in effect */
+@keyframes fadeIn {
+    from {
+        border-bottom: 0.5px solid #EEE;
+    }
+
+    to {
+        border-bottom: 1px solid #888;
+    }
+}
+
+/* Define the keyframes for the fade-out effect */
+@keyframes fadeOut {
+    from {
+        border-bottom: 1px solid #888;
+    }
+
+    to {
+        border-bottom: 0.5px solid #FFF;
+    }
+}	
 </style>

@@ -1,48 +1,20 @@
 ---
-title: School Song
-permalink: /our-story/School-Song/
-description: ""
+title: Homecoming Carnival
+permalink: /homecoming-carnival/
 variant: markdown
+description: ""
+image: /images/Our Story/School Logo/A Brand New Design for a New B/YCKSS_Logo.svg
 ---
 <div class="yck-component">
-
- <img class="school-image" alt="School Image" src="/images/Our%20Story/School%20Song/S1.jpg">
-        <p>
-            <strong>Our School is Yio Chu Kang.</strong><br>
-            <strong>Together we learn and grow.</strong><br>
-            <strong>Pursuit of knowledge, service to all,</strong><br>
-            <strong>With gratitude and character, we show.</strong><br>
-            <strong>Wholeheartedly, our Home.</strong><br>
-            <strong>Through our hopes and dreams,</strong><br>
-            <strong>We see the best in all.</strong><br>
-            <strong>With heart and soul, we lead</strong><br>
-            <strong>And strive for excellence.</strong><br>
-            <strong>Wholeheartedly, our School.</strong><br>
-            <strong>Wholeheartedly, our Home</strong>.
-        </p>
-
-  
-
-<small><i>Musics &amp; Lyrics by:  
-	Mr Michael William Cartwright &amp; Ms Lio Dan Wei</i>
-</small>
+<h3 class="yck-h3">60th Anniversary - Homecoming Carnival</h3>
+<div class="yck-flexbox-grid">
+<p>Stay tuned for more updates, and join us in making this milestone celebration unforgettable!</p>
+<img alt="60th Celebration GIF" src="/images/60th_Anniversary_Celebration.gif">
 </div>
-
-<div class="yck-component">
-
-<h3>About the School Song</h3>
-
-
-<p>In 2018, Music teachers, Miss Dan Wei Lio and Mr Michael Cartwright began work on composing the music and writing the lyrics to a new song to represent the newly merged school. The song was officially launched during the 2019 Speech and Prize Giving Day.L</p>
-
-<p>The song contains elements from the schools songs of the two antecedent schools, Chong Boon Secondary School and Yio Chu Kang Secondary School. The lyrics capture the beliefs and aspirations of the new school. At the same time, it cleverly weaves in familiar phrases from the former Yio Chu Kang Secondary School song. The beautiful new melody is shaped by some elements of the former Chong Boon Secondary School Song. In this way, the fresh school song captures both antecedent schools, while creatively evoking a contemporary spirit.</p>
-
-<p>A specially commissioned recording was produced by two of our alumni currently enjoying success in the Singapore music industry: Irwin Fua from Chong Boon Secondary School (class of 2003) and Elizabeth Low from Yio Chu Kang Secondary School (class of 2011). The instrumental arrangement is by Irwin and Elizabeth provided the vocals. The recording is played to accompany the weekly mass singing of the school song during the formal Assembly in the Performing Arts Theatre.</p>
-	
 </div>
 
 <style>
-	:root {
+:root {
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
@@ -151,4 +123,18 @@ variant: markdown
     letter-spacing: var(--yck-heading-letter-spacing);
 }
 	
+/* Flexbox Grid */
+.yck-component .yck-flexbox-grid {
+    --yck-min: 22ch;
+    --yck-gap: 1.5em;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: var(--yck-gap);
+}
+
+.yck-component .yck-flexbox-grid>* {
+    flex: 1 1 var(--yck-min);
+    list-style: none;
+}
 </style>
