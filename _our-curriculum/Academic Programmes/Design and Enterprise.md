@@ -22,7 +22,7 @@ variant: markdown
     </div>
     <p>The Design and Enterprise Department offers the following subjects to develop an <strong>innovative mindset</strong> in our students. The hands-on approach adopted in these subjects allows students to anchor on design actions and the application of knowledge and process skills in real-life situations.</p>
 	
-<p>Download the Curriculum and Assessment Briefing for parents (PDF, 2.23MB)</p>
+<p><small>Download the <a href="/files/Academic%20Programmes/Design%20and%20Enterprise/Curriculum_and_Assessment_Briefing__HOD____2025__for_parents_.pdf">Curriculum and Assessment Briefing for parents (PDF, 2.23MB)</a></small></p>
 		
  <img alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D_Tframework.png">
 </div>
