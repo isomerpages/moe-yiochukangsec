@@ -281,4 +281,42 @@ variant: markdown
                 transform: scale(1.3);
             }
         }
+	
+details {
+        overflow: hidden;
+        margin-block: var(--yck-spacing-unit);
+    }
+
+    details * {
+        margin: 0 !important;
+        padding: 0;
+    }
+
+    details>p {
+        margin-inline-start: 1.5rem !important;
+        padding-block: var(--yck-spacing-unit);
+    }
+
+     summary {
+        margin-inline-start: 1.5rem !important;
+        list-style-position: outside;
+        cursor: pointer;
+        font-size: var(--yck-step-1);
+    }
+
+     summary::marker {
+        font-size: var(--yck-step-1);
+    }
+
+
+    details::details-content {
+        font-size: var(--yck-step-0);
+        block-size: 0;
+        transition: block-size 1s, content-visibility 1s;
+        transition-behavior: allow-discrete;
+    }
+
+    details[open]::details-content {
+        block-size: auto;
+    }
 </style>
