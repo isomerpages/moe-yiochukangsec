@@ -223,7 +223,6 @@ variant: markdown
     page-break-inside: avoid;
     /* For older browsers */
     padding: 20px;
-    margin-bottom: var(--yck-spacing-unit) !important;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
