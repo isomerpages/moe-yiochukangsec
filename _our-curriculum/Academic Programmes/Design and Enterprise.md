@@ -107,7 +107,7 @@ variant: markdown
     --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
-    --yck-space-s-xl: clamp(0.75rem, 0.9263rem + 1.9565vw, 2.7994rem);
+   --yck-space-s-xl: clamp(0.75rem, 0.2143rem + 3.9286vw, 3.75rem);
     interpolate-size: allow-keywords;
 }
 
@@ -152,7 +152,7 @@ variant: markdown
 .yck-component p:last-child,
 .yck-component ul li:last-child,
 .yck-component ol li:last-child {
-    margin-bottom: calc(var(--yck-space-s-xl)*1.2);
+    margin-bottom: var(--yck-space-s-xl);
 }
 
 .yck-component .yck-h1,
