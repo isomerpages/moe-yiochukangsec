@@ -21,7 +21,10 @@ variant: markdown
         </div>
     </div>
     <p>The Design and Enterprise Department offers the following subjects to develop an <strong>innovative mindset</strong> in our students. The hands-on approach adopted in these subjects allows students to anchor on design actions and the application of knowledge and process skills in real-life situations.</p>
-        <img alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D_Tframework.png">
+	
+<p><small>Download the <a href="/files/Academic%20Programmes/Design%20and%20Enterprise/Curriculum_and_Assessment_Briefing__HOD____2025__for_parents_.pdf">Curriculum and Assessment Briefing for parents (PDF, 2.23MB)</a></small></p>
+		
+ <img alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D_Tframework.png">
 </div>
 
 <div class="yck-component">
@@ -104,7 +107,7 @@ variant: markdown
     --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
-    --yck-space-s-xl: clamp(0.75rem, 0.9263rem + 1.9565vw, 2.7994rem);
+   --yck-space-s-xl: clamp(0.75rem, 0.2143rem + 3.9286vw, 3.75rem);
     interpolate-size: allow-keywords;
 }
 
@@ -112,7 +115,7 @@ variant: markdown
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
     font-size: var(--yck-step-0);
-    margin-bottom: var(--yck-spacing-unit);
+    margin-bottom: var(--yck-space-s-xl);
 }
 
 .yck-component h1,
@@ -149,7 +152,7 @@ variant: markdown
 .yck-component p:last-child,
 .yck-component ul li:last-child,
 .yck-component ol li:last-child {
-    margin-bottom: calc(var(--yck-space-s-xl)*1.2);
+    margin-bottom: var(--yck-space-s-xl);
 }
 
 .yck-component .yck-h1,
@@ -220,7 +223,6 @@ variant: markdown
     page-break-inside: avoid;
     /* For older browsers */
     padding: 20px;
-    margin-bottom: var(--yck-spacing-unit) !important;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
@@ -278,4 +280,42 @@ variant: markdown
                 transform: scale(1.3);
             }
         }
+	
+details {
+        overflow: hidden;
+        margin-block: var(--yck-spacing-unit);
+    }
+
+    details * {
+        margin: 0 !important;
+        padding: 0;
+    }
+
+    details>p {
+        margin-inline-start: 1.5rem !important;
+        padding-block: var(--yck-spacing-unit);
+    }
+
+     summary {
+        margin-inline-start: 1.5rem !important;
+        list-style-position: outside;
+        cursor: pointer;
+        font-size: var(--yck-step-1);
+    }
+
+     summary::marker {
+        font-size: var(--yck-step-1);
+    }
+
+
+    details::details-content {
+        font-size: var(--yck-step-0);
+        block-size: 0;
+        transition: block-size 1s, content-visibility 1s;
+        transition-behavior: allow-discrete;
+    }
+
+    details[open]::details-content {
+        block-size: auto;
+    }
 </style>
