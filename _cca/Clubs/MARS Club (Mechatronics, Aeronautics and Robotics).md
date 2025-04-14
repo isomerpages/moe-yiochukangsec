@@ -121,11 +121,13 @@ variant: markdown
 
 
 <style>
+
 :root {
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
     --yck-spacing-unit: 1em;
+    --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
 
     --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
     --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
@@ -136,7 +138,7 @@ variant: markdown
     --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
-    --yck-space-s-xl: clamp(0.75rem, 0.7337rem + 1.9565vw, 2.7994rem);
+   --yck-space-s-xl: clamp(0.75rem, 0.2143rem + 3.9286vw, 3.75rem);
     interpolate-size: allow-keywords;
 }
 
@@ -144,7 +146,7 @@ variant: markdown
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
     font-size: var(--yck-step-0);
-    margin-bottom: var(--yck-spacing-unit);
+    margin-bottom: var(--yck-space-s-xl);
 }
 
 .yck-component h1,
@@ -167,16 +169,15 @@ variant: markdown
 }
 
 .yck-component p,
-.yck-component ol,
-.yck-component ul {
-    text-wrap: pretty;
-    margin-bottom: var(--yck-spacing-unit);
+.yck-component ol li,
+.yck-component ul li {
+    text-wrap: pretty;;
 }
 
 .yck-component p:last-child,
 .yck-component ul li:last-child,
 .yck-component ol li:last-child {
-    margin-bottom: calc(var(--yck-space-s-xl)*1.2);
+    margin-bottom: var(--yck-space-s-xl);
 }
 
 .yck-component .yck-h1,
@@ -190,7 +191,8 @@ variant: markdown
 .yck-component .yck-h2,
 .yck-component h2 {
     font-size: var(--yck-step-4);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.8);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.6);
+    text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -198,7 +200,8 @@ variant: markdown
 .yck-component .yck-h3,
 .yck-component h3 {
     font-size: var(--yck-step-3);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.6);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+    text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -206,7 +209,7 @@ variant: markdown
 .yck-component .yck-h4,
 .yck-component h4 {
     font-size: var(--yck-step-2);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.4);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.3);
     text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -215,7 +218,7 @@ variant: markdown
 .yck-component .yck-h5,
 .yck-component h5 {
     font-size: var(--yck-step-1);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.3);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.1);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -224,7 +227,7 @@ variant: markdown
 .yck-component .yck-h6,
 .yck-component h6 {
     font-size: var(--yck-step-0);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.2);
+    margin-bottom: var(--yck-spacing-unit);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -234,14 +237,14 @@ variant: markdown
     border-collapse: collapse;
     max-width: 100%;
     margin-top: 0.5em;
-    margin-bottom: var(--yck-space-s-xl);
-    font-size: var(--yck-step-0);
+    margin-bottom: var(--yck-spacing-unit);
+
 }
 
 .yck-component .yck-th {
     background-color: #f2f2f2;
     text-align: left;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px dotted #ddd;
     text-transform: uppercase;
 }
 
@@ -252,10 +255,11 @@ variant: markdown
 }
 
 .yck-component .yck-td {
-    border-bottom: 1px solid #ddd;
-    min-width: 140px;
-    max-width: 640px;
+    border-bottom: 1px dotted #ddd;
+    min-width: 120px;
+    max-width: 100%;
     word-wrap: break-word;
+    text-wrap: pretty;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
 }
@@ -263,20 +267,128 @@ variant: markdown
 .yck-component .yck-table tbody .yck-td,
 .yck-component .yck-table tbody .yck-td p {
     margin-top: 0;
-    margin-bottom: 0.25em;
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
     line-height: 1.5rem;
-    padding-bottom: 0.5em;
+    padding-bottom: 0.25em;
+    font-size: var(--yck-step-0);
 }
 
 /* Apply margin-bottom only when it is the last table-date in the row or contains the last paragraph */
 .yck-component .yck-table tbody tr:last-child .yck-td:last-child,
 .yck-component .yck-table tbody tr:last-child .yck-td:last-child p:last-child {
-    margin-bottom: calc(var(--yck-space-s-xl)*1.2);
+    margin-bottom: var(--yck-spacing-unit);
 }
 
+.yck-component .video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.yck-component .col-container {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+
+    /* CSS Multi-column Layout properties */
+    column-count: 2;
+    column-width: 360px;
+    column-gap: 1.5em;
+}
+
+.yck-component .isomer-card,
+.yck-component .column {
+    break-inside: avoid;
+    /* Prevents content from breaking across columns */
+    page-break-inside: avoid;
+    /* For older browsers */
+    padding: 20px;
+
+    border-radius: 5px;
+    box-shadow:var(--yck-box-shadow);
+}
+
+.yck-component .column {
+    margin-bottom: var(--yck-spacing-unit) !important;
+}
+
+.yck-component .column ul,
+.yck-component .column ol {
+    list-style: none;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0;
+}
+
+.yck-component .column ul li {
+    margin-left: 1rem;
+    border-bottom: 0.5px solid #FFF;
+    transition: right 1s ease-in-out;
+}
+
+/* Apply the animation on hover */
+.yck-component .column ul li:hover {
+    animation: fadeIn 1s forwards;
+}
+
+/* Revert the animation when not hovering */
+.yck-component .column ul li:not(:hover) {
+    animation: fadeOut 1s forwards;
+}
+
+/* Define the keyframes for the fade-in effect */
+@keyframes fadeIn {
+    from {
+        border-bottom: 0.5px solid #EEE;
+    }
+
+    to {
+        border-bottom: 1px solid #e37f2a;
+    }
+}
+
+/* Define the keyframes for the fade-out effect */
+@keyframes fadeOut {
+    from {
+        border-bottom: 1px solid #e37f2a;
+    }
+
+    to {
+        border-bottom: 0.5px solid #EEE;
+    }
+}
+
+/* Flexbox Grid */
+.yck-component .yck-flexbox-grid {
+    --yck-min: 22ch;
+    --yck-gap: 1.5em;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: var(--yck-gap);
+}
+
+.yck-component .yck-flexbox-grid>* {
+    flex: 1 0 var(--yck-min);
+    list-style: none;
+}
 
 .yck-component .bqcontainer {
-    margin-bottom: var(--yck-space-s-xl);
+    margin: 0 auto;
+    padding: 0;
+    width: min(900px, calc(70% + 160px));
 }
 
 .yck-component blockquote {
@@ -284,13 +396,14 @@ variant: markdown
     padding: 25px 35px;
     background-color: white;
     border-radius: 5px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    box-shadow: var(--yck-box-shadow);
+border-left: 1px solid rgba(255, 107, 107, 0.3) !important;
 }
 
 .yck-component blockquote p {
-    color: #ff6b6b;
-    font-style: italic;
-    font-size: var(--yck-step-1);
+    color: #ff6b6b !important;
+    font-style: italic !important;
+    font-size: var(--yck-step-1) !important;
     line-height: 1.5;
     margin: 0;
 }
@@ -298,9 +411,9 @@ variant: markdown
 .yck-component blockquote::before {
     content: '"';
     position: absolute;
-    top: 20px;
+    top: 25px;
     left: 10px;
-    color: #ff6b6b;
+    color: #ff6b6b !important;
     font-size: 60px;
     font-family: Georgia, serif;
     opacity: 0.3;
@@ -315,139 +428,83 @@ variant: markdown
     text-align: right;
 }
 
-.yck-component .col-container {
-    width: 100%;
-    /* max-width: 1400px; */
-    margin: 0 auto;
-
-    /* CSS Multi-column Layout properties */
-    column-count: 2;
-    column-width: 320px;
-    column-gap: 1em;
+.yck-component figure {
+    /*   border: thin #c0c0c0 solid; */
+    display: flex !important;
+    flex-flow: column !important;
+    /*   padding: 5px; */
+    max-width: 100%;
+    margin: auto !important;
 }
 
-.yck-component .column {
-    break-inside: avoid;
-    /* Prevents content from breaking across columns */
-    page-break-inside: avoid;
-    /* For older browsers */
-    padding: 20px;
-    margin-bottom: var(--yck-spacing-unit);
-    border-radius: 5px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+.yck-component figure img {
+    border-radius: 8px;
+    box-shadow: var(--yck-box-shadow);
+    }
+
+.yck-component figcaption {
+    background-color: rgba(255, 255, 255, 0.75);
+    color: #333;
+    font: italic var(--yck-step--1) sans-serif;
+    padding: 5px;
+    text-align: center;
 }
 
-/* Flexbox Grid */
-.yck-component .yck-flexbox-grid {
-    --yck-min: 22ch;
-    --yck-gap: 1.5em;
-    display: flex;
-    flex-wrap: wrap;
-    list-style: none;
-    gap: var(--yck-gap);
-}
+.ken-burns-container {
+            max-width: 100%;
+            overflow: hidden;
+            position: relative;
+        }
 
-.yck-component .yck-flexbox-grid>* {
-    flex: 1 1 var(--yck-min);
-    list-style: none;
-}
-
-/** Responsive Video container **/
-.yck-component .video-container {
-    position: relative;
-    width: 100%;
-    padding-bottom: 56.25%;
-    /* 16:9 aspect ratio */
-    height: 0;
-    overflow: hidden;
-    margin-bottom: var(--yck-space-s-xl);
-}
-
-.yck-component .video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
+.ken-burns-image {
     width: 100%;
     height: 100%;
+    object-fit: cover;
+    animation: kenBurns 30s ease-in-out infinite alternate;
 }
 
-.yck-component .yck-nav-bar {
-    display: flex;
-    justify-content: space-around;
-    padding: 1em 0;
-    position: relative;
-}
-
-.yck-component .yck-nav-bar a {
-    text-decoration: none;
-    color: inherit;
-    /* Inherit text color */
-    padding-bottom: 0.5em;
-    position: relative;
-}
-
-
-.yck-component .yck-nav-bar a::after {
-    content: '';
-    position: absolute;
-    left: 0;
-    right: 100%;
-    bottom: 0;
-    height: 2px;
-    background-color: #4372d6;
-    /* Highlight Color */
-    transition: right 0.3s ease-in-out;
-    /* Transition on right for fade in from left */
-}
-
-.yck-component .yck-nav-bar a:hover::after {
-    right: 0;
-}
-
-.yck-component .column ul,
-.yck-component .column ol {
-    list-style: none;
-    line-height: 1.5em;
-    margin: 0 auto;
-    padding: 0px;
-}
-
-/* Apply the styles to the list items */
-.yck-component ul li {
-    margin-left: 1rem;
-    border-bottom: 0.5px solid #FFF;
-    transition: right 1s ease-in-out;
-}
-
-/* Apply the animation on hover */
-.yck-component ul li:hover {
-    animation: fadeIn 1s forwards;
-}
-
-/* Revert the animation when not hovering */
-.yck-component ul li:not(:hover) {
-    animation: fadeOut 1s forwards;
-}
-
-/* Define the keyframes for the fade-in effect */
-@keyframes fadeIn {
+@keyframes kenBurns {
     from {
-        border-bottom: 0.5px solid #EEE;
+        transform: scale(1);
     }
-
     to {
-        border-bottom: 1px solid #888;
+        transform: scale(1.3);
     }
 }
 
-/* Define the keyframes for the fade-out effect */
-@keyframes fadeOut {
-    from {
-        border-bottom: 1px solid #888;
-    }
+details {
+        overflow: hidden;
+}
 
-    to {
-        border-bottom: 0.5px solid #FFF;
-    }
+details * {
+    margin: 0 !important;
+}
+
+details>p {
+    margin-inline-start: 1.5rem !important;
+    padding-block: calc(var(--yck-spacing-unit) * 0.5);
+}
+
+ summary {
+    margin-inline-start: 1.5rem !important;
+    list-style-position: outside;
+    cursor: pointer;
+    font-size: var(--yck-step-1);
+}
+
+ summary::marker {
+    font-size: var(--yck-step-1);
+}
+
+
+details::details-content {
+    font-size: var(--yck-step-0);
+    block-size: 0;
+    transition: block-size 1s, content-visibility 1s;
+    transition-behavior: allow-discrete;
+}
+
+details[open]::details-content {
+    block-size: auto;
 }
 	</style>
