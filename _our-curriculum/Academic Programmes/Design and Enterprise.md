@@ -97,6 +97,7 @@ variant: markdown
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
     --yck-spacing-unit: 1em;
+	  --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 
     --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
     --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
@@ -219,7 +220,7 @@ variant: markdown
     /* For older browsers */
     padding: 20px;
     border-radius: 5px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow:var(--yck-box-shadow);
 }
 
 /* Flexbox Grid */
@@ -247,8 +248,8 @@ variant: markdown
 }
 
 .yck-component figure img {
-	border-radius: 10px;
-	box-shadow: 0 3px 5px rgba(0, 0, 0, 0.5);
+	border-radius: 8px;
+	box-shadow: var(--yck-box-shadow);
 	}
 	
 .yck-component figcaption {
