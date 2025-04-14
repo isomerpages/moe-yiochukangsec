@@ -92,12 +92,13 @@ variant: markdown
 
 
 <style>
+
 :root {
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
     --yck-spacing-unit: 1em;
-	  --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
 
     --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
     --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
@@ -141,8 +142,7 @@ variant: markdown
 .yck-component p,
 .yck-component ol li,
 .yck-component ul li {
-    text-wrap: pretty;
-    margin-bottom: var(--yck-spacing-unit);
+    text-wrap: pretty;;
 }
 
 .yck-component p:last-child,
@@ -163,6 +163,7 @@ variant: markdown
 .yck-component h2 {
     font-size: var(--yck-step-4);
     margin-bottom: calc(var(--yck-spacing-unit) * 0.6);
+    text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -171,6 +172,7 @@ variant: markdown
 .yck-component h3 {
     font-size: var(--yck-step-3);
     margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+    text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -210,7 +212,7 @@ variant: markdown
     /* CSS Multi-column Layout properties */
     column-count: 2;
     column-width: 360px;
-    column-gap: 1.5rem;
+    column-gap: 1.5em;
 }
 
 .yck-component .isomer-card {
