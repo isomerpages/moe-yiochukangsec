@@ -11,32 +11,32 @@ image: /images/Our Story/School Logo/School Logo/S1.png
 
 <p>Let’s reconnect with old friends, relive cherished moments, and honour those who shaped our journey at the dinner.</p>
 <p>Don’t miss the fun! Reserve your seat today! Come have dinner with us on 4 July!</p>
-</div>
 
-<div class="yck-component">
-	<div class="video-container">
+<div class="video-container">
 		<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ydfN3bz0f68?si=FXImbSRrrmerLK9R" height="315" width="560"></iframe>
 	</div>
 	
 </div>
 
 <style>
+
 :root {
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
     --yck-spacing-unit: 1em;
+    --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
 
-  --yck-step--2: clamp(0.7901rem, 0.763rem + 0.1355vw, 0.8681rem);
-  --yck-step--1: clamp(0.8889rem, 0.8357rem + 0.2657vw, 1.0417rem);
-  --yck-step-0: clamp(1rem, 0.913rem + 0.4348vw, 1.25rem);
-  --yck-step-1: clamp(1.125rem, 0.9946rem + 0.6522vw, 1.5rem);
-  --yck-step-2: clamp(1.2656rem, 1.0798rem + 0.9293vw, 1.8rem);
-  --yck-step-3: clamp(1.4238rem, 1.1678rem + 1.2803vw, 2.16rem);
-  --yck-step-4: clamp(1.6018rem, 1.2574rem + 1.7221vw, 2.592rem);
-  --yck-step-5: clamp(1.802rem, 1.3469rem + 2.2754vw, 3.1104rem);
+    --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
+    --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
+    --yck-step-0: clamp(1.125rem, 1.125rem + 0vw, 1.125rem);
+    --yck-step-1: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem);
+    --yck-step-2: clamp(1.4238rem, 1.3556rem + 0.3412vw, 1.62rem);
+    --yck-step-3: clamp(1.6018rem, 1.4828rem + 0.5951vw, 1.944rem);
+    --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
+    --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
-   --space-s-xl: clamp(1rem, 0.2143rem + 3.9286vw, 3.75rem);
+   --yck-space-s-xl: clamp(0.75rem, 0.2143rem + 3.9286vw, 3.75rem);
     interpolate-size: allow-keywords;
 }
 
@@ -44,7 +44,7 @@ image: /images/Our Story/School Logo/School Logo/S1.png
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
     font-size: var(--yck-step-0);
-    margin-bottom: var(--yck-spacing-unit);
+    margin-bottom: var(--yck-space-s-xl);
 }
 
 .yck-component h1,
@@ -67,16 +67,15 @@ image: /images/Our Story/School Logo/School Logo/S1.png
 }
 
 .yck-component p,
-.yck-component ol,
-.yck-component ul {
+.yck-component ol li,
+.yck-component ul li {
     text-wrap: pretty;
-    margin-bottom: var(--yck-spacing-unit);
 }
 
 .yck-component p:last-child,
 .yck-component ul li:last-child,
 .yck-component ol li:last-child {
-    margin-bottom: calc(var(--yck-space-s-xl)*1.2);
+    margin-bottom: var(--yck-space-s-xl);
 }
 
 .yck-component .yck-h1,
@@ -90,7 +89,8 @@ image: /images/Our Story/School Logo/School Logo/S1.png
 .yck-component .yck-h2,
 .yck-component h2 {
     font-size: var(--yck-step-4);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.8);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.6);
+    text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -98,7 +98,8 @@ image: /images/Our Story/School Logo/School Logo/S1.png
 .yck-component .yck-h3,
 .yck-component h3 {
     font-size: var(--yck-step-3);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.6);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+    text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -106,7 +107,7 @@ image: /images/Our Story/School Logo/School Logo/S1.png
 .yck-component .yck-h4,
 .yck-component h4 {
     font-size: var(--yck-step-2);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.4);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.3);
     text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -115,7 +116,7 @@ image: /images/Our Story/School Logo/School Logo/S1.png
 .yck-component .yck-h5,
 .yck-component h5 {
     font-size: var(--yck-step-1);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.3);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.1);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -124,25 +125,10 @@ image: /images/Our Story/School Logo/School Logo/S1.png
 .yck-component .yck-h6,
 .yck-component h6 {
     font-size: var(--yck-step-0);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.2);
+    margin-bottom: var(--yck-spacing-unit);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
-}
-	
-/* Flexbox Grid */
-.yck-component .yck-flexbox-grid {
-    --yck-min: 22ch;
-    --yck-gap: 1.5em;
-    display: flex;
-    flex-wrap: wrap;
-    list-style: none;
-    gap: var(--yck-gap);
-}
-
-.yck-component .yck-flexbox-grid>* {
-    flex: 1 1 var(--yck-min);
-    list-style: none;
 }
 	
 /** Responsive Video or object container **/
