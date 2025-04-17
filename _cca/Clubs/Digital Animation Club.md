@@ -10,7 +10,6 @@ description: '"Learn 2D animation with programs like CrazyTalk Animator,
 third_nav_title: Clubs
 variant: markdown
 ---
-
 <div class="yck-component">
 <h2>The Digital Animation Club</h2>
 <img alt="Digital Animation Club members" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/DigitalAnimateClub.png">
@@ -55,31 +54,23 @@ variant: markdown
     </table>
 </div><hr>
 <div class="yck-component">
-<h4>Events/Competitions&nbsp;&amp;&nbsp;Our&nbsp;Proudest&nbsp;Moments</h4>
-<blockquote>
-<p>&nbsp;&nbsp;2022</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Copyright School Challenge Video Competition</p>
-</li>
-<li>
-<p>N.E.mation!</p>
-</li>
-</ul>
-</blockquote>
-<blockquote>
-<p>2019</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>PacificLight’s Crea8 Sustainability Animation Competition (1ST RUNNER-UP
-Upper Secondary)</p>
-</li>
-<li>
-<p>PacificLight’s Crea8 Sustainability Animation Competition (3RD PLACE Lower
-Secondary)</p>
-</li>
-</ul>
-</blockquote>
+<h4>Events/Competitions &amp; Our Proudest Moments</h4>
+<div class="col-container">
+    <div class="column">
+    <h5>2022</h5>
+<ul>
+ <li>Copyright School Challenge Video Competition</li>
+            <li>N.E.mation!</li>
+        </ul>
+   </div>
+   <div class="column">
+        <h5>2019</h5>
+        <ul>
+            <li>PacificLight's Crea8 Sustainability Animation Competition (1ST RUNNER-UP Upper Secondary)</li>
+            <li>PacificLight's Crea8 Sustainability Animation Competition (3RD PLACE Lower Secondary)</li>
+        </ul>
+   </div>
+</div>
 </div>
 <hr>
 <h4>Gallery</h4>
@@ -96,11 +87,13 @@ Secondary)</p>
 <p></p>
 
 <style>
+
 :root {
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
     --yck-spacing-unit: 1em;
+    --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
 
     --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
     --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
@@ -111,7 +104,7 @@ Secondary)</p>
     --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
-    --yck-space-s-xl: clamp(0.75rem, 0.7337rem + 1.9565vw, 2.7994rem);
+   --yck-space-s-xl: clamp(0.75rem, 0.2143rem + 3.9286vw, 3.75rem);
     interpolate-size: allow-keywords;
 }
 
@@ -119,7 +112,7 @@ Secondary)</p>
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
     font-size: var(--yck-step-0);
-    margin-bottom: var(--yck-spacing-unit);
+    margin-bottom: var(--yck-space-s-xl);
 }
 
 .yck-component h1,
@@ -142,16 +135,15 @@ Secondary)</p>
 }
 
 .yck-component p,
-.yck-component ol,
-.yck-component ul {
+.yck-component ol li,
+.yck-component ul li {
     text-wrap: pretty;
-    margin-bottom: var(--yck-spacing-unit);
 }
 
 .yck-component p:last-child,
 .yck-component ul li:last-child,
 .yck-component ol li:last-child {
-    margin-bottom: calc(var(--yck-space-s-xl)*1.2);
+    margin-bottom: var(--yck-space-s-xl);
 }
 
 .yck-component .yck-h1,
@@ -165,7 +157,8 @@ Secondary)</p>
 .yck-component .yck-h2,
 .yck-component h2 {
     font-size: var(--yck-step-4);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.8);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.6);
+    text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -173,7 +166,8 @@ Secondary)</p>
 .yck-component .yck-h3,
 .yck-component h3 {
     font-size: var(--yck-step-3);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.6);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+    text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -181,7 +175,7 @@ Secondary)</p>
 .yck-component .yck-h4,
 .yck-component h4 {
     font-size: var(--yck-step-2);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.4);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.3);
     text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -190,7 +184,7 @@ Secondary)</p>
 .yck-component .yck-h5,
 .yck-component h5 {
     font-size: var(--yck-step-1);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.3);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.1);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -199,7 +193,7 @@ Secondary)</p>
 .yck-component .yck-h6,
 .yck-component h6 {
     font-size: var(--yck-step-0);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.2);
+    margin-bottom: var(--yck-spacing-unit);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -209,14 +203,14 @@ Secondary)</p>
     border-collapse: collapse;
     max-width: 100%;
     margin-top: 0.5em;
-    margin-bottom: var(--yck-space-s-xl);
-    font-size: var(--yck-step-0);
+    margin-bottom: var(--yck-spacing-unit);
+
 }
 
 .yck-component .yck-th {
     background-color: #f2f2f2;
     text-align: left;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px dotted #ddd;
     text-transform: uppercase;
 }
 
@@ -227,10 +221,11 @@ Secondary)</p>
 }
 
 .yck-component .yck-td {
-    border-bottom: 1px solid #ddd;
-    min-width: 140px;
-    max-width: 640px;
+    border-bottom: 1px dotted #ddd;
+    min-width: 120px;
+    max-width: 100%;
     word-wrap: break-word;
+    text-wrap: pretty;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
 }
@@ -238,38 +233,88 @@ Secondary)</p>
 .yck-component .yck-table tbody .yck-td,
 .yck-component .yck-table tbody .yck-td p {
     margin-top: 0;
-    margin-bottom: 0.25em;
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
     line-height: 1.5rem;
-    padding-bottom: 0.5em;
+    padding-bottom: 0.25em;
+    font-size: var(--yck-step-0);
 }
 
 /* Apply margin-bottom only when it is the last table-date in the row or contains the last paragraph */
 .yck-component .yck-table tbody tr:last-child .yck-td:last-child,
 .yck-component .yck-table tbody tr:last-child .yck-td:last-child p:last-child {
-    margin-bottom: calc(var(--yck-space-s-xl)*1.2);
+    margin-bottom: var(--yck-spacing-unit);
 }
-
-
 .yck-component .col-container {
     width: 100%;
-    /* max-width: 1400px; */
+    max-width: 1000px;
     margin: 0 auto;
 
     /* CSS Multi-column Layout properties */
     column-count: 2;
-    column-width: 320px;
-    column-gap: 1em;
+    column-width: 360px;
+    column-gap: 1.5em;
 }
 
+.yck-component .isomer-card,
 .yck-component .column {
     break-inside: avoid;
     /* Prevents content from breaking across columns */
     page-break-inside: avoid;
     /* For older browsers */
     padding: 20px;
-    margin-bottom: var(--yck-spacing-unit);
+
     border-radius: 5px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow:var(--yck-box-shadow);
+}
+
+.yck-component .column {
+    margin-bottom: var(--yck-spacing-unit) !important;
+}
+
+.yck-component .column ul,
+.yck-component .column ol {
+    list-style: none;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0;
+}
+
+.yck-component .column ul li {
+    margin-left: 1rem;
+    border-bottom: 0.5px solid #FFF;
+    transition: right 1s ease-in-out;
+}
+
+/* Apply the animation on hover */
+.yck-component .column ul li:hover {
+    animation: fadeIn 1s forwards;
+}
+
+/* Revert the animation when not hovering */
+.yck-component .column ul li:not(:hover) {
+    animation: fadeOut 1s forwards;
+}
+
+/* Define the keyframes for the fade-in effect */
+@keyframes fadeIn {
+    from {
+        border-bottom: 0.5px solid #EEE;
+    }
+
+    to {
+        border-bottom: 1px solid #e37f2a;
+    }
+}
+
+/* Define the keyframes for the fade-out effect */
+@keyframes fadeOut {
+    from {
+        border-bottom: 1px solid #e37f2a;
+    }
+
+    to {
+        border-bottom: 0.5px solid #EEE;
+    }
 }
 
 /* Flexbox Grid */
@@ -305,42 +350,5 @@ Secondary)</p>
     width: 100%;
     height: 100%;
 }
-/* Apply the styles to the list items */
-.yck-component ul li {
-    margin-left: 1rem;
-    border-bottom: 0.5px solid #FFF;
-    transition: right 1s ease-in-out;
-}
 
-/* Apply the animation on hover */
-.yck-component ul li:hover {
-    animation: fadeIn 1s forwards;
-}
-
-/* Revert the animation when not hovering */
-.yck-component ul li:not(:hover) {
-    animation: fadeOut 1s forwards;
-}
-
-/* Define the keyframes for the fade-in effect */
-@keyframes fadeIn {
-    from {
-        border-bottom: 0.5px solid #EEE;
-    }
-
-    to {
-        border-bottom: 1px solid #888;
-    }
-}
-
-/* Define the keyframes for the fade-out effect */
-@keyframes fadeOut {
-    from {
-        border-bottom: 1px solid #888;
-    }
-
-    to {
-        border-bottom: 0.5px solid #FFF;
-    }
-}
 	</style></div>

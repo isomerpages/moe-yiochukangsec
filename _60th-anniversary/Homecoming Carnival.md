@@ -14,11 +14,13 @@ image: /images/Our Story/School Logo/A Brand New Design for a New B/YCKSS_Logo.s
 </div>
 
 <style>
+
 :root {
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
     --yck-spacing-unit: 1em;
+    --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
 
     --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
     --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
@@ -29,7 +31,7 @@ image: /images/Our Story/School Logo/A Brand New Design for a New B/YCKSS_Logo.s
     --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
-    --yck-space-s-xl: clamp(0.75rem, 0.7337rem + 1.9565vw, 2.7994rem);
+   --yck-space-s-xl: clamp(0.75rem, 0.2143rem + 3.9286vw, 3.75rem);
     interpolate-size: allow-keywords;
 }
 
@@ -37,7 +39,7 @@ image: /images/Our Story/School Logo/A Brand New Design for a New B/YCKSS_Logo.s
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
     font-size: var(--yck-step-0);
-    margin-bottom: var(--yck-spacing-unit);
+    margin-bottom: var(--yck-space-s-xl);
 }
 
 .yck-component h1,
@@ -60,16 +62,15 @@ image: /images/Our Story/School Logo/A Brand New Design for a New B/YCKSS_Logo.s
 }
 
 .yck-component p,
-.yck-component ol,
-.yck-component ul {
-    text-wrap: pretty;
-    margin-bottom: var(--yck-spacing-unit);
+.yck-component ol li,
+.yck-component ul li {
+    text-wrap: pretty;;
 }
 
 .yck-component p:last-child,
 .yck-component ul li:last-child,
 .yck-component ol li:last-child {
-    margin-bottom: calc(var(--yck-space-s-xl)*1.2);
+    margin-bottom: var(--yck-space-s-xl);
 }
 
 .yck-component .yck-h1,
@@ -83,7 +84,8 @@ image: /images/Our Story/School Logo/A Brand New Design for a New B/YCKSS_Logo.s
 .yck-component .yck-h2,
 .yck-component h2 {
     font-size: var(--yck-step-4);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.8);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.6);
+    text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -91,7 +93,8 @@ image: /images/Our Story/School Logo/A Brand New Design for a New B/YCKSS_Logo.s
 .yck-component .yck-h3,
 .yck-component h3 {
     font-size: var(--yck-step-3);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.6);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+    text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -99,7 +102,7 @@ image: /images/Our Story/School Logo/A Brand New Design for a New B/YCKSS_Logo.s
 .yck-component .yck-h4,
 .yck-component h4 {
     font-size: var(--yck-step-2);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.4);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.3);
     text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -108,7 +111,7 @@ image: /images/Our Story/School Logo/A Brand New Design for a New B/YCKSS_Logo.s
 .yck-component .yck-h5,
 .yck-component h5 {
     font-size: var(--yck-step-1);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.3);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.1);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -117,7 +120,7 @@ image: /images/Our Story/School Logo/A Brand New Design for a New B/YCKSS_Logo.s
 .yck-component .yck-h6,
 .yck-component h6 {
     font-size: var(--yck-step-0);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.2);
+    margin-bottom: var(--yck-spacing-unit);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -134,7 +137,7 @@ image: /images/Our Story/School Logo/A Brand New Design for a New B/YCKSS_Logo.s
 }
 
 .yck-component .yck-flexbox-grid>* {
-    flex: 1 1 var(--yck-min);
+    flex: 1 0 var(--yck-min);
     list-style: none;
 }
 </style>
