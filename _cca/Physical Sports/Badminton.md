@@ -91,8 +91,8 @@ third_nav_title: Physical Sports
                 <li>Sec 3 Vice-captain Girls: Chua Yu Hwee, Tricia</li>
                 <li>Sec 3 Captain Boys: Ryan Eng Rui Young</li>
                 <li>Sec 3 Vice-captain Boys: Nyan Lin Myat</li>
-                <li>Sec 2 Captain Girls: pending appointment</li>
-                <li>Sec 2 Vice-captain Girls: pending appointment</li>
+							<li>Sec 2 Captain Girls: <i>pending appointment</i></li>
+							<li>Sec 2 Vice-captain Girls: <i>pending appointment</i></li>
             </ul>
         </div>
     </details>
