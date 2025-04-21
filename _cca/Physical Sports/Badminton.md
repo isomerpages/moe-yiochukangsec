@@ -80,7 +80,7 @@ third_nav_title: Physical Sports
 
 <div class="yck-component">
     <details>
-        <summary class="yck-h5">Appointments:</summary>
+        <summary class="yck-h4">Appointments:</summary>
         <div class="isomer-card">
             <ul>
                 <li>Sec 4 Captain Girls: Nuryn' Insyierah Binte Nur'asri</li>
@@ -165,26 +165,62 @@ third_nav_title: Physical Sports
     margin-bottom: var(--yck-space-s-xl);
 }
 
+.yck-component h1,
+.yck-component h2,
+.yck-component h3,
 .yck-component h4,
 .yck-component h5,
+.yck-component h6,
 .yck-component p {
     overflow-wrap: break-word;
 }
 
+.yck-component h1,
+.yck-component h2,
+.yck-component h3,
 .yck-component h4,
-.yck-component h5 {
+.yck-component h5,
+.yck-component h6 {
     text-wrap: balance;
 }
 
 .yck-component p,
+.yck-component ol,
 .yck-component ul {
     text-wrap: pretty;
     margin-bottom: var(--yck-space-s-xl);
 }
 
 .yck-component p:last-child,
-.yck-component ul li:last-child {
+.yck-component ul li:last-child,
+.yck-component ol li:last-child {
     margin-bottom: calc(var(--yck-spacing-unit)*2);
+}
+
+.yck-component .yck-h1,
+.yck-component h1 {
+    font-size: var(--yck-step-5);
+    margin-bottom: var(--yck-space-s-xl);
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
+
+.yck-component .yck-h2,
+.yck-component h2 {
+    font-size: var(--yck-step-4);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.6);
+    text-transform: capitalize;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
+
+.yck-component .yck-h3,
+.yck-component h3 {
+    font-size: var(--yck-step-3);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+    text-transform: capitalize;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
 .yck-component .yck-h4,
@@ -200,6 +236,15 @@ third_nav_title: Physical Sports
 .yck-component h5 {
     font-size: var(--yck-step-1);
     margin-bottom: calc(var(--yck-spacing-unit) * 0.1);
+    text-transform: uppercase;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
+
+.yck-component .yck-h6,
+.yck-component h6 {
+    font-size: var(--yck-step-0);
+    margin-bottom: var(--yck-spacing-unit);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -366,6 +411,11 @@ details * {
     margin: 0 !important;
 }
 
+details ul li {
+    margin-inline-start: 1.5rem !important;
+    padding-block: calc(var(--yck-spacing-unit) * 0.5);
+}
+
 summary {
     margin-inline-start: 1.5rem !important;
     list-style-position: outside;
@@ -402,11 +452,11 @@ details[open]::details-content {
 }
 
 @keyframes FadeOutSlideUp {
-    0% {
+    100% {
         opacity: 1;
     }
 
-    100% {
+    0% {
         opacity: 0;
     }
 }
@@ -418,6 +468,5 @@ details[open]::details-content {
         transition-duration: 0.01ms !important;
         scroll-behavior: auto !important;
     }
-}	
-	
+}
 </style>
