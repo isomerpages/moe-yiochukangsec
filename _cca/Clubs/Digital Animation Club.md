@@ -11,7 +11,6 @@ third_nav_title: Clubs
 variant: markdown
 ---
 <div class="yck-component">
-<h2>The Digital Animation Club</h2>
 <div class="ken-burns-container">
 <img class="ken-burns-image" alt="Digital Animation Club members" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/DigitalAnimateClub.png">
 </div>
