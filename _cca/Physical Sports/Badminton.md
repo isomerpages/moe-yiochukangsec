@@ -107,25 +107,25 @@ third_nav_title: Physical Sports
                 <li><span class="yck-h5">2019</span><br>'C' Division Girls Top 8 North Zone Badminton Championships</li>
             </ul>
             <ul>
-                <li><b>2018</b><br>'B' Division Girls Top 8 North Zone Badminton Championships</li>
+                <li><span class="yck-h5">2018</span><br>'B' Division Girls Top 8 North Zone Badminton Championships</li>
             </ul>
             <ul>
-                <li><b>2017</b><br>'B' Division Girl's First runners-up South Zone Badminton Championships</li>
+                <li><span class="yck-h5">2017</span><br>'B' Division Girl's First runners-up South Zone Badminton Championships</li>
             </ul>
             <ul>
-                <li><b>2016</b><br>4th position South Zone Badminton Championships</li>
+							<li><span class="yck-h5">2016</span><br>4th position South Zone Badminton Championships</li>
             </ul>
         </div>
         <div class="column">
             <h4 class="yck-h4">Events/Competitions</h4>
             <ul>
-                <li><b>2020</b><br>Nil</li>
+                <li><span class="yck-h5">2020</span><br>Nil</li>
             </ul>
             <ul>
-                <li><b>2019</b><br>'C' Division Girls Top 8 North Zone Badminton Championships</li>
+                <li><span class="yck-h5">2019</span><br>'C' Division Girls Top 8 North Zone Badminton Championships</li>
             </ul>
             <ul>
-                <li><b>2018</b><br>'B' Division Girls Top 8 North Zone Badminton Championships</li>
+                <li><span class="yck-h5">2018</span><br>'B' Division Girls Top 8 North Zone Badminton Championships</li>
             </ul>
         </div>
     </div>
