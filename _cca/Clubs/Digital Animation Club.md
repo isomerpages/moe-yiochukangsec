@@ -10,81 +10,81 @@ description: '"Learn 2D animation with programs like CrazyTalk Animator,
 third_nav_title: Clubs
 variant: markdown
 ---
-<div class="yck-component">
-<div class="ken-burns-container">
-<img class="ken-burns-image" alt="Digital Animation Club members" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/DigitalAnimateClub.png">
-</div>
-	
-<p>Students will learn animation programs such as Crazytalk Animator, Flip-A-Clip, Capcut and Apple's Keynote on their iPad as well as the technical and creative aspects of a 2D animated film to create their own animation.</p>
-	
-<p>The structured programme aims to prepare our students for infocomm-related courses in the Institutes of Higher Learning. Students participate in external competitions such as N.E.mation! and other related competitions.</p>
-	
-<p>They will use their skills to produce a short, animated video clip with 2D characters and impressive 2D creations before finalising the video in Adobe Premiere Pro and in Capcut. Students will learn values such as teamwork and gratitude while completing their team submission.</p>
-</div>
 
 <div class="yck-component">
-    <h3>Training Schedule</h3>
-    <table class="yck-table">
-        <thead>
-            <tr>
-                <th class="yck-th">
-                    <h4 class="yck-h5">DAY &amp; TIME:</h4>
-                </th>
-                <th class="yck-th">
-                    <h4 class="yck-h5">TEACHERS IN-CHARGE</h4>
-                </th>
-                <th class="yck-th">
-                    <h4 class="yck-h5">VENUE:</h4>
-                </th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td class="yck-td">
-                    <p>Every Monday &amp; Tuesday<br>3.00pm to 5.30pm</p>
-                </td>
-                <td class="yck-td">
-                    <p>Mrs Audrey Yip (ext 140)</p>
-                    <p>Mdm Chong Nyuk Foong (ext 135)</p>
-                    <p>Mr Christopher Tan (ext 172)</p>
-                </td>
-                <td class="yck-td">
-                    <p>Digital Learning Lab 1 (C4-01)<br> Block C, Level 4, Room 1</p>
-                </td>
-            </tr>
-        </tbody>
-    </table>
+<img alt="Digital Animation Club members" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/DigitalAnimateClub.png">
 </div>
-<div class="yck-component">
-<h4>Events/Competitions &amp; Our Proudest Moments</h4>
-<div class="col-container">
-    <div class="column">
-    <h5>2022</h5>
-<ul>
- <li>Copyright School Challenge Video Competition</li>
-            <li>N.E.mation!</li>
-        </ul>
-   </div>
-   <div class="column">
-        <h5>2019</h5>
-        <ul>
-            <li>PacificLight's Crea8 Sustainability Animation Competition (1ST RUNNER-UP Upper Secondary)</li>
-            <li>PacificLight's Crea8 Sustainability Animation Competition (3RD PLACE Lower Secondary)</li>
-        </ul>
-   </div>
-</div>
-</div>
-<hr>
-<h4>Gallery</h4>
-<div class="isomer-image-wrapper">
-<img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/D2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/D3.png">
-</div>
+                            <div class="yck-component">
+                                <p>Students will learn animation programs such as Crazytalk Animator, Flip-A-Clip, Capcut and Apple's Keynote on their iPad as well as the technical and creative aspects of a 2D animated film to create their own animation.</p>
+                                <p>The structured programme aims to prepare our students for infocomm-related courses in the Institutes of Higher Learning. Students participate in external competitions such as N.E.mation! and other related competitions.</p>
+                                <p>They will use their skills to produce a short, animated video clip with 2D characters and impressive 2D creations before finalising the video in Adobe Premiere Pro and in Capcut. Students will learn values such as teamwork and gratitude while completing their team submission.</p>
+                            </div>
+                            <div class="yck-component">
+                                <h4 class="yck-h4">Training Schedule</h4>
+                                <table class="yck-table">
+                                    <thead>
+                                        <tr>
+                                            <th class="yck-th">
+                                                <h5 class="yck-h5">DAY &amp; TIME:</h5>
+                                            </th>
+                                            <th class="yck-th">
+                                                <h5 class="yck-h5">TEACHERS IN-CHARGE</h5>
+                                            </th>
+                                            <th class="yck-th">
+                                                <h5 class="yck-h5">VENUE:</h5>
+                                            </th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td class="yck-td">
+                                                <p>Every Monday &amp; Tuesday<br>3.00pm to 5.30pm</p>
+                                            </td>
+                                            <td class="yck-td">
+                                                <p>Mrs Audrey Yip (ext 140)</p>
+                                                <p>Mdm Chong Nyuk Foong (ext 135)</p>
+                                                <p>Mr Christopher Tan (ext 172)</p>
+                                            </td>
+                                            <td class="yck-td">
+                                                <p>Digital Learning Lab 1 (C4-01)<br> Block C, Level 4, Room 1</p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="yck-component">
+                                <h4>Events/Competitions &amp; Our Proudest Moments</h4>
+                                <div class="col-container">
+                                    <div class="column">
+                                        <h5><strong>2022</strong></h5>
+                                        <ul>
+                                            <li>Copyright School Challenge Video Competition</li>
+                                            <li>N.E.mation!</li>
+                                        </ul>
+                                    </div>
+                                    <div class="column">
+                                        <h5><strong>2019</strong></h5>
+                                        <ul>
+                                            <li>PacificLight's Crea8 Sustainability Animation Competition (1ST RUNNER-UP Upper Secondary)</li>
+                                            <li>PacificLight's Crea8 Sustainability Animation Competition (3RD PLACE Lower Secondary)</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="yck-component">
+                                <h4 class="yck-h4">Gallery</h4>
+                                <figure>
+                                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/D2.png">
+                                </figure>
+                                <figure>
+                                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/D3.png">
+                                </figure>
+                                <style>
+                                </style>
+                            </div>
+                        
 
 <style>
-
 :root {
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
@@ -101,7 +101,7 @@ variant: markdown
     --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
-   --yck-space-s-xl: clamp(0.75rem, 0.2143rem + 3.9286vw, 3.75rem);
+    --yck-space-s-xl: clamp(0.75rem, 0.2143rem + 3.9286vw, 3.75rem);
     interpolate-size: allow-keywords;
 }
 
@@ -112,61 +112,26 @@ variant: markdown
     margin-bottom: var(--yck-space-s-xl);
 }
 
-.yck-component h1,
-.yck-component h2,
-.yck-component h3,
 .yck-component h4,
 .yck-component h5,
-.yck-component h6,
 .yck-component p {
     overflow-wrap: break-word;
 }
 
-.yck-component h1,
-.yck-component h2,
-.yck-component h3,
 .yck-component h4,
-.yck-component h5,
-.yck-component h6 {
+.yck-component h5 {
     text-wrap: balance;
 }
 
 .yck-component p,
-.yck-component ol li,
-.yck-component ul li {
+.yck-component ul {
     text-wrap: pretty;
+    margin-bottom: var(--yck-space-s-xl);
 }
 
 .yck-component p:last-child,
-.yck-component ul li:last-child,
-.yck-component ol li:last-child {
-    margin-bottom: var(--yck-space-s-xl);
-}
-
-.yck-component .yck-h1,
-.yck-component h1 {
-    font-size: var(--yck-step-5);
-    margin-bottom: var(--yck-space-s-xl);
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
-}
-
-.yck-component .yck-h2,
-.yck-component h2 {
-    font-size: var(--yck-step-4);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.6);
-    text-transform: capitalize;
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
-}
-
-.yck-component .yck-h3,
-.yck-component h3 {
-    font-size: var(--yck-step-3);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
-    text-transform: capitalize;
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
+.yck-component ul li:last-child {
+    margin-bottom: calc(var(--yck-spacing-unit)*2);
 }
 
 .yck-component .yck-h4,
@@ -187,15 +152,6 @@ variant: markdown
     letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.yck-component .yck-h6,
-.yck-component h6 {
-    font-size: var(--yck-step-0);
-    margin-bottom: var(--yck-spacing-unit);
-    text-transform: uppercase;
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
-}
-
 .yck-component .yck-table {
     border-collapse: collapse;
     max-width: 100%;
@@ -211,9 +167,7 @@ variant: markdown
     text-transform: uppercase;
 }
 
-.yck-component .yck-th h4,
-.yck-component .yck-th h5,
-.yck-component .yck-th h6 {
+.yck-component .yck-th h5 {
     margin: 0 0 0.5em;
 }
 
@@ -241,6 +195,7 @@ variant: markdown
 .yck-component .yck-table tbody tr:last-child .yck-td:last-child p:last-child {
     margin-bottom: var(--yck-spacing-unit);
 }
+
 .yck-component .col-container {
     width: 100%;
     max-width: 1000px;
@@ -252,24 +207,22 @@ variant: markdown
     column-gap: 1.5em;
 }
 
-.yck-component .isomer-card,
 .yck-component .column {
     break-inside: avoid;
     /* Prevents content from breaking across columns */
     page-break-inside: avoid;
     /* For older browsers */
     padding: 20px;
-
+/*     margin-block:  calc(var(--yck-spacing-unit)*0.5); */
     border-radius: 5px;
-    box-shadow:var(--yck-box-shadow);
+    box-shadow: var(--yck-box-shadow);
 }
 
 .yck-component .column {
     margin-bottom: var(--yck-spacing-unit) !important;
 }
 
-.yck-component .column ul,
-.yck-component .column ol {
+.yck-component .column ul {
     list-style: none;
     line-height: 1.5em;
     margin: 0;
@@ -314,38 +267,82 @@ variant: markdown
     }
 }
 
-/* Flexbox Grid */
-.yck-component .yck-flexbox-grid {
-    --yck-min: 22ch;
-    --yck-gap: 1.5em;
-    display: flex;
-    flex-wrap: wrap;
-    list-style: none;
-    gap: var(--yck-gap);
+
+.yck-component figure {
+    /*   border: thin #c0c0c0 solid; */
+    display: flex !important;
+    flex-flow: column !important;
+    /*   padding: 5px; */
+    max-width: 100%;
+    margin: auto !important;
 }
 
-.yck-component .yck-flexbox-grid>* {
-    flex: 1 1 var(--yck-min);
-    list-style: none;
+.yck-component figure img {
+    border-radius: 8px;
+    box-shadow: var(--yck-box-shadow);
 }
 
-/** Responsive Video container **/
-.yck-component .video-container {
-    position: relative;
-    width: 100%;
-    padding-bottom: 56.25%;
-    /* 16:9 aspect ratio */
-    height: 0;
-    overflow: hidden;
-    margin-bottom: var(--yck-space-s-xl);
-}
-
-.yck-component .video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
+.ken-burns-image {
     width: 100%;
     height: 100%;
+    object-fit: cover;
+    animation: kenBurns 30s ease-in-out infinite alternate;
 }
 
+@keyframes kenBurns {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.3);
+    }
+}
+
+summary::marker {
+    font-size: var(--yck-step-1);
+}
+
+
+details::details-content {
+    font-size: var(--yck-step-0);
+    block-size: 0;
+    animation: FadeOutSlideUp 0.5s ease forwards;
+    transition: block-size 1s, content-visibility 1s;
+    transition-behavior: allow-discrete;
+}
+
+details[open]::details-content {
+    block-size: auto;
+    animation: FadeInSlideDown 0.5s ease forwards;
+}
+
+@keyframes FadeInSlideDown {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes FadeOutSlideUp {
+    0% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
+}
 	</style>
