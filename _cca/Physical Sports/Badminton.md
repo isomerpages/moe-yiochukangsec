@@ -382,7 +382,7 @@ details::details-content {
     font-size: var(--yck-step-0);
     block-size: 0;
     animation: FadeOutSlideUp 0.5s ease forwards;
-    transition: block-size 1s, content-visibility 1s;
+    transition: block-size 0.5s, content-visibility 0.5s;
     transition-behavior: allow-discrete;
 }
 
