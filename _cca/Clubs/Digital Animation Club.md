@@ -12,7 +12,10 @@ variant: markdown
 ---
 <div class="yck-component">
 <h2>The Digital Animation Club</h2>
-<img alt="Digital Animation Club members" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/DigitalAnimateClub.png">
+<div class="ken-burns-container">
+<img class="ken-burns-image" alt="Digital Animation Club members" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/DigitalAnimateClub.png">
+</div>
+	
 <p>Students will learn animation programs such as Crazytalk animator, Flip a clip, Capcut and keynote on their iPad as well as the technical and creative aspects of a 2D animated film to create their own animation.</p>
 	
 <p>The structured programme aims to prepare our students for infocomm-related courses in the Institutes of Higher Learning. Students participate in external competitions such as N.E.mation! and other related competitions.</p>
@@ -20,7 +23,7 @@ variant: markdown
 <p>They will use their skills to produce a short, animated video clip with 2D characters and impressive 2D creations before finalising the video in adobe Premiere pro and in Capcut. Students will learn values such as teamwork and gratitude while completing their team submission.</p>
 </div>
 
-<div class="yck-component"><div class="yck-component">
+<div class="yck-component">
     <h3>Training Schedule</h3>
     <table class="yck-table">
         <thead>
@@ -52,7 +55,7 @@ variant: markdown
             </tr>
         </tbody>
     </table>
-</div><hr>
+</div>
 <div class="yck-component">
 <h4>Events/Competitions &amp; Our Proudest Moments</h4>
 <div class="col-container">
@@ -75,16 +78,11 @@ variant: markdown
 <hr>
 <h4>Gallery</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/D2.png">
+<img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/D2.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%;height:50%" height="auto" width="100%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/D3.png">
+<img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/D3.png">
 </div>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p></p>
 
 <style>
 
@@ -351,4 +349,4 @@ variant: markdown
     height: 100%;
 }
 
-	</style></div>
+	</style>
