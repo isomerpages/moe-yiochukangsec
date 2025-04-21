@@ -10,79 +10,77 @@ description: '"Learn 2D animation with programs like CrazyTalk Animator,
 third_nav_title: Clubs
 variant: markdown
 ---
-
 <div class="yck-component">
-<img alt="Digital Animation Club members" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/DigitalAnimateClub.png">
+    <figure>
+        <img alt="Digital Animation Club members" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/DigitalAnimateClub.png">
+    </figure>
 </div>
-                            <div class="yck-component">
-                                <p>Students will learn animation programs such as Crazytalk Animator, Flip-A-Clip, Capcut and Apple's Keynote on their iPad as well as the technical and creative aspects of a 2D animated film to create their own animation.</p>
-                                <p>The structured programme aims to prepare our students for infocomm-related courses in the Institutes of Higher Learning. Students participate in external competitions such as N.E.mation! and other related competitions.</p>
-                                <p>They will use their skills to produce a short, animated video clip with 2D characters and impressive 2D creations before finalising the video in Adobe Premiere Pro and in Capcut. Students will learn values such as teamwork and gratitude while completing their team submission.</p>
-                            </div>
-                            <div class="yck-component">
-                                <h4 class="yck-h4">Training Schedule</h4>
-                                <table class="yck-table">
-                                    <thead>
-                                        <tr>
-                                            <th class="yck-th">
-                                                <h5 class="yck-h5">DAY &amp; TIME:</h5>
-                                            </th>
-                                            <th class="yck-th">
-                                                <h5 class="yck-h5">TEACHERS IN-CHARGE</h5>
-                                            </th>
-                                            <th class="yck-th">
-                                                <h5 class="yck-h5">VENUE:</h5>
-                                            </th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td class="yck-td">
-                                                <p>Every Monday &amp; Tuesday<br>3.00pm to 5.30pm</p>
-                                            </td>
-                                            <td class="yck-td">
-                                                <p>Mrs Audrey Yip (ext 140)</p>
-                                                <p>Mdm Chong Nyuk Foong (ext 135)</p>
-                                                <p>Mr Christopher Tan (ext 172)</p>
-                                            </td>
-                                            <td class="yck-td">
-                                                <p>Digital Learning Lab 1 (C4-01)<br> Block C, Level 4, Room 1</p>
-                                            </td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-                            <div class="yck-component">
-                                <h4>Events/Competitions &amp; Our Proudest Moments</h4>
-                                <div class="col-container">
-                                    <div class="column">
-                                        <h5><strong>2022</strong></h5>
-                                        <ul>
-                                            <li>Copyright School Challenge Video Competition</li>
-                                            <li>N.E.mation!</li>
-                                        </ul>
-                                    </div>
-                                    <div class="column">
-                                        <h5><strong>2019</strong></h5>
-                                        <ul>
-                                            <li>PacificLight's Crea8 Sustainability Animation Competition (1ST RUNNER-UP Upper Secondary)</li>
-                                            <li>PacificLight's Crea8 Sustainability Animation Competition (3RD PLACE Lower Secondary)</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="yck-component">
-                                <h4 class="yck-h4">Gallery</h4>
-                                <figure>
-                                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/D2.png">
-                                </figure>
-                                <figure>
-                                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/D3.png">
-                                </figure>
-                                <style>
-                                </style>
-                            </div>
-                        
+<div class="yck-component">
+    <p>Students will learn animation programs such as Crazytalk Animator, Flip-A-Clip, Capcut and Apple's Keynote on their iPad as well as the technical and creative aspects of a 2D animated film to create their own animation.</p>
+    <p>The structured programme aims to prepare our students for infocomm-related courses in the Institutes of Higher Learning. Students participate in external competitions such as N.E.mation! and other related competitions.</p>
+    <p>They will use their skills to produce a short, animated video clip with 2D characters and impressive 2D creations before finalising the video in Adobe Premiere Pro and in Capcut. Students will learn values such as teamwork and gratitude while completing their team submission.</p>
+</div>
+<div class="yck-component">
+    <h4 class="yck-h4">Training Schedule</h4>
+    <table class="yck-table">
+        <thead>
+            <tr>
+                <th class="yck-th">
+                    <h5 class="yck-h5">DAY &amp; TIME:</h5>
+                </th>
+                <th class="yck-th">
+                    <h5 class="yck-h5">TEACHERS IN-CHARGE</h5>
+                </th>
+                <th class="yck-th">
+                    <h5 class="yck-h5">VENUE:</h5>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="yck-td">
+                    <p>Every Monday &amp; Tuesday<br>3.00pm to 5.30pm</p>
+                </td>
+                <td class="yck-td">
+                    <p>Mrs Audrey Yip (ext 140)</p>
+                    <p>Mdm Chong Nyuk Foong (ext 135)</p>
+                    <p>Mr Christopher Tan (ext 172)</p>
+                </td>
+                <td class="yck-td">
+                    <p>Digital Learning Lab 1 (C4-01)<br> Block C, Level 4, Room 1</p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<div class="yck-component">
+    <h4>Events/Competitions &amp; Our Proudest Moments</h4>
+    <div class="col-container">
+        <div class="column">
+            <h5><strong>2022</strong></h5>
+            <ul>
+                <li>Copyright School Challenge Video Competition</li>
+                <li>N.E.mation!</li>
+            </ul>
+        </div>
+        <div class="column">
+            <h5><strong>2019</strong></h5>
+            <ul>
+                <li>PacificLight's Crea8 Sustainability Animation Competition (1ST RUNNER-UP Upper Secondary)</li>
+                <li>PacificLight's Crea8 Sustainability Animation Competition (3RD PLACE Lower Secondary)</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="yck-component">
+    <h4 class="yck-h4">Gallery</h4>
+    <figure>
+        <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/D2.png">
+    </figure>
+    <figure>
+        <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/D3.png">
+    </figure>
+</div>
 
 <style>
 :root {
@@ -345,4 +343,4 @@ details[open]::details-content {
         scroll-behavior: auto !important;
     }
 }
-	</style>
+</style>
