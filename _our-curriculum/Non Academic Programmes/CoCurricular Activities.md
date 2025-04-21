@@ -20,8 +20,8 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> 
-<a href="/cca/Clubs/Digital-Animation-Club/" target="\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/CA1.png"></a><br>
-	<a href="/cca/Clubs/Media-Club-Audio-Visual-Photography-Videography/" target="\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/CA2.png"></a><br>
+<a href="https://www.yiochukangsec.moe.edu.sg/cca/clubs/digital-animation-club/"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/CA1.png"></a><br>
+	<a href="/cca/Clubs/Media-Club-Audio-Visual-Photography-Videography/"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/CA2.png"></a><br>
 	<a href="/cca/Clubs/MARS-CLUB-MECHATRONICS-AERONAUTICS-AND-ROBOTICS/" target="\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/CA3.png"></a>
 </p>
 
