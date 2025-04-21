@@ -39,15 +39,15 @@ variant: markdown
         <tbody>
             <tr>
                 <td class="yck-td">
-                    <p>Every Tuesday &amp; Thursday<br>3.00pm to 5.30pm</p>
+                    <p>Every Monday &amp; Tuesday<br>3.00pm to 5.30pm</p>
                 </td>
                 <td class="yck-td">
-                    <p>Mr Wee Daiqi (ext 217)</p>
-                    <p>Mr Foo Sian Kok, Simon (ext 142)</p>
-                    <p>Mdm Connie Yeo (ext 124)</p>
+                    <p>Mrs Audrey Yip (ext 140)</p>
+                    <p>Mdm Chong Nyuk Foong (ext 135)</p>
+                    <p>Mr Christopher Tan (ext 172)</p>
                 </td>
                 <td class="yck-td">
-                    <p>The Technosphere. <br> Block B, Level 3</p>
+                    <p>Digital Learning Lab 1 (C4-01)<br> Block C, Level 4, Room 1</p>
                 </td>
             </tr>
         </tbody>
