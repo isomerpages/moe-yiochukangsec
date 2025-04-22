@@ -1,9 +1,13 @@
 ---
 title: MARS Club (Mechatronics, Aeronautics and Robotics)
-permalink: /cca/Clubs/MARS-CLUB-MECHATRONICS-AERONAUTICS-AND-ROBOTICS/
-description: ""
+permalink: /cca/clubs/mars-club-mechatronics-aeronautics-and-robotics/
+description: MARS Club 2025 – Where future innovators thrive. Dive into
+  robotics, aeronautics, and engineering to develop real-world STEM skills,
+  critical thinking, and collaborative problem-solving for tomorrow’s
+  challenges.
 third_nav_title: Clubs
 variant: markdown
+image: /images/YCKLogo.svg
 ---
 <div class="yck-component">
     <h2>MARS Club at Yio Chu Kang Secondary School</h2>

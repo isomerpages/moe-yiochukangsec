@@ -80,7 +80,7 @@ third_nav_title: Physical Sports
 
 <div class="yck-component">
     <details>
-        <summary class="yck-h5">Appointments:</summary>
+        <summary class="yck-h4">Appointments:</summary>
         <div class="isomer-card">
             <ul>
                 <li>Sec 4 Captain Girls: Nuryn' Insyierah Binte Nur'asri</li>
@@ -91,8 +91,8 @@ third_nav_title: Physical Sports
                 <li>Sec 3 Vice-captain Girls: Chua Yu Hwee, Tricia</li>
                 <li>Sec 3 Captain Boys: Ryan Eng Rui Young</li>
                 <li>Sec 3 Vice-captain Boys: Nyan Lin Myat</li>
-                <li>Sec 2 Captain Girls: pending appointment</li>
-                <li>Sec 2 Vice-captain Girls: pending appointment</li>
+							<li>Sec 2 Captain Girls: <i>pending appointment</i></li>
+							<li>Sec 2 Vice-captain Girls: <i>pending appointment</i></li>
             </ul>
         </div>
     </details>
@@ -104,28 +104,28 @@ third_nav_title: Physical Sports
         <div class="column">
             <h4 class="yck-h4">Proudest Moments</h4>
             <ul>
-                <li><b>2019</b><br>'C' Division Girls Top 8 North Zone Badminton Championships</li>
+                <li><span class="yck-h5">2019</span><br>'C' Division Girls Top 8 North Zone Badminton Championships</li>
             </ul>
             <ul>
-                <li><b>2018</b><br>'B' Division Girls Top 8 North Zone Badminton Championships</li>
+                <li><span class="yck-h5">2018</span><br>'B' Division Girls Top 8 North Zone Badminton Championships</li>
             </ul>
             <ul>
-                <li><b>2017</b><br>'B' Division Girl's First runners-up South Zone Badminton Championships</li>
+                <li><span class="yck-h5">2017</span><br>'B' Division Girl's First runners-up South Zone Badminton Championships</li>
             </ul>
             <ul>
-                <li><b>2016</b><br>4th position South Zone Badminton Championships</li>
+							<li><span class="yck-h5">2016</span><br>4th position South Zone Badminton Championships</li>
             </ul>
         </div>
         <div class="column">
             <h4 class="yck-h4">Events/Competitions</h4>
             <ul>
-                <li><b>2020</b><br>Nil</li>
+                <li><span class="yck-h5">2020</span><br>Nil</li>
             </ul>
             <ul>
-                <li><b>2019</b><br>'C' Division Girls Top 8 North Zone Badminton Championships</li>
+                <li><span class="yck-h5">2019</span><br>'C' Division Girls Top 8 North Zone Badminton Championships</li>
             </ul>
             <ul>
-                <li><b>2018</b><br>'B' Division Girls Top 8 North Zone Badminton Championships</li>
+                <li><span class="yck-h5">2018</span><br>'B' Division Girls Top 8 North Zone Badminton Championships</li>
             </ul>
         </div>
     </div>
@@ -165,26 +165,62 @@ third_nav_title: Physical Sports
     margin-bottom: var(--yck-space-s-xl);
 }
 
+.yck-component h1,
+.yck-component h2,
+.yck-component h3,
 .yck-component h4,
 .yck-component h5,
+.yck-component h6,
 .yck-component p {
     overflow-wrap: break-word;
 }
 
+.yck-component h1,
+.yck-component h2,
+.yck-component h3,
 .yck-component h4,
-.yck-component h5 {
+.yck-component h5,
+.yck-component h6 {
     text-wrap: balance;
 }
 
 .yck-component p,
+.yck-component ol,
 .yck-component ul {
     text-wrap: pretty;
     margin-bottom: var(--yck-space-s-xl);
 }
 
 .yck-component p:last-child,
-.yck-component ul li:last-child {
+.yck-component ul li:last-child,
+.yck-component ol li:last-child {
     margin-bottom: calc(var(--yck-spacing-unit)*2);
+}
+
+.yck-component .yck-h1,
+.yck-component h1 {
+    font-size: var(--yck-step-5);
+    margin-bottom: var(--yck-space-s-xl);
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
+
+.yck-component .yck-h2,
+.yck-component h2 {
+    font-size: var(--yck-step-4);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.6);
+    text-transform: capitalize;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
+
+.yck-component .yck-h3,
+.yck-component h3 {
+    font-size: var(--yck-step-3);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+    text-transform: capitalize;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
 .yck-component .yck-h4,
@@ -200,6 +236,15 @@ third_nav_title: Physical Sports
 .yck-component h5 {
     font-size: var(--yck-step-1);
     margin-bottom: calc(var(--yck-spacing-unit) * 0.1);
+    text-transform: uppercase;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
+
+.yck-component .yck-h6,
+.yck-component h6 {
+    font-size: var(--yck-step-0);
+    margin-bottom: var(--yck-spacing-unit);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -366,6 +411,11 @@ details * {
     margin: 0 !important;
 }
 
+details ul li {
+    margin-inline-start: 1.5rem !important;
+    padding-block: calc(var(--yck-spacing-unit) * 0.5);
+}
+
 summary {
     margin-inline-start: 1.5rem !important;
     list-style-position: outside;
@@ -402,11 +452,11 @@ details[open]::details-content {
 }
 
 @keyframes FadeOutSlideUp {
-    0% {
+    100% {
         opacity: 1;
     }
 
-    100% {
+    0% {
         opacity: 0;
     }
 }
@@ -418,6 +468,5 @@ details[open]::details-content {
         transition-duration: 0.01ms !important;
         scroll-behavior: auto !important;
     }
-}	
-	
+}
 </style>
