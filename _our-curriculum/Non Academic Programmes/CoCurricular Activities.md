@@ -15,8 +15,8 @@ variant: markdown
                 <summary>Clubs</summary>
                 <ul>
                     <li><a href="/cca/clubs/digital-animation-club/">Digital Animation Club</a></li>
-                    <li><a href="/cca/Clubs/Media-Club-Audio-Visual-Photography-Videography/">Media Club</a></li>
-                    <li><a href="/cca/Clubs/MARS-CLUB-MECHATRONICS-AERONAUTICS-AND-ROBOTICS/">MARs Club</a></li>
+                    <li><a href="/cca/clubs/media-club-audio-visual-photography-videography/">Media Club</a></li>
+                    <li><a href="/cca/clubs/mars-club-mechatronics-aeronautics-and-robotics/">MARs Club</a></li>
                 </ul>
             </details>
         </div>
