@@ -8,120 +8,119 @@ third_nav_title: Clubs
 variant: markdown
 image: /images/YCKLogo.svg
 ---
-![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Media%20Club/M1.jpg)
+<div class="yck-component">
+                                <div class="ken-burns-container">
+                                    <img class="ken-burns-image" alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Media%20Club/M1.jpg">
+                                </div>
+                                <p>
+                                    The Media Club aim to excite students about infocomm in a fun and meaningful way
+                                    by helping them to learn new infocomm skills and to cultivate leadership
+                                    capabilities.
+                                </p>
+                            </div>
+                            <div class="yck-component">
+                                <h3 class="yck-h3">Media Club - AV &amp; Videography</h3>
+                                <p>
+                                    We offer students a hands-on experience in AV &amp; Videography. Students learn to
+                                    operate various professional equipment and tools and are encouraged to explore
+                                    and exercise their creativity. They are given opportunities to stretch their
+                                    imagination and tell compelling stories through video-making.</p>
+                                <p>We have a comprehensive programme to build their foundation in the artistic and technical
+                                    aspects of Videography. To create an authentic experience, students are involved
+                                    in planning and executing the media coverage of large scale school events such
+                                    as our school's Speech Day, MOE Singapore-Hong Kong School Exchange, N6 Cluster
+                                    Media and Design Festival.
+                                </p>
+                                <h3 class="yck-h3">Media Club - Photography</h3>
+                                <p>
+                                    Our photography programme offers students structured training that equips them
+                                    with technical knowledge and skills in photography. Students are given
+                                    opportunities to exercise their artistic talent to capture photos based on
+                                    specific themes, guided by our experience instructor. The team also serves the
+                                    school events.
+                                </p>
+                            </div>
+                            <div class="yck-component">
+                                <h4 class="yck-h4">Training Schedule</h4>
+                                <table class="yck-table">
+                                    <thead>
+                                        <tr>
+                                            <th class="yck-th">
+                                                <h5 class="yck-h5">DAY &amp; TIME:</h5>
+                                            </th>
+                                            <th class="yck-th">
+                                                <h5 class="yck-h5">TEACHERS IN-CHARGE:</h5>
+                                            </th>
+                                            <th class="yck-th">
+                                                <h5 class="yck-h5">VENUE:</h5>
+                                            </th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td class="yck-td">
+                                                <p>Every Tuesday &amp; Thursday<br>3.00pm to 5.30pm</p>
+                                            </td>
+                                            <td class="yck-td">
+                                                <p>Mr Ng Mang Chung (ext 143)</p>
+                                                <p>Mr Brandon Chin (ext 136)</p>
+                                                <p>Mdm Doreen Ng (ext 134)</p>
+                                                <p>Ms Xu Xiaohong (ext 174)</p>
+                                                <p>Mr Yip Seng Yiam (ext 125)</p>
+                                            </td>
+                                            <td class="yck-td">
+                                                <p>EBS Lab/ Hall Gallery</p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        
+												<div class="yck-component">
+                            <h4 class="yck-h4">Events/Competitions&nbsp;&amp;&nbsp;Our&nbsp;Proudest&nbsp;Moments</h4>
+                            <h5 class="yck-h5">2022</h5>
+                            <div class="isomer-card-grid">
+                                <div class="isomer-card">
+                                    <div class="isomer-card-body">
+                                        <div class="isomer-card-title">Beacon of Light Photo-essay</div>
+                                        <div class="isomer-card-description">by Xin Lei Jiang</div>
+                                    </div>
+                                </div>
+                                <div class="isomer-card">
+                                    <div class="isomer-card-body">
+                                        <div class="isomer-card-title">The 20th National Secondary School Chinese Creative Writing with Photography</div>
+                                        <div class="isomer-card-description">by Singapore Hokkien Huay Kuan, Singapore Literature Society, Nan Chiau High School and Zaobao</div>
+                                    </div>
+                                </div>
+                                <div class="isomer-card">
+                                    <div class="isomer-card-body">
+                                        <div class="isomer-card-title">SYFgoesOnline! Pixel Perfect (GRATITUDE IN LIFE) by MOE</div>
+                                        <div class="isomer-card-description">showcasing Kayla Wong Eu Tung's video</div>
+                                    </div>
+                                </div>
+                                <div class="isomer-card">
+                                    <div class="isomer-card-body">
+                                        <div class="isomer-card-title">"Our Schools, Our Stories" Photo &amp; Video Contest by MOE</div>
+                                        <div class="isomer-card-description">
+                                            Best Video Award – "What I Go To School For"<br>
+                                            by Yet Yan Shen, Derrick See Kar Xun and Neo Jun Yuan<br><br>
+                                            Best Photo Story Award – "Our School Community"<br>
+                                            by Wirdatul Marsya Binte Mohammad Fazuli, Siti Nurasyirah Binte Mohammad Hery and Sukainah Binte Mohammad Fahrur Razi
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
 
-The Media Club aim to excite students about infocomm in a fun and meaningful way by helping them to learn new infocomm skills and to cultivate leadership capabilities.
-
-### **Media Club - AV &amp; Videography**
-
-We offer students a hands-on experience in AV &amp; Videography. Students learn to operate various professional equipment and tools and are encouraged to explore and exercise their creativity. They are given opportunities to stretch their imagination and tell compelling stories through video-making. We have a comprehensive programme to build their foundation in the artistic and technical aspects of Videography. To create an authentic experience, students are involved in planning and executing the media coverage of large scale school events such as our school's Speech Day, MOE Singapore-Hong Kong School Exchange, N6 Cluster Media and Design Festival.
-
-### **Media Club - Photography**
-
-Our photography programme offers students structured training that equips them with technical knowledge and skills in photography. Students are given opportunities to exercise their artistic talent to capture photos based on specific themes, guided by our experience instructor. The team also serves the school events.
 
 
-<ul class="jekyllcodex_accordion">
-
-&nbsp;&nbsp;<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Training&nbsp;Schedule</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-<p> <b>The Media Club (Audio-Visual, Photography &amp; Videography)</b><br>
-			<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ozs2{background-color:#F1F1F1;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-70mf{background-color:#FFF;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-jikt{background-color:#F1F1F1;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-70mf">Teachers-in-charge</th>
-    <th class="tg-70mf">Committee Members</th>
-    <th class="tg-70mf">Training Information</th>
+    <th class="tg-0lax">2021</th>
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-jikt">Mr Ng Mang Chung (ext 143)<br>Mr Brandon Chin (ext 136)<br>Mdm Doreen Ng (ext 134)<br>Ms Xu Xiaohong (ext 174)<br>Mr Yip Seng Yiam (ext 125)<br></td>
-    <td class="tg-ozs2"><span style="font-weight:bolder">President</span><br>Lee En Ting, Charlene<br><span style="font-weight:bolder">Vice-President</span><br>Ngan Kwan Teng n</td>
-    <td class="tg-ozs2"><span style="font-weight:bolder">Every Tuesday &amp; Thursday</span><br>3.00pm to 5.30pm<br><span style="font-weight:bolder">Venue :</span> EBS Lab/ Hall Gallery</td>
-  </tr>
-</tbody>
-</table>
-			</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-	<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Events/Competitions&nbsp;&amp;&nbsp;Our&nbsp;Proudest&nbsp;Moments</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0lax">2022</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">Beacon of Light Photo-essay</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">- by Xin Lei Jiang</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">The 20th National Secondary School Chinese Creative Writing with Photography</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">- by Singapore Hokkien Huay Kuan, Singapore Literature Society, Nan Chiau High School and Zaobao</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">SYFgoesOnline! Pixel Perfect (GRATITUDE IN LIFE) by MOE</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">- showcasing Kayla Wong Eu Tung's video</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">"Our Schools, Our Stories" Photo &amp; Video Contest by MOE with the:</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Best Video Award – “What I Go To School For”</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">- by Yet Yan Shen, Derrick See Kar Xun and Neo Jun Yuan</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Best Photo Story Award – “Our School Community”</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">- by Wirdatul Marsya Binte Mohammad Fazuli, Siti Nurasyirah Binte Mohammad Hery and Sukainah Binte Mohammad Fahrur Razi</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">2021</td>
-  </tr>
   <tr>
     <td class="tg-0lax">Lions Home Video Competition</td>
   </tr>
@@ -163,11 +162,7 @@ Our photography programme offers students structured training that equips them w
   </tr>
 </tbody>
 </table> 
-			</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
 	
 <li>
 
@@ -189,7 +184,7 @@ Our photography programme offers students structured training that equips them w
 	
 
 	
-</ul>
+
 
 <style>
 :root {
