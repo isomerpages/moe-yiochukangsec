@@ -26,7 +26,6 @@ image: /images/YCKLogo.svg
     <h3>Recent Achievements</h3>
     <p>We are proud to have clinched the <strong>IDE Series 2024 Robotics Competition</strong> and regularly participate in prestigious events like the <strong>National Robotics Competition</strong> and other STEM-focused initiatives.</p>
 </div>
-
 <div class="yck-component">
     <h3>Training Schedule</h3>
     <table class="yck-table">
@@ -60,55 +59,47 @@ image: /images/YCKLogo.svg
         </tbody>
     </table>
 </div>
-
-
-
 <div class="yck-component">
-	<h4 class="yck-h4">Proudest Moments</h4>
-<table class="yck-table">
-  <thead>
-    <tr>
-      <th class="yck-th">YEAR</th>
-      <th class="yck-th">Events, Competitions and Moments</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-			<td class="yck-td"><strong>2024</strong></td>
-      <td class="yck-td">FIRST LEGO League Challenge</td>
-    </tr>
-    <tr>
-      <td class="yck-td"></td>
-      <td class="yck-td">IDE Series (Achieved Top 10 in the final round)</td>
-    </tr>
-    <tr>
-      <td class="yck-td"></td>
-      <td class="yck-td">Swift Explorers: App Design Challenge: Two prototypes of health and wellness apps were created</td>
-    </tr>
-    <tr>
-      <td class="yck-td"></td>
-      <td class="yck-td">National Robotics Competition</td>
-    </tr>
-    <tr>
-      <td class="yck-td"></td>
-      <td class="yck-td">National Youth Tech Championship</td>
-    </tr>
-  </tbody>
-</table>
+    <h4 class="yck-h4">Proudest Moments</h4>
+    <table class="yck-table">
+        <thead>
+            <tr>
+                <th class="yck-th">YEAR</th>
+                <th class="yck-th">Events, Competitions and Moments</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="yck-td"><strong>2024</strong></td>
+                <td class="yck-td">FIRST LEGO League Challenge</td>
+            </tr>
+            <tr>
+                <td class="yck-td"></td>
+                <td class="yck-td">IDE Series (Achieved Top 10 in the final round)</td>
+            </tr>
+            <tr>
+                <td class="yck-td"></td>
+                <td class="yck-td">Swift Explorers: App Design Challenge: Two prototypes of health and wellness apps were created</td>
+            </tr>
+            <tr>
+                <td class="yck-td"></td>
+                <td class="yck-td">National Robotics Competition</td>
+            </tr>
+            <tr>
+                <td class="yck-td"></td>
+                <td class="yck-td">National Youth Tech Championship</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<div class="yck-component">
+    <h4>Gallery</h4>
+    <div class="video-container">
+        <iframe allowfullscreen="true" height="1109" width="1920" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQyJb1hB5yypUUYoP0OirNImAFtVsK9L1kO0-9kJLuGkagSZATXgenAce91lpXFCg/pubembed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+    </div>
 </div>
 
-<div class="yck-component">
-	<h4>Gallery</h4>
-<div class="video-container">
-	<iframe allowfullscreen="true" height="1109" width="1920" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQyJb1hB5yypUUYoP0OirNImAFtVsK9L1kO0-9kJLuGkagSZATXgenAce91lpXFCg/pubembed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
-	</div>
-	</div>
-
-
-
-
 <style>
-	
 :root {
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
@@ -322,5 +313,4 @@ details[open]::details-content {
         scroll-behavior: auto !important;
     }
 }
-
-	</style>
+</style>
