@@ -76,7 +76,7 @@ image: /images/YCKLogo.svg
                                 </table>
                             </div>
                         
-												<div class="yck-component">
+<div class="yck-component">
                             <h4 class="yck-h4">Events/Competitions&nbsp;&amp;&nbsp;Our&nbsp;Proudest&nbsp;Moments</h4>
                             <h5 class="yck-h5">2022</h5>
                             <div class="isomer-card-grid">
@@ -164,43 +164,26 @@ image: /images/YCKLogo.svg
 </table> 
 
 	
-<li>
+<h3>Gallery</h3>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
+<div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Gallery</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-<p>   
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Media%20Club/M2.png">
 			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Media%20Club/M3.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Media%20Club/M4.png"></p>
+			<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Media%20Club/M4.png">
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
-</li>
-	
-	
 
 	
-
-
 <style>
 :root {
-    --yck-color-text-light: #888;
-    --yck-color-border: #e0e0e0;
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
-    --yck-content-width: 100%;
-    --yck-transition-speed: 0.8s;
-    --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
     --yck-spacing-unit: 1em;
-    --yck-border-radius: 4px;
-    --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-
-    /* @link https://utopia.fyi/type/calculator?c=320,18,1.125,1240,18,1.2,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
+    --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+    --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
 
     --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
     --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
@@ -211,60 +194,44 @@ image: /images/YCKLogo.svg
     --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
-    --yck-space-s-l: clamp(0.85rem, 0.7337rem + 1.9565vw, 2.5rem);
+    --yck-space-s-xl: clamp(0.75rem, 0.2143rem + 3.9286vw, 3.75rem);
+    interpolate-size: allow-keywords;
 }
-
 
 .yck-component {
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
     font-size: var(--yck-step-0);
-    list-style: none;
+    margin-bottom: var(--yck-space-s-xl);
 }
 
-.yck-component h1,
-.yck-component h2,
 .yck-component h3,
 .yck-component h4,
 .yck-component h5,
-.yck-component h6,
 .yck-component p {
     overflow-wrap: break-word;
 }
 
-.yck-component p {
-    text-wrap: pretty;
-}
-
-.yck-component h1,
-.yck-component h2,
 .yck-component h3,
 .yck-component h4,
-.yck-component h5,
-.yck-component h6 {
+.yck-component h5 {
     text-wrap: balance;
 }
 
-.yck-component .yck-h1,
-.yck-component h1 {
-    font-size: var(--yck-step-5);
-    margin-bottom: var(--yck-space-s-l);
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
+.yck-component p {
+    text-wrap: pretty;
+    margin-bottom: var(--yck-space-s-xl);
 }
 
-.yck-component .yck-h2,
-.yck-component h2 {
-    font-size: var(--yck-step-4);
-    margin-bottom: calc(var(--yck-space-s-l) * 0.8); 
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
+.yck-component p:last-child {
+    margin-bottom: calc(var(--yck-spacing-unit)*2);
 }
 
 .yck-component .yck-h3,
 .yck-component h3 {
     font-size: var(--yck-step-3);
-    margin-bottom: calc(var(--yck-space-s-l) * 0.6);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+    text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -272,8 +239,8 @@ image: /images/YCKLogo.svg
 .yck-component .yck-h4,
 .yck-component h4 {
     font-size: var(--yck-step-2);
-    margin-bottom: calc(var(--yck-space-s-l) * 0.4);
-    text-transform: titlecase;
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.3);
+    text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -281,76 +248,155 @@ image: /images/YCKLogo.svg
 .yck-component .yck-h5,
 .yck-component h5 {
     font-size: var(--yck-step-1);
-    margin-bottom: calc(var(--yck-space-s-l) * 0.2);
-    text-transform: uppercase;
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
-}
-
-.yck-component .yck-h6,
-.yck-component h6 {
-    font-size: var(--yck-step-0);
     margin-bottom: calc(var(--yck-spacing-unit) * 0.1);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.yck-component .yck-text-small {
-    font-size: var(--yck-step--1);
-    margin-bottom: calc(var(--yck-space-s-l) * 0.1);
-}
-
-.yck-component .yck-text-xs {
-    font-size: var(--yck-step--2);
-    margin-bottom: calc(var(--yck-space-s-l) * 0.1);
-}
-
-.yck-component ol,
-.yck-component p,
-.yck-component ul {
-    font-size: var(--yck-step-0);
-    margin-bottom: var(--yck-spacing-unit);
-    text-wrap: pretty;
-}
 .yck-component .yck-table {
     border-collapse: collapse;
     max-width: 100%;
-    margin-top: 1.6em;
+    margin-top: 0.5em;
     margin-bottom: var(--yck-spacing-unit);
-    font-size: var(--yck-step-0);
+
 }
 
 .yck-component .yck-th {
     background-color: #f2f2f2;
     text-align: left;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px dotted #ddd;
     text-transform: uppercase;
 }
 
-.yck-component .yck-th h4,
-.yck-component .yck-th h5,
-.yck-component .yck-th h6 {
+.yck-component .yck-th h5 {
     margin: 0 0 0.5em;
 }
 
 .yck-component .yck-td {
-    border-bottom: 1px solid #ddd;
-    max-width: 300px;
+    border-bottom: 1px dotted #ddd;
+    min-width: 120px;
+    max-width: 100%;
     word-wrap: break-word;
-    line-height: 1.6rem;
+    text-wrap: pretty;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
-  }
-
-.yck-component .yck-table tbody .yck-td p {
-    margin-block: 0;
-    padding-bottom: 0.5em;
 }
-    
- .yck-component .yck-table tbody .yck-td p:last-child {
-     padding-bottom: 1.5em;
- }
-	
+
+.yck-component .yck-table tbody .yck-td,
+.yck-component .yck-table tbody .yck-td p {
+    margin-top: 0;
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+    line-height: 1.5rem;
+    padding-bottom: 0.25em;
+    font-size: var(--yck-step-0);
+}
+
+/* Apply margin-bottom only when it is the last table-date in the row or contains the last paragraph */
+.yck-component .yck-table tbody tr:last-child .yck-td:last-child,
+.yck-component .yck-table tbody tr:last-child .yck-td:last-child p:last-child {
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component .isomer-card {
+    break-inside: avoid;
+    /* Prevents content from breaking across columns */
+    page-break-inside: avoid;
+    /* For older browsers */
+    padding: 20px;
+/*     margin-block:  calc(var(--yck-spacing-unit)*0.5); */
+    border-radius: 5px;
+    box-shadow: var(--yck-box-shadow);
+}
+
+/* Apply the animation on hover */
+
+/* Revert the animation when not hovering */
+.yck-component .column ul li:not(:hover) {
+    animation: fadeOut 1s forwards;
+}
+
+/* Define the keyframes for the fade-in effect */
+
+/* Define the keyframes for the fade-out effect */
+@keyframes fadeOut {
+    from {
+        border-bottom: 1px solid #e37f2a;
+    }
+
+    to {
+        border-bottom: 1px solid #FFF;
+    }
+}
+
+.ken-burns-container {
+    max-width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.ken-burns-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    animation: kenBurns 30s ease-in-out infinite alternate;
+}
+
+@keyframes kenBurns {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.3);
+    }
+}
+
+summary::marker {
+    font-size: var(--yck-step-1);
+}
+
+
+details::details-content {
+    font-size: var(--yck-step-0);
+    block-size: 0;
+    animation: FadeOutSlideUp 0.5s ease forwards;
+    transition: block-size 0.5s, content-visibility 0.5s;
+    transition-behavior: allow-discrete;
+}
+
+details[open]::details-content {
+    block-size: auto;
+    animation: FadeInSlideDown 0.5s ease forwards;
+}
+
+@keyframes FadeInSlideDown {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes FadeOutSlideUp {
+    100% {
+        opacity: 1;
+    }
+
+    0% {
+        opacity: 0;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
+}
 	
 	</style>
