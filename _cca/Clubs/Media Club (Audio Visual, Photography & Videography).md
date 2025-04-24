@@ -40,7 +40,8 @@ image: /images/YCKLogo.svg
                                     school events.
                                 </p>
                             </div>
-                            <div class="yck-component">
+														
+<div class="yck-component">
                                 <h4 class="yck-h4">Training Schedule</h4>
                                 <table class="yck-table">
                                     <thead>
