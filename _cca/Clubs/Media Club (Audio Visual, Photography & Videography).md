@@ -110,6 +110,8 @@ image: /images/YCKLogo.svg
         </div>
     </div>
 </div>
+
+<div>
 <table class="tg">
     <thead>
         <tr>
@@ -158,6 +160,8 @@ image: /images/YCKLogo.svg
         </tr>
     </tbody>
 </table>
+</div>
+
 <h3>Gallery</h3>
 <div>
     <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Media%20Club/M2.png">
