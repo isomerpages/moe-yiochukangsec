@@ -62,24 +62,19 @@ image: /images/YCKLogo.svg
 </div>
 
 
-<ul class="jekyllcodex_accordion">
 
-&nbsp;&nbsp;
-	<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1"><h4>Events/Competitions&nbsp;&amp;&nbsp;Our&nbsp;Proudest&nbsp;Moments</h4></label>
+<div class="yck-component">
+	<h4 class="yck-h4">Proudest Moments</h4>
 <table class="yck-table">
   <thead>
     <tr>
-      <th class="yck-th h5">YEAR</th>
-      <th class="yck-th h5">Events, Competitions and Moments</th>
+      <th class="yck-th">YEAR</th>
+      <th class="yck-th">Events, Competitions and Moments</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td class="yck-td">2024</td>
+			<td class="yck-td"><strong>2024</strong></td>
       <td class="yck-td">FIRST LEGO League Challenge</td>
     </tr>
     <tr>
@@ -100,28 +95,16 @@ image: /images/YCKLogo.svg
     </tr>
   </tbody>
 </table>
+</div>
+
+<div class="yck-component">
+	<h4>Gallery</h4>
+<div class="video-container">
+	<iframe allowfullscreen="true" height="1109" width="1920" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQyJb1hB5yypUUYoP0OirNImAFtVsK9L1kO0-9kJLuGkagSZATXgenAce91lpXFCg/pubembed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+	</div>
+	</div>
 
 
-</li>
-	
-<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2"><h4>Gallery</h4></label>
-
-
-<div> 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/MARs%20Club/M2.png"></div>
-<div><img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/MARs%20Club/M3.png"></div>
-
-
-</li>
-	
-	
-
-	
-</ul>
 
 
 <style>
