@@ -126,6 +126,40 @@ image: /images/YCKLogo.svg
         </div>
     </div>
 </div>
+<div class="yck-component">
+    <div class="yck-flexbox-grid">
+        <div class="column">
+            <h5><strong>2021</strong></h5>
+            <ul>
+                <li>Lions Home Video Competition</li>
+            </ul>
+        </div>
+        <div class="column">
+            <h5><strong>2020</strong></h5>
+            <ul>
+                <li>Safety Starts with Me Competition (WSH)</li>
+                <li>Public Utilities Board (PUB) Annual Photography Competition</li>
+            </ul>
+        </div>
+        <div class="column">
+            <h5><strong>2019</strong></h5>
+            <ul>
+                <li>National Kidney Foundation National Photography Competition (First Prize)</li>
+                <li>PCNB DrugFreeSg Video Competition Participation (National level)</li>
+                <li>Urban Redevelopment Authority (URA) Public Photography Exhibition showcasing the development of Kampong Glam</li>
+            </ul>
+        </div>
+        <div class="column">
+            <h5><strong>2018</strong></h5>
+            <ul>
+                <li>第十一届全国中学及初院华语短片制作赛 Participation (National Level)</li>
+                <li>CNB Anti Drug Video Competition Participation (National Level)</li>
+                <li>Event coverage for SYF celebrations at Esplanade</li>
+                <li>Khoo Teck Puat (Yishun Community Hospital) Opening Launch with Photography Exhibition</li>
+            </ul>
+        </div>
+    </div>
+</div>
 
 <style>
 :root {
@@ -174,12 +208,14 @@ image: /images/YCKLogo.svg
     text-decoration: none;
 }
 
-.yck-component p {
+.yck-component p,
+.yck-component ul {
     text-wrap: pretty;
     margin-bottom: var(--yck-space-s-xl);
 }
 
-.yck-component p:last-child {
+.yck-component p:last-child,
+.yck-component ul li:last-child {
     margin-bottom: calc(var(--yck-spacing-unit) * 2);
 }
 
@@ -253,7 +289,8 @@ image: /images/YCKLogo.svg
     margin-bottom: var(--yck-spacing-unit);
 }
 
-.yck-component .isomer-card {
+.yck-component .isomer-card,
+.yck-component .column {
     break-inside: avoid;
     /* Prevents content from breaking across columns */
     page-break-inside: avoid;
@@ -264,7 +301,25 @@ image: /images/YCKLogo.svg
     box-shadow: var(--yck-box-shadow);
 }
 
+.yck-component .column {
+    margin-bottom: var(--yck-spacing-unit) !important;
+}
+
+.yck-component .column ul {
+    list-style: none;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0;
+}
+
+.yck-component .column ul li {
+    margin-left: 1rem;
+}
+
 /* Apply the animation on hover */
+.yck-component .column ul li:hover {
+    animation: fadeIn 1.5s forwards;
+}
 
 /* Revert the animation when not hovering */
 .yck-component .column ul li:not(:hover) {
@@ -272,6 +327,15 @@ image: /images/YCKLogo.svg
 }
 
 /* Define the keyframes for the fade-in effect */
+@keyframes fadeIn {
+    from {
+        border-bottom: 1px solid #fff;
+    }
+
+    to {
+        border-bottom: 1px solid #e37f2a;
+    }
+}
 
 /* Define the keyframes for the fade-out effect */
 @keyframes fadeOut {
@@ -369,38 +433,36 @@ details[open]::details-content {
     }
 }
 
-/* Enhanced `:not()` accepts a selector list,
-but as a fallback you can chain `:not()` instead */
-
-.yck-flexbox-grid .isomer-card {
+.yck-component .yck-flexbox-grid .isomer-card {
     text-decoration: none;
     margin: 0 auto;
     padding: 0;
 }
 
 
-.yck-flexbox-grid .isomer-card .isomer-card-body {
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body {
     padding: var(--yck-spacing-unit);
 }
 
-.yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title {
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title {
     color: #4a4a4a;
     font-weight: 700;
     font-size: var(--yck-step-1);
 }
 
-.yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-description {
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-description {
     color: #484848;
-    /*     font-size: 1rem; */
+/*     font-size: 1rem; */
     font-size: var(--yck-step-0);
 }
 
-.yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-description) {
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-description) {
     margin-bottom: 0.75rem
 }
 
-.yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-link),
-.yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-description:has(+.isomer-card-link) {
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-link),
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-description:has(+.isomer-card-link) {
     margin-bottom: 1.5rem
 }
+
 </style>
