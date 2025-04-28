@@ -119,6 +119,9 @@ variant: markdown
     </div>
     <hr>
     <h2 class="yck-h2">Gallery</h2>
+	 <div class="video-container">
+        <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/eMlGkZWOsdo?si=zCeTwQJFVg0QFxdH" height="315" width="560"></iframe>
+    </div>
     <div class="video-container">
         <iframe src="https://www.youtube.com/embed/TYoE4UY1WXo" title="Choir performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
     </div>
