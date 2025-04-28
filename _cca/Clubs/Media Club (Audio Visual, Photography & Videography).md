@@ -162,6 +162,12 @@ image: /images/YCKLogo.svg
     </div>
 </div>
 
+<div class="yck-component">
+	<h4 class="yck-h4">Gallery</h4>
+	<div class="video-container">
+	<iframe allowfullscreen="true" height="1109" width="1920" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSd65iy4zB-w3EcGG7aA0VK16WwtLioqL8foMp02Y5e2ERzklmGG79Dr39b4pJ8eQ/pubembed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+	</div>
+</div>
 <hr>
 
 <style>
@@ -290,6 +296,24 @@ image: /images/YCKLogo.svg
 .yck-component .yck-table tbody tr:last-child .yck-td:last-child,
 .yck-component .yck-table tbody tr:last-child .yck-td:last-child p:last-child {
     margin-bottom: var(--yck-spacing-unit);
+}
+	
+	.yck-component .video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 
 .yck-component .isomer-card,
