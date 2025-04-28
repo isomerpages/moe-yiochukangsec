@@ -77,7 +77,8 @@ image: /images/YCKLogo.svg
 </div>
 <div class="yck-component">
     <h4 class="yck-h4">Competitions &amp; Events</h4>
-    <h5 class="yck-h5">2022</h5>
+    <h4 class="yck-h4">2022</h4>
+	<hr>
     <div class="yck-flexbox-grid">
         <div class="isomer-card">
             <div class="isomer-card-body">
@@ -160,6 +161,8 @@ image: /images/YCKLogo.svg
         </div>
     </div>
 </div>
+
+<hr>
 
 <style>
 :root {
