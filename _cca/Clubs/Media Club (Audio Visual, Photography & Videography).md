@@ -318,18 +318,18 @@ image: /images/YCKLogo.svg
 
 /* Apply the animation on hover */
 .yck-component .column ul li:hover {
-    animation: fadeIn 1.5s forwards;
+    animation: fadeIn 1s forwards;
 }
 
 /* Revert the animation when not hovering */
 .yck-component .column ul li:not(:hover) {
-    animation: fadeOut 1.5s forwards;
+    animation: fadeOut 1s forwards;
 }
 
 /* Define the keyframes for the fade-in effect */
 @keyframes fadeIn {
     from {
-        border-bottom: 1px solid #fff;
+        border-bottom: 1px solid #eee;
     }
 
     to {
@@ -344,7 +344,7 @@ image: /images/YCKLogo.svg
     }
 
     to {
-        border-bottom: 1px solid #fff;
+        border-bottom: 1px solid #eee;
     }
 }
 
@@ -392,16 +392,16 @@ summary::marker {
 details::details-content {
     font-size: var(--yck-step-0);
     block-size: 0;
-    animation: FadeOutSlideUp 0.5s ease forwards;
+    animation: FadeOutSlideUp 1s ease forwards;
     transition:
-        block-size 0.5s,
-        content-visibility 0.5s;
+        block-size 1s,
+        content-visibility 1s;
     transition-behavior: allow-discrete;
 }
 
 details[open]::details-content {
     block-size: auto;
-    animation: FadeInSlideDown 0.5s ease forwards;
+    animation: FadeInSlideDown 1s ease forwards;
 }
 
 @keyframes FadeInSlideDown {
