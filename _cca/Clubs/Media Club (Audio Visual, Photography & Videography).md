@@ -69,106 +69,107 @@ image: /images/YCKLogo.svg
                     <p>Mr Yip Seng Yiam (ext 125)</p>
                 </td>
                 <td class="yck-td">
-                    <p>EBS Lab/ Hall Gallery</p>
+                    <p>EBS Lab (C4-03)/ Hall Gallery (A2-05)</p>
                 </td>
             </tr>
         </tbody>
     </table>
 </div>
 <div class="yck-component">
-    <h4 class="yck-h4">Events/Competitions&nbsp;&amp;&nbsp;Our&nbsp;Proudest&nbsp;Moments</h4>
-    <h5 class="yck-h5">2022</h5>
-    <div class="isomer-card-grid">
+    <h4 class="yck-h4">Competitions &amp; Events</h4>
+    <h4 class="yck-h4">2022</h4>
+	<hr>
+    <div class="yck-flexbox-grid">
         <div class="isomer-card">
             <div class="isomer-card-body">
                 <div class="isomer-card-title">Beacon of Light Photo-essay</div>
-                <div class="isomer-card-description">by Xin Lei Jiang</div>
+                <div class="isomer-card-description">
+                    <p>by Xin Lei Jiang</p>
+                </div>
             </div>
         </div>
         <div class="isomer-card">
             <div class="isomer-card-body">
                 <div class="isomer-card-title">The 20th National Secondary School Chinese Creative Writing with Photography</div>
-                <div class="isomer-card-description">by Singapore Hokkien Huay Kuan, Singapore Literature Society, Nan Chiau High School and Zaobao</div>
+                <div class="isomer-card-description">
+                    <p><i>by Singapore Hokkien Huay Kuan, Singapore Literature Society, Nan Chiau High School and Zaobao</i></p>
+                </div>
             </div>
         </div>
         <div class="isomer-card">
             <div class="isomer-card-body">
                 <div class="isomer-card-title">SYFgoesOnline! Pixel Perfect (GRATITUDE IN LIFE) by MOE</div>
-                <div class="isomer-card-description">showcasing Kayla Wong Eu Tung's video</div>
+                <div class="isomer-card-description">
+                    <p><i>showcasing Kayla Wong Eu Tung's video</i></p>
+                </div>
             </div>
         </div>
         <div class="isomer-card">
+            <div class="isomer-card-img"><img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Media%20Club/Memories_to_be_treasured.jpg"></div>
             <div class="isomer-card-body">
-                <div class="isomer-card-title">"Our Schools, Our Stories" Photo &amp; Video Contest by MOE</div>
+                <div class="isomer-card-title">Our Schools, Our Stories" Photo &amp; Video Contest by MOE</div>
                 <div class="isomer-card-description">
-                    Best Video Award – "What I Go To School For"<br>
-                    by Yet Yan Shen, Derrick See Kar Xun and Neo Jun Yuan<br><br>
-                    Best Photo Story Award – "Our School Community"<br>
-                    by Wirdatul Marsya Binte Mohammad Fazuli, Siti Nurasyirah Binte Mohammad Hery and Sukainah Binte Mohammad Fahrur Razi
+                    <p><a target="_blank" href="https://www.youtube.com/watch?v=QW_8zmXDZoE&amp;list=PLgBw4fHUtzK0U2xtr3KjxAjelxNLq1kKW&amp;index=5">Memories to be treasured</a>: Best Video Award – "What I Go To School For"<br>
+                        <i>by Yet Yan Shen, Derrick See Kar Xun and Neo Jun Yuan</i></p>
+                </div>
+            </div>
+        </div>
+        <div class="isomer-card">
+            <div class="isomer-card-img"><img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Media%20Club/a_professional_in_our_school_OSOS_2022.jpg"></div>
+            <div class="isomer-card-body">
+                <div class="isomer-card-title">"Our Schools, Our Stories" Photo &amp; Video Contest by MOE
+                </div>
+                <div class="isomer-card-description">
+                    <p><a target="_blank" href="https://www.moe.gov.sg/our-schools-our-stories/winning-stories-2022/our-school-community/youth">A Professional In Our School</a>: Best Photo Story Award – "Our School Community (Youth)"<br>
+                        <i>by Wirdatul Marsya Binte Mohammad Fazuli, Siti Nurasyirah Binte Mohammad Hery and Sukainah Binte Mohammad Fahrur Razi</i></p>
                 </div>
             </div>
         </div>
     </div>
 </div>
-
-<div>
-<table class="tg">
-    <thead>
-        <tr>
-            <th class="tg-0lax">2021</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td class="tg-0lax">Lions Home Video Competition</td>
-        </tr>
-        <tr>
-            <td class="tg-0lax">2020</td>
-        </tr>
-        <tr>
-            <td class="tg-0lax">Safety Starts with Me Competition (WSH)</td>
-        </tr>
-        <tr>
-            <td class="tg-0lax">Public Utilities Board (PUB) Annual Photography Competition</td>
-        </tr>
-        <tr>
-            <td class="tg-0lax">National Kidney Foundation National Photography Competition (First Prize)</td>
-        </tr>
-        <tr>
-            <td class="tg-0lax">2019</td>
-        </tr>
-        <tr>
-            <td class="tg-0lax">PCNB DrugFreeSg Video Competition Participation (National level)</td>
-        </tr>
-        <tr>
-            <td class="tg-0lax">Urban Redevelopment Authority (URA) Public Photography Exhibition showcasing the development of Kampong Glam</td>
-        </tr>
-        <tr>
-            <td class="tg-0lax">2018</td>
-        </tr>
-        <tr>
-            <td class="tg-0lax">第十一届全国中学及初院华语短片制作赛 Participation (National Level)</td>
-        </tr>
-        <tr>
-            <td class="tg-0lax">CNB Anti Drug Video Competition Participation (National Level)</td>
-        </tr>
-        <tr>
-            <td class="tg-0lax">Event coverage for SYF celebrations at Esplanade</td>
-        </tr>
-        <tr>
-            <td class="tg-0lax">Khoo Teck Puat (Yishun Community Hospital) Opening Launch with Photography Exhibition</td>
-        </tr>
-    </tbody>
-</table>
+<div class="yck-component">
+    <div class="yck-flexbox-grid">
+        <div class="column">
+            <h5><strong>2021</strong></h5>
+            <ul>
+                <li>Lions Home Video Competition</li>
+            </ul>
+        </div>
+        <div class="column">
+            <h5><strong>2020</strong></h5>
+            <ul>
+                <li>Safety Starts with Me Competition (WSH)</li>
+                <li>Public Utilities Board (PUB) Annual Photography Competition</li>
+            </ul>
+        </div>
+        <div class="column">
+            <h5><strong>2019</strong></h5>
+            <ul>
+                <li>National Kidney Foundation National Photography Competition (First Prize)</li>
+                <li>PCNB DrugFreeSg Video Competition Participation (National level)</li>
+                <li>Urban Redevelopment Authority (URA) Public Photography Exhibition showcasing the development of Kampong Glam</li>
+            </ul>
+        </div>
+        <div class="column">
+            <h5><strong>2018</strong></h5>
+            <ul>
+                <li>第十一届全国中学及初院华语短片制作赛 Participation (National Level)</li>
+                <li>CNB Anti Drug Video Competition Participation (National Level)</li>
+                <li>Event coverage for SYF celebrations at Esplanade</li>
+                <li>Khoo Teck Puat (Yishun Community Hospital) Opening Launch with Photography Exhibition</li>
+            </ul>
+        </div>
+    </div>
 </div>
 
-<h3>Gallery</h3>
-<div>
-    <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Media%20Club/M2.png">
-    <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Media%20Club/M3.png">
-    <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Media%20Club/M4.png">
-    &nbsp;&nbsp;&nbsp;&nbsp;</div>
-		
+<div class="yck-component">
+	<h4 class="yck-h4">Gallery</h4>
+	<div class="video-container">
+	<iframe allowfullscreen="true" height="1109" width="1920" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSd65iy4zB-w3EcGG7aA0VK16WwtLioqL8foMp02Y5e2ERzklmGG79Dr39b4pJ8eQ/pubembed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+	</div>
+</div>
+<hr>
+
 <style>
 :root {
     --yck-text-line-height: 1.6em;
@@ -211,13 +212,20 @@ image: /images/YCKLogo.svg
     text-wrap: balance;
 }
 
-.yck-component p {
+.yck-component a,
+.yck-component a:hover {
+    text-decoration: none;
+}
+
+.yck-component p,
+.yck-component ul {
     text-wrap: pretty;
     margin-bottom: var(--yck-space-s-xl);
 }
 
-.yck-component p:last-child {
-    margin-bottom: calc(var(--yck-spacing-unit)*2);
+.yck-component p:last-child,
+.yck-component ul li:last-child {
+    margin-bottom: calc(var(--yck-spacing-unit) * 2);
 }
 
 .yck-component .yck-h3,
@@ -252,7 +260,6 @@ image: /images/YCKLogo.svg
     max-width: 100%;
     margin-top: 0.5em;
     margin-bottom: var(--yck-spacing-unit);
-
 }
 
 .yck-component .yck-th {
@@ -290,8 +297,27 @@ image: /images/YCKLogo.svg
 .yck-component .yck-table tbody tr:last-child .yck-td:last-child p:last-child {
     margin-bottom: var(--yck-spacing-unit);
 }
+	
+	.yck-component .video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    margin-bottom: var(--yck-spacing-unit);
+}
 
-.yck-component .isomer-card {
+.yck-component .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.yck-component .isomer-card,
+.yck-component .column {
     break-inside: avoid;
     /* Prevents content from breaking across columns */
     page-break-inside: avoid;
@@ -302,7 +328,25 @@ image: /images/YCKLogo.svg
     box-shadow: var(--yck-box-shadow);
 }
 
+.yck-component .column {
+    margin-bottom: var(--yck-spacing-unit) !important;
+}
+
+.yck-component .column ul {
+    list-style: none;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0;
+}
+
+.yck-component .column ul li {
+    margin-left: 1rem;
+}
+
 /* Apply the animation on hover */
+.yck-component .column ul li:hover {
+    animation: fadeIn 1s forwards;
+}
 
 /* Revert the animation when not hovering */
 .yck-component .column ul li:not(:hover) {
@@ -310,6 +354,15 @@ image: /images/YCKLogo.svg
 }
 
 /* Define the keyframes for the fade-in effect */
+@keyframes fadeIn {
+    from {
+        border-bottom: 1px solid #eee;
+    }
+
+    to {
+        border-bottom: 1px solid #e37f2a;
+    }
+}
 
 /* Define the keyframes for the fade-out effect */
 @keyframes fadeOut {
@@ -318,8 +371,22 @@ image: /images/YCKLogo.svg
     }
 
     to {
-        border-bottom: 1px solid #FFF;
+        border-bottom: 1px solid #eee;
     }
+}
+
+.yck-component .yck-flexbox-grid {
+    --yck-min: 23ch;
+    --yck-gap: 1.5em;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: var(--yck-gap);
+}
+
+.yck-component .yck-flexbox-grid>* {
+    flex: 1 0 var(--yck-min);
+    list-style: none;
 }
 
 .ken-burns-container {
@@ -349,18 +416,19 @@ summary::marker {
     font-size: var(--yck-step-1);
 }
 
-
 details::details-content {
     font-size: var(--yck-step-0);
     block-size: 0;
-    animation: FadeOutSlideUp 0.5s ease forwards;
-    transition: block-size 0.5s, content-visibility 0.5s;
+    animation: FadeOutSlideUp 1s ease forwards;
+    transition:
+        block-size 1s,
+        content-visibility 1s;
     transition-behavior: allow-discrete;
 }
 
 details[open]::details-content {
     block-size: auto;
-    animation: FadeInSlideDown 0.5s ease forwards;
+    animation: FadeInSlideDown 1s ease forwards;
 }
 
 @keyframes FadeInSlideDown {
@@ -391,4 +459,37 @@ details[open]::details-content {
         scroll-behavior: auto !important;
     }
 }
+
+.yck-component .yck-flexbox-grid .isomer-card {
+    text-decoration: none;
+    margin: 0 auto;
+    padding: 0;
+}
+
+
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body {
+    padding: var(--yck-spacing-unit);
+}
+
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title {
+    color: #4a4a4a;
+    font-weight: 700;
+    font-size: var(--yck-step-1);
+}
+
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-description {
+    color: #484848;
+/*     font-size: 1rem; */
+    font-size: var(--yck-step-0);
+}
+
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-description) {
+    margin-bottom: 0.75rem
+}
+
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-link),
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-description:has(+.isomer-card-link) {
+    margin-bottom: 1.5rem
+}
+
 </style>
