@@ -10,10 +10,20 @@ image: /images/Our Story/School Logo/A Brand New Design for a New B/YCKSS_Logo.s
 <figure>
 <img alt="The Homecoming Carnival EDM" src="/images/60th%20Anniversary/Homecoming_Carnival_EDM.png">
 </figure>
-<p>Stay tuned for more updates, and join us in making this milestone celebration unforgettable!</p>
-<img alt="60th Celebration GIF" src="/images/60th_Anniversary_Celebration.gif">
-
-</div>
+<p>Yio Chu Kang Secondary School is proud to celebrate her 60th Anniversary this year with a series of exciting events! We have lined up the <strong>Homecoming Carnival on 10 May (Saturday), the Alumni Dinner on 4 July (Friday), and the Concert for Hope on 21 November (Friday)</strong> --- and we can't wait for you to be part of the celebrations!</p>
+<p>We will kick off the festivities with the Homecoming Carnival, right here in school, packed with fun-filled games and creative handicraft booths.</p>
+<p>All game booths will be free for everyone to enjoy, while the handicraft booths --- showcasing beautiful, handmade creations by our talented students --- will involve a small fee. All proceeds from the sales will go towards helping needy students and/or supporting other educational causes approved by the Ministry of Education (MOE).</p>
+    
+<h2>Details of the events:</h2>
+<ul>
+        <li><strong>Date:</strong> 10 May 2025 (Saturday)</li>
+        <li><strong>Opening of Homecoming Carnival:</strong> 9:00 AM</li>
+        <li><strong>Closing of Homecoming Carnival:</strong> 11:30 AM</li>
+        <li><strong>Food and Drinks:</strong> Available at the school canteen (cash payment)</li>
+    </ul>
+<p>A gentle reminder: parking lots within the school are very limited. You are encouraged to park at the public car park just outside the school.</p>
+ <p>We would love for your family and friends to join us and be part of this joyful occasion. Let's come together to celebrate 60 years of memories, growth, and community spirit!</p>
+  <p>Looking forward to seeing you in school!</p></div>
 
 <style>
 
