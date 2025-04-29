@@ -6,7 +6,7 @@ description: ""
 image: /images/Our Story/School Logo/A Brand New Design for a New B/YCKSS_Logo.svg
 ---
 <div class="yck-component">
-<h3 class="yck-h3">Homecoming Carnival</h3>
+<h3 class="yck-h3">Home-Coming Carnival</h3>
 <figure>
 <img alt="The Homecoming Carnival EDM" src="/images/60th%20Anniversary/Homecoming_Carnival_EDM.png">
 </figure>
