@@ -20,6 +20,17 @@ sections:
       background: /images/Homepage/2024_YCKSS_Homepage_GIF.gif
       variant: image
   - infopic:
+      title: Homecoming Carnival
+      subtitle: Don’t miss this milestone
+      id: infopic
+      description: Come celebrate 60 amazing years with us at YCKSS! Bring your family
+        and friends for a day of fun, games, and heartwarming memories at our
+        Homecoming Carnival.
+      button: let’s make it unforgettable!
+      url: /homecoming-carnival/
+      image: /images/60th Anniversary/Homecoming_Carnival_EDM.png
+      alt: The Homecoming Carnival
+  - infopic:
       title: 60th Anniversary Dinner
       subtitle: You don’t want to miss this!
       id: infopic
