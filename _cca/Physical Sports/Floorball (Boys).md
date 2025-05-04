@@ -287,7 +287,28 @@ hr {
     height: 100%;
 }
 
+.ken-burns-container {
+    max-width: 100%;
+    overflow: hidden;
+    position: relative;
+}
 
+.ken-burns-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    animation: kenBurns 30s ease-in-out infinite alternate;
+}
+
+@keyframes kenBurns {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.3);
+    }
+}
 
 
 	
