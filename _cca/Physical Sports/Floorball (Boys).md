@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Physical Sports
 variant: markdown
 ---
-
 <div class="yck-component">
 <img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Floorball%20(Boys)/F1.jpg">
 
@@ -36,40 +35,53 @@ variant: markdown
 
 <div class="yck-component">
 	
-### Proudest Moments
----
-#### 2023 - Storvretacupen Singapore 
--	Zuriel Tan of Team Wondersticks was placed 2nd in the U16 category
--	Afiqi Elriano of Team Ghetto IBK was placed 3rd in the U16 category.  He also joined Team Wondersticks in the U19 category &amp; was placed 3rd. 
+<h3>Events and Competitions</h3>
+<hr>
+<h4>2023</h4>
+<ul>
+    <li>Storvretacupen Singapore:
+        <ul>
+            <li>Zuriel Tan of Team Wondersticks was placed 2nd in the U16 category</li>
+            <li>Afiqi Elriano of Team Ghetto IBK was placed 3rd in the U16 category. He also joined Team Wondersticks in the U19 category &amp; was placed 3rd.</li>
+        </ul>
+    </li>
+    <li>National 'B' and 'C' Division Floorball Championships</li>
+    <li>Sports Enrichment Programme: Inline Skating</li>
+</ul>
 
-#### 2019
-- National B Division Bowl Championship – Champion (Team 1)
-- National B Division Bowl Championship – 3rd&nbsp;Runner Up (Team 2)
+<h4>2022</h4>
+<ul>
+    <li>National 'B' and 'C' Division Floorball Championships</li>
+    <li>Sports Enrichment Programme: Golf</li>
+</ul>
 
-### Events/Competitions
----
-#### 2023
-- National ‘B’ and ‘C’ Division Floorball Championships
-- Sports Enrichment Programme : Inline Skating 
+<h4>2020</h4>
+<ul>
+    <li>National 'B'-Division Floorball Championships</li>
+</ul>
 
-#### 2022
-- National ‘B’ and ‘C’ Division Floorball Championships
-- Sports Enrichment Programme : Golf
+<h4>2019</h4>
+<ul>
+    <li>National B Division Bowl Championship:
+        <ul>
+            <li>Champion (Team 1)</li>
+            <li>3rd Runner Up (Team 2)</li>
+        </ul>
+    </li>
+    <li>National 'B' and 'C'-Division Floorball Championships</li>
+    <li><strong>Active SG</strong>:
+        <ul>
+            <li>Singapore Floorball Association 'B'-Division Bowl Championship</li>
+            <li>Singapore Floorball Association National Age Group Championship</li>
+            <li>Singapore Floorball Association 'C'-Division Plate / Bowl Championship</li>
+        </ul>
+    </li>
+</ul>
 
-#### 2020
-- National 'B'-Division Floorball Championships
-
-#### 2019
-- National 'B' and 'C'-Division Floorball Championships
-
-**Active SG**
-- Singapore Floorball Association 'B'-Division Bowl Championship
-- Singapore Floorball Association National Age Group Championship
-- Singapore Floorball Association 'C'-Division Plate / Bowl Championship
-
-#### 2018
-- National 'B' and 'C'-Division Floorball Championships
-
+<h4>2018</h4>
+<ul>
+    <li>National 'B' and 'C'-Division Floorball Championships</li>
+</ul>
 </div>
 
 
