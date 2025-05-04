@@ -68,15 +68,31 @@ variant: markdown
 ### Gallery
 ---
 
-![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Floorball%20(Boys)/Floorball_boys_1.PNG)
-
-![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Floorball%20(Boys)/Floorball_boys_2.PNG)
-
-![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Floorball%20(Boys)/Floorball_Boys_3.PNG)
-
-![](/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Floorball%20(Boys)/Floorball_boys___Sports_Enrichment_Prog_1.PNG)
-
+<div class="yck-component">
+	<div class="video-container">
+		<iframe allowfullscreen="true" height="1109" width="1920" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQWDJIuYYGFe5AT6NAXwrRtEcce3vzRIT7pFT6F_vhupSgIRQBm7yV7ciiP-0dMfQ/pubembed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+	</div>
+	</div>
+	
 <style>
+	
+.yck-component .video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
 
 .yck-table {
 	border-collapse: collapse;
