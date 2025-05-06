@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: 2025 Sec 1 Information
+        - title: Direct School Admission (DSA)
           description: Click here
-          url: https://sites.google.com/moe.edu.sg/yckss-sec-1-2025
+          url: https://www.yiochukangsec.moe.edu.sg/our-family/Students/Direct-School-Admission/
         - title: CALENDAR
           description: Click here
           url: https://sites.google.com/moe.edu.sg/2023-yckss-calendar
