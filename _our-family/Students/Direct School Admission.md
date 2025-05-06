@@ -9,13 +9,13 @@ variant: tiptap
 <p>Yio Chu Kang Secondary School believes in a well-rounded education and
 is committed to providing learning opportunities beyond the core academic
 and student development programmes.</p>
-<p>The school has vacancies for up to 20% of our Secondary 1 cohort in 2025
+<p>The school has vacancies for up to 20% of our Secondary 1 cohort in 2026
 for the DSA-Sec programme. Interested students can apply through the DSA
 process.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from year 1 to 4.</p>
-<p>In DSA-Sec Exercise 2024, we are looking for promising Primary Six students
+<p>In DSA-Sec Exercise 2025, we are looking for promising Primary Six students
 or students not studying in MOE mainstream primary schools who demonstrate
 special talents in the following areas:</p>
 <h5><a href="/files/Students/Direct School Admission/2__DIRECT_SCHOOL_ADMISSION___Clubs__Updated_7_May_.pdf" rel="noopener noreferrer nofollow" target="_blank">Clubs</a></h5>
@@ -249,10 +249,99 @@ DSA talent areas application procedure.</p>
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
-<h4>2024 DSA-SEC Timeline</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_timeline__Updated_7_May_2024_.png">
-</div>
+<h4>2025 DSA-SEC Timeline</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>DATE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>INFORMATION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;TO-DOs</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 May to 3 Jun (by 3pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Application opens on 7 May and closes on 3 June (by 3pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Complete and submit <strong>online application.</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/secondary/dsa</a>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Submit via <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">DSA-Sec Portal</a>.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Require SingPass to
+login.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30 Jun to 4 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Audition and interview for short-listed applicants</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicant will be informed
+of the audition item upon submission of online application.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Only shortlisted applicants
+are required to submit certified true copies of supporting documents for
+non-school based activities at the trial/interview.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>By 4 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Issuance of letters to</p>
+<p>all applicants</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact the school if
+no letter/email is received.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 to 31 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Preference Submission</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Submit via <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">DSA-Sec Portal</a>.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Require SingPass to
+login.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Late Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Release of DSA-Sec results</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NA</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Direct School Admission for Secondary Schools Portal (DSA-Sec Portal):
 <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
