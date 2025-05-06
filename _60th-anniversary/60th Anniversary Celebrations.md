@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="yck-component">
-	<p>Our school is celebrating her 60th Anniversary this year with a series of exciting events: the <strong>Homecoming Carnival</strong> in May, the <strong>Alumni Dinner</strong> in July, and the <strong>Concert for Hope</strong> in November. Stay tuned for more updates, and join us in making this milestone celebration unforgettable! Gather your friends and family to be part of the celebrations!</p>
+	<p>Our school is celebrating her 60th Anniversary this year with a series of exciting events: the <strong><a href="https://www.yiochukangsec.moe.edu.sg/homecoming-carnival/">Homecoming Carnival</a></strong> in May, the <strong><a href="https://www.yiochukangsec.moe.edu.sg/60th-anniversary-dinner/">Alumni Dinner</a></strong> in July, and the <strong>Concert for Hope</strong> in November. Stay tuned for more updates, and join us in making this milestone celebration unforgettable! Gather your friends and family to be part of the celebrations!</p>
 </div>
 
 <div class="yck-component">
