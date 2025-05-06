@@ -89,10 +89,9 @@ variant: markdown
 </div>
 
 
-### Gallery
----
 
 <div class="yck-component">
+	<h4 class="yck-h4">Gallery</h4>
 	<div class="video-container">
 		<iframe allowfullscreen="true" height="1109" width="1920" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQWDJIuYYGFe5AT6NAXwrRtEcce3vzRIT7pFT6F_vhupSgIRQBm7yV7ciiP-0dMfQ/pubembed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 	</div>
@@ -128,61 +127,30 @@ variant: markdown
     margin-bottom: var(--yck-space-s-xl);
 }
 
-.yck-component h1,
-.yck-component h2,
 .yck-component h3,
 .yck-component h4,
 .yck-component h5,
-.yck-component h6,
 .yck-component p {
     overflow-wrap: break-word;
 }
 
-.yck-component h1,
-.yck-component h2,
 .yck-component h3,
 .yck-component h4,
-.yck-component h5,
-.yck-component h6 {
+.yck-component h5 {
     text-wrap: balance;
 }
 
-.yck-component a,
-.yck-component a:hover {
-    text-decoration: none;
-}
-
 .yck-component p,
-.yck-component ol,
 .yck-component ul {
     text-wrap: pretty;
     margin-bottom: var(--yck-space-s-xl);
 }
 
 .yck-component p:last-child,
-.yck-component ul li:last-child,
-.yck-component ol li:last-child {
+.yck-component ul li:last-child {
     margin-bottom: calc(var(--yck-spacing-unit) * 2);
 }
 
-.yck-component .yck-h1,
-.yck-component h1 {
-    font-size: var(--yck-step-5);
-    margin-bottom: var(--yck-space-s-xl);
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
-}
-
-.yck-component .yck-h2,
-.yck-component h2 {
-    font-size: var(--yck-step-4);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.6);
-    text-transform: capitalize;
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
-}
-
-.yck-component .yck-h3,
 .yck-component h3 {
     font-size: var(--yck-step-3);
     margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
@@ -200,19 +168,9 @@ variant: markdown
     letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.yck-component .yck-h5,
 .yck-component h5 {
     font-size: var(--yck-step-1);
     margin-bottom: calc(var(--yck-spacing-unit) * 0.1);
-    text-transform: uppercase;
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
-}
-
-.yck-component .yck-h6,
-.yck-component h6 {
-    font-size: var(--yck-step-0);
-    margin-bottom: var(--yck-spacing-unit);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -238,9 +196,7 @@ hr {
     text-transform: uppercase;
 }
 
-.yck-component .yck-th h4,
-.yck-component .yck-th h5,
-.yck-component .yck-th h6 {
+.yck-component .yck-th h5 {
     margin: 0 0 0.5em;
 }
 
@@ -254,8 +210,7 @@ hr {
     padding-bottom: 0.5em;
 }
 
-.yck-component .yck-table tbody .yck-td,
-.yck-component .yck-table tbody .yck-td p {
+.yck-component .yck-table tbody .yck-td {
     margin-top: 0;
     margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
     line-height: 1.5rem;
@@ -264,11 +219,10 @@ hr {
 }
 
 /* Apply margin-bottom only when it is the last table-date in the row or contains the last paragraph */
-.yck-component .yck-table tbody tr:last-child .yck-td:last-child,
-.yck-component .yck-table tbody tr:last-child .yck-td:last-child p:last-child {
+.yck-component .yck-table tbody tr:last-child .yck-td:last-child {
     margin-bottom: var(--yck-spacing-unit);
 }
-	
+
 .yck-component .video-container {
     position: relative;
     width: 100%;
@@ -285,6 +239,26 @@ hr {
     left: 0;
     width: 100%;
     height: 100%;
+}
+
+/* Apply the animation on hover */
+
+/* Revert the animation when not hovering */
+.yck-component .column ul li:not(:hover) {
+    animation: fadeOut 1.5s forwards;
+}
+
+/* Define the keyframes for the fade-in effect */
+
+/* Define the keyframes for the fade-out effect */
+@keyframes fadeOut {
+    from {
+        border-bottom: 1px solid #e37f2a;
+    }
+
+    to {
+        border-bottom: 1px solid #fff;
+    }
 }
 
 .ken-burns-container {
@@ -310,6 +284,62 @@ hr {
     }
 }
 
+summary::marker {
+    font-size: var(--yck-step-1);
+}
+
+details::details-content {
+    font-size: var(--yck-step-0);
+    block-size: 0;
+    animation: FadeOutSlideUp 0.5s ease forwards;
+    transition:
+        block-size 0.5s,
+        content-visibility 0.5s;
+    transition-behavior: allow-discrete;
+}
+
+details[open]::details-content {
+    block-size: auto;
+    animation: FadeInSlideDown 0.5s ease forwards;
+}
+
+@keyframes FadeInSlideDown {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes FadeOutSlideUp {
+    100% {
+        opacity: 1;
+    }
+
+    0% {
+        opacity: 0;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
+}
+
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-description) {
+    margin-bottom: 0.75rem
+}
+
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-link),
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-description:has(+.isomer-card-link) {
+    margin-bottom: 1.5rem
+}
 
 	
 </style>
