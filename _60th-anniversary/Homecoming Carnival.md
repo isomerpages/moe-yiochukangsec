@@ -17,7 +17,7 @@ image: /images/60th Anniversary/60thLogo.svg
 <figure>
 <img alt="The Homecoming Carnival EDM" src="/images/60th%20Anniversary/Homecoming_Carnival_EDM.png">
 </figure>
-<p>Yio Chu Kang Secondary School is proud to celebrate her 60th Anniversary this year with a series of exciting events! We have lined up the <strong>Homecoming Carnival on 10 May (Saturday), the Alumni Dinner on 4 July (Friday), and the Concert for Hope on 21 November (Friday)</strong> --- and we can't wait for you to be part of the celebrations!</p>
+<p>Yio Chu Kang Secondary School is proud to celebrate her 60th Anniversary this year with a series of exciting events! We have lined up the <strong>Homecoming Carnival on 10 May (Saturday), the <a href="/60th-anniversary-dinner/">Alumni Dinner</a> on 4 July (Friday), and the Concert for Hope on 21 November (Friday)</strong> --- and we can't wait for you to be part of the celebrations!</p>
 <p>We will kick off the festivities with the Homecoming Carnival, right here in school, packed with fun-filled games and creative handicraft booths.</p>
 <p>All game booths will be free for everyone to enjoy, while the handicraft booths --- showcasing beautiful, handmade creations by our talented students --- will involve a small fee. All proceeds from the sales will go towards helping needy students and/or supporting other educational causes approved by the Ministry of Education (MOE).</p>
     
