@@ -128,67 +128,26 @@ variant: markdown
     margin-bottom: var(--yck-space-s-xl);
 }
 
-.yck-component h1,
-.yck-component h2,
-.yck-component h3,
 .yck-component h4,
 .yck-component h5,
-.yck-component h6,
 .yck-component p {
     overflow-wrap: break-word;
 }
 
-.yck-component h1,
-.yck-component h2,
-.yck-component h3,
 .yck-component h4,
-.yck-component h5,
-.yck-component h6 {
+.yck-component h5 {
     text-wrap: balance;
 }
 
-.yck-component a,
-.yck-component a:hover {
-    text-decoration: none;
-}
-
 .yck-component p,
-.yck-component ol,
 .yck-component ul {
     text-wrap: pretty;
     margin-bottom: var(--yck-space-s-xl);
 }
 
 .yck-component p:last-child,
-.yck-component ul li:last-child,
-.yck-component ol li:last-child {
+.yck-component ul li:last-child {
     margin-bottom: calc(var(--yck-spacing-unit) * 2);
-}
-
-.yck-component .yck-h1,
-.yck-component h1 {
-    font-size: var(--yck-step-5);
-    margin-bottom: var(--yck-space-s-xl);
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
-}
-
-.yck-component .yck-h2,
-.yck-component h2 {
-    font-size: var(--yck-step-4);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.6);
-    text-transform: capitalize;
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
-}
-
-.yck-component .yck-h3,
-.yck-component h3 {
-    font-size: var(--yck-step-3);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
-    text-transform: capitalize;
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
 .yck-component .yck-h4,
@@ -209,21 +168,6 @@ variant: markdown
     letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.yck-component .yck-h6,
-.yck-component h6 {
-    font-size: var(--yck-step-0);
-    margin-bottom: var(--yck-spacing-unit);
-    text-transform: uppercase;
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
-}
-
-.yck-component hr,
-hr {
-    border: 1px dotted slategrey;
-    margin-block: clamp(1rem, 2vw, 2.5rem);
-}
-
 .yck-component .yck-table {
     border-collapse: collapse;
     max-width: 100%;
@@ -238,9 +182,7 @@ hr {
     text-transform: uppercase;
 }
 
-.yck-component .yck-th h4,
-.yck-component .yck-th h5,
-.yck-component .yck-th h6 {
+.yck-component .yck-th h5 {
     margin: 0 0 0.5em;
 }
 
@@ -286,7 +228,27 @@ hr {
     width: 100%;
     height: 100%;
 }
-	
+
+/* Apply the animation on hover */
+
+/* Revert the animation when not hovering */
+.yck-component .column ul li:not(:hover) {
+    animation: fadeOut 1.5s forwards;
+}
+
+/* Define the keyframes for the fade-in effect */
+
+/* Define the keyframes for the fade-out effect */
+@keyframes fadeOut {
+    from {
+        border-bottom: 1px solid #e37f2a;
+    }
+
+    to {
+        border-bottom: 1px solid #fff;
+    }
+}
+
 .yck-component figure {
     /*   border: thin #c0c0c0 solid; */
     display: flex !important;
@@ -299,14 +261,6 @@ hr {
 .yck-component figure img {
     border-radius: 8px;
     box-shadow: var(--yck-box-shadow);
-}
-
-.yck-component figcaption {
-    background-color: rgba(255, 255, 255, 0.75);
-    color: #333;
-    font: italic var(--yck-step--1) sans-serif;
-    padding: 5px;
-    text-align: center;
 }
 
 .ken-burns-container {
@@ -331,4 +285,62 @@ hr {
         transform: scale(1.3);
     }
 }
+
+summary::marker {
+    font-size: var(--yck-step-1);
+}
+
+details::details-content {
+    font-size: var(--yck-step-0);
+    block-size: 0;
+    animation: FadeOutSlideUp 0.5s ease forwards;
+    transition:
+        block-size 0.5s,
+        content-visibility 0.5s;
+    transition-behavior: allow-discrete;
+}
+
+details[open]::details-content {
+    block-size: auto;
+    animation: FadeInSlideDown 0.5s ease forwards;
+}
+
+@keyframes FadeInSlideDown {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes FadeOutSlideUp {
+    100% {
+        opacity: 1;
+    }
+
+    0% {
+        opacity: 0;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
+}
+
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-description) {
+    margin-bottom: 0.75rem
+}
+
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-link),
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-description:has(+.isomer-card-link) {
+    margin-bottom: 1.5rem
+}
+
 </style>
