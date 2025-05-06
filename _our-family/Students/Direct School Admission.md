@@ -167,7 +167,7 @@ special talents in the following areas:</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/cca/Physical-Sports/Badminton-Boys-Girls/" rel="noopener noreferrer nofollow" target="_blank">Badminton (Girls)</a>
+<p><a href="/cca/physical-sports/badminton/" rel="noopener noreferrer nofollow" target="_blank">Badminton</a>
 </p>
 </li>
 </ul>
@@ -279,13 +279,20 @@ the area of talent.</p>
 <p>Application opens on 7 May and closes on 3 June (by 3pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Complete and submit <strong>online application.</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>Complete and submit <strong>online application.</strong> 
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/secondary/dsa</a>
+</li>
+<li>
+<p>MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/secondary/dsa</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Submit via <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">DSA-Sec Portal</a>.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Require SingPass to
-login.</p>
+</li>
+<li>
+<p>Submit via <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">DSA-Sec Portal</a>. <em>(Require SingPass to login.)</em>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -296,11 +303,16 @@ login.</p>
 <p>Audition and interview for short-listed applicants</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicant will be informed
-of the audition item upon submission of online application.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Only shortlisted applicants
-are required to submit certified true copies of supporting documents for
-non-school based activities at the trial/interview.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Applicant will be informed of the audition item upon submission of online
+application.</p>
+</li>
+<li>
+<p>Only shortlisted applicants are required to submit certified true copies
+of supporting documents for non-school based activities at the trial/interview.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -312,8 +324,11 @@ non-school based activities at the trial/interview.</p>
 <p>all applicants</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact the school if
-no letter/email is received.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Contact the school if no letter/email is received.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -324,9 +339,12 @@ no letter/email is received.</p>
 <p>School Preference Submission</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Submit via <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">DSA-Sec Portal</a>.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Require SingPass to
-login.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Submit via <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">DSA-Sec Portal</a>. <em>(Require SingPass to login.)</em>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -337,7 +355,11 @@ login.</p>
 <p>Release of DSA-Sec results</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NA</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>NA</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
