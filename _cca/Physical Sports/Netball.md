@@ -48,21 +48,21 @@ variant: markdown
 </div>
 
 <div class="yck-component">
-    <h5>Events and Competitions</h5>
+    <h4>Events and Competitions</h4>
     <ul>
-        <li>2020
+        <li><h5>2020</h5>
             <ul>
                 <li>South Zone Netball Championship</li>
             </ul>
         </li>
-        <li>2019
+        <li><h5>2019</h5>
             <ul>
                 <li>M1 Schools Challenge League – 'B' Div (2nd in Group Level)</li>
                 <li>North Zone Netball Championship</li>
                 <li>ACTive Netball Carnival</li>
             </ul>
         </li>
-        <li>2018
+        <li><h5>2018</h5>
             <ul>
                 <li>North Zone Netball Championship – 'B' Div (2nd Round)</li>
                 <li>M1 Schools Challenge League – 'C' Div (1st in Group Level and Overall Champion)</li>
@@ -70,19 +70,19 @@ variant: markdown
                 <li>T Net U14 Netball Tournament – 'C' Div (3rd in Group Level)</li>
             </ul>
         </li>
-        <li>2017
+        <li><h5>2017</h5>
             <ul>
                 <li>M1 Schools Challenge League – 'B' Div (2nd in Group Level)</li>
                 <li>M1 Schools Challenge League – 'C' Div (1st in Group Level)</li>
             </ul>
         </li>
-        <li>2016
+        <li><h5>2016</h5>
             <ul>
                 <li>M1 Schools Challenge League – 'B' Div (1st in Group Level and Overall Champion)</li>
                 <li>M1 Schools Challenge League – 'C' Div (1st in Group Level and Overall 1st Runner Up)</li>
             </ul>
         </li>
-        <li>2015
+        <li><h5>2015</h5>
             <ul>
                 <li>North Zone Netball Championship – 'C' Div (2nd Round)</li>
                 <li>Ulu Pandan Sports X'Perience Street Netball – 'B' Div (Overall Champion)</li>
