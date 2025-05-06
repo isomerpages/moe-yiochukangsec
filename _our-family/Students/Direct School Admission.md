@@ -18,7 +18,7 @@ related to the talent they are selected for from year 1 to 4.</p>
 <p>In DSA-Sec Exercise 2025, we are looking for promising Primary Six students
 or students not studying in MOE mainstream primary schools who demonstrate
 special talents in the following areas:</p>
-<h5><a href="/files/Students/Direct School Admission/2__DIRECT_SCHOOL_ADMISSION___Clubs__Updated_7_May_.pdf" rel="noopener noreferrer nofollow" target="_blank">Clubs</a></h5>
+<h5><a href="/files/Students/Direct School Admission/2_DIRECT_SCHOOL_ADMISSION___Clubs_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Clubs</a></h5>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
