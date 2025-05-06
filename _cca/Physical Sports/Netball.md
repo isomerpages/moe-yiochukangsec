@@ -47,59 +47,50 @@ variant: markdown
 </table>
 </div>
 
-<ul class="jekyllcodex_accordion">
-
-<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1"><h5>Proudest&nbsp;Moments</h5></label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> 2019 M1 Schools Challenge League – ‘B’ Div (2nd in Group Level)<br>  
-2018 North Zone Netball Championship – ‘B’ Div (2nd Round)<br>  
-2018 M1 Schools Challenge League – ‘C’ Div (1st in Group Level and Overall Champion)<br>  
-2018 Deloitte Pesta Sukan – ‘B’ and ‘C’ Div (3rd in Group Level)<br>  
-2018 T Net U14 Netball Tournament – ‘C’ Div (3rd in Group Level)<br>  
-2017 M1 Schools Challenge League – ‘B’ Div (2nd in Group Level)<br>  
-2017 M1 Schools Challenge League – ‘C’ Div (1st in Group Level)<br>  
-2016 M1 Schools Challenge League – ‘B’ Div (1st in Group Level and Overall Champion)<br>  
-2016 M1 Schools Challenge League – ‘C’ Div (1st in Group Level and Overall 1st Runner Up)<br>  
-2015 North Zone Netball Championship – ‘C’ Div (2nd Round)<br>  
-2015 Ulu Pandan Sports X’Perience Street Netball – ‘B’ Div (Overall Champion)<br>  
-2015 M1 Schools Challenge League – ‘B’ Div (2nd in Group Level) </p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-	
-<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2"><h5>Events/Competitions</h5></label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-<p> <b>2020</b><br>  
-South Zone Netball Championship 2020<br><br> 
-  
-<b>2019</b><br>  
-North Zone Netball Championship 2019<br>  
-M1 Schools Challenge League 2019<br>  
-ACTive Netball Carnival 2019<br><br>  
-  
-<b>2018</b><br>&nbsp;  
-North Zone Netball Championship 2018<br>  
-M1 Schools Challenge League 2018<br>  
-Deloitte Pesta Sukan 2018<br>  
-T Net U14 Netball Tournament 2018 </p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-</ul>
+<div class="yck-component">
+    <h5>Events and Competitions</h5>
+    <ul>
+        <li>2020
+            <ul>
+                <li>South Zone Netball Championship</li>
+            </ul>
+        </li>
+        <li>2019
+            <ul>
+                <li>M1 Schools Challenge League – 'B' Div (2nd in Group Level)</li>
+                <li>North Zone Netball Championship</li>
+                <li>ACTive Netball Carnival</li>
+            </ul>
+        </li>
+        <li>2018
+            <ul>
+                <li>North Zone Netball Championship – 'B' Div (2nd Round)</li>
+                <li>M1 Schools Challenge League – 'C' Div (1st in Group Level and Overall Champion)</li>
+                <li>Deloitte Pesta Sukan – 'B' and 'C' Div (3rd in Group Level)</li>
+                <li>T Net U14 Netball Tournament – 'C' Div (3rd in Group Level)</li>
+            </ul>
+        </li>
+        <li>2017
+            <ul>
+                <li>M1 Schools Challenge League – 'B' Div (2nd in Group Level)</li>
+                <li>M1 Schools Challenge League – 'C' Div (1st in Group Level)</li>
+            </ul>
+        </li>
+        <li>2016
+            <ul>
+                <li>M1 Schools Challenge League – 'B' Div (1st in Group Level and Overall Champion)</li>
+                <li>M1 Schools Challenge League – 'C' Div (1st in Group Level and Overall 1st Runner Up)</li>
+            </ul>
+        </li>
+        <li>2015
+            <ul>
+                <li>North Zone Netball Championship – 'C' Div (2nd Round)</li>
+                <li>Ulu Pandan Sports X'Perience Street Netball – 'B' Div (Overall Champion)</li>
+                <li>M1 Schools Challenge League – 'B' Div (2nd in Group Level)</li>
+            </ul>
+        </li>
+    </ul>
+</div>
 
 <div class="yck-component">
 	<h4 class="yck-h4">Gallery</h4>
