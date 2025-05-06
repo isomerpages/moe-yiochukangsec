@@ -6,9 +6,9 @@ third_nav_title: Physical Sports
 variant: markdown
 ---
 <div class="yck-component">
-	<figure class="ken-burns-container">
+	<div class="ken-burns-container">
     <img alt="Netball CCA" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Netball/N1.jpg" class="ken-burns-image">
-	</figure>
+	</div>
     <p>The Netball CCA aims to educate and nurture values such as teamwork, responsibility, respect, integrity, pride, tenacity and confidence in our girls. We also seek to bring out the best in our girls through the development of their skills in the sport. The sport builds character and develops their leadership qualities while inculcating an active and healthy lifestyle.</p>
 </div>
 
@@ -285,46 +285,7 @@ variant: markdown
         transform: scale(1.3);
     }
 }
-
-summary::marker {
-    font-size: var(--yck-step-1);
-}
-
-details::details-content {
-    font-size: var(--yck-step-0);
-    block-size: 0;
-    animation: FadeOutSlideUp 0.5s ease forwards;
-    transition:
-        block-size 0.5s,
-        content-visibility 0.5s;
-    transition-behavior: allow-discrete;
-}
-
-details[open]::details-content {
-    block-size: auto;
-    animation: FadeInSlideDown 0.5s ease forwards;
-}
-
-@keyframes FadeInSlideDown {
-    0% {
-        opacity: 0;
-    }
-
-    100% {
-        opacity: 1;
-    }
-}
-
-@keyframes FadeOutSlideUp {
-    100% {
-        opacity: 1;
-    }
-
-    0% {
-        opacity: 0;
-    }
-}
-
+	
 @media (prefers-reduced-motion: reduce) {
     * {
         animation-duration: 0.01ms !important;
