@@ -33,7 +33,7 @@ special talents in the following areas:</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/cca/Clubs/Digital-Animation-Club/" rel="noopener noreferrer nofollow" target="_blank">Digital Animation</a>
+<p><a href="/cca/clubs/digital-animation-club/" rel="noopener noreferrer nofollow" target="_blank">Digital Animation</a>
 </p>
 </li>
 </ul>
@@ -43,7 +43,7 @@ special talents in the following areas:</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/cca/Clubs/Media-Club-Audio-Visual-Photography-Videography/" rel="noopener noreferrer nofollow" target="_blank">Media Club (Audio Visual, Photography &amp; Videography)</a>
+<p><a href="/cca/clubs/media-club-audio-visual-photography-videography/" rel="noopener noreferrer nofollow" target="_blank">Media Club (Audio Visual, Photography &amp; Videography)</a>
 </p>
 </li>
 </ul>
@@ -53,7 +53,7 @@ special talents in the following areas:</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/cca/Clubs/MARS-CLUB-MECHATRONICS-AERONAUTICS-AND-ROBOTICS/" rel="noopener noreferrer nofollow" target="_blank">MARS Club (Mechatronics, Aeronautics and Robotics)</a>
+<p><a href="/cca/clubs/mars-club-mechatronics-aeronautics-and-robotics/" rel="noopener noreferrer nofollow" target="_blank">MARS Club (Mechatronics, Aeronautics and Robotics)</a>
 </p>
 </li>
 </ul>
@@ -73,7 +73,7 @@ special talents in the following areas:</p>
 </tr>
 </tbody>
 </table>
-<h5><a href="/files/Students/Direct School Admission/3__DIRECT_SCHOOL_ADMISSION____Performing_Arts__Updated_7_May_.pdf" rel="noopener noreferrer nofollow" target="_blank">Performing Arts</a></h5>
+<h5><a href="/files/Students/Direct School Admission/3__DIRECT_SCHOOL_ADMISSION____Performing_Arts_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Performing Arts</a></h5>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -152,7 +152,7 @@ special talents in the following areas:</p>
 </tr>
 </tbody>
 </table>
-<h5><a href="/files/Students/Direct School Admission/4__DIRECT_SCHOOL_ADMISSION___Sports__Updated_7_May_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sports</a></h5>
+<h5><a href="/files/Students/Direct School Admission/4_DIRECT_SCHOOL_ADMISSION___Sports_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Sports</a></h5>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -210,7 +210,7 @@ special talents in the following areas:</p>
 </tr>
 </tbody>
 </table>
-<h5><a href="/files/Students/Direct School Admission/5__DIRECT_SCHOOL_ADMISSION___UGs__002___Updated_7_May_.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniformed Groups</a></h5>
+<h5><a href="/files/Students/Direct School Admission/5_DIRECT_SCHOOL_ADMISSION___UGs_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniformed Groups</a></h5>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -281,7 +281,7 @@ the area of talent.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Complete and submit <strong>online application.</strong> 
+<p>Complete and submit <strong>online application.</strong>
 </p>
 </li>
 <li>
