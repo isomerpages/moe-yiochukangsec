@@ -320,7 +320,7 @@ of supporting documents for non-school based activities at the trial/interview.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 4 Sep</p>
+<p>Between 25 Aug and 4 Sep</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Issuance of letters to all applicants</p>
