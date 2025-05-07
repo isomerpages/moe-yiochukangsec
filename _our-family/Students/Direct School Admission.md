@@ -273,10 +273,12 @@ the area of talent.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 May to 3 Jun (by 3pm)</p>
+<p>7 May to 3 Jun
+<br>(by 3pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Application opens on 7 May and closes on 3 June (by 3pm)</p>
+<p>Application opens on 7 May and
+<br>closes on 3 June (by 3pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -285,7 +287,7 @@ the area of talent.</p>
 </p>
 </li>
 <li>
-<p>MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/secondary/dsa</a>
+<p>MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/secondary/dsa</a>
 </p>
 </li>
 <li>
@@ -300,7 +302,8 @@ the area of talent.</p>
 <p>30 Jun to 4 Sep</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Audition and interview for short-listed applicants</p>
+<p>Audition and interview for
+<br>short-listed applicants</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -320,8 +323,7 @@ of supporting documents for non-school based activities at the trial/interview.<
 <p>By 4 Sep</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Issuance of letters to</p>
-<p>all applicants</p>
+<p>Issuance of letters to all applicants</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
