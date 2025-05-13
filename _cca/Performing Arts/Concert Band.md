@@ -69,6 +69,9 @@ variant: markdown
     </div>
     <hr>
     <h2 class="yck-h2">Gallery</h2>
+	<div class="video-container">
+		<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/mgOTUdk4Wog?si=3zehUlO_fiQC1NF_" height="315" width="560"></iframe>
+	</div>
     <div class="video-container">
         <iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQEFS0lTPV_Xp8eKt4tGkoYY6QEhQp22QSGOiozcqiekV-ZlfQx9dh64lmT8ljBNw/embed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
     </div>
