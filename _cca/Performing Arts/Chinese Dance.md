@@ -291,13 +291,16 @@ variant: markdown
       </table>
     </div>
   </details>
-  <details class="yck-details">
+	<h4>GALLERY</h4>
+	<hr>
+	<div class="video-comtainer">
+		<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/MGZ82cclYXk?si=tbUqZjYrztZ8vHFg" height="315" width="560"></iframe><div class="bqcontainer"><i>Singapore Youth Festival 2025</i></div>
+				<div class="video-container"><iframe src="https://www.youtube.com/embed/PKtc-skdeVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><div class="bqcontainer"><i>Singapoore Youth Festival 2019</i></div>
+</div>
+ <details class="yck-details">
     <summary class="yck-details__summary">Photo Gallery</summary>
      <div class="yck-details__content">
         <div class="yck-gallery-container">
-            <div class="yck-iframe-container">
-                <iframe src="https://www.youtube.com/embed/PKtc-skdeVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-             </div>
               <div class="yck-image-row">
                 <img alt="Chinese Dance" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C4.png">
                 <img alt="Chinese Dance" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C5.png">
@@ -456,6 +459,13 @@ variant: markdown
  .yck-component .yck-table tbody .yck-td p:last-child {
      margin-bottom: var(--yck-space-s-xl);
  }
+	
+	.yck-component .bqcontainer {
+    margin: 0 auto;
+    padding: 0;
+    margin-bottom: var(--yck-spacing-unit) !important;
+	text-align: center;
+}
 	
 .yck-component .col-container {
 	width: 100%;
@@ -706,4 +716,4 @@ variant: markdown
     flex: 1 1 30%;
     object-fit: cover;
 }
-</style>
+</style></div>
