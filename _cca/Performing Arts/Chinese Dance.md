@@ -10,47 +10,38 @@ variant: markdown
   <p>The Chinese Dance Club aims to engage the dancers in fun and interesting ways. We provide a platform for students to showcase their talents and creativity in Chinese dance through collaboration with external organisations. Through the various public performances, the club aims to progressively nurture the dancers to be young and confident adults. We have a comprehensive and structured programme to expose students to Chinese culture and learn the skills and techniques of Chinese Dance. Through dance, we also hope to instil self-discipline, perseverance and teamwork.</p>
   <img class="yck-img" alt="Chinese Dance" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C2.jpg">
   <img class="yck-img" alt="Chinese Dance" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C3.jpg">
+   <h4 class="yck-h4">Training Schedule</h4>
     <table class="yck-table">
-      <thead>
-        <tr>
-          <th class="yck-th">TRAINING INFORMATION</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td class="yck-td">EVERY TUESDAY</td>
-        </tr>
-        <tr>
-          <td class="yck-td">3:00PM to 5:30PM</td>
-        </tr>
-        <tr>
-          <td class="yck-td">Dance Studio 1 (Level 3); or</td>
-        </tr>
-        <tr>
-          <td class="yck-td">Hall (Level 2)</td>
-        </tr>
-        <tr>
-          <td class="yck-td">EVERY THURSDAY</td>
-        </tr>
-        <tr>
-          <td class="yck-td">3:00PM to 5:30PM</td>
-        </tr>
-        <tr>
-          <td class="yck-td">Dance Studio 1 (Level 3)</td>
-        </tr>
-        <tr>
-          <th class="yck-th">TEACHERS IN-CHARGE</th>
-        </tr>
-        <tr>
-          <td class="yck-td">Ms Tan Chun Buei (OIC) (ext 172)</td>
-        </tr>
-        <tr>
-          <td class="yck-td">Ms Teo Hwee Hong (ext 123)</td>
-        </tr>
-        <tr>
-          <td class="yck-td">Mdm Ye Yuluan (ext 197)</td>
-        </tr>
-      </tbody>
+        <thead>
+            <tr>
+                <th class="yck-th">
+                    <h5 class="yck-h5">DAY &amp; TIME:</h5>
+                </th>
+                <th class="yck-th">
+                    <h5 class="yck-h5">TEACHERS IN-CHARGE:</h5>
+                </th>
+                <th class="yck-th">
+                    <h5 class="yck-h5">VENUE:</h5>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="yck-td">
+                    <p>Every Tuesday, 3:00PM to 5:30PM</p>
+                    <p>Every Thursday, 3:00PM to 5:30PM</p>
+                </td>
+                <td class="yck-td">
+                    <p>Ms Tan Chun Buei (OIC) (ext 172)</p>
+                    <p>Ms Teo Hwee Hong (ext 123)</p>
+                    <p>Mdm Ye Yuluan (ext 197)</p>
+                </td>
+                <td class="yck-td">
+                    <p>Dance Studio 1 (Level 3) or Hall (Level 2)</p>
+                    <p>Dance Studio 1 (Level 3)</p>
+                </td>
+            </tr>
+        </tbody>
     </table>
   <details class="yck-details">
     <summary class="yck-details__summary">Proudest Moments</summary>
