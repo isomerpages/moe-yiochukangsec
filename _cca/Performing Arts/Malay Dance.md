@@ -23,19 +23,19 @@ variant: markdown
         </ul>
         <p>These performances not only showcase the talents of our dancers but also provide them with valuable experiences, cultivating their confidence and enhancing their stage presence.</p>
 </div>
-    <div class="yck-component">
+<div class="yck-component">
         <h3>Achievements &amp; Highlights</h3>
         <p>Our CCA has garnered recognition for its artistic achievements, with performances that celebrate the elegance and energy of Malay dance. Through dedication and passion, our dancers consistently push the boundaries of creativity, delivering performances that captivate audiences.</p>
 <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M2.jpg">
 </div>
-    <div class="yck-component">
+<div class="yck-component">
         <blockquote class="yck-blockquote">
             <p>We are really proud of our Malay Dancers for showing resilience and determination in the face of the numerous challenges. The extra practices and sacrifices we have had to make were worthwhile. I hope this experience has taught them to persevere and never give up no matter what challenges may come their way in the future.</p>
             <cite>Mdm Sutinah<br>Teacher in charge (Malay Dance)</cite>
             <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M4_2025.png">
         </blockquote>
 	</div>
-        <div class="yck-component">
+<div class="yck-component">
             <h4>Training Schedule</h4>
             <table class="yck-table">
                 <thead>
@@ -175,8 +175,8 @@ variant: markdown
 				<div class="video-container">
 					<iframe src="https://www.youtube.com/embed/rq9OGwsQ_VM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 				</div>
-					 </div>
-					 <div class="yck-component">
+	</div>
+<div class="yck-component">
         <details class="yck-details">
     <summary class="yck-details__summary">
         <h5 class="yck-h4">Photos Gallery</h5>
@@ -196,7 +196,7 @@ variant: markdown
         </div>
     </div>
 </details>
-    
+</div>    
 
 
 <style>
@@ -597,4 +597,4 @@ hr {
     width: 100%;
     height: 100%;
 }
-  </style></div>
+  </style>
