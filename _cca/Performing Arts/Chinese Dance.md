@@ -293,8 +293,8 @@ variant: markdown
   </details>
 	<h4>GALLERY</h4>
 	<hr>
-	<div class="video-comtainer">
-		<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/MGZ82cclYXk?si=tbUqZjYrztZ8vHFg" height="315" width="560"></iframe><div class="bqcontainer"><i>Singapore Youth Festival 2025</i></div>
+	<div class="video-container">
+		<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/MGZ82cclYXk?si=tbUqZjYrztZ8vHFg" height="315" width="560"></iframe><span>Singapore Youth Festival 2025</span></div>
 				<div class="video-container"><iframe src="https://www.youtube.com/embed/PKtc-skdeVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><div class="bqcontainer"><i>Singapoore Youth Festival 2019</i></div>
 </div>
  <details class="yck-details">
@@ -494,6 +494,7 @@ variant: markdown
         padding-bottom: 56.25%; /* 16:9 aspect ratio */
         height: 0;
         overflow: hidden;
+				margin-bottom: var(--yck-spacing-unit);
     }
 
 	.yck-component .video-container iframe {
@@ -716,4 +717,4 @@ variant: markdown
     flex: 1 1 30%;
     object-fit: cover;
 }
-</style></div>
+</style>
