@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 variant: markdown
 ---
 <div class="yck-component">
-    <img alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M1_2025.png">
+    <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M1_2025.png">
 
 <h3>Overview</h3>
 <p>The Malay Dance Performing Arts CCA offers a vibrant platform for our dancers to immerse themselves in the beauty and cultural richness of Malay dance. Our program is designed to instill discipline, confidence, perseverance, and teamwork in every dancer. We believe in nurturing not only technical skills but also emotional depth, allowing dancers to convey their inner selves through movement.</p>
@@ -68,107 +68,55 @@ variant: markdown
             </table>
         </div>
 				<div class="yck-component">
-        <details class="yck-details">
-            <summary class="yck-details__summary">
-                <h5 class="yck-h4">Proudest Moments</h5>
-            </summary>
-            <div class="yck-details__content">
-                <table class="yck-table">
-                    <thead>
-                        <tr>
-                            <th class="yck-th">YEAR</th>
-                            <th class="yck-th">AWARDS</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td class="yck-td"><strong>2024</strong></td>
-                            <td class="yck-td">National Day Observance Ceremony<br>Muara Festival @ Esplanade – Inang : Terendak Ria<br>Cantabile Concert</td>
-                        </tr>
-                        <tr>
-                            <td class="yck-td"><strong>2023</strong></td>
-                            <td class="yck-td">National Day Parade Performance<br>Muara Festival @ Esplanade<br>Cantabile Concert</td>
-                        </tr>
-                        <tr>
-                            <td class="yck-td"><strong>2022</strong></td>
-                            <td class="yck-td">Hari Raya Celebrations @ Singapore Police Force F Division Ang Mo Kio Headquarters</td>
-                        </tr>
-                        <tr>
-                            <td class="yck-td"><strong>2021</strong></td>
-                            <td class="yck-td">'Perlindungan' SYF Arts Presentation - Certificate of Accomplishment</td>
-                        </tr>
-                        <tr>
-                            <td class="yck-td"><strong>2019</strong></td>
-                            <td class="yck-td">'Tampi' SYF Arts Presentation - Certificate of Accomplishment</td>
-                        </tr>
-                        <tr>
-                            <td class="yck-td"><strong>2017</strong></td>
-                            <td class="yck-td">National Day Parade Performance (Thriving Together)</td>
-                        </tr>
-                        <tr>
-                            <td class="yck-td"><strong>2016</strong></td>
-                            <td class="yck-td">Participate in Chinese New Year Celebrations<br>Chingay Parade 2016<br>Muara Festival in 2016</td>
-                        </tr>
-                        <tr>
-                            <td class="yck-td"><strong>2015</strong></td>
-                            <td class="yck-td">Participation in Youth Celebrate<br>Muara Festival in 2015</td>
-                        </tr>
-                        <tr>
-                            <td class="yck-td"><strong>2013</strong></td>
-                            <td class="yck-td">'Topeng' SYF Arts Presentation - Certificate of Distinction</td>
-                        </tr>
-                        <tr>
-                            <td class="yck-td"><strong>2011</strong></td>
-                            <td class="yck-td">'Rindu' (SYF Central Judging - Gold Award)</td>
-                        </tr>
-                        <tr>
-                            <td class="yck-td"><strong>2009</strong></td>
-                            <td class="yck-td">'Jati' (SYF Central Judging - Gold with Honour Award) Perform @ Kallang Theatre</td>
-                        </tr>
-                        <tr>
-                            <td class="yck-td"><strong>2007</strong></td>
-                            <td class="yck-td">Zapin Tandak' (SYF Central Judging - Gold Award)</td>
-                        </tr>
-                        <tr>
-                            <td class="yck-td"><strong>2005</strong></td>
-                            <td class="yck-td">'Belenggu' (SYF Central Judging - Gold Award) Perform @ Sentosa</td>
-                        </tr>
-                        <tr>
-                            <td class="yck-td"><strong>2003</strong></td>
-                            <td class="yck-td">'Zapin Aksi' (SYF Central Judging - Gold Award) Perform @ Bird Park and SYF at the park.</td>
-                        </tr>
-                        <tr>
-                            <td class="yck-td"><strong>2001</strong></td>
-                            <td class="yck-td">'Tarian Piring' (SYF Central Judging - Gold Award, Top Dance Malay Dance Category) Perform @ SYF Presentation.</td>
-                        </tr>
-                        <tr>
-                            <td class="yck-td"><strong>1997</strong></td>
-                            <td class="yck-td">'Ceremonial Feast' (SYF Central Judging - Gold Award, SYF Top Dance) Perform @ SYF Presentation 1</td>
-                        </tr>
-                        <tr>
-                            <td class="yck-td"><strong>1996</strong></td>
-                            <td class="yck-td">1996 - '1st Prize, RI Inter-school Malay Dance Competition</td>
-                        </tr>
-                        <tr>
-                            <td class="yck-td"><strong>1995</strong></td>
-                            <td class="yck-td">Zapin Budi' (SYF Certificate of Merit) (1st Prize in RI inter-school Malay Dance Competition)</td>
-                        </tr>
-                        <tr>
-                            <td class="yck-td"><strong>1993</strong></td>
-                            <td class="yck-td">'Rentak Saji'(SYF Central Judging - Certificate of Merit)</td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-        </details>
-        <details class="yck-details">
-            <summary class="yck-details__summary">
-                <h5 class="yck-h4">Events/Competitions</h5>
-            </summary>
-            <div class="yck-details__content">
-                <p> Singapore Youth Festival – Arts Presentation<br> School Speech Day <br>Muara Festival @Esplanade<br>National Day Parade Celebration<br>National Day Observance Ceremony<br>Cantabile Concert<br>Chinese New Year Celebration</p>
-            </div>
-        </details>
+       <div class="col-container">
+    <div class="column">
+        <h4 class="yck-h4">Proudest Moments</h4>
+        <ul>
+            <li><b>2024</b><br>National Day Observance Ceremony<br>Muara Festival @ Esplanade – Inang : Terendak Ria<br>Cantabile Concert</li>
+        </ul>
+        <ul>
+            <li><b>2023</b><br>National Day Parade Performance<br>Muara Festival @ Esplanade<br>Cantabile Concert</li>
+        </ul>
+        <ul>
+            <li><b>2022</b><br>Hari Raya Celebrations @ Singapore Police Force F Division Ang Mo Kio Headquarters</li>
+        </ul>
+        <ul>
+            <li><b>2021</b><br>'Perlindungan' SYF Arts Presentation - Certificate of Accomplishment</li>
+        </ul>
+        <ul>
+            <li><b>2019</b><br>'Tampi' SYF Arts Presentation - Certificate of Accomplishment</li>
+        </ul>
+        <ul>
+            <li><b>2017</b><br>National Day Parade Performance (Thriving Together)</li>
+        </ul>
+        <ul>
+            <li><b>2016</b><br>Participate in Chinese New Year Celebrations<br>Chingay Parade 2016<br>Muara Festival in 2016</li>
+        </ul>
+        <ul>
+            <li><b>2015</b><br>Participation in Youth Celebrate<br>Muara Festival in 2015</li>
+        </ul>
+        <ul>
+            <li><b>2013</b><br>'Topeng' SYF Arts Presentation - Certificate of Distinction</li>
+        </ul>
+        <ul>
+            <li><b>2011</b><br>'Rindu' (SYF Central Judging - Gold Award)</li>
+        </ul>
+    </div>
+    <div class="column">
+        <h4 class="yck-h4">Events/Competitions</h4>
+        <ul>
+            <li>Singapore Youth Festival – Arts Presentation</li>
+            <li>School Speech Day</li>
+            <li>Muara Festival @Esplanade</li>
+            <li>National Day Parade Celebration</li>
+            <li>National Day Observance Ceremony</li>
+            <li>Cantabile Concert</li>
+            <li>Chinese New Year Celebration</li>
+        </ul>
+    </div>
+</div>
+</div>
+<div class="yck-component">
 			<h4>GALLERY</h4>
 			<div class="video-container">
 					 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Y0GbggmgiHM?si=jUXb6_t78UseHnXY" height="315" width="560"></iframe></div>
@@ -368,219 +316,8 @@ hr {
 .yck-component .yck-table tbody tr:last-child .yck-td:last-child p:last-child {
     margin-bottom: var(--yck-spacing-unit);
 }
-  
-    .yck-component .yck-blockquote::before {
-      content: open-quote;
-      font-size: 2em;
-      position: absolute;
-        top: 0.25em;
-        left: 0.25em;
-        color: var(--yck-color-text-light);
-    }
-  
-    .yck-component .yck-blockquote p {
-        margin-bottom: 0.5em;
-				line-height: 1.35em;
-        color: #555; /* Lighter font color */
-          font-size: inherit;
-    }
-  
-      .yck-component .yck-blockquote p:last-child {
-      margin-bottom: 0;
-    }
-      .yck-component .yck-blockquote cite {
-          display: block;
-          text-align: right;
-          margin-top: 1em;
-          font-style: normal;
-            color: #555; /* Lighter font color */
-           font-size: var(--yck-step--1);
-      }
-  
-      .yck-component .yck-blockquote cite::before {
-      content: "\2014 \0020"; /* En dash */
-      } 
-	
 
-
-
-  .yck-component ul.yck-custom-list {
-    list-style: none;
-    padding-left: 0;
-    margin-left: 0;
-      font-size: inherit;
-  }
-
-  .yck-component ul.yck-custom-list li {
-    position: relative;
-    padding-left: 1.5em;
-    margin-bottom: 0.5em;
-	  line-height: 1em;
-  }
-
-  .yck-component ul.yck-custom-list li::before {
-    content: "~";
-    position: absolute;
-    left: 0;
-  }
-      
-      .yck-component .yck-details__content ul, .yck-component .yck-details__content ol, .yck-component .yck-details__content ul li,
-      .yck-component .yck-details__content ol li,
-      .yck-component .yck-details__content  {
-          padding: 0;
-          margin: 0;
-      }
-      
-      .yck-component .yck-strong {
-          font-weight: 600;
-      }
-      
-      /* Base styles for yck-details */
-      .yck-component .yck-details {
-          border-top: 1px solid rgba(0, 0, 0, 0.15);
-          margin-top: clamp(0.5rem, 5%, 2rem);
-          margin-bottom: clamp(1rem, 5% 1.5rem);
-          overflow: hidden;
-          transition: border-color 0.7s;
-      }
-      
-      .yck-component .yck-details:hover {
-          border-color: #555;
-      }
-      
-      /* Summary styles */
-      .yck-component .yck-details__summary {
-          display: flex;
-          align-items: center;
-          justify-content: space-between;
-          cursor: pointer;
-          margin-top: clamp(0.5rem, 5%, 2rem);
-          text-transform: uppercase;
-	        font-size: var(--yck-step-2);
-      }
-      
-      .yck-component .yck-details__summary::after {
-          content: "+";
-          font-size: 1.5rem;
-          color: #999;
-          transition: transform 0.5s ease-in-out;
-          margin-right: 1rem;
-      }
-      
-      /* Rotate marker when open */
-      .yck-component .yck-details[open] .yck-details__summary::after {
-          transform: rotate(-45deg);
-      }
-      
-      /* Initial state for content (hidden) */
-      .yck-component .yck-details__content {
-          max-height: auto;
-          margin-bottom: clamp(1.25rem, 5%, 1.75rem);
-          opacity: 0;
-          overflow: hidden;
-          padding: 0;
-          animation: yckFadeOutSlideUp 0.5s ease forwards; /* Default close state */
-      }
-      
-      /* When open, animate slide and fade in */
-      .yck-component .yck-details[open] .yck-details__content {
-          animation: yckFadeInSlideDown 0.5s ease forwards;
-      }
-      
-      /* Keyframe for fade-in and slide-down */
-      @keyframes yckFadeInSlideDown {
-          0% {
-              max-height: auto;
-              opacity: 0;
-          }
-          100% {
-              max-height: auto; /* Adjust as needed */
-              opacity: 1;
-          }
-      }
-      
-      /* Keyframe for fade-out and slide-up */
-      @keyframes yckFadeOutSlideUp {
-          0% {
-              max-height: auto;
-              opacity: 1;
-          }
-          100% {
-              max-height: auto;
-              opacity: 0;
-          }
-      }
-      
-      
-      
-      
-      .yck-component .yck-flexbox-grid {
-          --yck-min: 22ch;
-          --yck-gap: 1.5em;
-      
-          display: flex;
-          flex-wrap: wrap;
-	        list-style: none;
-          gap: var(--yck-gap);
-      }
-      
-      .yck-component .yck-flexbox-grid > * {
-          flex: 1 1 var(--yck-min);
-      }
-	
-	  .yck-component .yck-gallery-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 1em; /* Space between items */
-  }
-
-  .yck-component .yck-gallery-container .yck-iframe-container {
-      position: relative;
-      width: 100%; /* Make iframe container take up full width of the parent*/
-      padding-bottom: 56.25%; /* 16:9 aspect ratio for the iframe */
-      overflow: hidden; /* Prevents content from overflowing*/
-  }
-
-
-  .yck-component .yck-gallery-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-      width: 100%; /* Make iframe fill full width of the container */
-       height: 100%; /* Make iframe fill the height*/
-     margin-bottom: 1em; /* Add bottom margin */
-  }
-
-  .yck-component .yck-gallery-container small {
-      display: block;
-      text-align: center;
-      font-style: italic;
-    margin-top: 0.5em;
-    color: var(--yck-color-text-light);
-  }
-
-   .yck-component .yck-gallery-container img {
-    display: block;
-    width: 100%;
-    height: auto;
-    border-radius:  var(--yck-border-radius);
-    box-shadow: var(--yck-box-shadow);
-}
-
-.yck-component .yck-gallery-container .yck-image-row {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 0.5em;
-}
-
-.yck-component .yck-gallery-container .yck-image-row img {
-    flex: 1 1 30%;
-    object-fit: cover;
-}
-	
-	.yck-component .video-container {
+.yck-component .video-container {
     position: relative;
     width: 100%;
     padding-bottom: 56.25%;
@@ -597,4 +334,460 @@ hr {
     width: 100%;
     height: 100%;
 }
+
+.yck-component .col-container {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+
+    /* CSS Multi-column Layout properties */
+    column-count: 2;
+    column-width: 360px;
+    column-gap: 1.5em;
+}
+
+.yck-component .isomer-card,
+.yck-component .column {
+    break-inside: avoid;
+    /* Prevents content from breaking across columns */
+    page-break-inside: avoid;
+    /* For older browsers */
+    padding: 20px;
+    /*     margin-block:  calc(var(--yck-spacing-unit)*0.5); */
+    border-radius: 5px;
+    box-shadow: var(--yck-box-shadow);
+}
+
+.yck-component .column {
+    margin-bottom: var(--yck-spacing-unit) !important;
+}
+
+.yck-component .column ul,
+.yck-component .column ol {
+    list-style: none;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0;
+}
+
+.yck-component .column ul li {
+    margin-left: 1rem;
+}
+
+/* Apply the animation on hover */
+.yck-component .column ul li:hover {
+    animation: fadeIn 1.25s forwards;
+}
+
+/* Revert the animation when not hovering */
+.yck-component .column ul li:not(:hover) {
+    animation: fadeOut 1.25s forwards;
+}
+
+
+
+.yck-component .yck-flexbox-grid {
+    --yck-min: minmax(25ch 100%);
+    --yck-gap: 1.5em;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: var(--yck-gap);
+}
+
+.yck-component .yck-flexbox-grid>* {
+    flex: 1 1 var(--yck-min);
+    list-style: none;
+}
+
+.yck-component .yck-flexbox-grid .isomer-card {
+    text-decoration: none;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.yck-component .yck-flexbox-grid .isomer-card:hover .isomer-card-body .isomer-card-link {
+    color: #3a79ff;
+}
+
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-image {
+    width: 100%;
+    object-fit: cover;
+}
+
+
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body {
+    padding: var(--yck-spacing-unit);
+}
+
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title {
+    color: #4a4a4a;
+    font-weight: 700;
+    font-size: var(--yck-step-1);
+    overflow-wrap: break-word;
+    text-wrap: balance;
+}
+
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-description {
+    color: #484848;
+/*     font-size: 1rem; */
+    font-size: var(--yck-step-0);
+}
+
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-link {
+    font-size: var(--yck-step-0);
+    text-decoration: underline;
+    color: #4372d6
+}
+
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-description) {
+    margin-bottom: 0.75rem
+}
+
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-link),
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-description:has(+.isomer-card-link) {
+    margin-bottom: 1.5rem
+}
+
+
+.yck-component .bqcontainer {
+    margin: 0 auto;
+    padding: 0;
+    margin-bottom: var(--yck-space-s-xl) !important;
+    /*     width: min(900px, calc(70% + 160px)); */
+}
+
+.yck-component blockquote {
+    position: relative;
+    padding: 25px 35px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: var(--yck-box-shadow);
+}
+
+.yck-component blockquote p {
+    color: #ff6b6b !important;
+    font-style: italic !important;
+    font-size: var(--yck-step-1) !important;
+    line-height: 1.5;
+    margin: 0;
+}
+
+.yck-component blockquote::before {
+    content: '"';
+    position: absolute;
+    top: 25px;
+    left: 10px;
+    color: #ff6b6b !important;
+    font-size: 60px;
+    font-family: Georgia, serif;
+    opacity: 0.3;
+}
+
+.yck-component cite {
+    display: block;
+    margin-top: var(--yck-spacing-unit);
+    font-size: var(--yck-step--1);
+    font-style: italic;
+    color: #555;
+    text-align: right;
+}
+
+.yck-component figure {
+    /*   border: thin #c0c0c0 solid; */
+    display: flex !important;
+    flex-flow: column !important;
+    /*   padding: 5px; */
+    max-width: 100%;
+    margin: auto !important;
+}
+
+.yck-component figure img {
+    border-radius: 8px;
+    box-shadow: var(--yck-box-shadow);
+}
+
+.yck-component figcaption {
+    background-color: rgba(255, 255, 255, 0.75);
+    color: #333;
+    font: italic var(--yck-step--1) sans-serif;
+    padding: 5px;
+    text-align: center;
+}
+
+.ken-burns-container {
+    max-width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.ken-burns-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    animation: kenBurns 30s var(--yck-transition-timing) infinite alternate;
+}
+
+@keyframes kenBurns {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.3);
+    }
+}
+
+details {
+    overflow: hidden;
+}
+
+details * {
+    margin: 0 !important;
+}
+
+details > p,
+details ul li {
+    margin-inline-start: 1.5rem !important;
+    padding-block: calc(var(--yck-spacing-unit) * 0.5);
+}
+
+summary {
+    margin-inline-start: 1.5rem !important;
+    list-style-position: outside;
+    cursor: pointer;
+    font-size: var(--yck-step-1);
+}
+
+summary::marker {
+    font-size: var(--yck-step-1);
+}
+
+details::details-content {
+    font-size: var(--yck-step-0);
+    block-size: 0;
+    transition:
+        block-size 1s,
+        content-visibility 1s;
+    transition-behavior: allow-discrete;
+}
+
+details[open]::details-content {
+    block-size: auto;
+    -webkit-animation: fade-in 1.6s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    animation: fade-in 1.6s ease-in both;
+}
+
+
+/* Define the keyframes for the fadeIn effect */
+@keyframes fadeIn {
+    from {
+        border-bottom: 1px solid #eee;
+    }
+
+    to {
+        border-bottom: 1px solid #e37f2a;
+    }
+}
+
+/* Define the keyframes for the fadeOut effect */
+@keyframes fadeOut {
+    from {
+        border-bottom: 1px solid #e37f2a;
+    }
+
+    to {
+        border-bottom: 1px solid #eee;
+    }
+}
+
+.fade-in {
+    -webkit-animation: fade-in 1.2s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    animation: fade-in 1.2s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+}
+
+/**
+ * ----------------------------------------
+ * animation fade-in
+ * ----------------------------------------
+ */
+@-webkit-keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+/**
+ * ----------------------------------------
+ * animation kenburns-right
+ * ----------------------------------------
+ */
+@-webkit-keyframes kenburns-right {
+    0% {
+        -webkit-transform: scale(1) translate(0, 0);
+        transform: scale(1) translate(0, 0);
+        -webkit-transform-origin: 84% 50%;
+        transform-origin: 84% 50%;
+    }
+
+    100% {
+        -webkit-transform: scale(1.25) translateX(20px);
+        transform: scale(1.25) translateX(20px);
+        -webkit-transform-origin: right;
+        transform-origin: right;
+    }
+}
+
+@keyframes kenburns-right {
+    0% {
+        -webkit-transform: scale(1) translate(0, 0);
+        transform: scale(1) translate(0, 0);
+        -webkit-transform-origin: 84% 50%;
+        transform-origin: 84% 50%;
+    }
+
+    100% {
+        -webkit-transform: scale(1.25) translateX(20px);
+        transform: scale(1.25) translateX(20px);
+        -webkit-transform-origin: right;
+        transform-origin: right;
+    }
+}
+
+/**
+ * ----------------------------------------
+ * animation kenburns-bottom
+ * ----------------------------------------
+ */
+@-webkit-keyframes kenburns-bottom {
+    0% {
+        -webkit-transform: scale(1) translateY(0);
+        transform: scale(1) translateY(0);
+        -webkit-transform-origin: 50% 84%;
+        transform-origin: 50% 84%;
+    }
+
+    100% {
+        -webkit-transform: scale(1.25) translateY(15px);
+        transform: scale(1.25) translateY(15px);
+        -webkit-transform-origin: bottom;
+        transform-origin: bottom;
+    }
+}
+
+@keyframes kenburns-bottom {
+    0% {
+        -webkit-transform: scale(1) translateY(0);
+        transform: scale(1) translateY(0);
+        -webkit-transform-origin: 50% 84%;
+        transform-origin: 50% 84%;
+    }
+
+    100% {
+        -webkit-transform: scale(1.25) translateY(15px);
+        transform: scale(1.25) translateY(15px);
+        -webkit-transform-origin: bottom;
+        transform-origin: bottom;
+    }
+}
+
+/**
+ * ----------------------------------------
+ * animation kenburns-top
+ * ----------------------------------------
+ */
+@-webkit-keyframes kenburns-top {
+    0% {
+        -webkit-transform: scale(1) translateY(0);
+        transform: scale(1) translateY(0);
+        -webkit-transform-origin: 50% 16%;
+        transform-origin: 50% 16%;
+    }
+
+    100% {
+        -webkit-transform: scale(1.25) translateY(-15px);
+        transform: scale(1.25) translateY(-15px);
+        -webkit-transform-origin: top;
+        transform-origin: top;
+    }
+}
+
+@keyframes kenburns-top {
+    0% {
+        -webkit-transform: scale(1) translateY(0);
+        transform: scale(1) translateY(0);
+        -webkit-transform-origin: 50% 16%;
+        transform-origin: 50% 16%;
+    }
+
+    100% {
+        -webkit-transform: scale(1.25) translateY(-15px);
+        transform: scale(1.25) translateY(-15px);
+        -webkit-transform-origin: top;
+        transform-origin: top;
+    }
+}
+
+/**
+ * ----------------------------------------
+ * animation kenburns-left
+ * ----------------------------------------
+ */
+@-webkit-keyframes kenburns-left {
+    0% {
+        -webkit-transform: scale(1) translate(0, 0);
+        transform: scale(1) translate(0, 0);
+        -webkit-transform-origin: 16% 50%;
+        transform-origin: 16% 50%;
+    }
+
+    100% {
+        -webkit-transform: scale(1.25) translate(-20px, 15px);
+        transform: scale(1.25) translate(-20px, 15px);
+        -webkit-transform-origin: left;
+        transform-origin: left;
+    }
+}
+
+@keyframes kenburns-left {
+    0% {
+        -webkit-transform: scale(1) translate(0, 0);
+        transform: scale(1) translate(0, 0);
+        -webkit-transform-origin: 16% 50%;
+        transform-origin: 16% 50%;
+    }
+
+    100% {
+        -webkit-transform: scale(1.25) translate(-20px, 15px);
+        transform: scale(1.25) translate(-20px, 15px);
+        -webkit-transform-origin: left;
+        transform-origin: left;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
+}
+
+
+
   </style>
