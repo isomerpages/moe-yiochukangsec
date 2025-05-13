@@ -11,7 +11,7 @@ variant: markdown
 <div class="yck-component">
     <div class="yck-flexbox-grid">
         <div class="column">
-            <details>
+            <details name="ccas">
                 <summary>Clubs</summary>
                 <ul>
                     <li><a href="/cca/clubs/digital-animation-club/">Digital Animation Club</a></li>
@@ -21,7 +21,7 @@ variant: markdown
             </details>
         </div>
         <div class="column">
-            <details>
+            <details name="ccas">
                 <summary>Physical Sports</summary>
                 <ul>
                     <li><a href="/cca/physical-sports/badminton/">Badminton</a></li>
@@ -32,7 +32,7 @@ variant: markdown
             </details>
         </div>
         <div class="column">
-            <details>
+            <details name="ccas">
                 <summary>Performing Arts</summary>
                 <ul>
                     <li><a href="/cca/Performing-Arts/Choir/">Choir</a></li>
@@ -45,7 +45,7 @@ variant: markdown
             </details>
         </div>
         <div class="column">
-            <details>
+            <details name="ccas">
                 <summary>Uniform Groups</summary>
                 <ul>
                     <li><a href="/cca/Uniformed-Groups/NPCC/">NPCC</a></li>

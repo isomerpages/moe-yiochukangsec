@@ -79,7 +79,12 @@ variant: markdown
 </div>
 
 <div class="yck-component">
+
 <h3>Gallery</h3>
+<div class="video-container">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/PxkxoMZpPoI?si=J3PLlqtyQMrGTsHj" height="315" width="560"></iframe>	
+</div>
+	<hr><p></p>
 <div class="image-gallery">
 <img alt="Indian Dance 2025 Image 0" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_0.jpg">
 <img alt="Indian Dance 2025 Image 1" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_2025_1.jpg">
