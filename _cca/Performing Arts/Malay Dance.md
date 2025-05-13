@@ -35,10 +35,8 @@ variant: markdown
             <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M4_2025.png">
         </blockquote>
 	</div>
-        <div>
-            <p></p>
+        <div class="yck-component">
             <h4>Training Schedule</h4>
-            <p></p>
             <table class="yck-table">
                 <thead>
                     <tr>
@@ -69,6 +67,7 @@ variant: markdown
                 </tbody>
             </table>
         </div>
+				<div class="yck-component">
         <details class="yck-details">
             <summary class="yck-details__summary">
                 <h5 class="yck-h4">Proudest Moments</h5>
@@ -172,18 +171,18 @@ variant: markdown
         </details>
 			<h4>GALLERY</h4>
 			<div class="video-container">
-					 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Y0GbggmgiHM?si=jUXb6_t78UseHnXY" height="315" width="560"></iframe><div><i>Singapore Youth Festival 2025</i></div>
+					 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Y0GbggmgiHM?si=jUXb6_t78UseHnXY" height="315" width="560"></iframe></div>
+				<div class="video-container">
+					<iframe src="https://www.youtube.com/embed/rq9OGwsQ_VM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+				</div>
 					 </div>
+					 <div class="yck-component">
         <details class="yck-details">
     <summary class="yck-details__summary">
-        <h5 class="yck-h4">Gallery</h5>
+        <h5 class="yck-h4">Photos Gallery</h5>
     </summary>
     <div class="yck-details__content">
         <div class="yck-gallery-container">
-            <div class="yck-iframe-container">
-                <iframe src="https://www.youtube.com/embed/rq9OGwsQ_VM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-            </div>
-            <small><i>YCKSS Malay Dance 2019</i></small>
             <div class="yck-image-row">
 							<ul class="yck-flexbox-grid">
 							<li><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M1.jpg"></li>
@@ -598,4 +597,4 @@ hr {
     width: 100%;
     height: 100%;
 }
-  </style>
+  </style></div>
