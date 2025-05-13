@@ -6,26 +6,15 @@ third_nav_title: Performing Arts
 variant: markdown
 ---
 <div class="yck-component">
-    <div><img alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M1_2025.png">
-    </div>
-    <div>
-        <p></p>
-        <h3>Overview</h3>
-        <p></p>
-        <p>The Malay Dance Performing Arts CCA offers a vibrant platform for our dancers to immerse themselves in the beauty and cultural richness of Malay dance. Our program is designed to instill discipline, confidence, perseverance, and teamwork in every dancer. We believe in nurturing not only technical skills but also emotional depth, allowing dancers to convey their inner selves through movement.</p>
-    </div>
-    <div>
-        <p></p>
-        <h3>Vision &amp; Values</h3>
-        <p></p>
-        <p>At the heart of our CCA is the spirit of <i>PERTAME NALURI SENI</i>, where dancers are encouraged to touch their inner soul and express their creativity with grace and authenticity. We aim to inspire a deep connection between the dancers and the cultural heritage of Malay dance, embracing both traditional and contemporary styles.</p>
-    </div>
-    <div>
-        <p></p>
-        <h3>Training &amp; Exposure</h3>
-        <p></p>
-        <p>Our dancers are exposed to a wide range of Malay dance genres, blending traditional movements with modern elements. We emphasize technique, coordination, and expression, ensuring that each dancer hones their skills while preserving the cultural essence of the art form.</p>
-        <p>Throughout the year, our dancers have opportunities to perform at school functions and prestigious public events. They have proudly represented the school at national platforms such as:</p>
+    <img alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M1_2025.png">
+
+<h3>Overview</h3>
+<p>The Malay Dance Performing Arts CCA offers a vibrant platform for our dancers to immerse themselves in the beauty and cultural richness of Malay dance. Our program is designed to instill discipline, confidence, perseverance, and teamwork in every dancer. We believe in nurturing not only technical skills but also emotional depth, allowing dancers to convey their inner selves through movement.</p>
+<h3>Vision &amp; Values</h3>
+<p>At the heart of our CCA is the spirit of <i>PERTAME NALURI SENI</i>, where dancers are encouraged to touch their inner soul and express their creativity with grace and authenticity. We aim to inspire a deep connection between the dancers and the cultural heritage of Malay dance, embracing both traditional and contemporary styles.</p>
+<h3>Training &amp; Exposure</h3>
+<p>Our dancers are exposed to a wide range of Malay dance genres, blending traditional movements with modern elements. We emphasize technique, coordination, and expression, ensuring that each dancer hones their skills while preserving the cultural essence of the art form.</p>
+<p>Throughout the year, our dancers have opportunities to perform at school functions and prestigious public events. They have proudly represented the school at national platforms such as:</p>
         <ul>
             <li>Singapore Youth Festival</li>
             <li>National Day Observance Ceremony</li>
@@ -33,20 +22,19 @@ variant: markdown
             <li>Cantabile Concert</li>
         </ul>
         <p>These performances not only showcase the talents of our dancers but also provide them with valuable experiences, cultivating their confidence and enhancing their stage presence.</p>
-    </div>
-    <div>
-        <p></p>
+</div>
+    <div class="yck-component">
         <h3>Achievements &amp; Highlights</h3>
-        <p></p>
         <p>Our CCA has garnered recognition for its artistic achievements, with performances that celebrate the elegance and energy of Malay dance. Through dedication and passion, our dancers consistently push the boundaries of creativity, delivering performances that captivate audiences.</p>
-    </div>
-    <div><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M2.jpg"></div>
+<img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M2.jpg">
+</div>
     <div class="yck-component">
         <blockquote class="yck-blockquote">
             <p>We are really proud of our Malay Dancers for showing resilience and determination in the face of the numerous challenges. The extra practices and sacrifices we have had to make were worthwhile. I hope this experience has taught them to persevere and never give up no matter what challenges may come their way in the future.</p>
             <cite>Mdm Sutinah<br>Teacher in charge (Malay Dance)</cite>
-            <p><img alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M4_2025.png"></p>
+            <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M4_2025.png">
         </blockquote>
+	</div>
         <div>
             <p></p>
             <h4>Training Schedule</h4>
@@ -184,7 +172,7 @@ variant: markdown
         </details>
 			<h4>GALLERY</h4>
 			<div class="video-container">
-					 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Y0GbggmgiHM?si=jUXb6_t78UseHnXY" height="315" width="560"></iframe>
+					 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Y0GbggmgiHM?si=jUXb6_t78UseHnXY" height="315" width="560"></iframe><div><i>Singapore Youth Festival 2025</i></div>
 					 </div>
         <details class="yck-details">
     <summary class="yck-details__summary">
@@ -209,8 +197,8 @@ variant: markdown
         </div>
     </div>
 </details>
-    </div>
-</div>
+    
+
 
 <style>
 :root {
