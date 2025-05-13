@@ -182,6 +182,10 @@ variant: markdown
                 <p> Singapore Youth Festival – Arts Presentation<br> School Speech Day <br>Muara Festival @Esplanade<br>National Day Parade Celebration<br>National Day Observance Ceremony<br>Cantabile Concert<br>Chinese New Year Celebration</p>
             </div>
         </details>
+			<h4>GALLERY</h4>
+			<div class="video-container">
+					 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Y0GbggmgiHM?si=jUXb6_t78UseHnXY" height="315" width="560"></iframe>
+					 </div>
         <details class="yck-details">
     <summary class="yck-details__summary">
         <h5 class="yck-h4">Gallery</h5>
@@ -210,19 +214,12 @@ variant: markdown
 
 <style>
 :root {
-    --yck-color-text-light: #888;
-    --yck-color-border: #e0e0e0;
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
-    --yck-content-width: 100%;
-    --yck-transition-speed: 0.8s;
-    --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
     --yck-spacing-unit: 1em;
-    --yck-border-radius: 4px;
-    --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-
-    /* @link https://utopia.fyi/type/calculator?c=320,18,1.125,1240,18,1.2,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
+    --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+    --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
 
     --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
     --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
@@ -233,14 +230,15 @@ variant: markdown
     --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
-    --yck-space-s-l: clamp(1.125rem, 0.7337rem + 1.9565vw, 2.25rem);
+    --yck-space-s-xl: clamp(0.75rem, 0.2143rem + 3.9286vw, 3.75rem);
+    interpolate-size: allow-keywords;
 }
-
 
 .yck-component {
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
     font-size: var(--yck-step-0);
+    margin-bottom: var(--yck-space-s-xl);
 }
 
 .yck-component h1,
@@ -253,10 +251,6 @@ variant: markdown
     overflow-wrap: break-word;
 }
 
-.yck-component p {
-    text-wrap: pretty;
-}
-
 .yck-component h1,
 .yck-component h2,
 .yck-component h3,
@@ -266,10 +260,28 @@ variant: markdown
     text-wrap: balance;
 }
 
+.yck-component a,
+.yck-component a:hover {
+    text-decoration: none;
+}
+
+.yck-component p,
+.yck-component ol,
+.yck-component ul {
+    text-wrap: pretty;
+    margin-bottom: var(--yck-space-s-xl);
+}
+
+.yck-component p:last-child,
+.yck-component ul li:last-child,
+.yck-component ol li:last-child {
+    margin-bottom: calc(var(--yck-spacing-unit) * 2);
+}
+
 .yck-component .yck-h1,
 .yck-component h1 {
     font-size: var(--yck-step-5);
-    margin-bottom: var(--yck-space-s-l);
+    margin-bottom: var(--yck-space-s-xl);
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -277,7 +289,8 @@ variant: markdown
 .yck-component .yck-h2,
 .yck-component h2 {
     font-size: var(--yck-step-4);
-    margin-bottom: var(--yck-space-s-l) * 0.8;
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.6);
+    text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -285,7 +298,8 @@ variant: markdown
 .yck-component .yck-h3,
 .yck-component h3 {
     font-size: var(--yck-step-3);
-    margin-bottom: var(--yck-space-s-l) * 0.6;
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+    text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -293,8 +307,8 @@ variant: markdown
 .yck-component .yck-h4,
 .yck-component h4 {
     font-size: var(--yck-step-2);
-    margin-bottom: var(--yck-space-s-l) * 0.4;
-    text-transform: titlecase;
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.3);
+    text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -302,7 +316,7 @@ variant: markdown
 .yck-component .yck-h5,
 .yck-component h5 {
     font-size: var(--yck-step-1);
-    margin-bottom: var(--yck-space-m);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.1);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -311,41 +325,29 @@ variant: markdown
 .yck-component .yck-h6,
 .yck-component h6 {
     font-size: var(--yck-step-0);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.2);
+    margin-bottom: var(--yck-spacing-unit);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.yck-component .yck-text-small {
-    font-size: var(--yck-step--1);
-    margin-bottom: var(--yck-space-xs);
+.yck-component hr,
+hr {
+    border: 1px dotted slategrey;
+    margin-block: clamp(1rem, 2vw, 2.5rem);
 }
 
-.yck-component .yck-text-xs {
-    font-size: var(--yck-step--2);
-    margin-bottom: var(--yck-space-2xs);
-}
-
-.yck-component ol,
-.yck-component p,
-.yck-component ul {
-    font-size: var(--yck-step-0);
-    margin-bottom: var(--yck-spacing-unit);
-    text-wrap: pretty;
-}      
 .yck-component .yck-table {
     border-collapse: collapse;
     max-width: 100%;
-    margin-top: 1.6em;
+    margin-top: 0.5em;
     margin-bottom: var(--yck-spacing-unit);
-    font-size: var(--yck-step-0);
 }
 
 .yck-component .yck-th {
     background-color: #f2f2f2;
     text-align: left;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px dotted #ddd;
     text-transform: uppercase;
 }
 
@@ -356,33 +358,29 @@ variant: markdown
 }
 
 .yck-component .yck-td {
-    border-bottom: 1px solid #ddd;
-    max-width: 300px;
+    border-bottom: 1px dotted #ddd;
+    min-width: 120px;
+    max-width: 100%;
     word-wrap: break-word;
-    line-height: 1.6rem;
+    text-wrap: pretty;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
-  }
-
-.yck-component .yck-table tbody .yck-td p {
-    margin-block: 0;
-    padding-bottom: 0.5em;
 }
-    
- .yck-component .yck-table tbody .yck-td p:last-child {
-     padding-bottom: 1.5em;
- }      
-     .yck-component .yck-blockquote {
-      margin: 1.5em 0;
-      padding: 1.5em 2em;
-      border-left: 4px solid var(--yck-color-border);
-      font-style: italic;
-      background-color: #f9f9f9;
-      position: relative;
-        border-radius: 8px;
-          box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
-         font-size: var(--yck-step-0);
-    }
+
+.yck-component .yck-table tbody .yck-td,
+.yck-component .yck-table tbody .yck-td p {
+    margin-top: 0;
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+    line-height: 1.5rem;
+    padding-bottom: 0.25em;
+    font-size: var(--yck-step-0);
+}
+
+/* Apply margin-bottom only when it is the last table-date in the row or contains the last paragraph */
+.yck-component .yck-table tbody tr:last-child .yck-td:last-child,
+.yck-component .yck-table tbody tr:last-child .yck-td:last-child p:last-child {
+    margin-bottom: var(--yck-spacing-unit);
+}
   
     .yck-component .yck-blockquote::before {
       content: open-quote;
@@ -593,5 +591,23 @@ variant: markdown
 .yck-component .yck-gallery-container .yck-image-row img {
     flex: 1 1 30%;
     object-fit: cover;
+}
+	
+	.yck-component .video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
   </style>
