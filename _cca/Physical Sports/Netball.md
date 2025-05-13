@@ -49,48 +49,56 @@ variant: markdown
 
 <div class="yck-component">
     <h4>Events and Competitions</h4>
-    <ul>
-        <li><h5>2020</h5>
+	<div class="col-container">
+		<div class="column">
+    <h5>2020</h5>
             <ul>
                 <li>South Zone Netball Championship</li>
             </ul>
-        </li>
-        <li><h5>2019</h5>
+		</div>
+        <div class="column">
+					<h5>2019</h5>
             <ul>
                 <li>M1 Schools Challenge League – 'B' Div (2nd in Group Level)</li>
                 <li>North Zone Netball Championship</li>
                 <li>ACTive Netball Carnival</li>
             </ul>
-        </li>
-        <li><h5>2018</h5>
+		</div>
+    <div class="column">   
+		<h5>2018</h5>
             <ul>
                 <li>North Zone Netball Championship – 'B' Div (2nd Round)</li>
                 <li>M1 Schools Challenge League – 'C' Div (1st in Group Level and Overall Champion)</li>
                 <li>Deloitte Pesta Sukan – 'B' and 'C' Div (3rd in Group Level)</li>
                 <li>T Net U14 Netball Tournament – 'C' Div (3rd in Group Level)</li>
             </ul>
-        </li>
-        <li><h5>2017</h5>
+		</div>
+        
+<div class="column">
+			<h5>2017</h5>
             <ul>
                 <li>M1 Schools Challenge League – 'B' Div (2nd in Group Level)</li>
                 <li>M1 Schools Challenge League – 'C' Div (1st in Group Level)</li>
             </ul>
-        </li>
-        <li><h5>2016</h5>
+		</div>
+        
+<div class="column">
+		<h5>2016</h5>
             <ul>
                 <li>M1 Schools Challenge League – 'B' Div (1st in Group Level and Overall Champion)</li>
                 <li>M1 Schools Challenge League – 'C' Div (1st in Group Level and Overall 1st Runner Up)</li>
             </ul>
-        </li>
-        <li><h5>2015</h5>
+		</div>
+        <div class="column">
+					<h5>2015</h5>
             <ul>
                 <li>North Zone Netball Championship – 'C' Div (2nd Round)</li>
                 <li>Ulu Pandan Sports X'Perience Street Netball – 'B' Div (Overall Champion)</li>
                 <li>M1 Schools Challenge League – 'B' Div (2nd in Group Level)</li>
             </ul>
-        </li>
-    </ul>
+		</div>
 </div>
+	</div>
 
 <div class="yck-component">
 	<h4 class="yck-h4">Gallery</h4>
@@ -229,38 +237,60 @@ variant: markdown
     height: 100%;
 }
 
+.yck-component .col-container {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+
+    /* CSS Multi-column Layout properties */
+    column-count: 2;
+    column-width: 360px;
+    column-gap: 1.5em;
+}
+
+.yck-component .column {
+    break-inside: avoid;
+    /* Prevents content from breaking across columns */
+    page-break-inside: avoid;
+    /* For older browsers */
+    padding: 20px;
+    /*     margin-block:  calc(var(--yck-spacing-unit)*0.5); */
+    border-radius: 5px;
+    box-shadow: var(--yck-box-shadow);
+}
+
+.yck-component .column {
+    margin-bottom: var(--yck-spacing-unit) !important;
+}
+
+.yck-component .column ul {
+    list-style: none;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0;
+}
+
+.yck-component .column ul li {
+    margin-left: 1rem;
+}
+
 /* Apply the animation on hover */
+.yck-component .column ul li:hover {
+    animation: fadeIn 1.25s forwards;
+}
 
 /* Revert the animation when not hovering */
 .yck-component .column ul li:not(:hover) {
-    animation: fadeOut 1.5s forwards;
+    animation: fadeOut 1.25s forwards;
 }
 
-/* Define the keyframes for the fade-in effect */
-
-/* Define the keyframes for the fade-out effect */
-@keyframes fadeOut {
-    from {
-        border-bottom: 1px solid #e37f2a;
-    }
-
-    to {
-        border-bottom: 1px solid #fff;
-    }
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-description) {
+    margin-bottom: 0.75rem
 }
 
-.yck-component figure {
-    /*   border: thin #c0c0c0 solid; */
-    display: flex !important;
-    flex-flow: column !important;
-    /*   padding: 5px; */
-    max-width: 100%;
-    margin: auto !important;
-}
-
-.yck-component figure img {
-    border-radius: 8px;
-    box-shadow: var(--yck-box-shadow);
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-link),
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-description:has(+.isomer-card-link) {
+    margin-bottom: 1.5rem
 }
 
 .ken-burns-container {
@@ -273,7 +303,7 @@ variant: markdown
     width: 100%;
     height: 100%;
     object-fit: cover;
-    animation: kenBurns 30s ease-in-out infinite alternate;
+    animation: kenBurns 30s var(--yck-transition-timing) infinite alternate;
 }
 
 @keyframes kenBurns {
@@ -285,7 +315,98 @@ variant: markdown
         transform: scale(1.3);
     }
 }
-	
+
+summary::marker {
+    font-size: var(--yck-step-1);
+}
+
+details::details-content {
+    font-size: var(--yck-step-0);
+    block-size: 0;
+    transition:
+        block-size 1s,
+        content-visibility 1s;
+    transition-behavior: allow-discrete;
+}
+
+details[open]::details-content {
+    block-size: auto;
+    -webkit-animation: fade-in 1.6s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    animation: fade-in 1.6s ease-in both;
+}
+
+
+/* Define the keyframes for the fadeIn effect */
+@keyframes fadeIn {
+    from {
+        border-bottom: 1px solid #eee;
+    }
+
+    to {
+        border-bottom: 1px solid #e37f2a;
+    }
+}
+
+/* Define the keyframes for the fadeOut effect */
+@keyframes fadeOut {
+    from {
+        border-bottom: 1px solid #e37f2a;
+    }
+
+    to {
+        border-bottom: 1px solid #eee;
+    }
+}
+
+/**
+ * ----------------------------------------
+ * animation fade-in
+ * ----------------------------------------
+ */
+@-webkit-keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+/**
+ * ----------------------------------------
+ * animation kenburns-right
+ * ----------------------------------------
+ */
+
+/**
+ * ----------------------------------------
+ * animation kenburns-bottom
+ * ----------------------------------------
+ */
+
+/**
+ * ----------------------------------------
+ * animation kenburns-top
+ * ----------------------------------------
+ */
+
+/**
+ * ----------------------------------------
+ * animation kenburns-left
+ * ----------------------------------------
+ */
+
 @media (prefers-reduced-motion: reduce) {
     * {
         animation-duration: 0.01ms !important;
@@ -295,13 +416,6 @@ variant: markdown
     }
 }
 
-.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-description) {
-    margin-bottom: 0.75rem
-}
 
-.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-link),
-.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-description:has(+.isomer-card-link) {
-    margin-bottom: 1.5rem
-}
 
 </style>
