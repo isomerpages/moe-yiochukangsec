@@ -67,8 +67,8 @@ variant: markdown
                 </tbody>
             </table>
         </div>
-				<div class="yck-component">
-       <div class="col-container">
+<div class="yck-component">
+  <div class="col-container">
     <div class="column">
         <h4 class="yck-h4">Proudest Moments</h4>
         <ul>
