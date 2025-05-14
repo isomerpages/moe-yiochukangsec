@@ -225,16 +225,16 @@ variant: markdown
     <div class="video-container"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/PKtc-skdeVM"></iframe>
     </div>
     <figure>
-        <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C4.png" alt="Chinese Dance">
-        <figcaption>&nbsp;</figcaption>
+        <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C4.png" alt="Highlights from events in 2020">
+        <figcaption>Highlights from events in 2020;</figcaption>
     </figure>
     <figure>
-        <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C5.png" alt="Chinese Dance">
-        <figcaption>&nbsp;</figcaption>
+        <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C5.png" alt="Highlights from previous years events">
+        <figcaption>Highlights from previous years events</figcaption>
     </figure>
     <figure>
-        <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C6.png" alt="Chinese Dance">
-        <figcaption>&nbsp;</figcaption>
+        <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C6.png" alt="Our way-back events ...">
+        <figcaption>"Our "way-back" events ...</figcaption>
     </figure>
 </div>
 
@@ -459,9 +459,9 @@ variant: markdown
 
 .yck-component figcaption {
     background-color: rgba(255, 255, 255, 0.75);
-    color: #333;
-    font: italic var(--yck-step--1) sans-serif;
-    padding: 5px;
+    color: #888;
+    font: italic var(--yck-step--2) sans-serif;
+    padding: calc(var(--yck-spacing-unit)*0.5);
     text-align: center;
 }
 
@@ -488,94 +488,4 @@ variant: markdown
     }
 }
 
-summary::marker {
-    font-size: var(--yck-step-1);
-}
-
-details::details-content {
-    font-size: var(--yck-step-0);
-    block-size: 0;
-    transition:
-        block-size 1s,
-        content-visibility 1s;
-    transition-behavior: allow-discrete;
-}
-
-details[open]::details-content {
-    block-size: auto;
-    -webkit-animation: fade-in 1.6s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
-    animation: fade-in 1.6s ease-in both;
-}
-
-
-/* Define the keyframes for the fadeIn effect */
-
-/* Define the keyframes for the fadeOut effect */
-@keyframes fadeOut {
-    from {
-        border-bottom: 1px solid #e37f2a;
-    }
-
-    to {
-        border-bottom: 1px solid #eee;
-    }
-}
-
-/**
- * ----------------------------------------
- * animation fade-in
- * ----------------------------------------
- */
-@-webkit-keyframes fade-in {
-    0% {
-        opacity: 0;
-    }
-
-    100% {
-        opacity: 1;
-    }
-}
-
-@keyframes fade-in {
-    0% {
-        opacity: 0;
-    }
-
-    100% {
-        opacity: 1;
-    }
-}
-
-/**
- * ----------------------------------------
- * animation kenburns-right
- * ----------------------------------------
- */
-
-/**
- * ----------------------------------------
- * animation kenburns-bottom
- * ----------------------------------------
- */
-
-/**
- * ----------------------------------------
- * animation kenburns-top
- * ----------------------------------------
- */
-
-/**
- * ----------------------------------------
- * animation kenburns-left
- * ----------------------------------------
- */
-
-@media (prefers-reduced-motion: reduce) {
-    * {
-        animation-duration: 0.01ms !important;
-        animation-iteration-count: 1 !important;
-        transition-duration: 0.01ms !important;
-        scroll-behavior: auto !important;
-    }
-}
 </style>
