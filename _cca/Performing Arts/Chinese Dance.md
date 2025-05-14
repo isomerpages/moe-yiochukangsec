@@ -46,8 +46,9 @@ variant: markdown
         <tbody>
             <tr>
                 <td class="yck-td">
-                    <p>Every Tuesday, 3:00PM to 5:30PM</p>
-                    <p>Every Thursday, 3:00PM to 5:30PM</p>
+                    <p>Every Tuesday, 3:00PM to 5:30PM<br>Dance Rm 1 or Hall</p>
+									<hr>
+                    <p>Every Thursday, 3:00PM to 5:30PM<br>Dance Rm 1</p>
                 </td>
                 <td class="yck-td">
                     <p>Ms Tan Chun Buei (OIC) (ext 172)</p>
@@ -55,8 +56,8 @@ variant: markdown
                     <p>Mdm Ye Yuluan (ext 197)</p>
                 </td>
                 <td class="yck-td">
-                    <p>Dance Studio 1 (Level 3) or Hall (Level 2)</p>
-                    <p>Dance Studio 1 (Level 3)</p>
+                    <details name="venue"><summary>Dance Rm 1 (Level 3)</summary><p>Blk B, #03-01</p></details>
+                    <details name="venue"><summary>Hall (Level 2)</summary><p>Blk A, #02-01 <i>(above the canteen)</i></p></details>
                 </td>
             </tr>
         </tbody>
