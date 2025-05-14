@@ -44,10 +44,10 @@ variant: markdown
             </tr>
         </tbody>
     </table>
-    <h2 class="yck-h2">Achievements</h2>
+    <h3 class="yck-h3">Achievements</h3>
     <div class="col-container">
         <div class="column">
-            <h3 class="yck-h3">Accomplishments</h3>
+            <h4 class="yck-h4">Accomplishments</h4>
             <table class="yck-table">
                 <thead>
                     <tr>
@@ -84,7 +84,7 @@ variant: markdown
             </table>
         </div>
         <div class="column">
-            <h3 class="yck-h3">Events</h3>
+            <h4 class="yck-h4">Events</h4>
             <table class="yck-table">
                 <thead>
                     <tr>
@@ -118,7 +118,7 @@ variant: markdown
         </div>
     </div>
     <hr>
-    <h2 class="yck-h2">Gallery</h2>
+    <h4 class="yck-h4">GALLERY</h4>
 	 <div class="video-container">
         <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/eMlGkZWOsdo?si=zCeTwQJFVg0QFxdH" height="315" width="560"></iframe>
     </div>
