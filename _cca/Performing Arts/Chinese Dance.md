@@ -56,8 +56,8 @@ variant: markdown
                     <p>Mdm Ye Yuluan (ext 197)</p>
                 </td>
                 <td class="yck-td">
-                    <details name="venue"><summary>Dance Rm 1 (Level 3)</summary><p>Blk B, #03-01</p></details>
-                    <details name="venue"><summary>Hall (Level 2)</summary><p>Blk A, #02-01 <i>(above the canteen)</i></p></details>
+                    <details name="venue"><summary>Dance Rm 1 (Level 3)</summary><p>Blk B, #03-01</p></details><hr>
+                    <details name="venue"><summary>Hall (Level 2)</summary><p>Blk A, #02-01 <br><i>(above the canteen)</i></p></details>
                 </td>
             </tr>
         </tbody>
@@ -314,6 +314,12 @@ variant: markdown
     letter-spacing: var(--yck-heading-letter-spacing);
 }
 
+.yck-component hr,
+hr {
+    border: 0.5px solid rgba(200, 200, 200, 0.5);
+    margin-block: clamp(0.5rem, 2vw, 2.5rem);
+}
+
 .yck-component .yck-table {
     border-collapse: collapse;
     max-width: 100%;
@@ -470,6 +476,47 @@ variant: markdown
     padding: calc(var(--yck-spacing-unit)*0.5);
     text-align: center;
 }
+	
+details {
+    overflow: hidden;
+}
+
+details * {
+    margin: 0 !important;
+}
+
+details > p,
+details ul li {
+    margin-inline-start: 1.5rem !important;
+    padding-block: calc(var(--yck-spacing-unit) * 0.5);
+}
+
+summary {
+    margin-inline-start: 1.5rem !important;
+    list-style-position: outside;
+    cursor: pointer;
+    font-size: var(--yck-step-0);
+}
+
+summary::marker {
+    font-size: var(--yck-step-0);
+}
+
+details::details-content {
+    font-size: var(--yck-step-0);
+    block-size: 0;
+    transition:
+        block-size 1s,
+        content-visibility 1s;
+    transition-behavior: allow-discrete;
+}
+
+details[open]::details-content {
+    block-size: auto;
+    -webkit-animation: fade-in 1.6s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    animation: fade-in 1.6s ease-out both;
+}
+
 
 .ken-burns-container {
     max-width: 100%;
