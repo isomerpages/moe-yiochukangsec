@@ -17,6 +17,11 @@ variant: markdown
 <div class="yck-component">
     <blockquote>
         <p>We are definitely proud of our girls in Chinese Dance as they demonstrated perseverance, teamwork and care for their peers during the training sessions. They spent many hours trying to improve on their technique and encouraged one another to persevere.</p>
+			<div class="ken-burns-container">
+			<figure>
+			<img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C3quoteimg.jpg" class="ken-burns-image">
+			</figure>
+				</div>
         <p>We hope the girls have enjoyed this journey and have grown into more confident individuals.</p>
         <cite>MS TAN CHUN BUEI &amp; MS TEO HWEE HONG,
             TEACHERS IN-CHARGE</cite>
@@ -418,7 +423,7 @@ variant: markdown
 .yck-component blockquote p {
     color: #ff6b6b !important;
     font-style: italic !important;
-    font-size: var(--yck-step-1) !important;
+    font-size: var(--yck-step--1) !important;
     line-height: 1.5;
     margin: 0;
 }
@@ -437,7 +442,7 @@ variant: markdown
 .yck-component cite {
     display: block;
     margin-top: var(--yck-spacing-unit);
-    font-size: var(--yck-step--1);
+    font-size: var(--yck-step--2);
     font-style: italic;
     color: #555;
     text-align: right;
