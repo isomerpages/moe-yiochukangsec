@@ -19,11 +19,13 @@ variant: markdown
 <tbody><tr>
 <th class="yck-th">Training Information</th>
 <th class="yck-th">Teachers-in-charge</th>
+<th class="yck-th">Venue</th>
 </tr>
 <tr>
-<td class="yck-td">Every WEDNESDAY<br>3:00PM to 5:30PM</td>
-<td class="yck-td">Mdm Siva (ext 136)<br>Mrs Ilango (ext 175)<br>Mdm Rathidevi (ext 170)</td>
-</tr>
+<td class="yck-td">Every MONDAY<br>3:00PM to 5:30PM</td>
+	<td class="yck-td"><p>Mdm Siva (ext 136)</p><p>Mrs Ilango (ext 175)</p><p>Mdm Rathidevi (ext 170)</p></td>
+	<td class="yck-td"><details><summary>Dance Studio 1 (Level 3)</summary>Blk B, #03-01</details>
+</td></tr>
 </tbody></table>
 </div>
 
@@ -95,26 +97,39 @@ variant: markdown
 </div>
 
 <div class="yck-component">
-<div class="image-gallery">
+<figure>
 <img alt="Indian Dance 1" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_1.PNG">
+	</figure>
+	<figure>
 <img alt="Indian Dance 2" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_2.PNG">
+	</figure>
+	<figure>
 <img alt="Indian Dance 3" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_3.PNG">
-</div>
+	</figure>
 </div>
 
+
 <div class="yck-component">
-<details class="yck-details">
-<summary class="yck-details__summary yck-h4">Past Gallery</summary>
-<div class="yck-details__content">
-<div class="image-gallery">
+<details>
+<summary>Archived Gallery</summary>
+<figure>
 <img alt="Indian Dance 4" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I4.png">
+	</figure>
+	<figure>
 <img alt="Indian Dance 5" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I5.png">
+	</figure>
+	<figure>
 <img alt="Indian Dance 6" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I6.png">
+		</figure>
+	<figure>
 <img alt="Indian Dance 7" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I7.png">
+		</figure>
+	<figure>
 <img alt="Indian Dance 8" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I8.png">
+	</figure>
+	<figure>
 <img alt="Indian Dance 9" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I9.png">
-</div>
-</div>
+	</figure>
 </details>
 </div>
 <hr>
