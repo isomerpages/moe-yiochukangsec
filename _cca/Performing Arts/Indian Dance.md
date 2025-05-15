@@ -6,7 +6,9 @@ third_nav_title: Performing Arts
 variant: markdown
 ---
 <div class="yck-component">
-<img alt="Indian Dance Cover" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_Nov2023_Cover.jpg">
+	<figure>
+		<img alt="Indian Dance Cover" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_Nov2023_Cover.jpg">
+	</figure>
 
 <p>The Indian Dance CCA aims to help develop and nurture the pupils holistically. Apart from exposure to Indian culture and different styles of Indian dance, the CCA also provides opportunities to the pupils to acquire self-confidence, determination, resilience, a sense of responsibility and the ability to work with others. With these qualities and disposition which align with the school values, we hope to equip them to succeed for life.</p>
 
@@ -14,7 +16,7 @@ variant: markdown
 </div>
 
 <div class="yck-component">
-<h3>Training Schedule</h3>
+<h4 class="yck-h4">Training Schedule</h4>
 <table class="yck-table">
 <tbody><tr>
 <th class="yck-th">Training Information</th>
@@ -81,18 +83,28 @@ variant: markdown
 </div>
 
 <div class="yck-component">
-
-<h3>Gallery</h3>
+<h4 class="yck-h4">Gallery</h4>
 <div class="video-container">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/PxkxoMZpPoI?si=J3PLlqtyQMrGTsHj" height="315" width="560"></iframe>	
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/PxkxoMZpPoI?si=J3PLlqtyQMrGTsHj" height="315" width="560"></iframe>
+	</div>
 </div>
-	<hr><p></p>
-<div class="image-gallery">
+<div class="yck-component">
+<div class="col-container">
+	<figure>
 <img alt="Indian Dance 2025 Image 0" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_0.jpg">
+	</figure>
+	<figure>
 <img alt="Indian Dance 2025 Image 1" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_2025_1.jpg">
+		</figure>
+		<figure>
 <img alt="Indian Dance 2025 Image 2" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_2.jpg">
+			</figure>
+			<figure>
 <img alt="Indian Dance 2025 Image 5" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_5.jpg">
+				</figure>
+				<figure>
 <img alt="Indian Dance 2025 Image 9" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_9.jpg">
+				</figure>
 </div>
 </div>
 
@@ -132,16 +144,17 @@ variant: markdown
 	</figure>
 </details>
 </div>
-<hr>
+
 
 
 <style>
-    
 :root {
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
     --yck-spacing-unit: 1em;
+    --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+    --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
 
     --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
     --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
@@ -152,7 +165,7 @@ variant: markdown
     --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
-    --yck-space-s-xl: clamp(0.75rem, 0.7337rem + 1.9565vw, 2.7994rem);
+    --yck-space-s-xl: clamp(0.75rem, 0.2143rem + 3.9286vw, 3.75rem);
     interpolate-size: allow-keywords;
 }
 
@@ -163,58 +176,32 @@ variant: markdown
     margin-bottom: var(--yck-space-s-xl);
 }
 
-.yck-component h1,
-.yck-component h2,
 .yck-component h3,
 .yck-component h4,
 .yck-component h5,
-.yck-component h6,
 .yck-component p {
     overflow-wrap: break-word;
 }
 
-.yck-component h1,
-.yck-component h2,
 .yck-component h3,
 .yck-component h4,
-.yck-component h5,
-.yck-component h6 {
+.yck-component h5 {
     text-wrap: balance;
 }
 
-.yck-component p,
-.yck-component ol,
-.yck-component ul {
+.yck-component p {
     text-wrap: pretty;
-    margin-bottom: var(--yck-spacing-unit);
-}
-
-.yck-component *:last-child,
-.yck-component ul li:last-child,
-.yck-component ol li:last-child {
-    margin-bottom: calc(var(--yck-space-s-xl)*1.2);
-}
-
-.yck-component .yck-h1,
-.yck-component h1 {
-    font-size: var(--yck-step-5);
     margin-bottom: var(--yck-space-s-xl);
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.yck-component .yck-h2,
-.yck-component h2 {
-    font-size: var(--yck-step-4);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.8);
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
+.yck-component p:last-child {
+    margin-bottom: calc(var(--yck-spacing-unit) * 2);
 }
 
-.yck-component .yck-h3,
 .yck-component h3 {
     font-size: var(--yck-step-3);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.6);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+    text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
@@ -222,36 +209,30 @@ variant: markdown
 .yck-component .yck-h4,
 .yck-component h4 {
     font-size: var(--yck-step-2);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.4);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.3);
     text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.yck-component .yck-h5,
 .yck-component h5 {
     font-size: var(--yck-step-1);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.3);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.1);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.yck-component .yck-h6,
-.yck-component h6 {
-    font-size: var(--yck-step-0);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.2);
-    text-transform: uppercase;
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
+hr {
+    border: 0.5px solid rgba(200, 200, 200, 0.5);
+    margin-block: clamp(0.5rem, 2vw, 2.5rem);
 }
 
 .yck-component .yck-table {
     border-collapse: collapse;
     max-width: 100%;
     margin-top: 0.5em;
-    margin-bottom: var(--yck-space-s-xl);
-    font-size: var(--yck-step-0);
+    margin-bottom: var(--yck-spacing-unit);
 }
 
 .yck-component .yck-th {
@@ -261,17 +242,16 @@ variant: markdown
     text-transform: uppercase;
 }
 
-.yck-component .yck-th h4,
-.yck-component .yck-th h5,
-.yck-component .yck-th h6 {
+.yck-component .yck-th h5 {
     margin: 0 0 0.5em;
 }
 
 .yck-component .yck-td {
     border-bottom: 1px dotted #ddd;
-    min-width: 140px;
-    max-width: 640px;
+    min-width: 120px;
+    max-width: 100%;
     word-wrap: break-word;
+    text-wrap: pretty;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
 }
@@ -279,163 +259,153 @@ variant: markdown
 .yck-component .yck-table tbody .yck-td,
 .yck-component .yck-table tbody .yck-td p {
     margin-top: 0;
-    margin-bottom: 0.25em;
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
     line-height: 1.5rem;
-    padding-bottom: 0.5em;
+    padding-bottom: 0.25em;
+    font-size: var(--yck-step-0);
 }
 
 /* Apply margin-bottom only when it is the last table-date in the row or contains the last paragraph */
-.yck-component .yck-table tbody tr:last-child .yck-td:last-child,
-.yck-component .yck-table tbody tr:last-child .yck-td:last-child p:last-child {
-    margin-bottom: calc(var(--yck-space-s-xl)*1.2);
+.yck-component .yck-table tbody tr:last-child .yck-td:last-child {
+    margin-bottom: var(--yck-spacing-unit);
 }
-	
+
+.yck-component .video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
 .yck-component .col-container {
     width: 100%;
-    max-width: 1200px;
+    max-width: 1000px;
     margin: 0 auto;
 
     /* CSS Multi-column Layout properties */
     column-count: 2;
-    column-width: 400px;
-    column-gap: 20px;
+    column-width: 360px;
+    column-gap: 1.5em;
 }
 
-.yck-component .column {
-    break-inside: avoid; /* Prevents content from breaking across columns */
-    page-break-inside: avoid; /* For older browsers */
-    padding: 20px;
-    margin-bottom: 20px;
-    border-radius: 5px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+/* Apply the animation on hover */
+
+/* Revert the animation when not hovering */
+.yck-component .column ul li:not(:hover) {
+    animation: fadeOut 1.25s forwards;
 }
 
-    /** Responsive Video container **/
-.yck-component  .video-container {
-        position: relative;
-        width: 100%;
-        padding-bottom: 56.25%; /* 16:9 aspect ratio */
-        height: 0;
-        overflow: hidden;
-    }
-.yck-component .video-container iframe {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-  }
-	
-.yck-component .yck-details__content,
-.yck-component .yck-details__content ol,
-.yck-component .yck-details__content ol li,
-.yck-component .yck-details__content ul,
-.yck-component .yck-details__content ul li {
-    padding: 0;
-    margin: 0;
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-description) {
+    margin-bottom: 0.75rem
 }
 
-.yck-component .yck-details {
-    border-top: 1px solid rgba(0, 0, 0, 0.15);
-    margin-top: clamp(1rem, 5%, 2rem);
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-link),
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-description:has(+.isomer-card-link) {
+    margin-bottom: 1.5rem
+}
+
+.yck-component figure {
+    /*   border: thin #c0c0c0 solid; */
+    display: flex !important;
+    flex-flow: column !important;
+    padding: calc(var(--yck-spacing-unit)*0.7);
+    max-width: 100%;
+    margin: auto !important;
+}
+
+.yck-component figure img {
+    border-radius: 8px;
+    box-shadow: var(--yck-box-shadow);
+}
+
+details {
     overflow: hidden;
-    transition: border-color 0.7s;
 }
 
-.yck-component .yck-details:hover {
-    border-color: #555;
+details * {
+    margin: 0 !important;
 }
 
-.yck-component .yck-details__summary {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+details > p,
+details ul li {
+    padding-block: calc(var(--yck-spacing-unit) * 0.5);
+}
+
+summary {
+    margin-inline-start: 1.5rem !important;
+    list-style-position: outside;
     cursor: pointer;
-    margin-top: clamp(0.75rem, 5%, 1.5rem);
-    padding-bottom: clamp(1rem, 5%, 2rem);
-    text-transform: uppercase;
-    font-size: var(--yck-step-2);
+    font-size: var(--yck-step-0);
 }
 
-.yck-component .yck-details__summary::after {
-    content: '+';
-    font-size: var(--yck-step-2);
-    color: #999;
-    transition: transform 0.5s ease-in-out;
-    margin-right: 1rem;
+summary::marker {
+    font-size: var(--yck-step-0);
 }
 
-.yck-component .yck-details[open] .yck-details__summary::after {
-    transform: rotate(-45deg);
+details::details-content {
+    font-size: var(--yck-step-0);
+    block-size: 0;
+    transition:
+        block-size 1s,
+        content-visibility 1s;
+    transition-behavior: allow-discrete;
 }
 
-.yck-component .yck-details__content {
-    max-height: auto;
-    margin-bottom: clamp(1.25rem, 5%, 1.75rem);
-    opacity: 0;
-    overflow: hidden;
-    padding: 0;
-    animation: yckFadeOutSlideUp 0.5s ease forwards;
+details[open]::details-content {
+    block-size: auto;
+	  margin-inline-start: 1.5rem !important;
+    -webkit-animation: fade-in 1.6s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    animation: fade-in 1.6s ease-out both;
 }
 
-.yck-component .yck-details[open] .yck-details__content {
-    animation: yckFadeInSlideDown 0.5s ease forwards;
+
+/* Define the keyframes for the fadeIn effect */
+
+/* Define the keyframes for the fadeOut effect */
+@keyframes fadeOut {
+    from {
+        border-bottom: 1px solid #e37f2a;
+    }
+
+    to {
+        border-bottom: 1px solid #eee;
+    }
 }
 
-@keyframes yckFadeInSlideDown {
+/**
+ * ----------------------------------------
+ * animation fade-in
+ * ----------------------------------------
+ */
+@-webkit-keyframes fade-in {
     0% {
-        max-height: auto;
         opacity: 0;
     }
 
     100% {
-        max-height: auto;
         opacity: 1;
     }
 }
 
-@keyframes yckFadeOutSlideUp {
+@keyframes fade-in {
     0% {
-        max-height: auto;
-        opacity: 1;
+        opacity: 0;
     }
 
     100% {
-        max-height: auto;
-        opacity: 0;
+        opacity: 1;
     }
 }
 
-.wrapper {
-    width: 100%;
-    max-width: 1270px;
-    margin-inline: auto;
-    position: relative;
-    height: 493px;
-    margin-top: 1.5rem;
-    overflow: hidden;
-    mask-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1) 8%, rgba(0, 0, 0, 1) 92%, rgba(0, 0, 0, 0))
-}
-
-
-.wrapper img {
-    border-radius: 10px;
-    box-shadow: -5px -5px 10px rgba(0,0,0,0.1);
-}
-		
-.image-gallery {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); /* Flexible columns with a minimum of 200px */
-    gap: 1em; /* Space between grid items */
-    justify-items: center; /* Center the images within their grid cells */
-}
-
-.image-gallery img {
-    width: 100%; /* Ensure the images take up the full width of their grid cell */
-    height: auto; /* Maintain aspect ratio */
-    border-radius: 5px; /* Optional: Add rounded corners */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add subtle shadow */
-    object-fit: cover; /* Ensures images fit nicely */
-}
-	
 </style>
