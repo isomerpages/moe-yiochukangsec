@@ -356,6 +356,7 @@ summary::marker {
 details::details-content {
     font-size: var(--yck-step-0);
     block-size: 0;
+	  margin-inline-start: 1.5rem !important;
     transition:
         block-size 1s,
         content-visibility 1s;
@@ -364,7 +365,6 @@ details::details-content {
 
 details[open]::details-content {
     block-size: auto;
-	  margin-inline-start: 1.5rem !important;
     -webkit-animation: fade-in 1.6s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
     animation: fade-in 1.6s ease-out both;
 }
