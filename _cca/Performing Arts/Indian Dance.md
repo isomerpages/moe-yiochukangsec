@@ -294,7 +294,7 @@ hr {
     margin: 0 auto;
 
     /* CSS Multi-column Layout properties */
-    column-count: 2;
+    column-count: 3;
     column-width: 360px;
     column-gap: 1.5em;
 }
