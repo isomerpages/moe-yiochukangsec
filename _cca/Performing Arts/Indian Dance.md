@@ -6,146 +6,232 @@ third_nav_title: Performing Arts
 variant: markdown
 ---
 <div class="yck-component">
-	<figure>
-		<img alt="Indian Dance Cover" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_Nov2023_Cover.jpg">
-	</figure>
-
-<p>The Indian Dance CCA aims to help develop and nurture the pupils holistically. Apart from exposure to Indian culture and different styles of Indian dance, the CCA also provides opportunities to the pupils to acquire self-confidence, determination, resilience, a sense of responsibility and the ability to work with others. With these qualities and disposition which align with the school values, we hope to equip them to succeed for life.</p>
-
-<p>This year, our Indian Dance CCA had the exciting opportunity to perform at both Dance Extravaganza and Senses 2024, where we took our art out into the public and shared it with a broader audience. The experience was made even more special as we collaborated on choreography and costume ideas, allowing each of us to bring our unique perspectives and creativity to the performances. These events highlighted our teamwork and commitment, and we are proud to have represented our school with passion and dedication.</p>
+    <figure>
+        <img alt="Indian Dance Cover" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_Nov2023_Cover.jpg">
+    </figure>
+    <p>The Indian Dance CCA aims to help develop and nurture the pupils holistically. Apart from exposure to Indian culture and different styles of Indian dance, the CCA also provides opportunities to the pupils to acquire self-confidence, determination, resilience, a sense of responsibility and the ability to work with others. With these qualities and disposition which align with the school values, we hope to equip them to succeed for life.</p>
+    <p>This year, our Indian Dance CCA had the exciting opportunity to perform at both Dance Extravaganza and Senses 2024, where we took our art out into the public and shared it with a broader audience. The experience was made even more special as we collaborated on choreography and costume ideas, allowing each of us to bring our unique perspectives and creativity to the performances. These events highlighted our teamwork and commitment, and we are proud to have represented our school with passion and dedication.</p>
 </div>
-
 <div class="yck-component">
-<h4 class="yck-h4">Training Schedule</h4>
-<table class="yck-table">
-<tbody><tr>
-<th class="yck-th">Training Information</th>
-<th class="yck-th">Teachers-in-charge</th>
-<th class="yck-th">Venue</th>
-</tr>
-<tr>
-<td class="yck-td">Every MONDAY<br>3:00PM to 5:30PM</td>
-	<td class="yck-td"><p>Mdm Siva (ext 136)</p><p>Mrs Ilango (ext 175)</p><p>Mdm Rathidevi (ext 170)</p></td>
-	<td class="yck-td"><details><summary>Dance Studio 1 (Level 3)</summary>Blk B, #03-01</details>
-</td></tr>
-</tbody></table>
+    <h4 class="yck-h4">Training Schedule</h4>
+    <table class="yck-table">
+        <tbody>
+            <tr>
+                <th class="yck-th">Training Information</th>
+                <th class="yck-th">Teachers-in-charge</th>
+                <th class="yck-th">Venue</th>
+            </tr>
+            <tr>
+                <td class="yck-td">Every MONDAY<br>3:00PM to 5:30PM</td>
+                <td class="yck-td">
+                    <p>Mdm Siva (ext 136)</p>
+                    <p>Mrs Ilango (ext 175)</p>
+                    <p>Mdm Rathidevi (ext 170)</p>
+                </td>
+                <td class="yck-td">
+                    <details>
+                        <summary>Dance Studio 1 (Level 3)</summary>Blk B, #03-01
+                    </details>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </div>
-
 <div class="yck-component">
-<table class="yck-table">
-<tbody><tr>
-<th class="yck-th">Dance Instructor</th>
-</tr>
-<tr>
-<td class="yck-td">Mdm Suganthi Kesavan (Bharathaa Arts)</td>
-</tr>
-</tbody></table>
+    <div class="col-container">
+        <div class="isomer-card">
+            <div class="isomer-card-body">
+                <div class="isomer-card-title yck-h5">Dance Instructor</div>
+                <div class="isomer-card-description">Mdm Suganthi Kesavan <a target="_blank" href="https://bharathaaarts.wixsite.com/bharathaaarts/the-founders" class="isomer-card-link">(Bharathaa Arts)</a></div>
+            </div>
+        </div>
+    </div>
 </div>
-
 <hr>
-
 <div class="yck-component">
-<h3>Our Achievements</h3>
-<table class="yck-table">
-<tbody>
-<tr><th class="yck-th"><h5>2023</h5></th></tr>
-<tr><td class="yck-td">Deepavali Celebrations at Singapore Police Force's Police Intelligence Department</td></tr>
-<tr><td class="yck-td">National Day Parade Performance</td></tr>
-<tr><th class="yck-th"><h5>2022</h5></th></tr>
-<tr><td class="yck-td">Deepavali Celebrations at Ang Mo Kio Police Divisional HQ</td></tr>
-<tr><th class="yck-th"><h5>2021</h5></th></tr>
-<tr><td class="yck-td">SYF Arts Presentation - Certificate of Distinction</td></tr>
-<tr><th class="yck-th"><h5>2019</h5></th></tr>
-<tr><td class="yck-td">SYF Arts Presentation - Certificate of Distinction</td></tr>
-<tr><th class="yck-th"><h5>2018</h5></th></tr>
-<tr><td class="yck-td">SYF Festival at Esplanade / National Day Observance Ceremony</td></tr>
-<tr><td class="yck-td">YCK Community Celebration</td></tr>
-<tr><th class="yck-th"><h5>2017</h5></th></tr>
-<tr><td class="yck-td">National Day Parade Performance</td></tr>
-<tr><th class="yck-th"><h5>2016</h5></th></tr>
-<tr><td class="yck-td">Chingay Parade</td></tr>
-<tr><th class="yck-th"><h5>2015</h5></th></tr>
-<tr><td class="yck-td">SG 50 Youth Celebration</td></tr>
-<tr><th class="yck-th"><h5>2013</h5></th></tr>
-<tr><td class="yck-td">SYF Arts Presentation - Certificate of Distinction</td></tr>
-<tr><th class="yck-th"><h5>2012</h5></th></tr>
-<tr><td class="yck-td">Arts Festival</td></tr>
-<tr><th class="yck-th"><h5>2011</h5></th></tr>
-<tr><td class="yck-td">SYF Central Judging - Gold Award for SYF</td></tr>
-<tr><th class="yck-th"><h5>2009</h5></th></tr>
-<tr><td class="yck-td">SYF Central Judging - Gold with Honours for SYF</td></tr>
-<tr><th class="yck-th"><h5>2008</h5></th></tr>
-<tr><td class="yck-td">Arts Biennale at Victoria Theatre (School event)</td></tr>
-<tr><th class="yck-th"><h5>2007/2005</h5></th></tr>
-<tr><td class="yck-td">SYF Central Judging - Gold with Honours for SYF</td></tr>
-</tbody>
-</table>
+    <h3>Our Achievements</h3>
+    <table class="yck-table">
+        <tbody>
+            <tr>
+                <th class="yck-th">
+                    <h5>2023</h5>
+                </th>
+            </tr>
+            <tr>
+                <td class="yck-td">Deepavali Celebrations at Singapore Police Force's Police Intelligence Department</td>
+            </tr>
+            <tr>
+                <td class="yck-td">National Day Parade Performance</td>
+            </tr>
+            <tr>
+                <th class="yck-th">
+                    <h5>2022</h5>
+                </th>
+            </tr>
+            <tr>
+                <td class="yck-td">Deepavali Celebrations at Ang Mo Kio Police Divisional HQ</td>
+            </tr>
+            <tr>
+                <th class="yck-th">
+                    <h5>2021</h5>
+                </th>
+            </tr>
+            <tr>
+                <td class="yck-td">SYF Arts Presentation - Certificate of Distinction</td>
+            </tr>
+            <tr>
+                <th class="yck-th">
+                    <h5>2019</h5>
+                </th>
+            </tr>
+            <tr>
+                <td class="yck-td">SYF Arts Presentation - Certificate of Distinction</td>
+            </tr>
+            <tr>
+                <th class="yck-th">
+                    <h5>2018</h5>
+                </th>
+            </tr>
+            <tr>
+                <td class="yck-td">SYF Festival at Esplanade / National Day Observance Ceremony</td>
+            </tr>
+            <tr>
+                <td class="yck-td">YCK Community Celebration</td>
+            </tr>
+            <tr>
+                <th class="yck-th">
+                    <h5>2017</h5>
+                </th>
+            </tr>
+            <tr>
+                <td class="yck-td">National Day Parade Performance</td>
+            </tr>
+            <tr>
+                <th class="yck-th">
+                    <h5>2016</h5>
+                </th>
+            </tr>
+            <tr>
+                <td class="yck-td">Chingay Parade</td>
+            </tr>
+            <tr>
+                <th class="yck-th">
+                    <h5>2015</h5>
+                </th>
+            </tr>
+            <tr>
+                <td class="yck-td">SG 50 Youth Celebration</td>
+            </tr>
+            <tr>
+                <th class="yck-th">
+                    <h5>2013</h5>
+                </th>
+            </tr>
+            <tr>
+                <td class="yck-td">SYF Arts Presentation - Certificate of Distinction</td>
+            </tr>
+            <tr>
+                <th class="yck-th">
+                    <h5>2012</h5>
+                </th>
+            </tr>
+            <tr>
+                <td class="yck-td">Arts Festival</td>
+            </tr>
+            <tr>
+                <th class="yck-th">
+                    <h5>2011</h5>
+                </th>
+            </tr>
+            <tr>
+                <td class="yck-td">SYF Central Judging - Gold Award for SYF</td>
+            </tr>
+            <tr>
+                <th class="yck-th">
+                    <h5>2009</h5>
+                </th>
+            </tr>
+            <tr>
+                <td class="yck-td">SYF Central Judging - Gold with Honours for SYF</td>
+            </tr>
+            <tr>
+                <th class="yck-th">
+                    <h5>2008</h5>
+                </th>
+            </tr>
+            <tr>
+                <td class="yck-td">Arts Biennale at Victoria Theatre (School event)</td>
+            </tr>
+            <tr>
+                <th class="yck-th">
+                    <h5>2007/2005</h5>
+                </th>
+            </tr>
+            <tr>
+                <td class="yck-td">SYF Central Judging - Gold with Honours for SYF</td>
+            </tr>
+        </tbody>
+    </table>
 </div>
-
 <div class="yck-component">
-<h4 class="yck-h4">Gallery</h4>
-<div class="video-container">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/PxkxoMZpPoI?si=J3PLlqtyQMrGTsHj" height="315" width="560"></iframe>
-	</div>
+    <h4 class="yck-h4">Gallery</h4>
+    <div class="video-container">
+        <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/PxkxoMZpPoI?si=J3PLlqtyQMrGTsHj" height="315" width="560"></iframe>
+    </div>
 </div>
 <div class="yck-component">
-<div class="col-container">
-	<figure>
-<img alt="Indian Dance 2025 Image 0" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_0.jpg">
-	</figure>
-	<figure>
-<img alt="Indian Dance 2025 Image 1" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_2025_1.jpg">
-		</figure>
-		<figure>
-<img alt="Indian Dance 2025 Image 2" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_2.jpg">
-			</figure>
-			<figure>
-<img alt="Indian Dance 2025 Image 5" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_5.jpg">
-				</figure>
-				<figure>
-<img alt="Indian Dance 2025 Image 9" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_9.jpg">
-				</figure>
+    <div class="col-container">
+        <figure>
+            <img alt="Indian Dance 2025 Image 0" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_0.jpg">
+        </figure>
+        <figure>
+            <img alt="Indian Dance 2025 Image 1" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_2025_1.jpg">
+        </figure>
+        <figure>
+            <img alt="Indian Dance 2025 Image 2" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_2.jpg">
+        </figure>
+        <figure>
+            <img alt="Indian Dance 2025 Image 5" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_5.jpg">
+        </figure>
+        <figure>
+            <img alt="Indian Dance 2025 Image 9" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/indian_dance_2025_9.jpg">
+        </figure>
+    </div>
 </div>
-</div>
-
 <div class="yck-component">
-<figure>
-<img alt="Indian Dance 1" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_1.PNG">
-	</figure>
-	<figure>
-<img alt="Indian Dance 2" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_2.PNG">
-	</figure>
-	<figure>
-<img alt="Indian Dance 3" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_3.PNG">
-	</figure>
+    <figure>
+        <img alt="Indian Dance 1" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_1.PNG">
+    </figure>
+    <figure>
+        <img alt="Indian Dance 2" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_2.PNG">
+    </figure>
+    <figure>
+        <img alt="Indian Dance 3" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/Indian_Dance_3.PNG">
+    </figure>
 </div>
-
-
 <div class="yck-component">
-<details>
-<summary>Archived Gallery</summary>
-<figure>
-<img alt="Indian Dance 4" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I4.png">
-	</figure>
-	<figure>
-<img alt="Indian Dance 5" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I5.png">
-	</figure>
-	<figure>
-<img alt="Indian Dance 6" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I6.png">
-		</figure>
-	<figure>
-<img alt="Indian Dance 7" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I7.png">
-		</figure>
-	<figure>
-<img alt="Indian Dance 8" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I8.png">
-	</figure>
-	<figure>
-<img alt="Indian Dance 9" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I9.png">
-	</figure>
-</details>
+    <details>
+        <summary>Archived Gallery</summary>
+        <figure>
+            <img alt="Indian Dance 4" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I4.png">
+        </figure>
+        <figure>
+            <img alt="Indian Dance 5" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I5.png">
+        </figure>
+        <figure>
+            <img alt="Indian Dance 6" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I6.png">
+        </figure>
+        <figure>
+            <img alt="Indian Dance 7" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I7.png">
+        </figure>
+        <figure>
+            <img alt="Indian Dance 8" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I8.png">
+        </figure>
+        <figure>
+            <img alt="Indian Dance 9" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Indian%20Dance/I9.png">
+        </figure>
+    </details>
 </div>
-
-
 
 <style>
 :root {
@@ -189,6 +275,11 @@ variant: markdown
     text-wrap: balance;
 }
 
+.yck-component a,
+.yck-component a:hover {
+    text-decoration: none;
+}
+
 .yck-component p {
     text-wrap: pretty;
     margin-bottom: var(--yck-space-s-xl);
@@ -215,6 +306,7 @@ variant: markdown
     letter-spacing: var(--yck-heading-letter-spacing);
 }
 
+.yck-component .yck-h5,
 .yck-component h5 {
     font-size: var(--yck-step-1);
     margin-bottom: calc(var(--yck-spacing-unit) * 0.1);
@@ -294,9 +386,20 @@ hr {
     margin: 0 auto;
 
     /* CSS Multi-column Layout properties */
-    column-count: 3;
+    column-count: 2;
     column-width: 360px;
     column-gap: 1.5em;
+}
+
+.yck-component .isomer-card {
+    break-inside: avoid;
+    /* Prevents content from breaking across columns */
+    page-break-inside: avoid;
+    /* For older browsers */
+    padding: 20px;
+    /*     margin-block:  calc(var(--yck-spacing-unit)*0.5); */
+    border-radius: 5px;
+    box-shadow: var(--yck-box-shadow);
 }
 
 /* Apply the animation on hover */
@@ -337,11 +440,6 @@ details * {
     margin: 0 !important;
 }
 
-details > p,
-details ul li {
-    padding-block: calc(var(--yck-spacing-unit) * 0.5);
-}
-
 summary {
     margin-inline-start: 1.5rem !important;
     list-style-position: outside;
@@ -356,7 +454,7 @@ summary::marker {
 details::details-content {
     font-size: var(--yck-step-0);
     block-size: 0;
-	  margin-inline-start: 1.5rem !important;
+    margin-inline-start: 1.5rem !important;
     transition:
         block-size 1s,
         content-visibility 1s;
@@ -365,6 +463,7 @@ details::details-content {
 
 details[open]::details-content {
     block-size: auto;
+    margin-inline-start: 1.5rem !important;
     -webkit-animation: fade-in 1.6s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
     animation: fade-in 1.6s ease-out both;
 }
@@ -407,5 +506,6 @@ details[open]::details-content {
         opacity: 1;
     }
 }
+
 
 </style>
