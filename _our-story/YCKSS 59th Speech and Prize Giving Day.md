@@ -15,15 +15,12 @@ image: /images/YCKLogo.svg
 <div class="yck-component">
 	<h4 class="yck-h4">Previous Speech &amp; Prize Giving Days</h4>	
 	<details><summary>List of direct links by year</summary>
-		<p>
-			</p><ul>
+		<ul>
 				<li>58<sup>th</sup> <a target="_blank" href="https://www.youtube.com/watch?v=UpBOuxauBJw">Full Performance</a> and Highlights in 2023.</li>
 				<li>57<sup>th</sup> Full Performance and Highlights in 2022.</li>
 				<li>56<sup>th</sup> Full Performance and Highlights in 2021.</li>
 		</ul>
-		<p></p>
-
-</details></div>
+	</details></div>
 
 <style>
 :root {
@@ -89,5 +86,45 @@ image: /images/YCKLogo.svg
     left: 0;
     width: 100%;
     height: 100%;
+}
+	
+details {
+    overflow: hidden;
+}
+
+details * {
+    margin: 0 !important;
+}
+
+details > p,
+details ul li {
+    margin-inline-start: 1.5rem !important;
+    padding-block: calc(var(--yck-space-s-xl) * 0.02);
+}
+
+summary {
+    margin-inline-start: 1.5rem !important;
+    list-style-position: outside;
+    cursor: pointer;
+    font-size: var(--yck-step-1);
+}
+
+summary::marker {
+    font-size: var(--yck-step-1);
+}
+
+details::details-content {
+    font-size: var(--yck-step--1);
+    block-size: 0;
+    transition:
+        block-size 1s,
+        content-visibility 1s;
+    transition-behavior: allow-discrete;
+}
+
+details[open]::details-content {
+    block-size: auto;
+    -webkit-animation: fade-in 1.6s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    animation: fade-in 1.2s ease-in both;
 }
 </style>
