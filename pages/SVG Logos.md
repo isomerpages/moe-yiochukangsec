@@ -8,7 +8,7 @@ image: /images/YCKLogo.svg
 <div class="yck-component">
 	<h4>YCKSS Logo with School Name</h4>
     <div class="video-container">
-        <svg version="1.0" preserveAspectRatio="xMidYMid meet" height="10" viewBox="0 0 960 225" zoomAndPan="magnify" width="100%" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+        <svg version="1.0" preserveAspectRatio="xMidYMid meet" height="225" viewBox="0 225 960 10" zoomAndPan="magnify" width="100%" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
             <defs>
                 <g></g>
                 <clipPath id="10229ae37f">
