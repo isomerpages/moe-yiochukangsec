@@ -248,7 +248,7 @@ image: /images/YCKLogo.svg
     interpolate-size: allow-keywords;
 }
 	
-* { outline: 1px dotted grey }
+
 
 .yck-component {
     line-height: var(--yck-text-line-height);
