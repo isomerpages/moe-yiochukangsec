@@ -127,7 +127,7 @@ variant: markdown
     </table>
 </div>
 <div class="yck-component">
-    <p>For more information on LEAPS 2.0, please refer to the following website: <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0">Leaps 2.0</a></p>
+    <p>For more information on <abbr title="Leadership, Enrichment, Achievement, Participation and Service">LEAPS 2.0</abbr>, please refer to the following website: <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0">LEAPS 2.0</a></p>
 </div>
 
 <style>
