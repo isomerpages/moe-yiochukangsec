@@ -17,9 +17,7 @@ variant: markdown
   <p>A strong <b>“Y”</b> in the centre not only stands for Yio Chu Kang Secondary School, but also suggests a tree trunk with branches pointing skyward in <b>open embrace of learning and service to others</b>.</p>
   <p>The <b>circle</b> that brings all the elements together forms a never ending ring to symbolise the <b>collaborative synergy of staff, students and the community</b> working together in a spirit of inclusivity.</p>
 </div>
- <div class="yck-component"> 
-<p>The&nbsp;**circle**&nbsp;that brings all the elements together forms a never ending ring to symbolise the&nbsp;**collaborative synergy of staff, students and the community**&nbsp;working together in a spirit of inclusivity.</p>
-</div>
+ 
 **Extra Information below**
 	
 
