@@ -4,214 +4,368 @@ permalink: /testpage/
 description: ""
 variant: tiptap
 ---
-<h4>60th Anniversary Celebrations</h4>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/F9miy3c2ZRY?si=5nkNPSAdDBwbGriM"></iframe>
-</div>
-<details class="isomer-details">
-<summary>DISCLAIMER: This video is produced by ...</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>[Institution Name] for educational and informational purposes only. All
-content remains our intellectual property and unauthorised reproduction
-is prohibited. While we strive for accuracy, information presented may
-not be current and should be independently verified. Views expressed by
-individuals do not necessarily represent those of [Institution Name] or
-the Ministry of Education, Singapore. All participants have provided consent
-for their appearance in this video. © [Current Year] [Institution Name].
-All rights reserved. For enquiries: [contact email].</p>
-</div>
-</details>
-<h4>Works with Google Slides Photo Gallery too ...</h4>
-<div class="iframe-wrapper">
-<iframe height="749" width="1280" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ-s9KQdt89XFfUwymKsIIgRmvtkqDLulgCfmlAsrVTg2eQdN8o2Caij1HfHE-dmw/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
-</div>
-<p>
-<br>
-</p>
-<hr>
-<h4>Customized embed via GSlides</h4>
-<div class="iframe-wrapper">
-<iframe height="487px" width="800px" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSYdoHxbLzDy0zqSKsRUd1w--IYPdoCn337q6SZP0igd26jwTB0vKVsb5VypGdSLyijlQp8ZAYGIWMS/embed?start=true&amp;loop=true&amp;delayms=60000"></iframe>
-</div>
-<p>The above is a demo showing how Google Slides can be embedded within a
-page. This allows the owner of the page or whoever is incharge to upload
-the pictures. There are some cavaets to iron out though.</p>
-<p>
-<br>
-</p>
-<hr>
-<p>
-<br>
-</p>
-<h1>Science Dept. Demo ...</h1>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Science Curriculum Image" src="/images/Our%20Curriculum/Academic%20Programmes/Science/S1.jpg">
-</div>
-<p>Please <a href="/files/Academic%20Programmes/Science/Science_Department_Programme_and_Subject_Information.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
-more details on the department programme and subject information.</p>
-<ul>
-<li>
-<p><strong>Vision</strong>&nbsp;</p>
-<p>Inquirers and explorers of the universe who call the adventure Science&nbsp;</p>
-</li>
-<li>
-<p><strong>Mission</strong>
-</p>
-<p>To nurture critical and creative thinkers with a life-long passion for
-science by fostering a spirit of inquiry and bringing real-world science
-into the classroom experience.&nbsp;</p>
-</li>
-</ul>
-<hr>
-<h3><strong>Key Programmes</strong></h3>
-<h4><strong>Lower Secondary Science SPA</strong></h4>
-<p>In Lower Secondary Science SPA, students are taught Science Practical
-Skills of Performing, Observing and Planning over a period of two years.
-Skills-based assessments which address the different kinds of laboratory
-skills in practical work will be embedded to complement the learning cycle.
-Assessment for learning and assessment as learning will be scheduled during
-the whole learning cycle.&nbsp;</p>
-<h4><strong>Mendel’s Garden (Lower Secondary Science)</strong></h4>
-<p>“Mendel’s Garden” is an instructional programme inspired by a working
-life-size experimental greenhouse which demonstrates the applications of
-vertical urban farming. It is named after the Father of Genetics, Gregor
-Mendel, who discovered the fundamental laws of inheritance through his
-work on pea plants grown in his own garden.&nbsp;</p>
-<p>This discovery in one’s own garden provided the impetus for the school
-to create its own Mendel’s Garden to provide opportunities for students
-to learn beyond the classroom through hands-on experimentation and collaborative
-problem-solving. Mendel’s Garden features a vertical growing system that
-uses sophisticated technology to overcome the challenges of growing crops
-in limited spaces.&nbsp;</p>
-<p>In this garden, lower secondary science students see Science comes alive
-in the following focus areas.</p>
-<table style="minWidth: 50px">
+<h4><strong>DSA-SEC Home</strong></h4>
+<p>Yio Chu Kang Secondary School believes in a well-rounded education and
+is committed to providing learning opportunities beyond the core academic
+and student development programmes.</p>
+<p>The school has vacancies for up to 20% of our Secondary 1 cohort in 2026
+for the DSA-Sec programme. Interested students can apply through the DSA
+process.</p>
+<p>Students who are successfully admitted to the school via DSA are expected
+to honour their commitment to the school, and participate in the activities
+related to the talent they are selected for from year 1 to 4.</p>
+<p>In DSA-Sec Exercise 2025, we are looking for promising Primary Six students
+or students not studying in MOE mainstream primary schools who demonstrate
+special talents in the following areas:</p>
+<h5><a href="/files/Students/Direct School Admission/2_DIRECT_SCHOOL_ADMISSION___Clubs_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Clubs</a></h5>
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>Focus Area</h4>
-</th>
-<th rowspan="1" colspan="1">
-<h4>Enabled By “Mendel’s Garden”</h4>
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science in daily life</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students learn Science processes such as photosynthesis and energy conversion
-in food chains that are paramount to the support of life in the ecosystem.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science in society</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students apply Science concepts and understand the impact of Science in
-society. The vertical farming facility taps on sustainable and innovative
-technology to grow plants/food in a limited space. This relates to the
-importance of finding innovative solutions to grow food in land-scarce
-Singapore as observed in the urban farming movement.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/cca/clubs/digital-animation-club/" rel="noopener noreferrer nofollow" target="_blank">Digital Animation</a>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science and the environment</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/cca/clubs/media-club-audio-visual-photography-videography/" rel="noopener noreferrer nofollow" target="_blank">Media Club (Audio Visual, Photography &amp; Videography)</a>
+</p>
+</li>
+</ul>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Students understand how energy can be conserved through the application
-of sustainable technology and the importance of conserving biodiversity.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/cca/clubs/mars-club-mechatronics-aeronautics-and-robotics/" rel="noopener noreferrer nofollow" target="_blank">MARS Club (Mechatronics, Aeronautics and Robotics)</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Digital Animation and Media Club are closely tied to our Visual Arts, Media and Design in <a href="/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/" rel="noopener noreferrer nofollow" target="_blank">Learning for Life Programme</a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>MARs is closely tied to our <a href="/our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/" rel="noopener noreferrer nofollow" target="_blank">Applied Learning Programme (STEM)</a></em>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>Da Vinci Programme (Secondary 2 – 4)</strong></h4>
-<p>The Da Vinci Programme is a progressive Science Talent Development Programme
-that complements the Science department’s core curriculum in developing
-the scientific minds of our students. The objective of the Da Vinci Programme
-is to enable selected students who demonstrated an attitude and aptitude
-for scientific research to participate in research projects under the guidance
-of teacher mentors from different Science disciplines.&nbsp;</p>
-<p>The students work on research projects under the close mentorship of teacher
-mentors throughout a two-year programme spanning between Secondary 2 and
-3. They will identify problems and attempt to use scientific solutions
-to investigate.&nbsp;</p>
-<p>Students’ research will culminate in a project presentation at:</p>
+<h5><a href="/files/Students/Direct School Admission/3__DIRECT_SCHOOL_ADMISSION____Performing_Arts_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Performing Arts</a></h5>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Unity Scientific Innovation Challenge (USIC)</strong> – Secondary
-2;</p>
-</li>
-<li>
-<p><strong>North Zone Elementz Science Research Conference and Exhibition</strong> –
-Secondary 3; and the participation in the</p>
-</li>
-<li>
-<p><strong>C B Paul Science Quiz</strong> by ACJC, NTU and NUS, which provides
-a platform for students to network with other like-minded students and
-budding scientists in Singapore. – Secondary 4&nbsp;</p>
+<p><a href="/cca/Performing-Arts/Concert-Band/" rel="noopener noreferrer nofollow" target="_blank">Concert Band</a>
+</p>
 </li>
 </ul>
-<h4><strong>Healthcare Mentorship programme (Secondary 3)</strong></h4>
-<p>The Healthcare Mentorship programme seeks to expose our Secondary 3 Biology
-students to the real healthcare environment where they experience first-hand
-and learn how the knowledge and skills they acquired in school can be applied
-to the work environment.&nbsp;</p>
-<p>This programme aims to help our students better understand the challenges
-our healthcare workers face in their work, the importance of giving back
-to the society, and inspire them to possibly seek out a career in the healthcare
-sector.&nbsp;</p>
-<hr>
-<ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
 <li>
-<p>HOD Science</p>
-<p>Ms Alicia Lock [ext 207]</p>
+<p><a href="/cca/Performing-Arts/Choir/" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
+</p>
 </li>
 </ul>
-<hr>
-<details class="isomer-details">
-<summary>Photo Gallery</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nZCKqhtKvpw"></iframe>
-</div>
-</div>
-</details>
-<blockquote>
-<p>“Throughout this journey, I learnt that with hard work and teamwork, the
-output will be fruitful. I felt that my teammates and I supported each
-other well. One example was the presentation in front of a panel of judges.
-My teammates' confidence boosted my morale and helped me deliver my lines
-effectively. Without their support, I never would have been able to overcome
-my nervousness.”</p>
-<p><strong>Kim Seulkichan, 4E1</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/cca/Performing-Arts/English-Drama/" rel="noopener noreferrer nofollow" target="_blank">English Drama</a>
 </p>
-</blockquote>
-<blockquote>
-<p>“The entirety of Elementz was filled with fun. I was able to further bond
-with my classmates as we came up with the hypothesis for the project and
-executed it. I was glad to be part of my Elementz team and we even brought
-back a Silver medal! All in all, I felt that Elementz has allowed me to
-apply the concepts that I learnt in Biology to solve problems, other than
-the usual class work. Given the chance, I would definitely sign up for
-a research project again."</p>
-<p><strong>Dion Kuoh Zixian, 4E1</strong>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/cca/Performing-Arts/Chinese-Dance/" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance</a>
 </p>
-</blockquote>
-<blockquote>
-<p>“The healthcare mentorship programme has been very fruitful and it has
-inspired me to work in the healthcare industry and contribute to society.
-I felt it was a once-in-a-lifetime experience for a 15-year-old like me
-to be part of this extraordinary programme. It has encouraged me to study
-harder for Biology. I hope future participants can reap as many benefits
-as I had from the experiences.”</p>
-<p><strong>Tan Huey Shin, 4E2</strong>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/cca/Performing-Arts/Indian-Dance/" rel="noopener noreferrer nofollow" target="_blank">Indian Dance</a>
 </p>
-</blockquote>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/cca/Performing-Arts/Malay-Dance/" rel="noopener noreferrer nofollow" target="_blank">Malay Dance</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>All the CCAs above are closely tied to our <a href="/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/" rel="noopener noreferrer nofollow" target="_blank">Learning for Life Programme</a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5><a href="/files/Students/Direct School Admission/4_DIRECT_SCHOOL_ADMISSION___Sports_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Sports</a></h5>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/cca/physical-sports/badminton/" rel="noopener noreferrer nofollow" target="_blank">Badminton</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/cca/Physical-Sports/Basketball-Boys/" rel="noopener noreferrer nofollow" target="_blank">Basketball (Boys)</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/cca/Physical-Sports/Floorball-Boys/" rel="noopener noreferrer nofollow" target="_blank">Floorball (Boys)</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/cca/Physical-Sports/Netball/" rel="noopener noreferrer nofollow" target="_blank">Netball</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5><a href="/files/Students/Direct School Admission/5_DIRECT_SCHOOL_ADMISSION___UGs_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniformed Groups</a></h5>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/cca/Uniformed-Groups/NPCC/" rel="noopener noreferrer nofollow" target="_blank">National Police Cadet Corps</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/cca/Uniformed-Groups/Red-Cross-Youth/" rel="noopener noreferrer nofollow" target="_blank">Red Cross Youth</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Click on the <strong>respective category</strong> to access the specific
+DSA talent areas application procedure.</p>
+<p>Parents and students are encouraged to choose schools wisely based on
+the student’s aptitudes and strengths, bearing in mind the schools’ academic
+and non-academic requirements, and the programmes available to develop
+the area of talent.</p>
+<h4>2025 DSA-SEC Timeline</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>DATE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>INFORMATION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;TO-DOs</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 May to 3 Jun
+<br>(by 3pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Application opens on 7 May and
+<br>closes on 3 June (by 3pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Complete and submit <strong>online application.</strong>
+</p>
+</li>
+<li>
+<p>MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/secondary/dsa</a>
+</p>
+</li>
+<li>
+<p>Submit via <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">DSA-Sec Portal</a>. <em>(Require SingPass to login.)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30 Jun to 4 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Audition and interview for
+<br>short-listed applicants</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Applicant will be informed of the audition item upon submission of online
+application.</p>
+</li>
+<li>
+<p>Only shortlisted applicants are required to submit certified true copies
+of supporting documents for non-school based activities at the trial/interview.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Between 25 Aug and 4 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Issuance of letters to all applicants</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Contact the school if no letter/email is received.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 to 31 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Preference Submission</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Submit via <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">DSA-Sec Portal</a>. <em>(Require SingPass to login.)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Late Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Release of DSA-Sec results</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>NA</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Direct School Admission for Secondary Schools Portal (DSA-Sec Portal):
+<a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+</p>
 <p></p>
