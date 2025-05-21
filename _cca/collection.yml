@@ -2,10 +2,10 @@ collections:
   cca:
     output: true
     order:
-      - Clubs/.keep
-      - Clubs/Digital Animation Club.md
-      - Clubs/Media Club (Audio Visual, Photography & Videography).md
-      - Clubs/MARS Club (Mechatronics, Aeronautics and Robotics).md
+      - CLUBS/.keep
+      - CLUBS/Digital Animation Club.md
+      - CLUBS/Media Club (Audio Visual, Photography & Videography).md
+      - CLUBS/MARS Club (Mechatronics, Aeronautics and Robotics).md
       - Digital Animation Club.md
       - Media Club.md
       - Performing Arts/.keep
