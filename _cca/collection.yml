@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - CCA Learning Outcomes & Policy.md
       - CLUBS/.keep
       - Digital Animation Club.md
       - Media Club.md
