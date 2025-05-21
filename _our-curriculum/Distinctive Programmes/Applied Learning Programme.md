@@ -10,7 +10,8 @@ variant: markdown
     <img alt="Applied Learning Programme Introduction" src="/images/Our%20Curriculum/Distinctive%20Programmes/Applied%20Learning%20Programme/A1.jpg">
 </figure>
 <p>The school offers an Applied Learning Programme (ALP)&nbsp;&nbsp;<strong>to nurture inquiring minds and inventive thinkers through technology</strong>. It is in alignment to our school vision of ‘A Community of Learners, Leaders and Innovators’.&nbsp;&nbsp;</p>
-<p>In this programme, students are introduced to the world of Science, Technology, Engineering and Mathematics (STEM) in the form of Emerging Technologies, and learn to develop innovative ideas and integrated solutions for real-life problems in the community. The ALP gives students opportunities to explore the connections between problem-solving skills needed in the real world and academic knowledge related to STEM. The progressive ALP curriculum equips all students with coding and computational thinking skills using an inquiry-based learning approach. Importantly, the ALP encourages students to stay curious and learn about how technology can be applied in new ways to improve the quality of life around us. In this way, the ALP hopes to nurture students capable of adapting to change.</p>
+<p>In this programme, students are introduced to the world of Science, Technology, Engineering and Mathematics (STEM) in the form of Emerging Technologies, and learn to develop innovative ideas and integrated solutions for real-life problems in the community. The ALP gives students opportunities to explore the connections between problem-solving skills needed in the real world and academic knowledge related to STEM.</p> 
+	<p>The progressive ALP curriculum equips all students with coding and computational thinking skills using an inquiry-based learning approach. Importantly, the ALP encourages students to stay curious and learn about how technology can be applied in new ways to improve the quality of life around us. In this way, the ALP hopes to nurture students capable of adapting to change.</p>
 </div>
 <div class="yck-component">
 <h2>Objectives of the programme</h2>
@@ -21,7 +22,7 @@ variant: markdown
 </div>
 <div class="yck-component">
 <h2>The ALP&nbsp;Curriculum</h2>
-<p>This is a structured programme&nbsp;&nbsp;<strong>during curriculum hours.</strong>&nbsp;It is structured to develop digital literacies of&nbsp;<strong>Computational Thinking</strong>,&nbsp;<strong>Creation</strong>, and&nbsp;<strong>Communication &amp; Collaboration</strong>.</p>
+	<p>This is a structured programme&nbsp;&nbsp;<strong><mark>during curriculum hours.</mark></strong>&nbsp;It is structured to develop digital literacies of&nbsp;<strong>Computational Thinking</strong>,&nbsp;<strong>Creation</strong>, and&nbsp;<strong>Communication &amp; Collaboration</strong>.</p>
 <figure>
     <img alt="ALP Curriculum Diagram" src="/images/Our%20Curriculum/Distinctive%20Programmes/Applied%20Learning%20Programme/DP_ALP_A2updated_20250227.png">
 </figure>
@@ -37,31 +38,23 @@ variant: markdown
 </ul>
 </div>
 <div class="yck-component">
-<h2>Direct School Admission (DSA)</h2>
-<p>Successful DSA applicants are expected to enrol in Mechatronics, Aeronautical, Robotics (MARs) Club to help develop their talents progressively. The students will be involved in trainings, workshops and competitions related to Robotics, Drones and STEM related topics.</p>
+    <h2>Direct School Admission (DSA)</h2>
+    <p>Successful DSA applicants are expected to enrol in Mechatronics, Aeronautical, Robotics (MARs) Club to help develop their talents progressively. The students will be involved in trainings, workshops and competitions related to Robotics, Drones and STEM related topics.</p>
+    <h3 class="yck-h3">Selection Criteria</h3>
+    <h4 class="yck-h4">Aptitude</h4>
+    <ul>
+        <li>Students should preferably have strong interest in Science, Electronics or Aeronautics or Mechatronics and/or Robotics.</li>
+    </ul>
+    <h4 class="yck-h4">CCA Achievement</h4>
+    <ul>
+        <li>Students should preferably have done well in Science/Design-related competitions or projects.</li>
+    </ul>
+    <h4 class="yck-h4">Character</h4>
+    <ul>
+        <li>Students should possess a positive attitude and a sense of commitment in their talent area.</li>
+    </ul>
 </div>
-<div class="yck-component">
-<h4>Selection Criteria</h4>
-<ul>
-    <li>
-        <strong>Aptitude</strong>
-        <ul>
-            <li>Students should preferably have strong interest in Science, Electronics or Aeronautics or Mechatronics and/or Robotics.</li>
-        </ul>
-    </li>
-    <li>
-        <strong>CCA Achievement</strong>
-        <ul>
-            <li>Students should preferably have done well in Science/Design-related competitions or projects.</li>
-        </ul>
-    </li>
-    <li>
-        <strong>Character</strong>&nbsp;
-        <ul>
-            <li>Students should possess a positive attitude and a sense of commitment in their talent area.</li>
-        </ul>
-    </li>
-</ul>
+
 <div class="yck-component">
 	<div class="col-container">
 		<div class="isomer-card">
@@ -315,4 +308,4 @@ details {
     details[open]::details-content {
         block-size: auto;
     }
-</style></div>
+</style>
