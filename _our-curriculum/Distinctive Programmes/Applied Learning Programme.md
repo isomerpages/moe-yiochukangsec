@@ -18,8 +18,8 @@ variant: markdown
     <li>To provide students with opportunities to explore connections between academic knowledge and skills in the real world related to Science, Technology, Engineering and Mathematics (STEM).</li>
     <li>To encourage students to stay curious and learn how technology can be applied in new ways to improve the quality of life around us.&nbsp;</li>
 </ul>
-	</div>
-	<div class="yck-component">
+</div>
+<div class="yck-component">
 <h2>The ALP&nbsp;Curriculum</h2>
 <p>This is a structured programme&nbsp;&nbsp;<strong>during curriculum hours.</strong>&nbsp;It is structured to develop digital literacies of&nbsp;<strong>Computational Thinking</strong>,&nbsp;<strong>Creation</strong>, and&nbsp;<strong>Communication &amp; Collaboration</strong>.</p>
 <figure>
@@ -35,12 +35,12 @@ variant: markdown
     <li>Mentorship Opportunities</li>
     <li>Maker Programme at Techno Sphere&nbsp;</li>
 </ul>
-</div>	
+</div>
 <div class="yck-component">
 <h2>Direct School Admission (DSA)</h2>
 <p>Successful DSA applicants are expected to enrol in Mechatronics, Aeronautical, Robotics (MARs) Club to help develop their talents progressively. The students will be involved in trainings, workshops and competitions related to Robotics, Drones and STEM related topics.</p>
-	</div>
-	<div class="yck-component">
+</div>
+<div class="yck-component">
 <h4>Selection Criteria</h4>
 <ul>
     <li>
@@ -71,7 +71,7 @@ variant: markdown
             </details>
 </div>
 </div>
-	</div>
+</div>
 
 
 ### **Photo Gallery**
