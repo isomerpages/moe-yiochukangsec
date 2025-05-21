@@ -10,10 +10,6 @@ links:
     collection: our-experience
   - title: Our Family
     collection: our-family
-  - title: Virtual Tour
-    url: https://4d.silvrcraft.com/yckss360vt/index.htm
-  - title: SSCWC 2024
-    url: https://www.yiochukangsec.moe.edu.sg/sscwc/sscwc2024/
   - title: Our CCAs
     url: /our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/
     sublinks:
@@ -23,3 +19,7 @@ links:
         url: /media-club/
       - title: MARs Club
         url: /cca/clubs/mars-club-mechatronics-aeronautics-and-robotics/
+  - title: Virtual Tour
+    url: https://4d.silvrcraft.com/yckss360vt/index.htm
+  - title: SSCWC 2024
+    url: https://www.yiochukangsec.moe.edu.sg/sscwc/sscwc2024/
