@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Basketball (Boys).md
       - Badminton.md
       - CLUBS/.keep
       - CLUBS/Digital Animation Club.md
