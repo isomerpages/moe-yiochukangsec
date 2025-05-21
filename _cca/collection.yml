@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Malay Dance.md
       - CLUBS/.keep
       - CLUBS/Digital Animation Club.md
       - CLUBS/Media Club (Audio Visual, Photography & Videography).md
@@ -15,6 +14,7 @@ collections:
       - Choir.md
       - English Drama.md
       - Indian Dance.md
+      - Malay Dance.md
       - PHYSICAL SPORTS/.keep
       - PHYSICAL SPORTS/Badminton.md
       - PHYSICAL SPORTS/Basketball (Boys).md
