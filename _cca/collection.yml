@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CLUBS/.keep
-      - CLUBS/Digital Animation Club.md
       - CLUBS/Media Club (Audio Visual, Photography & Videography).md
       - Digital Animation Club.md
       - Media Club.md
