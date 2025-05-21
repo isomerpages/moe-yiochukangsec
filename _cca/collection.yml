@@ -2,8 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Red Cross Youth.md
-      - NPCC.md
       - CLUBS/.keep
       - CLUBS/Digital Animation Club.md
       - CLUBS/Media Club (Audio Visual, Photography & Videography).md
@@ -23,3 +21,5 @@ collections:
       - Floorball (Boys).md
       - Netball.md
       - UNIFORMED GROUPS/.keep
+      - NPCC.md
+      - Red Cross Youth.md
