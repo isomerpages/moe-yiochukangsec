@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CLUBS/.keep
-      - Digital Animation Club.md
       - Media Club.md
       - MARS Club (Mechatronics, Aeronautics and Robotics).md
       - PERFORMING ARTS/.keep
