@@ -6,11 +6,21 @@ description: ""
 image: /images/YCKLogo.svg
 ---
 <div class="yck-component">
+	<h3>2024</h3>
     <h4 class="yck-h4">59<sup>th</sup> Speech and Prize Giving Day - Full Performance</h4>
     <div class="video-container"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="59th Speech and Prikze Giving Day" src="https://www.youtube.com/embed/iivxaYHg7HY?si=7M-KsfLRj1pHsKkC" height="315" width="560"></iframe></div>
     <h4 class="yck-h4">Highlights from the 59<sup>th</sup> Speech and Prize Giving Day</h4>
     <div class="video-container"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Highlights from the 59th Speech and Prize Giving Day" src="https://www.youtube.com/embed/vXqtR-VJkn4?si=WgK1sTAJ9A8mm625" height="315" width="560"></iframe></div>
 </div>
+<div class="yck-component">
+	<h4 class="yck-h4">Previous Speech &amp; Prize Giving Days</h4>	
+	<details><summary>List of direct links by year</summary>
+		<ul>
+				<li>58<sup>th</sup> <a target="_blank" href="https://www.youtube.com/watch?v=UpBOuxauBJw">Full Performance</a> and Highlights in 2023.</li>
+				<li>57<sup>th</sup> Full Performance and Highlights in 2022.</li>
+				<li>56<sup>th</sup> Full Performance and Highlights in 2021.</li>
+		</ul>
+	</details></div>
 
 <style>
 :root {
@@ -76,5 +86,45 @@ image: /images/YCKLogo.svg
     left: 0;
     width: 100%;
     height: 100%;
+}
+	
+details {
+    overflow: hidden;
+}
+
+details * {
+    margin: 0 !important;
+}
+
+details > p,
+details ul li {
+    margin-inline-start: 1.5rem !important;
+    padding-block: calc(var(--yck-space-s-xl) * 0.02);
+}
+
+summary {
+    margin-inline-start: 1.5rem !important;
+    list-style-position: outside;
+    cursor: pointer;
+    font-size: var(--yck-step-1);
+}
+
+summary::marker {
+    font-size: var(--yck-step-1);
+}
+
+details::details-content {
+    font-size: var(--yck-step--1);
+    block-size: 0;
+    transition:
+        block-size 1s,
+        content-visibility 1s;
+    transition-behavior: allow-discrete;
+}
+
+details[open]::details-content {
+    block-size: auto;
+    -webkit-animation: fade-in 1.6s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    animation: fade-in 1.2s ease-in both;
 }
 </style>

@@ -2,8 +2,8 @@
 title: Malay Dance
 permalink: /cca/Performing-Arts/Malay-Dance/
 description: ""
-third_nav_title: Performing Arts
 variant: markdown
+third_nav_title: PERFORMING ARTS
 ---
 <div class="yck-component">
     <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M1_2025.png">

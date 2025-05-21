@@ -4,6 +4,39 @@ links:
     collection: our-story
   - title: Our Curriculum
     collection: our-curriculum
+  - title: Our CCAs
+    url: /our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/
+    sublinks:
+      - title: Digital Animation Club
+        url: /digital-animation-club/
+      - title: Media Club
+        url: /media-club/
+      - title: MARs Club
+        url: /cca/clubs/mars-club-mechatronics-aeronautics-and-robotics/
+      - title: Concert Band
+        url: /cca/Performing-Arts/Concert-Band/
+      - title: Choir
+        url: /cca/Performing-Arts/Choir/
+      - title: English Drama
+        url: /cca/Performing-Arts/English-Drama/
+      - title: Chinese Dance
+        url: /cca/Performing-Arts/Chinese-Dance/
+      - title: Indian Dance
+        url: /cca/Performing-Arts/Indian-Dance/
+      - title: Malay Dance
+        url: /cca/Performing-Arts/Malay-Dance/
+      - title: Badminton
+        url: /cca/physical-sports/badminton/
+      - title: Basketball (Boys)
+        url: /cca/Physical-Sports/Basketball-Boys/
+      - title: Floorball (Boys)
+        url: /cca/Physical-Sports/Floorball-Boys/
+      - title: Netball
+        url: /cca/Physical-Sports/Netball/
+      - title: NPCC
+        url: /cca/Uniformed-Groups/NPCC/
+      - title: Red Cross Youth
+        url: /cca/Uniformed-Groups/Red-Cross-Youth/
   - title: Our Experience
     collection: our-experience
   - title: Our Family

@@ -1,111 +1,96 @@
 ---
-title: Netball
-permalink: /cca/Physical-Sports/Netball/
+title: Basketball (Boys)
+permalink: /cca/Physical-Sports/Basketball-Boys/
 description: ""
-third_nav_title: Physical Sports
 variant: markdown
+third_nav_title: PHYSICAL SPORTS
 ---
 <div class="yck-component">
-	<div class="ken-burns-container">
-    <img alt="Netball CCA" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Netball/N1.jpg" class="ken-burns-image">
-	</div>
-    <p>The Netball CCA aims to educate and nurture values such as teamwork, responsibility, respect, integrity, pride, tenacity and confidence in our girls. We also seek to bring out the best in our girls through the development of their skills in the sport. The sport builds character and develops their leadership qualities while inculcating an active and healthy lifestyle.</p>
+    <div class="ken-burns-container">
+        <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Basketball%20(Boys)/B1.jpg" class="ken-burns-image">
+    </div>
+    <p>The Basketball CCA aims to cultivate positive self-esteem and sportsmanship in students through training sessions and competitions. We strive to instill values such as gratitude, respect for others, honesty, and teamwork.</p>
+    <p>Basketball plays a crucial role in the physical, cognitive, social, emotional, and character development of every student. Through the sport, students acquire skills in self-management, responsible decision-making, and social awareness. Our overarching philosophy is to ensure that every student with potential, ability, or interest is given the opportunity to fully develop their potential.</p>
 </div>
-
 <div class="yck-component">
-<h4 class="yck-h4">Training Schedule</h4>
-<table class="yck-table">
-    <thead>
-        <tr>
-            <th class="yck-th">
-                <h5 class="yck-h5">DAY &amp; TIME:</h5>
-            </th>
-            <th class="yck-th">
-                <h5 class="yck-h5">TEACHERS-IN-CHARGE</h5>
-            </th>
-            <th class="yck-th">
-                <h5 class="yck-h5">VENUE:</h5>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td class="yck-td">
-                <p>Every Monday, 3.00pm to 5.30pm</p>
-                <p>Every Wednesday, 3.00pm to 5.30pm</p>
-            </td>
-            <td class="yck-td">
-                <p>Ms Amelia Tew (OIC) (ext 140)</p>
-                <p>Ms Nurul Ain Bte Kamaldin (ext 176)</p>
-                <p>Ms Toh Lee Wah (ext 130)</p>
-            </td>
-            <td class="yck-td">
-                <p>ISH Level 1</p>
-            </td>
-        </tr>
-    </tbody>
-</table>
+    <h4 class="yck-h4">Training Schedule</h4>
+    <table class="yck-table">
+        <thead>
+            <tr>
+                <th class="yck-th">
+                    <h5 class="yck-h5">DAY &amp; TIME:</h5>
+                </th>
+                <th class="yck-th">
+                    <h5 class="yck-h5">TEACHERS-IN-CHARGE</h5>
+                </th>
+                <th class="yck-th">
+                    <h5 class="yck-h5">VENUE:</h5>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="yck-td">
+                    <p>Every Tuesday, 3.00pm to 5.30pm</p>
+                    <p>Every Thursday, 3.00pm to 5.30pm</p>
+                </td>
+                <td class="yck-td">
+                    <p>Ms Anna Leong <i>(OIC)</i> (ext 218)</p>
+                    <p>Mr Jude Ang (ext 150)</p>
+                    <p>Mr Jeremy Chen (ext 145)</p>
+                    <p>Mdm Chua Sock Huang (ext 133)</p>
+                </td>
+                <td class="yck-td">
+                    <p>ISH Level 2</p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </div>
-
 <div class="yck-component">
-    <h4>Events and Competitions</h4>
-	<div class="col-container">
-		<div class="column">
-    <h5>2020</h5>
-            <ul>
-                <li>South Zone Netball Championship</li>
-            </ul>
-		</div>
+    <h4>Events &amp; Competitions</h4>
+    <div class="yck-flexbox-grid">
         <div class="column">
-					<h5>2019</h5>
+            <h5><strong>2024</strong></h5>
             <ul>
-                <li>M1 Schools Challenge League – 'B' Div (2nd in Group Level)</li>
-                <li>North Zone Netball Championship</li>
-                <li>ACTive Netball Carnival</li>
+                <li>National 'C' Division League 5 2nd place</li>
+                <li>South Zone 'B' Division Basketball Championship</li>
+                <li>South Zone 'C' Division Basketball Championship</li>
+                <li>YCKSS U17 Cup 2024</li>
             </ul>
-		</div>
-    <div class="column">   
-		<h5>2018</h5>
-            <ul>
-                <li>North Zone Netball Championship – 'B' Div (2nd Round)</li>
-                <li>M1 Schools Challenge League – 'C' Div (1st in Group Level and Overall Champion)</li>
-                <li>Deloitte Pesta Sukan – 'B' and 'C' Div (3rd in Group Level)</li>
-                <li>T Net U14 Netball Tournament – 'C' Div (3rd in Group Level)</li>
-            </ul>
-		</div>
-        
-<div class="column">
-			<h5>2017</h5>
-            <ul>
-                <li>M1 Schools Challenge League – 'B' Div (2nd in Group Level)</li>
-                <li>M1 Schools Challenge League – 'C' Div (1st in Group Level)</li>
-            </ul>
-		</div>
-        
-<div class="column">
-		<h5>2016</h5>
-            <ul>
-                <li>M1 Schools Challenge League – 'B' Div (1st in Group Level and Overall Champion)</li>
-                <li>M1 Schools Challenge League – 'C' Div (1st in Group Level and Overall 1st Runner Up)</li>
-            </ul>
-		</div>
+        </div>
         <div class="column">
-					<h5>2015</h5>
+            <h5><strong>2023</strong></h5>
             <ul>
-                <li>North Zone Netball Championship – 'C' Div (2nd Round)</li>
-                <li>Ulu Pandan Sports X'Perience Street Netball – 'B' Div (Overall Champion)</li>
-                <li>M1 Schools Challenge League – 'B' Div (2nd in Group Level)</li>
+                <li>YCKSS U17 Cup 2nd and 5th place</li>
+                <li>South Zone 'B' Division Basketball Championship</li>
+                <li>South Zone 'C' Division Basketball Championship</li>
+                <li>YCKSS U17 Cup 2023</li>
             </ul>
-		</div>
+        </div>
+        <div class="column">
+            <h5><strong>2022</strong></h5>
+            <ul>
+                <li>YCKSS U17 Cup 4th and 6th place</li>
+                <li>South Zone 'B' Division Basketball Championship</li>
+                <li>South Zone 'C' Division Basketball Championship</li>
+                <li>YCKSS U17 Cup 2022</li>
+            </ul>
+        </div>
+        <div class="column">
+            <h5><strong>2021</strong></h5>
+            <ul>
+                <li>S7 Cluster Games 1st and 2nd place</li>
+            </ul>
+        </div>
+    </div>
 </div>
-	</div>
-
 <div class="yck-component">
-	<h4 class="yck-h4">Gallery</h4>
-	<div class="video-container">
-		<iframe allowfullscreen="true" height="1109" width="1920" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSS8FXkoAFrXKQIQCGPiUnF314hM9-TCZxjEu7SE_TvmL2TFch_oWDpOJ0cKFtsbg/pubembed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
-	</div>
-	</div>
+    <h4 class="yck-h4">Gallery</h4>
+    <div class="video-container">
+        <iframe allowfullscreen="true" height="1109" width="1920" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSS7KkfkJihsCp6rADRk-fyEoQ4ZCOtADkaWp1SiCp5oAHH2uwDAc7vunMfu6q6iw/pubembed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+    </div>
+</div>
 
 <style>
 :root {
@@ -237,17 +222,6 @@ variant: markdown
     height: 100%;
 }
 
-.yck-component .col-container {
-    width: 100%;
-    max-width: 1000px;
-    margin: 0 auto;
-
-    /* CSS Multi-column Layout properties */
-    column-count: 2;
-    column-width: 360px;
-    column-gap: 1.5em;
-}
-
 .yck-component .column {
     break-inside: avoid;
     /* Prevents content from breaking across columns */
@@ -276,12 +250,57 @@ variant: markdown
 
 /* Apply the animation on hover */
 .yck-component .column ul li:hover {
-    animation: fadeIn 1.25s forwards;
+    animation: fadeIn 1.5s forwards;
 }
 
 /* Revert the animation when not hovering */
 .yck-component .column ul li:not(:hover) {
-    animation: fadeOut 1.25s forwards;
+    animation: fadeOut 1.5s forwards;
+}
+
+/* Define the keyframes for the fade-in effect */
+@keyframes fadeIn {
+    from {
+        border-bottom: 1px solid #fff;
+    }
+
+    to {
+        border-bottom: 1px solid #e37f2a;
+    }
+}
+
+/* Define the keyframes for the fade-out effect */
+@keyframes fadeOut {
+    from {
+        border-bottom: 1px solid #e37f2a;
+    }
+
+    to {
+        border-bottom: 1px solid #fff;
+    }
+}
+
+.yck-component .yck-flexbox-grid {
+    --yck-min: 25ch;
+    --yck-gap: 1.5em;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: var(--yck-gap);
+}
+
+.yck-component .yck-flexbox-grid>* {
+    flex: 1 1 var(--yck-min);
+    list-style: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
 }
 
 .yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-description) {
@@ -324,98 +343,50 @@ details::details-content {
     font-size: var(--yck-step-0);
     block-size: 0;
     transition:
-        block-size 1s,
-        content-visibility 1s;
+        block-size 2s,
+        content-visibility 2s;
     transition-behavior: allow-discrete;
 }
 
 details[open]::details-content {
     block-size: auto;
-    -webkit-animation: fade-in 1.6s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
-    animation: fade-in 1.6s ease-in both;
+    -webkit-animation: fade-in-top 1.6s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    animation: fade-in-top 1.6s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
 }
 
 
-/* Define the keyframes for the fadeIn effect */
-@keyframes fadeIn {
-    from {
-        border-bottom: 1px solid #eee;
-    }
-
-    to {
-        border-bottom: 1px solid #e37f2a;
-    }
-}
-
-/* Define the keyframes for the fadeOut effect */
-@keyframes fadeOut {
-    from {
-        border-bottom: 1px solid #e37f2a;
-    }
-
-    to {
-        border-bottom: 1px solid #eee;
-    }
-}
 
 /**
  * ----------------------------------------
- * animation fade-in
+ * animation fade-in-top
  * ----------------------------------------
  */
-@-webkit-keyframes fade-in {
+@-webkit-keyframes fade-in-top {
     0% {
+        -webkit-transform: translateY(-50px);
+        transform: translateY(-50px);
         opacity: 0;
     }
 
     100% {
+        -webkit-transform: translateY(0);
+        transform: translateY(0);
         opacity: 1;
     }
 }
 
-@keyframes fade-in {
+@keyframes fade-in-top {
     0% {
+        -webkit-transform: translateY(-50px);
+        transform: translateY(-50px);
         opacity: 0;
     }
 
     100% {
+        -webkit-transform: translateY(0);
+        transform: translateY(0);
         opacity: 1;
     }
 }
-
-/**
- * ----------------------------------------
- * animation kenburns-right
- * ----------------------------------------
- */
-
-/**
- * ----------------------------------------
- * animation kenburns-bottom
- * ----------------------------------------
- */
-
-/**
- * ----------------------------------------
- * animation kenburns-top
- * ----------------------------------------
- */
-
-/**
- * ----------------------------------------
- * animation kenburns-left
- * ----------------------------------------
- */
-
-@media (prefers-reduced-motion: reduce) {
-    * {
-        animation-duration: 0.01ms !important;
-        animation-iteration-count: 1 !important;
-        transition-duration: 0.01ms !important;
-        scroll-behavior: auto !important;
-    }
-}
-
-
 
 </style>

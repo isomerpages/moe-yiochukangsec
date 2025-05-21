@@ -2,6 +2,6 @@ collections:
   60th-anniversary:
     output: true
     order:
-      - 60th Anniversary Dinner.md
       - 60th Anniversary Celebrations.md
-      - Homecoming Carnival.md
+      - 60th Anniversary Dinner.md
+      - Homecoming Carnival (✔️).md

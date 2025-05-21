@@ -1,12 +1,9 @@
 ---
-title: Media Club (Audio Visual, Photography & Videography)
-permalink: /cca/clubs/media-club-audio-visual-photography-videography/
-description: YCKSS Media Club 2025 - Explore the power of media in 2025! Learn
-  to shoot, edit, and produce content while building essential skills in
-  storytelling, problem-solving, and project leadership.
-third_nav_title: Clubs
+title: Media Club
+permalink: /media-club/
 variant: markdown
-image: /images/YCKLogo.svg
+description: ""
+third_nav_title: CLUBS
 ---
 <div class="yck-component">
     <div class="ken-burns-container">

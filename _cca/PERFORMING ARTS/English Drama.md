@@ -2,8 +2,8 @@
 title: English Drama
 permalink: /cca/Performing-Arts/English-Drama/
 description: ""
-third_nav_title: Performing Arts
 variant: tiptap
+third_nav_title: PERFORMING ARTS
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/English%20Drama/E1.jpg">

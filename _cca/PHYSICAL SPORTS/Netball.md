@@ -1,127 +1,112 @@
 ---
-title: Floorball (Boys)
-permalink: /cca/Physical-Sports/Floorball-Boys/
+title: Netball
+permalink: /cca/Physical-Sports/Netball/
 description: ""
-third_nav_title: Physical Sports
 variant: markdown
+third_nav_title: PHYSICAL SPORTS
 ---
 <div class="yck-component">
-<div class="ken-burns-container">
-<img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Floorball%20(Boys)/F1.jpg" class="ken-burns-image">
-</div>
-
-<p>The Floorball CCA aims to foster strong bonds among team members and a competitive spirit. It teaches our students the fundamentals of the sport and also inculcates the values and belinoteefs behind the nature of the sport.</p> 
-<p>Floorball is a fast paced sport encompassing skilful manoeuvres and athletic endurance. It requires determination and discipline in players to master their individual skills.</p> 
-<p>As a team, we train together with commitment and enthusiasm to bring YCKSS Floorball to greater heights.</p>
+	<div class="ken-burns-container">
+    <img alt="Netball CCA" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Netball/N1.jpg" class="ken-burns-image">
+	</div>
+    <p>The Netball CCA aims to educate and nurture values such as teamwork, responsibility, respect, integrity, pride, tenacity and confidence in our girls. We also seek to bring out the best in our girls through the development of their skills in the sport. The sport builds character and develops their leadership qualities while inculcating an active and healthy lifestyle.</p>
 </div>
 
 <div class="yck-component">
-    <h4 class="yck-h4">Training Schedule</h4>
-    <table class="yck-table">
-        <thead>
-            <tr>
-                <th class="yck-th">
-                    <h5 class="yck-h5">DAY &amp; TIME:</h5>
-                </th>
-                <th class="yck-th">
-                    <h5 class="yck-h5">TEACHERS-IN-CHARGE</h5>
-                </th>
-                <th class="yck-th">
-                    <h5 class="yck-h5">VENUE:</h5>
-                </th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td class="yck-td">
-                    <p>Every Monday, 3.00pm to 5.30pm</p>
-                    <p>Every Wednesday, 3.00pm to 5.30pm</p>
-                </td>
-                <td class="yck-td">
-                    <p>Ms Wee Poh Lin (OIC) (ext 148)</p>
-                    <p>Mr Tan Thiam Boon (ext 143)</p>
-                    <p>Mdm Connie Yeo (ext 124)</p>
-                </td>
-                <td class="yck-td">
-                    <p>ISH Level 2 (Monday)</p>
-                    <p>Hall / BLK G (Wednesday)</p>
-                </td>
-            </tr>
-        </tbody>
-    </table>
+<h4 class="yck-h4">Training Schedule</h4>
+<table class="yck-table">
+    <thead>
+        <tr>
+            <th class="yck-th">
+                <h5 class="yck-h5">DAY &amp; TIME:</h5>
+            </th>
+            <th class="yck-th">
+                <h5 class="yck-h5">TEACHERS-IN-CHARGE</h5>
+            </th>
+            <th class="yck-th">
+                <h5 class="yck-h5">VENUE:</h5>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="yck-td">
+                <p>Every Monday, 3.00pm to 5.30pm</p>
+                <p>Every Wednesday, 3.00pm to 5.30pm</p>
+            </td>
+            <td class="yck-td">
+                <p>Ms Amelia Tew (OIC) (ext 140)</p>
+                <p>Ms Nurul Ain Bte Kamaldin (ext 176)</p>
+                <p>Ms Toh Lee Wah (ext 130)</p>
+            </td>
+            <td class="yck-td">
+                <p>ISH Level 1</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
 </div>
 
 <div class="yck-component">
-	
-<h3>Events and Competitions</h3>
-<div class="col-container">
-	<div class="column">
-<h4>2023</h4>
-<ul>
-    <li>Storvretacupen Singapore:
-        <ul>
-            <li>Zuriel Tan of Team Wondersticks was placed 2nd in the U16 category</li>
-            <li>Afiqi Elriano of Team Ghetto IBK was placed 3rd in the U16 category. He also joined Team Wondersticks in the U19 category &amp; was placed 3rd.</li>
-        </ul>
-    </li>
-    <li>National 'B' and 'C' Division Floorball Championships</li>
-    <li>Sports Enrichment Programme: Inline Skating</li>
-</ul>
-	</div>
-	<div class="column">
-
-<h4>2022</h4>
-<ul>
-    <li>National 'B' and 'C' Division Floorball Championships</li>
-    <li>Sports Enrichment Programme: Golf</li>
-</ul>
-	</div>
-	<div class="column">
-
-<h4>2020</h4>
-<ul>
-    <li>National 'B'-Division Floorball Championships</li>
-</ul>
-	</div>
-	<div class="column">
-
-<h4>2019</h4>
-<ul>
-    <li>National B Division Bowl Championship:
-        <ul>
-            <li>Champion (Team 1)</li>
-            <li>3rd Runner Up (Team 2)</li>
-        </ul>
-    </li>
-    <li>National 'B' and 'C'-Division Floorball Championships</li>
-    <li><strong>Active SG</strong>:
-        <ul>
-            <li>Singapore Floorball Association 'B'-Division Bowl Championship</li>
-            <li>Singapore Floorball Association National Age Group Championship</li>
-            <li>Singapore Floorball Association 'C'-Division Plate / Bowl Championship</li>
-        </ul>
-    </li>
-</ul>
-	</div>
-	<div class="column">
-
-<h4>2018</h4>
-<ul>
-    <li>National 'B' and 'C'-Division Floorball Championships</li>
-</ul>
+    <h4>Events and Competitions</h4>
+	<div class="col-container">
+		<div class="column">
+    <h5>2020</h5>
+            <ul>
+                <li>South Zone Netball Championship</li>
+            </ul>
+		</div>
+        <div class="column">
+					<h5>2019</h5>
+            <ul>
+                <li>M1 Schools Challenge League – 'B' Div (2nd in Group Level)</li>
+                <li>North Zone Netball Championship</li>
+                <li>ACTive Netball Carnival</li>
+            </ul>
+		</div>
+    <div class="column">   
+		<h5>2018</h5>
+            <ul>
+                <li>North Zone Netball Championship – 'B' Div (2nd Round)</li>
+                <li>M1 Schools Challenge League – 'C' Div (1st in Group Level and Overall Champion)</li>
+                <li>Deloitte Pesta Sukan – 'B' and 'C' Div (3rd in Group Level)</li>
+                <li>T Net U14 Netball Tournament – 'C' Div (3rd in Group Level)</li>
+            </ul>
+		</div>
+        
+<div class="column">
+			<h5>2017</h5>
+            <ul>
+                <li>M1 Schools Challenge League – 'B' Div (2nd in Group Level)</li>
+                <li>M1 Schools Challenge League – 'C' Div (1st in Group Level)</li>
+            </ul>
+		</div>
+        
+<div class="column">
+		<h5>2016</h5>
+            <ul>
+                <li>M1 Schools Challenge League – 'B' Div (1st in Group Level and Overall Champion)</li>
+                <li>M1 Schools Challenge League – 'C' Div (1st in Group Level and Overall 1st Runner Up)</li>
+            </ul>
+		</div>
+        <div class="column">
+					<h5>2015</h5>
+            <ul>
+                <li>North Zone Netball Championship – 'C' Div (2nd Round)</li>
+                <li>Ulu Pandan Sports X'Perience Street Netball – 'B' Div (Overall Champion)</li>
+                <li>M1 Schools Challenge League – 'B' Div (2nd in Group Level)</li>
+            </ul>
+		</div>
 </div>
 	</div>
-	</div>
-
-
 
 <div class="yck-component">
 	<h4 class="yck-h4">Gallery</h4>
 	<div class="video-container">
-		<iframe allowfullscreen="true" height="1109" width="1920" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQWDJIuYYGFe5AT6NAXwrRtEcce3vzRIT7pFT6F_vhupSgIRQBm7yV7ciiP-0dMfQ/pubembed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+		<iframe allowfullscreen="true" height="1109" width="1920" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSS8FXkoAFrXKQIQCGPiUnF314hM9-TCZxjEu7SE_TvmL2TFch_oWDpOJ0cKFtsbg/pubembed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 	</div>
 	</div>
-	
+
 <style>
 :root {
     --yck-text-line-height: 1.6em;
@@ -151,14 +136,12 @@ variant: markdown
     margin-bottom: var(--yck-space-s-xl);
 }
 
-.yck-component h3,
 .yck-component h4,
 .yck-component h5,
 .yck-component p {
     overflow-wrap: break-word;
 }
 
-.yck-component h3,
 .yck-component h4,
 .yck-component h5 {
     text-wrap: balance;
@@ -173,14 +156,6 @@ variant: markdown
 .yck-component p:last-child,
 .yck-component ul li:last-child {
     margin-bottom: calc(var(--yck-spacing-unit) * 2);
-}
-
-.yck-component h3 {
-    font-size: var(--yck-step-3);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
-    text-transform: capitalize;
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
 .yck-component .yck-h4,

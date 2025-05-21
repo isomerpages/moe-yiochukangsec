@@ -2,8 +2,8 @@
 title: Choir
 permalink: /cca/Performing-Arts/Choir/
 description: ""
-third_nav_title: Performing Arts
 variant: markdown
+third_nav_title: PERFORMING ARTS
 ---
 <div class="yck-component">
     <figure class="ken-burns-container">

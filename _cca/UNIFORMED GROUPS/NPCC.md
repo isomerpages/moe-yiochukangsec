@@ -2,8 +2,8 @@
 title: NPCC
 permalink: /cca/Uniformed-Groups/NPCC/
 description: ""
-third_nav_title: Uniformed Groups
 variant: markdown
+third_nav_title: UNIFORMED GROUPS
 ---
 <div class="yck-component">
     <h2>Nurturing Leaders and Responsible Citizens</h2>

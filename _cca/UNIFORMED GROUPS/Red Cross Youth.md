@@ -2,8 +2,8 @@
 title: Red Cross Youth
 permalink: /cca/Uniformed-Groups/Red-Cross-Youth/
 description: ""
-third_nav_title: Uniformed Groups
 variant: markdown
+third_nav_title: UNIFORMED GROUPS
 ---
 <div class="yck-component">
  <img alt="Red Cross Youth" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R1.jpg">

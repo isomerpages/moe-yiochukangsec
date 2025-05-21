@@ -1,5 +1,5 @@
 ---
-title: Homecoming Carnival
+title: Homecoming Carnival (✔️)
 permalink: /homecoming-carnival/
 variant: markdown
 description: Join us as Yio Chu Kang Secondary School proudly marks its 60th
@@ -13,7 +13,7 @@ description: Join us as Yio Chu Kang Secondary School proudly marks its 60th
 image: /images/60th Anniversary/60thLogo.svg
 ---
 <div class="yck-component">
-<h3 class="yck-h3">Home-Coming Carnival</h3>
+	<h3 class="yck-h3">(✔️)<del>Home-Coming Carnival</del></h3>
 <figure>
 <img alt="The Homecoming Carnival EDM" src="/images/60th%20Anniversary/Homecoming_Carnival_EDM.png">
 </figure>

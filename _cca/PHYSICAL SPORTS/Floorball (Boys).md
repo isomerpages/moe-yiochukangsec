@@ -1,17 +1,20 @@
 ---
-title: Basketball (Boys)
-permalink: /cca/Physical-Sports/Basketball-Boys/
+title: Floorball (Boys)
+permalink: /cca/Physical-Sports/Floorball-Boys/
 description: ""
-third_nav_title: Physical Sports
 variant: markdown
+third_nav_title: PHYSICAL SPORTS
 ---
 <div class="yck-component">
-    <div class="ken-burns-container">
-        <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Basketball%20(Boys)/B1.jpg" class="ken-burns-image">
-    </div>
-    <p>The Basketball CCA aims to cultivate positive self-esteem and sportsmanship in students through training sessions and competitions. We strive to instill values such as gratitude, respect for others, honesty, and teamwork.</p>
-    <p>Basketball plays a crucial role in the physical, cognitive, social, emotional, and character development of every student. Through the sport, students acquire skills in self-management, responsible decision-making, and social awareness. Our overarching philosophy is to ensure that every student with potential, ability, or interest is given the opportunity to fully develop their potential.</p>
+<div class="ken-burns-container">
+<img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Floorball%20(Boys)/F1.jpg" class="ken-burns-image">
 </div>
+
+<p>The Floorball CCA aims to foster strong bonds among team members and a competitive spirit. It teaches our students the fundamentals of the sport and also inculcates the values and belinoteefs behind the nature of the sport.</p> 
+<p>Floorball is a fast paced sport encompassing skilful manoeuvres and athletic endurance. It requires determination and discipline in players to master their individual skills.</p> 
+<p>As a team, we train together with commitment and enthusiasm to bring YCKSS Floorball to greater heights.</p>
+</div>
+
 <div class="yck-component">
     <h4 class="yck-h4">Training Schedule</h4>
     <table class="yck-table">
@@ -31,67 +34,94 @@ variant: markdown
         <tbody>
             <tr>
                 <td class="yck-td">
-                    <p>Every Tuesday, 3.00pm to 5.30pm</p>
-                    <p>Every Thursday, 3.00pm to 5.30pm</p>
+                    <p>Every Monday, 3.00pm to 5.30pm</p>
+                    <p>Every Wednesday, 3.00pm to 5.30pm</p>
                 </td>
                 <td class="yck-td">
-                    <p>Ms Anna Leong <i>(OIC)</i> (ext 218)</p>
-                    <p>Mr Jude Ang (ext 150)</p>
-                    <p>Mr Jeremy Chen (ext 145)</p>
-                    <p>Mdm Chua Sock Huang (ext 133)</p>
+                    <p>Ms Wee Poh Lin (OIC) (ext 148)</p>
+                    <p>Mr Tan Thiam Boon (ext 143)</p>
+                    <p>Mdm Connie Yeo (ext 124)</p>
                 </td>
                 <td class="yck-td">
-                    <p>ISH Level 2</p>
+                    <p>ISH Level 2 (Monday)</p>
+                    <p>Hall / BLK G (Wednesday)</p>
                 </td>
             </tr>
         </tbody>
     </table>
 </div>
-<div class="yck-component">
-    <h4>Events &amp; Competitions</h4>
-    <div class="yck-flexbox-grid">
-        <div class="column">
-            <h5><strong>2024</strong></h5>
-            <ul>
-                <li>National 'C' Division League 5 2nd place</li>
-                <li>South Zone 'B' Division Basketball Championship</li>
-                <li>South Zone 'C' Division Basketball Championship</li>
-                <li>YCKSS U17 Cup 2024</li>
-            </ul>
-        </div>
-        <div class="column">
-            <h5><strong>2023</strong></h5>
-            <ul>
-                <li>YCKSS U17 Cup 2nd and 5th place</li>
-                <li>South Zone 'B' Division Basketball Championship</li>
-                <li>South Zone 'C' Division Basketball Championship</li>
-                <li>YCKSS U17 Cup 2023</li>
-            </ul>
-        </div>
-        <div class="column">
-            <h5><strong>2022</strong></h5>
-            <ul>
-                <li>YCKSS U17 Cup 4th and 6th place</li>
-                <li>South Zone 'B' Division Basketball Championship</li>
-                <li>South Zone 'C' Division Basketball Championship</li>
-                <li>YCKSS U17 Cup 2022</li>
-            </ul>
-        </div>
-        <div class="column">
-            <h5><strong>2021</strong></h5>
-            <ul>
-                <li>S7 Cluster Games 1st and 2nd place</li>
-            </ul>
-        </div>
-    </div>
-</div>
-<div class="yck-component">
-    <h4 class="yck-h4">Gallery</h4>
-    <div class="video-container">
-        <iframe allowfullscreen="true" height="1109" width="1920" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSS7KkfkJihsCp6rADRk-fyEoQ4ZCOtADkaWp1SiCp5oAHH2uwDAc7vunMfu6q6iw/pubembed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
-    </div>
-</div>
 
+<div class="yck-component">
+	
+<h3>Events and Competitions</h3>
+<div class="col-container">
+	<div class="column">
+<h4>2023</h4>
+<ul>
+    <li>Storvretacupen Singapore:
+        <ul>
+            <li>Zuriel Tan of Team Wondersticks was placed 2nd in the U16 category</li>
+            <li>Afiqi Elriano of Team Ghetto IBK was placed 3rd in the U16 category. He also joined Team Wondersticks in the U19 category &amp; was placed 3rd.</li>
+        </ul>
+    </li>
+    <li>National 'B' and 'C' Division Floorball Championships</li>
+    <li>Sports Enrichment Programme: Inline Skating</li>
+</ul>
+	</div>
+	<div class="column">
+
+<h4>2022</h4>
+<ul>
+    <li>National 'B' and 'C' Division Floorball Championships</li>
+    <li>Sports Enrichment Programme: Golf</li>
+</ul>
+	</div>
+	<div class="column">
+
+<h4>2020</h4>
+<ul>
+    <li>National 'B'-Division Floorball Championships</li>
+</ul>
+	</div>
+	<div class="column">
+
+<h4>2019</h4>
+<ul>
+    <li>National B Division Bowl Championship:
+        <ul>
+            <li>Champion (Team 1)</li>
+            <li>3rd Runner Up (Team 2)</li>
+        </ul>
+    </li>
+    <li>National 'B' and 'C'-Division Floorball Championships</li>
+    <li><strong>Active SG</strong>:
+        <ul>
+            <li>Singapore Floorball Association 'B'-Division Bowl Championship</li>
+            <li>Singapore Floorball Association National Age Group Championship</li>
+            <li>Singapore Floorball Association 'C'-Division Plate / Bowl Championship</li>
+        </ul>
+    </li>
+</ul>
+	</div>
+	<div class="column">
+
+<h4>2018</h4>
+<ul>
+    <li>National 'B' and 'C'-Division Floorball Championships</li>
+</ul>
+</div>
+	</div>
+	</div>
+
+
+
+<div class="yck-component">
+	<h4 class="yck-h4">Gallery</h4>
+	<div class="video-container">
+		<iframe allowfullscreen="true" height="1109" width="1920" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQWDJIuYYGFe5AT6NAXwrRtEcce3vzRIT7pFT6F_vhupSgIRQBm7yV7ciiP-0dMfQ/pubembed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+	</div>
+	</div>
+	
 <style>
 :root {
     --yck-text-line-height: 1.6em;
@@ -121,12 +151,14 @@ variant: markdown
     margin-bottom: var(--yck-space-s-xl);
 }
 
+.yck-component h3,
 .yck-component h4,
 .yck-component h5,
 .yck-component p {
     overflow-wrap: break-word;
 }
 
+.yck-component h3,
 .yck-component h4,
 .yck-component h5 {
     text-wrap: balance;
@@ -141,6 +173,14 @@ variant: markdown
 .yck-component p:last-child,
 .yck-component ul li:last-child {
     margin-bottom: calc(var(--yck-spacing-unit) * 2);
+}
+
+.yck-component h3 {
+    font-size: var(--yck-step-3);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+    text-transform: capitalize;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
 .yck-component .yck-h4,
@@ -222,6 +262,17 @@ variant: markdown
     height: 100%;
 }
 
+.yck-component .col-container {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+
+    /* CSS Multi-column Layout properties */
+    column-count: 2;
+    column-width: 360px;
+    column-gap: 1.5em;
+}
+
 .yck-component .column {
     break-inside: avoid;
     /* Prevents content from breaking across columns */
@@ -250,57 +301,12 @@ variant: markdown
 
 /* Apply the animation on hover */
 .yck-component .column ul li:hover {
-    animation: fadeIn 1.5s forwards;
+    animation: fadeIn 1.25s forwards;
 }
 
 /* Revert the animation when not hovering */
 .yck-component .column ul li:not(:hover) {
-    animation: fadeOut 1.5s forwards;
-}
-
-/* Define the keyframes for the fade-in effect */
-@keyframes fadeIn {
-    from {
-        border-bottom: 1px solid #fff;
-    }
-
-    to {
-        border-bottom: 1px solid #e37f2a;
-    }
-}
-
-/* Define the keyframes for the fade-out effect */
-@keyframes fadeOut {
-    from {
-        border-bottom: 1px solid #e37f2a;
-    }
-
-    to {
-        border-bottom: 1px solid #fff;
-    }
-}
-
-.yck-component .yck-flexbox-grid {
-    --yck-min: 25ch;
-    --yck-gap: 1.5em;
-    display: flex;
-    flex-wrap: wrap;
-    list-style: none;
-    gap: var(--yck-gap);
-}
-
-.yck-component .yck-flexbox-grid>* {
-    flex: 1 1 var(--yck-min);
-    list-style: none;
-}
-
-@media (prefers-reduced-motion: reduce) {
-    * {
-        animation-duration: 0.01ms !important;
-        animation-iteration-count: 1 !important;
-        transition-duration: 0.01ms !important;
-        scroll-behavior: auto !important;
-    }
+    animation: fadeOut 1.25s forwards;
 }
 
 .yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-description) {
@@ -343,50 +349,98 @@ details::details-content {
     font-size: var(--yck-step-0);
     block-size: 0;
     transition:
-        block-size 2s,
-        content-visibility 2s;
+        block-size 1s,
+        content-visibility 1s;
     transition-behavior: allow-discrete;
 }
 
 details[open]::details-content {
     block-size: auto;
-    -webkit-animation: fade-in-top 1.6s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
-    animation: fade-in-top 1.6s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    -webkit-animation: fade-in 1.6s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    animation: fade-in 1.6s ease-in both;
 }
 
 
+/* Define the keyframes for the fadeIn effect */
+@keyframes fadeIn {
+    from {
+        border-bottom: 1px solid #eee;
+    }
+
+    to {
+        border-bottom: 1px solid #e37f2a;
+    }
+}
+
+/* Define the keyframes for the fadeOut effect */
+@keyframes fadeOut {
+    from {
+        border-bottom: 1px solid #e37f2a;
+    }
+
+    to {
+        border-bottom: 1px solid #eee;
+    }
+}
 
 /**
  * ----------------------------------------
- * animation fade-in-top
+ * animation fade-in
  * ----------------------------------------
  */
-@-webkit-keyframes fade-in-top {
+@-webkit-keyframes fade-in {
     0% {
-        -webkit-transform: translateY(-50px);
-        transform: translateY(-50px);
         opacity: 0;
     }
 
     100% {
-        -webkit-transform: translateY(0);
-        transform: translateY(0);
         opacity: 1;
     }
 }
 
-@keyframes fade-in-top {
+@keyframes fade-in {
     0% {
-        -webkit-transform: translateY(-50px);
-        transform: translateY(-50px);
         opacity: 0;
     }
 
     100% {
-        -webkit-transform: translateY(0);
-        transform: translateY(0);
         opacity: 1;
     }
 }
+
+/**
+ * ----------------------------------------
+ * animation kenburns-right
+ * ----------------------------------------
+ */
+
+/**
+ * ----------------------------------------
+ * animation kenburns-bottom
+ * ----------------------------------------
+ */
+
+/**
+ * ----------------------------------------
+ * animation kenburns-top
+ * ----------------------------------------
+ */
+
+/**
+ * ----------------------------------------
+ * animation kenburns-left
+ * ----------------------------------------
+ */
+
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
+}
+
+
 
 </style>

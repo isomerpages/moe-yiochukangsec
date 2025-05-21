@@ -1,139 +1,79 @@
 ---
-title: Badminton
-permalink: /cca/physical-sports/badminton/
+title: Concert Band
+permalink: /cca/Performing-Arts/Concert-Band/
+description: ""
 variant: markdown
-description: YCKSS Badminton Girls Team 2025
-image: /images/YCKLogo.svg
-third_nav_title: Physical Sports
+third_nav_title: PERFORMING ARTS
 ---
 <div class="yck-component">
-                                <div class="ken-burns-container">
-                                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Badminton%20(Boys%20&amp;%20Girls)/B1.jpg" alt="" class="ken-burns-image">
-                                </div>
-                            </div>
-														
-<div class="yck-component">
-    <p>The Badminton CCA aims to equip students with the fundamentals of the
-        sport as well as develop positive self-esteem and sportsmanship. Through
-        participation in competitions, students will learn the values of respect,
-        self-discipline, honesty and teamwork.</p>
-    <p>Badminton is a fast-paced racket sport that involves intense mental concentration and an ability to anticipate and pre-empt the opponent's moves is essential. It also requires determination, perseverance and discipline in players to master the different skills.</p>
-    <p>Our players train together with a common set of beliefs as they strive to bring YCKSS Badminton to greater heights.</p>
-</div>
-<div class="yck-component">
-    <h4 class="yck-h4">Training Schedule</h4>
+    <figure class="ken-burns-container">
+        <img alt="Concert Band performing" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Band.jpg" class="ken-burns-image">
+    </figure>
+    <p>The Concert Band aims to develop a dedicated group of musicians who strive to achieve excellence in instrumental music performance. Our students experience the joy of making music and forging friendships that will last for life.</p>
+    <p>Band students learn instrumental and ensemble skills on a wind orchestra instrument and actively participate in school, community, and national events. New student applicants will undergo an aptitude test to determine the instrument(s) best suited to their unique abilities for them to study.</p>
+    <p>Our CCA trains three times a week, with the goal of developing the students' instrumental and ensemble skills to their highest level. With the aid of professional instructors and the support of dedicated alumni, the Concert Band seeks to bring their performances to greater heights.</p>
+    <h2 class="yck-h2">Training Schedule</h2>
     <table class="yck-table">
         <thead>
             <tr>
                 <th class="yck-th">
-                    <h5 class="yck-h5">DAY &amp; TIME:</h5>
+                    <h5 class="yck-h5">Day &amp; Time</h5>
                 </th>
                 <th class="yck-th">
-                    <h5 class="yck-h5">TEACHERS-IN-CHARGE</h5>
+                    <h5 class="yck-h5">Teachers-in-Charge</h5>
                 </th>
                 <th class="yck-th">
-                    <h5 class="yck-h5">VENUE:</h5>
+                    <h5 class="yck-h5">Venue</h5>
                 </th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td class="yck-td">
-                    <p>
-                        Every Monday, 3.00pm to 5.30pm
-                    </p>
-                    <p>
-                        Every Wednesday, 3.00pm to 5.30pm
-                    </p>
+                    <p>Every Tuesday, 3.00pm to 5.30pm</p>
+                    <p>Every Thursday, 3.00pm to 5.30pm</p>
                 </td>
                 <td class="yck-td">
-                    <p>
-                        Mr Patrick Wee (OIC) (ext 127)
-                    </p>
-                    <p>
-                        Mdm Ng Hui Yin (ext 146)
-                    </p>
-                    <p>
-                        Ms Rohini (ext 141)
-                    </p>
-                    <p>
-                        Mr Darren Tham (ext 127)
-                    </p>
+                    <p>Mr Michael Cartwright (ext 128)</p>
+                    <p>Ms Lim Li May (ext 171)</p>
+                    <p>Ms Nur Rafizah Bte Safiee (ext 286)</p>
+                    <p>Ms Fong Ya Yi (Adele) (ext 122)</p>
                 </td>
                 <td class="yck-td">
-                    <p>
-                        School hall (Monday)
-                    </p>
-                    <p>
-                        ISH Level 2 (Wednesday)
-                    </p>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                    <p><small>Note: There will not be any intake for Secondary 1 boys.</small></p>
+                    <p>Band room &amp; some classrooms (Level 2)</p>
                 </td>
             </tr>
         </tbody>
     </table>
-</div>
-
-<div class="yck-component">
-    <details>
-        <summary class="yck-h4">Appointments:</summary>
-        <div class="isomer-card">
-            <ul>
-                <li>Sec 4 Captain Girls: Nuryn' Insyierah Binte Nur'asri</li>
-                <li>Sec 4 Vice-captain Girls: Angelyn Low Shi Ning</li>
-                <li>Sec 4 Captain Boys: Javier Tay Jun Lok</li>
-                <li>Sec 4 Vice-captain Boys: Bryan Neo Jia En</li>
-                <li>Sec 3 Captain Girls: Seah Yu Xuan, Charlyn</li>
-                <li>Sec 3 Vice-captain Girls: Chua Yu Hwee, Tricia</li>
-                <li>Sec 3 Captain Boys: Ryan Eng Rui Young</li>
-                <li>Sec 3 Vice-captain Boys: Nyan Lin Myat</li>
-							<li>Sec 2 Captain Girls: <i>pending appointment</i></li>
-							<li>Sec 2 Vice-captain Girls: <i>pending appointment</i></li>
-            </ul>
-        </div>
-    </details>
-</div>
-
-
-<div class="yck-component">
+    <h2 class="yck-h2">Achievements</h2>
     <div class="col-container">
         <div class="column">
-            <h4 class="yck-h4">Proudest Moments</h4>
+            <h3 class="yck-h3">Proudest Moments</h3>
             <ul>
-                <li><span class="yck-h5">2019</span><br>'C' Division Girls Top 8 North Zone Badminton Championships</li>
-            </ul>
-            <ul>
-                <li><span class="yck-h5">2018</span><br>'B' Division Girls Top 8 North Zone Badminton Championships</li>
-            </ul>
-            <ul>
-                <li><span class="yck-h5">2017</span><br>'B' Division Girl's First runners-up South Zone Badminton Championships</li>
-            </ul>
-            <ul>
-							<li><span class="yck-h5">2016</span><br>4th position South Zone Badminton Championships</li>
+                <li><b>2021</b><br>SYF Presentation - <em>Certificate of Accomplishment</em></li>
+                <li><b>2019</b><br>SYF Arts Presentation - <em>Certificate of Accomplishment</em></li>
+                <li><b>2017</b><br>Exchange concert with Sembawang Wind Orchestra <i>(SWO)</i> @ Singapore Botanic Gardens<br>SYF Arts Presentation - <em>Certificate of Accomplishment</em></li>
+                <li><b>2015</b><br>SYF Arts Presentation - <em>Certificate of Accomplishment</em></li>
             </ul>
         </div>
         <div class="column">
-            <h4 class="yck-h4">Events/Competitions</h4>
+            <h3 class="yck-h3">Events &amp; Competitions</h3>
             <ul>
-                <li><span class="yck-h5">2020</span><br>Nil</li>
-            </ul>
-            <ul>
-                <li><span class="yck-h5">2019</span><br>'C' Division Girls Top 8 North Zone Badminton Championships</li>
-            </ul>
-            <ul>
-                <li><span class="yck-h5">2018</span><br>'B' Division Girls Top 8 North Zone Badminton Championships</li>
+                <li>Chinese New Year celebrations</li>
+                <li>Singapore Youth Festival</li>
+                <li>Singapore International Band Festival</li>
+                <li>School National Day Celebration</li>
+                <li>Exchange Concerts with Sembawang Wind Orchestra</li>
             </ul>
         </div>
     </div>
-</div>
-<div class="yck-component">
-    <h4>Gallery</h4>
+    <hr>
+    <h2 class="yck-h2">Gallery</h2>
+	<div class="video-container">
+		<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/mgOTUdk4Wog?si=3zehUlO_fiQC1NF_" height="315" width="560"></iframe>
+	</div>
     <div class="video-container">
-        <iframe allowfullscreen="true" height="839" width="1440" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTekBN4fcHgjTSHqEO3L6p1nV4fVlpvgHftiIzgXAL4w1hTxE-ZtjHrMYTR0SIoXmpyq_UKvkKO17Kb/embed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
+        <iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQEFS0lTPV_Xp8eKt4tGkoYY6QEhQp22QSGOiozcqiekV-ZlfQx9dh64lmT8ljBNw/embed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
     </div>
 </div>
 
@@ -168,9 +108,7 @@ third_nav_title: Physical Sports
 .yck-component h1,
 .yck-component h2,
 .yck-component h3,
-.yck-component h4,
 .yck-component h5,
-.yck-component h6,
 .yck-component p {
     overflow-wrap: break-word;
 }
@@ -178,22 +116,18 @@ third_nav_title: Physical Sports
 .yck-component h1,
 .yck-component h2,
 .yck-component h3,
-.yck-component h4,
-.yck-component h5,
-.yck-component h6 {
+.yck-component h5 {
     text-wrap: balance;
 }
 
 .yck-component p,
-.yck-component ol,
 .yck-component ul {
     text-wrap: pretty;
     margin-bottom: var(--yck-space-s-xl);
 }
 
 .yck-component p:last-child,
-.yck-component ul li:last-child,
-.yck-component ol li:last-child {
+.yck-component ul li:last-child {
     margin-bottom: calc(var(--yck-spacing-unit)*2);
 }
 
@@ -223,15 +157,6 @@ third_nav_title: Physical Sports
     letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.yck-component .yck-h4,
-.yck-component h4 {
-    font-size: var(--yck-step-2);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.3);
-    text-transform: capitalize;
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
-}
-
 .yck-component .yck-h5,
 .yck-component h5 {
     font-size: var(--yck-step-1);
@@ -241,13 +166,10 @@ third_nav_title: Physical Sports
     letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.yck-component .yck-h6,
-.yck-component h6 {
-    font-size: var(--yck-step-0);
-    margin-bottom: var(--yck-spacing-unit);
-    text-transform: uppercase;
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
+.yck-component hr,
+hr {
+    border: 1px dotted slategrey;
+    margin-block: clamp(1rem, 2vw, 2.5rem);
 }
 
 .yck-component .yck-table {
@@ -289,6 +211,10 @@ third_nav_title: Physical Sports
 }
 
 /* Apply margin-bottom only when it is the last table-date in the row or contains the last paragraph */
+.yck-component .yck-table tbody tr:last-child .yck-td:last-child,
+.yck-component .yck-table tbody tr:last-child .yck-td:last-child p:last-child {
+    margin-bottom: var(--yck-spacing-unit);
+}
 
 .yck-component .video-container {
     position: relative;
@@ -319,14 +245,13 @@ third_nav_title: Physical Sports
     column-gap: 1.5em;
 }
 
-.yck-component .isomer-card,
 .yck-component .column {
     break-inside: avoid;
     /* Prevents content from breaking across columns */
     page-break-inside: avoid;
     /* For older browsers */
     padding: 20px;
-/*     margin-block:  calc(var(--yck-spacing-unit)*0.5); */
+    /*     margin-block:  calc(var(--yck-spacing-unit)*0.5); */
     border-radius: 5px;
     box-shadow: var(--yck-box-shadow);
 }
@@ -380,6 +305,21 @@ third_nav_title: Physical Sports
     }
 }
 
+
+.yck-component figure {
+    /*   border: thin #c0c0c0 solid; */
+    display: flex !important;
+    flex-flow: column !important;
+    /*   padding: 5px; */
+    max-width: 100%;
+    margin: auto !important;
+}
+
+.yck-component figure img {
+    border-radius: 8px;
+    box-shadow: var(--yck-box-shadow);
+}
+
 .ken-burns-container {
     max-width: 100%;
     overflow: hidden;
@@ -401,26 +341,6 @@ third_nav_title: Physical Sports
     to {
         transform: scale(1.3);
     }
-}
-
-details {
-    overflow: hidden;
-}
-
-details * {
-    margin: 0 !important;
-}
-
-details ul li {
-    margin-inline-start: 1.5rem !important;
-    padding-block: calc(var(--yck-spacing-unit) * 0.5);
-}
-
-summary {
-    margin-inline-start: 1.5rem !important;
-    list-style-position: outside;
-    cursor: pointer;
-    font-size: var(--yck-step-1);
 }
 
 summary::marker {
