@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Indian Dance.md
       - English Drama.md
       - Choir.md
       - Chinese Dance.md
