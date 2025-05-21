@@ -2,10 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Netball.md
-      - Floorball (Boys).md
-      - Basketball (Boys).md
-      - Badminton.md
       - CLUBS/.keep
       - CLUBS/Digital Animation Club.md
       - CLUBS/Media Club (Audio Visual, Photography & Videography).md
@@ -20,6 +16,10 @@ collections:
       - Indian Dance.md
       - Malay Dance.md
       - PHYSICAL SPORTS/.keep
+      - Badminton.md
+      - Basketball (Boys).md
+      - Floorball (Boys).md
+      - Netball.md
       - UNIFORMED GROUPS/.keep
       - UNIFORMED GROUPS/NPCC.md
       - UNIFORMED GROUPS/Red Cross Youth.md
