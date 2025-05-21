@@ -6,36 +6,39 @@ third_nav_title: Distinctive Programmes
 variant: markdown
 ---
 <div class="yck-component">
-<figure>
-    <img alt="Applied Learning Programme Introduction" src="/images/Our%20Curriculum/Distinctive%20Programmes/Applied%20Learning%20Programme/A1.jpg">
-</figure>
-<p>The school offers an Applied Learning Programme (ALP)&nbsp;&nbsp;<strong>to nurture inquiring minds and inventive thinkers through technology</strong>. It is in alignment to our school vision of ‘A Community of Learners, Leaders and Innovators’.&nbsp;&nbsp;</p>
-<p>In this programme, students are introduced to the world of Science, Technology, Engineering and Mathematics (STEM) in the form of Emerging Technologies, and learn to develop innovative ideas and integrated solutions for real-life problems in the community. The ALP gives students opportunities to explore the connections between problem-solving skills needed in the real world and academic knowledge related to STEM.</p> 
-	<p>The progressive ALP curriculum equips all students with coding and computational thinking skills using an inquiry-based learning approach. Importantly, the ALP encourages students to stay curious and learn about how technology can be applied in new ways to improve the quality of life around us. In this way, the ALP hopes to nurture students capable of adapting to change.</p>
+    <div class="ken-burns-container">
+        <figure>
+            <img alt="Applied Learning Programme Introduction" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Distinctive%20Programmes/Applied%20Learning%20Programme/A1.jpg" class="ken-burns-image">
+        </figure>
+    </div>
+    <p>The school offers an Applied Learning Programme (ALP)&nbsp;&nbsp;<strong>to nurture inquiring minds and inventive thinkers through technology</strong>. It is in alignment to our school vision of ‘A Community of Learners, Leaders and Innovators’.&nbsp;&nbsp;</p>
+    <p>In this programme, students are introduced to the world of Science, Technology, Engineering and Mathematics (STEM) in the form of Emerging Technologies, and learn to develop innovative ideas and integrated solutions for real-life problems in the community. The ALP gives students opportunities to explore the connections between problem-solving skills needed in the real world and academic knowledge related to STEM.</p>
+    <p>The progressive ALP curriculum equips all students with coding and computational thinking skills using an inquiry-based learning approach. Importantly, the ALP encourages students to stay curious and learn about how technology can be applied in new ways to improve the quality of life around us. In this way, the ALP hopes to nurture students capable of adapting to change.</p>
 </div>
 <div class="yck-component">
-<h2>Objectives of the programme</h2>
-<ul>
-    <li>To provide students with opportunities to explore connections between academic knowledge and skills in the real world related to Science, Technology, Engineering and Mathematics (STEM).</li>
-    <li>To encourage students to stay curious and learn how technology can be applied in new ways to improve the quality of life around us.&nbsp;</li>
-</ul>
+    <h2>Objectives of the programme</h2>
+    <ul>
+        <li>To provide students with opportunities to explore connections between academic knowledge and skills in the real world related to Science, Technology, Engineering and Mathematics (STEM).</li>
+        <li>To encourage students to stay curious and learn how technology can be applied in new ways to improve the quality of life around us.&nbsp;</li>
+    </ul>
 </div>
 <div class="yck-component">
-<h2>The ALP&nbsp;Curriculum</h2>
-	<p>This is a structured programme&nbsp;&nbsp;<strong><mark>during curriculum hours.</mark></strong>&nbsp;It is structured to develop digital literacies of&nbsp;<strong>Computational Thinking</strong>,&nbsp;<strong>Creation</strong>, and&nbsp;<strong>Communication &amp; Collaboration</strong>.</p>
-<figure>
-    <img alt="ALP Curriculum Diagram" src="/images/Our%20Curriculum/Distinctive%20Programmes/Applied%20Learning%20Programme/DP_ALP_A2updated_20250227.png">
-</figure>
-<p>Additional opportunities that are more concrete&nbsp;&nbsp;</p>
-<p>Students who have a keen interest in STEM can further hone their knowledge and skills via</p>
-<ul>
-    <li>Mechatronics, Aeronautical, Robotics (MARs) Club&nbsp;</li>
-    <li>External STEM competitions</li>
-    <li>Advanced Elective Modules offered by Polytechnics at Sec 3</li>
-    <li>Smart Electrical Technology (SET)&nbsp;<em>(for Sec 3NT Students only)</em></li>
-    <li>Mentorship Opportunities</li>
-    <li>Maker Programme at Techno Sphere&nbsp;</li>
-</ul>
+    <h2>The ALP&nbsp;Curriculum</h2>
+    <p>This is a structured programme&nbsp;&nbsp;<strong>during curriculum hours.</strong>&nbsp;It is structured to develop digital literacies of&nbsp;<strong>Computational Thinking</strong>,&nbsp;<strong>Creation</strong>, and&nbsp;<strong>Communication &amp; Collaboration</strong>.</p>
+    <figure>
+        <img alt="ALP Curriculum Diagram" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Distinctive%20Programmes/Applied%20Learning%20Programme/DP_ALP_A2updated_20250227.png">
+        <figcaption>The ALP Curriculum diagram for Sec 1 and Sec 2</figcaption>
+    </figure>
+    <h3 class="yck-h3">Additional opportunities that are more concrete&nbsp;&nbsp;</h3>
+    <p>Students who have a keen interest in STEM can further hone their knowledge and skills via</p>
+    <ul>
+        <li>Mechatronics, Aeronautical, Robotics (MARs) Club&nbsp;</li>
+        <li>External STEM competitions</li>
+        <li>Advanced Elective Modules offered by Polytechnics at Sec 3</li>
+        <li>Smart Electrical Technology (SET)&nbsp;<em>(for Sec 3NT Students only)</em></li>
+        <li>Mentorship Opportunities</li>
+        <li>Maker Programme at Techno Sphere&nbsp;</li>
+    </ul>
 </div>
 <div class="yck-component">
     <h2>Direct School Admission (DSA)</h2>
@@ -54,18 +57,16 @@ variant: markdown
         <li>Students should possess a positive attitude and a sense of commitment in their talent area.</li>
     </ul>
 </div>
-
 <div class="yck-component">
-	<div class="col-container">
-		<div class="isomer-card">
-<details>
+    <div class="col-container">
+        <div class="isomer-card">
+            <details>
                 <summary class="yck-h5">HOD Design &amp; Enterprise</summary>
                 <p class="yck-h6">Ms Hoon Siew Hui [ext: 206]</p>
             </details>
+        </div>
+    </div>
 </div>
-</div>
-</div>
-
 
 ### **Photo Gallery**
 
@@ -75,10 +76,6 @@ variant: markdown
 ![](/images/Our%20Curriculum/Distinctive%20Programmes/Applied%20Learning%20Programme/A6.png)
 ![](/images/Our%20Curriculum/Distinctive%20Programmes/Applied%20Learning%20Programme/A7.png)
 ![](/images/Our%20Curriculum/Distinctive%20Programmes/Applied%20Learning%20Programme/A8.png)
-
-
-
-
 
 <style>
 :root {
@@ -97,7 +94,7 @@ variant: markdown
     --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
-   --yck-space-s-xl: clamp(0.75rem, 0.2143rem + 3.9286vw, 3.75rem);
+    --yck-space-s-xl: clamp(0.75rem, 0.2143rem + 3.9286vw, 3.75rem);
     interpolate-size: allow-keywords;
 }
 
@@ -130,7 +127,7 @@ variant: markdown
 .yck-component p,
 .yck-component ol li,
 .yck-component ul li {
-    text-wrap: pretty;;
+    text-wrap: pretty;
 }
 
 .yck-component p:last-child,
@@ -210,7 +207,7 @@ variant: markdown
     /* For older browsers */
     padding: 20px;
     border-radius: 5px;
-    box-shadow:var(--yck-box-shadow);
+    box-shadow: var(--yck-box-shadow);
 }
 
 /* Flexbox Grid */
@@ -238,10 +235,10 @@ variant: markdown
 }
 
 .yck-component figure img {
-	border-radius: 8px;
-	box-shadow: var(--yck-box-shadow);
-	}
-	
+    border-radius: 8px;
+    box-shadow: var(--yck-box-shadow);
+}
+
 .yck-component figcaption {
     background-color: rgba(255, 255, 255, 0.75);
     color: #333;
@@ -249,63 +246,65 @@ variant: markdown
     padding: 5px;
     text-align: center;
 }
-	
+
 .ken-burns-container {
-            max-width: 100%;
-            overflow: hidden;
-            position: relative;
-        }
+    max-width: 100%;
+    overflow: hidden;
+    position: relative;
+    border-radius: 8px;
+}
 
-        .ken-burns-image {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-            animation: kenBurns 30s ease-in-out infinite alternate;
-        }
+.ken-burns-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    animation: kenBurns 30s ease-in-out infinite alternate;
+}
 
-        @keyframes kenBurns {
-            from {
-                transform: scale(1);
-            }
-            to {
-                transform: scale(1.3);
-            }
-        }
-	
+@keyframes kenBurns {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.3);
+    }
+}
+
 details {
-        overflow: hidden;
-        
-    }
+    overflow: hidden;
 
-    details * {
-        margin: 0 !important;
-    }
+}
 
-    details>p {
-        margin-inline-start: 1.5rem !important;
-        padding-block: calc(var(--yck-spacing-unit) * 0.5);
-    }
+details * {
+    margin: 0 !important;
+}
 
-     summary {
-        margin-inline-start: 1.5rem !important;
-        list-style-position: outside;
-        cursor: pointer;
-        font-size: var(--yck-step-1);
-    }
+details>p {
+    margin-inline-start: 1.5rem !important;
+    padding-block: calc(var(--yck-spacing-unit) * 0.5);
+}
 
-     summary::marker {
-        font-size: var(--yck-step-1);
-    }
+summary {
+    margin-inline-start: 1.5rem !important;
+    list-style-position: outside;
+    cursor: pointer;
+    font-size: var(--yck-step-1);
+}
+
+summary::marker {
+    font-size: var(--yck-step-1);
+}
 
 
-    details::details-content {
-        font-size: var(--yck-step-0);
-        block-size: 0;
-        transition: block-size 1s, content-visibility 1s;
-        transition-behavior: allow-discrete;
-    }
+details::details-content {
+    font-size: var(--yck-step-0);
+    block-size: 0;
+    transition: block-size 1s, content-visibility 1s;
+    transition-behavior: allow-discrete;
+}
 
-    details[open]::details-content {
-        block-size: auto;
-    }
+details[open]::details-content {
+    block-size: auto;
+}
 </style>
