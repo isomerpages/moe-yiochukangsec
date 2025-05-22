@@ -2,10 +2,13 @@
 title: Distinctive Programmes
 permalink: /our-curriculum/Distinctive-Programmes/Distinctive-Programmes/
 description: ""
+variant: markdown
 ---
+<div class="yck-component">
+	<div class="ken-burns-container">
 <figure>
 
-<a href="/our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/" target="\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Distinctive%20Programmes/Distinctive%20Programmes/D1.png"></a>
+<a href="/our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/" target="\_blank"> <img style="width:50%" src="/images/Our%20Curriculum/Distinctive%20Programmes/Distinctive%20Programmes/D1.png" class="ken-burns-image"></a>
 
 <figcaption>
 
@@ -37,4 +40,4 @@ description: ""
 
 </figcaption>
 
-</figure>
+</figure></div></div>
