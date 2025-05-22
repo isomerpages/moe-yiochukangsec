@@ -4,13 +4,6 @@ links:
     collection: our-story
   - title: Our Curriculum
     collection: our-curriculum
-  - title: Distinctive Programmes
-    url: /our-curriculum/Distinctive-Programmes/
-    sublinks:
-      - title: Applied Learning Programme
-        url: /our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/
-      - title: Learning for Life Programme
-        url: /our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/
   - title: Our CCAs
     url: /our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/
     sublinks:
