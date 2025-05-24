@@ -1,8 +1,8 @@
 ---
 layout: homepage
 title: Yio Chu Kang Secondary School
-description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+description: Home, Heart, Hope ...
+image: /images/YCKLogo.svg
 permalink: /
 notification: ""
 sections:
