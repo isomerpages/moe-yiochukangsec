@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: ""
+description: Home, Heart, Hope ...
 permalink: none
 baseurl: ""
 exclude:
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d1k13ofnbsdhx.amplifyapp.com
 prod: https://master.d1k13ofnbsdhx.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/YCKLogo.svg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
