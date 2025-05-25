@@ -68,12 +68,15 @@ variant: markdown
     <div class="column">
         <details name="keyprog">
             <summary class="yck-h4">Da Vinci Programme (Secondary 2 - 4)</summary>
-            <p>The Da Vinci Programme is a progressive Science Talent Development Programme that complements the Science department’s core curriculum in developing the scientific minds of our students. The objective of the Da Vinci Programme is to enable selected students who demonstrated an attitude and aptitude for scientific research to participate in research projects under the guidance of teacher mentors from different Science disciplines. </p>
-            <p>The students work on research projects under the close mentorship of teacher mentors throughout a two-year programme spanning between Secondary 2 and 3. They will identify problems and attempt to use scientific solutions to investigate. </p>
-            <p>Students’ research will culminate in a project presentation at: </p>
-            <p>(a) <strong>Unity Scientific Innovation Challenge (USIC)</strong> – Secondary 2;</p>
-            <p>(b) <strong><a target="_blank" href="https://www.asrjc.moe.edu.sg/special-programmes/elementz-international-science-research-conference-and-exhibition/">North Zone Elementz Science Research Conference and Exhibition</a></strong> – Secondary 3; and the participation in the</p>
-            <p>(c) <strong><a target="_blank" href="https://www.perplexity.ai/search/what-is-the-c-bpauls-science-q-8A5SKKWAR2GWPFUFAhSOuA">C B Paul Science Quiz</a></strong> by ACJC, NTU and NUS, which provides a platform for students to network with other like-minded students and budding scientists in Singapore. – Secondary 4 </p>
+            <p>The Da Vinci Programme is an innovative Science Talent Development initiative that complements the Science department’s core curriculum by fostering the scientific potential of our students. It aims to equip selected students—those who exhibit a passion and aptitude for scientific research—with opportunities to engage in research projects under the guidance of teacher mentors across various Science disciplines. Through these experiences, students develop critical thinking, creativity, collaboration, and communication skills, preparing them to thrive in the 21st century.</p>
+            <p>The students work on research projects under the close mentorship of teacher mentors throughout a three-year programme spanning between Secondary 2 and 4. They will identify problems and attempt to use scientific solutions to investigate. </p>
+            <p>Students’ research will culminate in a project presentation at one or more of the following platforms:</p>
+            <p>(a) <strong><a target="_blank" href="https://www.asrjc.moe.edu.sg/special-programmes/elementz-international-science-research-conference-and-exhibition/">North Zone Elementz Science Research Conference and Exhibition</a></strong> – Secondary 3; and the participation in the</p>
+            <p>(b) <strong><a target="_blank" href="https://www.perplexity.ai/search/what-is-the-c-bpauls-science-q-8A5SKKWAR2GWPFUFAhSOuA">C B Paul Science Quiz</a></strong> by ACJC, NTU and NUS, which provides a platform for students to network with other like-minded students and budding scientists in Singapore. – Secondary 4 </p>
+            <p>(c) International Biomedical Quiz </p>
+						<p>(d) &nbsp;Singapore Science Engineering Fair (SSEF)</p>
+						<p>(e)  Singapore Junior Chemistry Olympiad (SJChO)</p>
+						<p>(f)  Singapore Junior Physics Olympiad (SJPhO)</p>
         </details>
     </div>
     <div class="column">
