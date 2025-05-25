@@ -43,20 +43,40 @@ variant: markdown
 <div class="yck-component">
     <h2>Direct School Admission (DSA)</h2>
     <p>Successful DSA applicants are expected to enrol in <a href="/cca/clubs/mars-club-mechatronics-aeronautics-and-robotics/">Mechatronics, Aeronautical, Robotics (MARs) Club</a> to help develop their talents progressively. The students will be involved in trainings, workshops and competitions related to Robotics, Drones and STEM related topics.</p>
-    <h3 class="yck-h3">Selection Criteria</h3>
-    <h4 class="yck-h4">Aptitude</h4>
-    <ul>
-        <li>Students should preferably have strong interest in Science, Electronics or Aeronautics or Mechatronics and/or Robotics.</li>
-    </ul>
-    <h4 class="yck-h4">CCA Achievement</h4>
-    <ul>
-        <li>Students should preferably have done well in Science/Design-related competitions or projects.</li>
-    </ul>
-    <h4 class="yck-h4">Character</h4>
-    <ul>
-        <li>Students should possess a positive attitude and a sense of commitment in their talent area.</li>
-    </ul>
-</div>
+<h3 class="yck-h3">Selection Criteria</h3>
+                                <div class="isomer-card-grid">
+                                    <div class="isomer-card">
+                                        <div class="isomer-card-title">
+                                            <h4 class="yck-h4">Aptitude</h4>
+                                        </div>
+                                        <div class="isomer-card-description">
+                                            <ul>
+                                                <li>Students should preferably have strong interest in Science, Electronics or Aeronautics or Mechatronics and/or Robotics.</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="isomer-card">
+                                        <div class="isomer-card-title">
+                                            <h4 class="yck-h4">CCA Achievement</h4>
+                                        </div>
+                                        <div class="isomer-card-description">
+                                            <ul>
+                                                <li>Students should preferably have done well in Science/Design-related competitions or projects.</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="isomer-card">
+                                        <div class="isomer-card-title">
+                                            <h4 class="yck-h4">Character</h4>
+                                        </div>
+                                        <div class="isomer-card-description">
+                                            <ul>
+                                                <li>Students should possess a positive attitude and a sense of commitment in their talent area.</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
 <div class="yck-component">
     <div class="col-container">
         <div class="isomer-card">
