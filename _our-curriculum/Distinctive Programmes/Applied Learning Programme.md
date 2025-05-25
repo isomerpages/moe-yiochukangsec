@@ -42,7 +42,7 @@ variant: markdown
 </div>
 <div class="yck-component">
     <h2>Direct School Admission (DSA)</h2>
-    <p>Successful DSA applicants are expected to enrol in Mechatronics, Aeronautical, Robotics (MARs) Club to help develop their talents progressively. The students will be involved in trainings, workshops and competitions related to Robotics, Drones and STEM related topics.</p>
+    <p>Successful DSA applicants are expected to enrol in <a href="/cca/clubs/mars-club-mechatronics-aeronautics-and-robotics/">Mechatronics, Aeronautical, Robotics (MARs) Club</a> to help develop their talents progressively. The students will be involved in trainings, workshops and competitions related to Robotics, Drones and STEM related topics.</p>
     <h3 class="yck-h3">Selection Criteria</h3>
     <h4 class="yck-h4">Aptitude</h4>
     <ul>
