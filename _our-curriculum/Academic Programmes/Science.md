@@ -25,12 +25,6 @@ variant: markdown
     <h3 class="yck-h3">Key Programmes</h3>
     <div class="column">
         <details name="keyprog">
-            <summary class="yck-h4">Lower Secondary Science SPA</summary>
-            <p>In Lower Secondary science SPA, students are taught Science Practical Skills of Performing, Observing and Planning over a period of two years. Skills-based assessments which address the different kinds of laboratory skills in practical work will be embedded to complement the learning cycle. Assessment for learning and assessment as learning will be scheduled during the whole learning cycle.</p>
-        </details>
-    </div>
-    <div class="column">
-        <details name="keyprog">
             <summary class="yck-h4">Mendel’s Garden (Lower Secondary Science)</summary>
             <p>“Mendel’s Garden” is an instructional programme inspired by a working life-size experimental greenhouse which demonstrates the applications of vertical urban farming. It is named after the Father of Genetics, Gregor Mendel, who discovered the fundamental laws of inheritance through his work on pea plants grown in his own garden.</p>
             <p>This discovery in one’s own garden provided the impetus for the school to create its own Mendel’s Garden to provide opportunities for students to learn beyond the classroom through hands-on experimentation and collaborative problem-solving. Mendel’s Garden features a vertical growing system that uses sophisticated technology to overcome the challenges of growing crops in limited spaces.</p>
