@@ -30,6 +30,11 @@ image: /images/YCKLogo.svg
 	<div class="yck-component">
 	<h2>RICE Thinking Skills in YCKSS Total Curriculum Framework</h2>
 <p>Through a combination of Design Thinking methodology and inquiry-based learning, students apply the RICE Thinking Skills framework to explore and develop innovative solutions to current and emerging challenges. This approach fosters deeper engagement with STEM, cultivates critical thinking, and enhances their awareness of environmental issues, empowering them to tackle real-world problems with curiosity and creativity.</p>	
+<figure>
+	<img alt="A diagram of the RICE framework showing the 4 thinking" src="/images/Our%20Curriculum/Distinctive%20Programmes/fita_RICE_Thinking_Skills_in_YCKSS_Total_Curriculum_Framework.png">
+	<figcaption>A diagram showing the 4 RICE Thinking skills</figcaption>
+	</figure>
+	
 </div>
 
 <style>
@@ -164,11 +169,11 @@ image: /images/YCKLogo.svg
     font-style: normal;
     font-weight: bold;
     color: #eee !important;
-    font-size: 5vmin;
+    font-size: 5.7vmin;
     letter-spacing: 0.03em;
     line-height: 1;
     text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.8);
-    margin-bottom: 10px;
+    margin-bottom: 16px;
 }
 #distinct-fita {
     background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 37%, rgba(0, 0, 0, 0.65) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/fita01.jpg) no-repeat center center scroll;
