@@ -74,9 +74,9 @@ variant: markdown
             <p>(a) <strong><a target="_blank" href="https://www.asrjc.moe.edu.sg/special-programmes/elementz-international-science-research-conference-and-exhibition/">North Zone Elementz Science Research Conference and Exhibition</a></strong> – Secondary 3; and the participation in the</p>
             <p>(b) <strong><a target="_blank" href="https://www.perplexity.ai/search/what-is-the-c-bpauls-science-q-8A5SKKWAR2GWPFUFAhSOuA">C B Paul Science Quiz</a></strong> by ACJC, NTU and NUS, which provides a platform for students to network with other like-minded students and budding scientists in Singapore. – Secondary 4 </p>
             <p>(c) International Biomedical Quiz </p>
-						<p>(d) &nbsp;Singapore Science Engineering Fair (SSEF)</p>
-						<p>(e)  Singapore Junior Chemistry Olympiad (SJChO)</p>
-						<p>(f)  Singapore Junior Physics Olympiad (SJPhO)</p>
+						<p>(d) <a target="_blank" href="https://www.science.edu.sg/for-schools/competitions/singapore-science-and-engineering-fair">Singapore Science Engineering Fair (SSEF)</a></p>
+						<p>(e)  <a target="_blank" href="https://snic.org.sg/index.php/event/sjcho">Singapore Junior Chemistry Olympiad (SJChO)</a></p>
+						<p>(f)  <a target="_blank" href="https://ipssingapore.org/events/SJPO.html">Singapore Junior Physics Olympiad (SJPhO)</a></p>
         </details>
     </div>
     <div class="column">
