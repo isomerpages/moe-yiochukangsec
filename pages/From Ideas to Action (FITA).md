@@ -20,7 +20,7 @@ image: /images/Our Curriculum/Distinctive Programmes/fita_ricehead.svg
     <div class="masthead" id="distinct-fita">
         <h2>A multidisciplinary STEM programme</h2>
     </div>
-    <p>From Ideas To Action (F.I.T.A.) is a multidisciplinary <i>Science, Technology, Engineering and Mathematics (STEM)</i> programme designed to allow students to synthesize knowledge across four subject disciplines, viz. <a target="_blank" href="/our-curriculum/Academic-Programmes/Humanities/">Humanities</a>, <a target="_blank" href="/our-curriculum/Academic-Programmes/Design-and-Enterprise/">Design &amp; Technology</a>, <a target="_blank" href="">Mathematics</a> and <a target="" href="">Science</a>, and apply it to real-life situations. The philosophy underpinning the F.I.T.A. curriculum is that technological advancement and discovery in the real world rely on close collaboration between researchers, mathematicians, engineers, and innovators.</p>
+	<p><strong>From Ideas To Action (F.I.T.A.)</strong> is a multidisciplinary <i>Science, Technology, Engineering and Mathematics (STEM)</i> programme designed to allow students to synthesize knowledge across four subject disciplines, viz. <a target="_blank" href="/our-curriculum/Academic-Programmes/Humanities/">Humanities</a>, <a target="_blank" href="/our-curriculum/Academic-Programmes/Design-and-Enterprise/">Design &amp; Technology</a>, <a target="_blank" href="">Mathematics</a> and <a target="" href="">Science</a>, and apply it to real-life situations. The philosophy underpinning the F.I.T.A. curriculum is that technological advancement and discovery in the real world rely on close collaboration between researchers, mathematicians, engineers, and innovators.</p>
     <figure>
         <img alt="A sample of student's work" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/fita_student_work_sample.jpg">
         <figcaption>Sample of Student's Work</figcaption>
@@ -34,8 +34,8 @@ image: /images/Our Curriculum/Distinctive Programmes/fita_ricehead.svg
         <img alt="A diagram of the RICE framework showing the 4 thinking" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/fita_RICE_Thinking_Skills_in_YCKSS_Total_Curriculum_Framework.png">
         <figcaption>A diagram showing the 4 RICE Thinking skills</figcaption>
     </figure>
-    <div class="yck-flexbox-grid" id="fita-ricehead">
-        <div class="isomer-card">
+    <div class="yck-flexbox-grid">
+        <div class="isomer-card" id="reflect-rice">
             <div class="isomer-card-body">
                 <div class="isomer-card-title">
 									<h5><strong>Reflective Thinking</strong></h5>
@@ -45,7 +45,7 @@ image: /images/Our Curriculum/Distinctive Programmes/fita_ricehead.svg
                 </div>
             </div>
         </div>
-        <div class="isomer-card">
+        <div class="isomer-card" id="invent-rice">
             <div class="isomer-card-body">
                 <div class="isomer-card-title">
 									<h5><strong>Inventive Thinking</strong></h5>
@@ -56,7 +56,7 @@ image: /images/Our Curriculum/Distinctive Programmes/fita_ricehead.svg
             </div>
         </div>
         <div class="isomer-card">
-            <div class="isomer-card-body">
+            <div class="isomer-card-body" id="critic-rice">
                 <div class="isomer-card-title">
 									<h5><strong>Critical Thinking</strong></h5>
                 </div>
@@ -65,7 +65,7 @@ image: /images/Our Curriculum/Distinctive Programmes/fita_ricehead.svg
                 </div>
             </div>
         </div>
-        <div class="isomer-card">
+        <div class="isomer-card" id="empath-rice">
             <div class="isomer-card-body">
                 <div class="isomer-card-title">
 									<h5><strong>Empathetic Thinking</strong></h5>
@@ -336,5 +336,21 @@ image: /images/Our Curriculum/Distinctive Programmes/fita_ricehead.svg
 
 #distinct-fita {
     background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 37%, rgba(0, 0, 0, 0.65) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/fita01.jpg) no-repeat center center scroll;
+}
+	
+#reflect-rice {
+    background-color: rgba(246, 196, 198, 0.5);	
+}
+	
+	#invent-rice {
+    background-color: rgba(255, 239, 201, 0.5);	
+}
+	
+	#critic-rice {
+    background-color: rgba(211, 231, 206, 0.5);	
+}
+	
+	#empath-rice {
+    background-color: rgba(190, 214, 244, 0.5);	
 }
 </style>
