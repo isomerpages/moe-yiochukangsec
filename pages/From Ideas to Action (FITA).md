@@ -38,7 +38,7 @@ image: /images/Our Curriculum/Distinctive Programmes/fita_ricehead.svg
         <div class="isomer-card">
             <div class="isomer-card-body">
                 <div class="isomer-card-title">
-                    <h5>Reflective Thinking</h5>
+									<h5><strong>Reflective Thinking</strong></h5>
                 </div>
                 <div class="isomer-card-description">
                     <p>It is the ability to think about the reasons behind an action or experience.</p>
@@ -48,7 +48,7 @@ image: /images/Our Curriculum/Distinctive Programmes/fita_ricehead.svg
         <div class="isomer-card">
             <div class="isomer-card-body">
                 <div class="isomer-card-title">
-                    <h5>Inventive Thinking</h5>
+									<h5><strong>Inventive Thinking</strong></h5>
                 </div>
                 <div class="isomer-card-description">
                     <p>It is the ability to design new things or ideas using one's knowledge.</p>
@@ -58,7 +58,7 @@ image: /images/Our Curriculum/Distinctive Programmes/fita_ricehead.svg
         <div class="isomer-card">
             <div class="isomer-card-body">
                 <div class="isomer-card-title">
-                    <h5>Critical Thinking</h5>
+									<h5><strong>Critical Thinking</strong></h5>
                 </div>
                 <div class="isomer-card-description">
                     <p>It is the ability to think clearly and rationally, understanding the logical connection between ideas.</p>
@@ -68,7 +68,7 @@ image: /images/Our Curriculum/Distinctive Programmes/fita_ricehead.svg
         <div class="isomer-card">
             <div class="isomer-card-body">
                 <div class="isomer-card-title">
-                    <h5>Empathetic Thinking</h5>
+									<h5><strong>Empathetic Thinking</strong></h5>
                 </div>
                 <div class="isomer-card-description">
                     <p>It is the ability to understand other perspectives and feelings, and be able to communicate the understanding.</p>
