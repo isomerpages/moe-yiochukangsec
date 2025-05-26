@@ -34,7 +34,24 @@ image: /images/YCKLogo.svg
 	<img alt="A diagram of the RICE framework showing the 4 thinking" src="/images/Our%20Curriculum/Distinctive%20Programmes/fita_RICE_Thinking_Skills_in_YCKSS_Total_Curriculum_Framework.png">
 	<figcaption>A diagram showing the 4 RICE Thinking skills</figcaption>
 	</figure>
-	
+<div class="col-container">
+<div class="column">
+	<h5>Reflective Thinking</h5>
+	<p>It is the ability to think about the reasons behind an action or experience.</p>
+</div>
+<div class="column">
+	<h5>Inventive Thinking</h5>
+	<p>It is the ability to think about the reasons behind an action or experience.</p>
+</div>
+	<div class="column">
+	<h5>Critical Thinking</h5>
+	<p>It is the ability to think about the reasons behind an action or experience.</p>
+</div>
+	<div class="column">
+	<h5>Empathetic Thinking</h5>
+	<p>It is the ability to think about the reasons behind an action or experience.</p>
+</div>
+</div>
 </div>
 
 <style>
@@ -151,6 +168,32 @@ image: /images/YCKLogo.svg
 .yck-component a:hover {
     /* Remove default underline if any was added by browser */
     text-decoration: none;
+}
+.yck-component .col-container {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+
+    /* CSS Multi-column Layout properties */
+    column-count: 2;
+    column-width: 360px;
+    column-gap: 1.5em;
+}
+	
+.yck-component .isomer-card,
+.yck-component .column {
+    break-inside: avoid;
+    /* Prevents content from breaking across columns */
+    page-break-inside: avoid;
+    /* For older browsers */
+    padding: 20px;
+    /*     margin-block:  calc(var(--yck-spacing-unit)*0.5); */
+    border-radius: 5px;
+    box-shadow: var(--yck-box-shadow);
+}
+
+.yck-component .column {
+    margin-bottom: var(--yck-spacing-unit) !important;
 }
 .masthead {
     display: flex;
