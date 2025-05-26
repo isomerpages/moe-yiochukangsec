@@ -16,42 +16,66 @@ description: From Ideas To Action (F.I.T.A.) is an innovative multidisciplinary
 image: /images/YCKLogo.svg
 ---
 <div class="yck-component">
-<h2>From Ideas to Action (F.I.T.A.)</h2>
-<div class="masthead" id="distinct-fita">
-	<h2>A multidisciplinary STEM programme</h2>
+    <h2>From Ideas to Action (F.I.T.A.)</h2>
+    <div class="masthead" id="distinct-fita">
+        <h2>A multidisciplinary STEM programme</h2>
+    </div>
+    <p>From Ideas To Action (F.I.T.A.) is a multidisciplinary <i>Science, Technology, Engineering and Mathematics (STEM)</i> programme designed to allow students to synthesize knowledge across four subject disciplines, viz. <a target="_blank" href="/our-curriculum/Academic-Programmes/Humanities/">Humanities</a>, <a target="_blank" href="/our-curriculum/Academic-Programmes/Design-and-Enterprise/">Design &amp; Technology</a>, <a target="_blank" href="">Mathematics</a> and <a target="" href="">Science</a>, and apply it to real-life situations. The philosophy underpinning the F.I.T.A. curriculum is that technological advancement and discovery in the real world rely on close collaboration between researchers, mathematicians, engineers, and innovators.</p>
+    <figure>
+        <img alt="A sample of student's work" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/fita_student_work_sample.jpg">
+        <figcaption>Sample of Student's Work</figcaption>
+    </figure>
+    <p>The authentic performance tasks embedded in the F.I.T.A. curriculum enable students to develop and hone the RICE (Reflective, Inventive, Critical, Empathetic) Thinking Skills. Working collaboratively in groups to carry out these tasks, students not only need to think critically when applying their knowledge to innovate but they also need to empathise with people holding different perspectives and consider the implications of their actions through active reflection.</p>
 </div>
-<p>From Ideas To Action (F.I.T.A.) is a multidisciplinary <i>Science, Technology, Engineering and Mathematics (STEM)</i> programme designed to allow students to synthesize knowledge across four subject disciplines, viz. <a target="_blank" href="/our-curriculum/Academic-Programmes/Humanities/">Humanities</a>, <a target="_blank" href="/our-curriculum/Academic-Programmes/Design-and-Enterprise/">Design &amp; Technology</a>, <a target="_blank" href="">Mathematics</a> and <a target="" href="">Science</a>, and apply it to real-life situations. The philosophy underpinning the F.I.T.A. curriculum is that technological advancement and discovery in the real world rely on close collaboration between researchers, mathematicians, engineers, and innovators.</p>
-<figure>
-	<img alt="A sample of student's work" src="/images/Our%20Curriculum/Distinctive%20Programmes/fita_student_work_sample.jpg">
-	<figcaption>Sample of Student's Work</figcaption>
-	</figure>
-<p>The authentic performance tasks embedded in the F.I.T.A. curriculum enable students to develop and hone the RICE (Reflective, Inventive, Critical, Empathetic) Thinking Skills. Working collaboratively in groups to carry out these tasks, students not only need to think critically when applying their knowledge to innovate but they also need to empathise with people holding different perspectives and consider the implications of their actions through active reflection.</p>
-	</div>
-	<div class="yck-component">
-	<h2>RICE Thinking Skills in YCKSS Total Curriculum Framework</h2>
-<p>Through a combination of Design Thinking methodology and inquiry-based learning, students apply the RICE Thinking Skills framework to explore and develop innovative solutions to current and emerging challenges. This approach fosters deeper engagement with STEM, cultivates critical thinking, and enhances their awareness of environmental issues, empowering them to tackle real-world problems with curiosity and creativity.</p>	
-<figure>
-	<img alt="A diagram of the RICE framework showing the 4 thinking" src="/images/Our%20Curriculum/Distinctive%20Programmes/fita_RICE_Thinking_Skills_in_YCKSS_Total_Curriculum_Framework.png">
-	<figcaption>A diagram showing the 4 RICE Thinking skills</figcaption>
-	</figure>
-<div class="col-container">
-<div class="column">
-	<h5>Reflective Thinking</h5>
-	<p>It is the ability to think about the reasons behind an action or experience.</p>
-</div>
-<div class="column">
-	<h5>Inventive Thinking</h5>
-	<p>It is the ability to think about the reasons behind an action or experience.</p>
-</div>
-	<div class="column">
-	<h5>Critical Thinking</h5>
-	<p>It is the ability to think about the reasons behind an action or experience.</p>
-</div>
-	<div class="column">
-	<h5>Empathetic Thinking</h5>
-	<p>It is the ability to think about the reasons behind an action or experience.</p>
-</div>
-</div>
+<div class="yck-component">
+    <h2>RICE Thinking Skills in YCKSS Total Curriculum Framework</h2>
+    <p>Through a combination of Design Thinking methodology and inquiry-based learning, students apply the RICE Thinking Skills framework to explore and develop innovative solutions to current and emerging challenges. This approach fosters deeper engagement with STEM, cultivates critical thinking, and enhances their awareness of environmental issues, empowering them to tackle real-world problems with curiosity and creativity.</p>
+    <figure>
+        <img alt="A diagram of the RICE framework showing the 4 thinking" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/fita_RICE_Thinking_Skills_in_YCKSS_Total_Curriculum_Framework.png">
+        <figcaption>A diagram showing the 4 RICE Thinking skills</figcaption>
+    </figure>
+    <div class="yck-flexbox-grid" id="fita-ricehead">
+        <div class="isomer-card">
+            <div class="isomer-card-body">
+                <div class="isomer-card-title">
+                    <h5>Reflective Thinking</h5>
+                </div>
+                <div class="isomer-card-description">
+                    <p>It is the ability to think about the reasons behind an action or experience.</p>
+                </div>
+            </div>
+        </div>
+        <div class="isomer-card">
+            <div class="isomer-card-body">
+                <div class="isomer-card-title">
+                    <h5>Inventive Thinking</h5>
+                </div>
+                <div class="isomer-card-description">
+                    <p>It is the ability to design new things or ideas using one's knowledge.</p>
+                </div>
+            </div>
+        </div>
+        <div class="isomer-card">
+            <div class="isomer-card-body">
+                <div class="isomer-card-title">
+                    <h5>Critical Thinking</h5>
+                </div>
+                <div class="isomer-card-description">
+                    <p>It is the ability to think clearly and rationally, understanding the logical connection between ideas.</p>
+                </div>
+            </div>
+        </div>
+        <div class="isomer-card">
+            <div class="isomer-card-body">
+                <div class="isomer-card-title">
+                    <h5>Empathetic Thinking</h5>
+                </div>
+                <div class="isomer-card-description">
+                    <p>It is the ability to understand other perspectives and feelings, and be able to communicate the understanding.</p>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 
 <style>
@@ -83,39 +107,26 @@ image: /images/YCKLogo.svg
     margin-bottom: var(--yck-space-s-xl);
 }
 
-.yck-component h1,
 .yck-component h2,
-.yck-component h3,
-.yck-component h4,
 .yck-component h5,
-.yck-component h6,
 .yck-component p {
     overflow-wrap: break-word;
 }
 
-.yck-component h1,
 .yck-component h2,
-.yck-component h3,
-.yck-component h4,
-.yck-component h5,
-.yck-component h6 {
+.yck-component h5 {
     text-wrap: balance;
 }
 
-.yck-component p,
-.yck-component ol,
-.yck-component ul {
+.yck-component p {
     text-wrap: pretty;
     margin-bottom: var(--yck-space-s-xl);
 }
 
-.yck-component p:last-child,
-.yck-component ul li:last-child,
-.yck-component ol li:last-child {
+.yck-component p:last-child {
     margin-bottom: calc(var(--yck-spacing-unit) * 2);
 }
-	
-.yck-component .yck-h2,
+
 .yck-component h2 {
     font-size: var(--yck-step-4);
     margin-bottom: calc(var(--yck-spacing-unit) * 0.6);
@@ -124,16 +135,13 @@ image: /images/YCKLogo.svg
     letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.yck-component .yck-h3,
-.yck-component h3 {
-    font-size: var(--yck-step-3);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
-    text-transform: capitalize;
+.yck-component h5 {
+    font-size: var(--yck-step-1);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.1);
+    text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
-
-.yck-component .yck-h4,
 
 .yck-component a {
     /* Base link style */
@@ -169,19 +177,8 @@ image: /images/YCKLogo.svg
     /* Remove default underline if any was added by browser */
     text-decoration: none;
 }
-.yck-component .col-container {
-    width: 100%;
-    max-width: 1000px;
-    margin: 0 auto;
 
-    /* CSS Multi-column Layout properties */
-    column-count: 2;
-    column-width: 360px;
-    column-gap: 1.5em;
-}
-	
-.yck-component .isomer-card,
-.yck-component .column {
+.yck-component .isomer-card {
     break-inside: avoid;
     /* Prevents content from breaking across columns */
     page-break-inside: avoid;
@@ -192,9 +189,127 @@ image: /images/YCKLogo.svg
     box-shadow: var(--yck-box-shadow);
 }
 
-.yck-component .column {
-    margin-bottom: var(--yck-spacing-unit) !important;
+.yck-component .yck-flexbox-grid {
+
+    --yck-gap: 1em;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: var(--yck-gap);
+    padding: 0;
+    margin-block: var(--yck-spacing-unit);
 }
+
+.yck-component .yck-flexbox-grid>* {
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: calc((100% - var(--yck-gap)) / 4);
+    min-width: calc((100% - var(--yck-gap)) / 2);
+    list-style: none;
+}
+
+@media (max-width:1000px) {
+    .yck-component .yck-flexbox-grid>* {
+        flex-basis: 100%;
+    }
+}
+
+.yck-component .yck-flexbox-grid .isomer-card {
+    text-decoration: none;
+    margin: 0 auto;
+    padding: 0;
+}
+
+
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body {
+    padding: var(--yck-spacing-unit);
+}
+
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title {
+    color: #4a4a4a;
+    font-weight: 700;
+    font-size: var(--yck-step-1);
+    overflow-wrap: break-word;
+    text-wrap: balance;
+}
+
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-description {
+    color: #484848;
+    /*     font-size: 1rem; */
+    font-size: var(--yck-step-0);
+}
+
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-description) {
+    margin-bottom: 0.75rem
+}
+
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-link),
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-description:has(+.isomer-card-link) {
+    margin-bottom: 1.5rem
+}
+
+.yck-component figure {
+    /*   border: thin #c0c0c0 solid; */
+    display: flex !important;
+    flex-flow: column !important;
+    /*   padding: 5px; */
+    max-width: 100%;
+    margin: auto !important;
+}
+
+.yck-component figure img {
+    border-radius: 8px;
+    box-shadow: var(--yck-box-shadow);
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component figcaption {
+    background-color: rgba(255, 255, 255, 0.75);
+    color: #333;
+    font: italic var(--yck-step--1) sans-serif;
+    padding: 5px;
+    text-align: center;
+}
+
+@keyframes fadeOut {
+    from {
+        border-bottom: 1px solid #e37f2a;
+    }
+
+    to {
+        border-bottom: 1px solid #eee;
+    }
+}
+
+@-webkit-keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
+}
+
 .masthead {
     display: flex;
     justify-content: center;
@@ -202,10 +317,10 @@ image: /images/YCKLogo.svg
     flex-direction: row;
     text-align: center;
     width: 100%;
-    height: 60vh;
+    height: 65vh;
     /* if you don't want it to take up the full screen, reduce this number */
     overflow: hidden;
-    background-size:  !important;
+    background-size: cover !important;
 }
 
 .masthead h2 {
@@ -218,7 +333,8 @@ image: /images/YCKLogo.svg
     text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.8);
     margin-bottom: 16px;
 }
+
 #distinct-fita {
     background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 37%, rgba(0, 0, 0, 0.65) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/fita01.jpg) no-repeat center center scroll;
-}	
+}
 </style>
