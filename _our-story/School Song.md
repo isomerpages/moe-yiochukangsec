@@ -33,7 +33,7 @@ variant: markdown
 <h3>About the School Song</h3>
 
 
-<p>In 2018, Music teachers, Miss Dan Wei Lio and Mr Michael Cartwright began work on composing the music and writing the lyrics to a new song to represent the newly merged school. The song was officially launched during the 2019 Speech and Prize Giving Day.L</p>
+<p>In 2018, Music teachers, Miss Dan Wei Lio and Mr Michael Cartwright began work on composing the music and writing the lyrics to a new song to represent the newly merged school. The song was officially launched during the 2019 Speech and Prize Giving Day.</p>
 
 <p>The song contains elements from the schools songs of the two antecedent schools, Chong Boon Secondary School and Yio Chu Kang Secondary School. The lyrics capture the beliefs and aspirations of the new school. At the same time, it cleverly weaves in familiar phrases from the former Yio Chu Kang Secondary School song. The beautiful new melody is shaped by some elements of the former Chong Boon Secondary School Song. In this way, the fresh school song captures both antecedent schools, while creatively evoking a contemporary spirit.</p>
 
