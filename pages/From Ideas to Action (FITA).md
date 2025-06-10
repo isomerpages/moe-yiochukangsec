@@ -98,6 +98,7 @@ image: /images/Our Curriculum/Distinctive Programmes/fita_ricehead.svg
 
     --yck-space-s-xl: clamp(0.75rem, 0.2143rem + 3.9286vw, 3.75rem);
     interpolate-size: allow-keywords;
+    scroll-behavior: smooth;
 }
 
 .yck-component {
@@ -144,39 +145,32 @@ image: /images/Our Curriculum/Distinctive Programmes/fita_ricehead.svg
 }
 
 .yck-component a {
-    /* Base link style */
     text-decoration: none;
-    color: #007bff;
+    color: #e37f2a;
     position: relative;
-    /* Needed for the pseudo-element positioning */
     padding-bottom: 2px;
-    /* Space for the underline */
 }
 
 .yck-component a::after {
-    /* Pseudo-element for the underline */
     content: '';
     position: absolute;
     width: 0;
     height: 1px;
-    /* Thickness of the line */
     bottom: 0;
     left: 0;
     background-color: currentColor;
-    /* Use the link's color */
     transition: width 0.3s var(--yck-transition-timing);
-    /* Animate width */
 }
 
 .yck-component a:hover::after {
-    /* On hover, expand the line */
     width: 100%;
 }
 
 .yck-component a:hover {
-    /* Remove default underline if any was added by browser */
     text-decoration: none;
 }
+
+/* Table Styles */
 
 .yck-component .isomer-card {
     break-inside: avoid;
@@ -184,7 +178,6 @@ image: /images/Our Curriculum/Distinctive Programmes/fita_ricehead.svg
     page-break-inside: avoid;
     /* For older browsers */
     padding: 20px;
-    /*     margin-block:  calc(var(--yck-spacing-unit)*0.5); */
     border-radius: 5px;
     box-shadow: var(--yck-box-shadow);
 }
@@ -249,10 +242,8 @@ image: /images/Our Curriculum/Distinctive Programmes/fita_ricehead.svg
 }
 
 .yck-component figure {
-    /*   border: thin #c0c0c0 solid; */
     display: flex !important;
     flex-flow: column !important;
-    /*   padding: 5px; */
     max-width: 100%;
     margin: auto !important;
 }
@@ -271,36 +262,28 @@ image: /images/Our Curriculum/Distinctive Programmes/fita_ricehead.svg
     text-align: center;
 }
 
-@keyframes fadeOut {
-    from {
-        border-bottom: 1px solid #e37f2a;
-    }
-
-    to {
-        border-bottom: 1px solid #eee;
-    }
+summary::marker {
+    font-size: var(--yck-step-1);
 }
 
-@-webkit-keyframes fade-in {
-    0% {
-        opacity: 0;
-    }
-
-    100% {
-        opacity: 1;
-    }
+details::details-content {
+    font-size: var(--yck-step-0);
+    block-size: 0;
+    transition:
+        block-size 1s,
+        content-visibility 1s;
+    transition-behavior: allow-discrete;
 }
 
-@keyframes fade-in {
-    0% {
-        opacity: 0;
-    }
-
-    100% {
-        opacity: 1;
-    }
+details[open]::details-content {
+    block-size: auto;
 }
 
+/**
+ * ----------------------------------------
+ * animation fade-in
+ * ----------------------------------------
+ */
 @media (prefers-reduced-motion: reduce) {
     * {
         animation-duration: 0.01ms !important;
@@ -337,20 +320,20 @@ image: /images/Our Curriculum/Distinctive Programmes/fita_ricehead.svg
 #distinct-fita {
     background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 37%, rgba(0, 0, 0, 0.65) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/fita01.jpg) no-repeat center center scroll;
 }
-	
+
 #reflect-rice {
-    background-color: rgba(246, 196, 198, 0.5);	
+    background-color: rgba(246, 196, 198, 0.5);
 }
-	
-	#invent-rice {
-    background-color: rgba(255, 239, 201, 0.5);	
+
+#invent-rice {
+    background-color: rgba(255, 239, 201, 0.5);
 }
-	
-	#critic-rice {
-    background-color: rgba(211, 231, 206, 0.5);	
+
+#critic-rice {
+    background-color: rgba(211, 231, 206, 0.5);
 }
-	
-	#empath-rice {
-    background-color: rgba(190, 214, 244, 0.5);	
+
+#empath-rice {
+    background-color: rgba(190, 214, 244, 0.5);
 }
 </style>
