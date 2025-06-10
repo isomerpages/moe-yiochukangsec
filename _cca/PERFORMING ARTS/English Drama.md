@@ -141,40 +141,17 @@ SYF Opening Ceremony</div>
 <br>National Day Celebrations</p>
 <hr>
 <h4>Gallery</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Non Academic Programmes/CoCurricular Activities/Performing Arts/English Drama/EL_Drama_Speech_Day_2024_3.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Non Academic Programmes/CoCurricular Activities/Performing Arts/English Drama/EL_Drama_Speech_Day_2024_2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Non Academic Programmes/CoCurricular Activities/Performing Arts/English Drama/EL_Drama_Speech_Day_2024_1.jpg">
-</div>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Previous moments ...</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<h4></h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:100%;height:50%" height="auto" width="100%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/English%20Drama/E3.png">
+<div class="iframe-wrapper">
+<iframe height="480" width="720" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRLe-NKCf9VuIjt3si0PFkhKl0AP_QFfYtx_CLGKEvqvZ3ZaK7e1oPiSTQEaHj46bOLDO_dxvYKagPM/pubembed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gSzsy84HO2k"></iframe>
+<iframe height="480" width="720" allowfullscreen="true" frameborder="0" src="https://www.youtube-nocookie.com/embed/gSzsy84HO2k?si=uObaCglDFtdbbzNn"></iframe>
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width:100%;height:50%" height="auto" width="100%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/English%20Drama/E2.png">
-</div>
 <p></p>
-</div>
-</details>
-</div>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
