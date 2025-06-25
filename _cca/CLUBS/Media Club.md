@@ -185,7 +185,7 @@ third_nav_title: CLUBS
     --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
-   --yck-space-s-xl: clamp(0.75rem, -0.0326rem + 3.913vw, 3rem);
+    --yck-space-s-xl: clamp(0.75rem, -0.0326rem + 3.913vw, 3rem);
     interpolate-size: allow-keywords;
     scroll-behavior: smooth;
     text-rendering: optimizeSpeed;
@@ -210,11 +210,6 @@ third_nav_title: CLUBS
 .yck-component h4,
 .yck-component h5 {
     text-wrap: balance;
-}
-
-.yck-component a,
-.yck-component a:hover {
-    text-decoration: none;
 }
 
 .yck-component p,
@@ -255,9 +250,43 @@ third_nav_title: CLUBS
     letter-spacing: var(--yck-heading-letter-spacing);
 }
 
+.yck-component hr,
+hr {
+    border: 1px dotted rgba(0, 0, 0, 0.15);
+    margin-block: clamp(1rem, 2vw, 2.5rem);
+}
+
+.yck-component a {
+    text-decoration: none;
+    color: #e37f2a;
+    position: relative;
+    padding-bottom: 2px;
+}
+
+.yck-component a::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: currentColor;
+    transition: width 1s var(--yck-transition-timing);
+}
+
+.yck-component a:hover::after {
+    width: 100%;
+}
+
+.yck-component a:hover {
+    text-decoration: none;
+}
+
+/* Table Styles */
 .yck-component .yck-table {
     border-collapse: collapse;
-    max-width: 100%;
+    width: 100%;
+    max-width: 1000px;
     margin-top: 0.5em;
     margin-bottom: var(--yck-spacing-unit);
 }
@@ -267,10 +296,16 @@ third_nav_title: CLUBS
     text-align: left;
     border-bottom: 1px dotted #ddd;
     text-transform: uppercase;
+    padding: calc(var(--yck-spacing-unit) * 0.75);
+    font-weight: bold;
+    font-size: var(--yck-step-0);
+    letter-spacing: 0.05em;
+    vertical-align: top;
 }
 
 .yck-component .yck-th h5 {
     margin: 0 0 0.5em;
+    text-wrap: balance;
 }
 
 .yck-component .yck-td {
@@ -279,8 +314,8 @@ third_nav_title: CLUBS
     max-width: 100%;
     word-wrap: break-word;
     text-wrap: pretty;
-    padding-top: 0.5em;
-    padding-bottom: 0.5em;
+    padding: calc(var(--yck-spacing-unit) * 0.75);
+    vertical-align: top;
 }
 
 .yck-component .yck-table tbody .yck-td,
@@ -292,13 +327,12 @@ third_nav_title: CLUBS
     font-size: var(--yck-step-0);
 }
 
-/* Apply margin-bottom only when it is the last table-date in the row or contains the last paragraph */
 .yck-component .yck-table tbody tr:last-child .yck-td:last-child,
 .yck-component .yck-table tbody tr:last-child .yck-td:last-child p:last-child {
     margin-bottom: var(--yck-spacing-unit);
 }
-	
-	.yck-component .video-container {
+
+.yck-component .video-container {
     position: relative;
     width: 100%;
     padding-bottom: 56.25%;
@@ -323,7 +357,6 @@ third_nav_title: CLUBS
     page-break-inside: avoid;
     /* For older browsers */
     padding: 20px;
-    /*     margin-block:  calc(var(--yck-spacing-unit)*0.5); */
     border-radius: 5px;
     box-shadow: var(--yck-box-shadow);
 }
@@ -341,122 +374,38 @@ third_nav_title: CLUBS
 
 .yck-component .column ul li {
     margin-left: 1rem;
-}
-
-/* Apply the animation on hover */
-.yck-component .column ul li:hover {
-    animation: fadeIn 1s forwards;
-}
-
-/* Revert the animation when not hovering */
-.yck-component .column ul li:not(:hover) {
-    animation: fadeOut 1s forwards;
-}
-
-/* Define the keyframes for the fade-in effect */
-@keyframes fadeIn {
-    from {
-        border-bottom: 1px solid #eee;
-    }
-
-    to {
-        border-bottom: 1px solid #e37f2a;
-    }
-}
-
-/* Define the keyframes for the fade-out effect */
-@keyframes fadeOut {
-    from {
-        border-bottom: 1px solid #e37f2a;
-    }
-
-    to {
-        border-bottom: 1px solid #eee;
-    }
+    padding-left: 1rem;
+    border-bottom: 1px dotted rgba(0, 0, 0, 0.15);
 }
 
 .yck-component .yck-flexbox-grid {
-    --yck-min: 23ch;
-    --yck-gap: 1.5em;
+
+    --yck-gap: 1em;
     display: flex;
     flex-wrap: wrap;
     list-style: none;
     gap: var(--yck-gap);
+    padding: 0;
+    margin-block: var(--yck-spacing-unit);
 }
 
 .yck-component .yck-flexbox-grid>* {
-    flex: 1 0 var(--yck-min);
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: calc((100% - var(--yck-gap)) / 4);
+    min-width: calc((100% - var(--yck-gap)) / 2);
     list-style: none;
 }
 
-.ken-burns-container {
-    max-width: 100%;
-    overflow: hidden;
-    position: relative;
-}
-
-.ken-burns-image {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    animation: kenBurns 30s ease-in-out infinite alternate;
-}
-
-@keyframes kenBurns {
-    from {
-        transform: scale(1);
-    }
-
-    to {
-        transform: scale(1.3);
+@media (max-width: 1000px) {
+    .yck-component .yck-flexbox-grid>* {
+        flex-basis: calc((100% - var(--yck-gap)) / 2);
     }
 }
 
-summary::marker {
-    font-size: var(--yck-step-1);
-}
-
-details::details-content {
-    font-size: var(--yck-step-0);
-    block-size: 0;
-    animation: FadeOutSlideUp 1s ease forwards;
-    transition:
-        block-size 1s,
-        content-visibility 1s;
-    transition-behavior: allow-discrete;
-}
-
-details[open]::details-content {
-    block-size: auto;
-    animation: FadeInSlideDown 1s ease forwards;
-}
-
-@keyframes FadeInSlideDown {
-    0% {
-        opacity: 0;
-    }
-
-    100% {
-        opacity: 1;
-    }
-}
-
-@keyframes FadeOutSlideUp {
-    100% {
-        opacity: 1;
-    }
-
-    0% {
-        opacity: 0;
-    }
-}
-
-@media (prefers-reduced-motion: reduce) {
-    * {
-        animation-duration: 0.01ms !important;
-        animation-iteration-count: 1 !important;
-        transition-duration: 0.01ms !important;
-        scroll-behavior: auto !important;
+@media (max-width: 640px) {
+    .yck-component .yck-flexbox-grid>* {
+        flex-basis: 100%;
     }
 }
 
@@ -464,8 +413,16 @@ details[open]::details-content {
     text-decoration: none;
     margin: 0 auto;
     padding: 0;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.3s var(--yck-transition-timing), box-shadow 0.3s var(--yck-transition-timing);
 }
 
+.yck-component .yck-flexbox-grid .isomer-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--yck-box-shadow);
+}
 
 .yck-component .yck-flexbox-grid .isomer-card .isomer-card-body {
     padding: var(--yck-spacing-unit);
@@ -475,11 +432,12 @@ details[open]::details-content {
     color: #4a4a4a;
     font-weight: 700;
     font-size: var(--yck-step-1);
+    overflow-wrap: break-word;
+    text-wrap: balance;
 }
 
 .yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-description {
     color: #484848;
-/*     font-size: 1rem; */
     font-size: var(--yck-step-0);
 }
 
@@ -492,4 +450,36 @@ details[open]::details-content {
     margin-bottom: 1.5rem
 }
 
+.ken-burns-container {
+    max-width: 100%;
+    overflow: hidden;
+    position: relative;
+    border-radius: 8px;
+}
+
+.ken-burns-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    animation: kenBurns 35s ease-in-out infinite alternate;
+}
+
+@keyframes kenBurns {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.35);
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
+}
 </style>
