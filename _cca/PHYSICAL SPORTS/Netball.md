@@ -6,9 +6,11 @@ variant: markdown
 third_nav_title: PHYSICAL SPORTS
 ---
 <div class="yck-component">
+<figure>
 	<div class="ken-burns-container">
     <img alt="Netball CCA" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Netball/N1.jpg" class="ken-burns-image">
 	</div>
+</figure>
     <p>The Netball CCA aims to educate and nurture values such as teamwork, responsibility, respect, integrity, pride, tenacity and confidence in our girls. We also seek to bring out the best in our girls through the development of their skills in the sport. The sport builds character and develops their leadership qualities while inculcating an active and healthy lifestyle.</p>
 </div>
 
@@ -125,8 +127,11 @@ third_nav_title: PHYSICAL SPORTS
     --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
-    --yck-space-s-xl: clamp(0.75rem, 0.2143rem + 3.9286vw, 3.75rem);
+    --yck-space-s-xl: clamp(0.75rem, -0.0326rem + 3.913vw, 3rem);
     interpolate-size: allow-keywords;
+    scroll-behavior: smooth;
+    text-rendering: optimizeSpeed;
+    height: 100vh;
 }
 
 .yck-component {
@@ -176,9 +181,11 @@ third_nav_title: PHYSICAL SPORTS
     letter-spacing: var(--yck-heading-letter-spacing);
 }
 
+/* Table Styles */
 .yck-component .yck-table {
     border-collapse: collapse;
-    max-width: 100%;
+    width: 100%;
+    max-width: 1000px;
     margin-top: 0.5em;
     margin-bottom: var(--yck-spacing-unit);
 }
@@ -188,10 +195,16 @@ third_nav_title: PHYSICAL SPORTS
     text-align: left;
     border-bottom: 1px dotted #ddd;
     text-transform: uppercase;
+    padding: calc(var(--yck-spacing-unit) * 0.75);
+    font-weight: bold;
+    font-size: var(--yck-step-0);
+    letter-spacing: 0.05em;
+    vertical-align: top;
 }
 
 .yck-component .yck-th h5 {
     margin: 0 0 0.5em;
+    text-wrap: balance;
 }
 
 .yck-component .yck-td {
@@ -200,8 +213,8 @@ third_nav_title: PHYSICAL SPORTS
     max-width: 100%;
     word-wrap: break-word;
     text-wrap: pretty;
-    padding-top: 0.5em;
-    padding-bottom: 0.5em;
+    padding: calc(var(--yck-spacing-unit) * 0.75);
+    vertical-align: top;
 }
 
 .yck-component .yck-table tbody .yck-td,
@@ -213,7 +226,6 @@ third_nav_title: PHYSICAL SPORTS
     font-size: var(--yck-step-0);
 }
 
-/* Apply margin-bottom only when it is the last table-date in the row or contains the last paragraph */
 .yck-component .yck-table tbody tr:last-child .yck-td:last-child,
 .yck-component .yck-table tbody tr:last-child .yck-td:last-child p:last-child {
     margin-bottom: var(--yck-spacing-unit);
@@ -237,6 +249,27 @@ third_nav_title: PHYSICAL SPORTS
     height: 100%;
 }
 
+.yck-component figure {
+    display: flex !important;
+    flex-flow: column !important;
+    max-width: 100%;
+    margin: auto !important;
+}
+
+.yck-component figure img {
+    border-radius: 8px;
+    box-shadow: var(--yck-box-shadow);
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component figcaption {
+    background-color: rgba(255, 255, 255, 0.75);
+    color: #333;
+    font: italic var(--yck-step--1) sans-serif;
+    padding: 5px;
+    text-align: center;
+}
+
 .yck-component .col-container {
     width: 100%;
     max-width: 1000px;
@@ -254,7 +287,6 @@ third_nav_title: PHYSICAL SPORTS
     page-break-inside: avoid;
     /* For older browsers */
     padding: 20px;
-    /*     margin-block:  calc(var(--yck-spacing-unit)*0.5); */
     border-radius: 5px;
     box-shadow: var(--yck-box-shadow);
 }
@@ -272,38 +304,22 @@ third_nav_title: PHYSICAL SPORTS
 
 .yck-component .column ul li {
     margin-left: 1rem;
-}
-
-/* Apply the animation on hover */
-.yck-component .column ul li:hover {
-    animation: fadeIn 1.25s forwards;
-}
-
-/* Revert the animation when not hovering */
-.yck-component .column ul li:not(:hover) {
-    animation: fadeOut 1.25s forwards;
-}
-
-.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-description) {
-    margin-bottom: 0.75rem
-}
-
-.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-link),
-.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-description:has(+.isomer-card-link) {
-    margin-bottom: 1.5rem
+    padding-left: 1rem;
+    border-bottom: 1px dotted rgba(0, 0, 0, 0.15);
 }
 
 .ken-burns-container {
     max-width: 100%;
     overflow: hidden;
     position: relative;
+    border-radius: 8px;
 }
 
 .ken-burns-image {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    animation: kenBurns 30s var(--yck-transition-timing) infinite alternate;
+    animation: kenBurns 35s ease-in-out infinite alternate;
 }
 
 @keyframes kenBurns {
@@ -312,100 +328,9 @@ third_nav_title: PHYSICAL SPORTS
     }
 
     to {
-        transform: scale(1.3);
+        transform: scale(1.35);
     }
 }
-
-summary::marker {
-    font-size: var(--yck-step-1);
-}
-
-details::details-content {
-    font-size: var(--yck-step-0);
-    block-size: 0;
-    transition:
-        block-size 1s,
-        content-visibility 1s;
-    transition-behavior: allow-discrete;
-}
-
-details[open]::details-content {
-    block-size: auto;
-    -webkit-animation: fade-in 1.6s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
-    animation: fade-in 1.6s ease-in both;
-}
-
-
-/* Define the keyframes for the fadeIn effect */
-@keyframes fadeIn {
-    from {
-        border-bottom: 1px solid #eee;
-    }
-
-    to {
-        border-bottom: 1px solid #e37f2a;
-    }
-}
-
-/* Define the keyframes for the fadeOut effect */
-@keyframes fadeOut {
-    from {
-        border-bottom: 1px solid #e37f2a;
-    }
-
-    to {
-        border-bottom: 1px solid #eee;
-    }
-}
-
-/**
- * ----------------------------------------
- * animation fade-in
- * ----------------------------------------
- */
-@-webkit-keyframes fade-in {
-    0% {
-        opacity: 0;
-    }
-
-    100% {
-        opacity: 1;
-    }
-}
-
-@keyframes fade-in {
-    0% {
-        opacity: 0;
-    }
-
-    100% {
-        opacity: 1;
-    }
-}
-
-/**
- * ----------------------------------------
- * animation kenburns-right
- * ----------------------------------------
- */
-
-/**
- * ----------------------------------------
- * animation kenburns-bottom
- * ----------------------------------------
- */
-
-/**
- * ----------------------------------------
- * animation kenburns-top
- * ----------------------------------------
- */
-
-/**
- * ----------------------------------------
- * animation kenburns-left
- * ----------------------------------------
- */
 
 @media (prefers-reduced-motion: reduce) {
     * {
@@ -415,7 +340,5 @@ details[open]::details-content {
         scroll-behavior: auto !important;
     }
 }
-
-
 
 </style>
