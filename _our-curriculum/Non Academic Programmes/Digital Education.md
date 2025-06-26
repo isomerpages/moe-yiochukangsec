@@ -16,11 +16,13 @@ variant: tiptap
 the world, the YCKSS Digital Education is designed to nurture&nbsp;<strong>Responsible Digital Citizens</strong>&nbsp;who
 are able to safeguard the well-being of themselves and others when using
 digital tools and platforms.&nbsp;</p>
-<p><strong>Key Personnel IC: Mr Brandon Chin [HOD ICT] (ext: 110)</strong>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><strong>Key Personnel IC: Mr Brandon Chin [HOD ICT] (ext: 110)</strong>
+</p>
+<p></p>
+<h4><strong>National&nbsp;Digital&nbsp;Literacy&nbsp;Programme (NDLP) @ YCKSS</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>National&nbsp;Digital&nbsp;Literacy&nbsp;Programme&nbsp;(NDLP)&nbsp;@&nbsp;YCKSS</strong>
-</summary>
+<summary>More details</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -30,7 +32,7 @@ digital tools and platforms.&nbsp;</p>
 <p>Digital Literacies better enable our students, at different stages of
 their education journey, to acquire the digital skills required to navigate
 the digital age through four mutually reinforcing components in the&nbsp;
-<a href="https://www.moe.gov.sg/microsites/cos2020/refreshing-our-curriculum/strengthen-digital-literacy.html" rel="noopener noreferrer nofollow" target="_blank">‘Find, Think, Apply and Create’</a>&nbsp; framework.</p>
+<a href="https://www.moe.gov.sg/education-in-sg/educational-technology-journey/edtech-masterplan/digital-literacy-and-technological-skills" rel="noopener noreferrer nofollow" target="_blank">‘Find, Think, Apply and Create’</a>&nbsp; framework.</p>
 <p></p>
 <p>At YCKSS, we have customised this into <strong>our&nbsp;Digital Education Framework.</strong>
 </p>
@@ -38,7 +40,7 @@ the digital age through four mutually reinforcing components in the&nbsp;
 <h4><strong>Personal Learning Device (PLD) for Secondary School Students</strong></h4>
 <p></p>
 <p>After careful considerations based on portability, durability and T&amp;L
-affordance, the PLD selected for use at YCKSS is the&nbsp;<strong>Apple iPad (2021 9th Generation)</strong>&nbsp;with
+affordance, the PLD selected for use at YCKSS is the&nbsp;<strong>Apple iPad </strong>with
 the accompanying <strong>Apple Pencil</strong>&nbsp;and&nbsp;<strong>Keyboard Combo</strong>.</p>
 <p>
 <br>The device will be used to facilitate an environment that encourages personalised
@@ -66,7 +68,11 @@ activities using the iPad.
 <br>The&nbsp;device bundle&nbsp;will come with&nbsp;<strong>3-Year AppleCare+ Warranty and 3-Year Insurance.</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -136,10 +142,9 @@ pay for the PLD after setting aside provision for payment of miscellaneous
 fees.</p>
 <p>
 <br>To ensure the affordability of devices, MOE has provided Edusave top-ups
-of $200 in 2020 to 2022, and $300 in 2023, to all eligible Singaporean
-students in primary and secondary schools. This is on top of the annual
-Edusave contribution of $290 for secondary students and $230 for primary
-students.</p>
+to all eligible Singaporean students in primary and secondary schools.
+This is on top of the annual Edusave contribution of $290 for secondary
+students and $230 for primary students.</p>
 <p>
 <br><strong>Subsidies</strong>&nbsp;are available for students who require
 financial assistance to purchase a PLD.</p>
@@ -177,18 +182,14 @@ your child.&nbsp;Parents could refer to the school's&nbsp;<strong>Digital Wellne
 helping to manage your child’s use of digital devices and platforms. The
 policy will help your child to understand digital wellness matters and
 to enable a conducive learning environment. The DWP can be found in the
-<a href="/files/YCKSS_STUDENT_HANDBOOK_2024__PDF_.pdf" rel="noopener noreferrer nofollow" target="_blank">[YCKSS Digital Student Handbook 2024]
-<br>
-</a>
+<a href="https://www.yiochukangsec.moe.edu.sg/our-family/students/permalink/" rel="noopener nofollow" target="_blank">YCKSS Digital Student Handbook.</a><a href="/files/YCKSS_STUDENT_HANDBOOK_2024__PDF_.pdf" rel="noopener noreferrer nofollow" target="_blank"><br></a>
 </p>
 <p>
 <br>The&nbsp;<strong>Acceptable Use Policy (AUP)</strong>&nbsp;sets out the
 rules and regulations that govern the use of PLD by students. This policy
 will serve to ensure the safe and secure use of the device, and facilitate
 effective learning with technology. The AUP can be found in the&nbsp;
-<a href="/files/YCKSS_STUDENT_HANDBOOK_2024__PDF_.pdf" rel="noopener noreferrer nofollow" target="_blank">[YCKSS Digital Student Handbook 2024]
-<br>
-</a>
+<a href="https://www.yiochukangsec.moe.edu.sg/our-family/students/permalink/" rel="noopener nofollow" target="_blank">YCKSS Digital Student Handbook.</a><a href="/files/YCKSS_STUDENT_HANDBOOK_2024__PDF_.pdf" rel="noopener noreferrer nofollow" target="_blank"><br></a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:100%;height:50%" height="auto" width="100%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/NDLP%20@%20YCKSS/N6.jpg">
@@ -198,20 +199,16 @@ effective learning with technology. The AUP can be found in the&nbsp;
 <br>
 </p>
 <p>Parents/Guardians can refer to the following materials listed below for
-additional information on the NDLP:
+additional information on learning with a PLD:
 <br>
 </p>
 <ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/NDLP%20@%20YCKSS/YCKSS_NDLP_2024___Consent_for_Purchase_of_PLD.pdf" rel="noopener noreferrer nofollow" target="_blank">NDLP Principal's Letter to Parents/Guardians </a>
-</p>
-</li>
 <li>
 <p><a href="/files/NDLP%20@%20YCKSS/Parent_Handbook__I__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook I (Learning with a Personal Learning Device)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/NDLP%20@%20YCKSS/Parent_Handbook__II__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook II (Learning with a Personal Learning Device)</a> 
+<p><a href="/files/NDLP%20@%20YCKSS/Parent_Handbook__II__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook II (Learning with a Personal Learning Device)</a>
 </p>
 </li>
 </ul>
@@ -240,10 +237,11 @@ additional information on the NDLP:
 </div>
 </details>
 </div>
+<p></p>
+<h4><strong>G-Suite for Education Workshop</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>G-Suite&nbsp;for&nbsp;Education&nbsp;Workshop</strong>
-</summary>
+<summary>More details</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The workshop seeks to equip students with the knowledge and skills in
 using G-suite for Education to communicate and collaborate with their peers,
@@ -257,10 +255,11 @@ as well as to co-create digital products.
 </div>
 </details>
 </div>
+<p></p>
+<h4><strong>Digital Wellness</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Digital&nbsp;Wellness</strong>
-</summary>
+<summary>More details</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Singapore Schools Cyber Wellness Challenge</strong>
@@ -274,6 +273,10 @@ advocacy in Cyber Wellness education.</p>
 <p>Each participating team comprises secondary school students playing the
 role of mentors to their primary school peers in the creation of media
 content illustrating the key messages of the Digital for Life (DfL) movement.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0gMIm58tj8A"></iframe>
+</div>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qtVULNQb_CM?si=bOVSJ3bn7q4lz584"></iframe>
@@ -290,7 +293,10 @@ messages among their peers.</p>
 the activities include:
 <br>
 </p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -325,29 +331,6 @@ and quizzes;</p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width:100%;height:50%" height="auto" width="100%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/Digital%20Wellness/D2.png">
-</div>
-<p></p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>IMDA&nbsp;Lab&nbsp;on&nbsp;Wheels&nbsp;@&nbsp;YCKSS</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>The programme ignites students’ passion for technology via engaging and
-experiential activities and encourages creators and makers of technology
-to be creative and daring to explore.</p>
-<p>Students had the opportunity to try and experiment with the various cool
-new tech exhibits on board such as Virtual Reality, Augmented Reality,
-Artificial Intelligence and Cybersecurity, and learnt about how these technologies
-can be useful in everyday lives.
-<br>
-<br><strong>IMDA Lab on Wheels @ YCKSS Photos</strong>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:100%;height:50%" height="auto" width="100%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/IMDA%20Lab%20on%20Wheels%20@%20YCKSS/I1.png">
 </div>
 <p></p>
 </div>

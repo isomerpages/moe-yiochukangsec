@@ -1,8 +1,9 @@
 ---
-title: Mockup Pages
-permalink: /mockup-pages/
+title: Digital Education
+permalink: /digital-education/
 variant: markdown
-description: Mocking up pages before public release
+description: ""
+image: /images/YCKLogo.svg
 ---
 <div class="isomer-image-wrapper">
 <img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/Digital%20Education/D1.png" alt="" width="100%" height="auto" style="width: 100%">

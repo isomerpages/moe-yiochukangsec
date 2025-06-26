@@ -1,10 +1,8 @@
 ---
 title: Distinctive Programmes
-permalink: /our-curriculum/distinctive-programmes/
-variant: markdown
+permalink: /our-curriculum/Distinctive-Programmes/Distinctive-Programmes/
 description: ""
-image: /images/YCKLogo.svg
-third_nav_title: Distinctive Programmes
+variant: markdown
 ---
 <div class="yck-component">
     <a href="/our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/">
@@ -54,7 +52,6 @@ third_nav_title: Distinctive Programmes
 
     --yck-space-s-xl: clamp(0.75rem, 0.2143rem + 3.9286vw, 3.75rem);
     interpolate-size: allow-keywords;
-    scroll-behavior: smooth;
 }
 
 .yck-component {
@@ -79,50 +76,98 @@ third_nav_title: Distinctive Programmes
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
-
 .yck-component a {
+    /* Base link style */
     text-decoration: none;
-    color: #e37f2a;
+    color: #eee;
     position: relative;
+    /* Needed for the pseudo-element positioning */
     padding-bottom: 2px;
+    /* Space for the underline */
 }
 
 .yck-component a::after {
+    /* Pseudo-element for the underline */
     content: '';
     position: absolute;
     width: 0;
     height: 1px;
+    /* Thickness of the line */
     bottom: 0;
     left: 0;
     background-color: currentColor;
+    /* Use the link's color */
     transition: width 0.3s var(--yck-transition-timing);
+    /* Animate width */
 }
 
 .yck-component a:hover::after {
+    /* On hover, expand the line */
     width: 100%;
 }
 
 .yck-component a:hover {
+    /* Remove default underline if any was added by browser */
     text-decoration: none;
 }
 
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-description) {
+    margin-bottom: 0.75rem
+}
+
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-link),
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-description:has(+.isomer-card-link) {
+    margin-bottom: 1.5rem
+}
+
 .yck-component figure {
+    /*   border: thin #c0c0c0 solid; */
     display: flex !important;
     flex-flow: column !important;
+    /*   padding: 5px; */
     max-width: 100%;
     margin: auto !important;
 }
 
-@media (prefers-reduced-motion: reduce) {
-    * {
-        animation-duration: 0.01ms !important;
-        animation-iteration-count: 1 !important;
-        transition-duration: 0.01ms !important;
-        scroll-behavior: auto !important;
+/* Define the keyframes for the fadeIn effect */
+
+/* Define the keyframes for the fadeOut effect */
+@keyframes fadeOut {
+    from {
+        border-bottom: 1px solid #e37f2a;
+    }
+
+    to {
+        border-bottom: 1px solid #eee;
     }
 }
 
-.masthead {
+/**
+ * ----------------------------------------
+ * animation fade-in
+ * ----------------------------------------
+ */
+@-webkit-keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+	
+	.masthead {
     display: flex;
     justify-content: center;
     align-items: flex-end;

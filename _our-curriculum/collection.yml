@@ -2,11 +2,13 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Full Subject Based Banding.md
       - Distinctive Programmes/Distinctive Programmes.md
+      - Distinctive Programmes/.keep
       - Distinctive Programmes/Applied Learning Programme.md
       - Distinctive Programmes/Learning for Life Programme.md
       - Distinctive Programmes/Service Learning through Issue Investigation.md
-      - Distinctive Programmes/.keep
+      - Academic Programmes/.keep
       - Academic Programmes/Academic Programmes.md
       - Academic Programmes/Design and Enterprise.md
       - Academic Programmes/English.md
@@ -16,8 +18,7 @@ collections:
       - Academic Programmes/Physical Education.md
       - Academic Programmes/Science.md
       - Academic Programmes/Mathematics and Principles of Accounts (POA).md
-      - Academic Programmes/.keep
-      - Full Subject Based Banding.md
+      - Non Academic Programmes/.keep
       - Non Academic Programmes/Non Academic Programmes.md
       - Non Academic Programmes/CoCurricular Activities.md
       - Non Academic Programmes/Character and Citizenship Education.md
@@ -25,4 +26,3 @@ collections:
       - Non Academic Programmes/Environmental Education through the Eco Ace
         Programme.md
       - Non Academic Programmes/Student Leadership.md
-      - Non Academic Programmes/.keep

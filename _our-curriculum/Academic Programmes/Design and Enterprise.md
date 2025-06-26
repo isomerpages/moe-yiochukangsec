@@ -24,7 +24,7 @@ variant: markdown
 	
 <p><small>Download the <a href="/files/Academic%20Programmes/Design%20and%20Enterprise/Curriculum_and_Assessment_Briefing__HOD____2025__for_parents_.pdf">Curriculum and Assessment Briefing for parents (PDF, 2.23MB)</a></small></p>
 		
- <img alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D_Tframework.png">
+ <img alt="" src="/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D_Tframework.png">
 </div>
 
 <div class="yck-component">
@@ -60,31 +60,31 @@ variant: markdown
     <h3><strong>Photo Gallery</strong></h3>
      <div class="yck-flexbox-grid">
         <figure>
-            <img class="ken-burns-img" alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/Art_masterpieces_in_the_making.png">
+            <img class="ken-burns-img" alt="" src="/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/Art_masterpieces_in_the_making.png">
             <figcaption>Art masterpieces in the making</figcaption>
         </figure>
         <figure>
-            <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/Live_On___Design_Competition.png">
+            <img src="/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/Live_On___Design_Competition.png">
             <figcaption>Live On! - Design Competition</figcaption>
         </figure>
     </div>
 	 <div class="yck-flexbox-grid">
         <figure>
-            <img class="ken-burns-img" alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/Healthy_Cooking.png">
+            <img class="ken-burns-img" alt="" src="/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/Healthy_Cooking.png">
             <figcaption>Healthy Cooking</figcaption>
         </figure>
         <figure>
-            <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/Preparing_a_healthy_meal.png">
+            <img src="/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/Preparing_a_healthy_meal.png">
             <figcaption>Preparing a Healthy Meal</figcaption>
         </figure>
     </div>
     <div class="yck-flexbox-grid">
         <figure>
-            <img class="ken-burns-img" alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/STEM_Playground_Challenge.png">
+            <img class="ken-burns-img" alt="" src="/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/STEM_Playground_Challenge.png">
             <figcaption>STEM Playground Challenge</figcaption>
         </figure>
         <figure>
-            <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/Design_Thinking_Workshop.png">
+            <img src="/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/Design_Thinking_Workshop.png">
             <figcaption>Design Thinking Workshop</figcaption>
         </figure>
     </div>

@@ -33,7 +33,7 @@ variant: markdown
 <h3>About the School Song</h3>
 
 
-<p>In 2018, Music teachers, Miss Dan Wei Lio and Mr Michael Cartwright began work on composing the music and writing the lyrics to a new song to represent the newly merged school. The song was officially launched during the 2019 Speech and Prize Giving Day.L</p>
+<p>In 2018, Music teachers, Miss Dan Wei Lio and Mr Michael Cartwright began work on composing the music and writing the lyrics to a new song to represent the newly merged school. The song was officially launched during the 2019 Speech and Prize Giving Day.</p>
 
 <p>The song contains elements from the schools songs of the two antecedent schools, Chong Boon Secondary School and Yio Chu Kang Secondary School. The lyrics capture the beliefs and aspirations of the new school. At the same time, it cleverly weaves in familiar phrases from the former Yio Chu Kang Secondary School song. The beautiful new melody is shaped by some elements of the former Chong Boon Secondary School Song. In this way, the fresh school song captures both antecedent schools, while creatively evoking a contemporary spirit.</p>
 
@@ -42,11 +42,13 @@ variant: markdown
 </div>
 
 <style>
-	:root {
+:root {
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
     --yck-spacing-unit: 1em;
+    --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+    --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
 
     --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
     --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
@@ -57,15 +59,19 @@ variant: markdown
     --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
-    --yck-space-s-xl: clamp(0.75rem, 0.7337rem + 1.9565vw, 2.7994rem);
+    /* --yck-space-s-xl: clamp(0.75rem, 0.2143rem + 3.9286vw, 3.75rem); */
+    --yck-space-s-xl: clamp(0.75rem, -0.0326rem + 3.913vw, 3rem);
     interpolate-size: allow-keywords;
+    scroll-behavior: smooth;
+    text-rendering: optimizeSpeed;
+    height: 100vh;
 }
 
 .yck-component {
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
     font-size: var(--yck-step-0);
-    margin-bottom: var(--yck-spacing-unit);
+    margin-bottom: var(--yck-space-s-xl);
 }
 
 .yck-component h1,

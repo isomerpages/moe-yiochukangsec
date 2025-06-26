@@ -8,6 +8,7 @@ description: '"Learn 2D animation with programs like CrazyTalk Animator,
   gratitude, and professional expertise with hands-on projects refined in Adobe
   Premiere Pro and CapCut."'
 variant: markdown
+image: /images/YCKLogo.svg
 ---
 <div class="yck-component">
     <figure>

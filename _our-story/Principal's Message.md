@@ -38,6 +38,8 @@ variant: markdown
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
     --yck-spacing-unit: 1em;
+    --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+    --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
 
     --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
     --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
@@ -48,99 +50,33 @@ variant: markdown
     --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
-    --yck-space-s-xl: clamp(0.75rem, 0.7337rem + 1.9565vw, 2.7994rem);
+    /* --yck-space-s-xl: clamp(0.75rem, 0.2143rem + 3.9286vw, 3.75rem); */
+    --yck-space-s-xl: clamp(0.75rem, -0.0326rem + 3.913vw, 3rem);
     interpolate-size: allow-keywords;
+    scroll-behavior: smooth;
+    text-rendering: optimizeSpeed;
+    height: 100vh;
 }
 
 .yck-component {
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
     font-size: var(--yck-step-0);
-    margin-bottom: var(--yck-spacing-unit);
+    margin-bottom: var(--yck-space-s-xl);
 }
 
-.yck-component h1,
-.yck-component h2,
-.yck-component h3,
-.yck-component h4,
-.yck-component h5,
-.yck-component h6,
 .yck-component p {
     overflow-wrap: break-word;
 }
 
-.yck-component h1,
-.yck-component h2,
-.yck-component h3,
-.yck-component h4,
-.yck-component h5,
-.yck-component h6 {
-    text-wrap: balance;
-}
-
-.yck-component p,
-.yck-component ol,
-.yck-component ul {
+.yck-component p {
     text-wrap: pretty;
-    margin-bottom: var(--yck-spacing-unit);
-}
-
-.yck-component p:last-child,
-.yck-component ul li:last-child,
-.yck-component ol li:last-child {
-    margin-bottom: calc(var(--yck-space-s-xl)*1.2);
-}
-
-.yck-component .yck-h1,
-.yck-component h1 {
-    font-size: var(--yck-step-5);
     margin-bottom: var(--yck-space-s-xl);
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.yck-component .yck-h2,
-.yck-component h2 {
-    font-size: var(--yck-step-4);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.8);
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
+.yck-component hr,
+hr {
+    border: 1px dotted rgba(0, 0, 0, 0.25);
+    margin-block: clamp(1rem, 2vw, 2.5rem);
 }
-
-.yck-component .yck-h3,
-.yck-component h3 {
-    font-size: var(--yck-step-3);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.6);
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
-}
-
-.yck-component .yck-h4,
-.yck-component h4 {
-    font-size: var(--yck-step-2);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.4);
-    text-transform: capitalize;
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
-}
-
-.yck-component .yck-h5,
-.yck-component h5 {
-    font-size: var(--yck-step-1);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.3);
-    text-transform: uppercase;
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
-}
-
-.yck-component .yck-h6,
-.yck-component h6 {
-    font-size: var(--yck-step-0);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.2);
-    text-transform: uppercase;
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
-}
-		
-
 </style>
