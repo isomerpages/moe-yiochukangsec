@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
+<h4><strong>2025 Class Timetable (Semester 2)</strong></h4>
+<p>(Uploaded on 26 June 2025)</p>
+<p><a href="/files/Students/Class Timetable Schedules/2025/2025_Sem_2_Timetable___Class.pdf" rel="noopener nofollow" target="_blank">2025 Sem 2 Class Timetable</a>
+</p>
 <h4><strong>2025 Class Timetable (Semester 1)</strong></h4>
 <p>(Uploaded on 17 Jan 2025)</p>
 <p><a href="/files/Students/Class Timetable Schedules/2025/2025_Sem_1_Timetable_Class_and_LG__Revised__student_copy.pdf" rel="noopener nofollow" target="_blank">2025 Sem 1 Class Timetable and LG (revised)</a>
