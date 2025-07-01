@@ -33,6 +33,15 @@ third_nav_title: Distinctive Programmes
         </figure>
     </a>
 </div>
+<div class="yck-component">
+    <a href="/our-curriculum/Distinctive-Programmes/fita/">
+        <figure>
+            <div class="masthead" id="distinct-fita">
+                <h2>From Ideas to Action (F.I.T.A.)</h2>
+            </div>
+        </figure>
+    </a>
+</div>
 
 <style>
 :root {
@@ -55,6 +64,13 @@ third_nav_title: Distinctive Programmes
     --yck-space-s-xl: clamp(0.75rem, 0.2143rem + 3.9286vw, 3.75rem);
     interpolate-size: allow-keywords;
     scroll-behavior: smooth;
+    text-rendering: optimizeSpeed;
+    height: 100vh;
+}
+
+::selection {
+    text-shadow: none;
+    background: yellow;
 }
 
 .yck-component {
@@ -87,21 +103,6 @@ third_nav_title: Distinctive Programmes
     padding-bottom: 2px;
 }
 
-.yck-component a::after {
-    content: '';
-    position: absolute;
-    width: 0;
-    height: 1px;
-    bottom: 0;
-    left: 0;
-    background-color: currentColor;
-    transition: width 0.3s var(--yck-transition-timing);
-}
-
-.yck-component a:hover::after {
-    width: 100%;
-}
-
 .yck-component a:hover {
     text-decoration: none;
 }
@@ -111,6 +112,20 @@ third_nav_title: Distinctive Programmes
     flex-flow: column !important;
     max-width: 100%;
     margin: auto !important;
+}
+
+.yck-component figure img {
+    border-radius: 8px;
+    box-shadow: var(--yck-box-shadow);
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component figcaption {
+    background-color: rgba(255, 255, 255, 0.75);
+    color: #333;
+    font: italic var(--yck-step--1) sans-serif;
+    padding: 5px;
+    text-align: center;
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -136,7 +151,7 @@ third_nav_title: Distinctive Programmes
 }
 
 #distinct-alp {
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 61%, rgba(0, 0, 0, 0.65) 100%), url(https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Distinctive%20Programmes/Applied%20Learning%20Programme/A1.jpg) no-repeat center center scroll;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 61%, rgba(0, 0, 0, 0.65) 100%), url((https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/Applied%20Learning%20Programme/A1.jpg) no-repeat center center scroll;
 }
 
 #distinct-llp {
@@ -145,6 +160,10 @@ third_nav_title: Distinctive Programmes
 
 #distinct-slii {
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 61%, rgba(0, 0, 0, 0.65) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/S1.jpg) no-repeat center center scroll;
+}
+
+#distinct-fita {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 100%, rgba(0, 0, 0, 0) 61%, rgba(0, 0, 0, 0.65) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/fita01.jpg) center center scroll;
 }
 
 .masthead h2 {
@@ -156,5 +175,6 @@ third_nav_title: Distinctive Programmes
     line-height: 1;
     text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.8);
     margin-bottom: 40px;
+	width: 26ch;
 }
 </style>
