@@ -137,6 +137,7 @@ variant: markdown
     --yck-heading-letter-spacing: -0.02em;
     --yck-spacing-unit: 1em;
     --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+    --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
 
     --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
     --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
@@ -149,6 +150,14 @@ variant: markdown
 
     --yck-space-s-xl: clamp(0.75rem, 0.2143rem + 3.9286vw, 3.75rem);
     interpolate-size: allow-keywords;
+    scroll-behavior: smooth;
+    text-rendering: optimizeSpeed;
+    height: 100vh;
+}
+
+::selection {
+    text-shadow: none;
+    background: yellow;
 }
 
 .yck-component {
@@ -171,11 +180,6 @@ variant: markdown
     text-wrap: balance;
 }
 
-.yck-component a,
-.yck-component a:hover {
-    text-decoration: none;
-}
-
 .yck-component p,
 .yck-component ul {
     text-wrap: pretty;
@@ -184,7 +188,7 @@ variant: markdown
 
 .yck-component p:last-child,
 .yck-component ul li:last-child {
-    margin-bottom: calc(var(--yck-spacing-unit)*2);
+    margin-bottom: calc(var(--yck-spacing-unit) * 2);
 }
 
 .yck-component .yck-h2,
@@ -215,16 +219,43 @@ variant: markdown
 }
 
 hr {
-    border: 1px dotted slategrey;
+    border: 1px dotted rgba(0, 0, 0, 0.25);
     margin-block: clamp(1rem, 2vw, 2.5rem);
 }
 
+.yck-component a {
+    text-decoration: none;
+    color: #e37f2a;
+    position: relative;
+    padding-bottom: 2px;
+}
+
+.yck-component a::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: currentColor;
+    transition: width 1s var(--yck-transition-timing);
+}
+
+.yck-component a:hover::after {
+    width: 100%;
+}
+
+.yck-component a:hover {
+    text-decoration: none;
+}
+
+/* Table Styles */
 .yck-component .yck-table {
     border-collapse: collapse;
-    max-width: 100%;
+    width: 100%;
+    max-width: 1000px;
     margin-top: 0.5em;
     margin-bottom: var(--yck-spacing-unit);
-
 }
 
 .yck-component .yck-th {
@@ -232,6 +263,11 @@ hr {
     text-align: left;
     border-bottom: 1px dotted #ddd;
     text-transform: uppercase;
+    padding: calc(var(--yck-spacing-unit) * 0.75);
+    font-weight: bold;
+    font-size: var(--yck-step-0);
+    letter-spacing: 0.05em;
+    vertical-align: top;
 }
 
 .yck-component .yck-td {
@@ -240,8 +276,8 @@ hr {
     max-width: 100%;
     word-wrap: break-word;
     text-wrap: pretty;
-    padding-top: 0.5em;
-    padding-bottom: 0.5em;
+    padding: calc(var(--yck-spacing-unit) * 0.75);
+    vertical-align: top;
 }
 
 .yck-component .yck-table tbody .yck-td {
@@ -252,7 +288,6 @@ hr {
     font-size: var(--yck-step-0);
 }
 
-/* Apply margin-bottom only when it is the last table-date in the row or contains the last paragraph */
 .yck-component .yck-table tbody tr:last-child .yck-td:last-child {
     margin-bottom: var(--yck-spacing-unit);
 }
@@ -263,7 +298,6 @@ hr {
     page-break-inside: avoid;
     /* For older browsers */
     padding: 20px;
-/*     margin-block:  calc(var(--yck-spacing-unit)*0.5); */
     border-radius: 5px;
     box-shadow: var(--yck-box-shadow);
 }
@@ -281,51 +315,19 @@ hr {
 
 .yck-component .column ul li {
     margin-left: 1rem;
-    border-bottom: 0.5px solid #FFF;
-    transition: right 1s ease-in-out;
-}
-
-/* Apply the animation on hover */
-.yck-component .column ul li:hover {
-    animation: fadeIn 1s forwards;
-}
-
-/* Revert the animation when not hovering */
-.yck-component .column ul li:not(:hover) {
-    animation: fadeOut 1s forwards;
-}
-
-/* Define the keyframes for the fade-in effect */
-@keyframes fadeIn {
-    from {
-        border-bottom: 0.5px solid #EEE;
-    }
-
-    to {
-        border-bottom: 1px solid #e37f2a;
-    }
-}
-
-/* Define the keyframes for the fade-out effect */
-@keyframes fadeOut {
-    from {
-        border-bottom: 1px solid #e37f2a;
-    }
-
-    to {
-        border-bottom: 0.5px solid #EEE;
-    }
+    padding-left: 1rem;
+    border-bottom: 1px dotted rgba(0, 0, 0, 0.15);
 }
 
 .yck-component .yck-flexbox-grid {
-    
+
     --yck-gap: 1em;
     display: flex;
     flex-wrap: wrap;
     list-style: none;
     gap: var(--yck-gap);
     padding: 0;
-    margin: 0;
+    margin-block: var(--yck-spacing-unit);
 }
 
 .yck-component .yck-flexbox-grid>* {
@@ -337,9 +339,18 @@ hr {
 }
 
 @media (max-width:1000px) {
-    .yck-component .yck-flexbox-grid > * {
+    .yck-component .yck-flexbox-grid>* {
         flex-basis: 100%;
     }
+}
+
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-description) {
+    margin-bottom: 0.75rem
+}
+
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-link),
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-description:has(+.isomer-card-link) {
+    margin-bottom: 1.5rem
 }
 
 details {
@@ -351,8 +362,8 @@ details * {
 }
 
 details ul li {
-    margin-inline-start: 1.5rem !important;
-    padding-block: calc(var(--yck-spacing-unit) * 0.5);
+    animation: fade-in 1s ease-out;
+    padding-top: calc(var(--yck-spacing-unit) * 0.5);
 }
 
 summary {
@@ -366,21 +377,34 @@ summary::marker {
     font-size: var(--yck-step-1);
 }
 
-
 details::details-content {
     font-size: var(--yck-step-0);
+    padding-left: 1.5rem;
+    padding-right: var(--yck-space-s-xl);
     block-size: 0;
-    animation: FadeOutSlideUp 0.5s ease forwards;
-    transition: block-size 0.5s, content-visibility 0.5s;
+    transition:
+        block-size 1s cubic-bezier(0.390, 0.575, 0.565, 1.000),
+        content-visibility 1s cubic-bezier(0.390, 0.575, 0.565, 1.000);
     transition-behavior: allow-discrete;
 }
 
 details[open]::details-content {
     block-size: auto;
-    animation: FadeInSlideDown 0.5s ease forwards;
+    /* overflow:  clip;
+    block-size: calc-size(auto); */
 }
 
-@keyframes FadeInSlideDown {
+.fade-in {
+    -webkit-animation: fade-in 1.2s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    animation: fade-in 1s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+}
+
+/**
+ * ----------------------------------------
+ * animation fade-in
+ * ----------------------------------------
+ */
+@-webkit-keyframes fade-in {
     0% {
         opacity: 0;
     }
@@ -390,13 +414,13 @@ details[open]::details-content {
     }
 }
 
-@keyframes FadeOutSlideUp {
-    100% {
-        opacity: 1;
-    }
-
+@keyframes fade-in {
     0% {
         opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
     }
 }
 
