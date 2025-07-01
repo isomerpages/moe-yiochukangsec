@@ -3,11 +3,12 @@ collections:
     output: true
     order:
       - Full Subject Based Banding.md
-      - Distinctive Programmes/Distinctive Programmes.md
       - Distinctive Programmes/.keep
+      - Distinctive Programmes/Distinctive Programmes.md
       - Distinctive Programmes/Applied Learning Programme.md
       - Distinctive Programmes/Learning for Life Programme.md
       - Distinctive Programmes/Service Learning through Issue Investigation.md
+      - Distinctive Programmes/From Ideas to Action (FITA).md
       - Academic Programmes/.keep
       - Academic Programmes/Academic Programmes.md
       - Academic Programmes/Design and Enterprise.md

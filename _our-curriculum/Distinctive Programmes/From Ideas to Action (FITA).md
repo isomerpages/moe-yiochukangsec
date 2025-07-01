@@ -14,6 +14,7 @@ description: From Ideas To Action (F.I.T.A.) is an innovative multidisciplinary
   tomorrow’s problem-solvers and changemakers through meaningful, hands-on
   learning experiences.
 image: /images/Our Curriculum/Distinctive Programmes/fita_ricehead.svg
+third_nav_title: Distinctive Programmes
 ---
 <div class="yck-component">
     <h2>From Ideas to Action (F.I.T.A.)</h2>

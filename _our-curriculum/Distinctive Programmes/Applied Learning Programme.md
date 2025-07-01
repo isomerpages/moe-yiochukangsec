@@ -104,6 +104,7 @@ variant: markdown
     --yck-heading-letter-spacing: -0.02em;
     --yck-spacing-unit: 1em;
     --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+    --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
 
     --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
     --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
@@ -116,6 +117,18 @@ variant: markdown
 
     --yck-space-s-xl: clamp(0.75rem, 0.2143rem + 3.9286vw, 3.75rem);
     interpolate-size: allow-keywords;
+    scroll-behavior: smooth;
+    text-rendering: optimizeSpeed;
+    height: 100vh;
+}
+
+::selection {
+  text-shadow: none;
+  background: yellow;
+}
+
+img {
+  vertical-align: middle;
 }
 
 .yck-component {
@@ -125,46 +138,30 @@ variant: markdown
     margin-bottom: var(--yck-space-s-xl);
 }
 
-.yck-component h1,
 .yck-component h2,
 .yck-component h3,
 .yck-component h4,
-.yck-component h5,
-.yck-component h6,
 .yck-component p {
     overflow-wrap: break-word;
 }
 
-.yck-component h1,
 .yck-component h2,
 .yck-component h3,
-.yck-component h4,
-.yck-component h5,
-.yck-component h6 {
+.yck-component h4 {
     text-wrap: balance;
 }
 
 .yck-component p,
-.yck-component ol li,
-.yck-component ul li {
+.yck-component ul {
     text-wrap: pretty;
+    margin-bottom: var(--yck-space-s-xl);
 }
 
 .yck-component p:last-child,
-.yck-component ul li:last-child,
-.yck-component ol li:last-child {
-    margin-bottom: var(--yck-space-s-xl);
+.yck-component ul li:last-child {
+    margin-bottom: calc(var(--yck-spacing-unit) * 2);
 }
 
-.yck-component .yck-h1,
-.yck-component h1 {
-    font-size: var(--yck-step-5);
-    margin-bottom: var(--yck-space-s-xl);
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
-}
-
-.yck-component .yck-h2,
 .yck-component h2 {
     font-size: var(--yck-step-4);
     margin-bottom: calc(var(--yck-spacing-unit) * 0.6);
@@ -191,8 +188,7 @@ variant: markdown
     letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.yck-component .yck-h5,
-.yck-component h5 {
+.yck-component .yck-h5 {
     font-size: var(--yck-step-1);
     margin-bottom: calc(var(--yck-spacing-unit) * 0.1);
     text-transform: uppercase;
@@ -200,14 +196,41 @@ variant: markdown
     letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.yck-component .yck-h6,
-.yck-component h6 {
+.yck-component .yck-h6 {
     font-size: var(--yck-step-0);
     margin-bottom: var(--yck-spacing-unit);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
+
+.yck-component a {
+    text-decoration: none;
+    color: #e37f2a;
+    position: relative;
+    padding-bottom: 2px;
+}
+
+.yck-component a::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: currentColor;
+    transition: width 1s var(--yck-transition-timing);
+}
+
+.yck-component a:hover::after {
+    width: 100%;
+}
+
+.yck-component a:hover {
+    text-decoration: none;
+}
+
+/* Table Styles */
 
 .yck-component .col-container {
     width: 100%;
@@ -230,26 +253,18 @@ variant: markdown
     box-shadow: var(--yck-box-shadow);
 }
 
-/* Flexbox Grid */
-.yck-component .yck-flexbox-grid {
-    --yck-min: 22ch;
-    --yck-gap: 1.5em;
-    display: flex;
-    flex-wrap: wrap;
-    list-style: none;
-    gap: var(--yck-gap);
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-description) {
+    margin-bottom: 0.75rem
 }
 
-.yck-component .yck-flexbox-grid>* {
-    flex: 1 0 var(--yck-min);
-    list-style: none;
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-link),
+.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-description:has(+.isomer-card-link) {
+    margin-bottom: 1.5rem
 }
 
 .yck-component figure {
-    /*   border: thin #c0c0c0 solid; */
     display: flex !important;
     flex-flow: column !important;
-    /*   padding: 5px; */
     max-width: 100%;
     margin: auto !important;
 }
@@ -257,6 +272,7 @@ variant: markdown
 .yck-component figure img {
     border-radius: 8px;
     box-shadow: var(--yck-box-shadow);
+    margin-bottom: var(--yck-spacing-unit);
 }
 
 .yck-component figcaption {
@@ -278,7 +294,7 @@ variant: markdown
     width: 100%;
     height: 100%;
     object-fit: cover;
-    animation: kenBurns 30s ease-in-out infinite alternate;
+    animation: kenBurns 35s ease-in-out infinite alternate;
 }
 
 @keyframes kenBurns {
@@ -287,13 +303,12 @@ variant: markdown
     }
 
     to {
-        transform: scale(1.3);
+        transform: scale(1.35);
     }
 }
 
 details {
     overflow: hidden;
-
 }
 
 details * {
@@ -301,8 +316,8 @@ details * {
 }
 
 details>p {
-    margin-inline-start: 1.5rem !important;
-    padding-block: calc(var(--yck-spacing-unit) * 0.5);
+    animation: fade-in 1s ease-out;
+    padding-top: calc(var(--yck-spacing-unit) * 0.5);
 }
 
 summary {
@@ -316,15 +331,54 @@ summary::marker {
     font-size: var(--yck-step-1);
 }
 
-
 details::details-content {
     font-size: var(--yck-step-0);
+    padding-left: 1.5rem;
+    padding-right: var(--yck-space-s-xl);
     block-size: 0;
-    transition: block-size 1s, content-visibility 1s;
+    transition:
+        block-size 1s cubic-bezier(0.390, 0.575, 0.565, 1.000),
+        content-visibility 1s cubic-bezier(0.390, 0.575, 0.565, 1.000);
     transition-behavior: allow-discrete;
 }
 
 details[open]::details-content {
     block-size: auto;
+    /* overflow:  clip;
+    block-size: calc-size(auto); */
+}
+
+/**
+ * ----------------------------------------
+ * animation fade-in
+ * ----------------------------------------
+ */
+@-webkit-keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
 }
 </style>
