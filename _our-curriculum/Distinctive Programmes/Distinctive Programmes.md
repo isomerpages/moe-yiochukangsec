@@ -151,7 +151,7 @@ third_nav_title: Distinctive Programmes
 }
 
 #distinct-alp {
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 61%, rgba(0, 0, 0, 0.65) 100%), url((https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/Applied%20Learning%20Programme/A1.jpg) no-repeat center center scroll;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 61%, rgba(0, 0, 0, 0.65) 100%), url(https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Distinctive%20Programmes/Applied%20Learning%20Programme/A1.jpg) no-repeat center center scroll;
 }
 
 #distinct-llp {
