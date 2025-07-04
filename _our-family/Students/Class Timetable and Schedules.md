@@ -5,6 +5,13 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
+<p></p>
+<h4><strong>2025 Class Timetable (Semester 2)</strong></h4>
+<p><strong> Special-[for 11 July, 15-17 July, 25 July &amp; 3 Sep 2025]</strong>
+</p>
+<p>(Uploaded on 4July 2025)</p>
+<p><a href="/files/Students/Class Timetable Schedules/2025/2025_Sem_2_Special_Timetable___Class.pdf" rel="noopener nofollow" target="_blank">2025 Sem 2 Special Timetable - Class</a>
+</p>
 <h4><strong>2025 Class Timetable (Semester 2)</strong></h4>
 <p>(Uploaded on 26 June 2025)</p>
 <p><a href="/files/Students/Class Timetable Schedules/2025/2025_Sem_2_Timetable___Class.pdf" rel="noopener nofollow" target="_blank">2025 Sem 2 Class Timetable</a>
