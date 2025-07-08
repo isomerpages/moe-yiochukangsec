@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <div class="yck-component">
-	<h3 class="yck-h3">YCKSS School Song</h3>
+	<h2 class="yck-h2">YCKSS School Song</h2>
                                 <figure>
                                     <div class="masthead" id="schsongbg">
                                         <p>Our School is Yio Chu Kang.<br>
