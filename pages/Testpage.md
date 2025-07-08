@@ -5,387 +5,30 @@ description: ""
 variant: markdown
 ---
 <div class="yck-component">
-    <h4><strong>DSA-SEC Home</strong></h4>
-    <p>Yio Chu Kang Secondary School believes in a well-rounded education and
-        is committed to providing learning opportunities beyond the core academic
-        and student development programmes.</p>
-    <p>The school has vacancies for up to 20% of our Secondary 1 cohort in 2026
-        for the DSA-Sec programme. Interested students can apply through the DSA
-        process.</p>
-    <p>Students who are successfully admitted to the school via DSA are expected
-        to honour their commitment to the school, and participate in the activities
-        related to the talent they are selected for from year 1 to 4.</p>
-    <p>In DSA-Sec Exercise 2025, we are looking for promising Primary Six students
-        or students not studying in MOE mainstream primary schools who demonstrate
-        special talents in the following areas:</p>
-</div>
-<div class="yck-component">
-    <h5><a href="/files/Students/Direct School Admission/2_DIRECT_SCHOOL_ADMISSION___Clubs_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Clubs</a></h5>
-    <table style="minWidth: 25px">
-        <colgroup>
-            <col>
-        </colgroup>
-        <tbody>
-            <tr>
-                <th rowspan="1" colspan="1">
-                    <p></p>
-                </th>
-            </tr>
-            <tr>
-                <td rowspan="1" colspan="1">
-                    <ul data-tight="true" class="tight">
-                        <li>
-                            <p><a href="/cca/clubs/digital-animation-club/" rel="noopener noreferrer nofollow" target="_blank">Digital Animation</a>
-                            </p>
-                        </li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <td rowspan="1" colspan="1">
-                    <ul data-tight="true" class="tight">
-                        <li>
-                            <p><a href="/cca/clubs/media-club-audio-visual-photography-videography/" rel="noopener noreferrer nofollow" target="_blank">Media Club (Audio Visual, Photography &amp; Videography)</a>
-                            </p>
-                        </li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <td rowspan="1" colspan="1">
-                    <ul data-tight="true" class="tight">
-                        <li>
-                            <p><a href="/cca/clubs/mars-club-mechatronics-aeronautics-and-robotics/" rel="noopener noreferrer nofollow" target="_blank">MARS Club (Mechatronics, Aeronautics and Robotics)</a>
-                            </p>
-                        </li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <td rowspan="1" colspan="1">
-                    <p><em>Digital Animation and Media Club are closely tied to our Visual Arts, Media and Design in <a href="/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/" rel="noopener noreferrer nofollow" target="_blank">Learning for Life Programme</a></em>
-                    </p>
-                </td>
-            </tr>
-            <tr>
-                <td rowspan="1" colspan="1">
-                    <p><em>MARs is closely tied to our <a href="/our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/" rel="noopener noreferrer nofollow" target="_blank">Applied Learning Programme (STEM)</a></em>
-                    </p>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-<div class="yck-component">
-    <h5><a href="/files/Students/Direct School Admission/3__DIRECT_SCHOOL_ADMISSION____Performing_Arts_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Performing Arts</a></h5>
-    <table style="minWidth: 25px">
-        <colgroup>
-            <col>
-        </colgroup>
-        <tbody>
-            <tr>
-                <th rowspan="1" colspan="1">
-                    <p></p>
-                </th>
-            </tr>
-            <tr>
-                <td rowspan="1" colspan="1">
-                    <ul data-tight="true" class="tight">
-                        <li>
-                            <p><a href="/cca/Performing-Arts/Concert-Band/" rel="noopener noreferrer nofollow" target="_blank">Concert Band</a>
-                            </p>
-                        </li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <td rowspan="1" colspan="1">
-                    <ul data-tight="true" class="tight">
-                        <li>
-                            <p><a href="/cca/Performing-Arts/Choir/" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
-                            </p>
-                        </li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <td rowspan="1" colspan="1">
-                    <ul data-tight="true" class="tight">
-                        <li>
-                            <p><a href="/cca/Performing-Arts/English-Drama/" rel="noopener noreferrer nofollow" target="_blank">English Drama</a>
-                            </p>
-                        </li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <td rowspan="1" colspan="1">
-                    <ul data-tight="true" class="tight">
-                        <li>
-                            <p><a href="/cca/Performing-Arts/Chinese-Dance/" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance</a>
-                            </p>
-                        </li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <td rowspan="1" colspan="1">
-                    <ul data-tight="true" class="tight">
-                        <li>
-                            <p><a href="/cca/Performing-Arts/Indian-Dance/" rel="noopener noreferrer nofollow" target="_blank">Indian Dance</a>
-                            </p>
-                        </li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <td rowspan="1" colspan="1">
-                    <ul data-tight="true" class="tight">
-                        <li>
-                            <p><a href="/cca/Performing-Arts/Malay-Dance/" rel="noopener noreferrer nofollow" target="_blank">Malay Dance</a>
-                            </p>
-                        </li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <td rowspan="1" colspan="1">
-                    <p><em>All the CCAs above are closely tied to our <a href="/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/" rel="noopener noreferrer nofollow" target="_blank">Learning for Life Programme</a></em>
-                    </p>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-<div class="yck-component">
-    <h5><a href="/files/Students/Direct School Admission/4_DIRECT_SCHOOL_ADMISSION___Sports_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Sports</a></h5>
-    <table style="minWidth: 25px">
-        <colgroup>
-            <col>
-        </colgroup>
-        <tbody>
-            <tr>
-                <th rowspan="1" colspan="1">
-                    <p></p>
-                </th>
-            </tr>
-            <tr>
-                <td rowspan="1" colspan="1">
-                    <ul data-tight="true" class="tight">
-                        <li>
-                            <p><a href="/cca/physical-sports/badminton/" rel="noopener noreferrer nofollow" target="_blank">Badminton</a>
-                            </p>
-                        </li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <td rowspan="1" colspan="1">
-                    <ul data-tight="true" class="tight">
-                        <li>
-                            <p><a href="/cca/Physical-Sports/Basketball-Boys/" rel="noopener noreferrer nofollow" target="_blank">Basketball (Boys)</a>
-                            </p>
-                        </li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <td rowspan="1" colspan="1">
-                    <ul data-tight="true" class="tight">
-                        <li>
-                            <p><a href="/cca/Physical-Sports/Floorball-Boys/" rel="noopener noreferrer nofollow" target="_blank">Floorball (Boys)</a>
-                            </p>
-                        </li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <td rowspan="1" colspan="1">
-                    <ul data-tight="true" class="tight">
-                        <li>
-                            <p><a href="/cca/Physical-Sports/Netball/" rel="noopener noreferrer nofollow" target="_blank">Netball</a>
-                            </p>
-                        </li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <td rowspan="1" colspan="1">
-                    <p></p>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-<div class="yck-component">
-    <h5><a href="/files/Students/Direct School Admission/5_DIRECT_SCHOOL_ADMISSION___UGs_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniformed Groups</a></h5>
-    <table style="minWidth: 25px">
-        <colgroup>
-            <col>
-        </colgroup>
-        <tbody>
-            <tr>
-                <th rowspan="1" colspan="1">
-                    <p></p>
-                </th>
-            </tr>
-            <tr>
-                <td rowspan="1" colspan="1">
-                    <ul data-tight="true" class="tight">
-                        <li>
-                            <p><a href="/cca/Uniformed-Groups/NPCC/" rel="noopener noreferrer nofollow" target="_blank">National Police Cadet Corps</a>
-                            </p>
-                        </li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <td rowspan="1" colspan="1">
-                    <ul data-tight="true" class="tight">
-                        <li>
-                            <p><a href="/cca/Uniformed-Groups/Red-Cross-Youth/" rel="noopener noreferrer nofollow" target="_blank">Red Cross Youth</a>
-                            </p>
-                        </li>
-                    </ul>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-<div class="yck-component">
-    <p>Click on the <strong>respective category</strong> to access the specific
-        DSA talent areas application procedure.</p>
-    <p>Parents and students are encouraged to choose schools wisely based on
-        the student’s aptitudes and strengths, bearing in mind the schools’ academic
-        and non-academic requirements, and the programmes available to develop
-        the area of talent.</p>
-</div>
-<div class="yck-component">
-    <h4>2025 DSA-SEC Timeline</h4>
-    <table style="minWidth: 75px">
-        <colgroup>
-            <col>
-            <col>
-            <col>
-        </colgroup>
-        <tbody>
-            <tr>
-                <td rowspan="1" colspan="1">
-                    <p><strong>DATE</strong>
-                    </p>
-                </td>
-                <td rowspan="1" colspan="1">
-                    <p><strong>INFORMATION</strong>
-                    </p>
-                </td>
-                <td rowspan="1" colspan="1">
-                    <p><strong>&nbsp;TO-DOs</strong>
-                    </p>
-                </td>
-            </tr>
-            <tr>
-                <td rowspan="1" colspan="1">
-                    <p>7 May to 3 Jun
-                        <br>(by 3pm)</p>
-                </td>
-                <td rowspan="1" colspan="1">
-                    <p>Application opens on 7 May and
-                        <br>closes on 3 June (by 3pm)</p>
-                </td>
-                <td rowspan="1" colspan="1">
-                    <ul data-tight="true" class="tight">
-                        <li>
-                            <p>Complete and submit <strong>online application.</strong>
-                            </p>
-                        </li>
-                        <li>
-                            <p>MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/secondary/dsa</a>
-                            </p>
-                        </li>
-                        <li>
-                            <p>Submit via <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">DSA-Sec Portal</a>. <em>(Require SingPass to login.)</em>
-                            </p>
-                        </li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <td rowspan="1" colspan="1">
-                    <p>30 Jun to 4 Sep</p>
-                </td>
-                <td rowspan="1" colspan="1">
-                    <p>Audition and interview for
-                        <br>short-listed applicants</p>
-                </td>
-                <td rowspan="1" colspan="1">
-                    <ul data-tight="true" class="tight">
-                        <li>
-                            <p>Applicant will be informed of the audition item upon submission of online
-                                application.</p>
-                        </li>
-                        <li>
-                            <p>Only shortlisted applicants are required to submit certified true copies
-                                of supporting documents for non-school based activities at the trial/interview.</p>
-                        </li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <td rowspan="1" colspan="1">
-                    <p>Between 25 Aug and 4 Sep</p>
-                </td>
-                <td rowspan="1" colspan="1">
-                    <p>Issuance of letters to all applicants</p>
-                </td>
-                <td rowspan="1" colspan="1">
-                    <ul data-tight="true" class="tight">
-                        <li>
-                            <p>Contact the school if no letter/email is received.</p>
-                        </li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <td rowspan="1" colspan="1">
-                    <p>27 to 31 Oct</p>
-                </td>
-                <td rowspan="1" colspan="1">
-                    <p>School Preference Submission</p>
-                </td>
-                <td rowspan="1" colspan="1">
-                    <ul data-tight="true" class="tight">
-                        <li>
-                            <p>Submit via <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">DSA-Sec Portal</a>. <em>(Require SingPass to login.)</em>
-                            </p>
-                        </li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <td rowspan="1" colspan="1">
-                    <p>Late Nov</p>
-                </td>
-                <td rowspan="1" colspan="1">
-                    <p>Release of DSA-Sec results</p>
-                </td>
-                <td rowspan="1" colspan="1">
-                    <ul data-tight="true" class="tight">
-                        <li>
-                            <p>NA</p>
-                        </li>
-                    </ul>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-<div class="yck-component">
-    <p>Direct School Admission for Secondary Schools Portal (DSA-Sec Portal):
-        <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
-    </p>
+	<h3 class="yck-h3">YCKSS School Song</h3>
+                                <figure>
+                                    <div class="masthead" id="schsongbg">
+                                        <p>Our School is Yio Chu Kang.<br>
+                                            Together we learn and grow.<br>
+                                            Pursuit of knowledge, service to all,<br>
+                                            With gratitude and character, we show.<br>
+																					Wholeheartedly, our Home.</p>
+                                            <p>Through our hopes and dreams,<br>
+                                            We see the best in all.<br>
+                                            With heart and soul, we lead<br>
+                                            And strive for excellence.<br>
+                                            Wholeheartedly, our School.<br>
+                                            Wholeheartedly, our Home.</p>
+                                            <figcaption>Musics &amp; Lyrics by: Mr Michael William Cartwright &amp; Ms Lio Dan Wei
+                                    </figcaption>
+                                    </div>
+	</figure>
 </div>
 
-<style>:root {
+
+<style>
+	
+:root {
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
@@ -1032,20 +675,22 @@ details[open]::details-content {
 
 .masthead {
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: flex-start;
     flex-direction: column;
-    text-align: right;
+    text-align: left;
     width: 100%;
     height: 100vh;
     /* if you don't want it to take up the full screen, reduce this number */
     overflow: hidden;
     background-size: cover !important;
+	margin: 0 auto;
+	padding: 0;
 
 }
 
 #schsongbg {
-    background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0.6) 37%, rgba(255, 255, 255, 0.45) 60%, rgba(255, 255, 255, 0.85) 80%, rgba(255, 255, 255, 1) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Story/School%20Song/Our-SchSong.png) no-repeat right top scroll;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0.6) 37%, rgba(255, 255, 255, 0.45) 60%, rgba(255, 255, 255, 0.85) 80%, rgba(255, 255, 255, 1) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Story/School%20Song/schbg.png) no-repeat right top scroll;
 }
 
 .masthead p {
@@ -1055,7 +700,7 @@ details[open]::details-content {
     letter-spacing: 0.03em;
     line-height: 1.5;
     text-shadow: 1px 2px 3px rgba(24, 24, 24, 0.5);
-
+	margin-bottom: var(--yck-spacing-unit);
 }
 
 </style>
