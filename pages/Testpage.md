@@ -5,29 +5,27 @@ description: ""
 variant: markdown
 ---
 <div class="yck-component">
-	<h2 class="yck-h2">YCKSS School Song</h2>
-                                <figure>
-                                    <div class="masthead" id="schsongbg">
-                                        <p>Our School is Yio Chu Kang.<br>
-                                            Together we learn and grow.<br>
-                                            Pursuit of knowledge, service to all,<br>
-                                            With gratitude and character, we show.<br>
-																					Wholeheartedly, our Home.</p>
-                                            <p>Through our hopes and dreams,<br>
-                                            We see the best in all.<br>
-                                            With heart and soul, we lead<br>
-                                            And strive for excellence.<br>
-                                            Wholeheartedly, our School.<br>
-                                            Wholeheartedly, our Home.</p>
-                                            <figcaption>Musics &amp; Lyrics by: Mr Michael William Cartwright &amp; Ms Lio Dan Wei
-                                    </figcaption>
-                                    </div>
-	</figure>
+    <figure>
+        <div class="masthead" id="schsongbg">
+            <h2 class="yck-h2">YCKSS School Song</h2>
+            <p>Our School is Yio Chu Kang.<br>
+                Together we learn and grow.<br>
+                Pursuit of knowledge, service to all,<br>
+                With gratitude and character, we show.<br>
+                Wholeheartedly, our Home.</p>
+            <p>Through our hopes and dreams,<br>
+                We see the best in all.<br>
+                With heart and soul, we lead<br>
+                And strive for excellence.<br>
+                Wholeheartedly, our School.<br>
+                Wholeheartedly, our Home.</p>
+            <figcaption>Musics &amp; Lyrics by: Mr Michael William Cartwright &amp; Ms Lio Dan Wei
+            </figcaption>
+        </div>
+    </figure>
 </div>
 
-
 <style>
-	
 :root {
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
@@ -64,10 +62,6 @@ img,
 svg,
 video {
     vertical-align: middle;
-}
-
-.yck-component .regular-flow>*+* {
-    margin-top: 1.125em;
 }
 
 .yck-component {
@@ -194,58 +188,6 @@ hr {
     text-decoration: none;
 }
 
-/* Table Styles */
-.yck-component .yck-table {
-    border-collapse: collapse;
-    width: 100%;
-    max-width: 1000px;
-    margin-top: 0.5em;
-    margin-bottom: var(--yck-spacing-unit);
-}
-
-.yck-component .yck-th {
-    background-color: #f2f2f2;
-    text-align: left;
-    border-bottom: 1px dotted #ddd;
-    text-transform: uppercase;
-    padding: calc(var(--yck-spacing-unit) * 0.75);
-    font-weight: bold;
-    font-size: var(--yck-step-0);
-    letter-spacing: 0.05em;
-    vertical-align: top;
-}
-
-.yck-component .yck-th h4,
-.yck-component .yck-th h5,
-.yck-component .yck-th h6 {
-    margin: 0 0 0.5em;
-    text-wrap: balance;
-}
-
-.yck-component .yck-td {
-    border-bottom: 1px dotted #ddd;
-    min-width: 120px;
-    max-width: 100%;
-    word-wrap: break-word;
-    text-wrap: pretty;
-    padding: calc(var(--yck-spacing-unit) * 0.75);
-    vertical-align: top;
-}
-
-.yck-component .yck-table tbody .yck-td,
-.yck-component .yck-table tbody .yck-td p {
-    margin-top: 0;
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
-    line-height: 1.5rem;
-    padding-bottom: 0.25em;
-    font-size: var(--yck-step-0);
-}
-
-.yck-component .yck-table tbody tr:last-child .yck-td:last-child,
-.yck-component .yck-table tbody tr:last-child .yck-td:last-child p:last-child {
-    margin-bottom: var(--yck-spacing-unit);
-}
-
 .yck-component .video-container {
     position: relative;
     width: 100%;
@@ -264,17 +206,6 @@ hr {
     height: 100%;
 }
 
-.yck-component .col-container {
-    width: 100%;
-    max-width: 1000px;
-    margin: 0 auto;
-
-    /* CSS Multi-column Layout properties */
-    column-count: 2;
-    column-width: 360px;
-    column-gap: 1.5em;
-}
-
 .yck-component .isomer-card,
 .yck-component .column {
     break-inside: avoid;
@@ -284,24 +215,6 @@ hr {
     padding: 20px;
     border-radius: 5px;
     box-shadow: var(--yck-box-shadow);
-}
-
-.yck-component .column {
-    margin-bottom: var(--yck-spacing-unit) !important;
-}
-
-.yck-component .column ul,
-.yck-component .column ol {
-    list-style: none;
-    line-height: 1.5em;
-    margin: 0;
-    padding: 0;
-}
-
-.yck-component .column ul li {
-    margin-left: 1rem;
-    padding-left: 1rem;
-    border-bottom: 1px dotted rgba(0, 0, 0, 0.15);
 }
 
 .yck-component .yck-flexbox-grid {
@@ -387,53 +300,6 @@ hr {
     margin-bottom: 1.5rem
 }
 
-
-
-.yck-component .bqcontainer {
-    margin: 0 auto;
-    padding: 0;
-    margin-bottom: var(--yck-space-s-xl) !important;
-}
-
-.yck-component blockquote {
-    position: relative;
-    padding: 25px 35px;
-    background-color: white;
-    border-radius: 5px;
-    box-shadow: var(--yck-box-shadow);
-    margin-left: 0;
-    margin-right: 0;
-}
-
-.yck-component blockquote p,
-blockquote div {
-    color: #ff6b6b !important;
-    font-style: italic !important;
-    font-size: var(--yck-step-1) !important;
-    line-height: 1.5;
-    margin: 0;
-}
-
-.yck-component blockquote::before {
-    content: '"';
-    position: absolute;
-    top: 25px;
-    left: 10px;
-    color: #ff6b6b !important;
-    font-size: 60px;
-    font-family: Georgia, serif;
-    opacity: 0.3;
-}
-
-.yck-component cite {
-    display: block;
-    margin-top: var(--yck-spacing-unit);
-    font-size: var(--yck-step--1);
-    font-style: italic;
-    color: #555;
-    text-align: right;
-}
-
 .yck-component figure {
     display: flex !important;
     flex-flow: column !important;
@@ -448,75 +314,10 @@ blockquote div {
 }
 
 .yck-component figcaption {
-    background-color: rgba(255, 255, 255, 0.75);
     color: #333;
     font: italic var(--yck-step--1) sans-serif;
     padding: 5px;
     text-align: center;
-}
-
-.yck-component .orgchart {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    width: 100%;
-    max-width: 1000px;
-    margin: 0 auto;
-    padding: 0;
-}
-
-.yck-component .section-title {
-    font-size: var(--yck-step-3);
-    font-weight: bold;
-    margin-top: 30px;
-    margin-bottom: var(--yck-spacing-unit);
-    color: #222;
-    border-bottom: 3px solid #555;
-    padding-bottom: 8px;
-    width: 100%;
-    text-align: left;
-}
-
-.yck-component .person-container {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    flex-wrap: wrap;
-    width: 100%;
-    margin-bottom: var(--yck-space-s-xl);
-    position: relative;
-}
-
-.yck-component .person {
-
-    border-radius: 6px;
-    padding: 10px 15px;
-    margin: 10px;
-    text-align: left;
-    min-width: 200px;
-    box-shadow: var(--yck-box-shadow);
-    flex-grow: 0;
-    flex-shrink: 0;
-    flex-basis: calc(25% - 10px);
-}
-
-.yck-component .person-email {
-    font-size: var(--yck-step--1);
-    font-weight: normal;
-    margin-inline-start: calc(var(--yck-space-s-xl) * 2);
-    margin-bottom: var(--yck-spacing-unit);
-    color: #333;
-}
-
-.yck-component .person-name {
-    font-size: var(--yck-step-0);
-    font-weight: normal;
-    color: #333;
-}
-
-.yck-component .person-title {
-    font-size: var(--yck-step-1);
-    color: #555;
 }
 
 .ken-burns-container {
@@ -543,58 +344,16 @@ blockquote div {
     }
 }
 
-details {
-    overflow: hidden;
-}
-
-details * {
-    margin: 0 !important;
-}
-
-details>p,
-details ul li,
-details div {
-    animation: fade-in 1s ease-out;
-    padding-top: calc(var(--yck-spacing-unit) * 0.5);
-}
-
-summary {
-    margin-inline-start: 1.5rem !important;
-    list-style-position: outside;
-    cursor: pointer;
-    user-select: none;
-    outline: none;
-    font-size: var(--yck-step-1);
-}
-
-summary::marker {
-    font-size: var(--yck-step-1);
-}
-
-details::details-content {
-    font-size: var(--yck-step-0);
-    padding-left: 1.5rem;
-    block-size: 0;
-    transition:
-        block-size 1s cubic-bezier(0.390, 0.575, 0.565, 1.000),
-        content-visibility 1s cubic-bezier(0.390, 0.575, 0.565, 1.000);
-    transition-behavior: allow-discrete;
-}
-
-details[open]::details-content {
-    block-size: auto;
-}
-
 .fade-in {
     -webkit-animation: fade-in 1.2s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
     animation: fade-in 1s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
 }
 
 /**
- * ----------------------------------------
- * animation fade-in
- * ----------------------------------------
- */
+                             * ----------------------------------------
+                             * animation fade-in
+                             * ----------------------------------------
+                             */
 @-webkit-keyframes fade-in {
     0% {
         opacity: 0;
@@ -675,32 +434,41 @@ details[open]::details-content {
 
 .masthead {
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: flex-start;
     flex-direction: column;
     text-align: left;
     width: 100%;
-    height: 100vh;
+    min-width: 500px;
+    height: 75vh;
     /* if you don't want it to take up the full screen, reduce this number */
     overflow: hidden;
     background-size: cover !important;
-	margin: 0 auto;
-	padding: 0;
+    margin: 0 auto;
+    padding: var(--yck-spacing-unit);
 
 }
 
 #schsongbg {
-    background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0.6) 37%, rgba(255, 255, 255, 0.45) 60%, rgba(255, 255, 255, 0.85) 80%, rgba(255, 255, 255, 1) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Story/School%20Song/schbg.png) no-repeat right top scroll;
+    background: linear-gradient(to left, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0.6) 37%, rgba(255, 255, 255, 0.45) 60%, rgba(255, 255, 255, 0.85) 80%, rgba(255, 255, 255, 1) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Story/School%20Song/Sch_SongBG.png) no-repeat center center scroll;
+}
+
+.masthead h2 {
+    font-style: normal;
+    font-weight: 700;
+    color: #333;
+    letter-spacing: 0.03em;
+    font-size: var(--yck-step-4);
+    text-shadow: 1px 2px 4px rgba(24, 24, 24, 0.5);
 }
 
 .masthead p {
     font-style: normal;
+    font-weight: 500;
     color: #444;
     font-size: var(--yck-step-2);
     letter-spacing: 0.03em;
     line-height: 1.5;
-    text-shadow: 1px 2px 3px rgba(24, 24, 24, 0.5);
-	margin-bottom: var(--yck-spacing-unit);
+    text-shadow: 1px 2px 2px rgba(24, 24, 24, 0.25);
 }
-
 </style>
