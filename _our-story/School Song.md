@@ -462,16 +462,15 @@ hr {
 }
 
 .masthead h2 {
-    font-style: normal;
+    font: normal var(--yck-step-4) serif;
     font-weight: 700;
     color: #333;
-    letter-spacing: 0.03em;
-    font-size: var(--yck-step-4);
-    text-shadow: 1px 2px 4px rgba(24, 24, 24, 0.5);
+    letter-spacing: 0.04em;
+    text-shadow: 1px 2px 4px rgba(24, 24, 24, 0.55);
 }
 
 .masthead p {
-    font-style: normal;
+    font: normal var(--yck-step-2) sans-serif;
     font-weight: 500;
     color: #444;
     font-size: var(--yck-step-2);
