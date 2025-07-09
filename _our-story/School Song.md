@@ -476,6 +476,6 @@ hr {
     font-size: var(--yck-step-2);
     letter-spacing: 0.03em;
     line-height: 1.5;
-    text-shadow: 1px 2px 2px rgba(24, 24, 24, 0.25);
+    text-shadow: 1px 2px 4px rgba(24, 24, 24, 0.35);
 }
 </style>
