@@ -7,7 +7,8 @@ variant: markdown
 <div class="yck-component">
     <figure>
         <div class="masthead" id="schsongbg">
-            <h2 class="yck-h2">YCKSS School Song</h2>
+					<details>
+						<summary class="yck-h2">YCKSS School Song</summary>
             <p>Our School is Yio Chu Kang.<br>
                 Together we learn and grow.<br>
                 Pursuit of knowledge, service to all,<br>
@@ -21,6 +22,7 @@ variant: markdown
                 Wholeheartedly, our Home.</p>
             <figcaption>Musics &amp; Lyrics by: Mr Michael William Cartwright &amp; Ms Lio Dan Wei
             </figcaption>
+					</details>
         </div>
     </figure>
 </div>
@@ -420,18 +422,115 @@ hr {
     }
 }
 
-@keyframes fade-in-bottom {
-    from {
+details {
+    overflow: hidden;
+}
+
+details * {
+    margin: 0 !important;
+}
+
+details>p,
+details ul li,
+details div {
+    animation: fade-in 1s ease-out;
+    padding-top: calc(var(--yck-spacing-unit) * 0.5);
+}
+
+summary {
+    margin-inline-start: 1.5rem !important;
+    list-style-position: outside;
+    list-style: none;
+    cursor: pointer;
+    user-select: none;
+    outline: none;
+    font-size: var(--yck-step-1);
+    font-weight: 500;
+}
+
+/* A specific rule for Chrome/Safari */
+summary::-webkit-details-marker {
+    display: none;
+}
+
+summary::before {
+    content: '+'; /* This is the chevron icon */
+    position: absolute;
+    font-size: var(--yck-step-2);
+    left: 0.25rem;
+    top: 0.85rem;
+    transform: translateY(-50%) rotate(0deg); /* Sets the starting rotation */
+    transition: transform 0.3s ease-in-out; /* This makes the rotation smooth! */
+}
+
+details[open] > summary::before {
+    transform: translateY(-50%) rotate(135deg); /* Rotates the icon 90 degrees */
+}
+
+details::details-content {
+    font-size: var(--yck-step-0);
+    padding-left: 1.5rem;
+    height:  0;
+    transition:
+        height 1s cubic-bezier(0.390, 0.575, 0.565, 1.000),
+        content-visibility 1s cubic-bezier(0.390, 0.575, 0.565, 1.000);
+    transition-behavior: allow-discrete;
+}
+
+details[open]::details-content {
+    height: auto;
+}
+
+.fade-in {
+    -webkit-animation: fade-in 1.2s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    animation: fade-in 1s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+}
+
+/**
+ * ----------------------------------------
+ * animation fade-in
+ * ----------------------------------------
+ */
+@-webkit-keyframes fade-in {
+    0% {
         opacity: 0;
-        transform: translateY(10vh);
     }
 
-    to {
+    100% {
         opacity: 1;
-        transform: translateY(0);
     }
 }
 
+@keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@-webkit-keyframes fade-out {
+    0% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+@keyframes fade-out {
+    0% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+	
 .masthead {
     display: flex;
     justify-content: center;
