@@ -11,6 +11,7 @@ image: /images/60th Anniversary/60thLogo.svg
     <div class="video-container"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/Ztbsf0cNbQQ?si=P49Y9bGzZ2iyVpB7&amp;controls=0" height="315" width="560"></iframe></div>
     <h4 class="yck-h4">Highlights from the 60<sup>th</sup> Speech and Prize Giving Day</h4>
     <div class="video-container"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/xWxW7cRhwfM?si=vEP3ZnN4iD2O5gQ2&amp;controls=0" height="315" width="560"></iframe></div>
+	<p>You can watch the highlights and performance during our <a href="https://www.yiochukangsec.moe.edu.sg/60th-anniversary-dinner/">60<sup>th</sup> Anniversary Dinner</a> by following <a target="_blank" href="https://www.yiochukangsec.moe.edu.sg/60th-anniversary-dinner/">this link</a>.</p>
 </div>
 <div class="yck-component">
 	<h4 class="yck-h4">Previous Speech &amp; Prize Giving Days</h4>	
