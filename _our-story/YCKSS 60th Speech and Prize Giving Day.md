@@ -184,6 +184,10 @@ summary::before {
     transform: translateY(-50%) rotate(0deg); /* Sets the starting rotation */
     transition: transform 0.5s ease-in-out; /* This makes the rotation smooth! */
 }
+	
+details[open] > summary::before {
+    transform: translateY(-50%) rotate(135deg); /* Rotates the icon 90 degrees */
+}
 
 details::details-content {
     font-size: var(--yck-step-0);
