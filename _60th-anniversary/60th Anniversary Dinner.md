@@ -9,8 +9,17 @@ image: /images/Our Story/School Logo/School Logo/S1.png
 <h3 class="yck-h3">60th Anniversary Dinner</h3>
 <img alt="60th Anniversary Dinner" src="/images/Our%20Story/YCKSS_60th_Annivesary_Dinner_QRCode.png">
 
-<p>Let’s reconnect with old friends, relive cherished moments, and honour those who shaped our journey at the dinner.</p>
-<p>Don’t miss the fun! Reserve your seat today! Come have dinner with us on 4 July!</p>
+<p>Let’s reconnect with old friends, relive cherished moments, and honour those who shaped our journey at the dinner. If you were unable to join us for the dinner, you can still experience the occasion by watching the event highlights and Dance Performance by our YCKSS Dance Interest Group.</p>
+<h4>60<sup>th</sup> Anniversary Dinner Highlights</h4>
+<div class="video-container">
+	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/gYkzZ-AIxS4?si=OYNBU5AbOu_qlCUl" height="315" width="560"></iframe>
+</div>
+	<h4>"Coming Home" by the YCKSS Dance Interest Group</h4>
+<div class="video-container">
+	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/zJVTyvcBiEw?si=JuLumRzPH9GGDmqO" height="315" width="560"></iframe>
+</div>
+
+<h4>60<sup>th</sup> Anniversary Dinner Publicity</h4>
 
 <div class="video-container">
 		<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ydfN3bz0f68?si=FXImbSRrrmerLK9R" height="315" width="560"></iframe>
@@ -26,6 +35,7 @@ image: /images/Our Story/School Logo/School Logo/S1.png
     --yck-heading-letter-spacing: -0.02em;
     --yck-spacing-unit: 1em;
     --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+    --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
 
     --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
     --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
@@ -36,8 +46,25 @@ image: /images/Our Story/School Logo/School Logo/S1.png
     --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
-   --yck-space-s-xl: clamp(0.75rem, 0.2143rem + 3.9286vw, 3.75rem);
+    --yck-space-s-xl: clamp(0.75rem, 0.2143rem + 3.9286vw, 3rem);
     interpolate-size: allow-keywords;
+    scroll-behavior: smooth;
+    text-rendering: optimizeSpeed;
+    height: 100vh;
+}
+
+::selection {
+    text-shadow: none;
+    background: yellow;
+}
+
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+    vertical-align: middle;
 }
 
 .yck-component {
