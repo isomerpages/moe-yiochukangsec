@@ -7,10 +7,10 @@ image: /images/60th Anniversary/60thLogo.svg
 ---
 <div class="yck-component">
 	<h3>2024</h3>
-    <h4 class="yck-h4">59<sup>th</sup> Speech and Prize Giving Day - Full Performance</h4>
-    <div class="video-container"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="59th Speech and Prikze Giving Day" src="https://www.youtube.com/embed/iivxaYHg7HY?si=7M-KsfLRj1pHsKkC" height="315" width="560"></iframe></div>
-    <h4 class="yck-h4">Highlights from the 59<sup>th</sup> Speech and Prize Giving Day</h4>
-    <div class="video-container"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Highlights from the 59th Speech and Prize Giving Day" src="https://www.youtube.com/embed/vXqtR-VJkn4?si=WgK1sTAJ9A8mm625" height="315" width="560"></iframe></div>
+    <h4 class="yck-h4">60<sup>th</sup> Speech and Prize Giving Day - Full Performance</h4>
+    <div class="video-container"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/Ztbsf0cNbQQ?si=P49Y9bGzZ2iyVpB7&amp;controls=0" height="315" width="560"></iframe></div>
+    <h4 class="yck-h4">Highlights from the 60<sup>th</sup> Speech and Prize Giving Day</h4>
+    <div class="video-container"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/xWxW7cRhwfM?si=vEP3ZnN4iD2O5gQ2&amp;controls=0" height="315" width="560"></iframe></div>
 </div>
 <div class="yck-component">
 	<h4 class="yck-h4">Previous Speech &amp; Prize Giving Days</h4>	
