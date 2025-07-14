@@ -16,9 +16,10 @@ image: /images/60th Anniversary/60thLogo.svg
 	<h4 class="yck-h4">Previous Speech &amp; Prize Giving Days</h4>	
 	<details><summary>List of direct links by year</summary>
 		<ul>
-				<li>58<sup>th</sup> <a target="_blank" href="https://www.youtube.com/watch?v=UpBOuxauBJw">Full Performance</a> and Highlights in 2023.</li>
-				<li>57<sup>th</sup> Full Performance and Highlights in 2022.</li>
-				<li>56<sup>th</sup> Full Performance and Highlights in 2021.</li>
+			<li>59<sup>th</sup> <a target="_blank" href="https://www.youtube.com/embed/iivxaYHg7HY?si=7M-KsfLRj1pHsKkC">Full Performance</a> and <a target="_blank" href="https://www.youtube.com/embed/vXqtR-VJkn4?si=WgK1sTAJ9A8mm625">Highlights</a> in 2024.</li>
+				<li>58<sup>th</sup> <a target="_blank" href="https://www.youtube.com/watch?v=UpBOuxauBJw">Full Performance</a> and <a target="_blank" href="-&quot;https://youtu.be/Rcnx3RyomJY?si=y43ZPzAwE4kYAwGa&quot;">Highlights</a> in 2023.</li>
+				<li>57<sup>th</sup> <a target="_blank" href="https://youtu.be/_WaoEa4PJzU?si=SlCGwDYyb1-1vMNV">Speech and Prize Giving Day</a> in 2022.</li>
+				<li>56<sup>th</sup> <a target="_blank" href="https://youtu.be/aHeeaGQKlwQ?si=3NTF35l5j1FPa63M">Speech and Prize Giving Day</a> in 2021.</li>
 		</ul>
 	</details></div>
 
