@@ -34,7 +34,7 @@ third_nav_title: Distinctive Programmes
     </a>
 </div>
 <div class="yck-component">
-    <a href="/our-curriculum/Distinctive-Programmes/fita/">
+    <a href="/fita/">
         <figure>
             <div class="masthead" id="distinct-fita">
                 <h2>From Ideas to Action (F.I.T.A.)</h2>
