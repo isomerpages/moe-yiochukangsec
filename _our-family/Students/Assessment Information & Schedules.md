@@ -14,6 +14,19 @@ and level.</p>
 <h3><strong>Assessment Rules &amp; Regulations</strong></h3>
 <p><a href="/files/Students/Assessment Information Sche/YCKSS_Weighted_Assessment_Rules_and_Regulations.pdf" rel="noopener nofollow" target="_blank">Weighted Assessment Rules &amp; Regulations 2025</a> (updated
 on 5 Feb 2025)</p>
+<h4><strong>2025 N LEVEL PRELIMINARY EXAMINATION TIME TABLE</strong></h4>
+<p>(updated on 15 July 2025)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Students/Assessment Information Sche/Sec_4NT_Prelim.pdf" rel="noopener nofollow" target="_blank"> <u>SECONDARY FOUR NORMAL(Technical) EXAMINATION TIME TABLE</u></a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/Sec_4NA_Prelim.pdf" rel="noopener nofollow" target="_blank"><u> SECONDARY FOUR NORMAL(ACAD) EXAMINATION TIME TABLE</u></a>
+</p>
+<p></p>
+</li>
+</ul>
 <h4><strong>Weighted Assessment 2025 (Term 2)</strong></h4>
 <p>(updated on 17 April 2025)</p>
 <ul data-tight="true" class="tight">
