@@ -1,30 +1,135 @@
 ---
-title: Testpage
-permalink: /testpage/
-description: ""
+title: Gift Appreciation
+permalink: /gift-appreciation/
 variant: markdown
+description: ""
+image: /images/60th Anniversary/60thLogo.svg
 ---
 <div class="yck-component">
-    <figure>
-        <div class="masthead" id="schsongbg">
-					<details>
-						<summary class="yck-h2">YCKSS School Song</summary>
-            <p>Our School is Yio Chu Kang.<br>
-                Together we learn and grow.<br>
-                Pursuit of knowledge, service to all,<br>
-                With gratitude and character, we show.<br>
-                Wholeheartedly, our Home.</p>
-            <p>Through our hopes and dreams,<br>
-                We see the best in all.<br>
-                With heart and soul, we lead<br>
-                And strive for excellence.<br>
-                Wholeheartedly, our School.<br>
-                Wholeheartedly, our Home.</p>
-            <figcaption>Musics &amp; Lyrics by: Mr Michael William Cartwright &amp; Ms Lio Dan Wei
-            </figcaption>
-					</details>
-        </div>
-    </figure>
+    <h1>YCKSS 60th Anniversary Dinner - Gift Appreciation</h1>
+    <p>
+        Thank you for gracing the occasion of YCKSS 60th Anniversary Dinner. We have put together some gifts as
+        tokens of our appreciation.
+    </p>
+    <section class="col-container">
+        <h2>Growing Roots, Gaining Independence</h2>
+        <p>
+            Our school was established by the First Prime Minister of Singapore Mr Lee Kuan Yew in 1965, the
+            same year Singapore gained independence. Mr Lee was visiting Yio Chu Kang, then a rural farming
+            community, when he acceded to the request by farmers to build a school for their children. Mr Ong
+            Pang Boon, then Minister for Education, officially opened the school after it was built at 11
+            milestone Yio Chu Kang Road.
+        </p>
+        <p>
+            <strong>Gift 1: Vegetable Seeds</strong> from our school's Mendel's Garden – Every seed holds hope
+            and promise for a better tomorrow, as YCKSS anchors itself through its roots at the same time when
+            Singapore gains independence.
+        </p>
+    </section>
+    <section class="col-container">
+        <h2>Standing Up for Singapore, Contributing to Workforce</h2>
+        <p>
+            Our school witnessed changes in tandem with Singapore's history. It was a time of rapid
+            industrialisation. At YCKSS, the equal educational opportunities afforded to all students,
+            regardless of background, was the cornerstone for driving social mobility and meritocracy. Our
+            school emphasised on the development of students' technical skills for them to contribute to the
+            workforce.
+        </p>
+        <p>
+            <strong>Gift 2: Acrylic Keepsake</strong> reflecting both SG60 and YCK60 – YCKSS's journey together
+            with our nation Singapore, as we pay tribute to the Pioneer and Merdeka Generations who built our
+            Nation, our School, our Home.
+        </p>
+    </section>
+    <section class="col-container">
+        <h2>Building Infrastructure, Fulfilling Potential</h2>
+        <p>
+            In 1982, our school was re-sited to its current premises at 3063 Ang Mo Kio Avenue 5 in new Ang Mo
+            Kio Town. Our school, tapping on a Knowledge-based Economy, and aligned with the MOE vision of
+            'Thinking Schools, Learning Nation', was focused on customizing curricula to students of varying
+            abilities to develop their full potential.
+        </p>
+        <p>
+            <strong>Gift 3: Token Keychain</strong> – Every YCKian is worthy, and has potential to be discovered
+            and unlocked, to contribute to family, society, and country.
+        </p>
+    </section>
+    <section class="col-container">
+        <h2>Sustaining Life, Nurturing Growth</h2>
+        <p>
+            Our school developed identity and sense of belonging in students through National Education;
+            Critical and Creative Thinking, Collaborative Learning, and ICT literacy through 21st Century
+            Competencies. Social Emotional Competencies were also nurtured. In 2002, our school's physical
+            facilities were improved and upgraded under PRIME.
+        </p>
+        <p>
+            <strong>Gift 4: Water in Tetra-Pak (饮水思源)</strong> – Like water sustains life, YCKSS has
+            nurtured generations with knowledge, skills and competencies. YCKians have achieved in different
+            sectors of business, industry and professions. When reflecting on our life experiences, we remember
+            those who have taught us to be confident and resilient.
+        </p>
+    </section>
+    <section class="col-container">
+        <h2>Pursuing Excellence, Serving Others</h2>
+        <p>
+            Our school pursues excellence in all we do, through continuous improvement of our curricula and
+            co-curricular activities. YCKSS recognises our responsibilities towards the community and the
+            environment. Our students serve people through Values-in-Action programmes aligned to our motto
+            'Pursuit of Knowledge, Service to All'. They are active in promoting sustainability against climate
+            change.
+        </p>
+        <p>
+            <strong>Gift 5: Recyclable Tote Bag</strong> – YCKians embrace continuous learning opportunities as
+            we carry essential items in this eco-friendly bag on a journey to realize hopes and aspirations.
+        </p>
+    </section>
+    <section class="col-container">
+        <h2>Enriching Learning, Spreading Joy</h2>
+        <p>
+            YCKSS develops its niche areas into the Applied Learning (STEM - Science, Technology, Engineering &amp;
+            Mathematics) and Learning for Life (Arts, Media and Design) Programmes. Our school's ALP develops
+            inquiring minds and inventive thinking by devising integrated solutions for real-life problems
+            through technology. Our LLP exposes students to different art forms and allows them to express their
+            ideas in different ways. Both give students enriching experiences, fostering creativity and joy of
+            learning.
+        </p>
+        <p>
+            <strong>Gift 6: Sticker Pack</strong> – Every sticker represents a cherished memory of learning; a
+            piece of YCKSS that stays with you always.
+        </p>
+    </section>
+    <section class="col-container">
+        <h2>Weaving with Care, Connecting for Life</h2>
+        <p>
+            In 2018, Yio Chu Kang Secondary School merged with Chong Boon Secondary School, retaining its
+            English name and taking up the latter school's Chinese name of '崇文'. Yio Chu Kang Secondary School
+            continues with the Gen Ed-SPED Partnership with Pathlight School (PLS) as its satellite campus,
+            hosting students on the Autism Spectrum, providing opportunities for integration and inclusivity.
+        </p>
+        <p>
+            <strong>Gift 7: Macrame Wrist Strap</strong> – Weaved by our students who have put their names on
+            the pieces, with passion and pride. Like the knots, past and present school leaders, advisory
+            committee members, staff and alumni have bonds with YCKSS that connect us and last forever.
+        </p>
+    </section>
+    <section class="col-container">
+        <h2>Continuing the Culture, Leaving a Legacy</h2>
+        <p>
+            Our School Vision is 'A community of Learners, Leaders and Innovators', and our mission is 'To
+            nurture students of character who thrive through love of learning and a willingness to grow and lead
+            in meaningful service to self and others'. YCKians are each a 'Leader, Learner, Innovator'. The year
+            2025 is our 60th anniversary, and our theme is 'Celebrating our Heritage – Yio Chu Kang Secondary
+            School Our Home, Heart and Hope'.
+        </p>
+        <p>
+            <strong>Gift 8: The Bag itself</strong> – Carrying with it 60 years of the school's culture of
+            adaptability and resilience.
+        </p>
+    </section>
+    <p>
+        On behalf of Yio Chu Kang Secondary School staff and students, it contains all our best wishes to you.
+    </p>
+    <p>Thank you for your presence and contributions.</p>
 </div>
 
 <style>
@@ -96,7 +201,7 @@ video {
 .yck-component ol,
 .yck-component ul {
     text-wrap: pretty;
-    margin-bottom: calc(var(--yck-spacing-unit)*1.5);
+    margin-bottom: var(--yck-spacing-unit);
 }
 
 .yck-component p:last-child,
@@ -418,134 +523,31 @@ hr {
     .yck-component .col-container {
         animation: fade-in-bottom linear both;
         animation-timeline: view();
-        animation-range: entry 25% cover 50%;
+        animation-range: entry 10% cover 40%;
     }
 }
 
-details {
-    overflow: hidden;
-}
-
-details * {
-    margin: 0 !important;
-}
-
-details>p,
-details ul li,
-details div {
-    animation: fade-in 1s ease-out;
-    padding-top: calc(var(--yck-spacing-unit) * 0.5);
-}
-
-summary {
-    margin-inline-start: 1.5rem !important;
-    list-style-position: outside;
-    list-style: none;
-    cursor: pointer;
-    user-select: none;
-    outline: none;
-    font-size: var(--yck-step-1);
-    font-weight: 500;
-}
-
-/* A specific rule for Chrome/Safari */
-summary::-webkit-details-marker {
-    display: none;
-}
-
-summary::before {
-    content: ''; /* This is the chevron icon */
-    position: absolute;
-    font-size: var(--yck-step-2);
-    left: 0.05rem;
-    top: 1.55rem;
-	  width: 1.5rem;
-	  height: 3rem;
-	  background-image: url("data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjEwMCUiIHdpZHRoPSIzMCUiIHZpZXdCb3g9IjAgMCAzMjAgMzIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGNsYXNzPSJzdmctZWxlbS0xIiBkPSJNMTQxLjUgMS42MjdjLTM4LjEwMyA1LjczMi02Ny43MjMgMjAuMTIzLTkzIDQ1LjE4My03My41ODEgNzIuOTUtNTguNTYyIDE5NS4yMjggMzAuNSAyNDguMzEgODAuMjU1IDQ3LjgzMyAxODYuMDc0IDE1LjA5MSAyMjQuOTk2LTY5LjYxNyAyNS40OTktNTUuNDk1IDE1LjkwNS0xMjUuNDc4LTIzLjE2OS0xNjkuMDAzLTIuNDY5LTIuNzUtNS4zNTMtNi4wNTMtNi40MDgtNy4zMzktMTEuMDU3LTEzLjQ3OC00Mi4xMTktMzIuOTUyLTY0Ljg0Ni00MC42NTQtMTYuNzk3LTUuNjkyLTUyLjE5Mi05LjI2OS02OC4wNzMtNi44OG03IDcuOTk1Yy00Ny43MzYgNS4wNjktODguMTI4IDI4LjU0MS0xMTIuNzA5IDY1LjQ5Ni01OS43NTUgODkuODM1LTEwLjU4NSAyMDguNjU2IDk1LjYwNSAyMzEuMDMzIDE0LjQ4OCAzLjA1MyA0Mi43MiAzLjA1MyA1Ny4yMDggMCAxMzAuODU4LTI3LjU3NiAxNjUuNDAyLTE5NS40ODYgNTUuNzI0LTI3MC44NjNDMjE3LjczMyAxNy4wMTEgMTc4LjMyNCA2LjQ1NiAxNDguNSA5LjYyMm0tNiAxMS44ODFjLTIyLjAzOCA0LjE2NS00MS44MTcgMTYuNzc1LTU3LjU3MiAzNi43MDhsLTMuODQ4IDQuODY3IDQuNTE5IDcuNjQzYzE4LjAwNSAzMC40NTUgNDIuODg1IDQ1LjYxOSA3NC45MDEgNDUuNjUxIDMyLjI5NC4wMzMgNTYuNzkxLTE2Ljc3OSA3Mi42Ny00OS44NzFsNC4xNDEtOC42MjktNS45MDYtNi4wMzFjLTE4LjU4Mi0xOC45OC0zNy44ODItMjguNTAyLTYzLjUwMi0zMS4zMjlsLTUuNTk2LS42MTgtLjY1NCA5LjIwN2MtLjM1OSA1LjA2My0uNjYgMTcuMTI1LS42NjggMjYuODAzLS4wMiAyMi40OTktMS40NjcgMjUuMjI2LTIuMzQgNC40MDYtLjM2NC04LjY5NS0uOTQ5LTIxLjMyMy0xLjMtMjguMDZMMTU2LjcwOCAyMGwtMy42MDQuMDljLTEuOTgyLjA1LTYuNzU0LjY4Ni0xMC42MDQgMS40MTNtODQgODMuOTc1Yy00NC4xMjcgMzEuNjctODkuMjcgMzIuMDI1LTEzNS41MjMgMS4wNjctNC41NjQtMy4wNTYtOC4zODEtNS40NDEtOC40OC01LjMtMi45MzggNC4xNDktOS43MDggMTkuMTM1LTguNzkyIDE5LjQ2MiA5LjkzOCAzLjU0NCA0MS4zNzIgMjYuMjUxIDU0LjMxOSAzOS4yMzkgMTcuOTMyIDE3Ljk4OCAyNC45MTMgNDAuMzEgMjQuOTU4IDc5LjgwNEwxNTMgMjU2aDIwLjg1NGwtLjU2OC0xMi43NzdjLTEuMDA5LTIyLjcgMi43MTUtNDkuNDIyIDkuMDY5LTY1LjA1OCA0Ljg3OS0xMi4wMDggMTcuNTA1LTI3LjI5NiAzMy4xNTEtNDAuMTQyIDYuNzk1LTUuNTc5IDI5LjU2Mi0yMS41NDYgMzEuNzczLTIyLjI4MyAxLjAyNy0uMzQyLTkuOTYxLTE2Ljc1MS0xMS4yMDQtMTYuNzMxLS4zMTYuMDA1LTQuNjI1IDIuOTE2LTkuNTc1IDYuNDY5bTMyLjIxMSAzMC4wNjNjLTM4LjM2MyA2LjA1OC02Ni44MzQgMzMuNDQxLTcxLjc4NiA2OS4wNDMtMi42MTMgMTguNzg2IDMuNTM3IDQwLjE2MyAxNy4yOTYgNjAuMTIyIDYuNzk1IDkuODU2IDYuNDkgOS42ODMgMTMuNzI0IDcuODA4IDI0LjQ3NS02LjM0MiA0OC4zNzMtMjMuNDkgNTkuNDMxLTQyLjY0M2wyLjY3Mi00LjYyOS0yMy43NzQtMTMuMjljLTM0LjE1MS0xOS4wOTEtMzMuODIzLTE5LjM0MiAyLjY1NC0yLjAzIDE3LjUyOSA4LjMxOSAyMy42MzUgMTAuNzk5IDI0LjI0NiA5Ljg0OC40NDktLjY5OCAxLjc1Ni0zLjc0NSAyLjkwNC02Ljc3IDguNjAzLTIyLjY3NSA3LjYzOS00Ni41NTEtMi45MDMtNzEuOTQxbC0yLjcyNC02LjU1OS02LjQ3Ni0uMTczYy0zLjU2MS0uMDk2LTEwLjQzLjQ1MS0xNS4yNjQgMS4yMTRtLTIxNi41NzggNS44OTJjLTExLjQ1MyAyNS44OTEtMTIuNzk3IDUxLjI4LTMuOTA3IDczLjgxNyAxLjY4MSA0LjI2MiAzLjQ3MiA3Ljc1IDMuOTc5IDcuNzUuOTg3IDAgNC40MTgtMS41NDggMjMuMjk1LTEwLjUxIDI0LjI2Ni0xMS41MiAyNi43MDYtMTIuNjE3IDI3LjEyNy0xMi4xOTcuMjM2LjIzNy0yLjYyMSAyLjA3LTYuMzQ5IDQuMDc1QzgyLjU1IDIwNi4zNzMgNzQuNzc1IDIxMC43MDcgNjkgMjE0Yy01Ljc3NSAzLjI5My0xMy41MzggNy42MjEtMTcuMjUgOS42MTctNy44NyA0LjIzMy03Ljg3IDQuMjM0LTMuMDgyIDExLjM5NiA4Ljg4NSAxMy4yOTEgMjEuNzc1IDI0LjU2MiAzNi4xNTMgMzEuNjEyIDkuNjQxIDQuNzI4IDIyLjgzOCA5LjM3NSAyNi42MjIgOS4zNzUgNC42OTYgMCAxNy44NDMtMjEuMTg3IDIzLjI2OS0zNy41IDMuODA5LTExLjQ0NyA0LjAwMy0zMi40NDIuMzk4LTQzLTExLjk1Ni0zNS4wMjEtNDAuOTEyLTU2LjE1Mi03OS43NS01OC4xOTlsLTExLjE0LS41ODctMi4wODcgNC43MTkiIHN0cm9rZT0iI2VmNTYyZCIgZmlsbC1ydWxlPSJldmVub2RkIiBmaWxsPSIjZWY1NjJkIj48L3BhdGg+PHBhdGggY2xhc3M9InN2Zy1lbGVtLTIiIGQ9Ik0xNDYgMS42MzljLTEuMzc1LjIwMi01Ljg3NS44NS0xMCAxLjQ0Qzc0LjUwMSAxMS44NzMgMjIuMTk0IDU5LjAyNCA3LjAwMSAxMTkuMzY0LTIyLjcxOSAyMzcuMzk0IDgzLjE0OCAzNDEuOTYzIDIwMS41IDMxMS40OGM0Ny44ODctMTIuMzM0IDg5LjA1OC00OS45NzcgMTA2Ljg5NC05Ny43MzYgMTIuMDAzLTMyLjE0MSAxMi42OS02OS44OTcgMS44OTctMTA0LjI0NC0xNS40NjktNDkuMjI0LTU5LjkzOS05MC42NTUtMTExLjA3LTEwMy40ODFDMTgyLjkwMiAxLjkyNiAxNTguMDA2LS4xMjMgMTQ2IDEuNjM5bS05LjM4MiA5LjAwNkM3Ni43NDcgMTkuMjk5IDI4LjM4NCA2NC43ODIgMTIuODk0IDEyN2MtMy4yMDkgMTIuODktMy41MjMgNDguNjMxLS41NCA2MS41IDE3LjI5NCA3NC42MDcgNzguMTc3IDEyMi41ODYgMTUyLjUyMiAxMjAuMTk2IDcwLjQ3Mi0yLjI2NiAxMjYuMzM1LTQ5LjI5NiAxNDIuNzctMTIwLjE5NiAzLjE1Mi0xMy42MDEgMi42OTEtNDguNjc1LS44MjMtNjIuNTFDMjg2Ljg2IDQ3LjM3OSAyMTUuNzcyLS43OTYgMTM2LjYxOCAxMC42NDVtOTQuODgyIDkxLjdjLTUuNjQ5IDQuNjY5LTIwLjU2NyAxMy41NjctMzAgMTcuODk0LTM1LjQ4NyAxNi4yNzgtNzEuNTI1IDEyLjA4Mi0xMDkuNzg5LTEyLjc4My00LjgzNC0zLjE0MS04LjkyMi01LjU0MS05LjA4NS01LjMzNC0uMTYzLjIwOC0yLjM5NyA0LjI3NC00Ljk2MyA5LjAzNWwtNC42NjcgOC42NTcgNi43NTIgMy43MDljMjcuOTg2IDE1LjM3MSA1NC43ODQgMzguOTE2IDYyLjYyMyA1NS4wMjQgNy4zMzQgMTUuMDY5IDEwLjk0MiAzNS4yIDExLjA1OSA2MS43MDNsLjA3IDE1Ljc1IDEwLS4wMDIgMTAtLjAwMS4wMTktMjIuMjQ4Yy4wNDEtNDguMzQzIDkuMTUxLTY5LjEyNCA0Mi4zNC05Ni41ODMgNi40MjktNS4zMTkgMjEuNTAzLTE1Ljc3NiAyOC4zODUtMTkuNjlsMy43NDQtMi4xMjktNS43NDQtOC4xNTdjLTYuNjc1LTkuNDc4LTUuNjgxLTkuMDMtMTAuNzQ0LTQuODQ1IiBzdHJva2Utd2lkdGg9IjMiIHN0cm9rZT0iIzBhNTMyYyIgZmlsbC1ydWxlPSJldmVub2RkIiBmaWxsPSIjMGE1MzJjIj48L3BhdGg+PC9zdmc+");
-            background-repeat: no-repeat;
-            background-position: center;
-	
-    transform: translateY(-50%) rotate(0deg); /* Sets the starting rotation */
-    transition: transform 0.3s ease-in-out; /* This makes the rotation smooth! */
-}
-
-details[open] > summary::before {
-    transform: translateY(-50%) rotate(450deg); /* Rotates the icon 90 degrees */
-}
-
-details::details-content {
-    font-size: var(--yck-step-0);
-    padding-left: 1.5rem;
-    height:  0;
-    transition:
-        height 1s cubic-bezier(0.390, 0.575, 0.565, 1.000),
-        content-visibility 1s cubic-bezier(0.390, 0.575, 0.565, 1.000);
-    transition-behavior: allow-discrete;
-}
-
-details[open]::details-content {
-    height: auto;
-}
-
-.fade-in {
-    -webkit-animation: fade-in 1.2s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
-    animation: fade-in 1s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
-}
-
-/**
- * ----------------------------------------
- * animation fade-in
- * ----------------------------------------
- */
-@-webkit-keyframes fade-in {
-    0% {
+@keyframes fade-in-bottom {
+    from {
         opacity: 0;
+        transform: translateY(10vh);
     }
 
-    100% {
+    to {
         opacity: 1;
+        transform: translateY(0);
     }
 }
 
-@keyframes fade-in {
-    0% {
-        opacity: 0;
-    }
-
-    100% {
-        opacity: 1;
-    }
-}
-
-@-webkit-keyframes fade-out {
-    0% {
-        opacity: 1;
-    }
-
-    100% {
-        opacity: 0;
-    }
-}
-
-@keyframes fade-out {
-    0% {
-        opacity: 1;
-    }
-
-    100% {
-        opacity: 0;
-    }
-}
-	
 .masthead {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: flex-start;
     flex-direction: column;
     text-align: left;
     width: 100%;
     min-width: 500px;
-    height: 75vh;
+    height: 80vh;
     /* if you don't want it to take up the full screen, reduce this number */
     overflow: hidden;
     background-size: cover !important;
@@ -555,7 +557,7 @@ details[open]::details-content {
 }
 
 #schsongbg {
-    background: linear-gradient(to left, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0.6) 37%, rgba(255, 255, 255, 0.45) 60%, rgba(255, 255, 255, 0.85) 80%, rgba(255, 255, 255, 1) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Story/School%20Song/Sch_SongBG.png) no-repeat center center scroll;
+    background: linear-gradient(to left, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0.6) 37%, rgba(255, 255, 255, 0.45) 60%, rgba(255, 255, 255, 0.85) 80%, rgba(255, 255, 255, 1) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Story/School%20Song/Sch_SongBG.png) no-repeat center top scroll;
 }
 
 .masthead h2 {
@@ -565,15 +567,6 @@ details[open]::details-content {
     letter-spacing: 0.03em;
     font-size: var(--yck-step-4);
     text-shadow: 1px 2px 4px rgba(24, 24, 24, 0.5);
-}
-
-.masthead p {
-    font-style: normal;
-    font-weight: 500;
-    color: #444;
-    font-size: var(--yck-step-2);
-    letter-spacing: 0.03em;
-    line-height: 1.5;
-    text-shadow: 1px 2px 2px rgba(24, 24, 24, 0.25);
+    padding-top: 0;
 }
 </style>
