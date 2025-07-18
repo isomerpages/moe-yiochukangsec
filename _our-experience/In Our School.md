@@ -4,14 +4,17 @@ permalink: /our-experience/In-Our-School/
 description: ""
 variant: markdown
 ---
+
 <div class="yck-component">
     <h1>In Our School</h1>
     <p>YCKSS provides students with a rich range of activities outside the classroom to expose,
         engage and enrich students’ experiences in the school. Here are some of the activities that students look forward to. To find out more details of each activity,
-        please go to <a href="/our-experience/the-horizon-newsletter/">The Horizon (Our Newsletter)</a>and also our <a target="_blank" href="https://www.facebook.com/yiochukangsec">YCKSS Facebook</a>and <a target="_blank" href="https://www.instagram.com/yiochukang_sec/">Instagram</a>for the latest updates. </p>
+        please go to <a href="/our-experience/the-horizon-newsletter/">The Horizon (Our Newsletter)</a> and also our <a target="_blank" href="https://www.facebook.com/yiochukangsec">YCKSS Facebook</a> and <a target="_blank" href="https://www.instagram.com/yiochukang_sec/">Instagram</a> for the latest updates. </p>
 </div>
 <div class="yck-component">
-    <h2>Level Camps</h2><img alt="Students engaged in activities during the Level Camp" src="/media/images/level-camp.jpg">
+    <h2>Level Camps</h2>
+	<figure class="ken-burns-container"><img alt="Students engaged in activities during the Level Camp" src="/images/Our%20Experience/In%20Our%20School/LevelCamp2025.jpg" class="ken-burns-image">
+		</figure>
     <p>The Level Camps aim to bond the Form Teachers and the class through out of classroom experiences. Held over 2–3 days,
         the camps create a common experience for all students,
         and strengthen school’s identity and belonging. They also build positive Teacher‑Student Relationship. Through these activities,
@@ -19,14 +22,17 @@ variant: markdown
 </div>
 <hr>
 <div class="yck-component">
-    <h2>Health Fiesta Week and Sports Carnival</h2><img alt="YCKSS Sports Carnival 2023" src="/media/images/sports-carnival-2023.jpg">
+    <h2>Health Fiesta Week and Sports Carnival</h2>
     <p>Health Fiesta,
         which culminates in Sports Carnival Day,
         is a week‑long event that is much anticipated by the students. It enhances students’ engagement in physical robustness and healthy lifestyle through a variety of fun and simple activities. There is no better medium than Sports to enhance social cohesion and interaction for students from all levels to interact. </p>
+	<div class="video-container">
+		<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/_xV05iVB5Yk?si=GEB8WjDn1szyTe1J" height="315" width="560"></iframe>
+	</div>
 </div>
 <hr>
 <div class="yck-component">
-    <h2>Showtime</h2><img alt="It's Showtime at YCKSS" src="/media/images/showtime.jpg">
+    <h2>Showtime</h2><img alt="It's Showtime at YCKSS" src="/images/showtime.jpg">
     <p>Showtime gives students an avenue for self‑expression because of the talents emerging from the school’s Arts,
         Media and Design Programme. Showtime provides a conducive space for students after school to entertain their peers,
         performing in an informal setting with full technical facilities. It is held twice a year,
@@ -182,6 +188,50 @@ hr {
     left: 0;
     width: 100%;
     height: 100%;
+}
+	
+.yck-component figure {
+    display: flex !important;
+    flex-flow: column !important;
+    max-width: 100%;
+    margin: auto !important;
+}
+
+.yck-component figure img {
+    border-radius: 8px;
+    box-shadow: var(--yck-box-shadow);
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component figcaption {
+    color: #333;
+    font: italic var(--yck-step--1) serif;
+    padding: 5px;
+    text-align: center;
+}
+
+.ken-burns-container {
+    max-width: 100%;
+    overflow: hidden;
+    position: relative;
+    border-radius: 8px;
+}
+
+.ken-burns-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    animation: kenBurns 35s ease-in-out infinite alternate;
+}
+
+@keyframes kenBurns {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.35);
+    }
 }
 
 @media (prefers-reduced-motion: reduce) {
