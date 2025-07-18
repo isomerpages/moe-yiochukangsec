@@ -4,7 +4,6 @@ permalink: /our-experience/In-Our-School/
 description: ""
 variant: markdown
 ---
-
 <div class="yck-component">
     <h1>In Our School</h1>
     <p>YCKSS provides students with a rich range of activities outside the classroom to expose,
@@ -56,9 +55,24 @@ variant: markdown
 <hr>
 <div class="yck-component">
     <h2>Singapore Youth Festival</h2>
-    <p>The <a target="_blank" href="https://www.syf.gov.sg/arts-presentation/about-the-arts-presentation">Singapore Youth Festival (SYF)</a>is an annual event <a target="_blank" href="https://www.moe.gov.sg/news/press-releases/20250321-singapore-youth-festival-2025-students-to-showcase-aspirations-for-our-nations-future-through-diverse-art-forms">organised by the Ministry of Education</a>to celebrate the vitality of our youth and their diverse artistic talents. Our performing arts groups are always excited to be a part of this celebration and though it entails many months of intense training and practices,
+		<figure class="ken-burns-container">
+		<img src="/images/Our%20Experience/In%20Our%20School/ChoirSYF2025.jpg" class="ken-burns-image">
+	</figure>
+		<figure class="ken-burns-container">
+		<img src="/images/Our%20Experience/In%20Our%20School/ConcertBandSYF2025.jpg" class="ken-burns-image">
+	</figure>
+		<figure class="ken-burns-container">
+		<img src="/images/Our%20Experience/In%20Our%20School/ChnDanceSYF2025.jpg" class="ken-burns-image">
+	</figure>
+		<figure class="ken-burns-container">
+		<img src="/images/Our%20Experience/In%20Our%20School/IndianDanceSYF2025.jpg" class="ken-burns-image">
+	</figure>
+		<figure class="ken-burns-container">
+		<img src="/images/Our%20Experience/In%20Our%20School/MlyDancerSYF2025.jpg" class="ken-burns-image">
+	</figure>
+    <p>The <a target="_blank" href="https://www.syf.gov.sg/arts-presentation/about-the-arts-presentation">Singapore Youth Festival (SYF)</a> is an annual event <a target="_blank" href="https://www.moe.gov.sg/news/press-releases/20250321-singapore-youth-festival-2025-students-to-showcase-aspirations-for-our-nations-future-through-diverse-art-forms">organised by the Ministry of Education</a> to celebrate the vitality of our youth and their diverse artistic talents. Our performing arts groups are always excited to be a part of this celebration and though it entails many months of intense training and practices,
         the students find it a joy to finally showcase their works of excellence. </p>
-    <p>Watch the highlights of their journey in the video or visit <a href="https://www.youtube.com/@yiochukangsecondaryschoolo9342">our official Youtube channel</a>for their full performances. </p>
+    <p>Watch the highlights of their journey in the video or visit <a href="https://www.youtube.com/@yiochukangsecondaryschoolo9342">our official Youtube channel</a> for their full performances. </p>
     <div class="video-container"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/8xYmUrqATb4?si=GYCSmdKhjXknE0Ip" height="315" width="560"></iframe></div>
 </div>
 <hr>
