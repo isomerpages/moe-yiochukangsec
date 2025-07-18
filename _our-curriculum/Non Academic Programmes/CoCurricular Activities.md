@@ -68,7 +68,7 @@ variant: markdown
         <li>Friendship and a sense of belonging</li>
         <li>Spirit of service to the community</li>
         <li>Knowledge, skills and values related to the students’ chosen CCA</li>
-        <li>Core values, social and emotional competencies, and the emerging 21st-century competencies as articulated in MOE’s 21st Century Competencies Framework</li>
+        <li>Core values, social and emotional competencies, and the emerging 21st-century competencies as articulated in <a target="_blank" href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies">MOE’s 21st Century Competencies Framework</a></li>
     </ul>
     <p>More specifically,</p>
     <ul>
