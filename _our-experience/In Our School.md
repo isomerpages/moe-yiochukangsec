@@ -47,7 +47,7 @@ variant: markdown
     <h2>Speech and Prize‑Giving Day</h2>
     <div class="video-container">
 			<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/xWxW7cRhwfM?si=WnKIMnhkggsrkzKp" height="315" width="560"></iframe></div>
-    <p>Our annual Speech and Prize Giving Day is a time to recognise the good work by the school and our graduating cohort of students. In addition,
+	<p>Our annual <a href="/yckss-60th-speech-and-prize-giving-day/">Speech and Prize Giving Day</a> is a time to recognise the good work by the school and our graduating cohort of students. In addition,
         it is also a celebration of our students’ talents as all the performing arts groups such as the <a href="/our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/">Dances</a>,
         <a href="/our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/">Choir</a>,
         <a href="/our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/">Band</a> and <a href="/our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/">Drama</a> will put up an <a target="_blank" href="https://youtu.be/Ztbsf0cNbQQ?si=JM352ScDkzir8m3r">amazing concert</a> that always leaves the audience asking for more. </p>
