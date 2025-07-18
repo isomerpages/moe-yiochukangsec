@@ -55,7 +55,7 @@ variant: markdown
 <hr>
 <div class="yck-component">
     <h2>Singapore Youth Festival</h2>
-	<div class="">
+	<div class="yck-img-array">
 		<figure class="ken-burns-container">
 		<img src="/images/Our%20Experience/In%20Our%20School/ChoirSYF2025.jpg" class="ken-burns-image">
 	</figure>
