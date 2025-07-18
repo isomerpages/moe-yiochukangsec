@@ -84,6 +84,7 @@ variant: markdown
         security and care are taken seriously. Security exercises and fire drills are conducted regularly so that staff and students can respond with confidence and calm in an emergency. </p>
 </div>
 
+
 <style>
 :root {
     --yck-text-line-height: 1.6em;
@@ -209,7 +210,7 @@ hr {
     width: 100%;
     height: 100%;
 }
-	
+
 .yck-component figure {
     display: flex !important;
     flex-flow: column !important;
@@ -254,6 +255,32 @@ hr {
     }
 }
 
+.yck-component .yck-img-array {
+
+    --yck-gap: 1em;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: var(--yck-gap);
+    padding: 0;
+    margin-block: var(--yck-spacing-unit);
+}
+
+.yck-component .yck-img-array>* {
+
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: calc((100% - var(--yck-gap)) / 4);
+    min-width: calc((100% - var(--yck-gap)) / 2);
+    list-style: none;
+}
+
+@media (max-width:1000px) {
+    .yck-component .yck-img-array>* {
+        flex-basis: 100%;
+    }
+}
+
 @media (prefers-reduced-motion: reduce) {
     * {
         animation-duration: 0.01ms !important;
@@ -261,4 +288,7 @@ hr {
         transition-duration: 0.01ms !important;
         scroll-behavior: auto !important;
     }
-}</style>
+}
+
+@supports (animation-timeline: view()) {}
+</style>
