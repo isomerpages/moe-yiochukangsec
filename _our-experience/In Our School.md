@@ -105,7 +105,6 @@ variant: markdown
     <p>Watch the highlights of their journey in the video or visit <a href="https://www.youtube.com/@yiochukangsecondaryschoolo9342">our
             official Youtube channel</a> for their full performances.
     </p>
-    <a aria-label="Back to top" class=".internal-back-to-top" href="#top">🔝</a>
     <div class="video-container">
         <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/8xYmUrqATb4?si=GYCSmdKhjXknE0Ip" height="315" width="560"></iframe>
     </div>
