@@ -7,6 +7,7 @@ variant: markdown
 <div class="yck-component">
     <p>The Internationalisation Programme in YCKSS aims to provide opportunities for our students to develop global perspectives through meaningful Overseas Immersion Programmes and Hosting Programmes.</p>
     <p>These programmes are specially designed with valuable opportunity to deepen our students’ cultural awareness, develop entrepreneurial and creative skills, and build meaningful friendships with their foreign counterparts. Through these experiences, we hope to develop in our students the 21st Century Competencies of global awareness, and cross-cultural skills and sensitivities, as well as strengthen their commitment and rootedness to Singapore.</p>
+	<p>To find out more details of each activity, please go to our <a target="_blank" href="https://www.facebook.com/yiochukangsec">YCKSS Facebook</a> or <a target="_blank" href="https://www.instagram.com/yiochukang_sec/">Instagram</a> for the latest updates.</p>
 </div>
 <div class="yck-component">
     <h4>YCKSS went to Jakarta and visited SMPK Penabur Gading Serpong.</h4>
@@ -102,6 +103,32 @@ img {
     text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
+}
+	
+.yck-component a {
+    text-decoration: none;
+    color: #e37f2a;
+    position: relative;
+    padding-bottom: 2px;
+}
+
+.yck-component a::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: currentColor;
+    transition: width 1s var(--yck-transition-timing);
+}
+
+.yck-component a:hover::after {
+    width: 100%;
+}
+
+.yck-component a:hover {
+    text-decoration: none;
 }
 
 .yck-component .yck-img-array {
