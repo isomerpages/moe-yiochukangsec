@@ -4,86 +4,123 @@ permalink: /our-experience/In-Our-School/
 description: ""
 variant: markdown
 ---
-<div class="yck-component">
+<div class="yck-component" id="top">
     <h1>In Our School</h1>
-    <p>YCKSS provides students with a rich range of activities outside the classroom to expose,
-        engage and enrich students’ experiences in the school. Here are some of the activities that students look forward to. To find out more details of each activity,
-        please go to <a href="/our-experience/the-horizon-newsletter/">The Horizon (Our Newsletter)</a> and also our <a target="_blank" href="https://www.facebook.com/yiochukangsec">YCKSS Facebook</a> and <a target="_blank" href="https://www.instagram.com/yiochukang_sec/">Instagram</a> for the latest updates. </p>
+    <p>
+        YCKSS provides students with a rich range of activities outside the classroom to expose, engage and enrich students’ experiences in the school. Here are some of the activities that students look forward to. To find out more details of each activity, please go to <a href="/our-experience/the-horizon-newsletter/">The Horizon (Our Newsletter)</a> and also our <a target="_blank" href="https://www.facebook.com/yiochukangsec">YCKSS Facebook</a> and <a target="_blank" href="https://www.instagram.com/yiochukang_sec/">Instagram</a> for the latest updates.
+    </p>
 </div>
 <div class="yck-component">
     <h2>Level Camps</h2>
-	<figure class="ken-burns-container"><img alt="Students engaged in activities during the Level Camp" src="/images/Our%20Experience/In%20Our%20School/LevelCamp2025.jpg" class="ken-burns-image">
-		</figure>
-    <p>The Level Camps aim to bond the Form Teachers and the class through out of classroom experiences. Held over 2–3 days,
-        the camps create a common experience for all students,
-        and strengthen school’s identity and belonging. They also build positive Teacher‑Student Relationship. Through these activities,
-        we help students discover the joy of learning. </p>
+    <div class="ken-burns-container">
+        <img alt="Students engaged in activities during the Level Camp" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Experience/In%20Our%20School/LevelCamp2025.jpg" class="ken-burns-image">
+    </div>
+    <p>
+        The Level Camps aim to bond the Form Teachers and the class through out
+        of classroom experiences. Held over 2-3 days,
+        the camps create a common experience for all students, and
+        strengthen school's identity and belonging. They also build positive
+        Teacher-Student Relationship. Through these activities, we help
+        students discover the joy of learning.
+    </p>
 </div>
 <hr>
 <div class="yck-component">
     <h2>Health Fiesta Week and Sports Carnival</h2>
-    <p>Health Fiesta,
-        which culminates in Sports Carnival Day,
-        is a week‑long event that is much anticipated by the students. It enhances students’ engagement in physical robustness and healthy lifestyle through a variety of fun and simple activities. There is no better medium than Sports to enhance social cohesion and interaction for students from all levels to interact. </p>
-	<div class="video-container">
-		<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/_xV05iVB5Yk?si=GEB8WjDn1szyTe1J" height="315" width="560"></iframe>
-	</div>
+    <div class="video-container">
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_xV05iVB5Yk?si=GEB8WjDn1szyTe1J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+    </div>
+    <p>
+        Health Fiesta, which culminates in Sports Carnival Day, is a
+        week‑long event that is much anticipated by the students. It
+        enhances students’ engagement in physical robustness and
+        healthy lifestyle through a variety of fun and simple
+        activities. There is no better medium than Sports to enhance
+        social cohesion and interaction for students from all levels
+        to interact.
+    </p>
 </div>
 <hr>
 <div class="yck-component">
     <h2>Showtime</h2>
-	<figure class="ken-burns-container">
-		<img alt="It's Showtime at YCKSS" src="/images/Our%20Experience/In%20Our%20School/S3.jpg" class="ken-burns-image">
-	</figure>
-    <p>Showtime gives students an avenue for self‑expression because of the talents emerging from the school’s Arts,
-        Media and Design Programme. Showtime provides a conducive space for students after school to entertain their peers,
-        performing in an informal setting with full technical facilities. It is held twice a year,
-        with one Showtime each semester. </p>
-    <p><a href="/downloads/Horizon_Issue2.pdf">Download Issue 2 of The Horizon &amp;
-            find out more about Showtime</a></p>
+    <div class="ken-burns-container">
+        <img alt="It's Showtime at YCKSS" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20School/S3.jpg">
+    </div>
+    <p>
+        Showtime gives students an avenue for self‑expression
+        because of the talents emerging from the school’s Arts,
+        Media and Design Programme. Showtime provides a conducive
+        space for students after school to entertain their peers,
+        performing in an informal setting with full technical
+        facilities. It is held twice a year, with one Showtime each
+        semester.
+    </p>
+    <p>
+        <a href="/downloads/Horizon_Issue2.pdf">Download Issue&nbsp;2 of The Horizon &amp; find out more
+            about Showtime</a>
+    </p>
 </div>
 <hr>
 <div class="yck-component">
     <h2>Speech and Prize‑Giving Day</h2>
     <div class="video-container">
-			<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/xWxW7cRhwfM?si=WnKIMnhkggsrkzKp" height="315" width="560"></iframe></div>
-	<p>Our annual <a href="/yckss-60th-speech-and-prize-giving-day/">Speech and Prize Giving Day</a> is a time to recognise the good work by the school and our graduating cohort of students. In addition,
-        it is also a celebration of our students’ talents as all the performing arts groups such as the <a href="/our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/">Dances</a>,
-        <a href="/our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/">Choir</a>,
-        <a href="/our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/">Band</a> and <a href="/our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/">Drama</a> will put up an <a target="_blank" href="https://youtu.be/Ztbsf0cNbQQ?si=JM352ScDkzir8m3r">amazing concert</a> that always leaves the audience asking for more. </p>
+        <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/xWxW7cRhwfM?si=WnKIMnhkggsrkzKp" height="315" width="560"></iframe>
+    </div>
+    <p>
+        Our annual <a target="_blank" href="https://www.yiochukangsec.moe.edu.sg/yckss-60th-speech-and-prize-giving-day/">Speech and Prize Giving Day</a> is a time to
+        recognise the good work by the school and our graduating
+        cohort of students. In addition, it is also a celebration of
+        our students’ talents as all the performing arts groups such
+        as the <a href="/our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/">Dances</a>, <a href="/our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/">Choir</a>, <a href="/our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/">Band</a> and <a href="/our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/">Drama</a> will put up an <a target="_blank" href="https://youtu.be/Ztbsf0cNbQQ?si=JM352ScDkzir8m3r">amazing concert</a> that always leaves the audience asking for more.
+    </p>
 </div>
 <hr>
 <div class="yck-component">
     <h2>Singapore Youth Festival</h2>
-	<div class="yck-img-array">
-		<figure class="ken-burns-container">
-		<img src="/images/Our%20Experience/In%20Our%20School/ChoirSYF2025.jpg" class="ken-burns-image">
-	</figure>
-		<figure class="ken-burns-container">
-		<img src="/images/Our%20Experience/In%20Our%20School/ConcertBandSYF2025.jpg" class="ken-burns-image">
-	</figure>
-		<figure class="ken-burns-container">
-		<img src="/images/Our%20Experience/In%20Our%20School/ChnDanceSYF2025.jpg" class="ken-burns-image">
-	</figure>
-		<figure class="ken-burns-container">
-		<img src="/images/Our%20Experience/In%20Our%20School/IndianDanceSYF2025.jpg" class="ken-burns-image">
-	</figure>
-		<figure class="ken-burns-container">
-		<img src="/images/Our%20Experience/In%20Our%20School/MlyDancerSYF2025.jpg" class="ken-burns-image">
-	</figure>
-	</div>
-    <p>The <a target="_blank" href="https://www.syf.gov.sg/arts-presentation/about-the-arts-presentation">Singapore Youth Festival (SYF)</a> is an annual event <a target="_blank" href="https://www.moe.gov.sg/news/press-releases/20250321-singapore-youth-festival-2025-students-to-showcase-aspirations-for-our-nations-future-through-diverse-art-forms">organised by the Ministry of Education</a> to celebrate the vitality of our youth and their diverse artistic talents. Our performing arts groups are always excited to be a part of this celebration and though it entails many months of intense training and practices,
-        the students find it a joy to finally showcase their works of excellence. </p>
-    <p>Watch the highlights of their journey in the video or visit <a href="https://www.youtube.com/@yiochukangsecondaryschoolo9342">our official Youtube channel</a> for their full performances. </p>
-    <div class="video-container"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/8xYmUrqATb4?si=GYCSmdKhjXknE0Ip" height="315" width="560"></iframe></div>
+    <div class="yck-img-array">
+        <div class="ken-burns-container">
+            <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Experience/In%20Our%20School/ChoirSYF2025.jpg" class="ken-burns-image">
+        </div>
+        <div class="ken-burns-container">
+            <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Experience/In%20Our%20School/ConcertBandSYF2025.jpg" class="ken-burns-image">
+        </div>
+        <div class="ken-burns-container">
+            <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Experience/In%20Our%20School/ChnDanceSYF2025.jpg" class="ken-burns-image">
+        </div>
+        <div class="ken-burns-container">
+            <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Experience/In%20Our%20School/IndianDanceSYF2025.jpg" class="ken-burns-image">
+        </div>
+        <div class="ken-burns-container">
+            <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Experience/In%20Our%20School/MlyDancerSYF2025.jpg" class="ken-burns-image">
+        </div>
+    </div>
+    <p>
+        The <a target="_blank" href="https://www.syf.gov.sg/arts-presentation/about-the-arts-presentation">Singapore Youth Festival (SYF)</a> is an annual event
+        <a target="_blank" href="https://www.moe.gov.sg/news/press-releases/20250321-singapore-youth-festival-2025-students-to-showcase-aspirations-for-our-nations-future-through-diverse-art-forms">organised by the Ministry of Education</a> to celebrate the
+        vitality of our youth and their diverse artistic talents.
+        Our performing arts groups are always excited to be a part
+        of this celebration and though it entails many months of
+        intense training and practices, the students find it a joy
+        to finally showcase their works of excellence. </p>
+    <p>Watch the highlights of their journey in the video or visit <a href="https://www.youtube.com/@yiochukangsecondaryschoolo9342">our
+            official Youtube channel</a> for their full performances.
+    </p>
+    <a aria-label="Back to top" class=".internal-back-to-top" href="#top">🔝</a>
+    <div class="video-container">
+        <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/8xYmUrqATb4?si=GYCSmdKhjXknE0Ip" height="315" width="560"></iframe>
+    </div>
 </div>
 <hr>
 <div class="yck-component">
     <h2>Safety and Security Exercises</h2>
-    <p>School safety,
-        security and care are taken seriously. Security exercises and fire drills are conducted regularly so that staff and students can respond with confidence and calm in an emergency. </p>
+    <p>
+        School safety, security and care are taken seriously.
+        Security exercises and fire drills are conducted regularly
+        so that staff and students can respond with confidence and
+        calm in an emergency.
+    </p>
 </div>
-
+<a aria-label="Back to top" class="back-to-top" href="#top">🔝</a>
 
 <style>
 :root {
@@ -121,6 +158,7 @@ img {
 }
 
 .yck-component {
+    position: relative;
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
     font-size: var(--yck-step-0);
@@ -211,24 +249,32 @@ hr {
     height: 100%;
 }
 
-.yck-component figure {
-    display: flex !important;
-    flex-flow: column !important;
-    max-width: 100%;
-    margin: auto !important;
+.yck-component .yck-img-array {
+
+    --yck-gap: 1em;
+    display: flex;
+    align-items: flex-start;
+    justify-items: flex-start;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: var(--yck-gap);
+    padding: 0;
+    margin-block: var(--yck-spacing-unit);
 }
 
-.yck-component figure img {
-    border-radius: 8px;
-    box-shadow: var(--yck-box-shadow);
-    margin-bottom: var(--yck-spacing-unit);
+.yck-component .yck-img-array>* {
+
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: calc((100% - var(--yck-gap)) / 6);
+    min-width: 240px;
+    list-style: none;
 }
 
-.yck-component figcaption {
-    color: #333;
-    font: italic var(--yck-step--1) serif;
-    padding: 5px;
-    text-align: center;
+@media (max-width:600px) {
+    .yck-component .yck-img-array>* {
+        flex-basis: auto;
+    }
 }
 
 .ken-burns-container {
@@ -255,32 +301,6 @@ hr {
     }
 }
 
-.yck-component .yck-img-array {
-
-    --yck-gap: 1em;
-    display: flex;
-    flex-wrap: wrap;
-    list-style: none;
-    gap: var(--yck-gap);
-    padding: 0;
-    margin-block: var(--yck-spacing-unit);
-}
-
-.yck-component .yck-img-array>* {
-
-    flex-grow: 1;
-    flex-shrink: 0;
-    flex-basis: calc((100% - var(--yck-gap)) / 4);
-    min-width: calc((100% - var(--yck-gap)) / 2);
-    list-style: none;
-}
-
-@media (max-width:1000px) {
-    .yck-component .yck-img-array>* {
-        flex-basis: 100%;
-    }
-}
-
 @media (prefers-reduced-motion: reduce) {
     * {
         animation-duration: 0.01ms !important;
@@ -290,5 +310,34 @@ hr {
     }
 }
 
-@supports (animation-timeline: view()) {}
+.back-to-top {
+    position: fixed;
+    bottom: var(--yck-space-s-xl);
+    right: calc(var(--yck-space-s-xl) *5);
+    width: 3.5rem;
+    height: 3.5rem;
+    border-radius: 50%;
+    background: #e37f2a;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    user-select: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: var(--yck-step-4);
+    text-align: center;
+    z-index: 1000;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-decoration: none !important;
+    transition: background-color 0.8s, transform 0.8s, box-shadow 0.8s, border 0.8s;
+}
+
+.back-to-top:hover {
+    background: #e7a88a;
+    transform: scale(1.1);
+    box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.6);
+    border: 3px solid #e37f2a;
+    text-decoration: none !important;
+}
 </style>
