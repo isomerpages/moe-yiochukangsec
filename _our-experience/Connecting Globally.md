@@ -7,38 +7,37 @@ variant: markdown
 <div class="yck-component">
     <p>The Internationalisation Programme in YCKSS aims to provide opportunities for our students to develop global perspectives through meaningful Overseas Immersion Programmes and Hosting Programmes.</p>
     <p>These programmes are specially designed with valuable opportunity to deepen our students’ cultural awareness, develop entrepreneurial and creative skills, and build meaningful friendships with their foreign counterparts. Through these experiences, we hope to develop in our students the 21st Century Competencies of global awareness, and cross-cultural skills and sensitivities, as well as strengthen their commitment and rootedness to Singapore.</p>
-    <p>To find out more details of each activity, please go to our <a target="_blank" href="https://www.facebook.com/yiochukangsec">YCKSS Facebook</a> and <a target="_blank" href="https://www.instagram.com/yiochukang_sec/">Instagram</a> for the latest updates.</p>
 </div>
 <div class="yck-component">
-    <h5>YCKSS went to Jakarta and visited SMPK Penabur Gading Serpong.</h5>
-    <div class="yck-flexbox-grid">
-        <figure class="ken-burns-container">
+    <h4>YCKSS went to Jakarta and visited SMPK Penabur Gading Serpong.</h4>
+    <div class="yck-img-array">
+        <div class="ken-burns-container">
             <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Experience/Connecting%20Globally/IMP2025_01.jpg" class="ken-burns-image">
-        </figure>
-        <figure class="ken-burns-container">
+        </div>
+        <div class="ken-burns-container">
             <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Experience/Connecting%20Globally/IMP2025_02.jpg" class="ken-burns-image">
-        </figure>
-        <figure class="ken-burns-container">
+        </div>
+        <div class="ken-burns-container">
             <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Experience/Connecting%20Globally/IMP2025_03.jpg" class="ken-burns-image">
-        </figure>
+        </div>
     </div>
-    <h5>YCKSS had the pleasure of hosting staff and students from SMPK Penabur Gading Serpong, Jakarta, Indonesia! 🎉</h5>
-    <figure class="ken-burns-container">
+    <h4>YCKSS had the pleasure of hosting staff and students from SMPK Penabur Gading Serpong, Jakarta, Indonesia! 🎉</h4>
+    <div class="ken-burns-container">
         <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Experience/Connecting%20Globally/IMP2025_04.jpg" class="ken-burns-image">
-    </figure>
-    <h5>YCKSS warmly welcomed staff and students from Kiangsu-Chekiang College (Kwai Chung), Hong Kong!</h5>
-    <div class="yck-flexbox-grid">
-        <figure class="ken-burns-container">
+    </div>
+    <h4>YCKSS warmly welcomed staff and students from Kiangsu-Chekiang College (Kwai Chung), Hong Kong!</h4>
+    <div class="yck-img-array">
+        <div class="ken-burns-container">
             <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Experience/Connecting%20Globally/IMP2025_05.jpg" class="ken-burns-image">
-        </figure>
-        <figure class="ken-burns-container">
+        </div>
+        <div class="ken-burns-container">
             <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Experience/Connecting%20Globally/IMP2025_06.jpg" class="ken-burns-image">
-        </figure>
+        </div>
     </div>
 </div>
 
 <style>
-    :root {
+:root {
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
@@ -72,18 +71,19 @@ img {
 }
 
 .yck-component {
+    position: relative;
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
     font-size: var(--yck-step-0);
     margin-bottom: var(--yck-space-s-xl);
 }
 
-.yck-component h5,
+.yck-component h4,
 .yck-component p {
     overflow-wrap: break-word;
 }
 
-.yck-component h5 {
+.yck-component h4 {
     text-wrap: balance;
 }
 
@@ -96,44 +96,20 @@ img {
     margin-bottom: var(--yck-space-s-xl);
 }
 
-.yck-component h5 {
-    font-size: var(--yck-step-1);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.25);
-    text-transform: uppercase;
+.yck-component h4 {
+    font-size: var(--yck-step-2);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+    text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.yck-component a {
-    text-decoration: none;
-    color: #e37f2a;
-    position: relative;
-    padding-bottom: 2px;
-}
-
-.yck-component a::after {
-    content: '';
-    position: absolute;
-    width: 0;
-    height: 2px;
-    bottom: 0;
-    left: 0;
-    background-color: currentColor;
-    transition: width 1s var(--yck-transition-timing);
-}
-
-.yck-component a:hover::after {
-    width: 100%;
-}
-
-.yck-component a:hover {
-    text-decoration: none;
-}
-
-.yck-component .yck-flexbox-grid {
+.yck-component .yck-img-array {
 
     --yck-gap: 1em;
     display: flex;
+    align-items: flex-start;
+    justify-items: flex-start;
     flex-wrap: wrap;
     list-style: none;
     gap: var(--yck-gap);
@@ -141,31 +117,19 @@ img {
     margin-block: var(--yck-spacing-unit);
 }
 
-.yck-component .yck-flexbox-grid>* {
+.yck-component .yck-img-array>* {
+
     flex-grow: 1;
     flex-shrink: 0;
-    flex-basis: calc((100% - var(--yck-gap)) / 4);
-    min-width: calc((100% - var(--yck-gap)) / 2);
+    flex-basis: calc((100% - var(--yck-gap)) / 6);
+    min-width: 240px;
     list-style: none;
 }
 
-@media (max-width:1000px) {
-    .yck-component .yck-flexbox-grid>* {
-        flex-basis: 100%;
+@media (max-width:600px) {
+    .yck-component .yck-img-array>* {
+        flex-basis: auto;
     }
-}
-
-.yck-component figure {
-    display: flex !important;
-    flex-flow: column !important;
-    max-width: 100%;
-    margin: auto !important;
-}
-
-.yck-component figure img {
-    border-radius: 8px;
-    box-shadow: var(--yck-box-shadow);
-    margin-bottom: var(--yck-spacing-unit);
 }
 
 .ken-burns-container {
