@@ -7,7 +7,7 @@ variant: markdown
 <div class="yck-component" id="top">
     <h1>In Our School</h1>
     <p>
-        YCKSS provides students with a rich range of activities outside the classroom to expose, engage and enrich students’ experiences in the school. Here are some of the activities that students look forward to. To find out more details of each activity, please go to <a href="/our-experience/the-horizon-newsletter/">The Horizon (Our Newsletter)</a> and also our <a target="_blank" href="https://www.facebook.com/yiochukangsec">YCKSS Facebook</a> and <a target="_blank" href="https://www.instagram.com/yiochukang_sec/">Instagram</a> for the latest updates.
+        YCKSS provides students with a rich range of activities outside the classroom to expose, engage and enrich students’ experiences in the school. Here are some of the activities that students look forward to. Please visit our <a target="_blank" href="https://www.facebook.com/yiochukangsec">YCKSS Facebook</a> and <a target="_blank" href="https://www.instagram.com/yiochukang_sec/">Instagram</a> for the more information.
     </p>
 </div>
 <div class="yck-component">
