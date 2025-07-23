@@ -41,7 +41,12 @@ links:
     collection: our-experience
   - title: Our Family
     collection: our-family
-  - title: Virtual Tour
-    url: https://4d.silvrcraft.com/yckss360vt/index.htm
-  - title: SSCWC 2024
-    url: https://www.yiochukangsec.moe.edu.sg/sscwc/sscwc2024/
+  - title: Our Experience
+    url: /permalink
+    sublinks:
+      - title: In Our School
+        url: /our-experience/in-our-school
+      - title: In Our Community
+        url: /our-experience/in-our-community/
+      - title: Connecting Globally
+        url: /our-experience/connecting-globally
