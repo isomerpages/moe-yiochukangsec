@@ -3,154 +3,163 @@ title: Parents Connect
 permalink: /our-family/Parents-Connect/Parents-Connect/
 description: ""
 third_nav_title: Parents Connect
+variant: markdown
 ---
-![](/images/Our%20Family/Parents%20Connect/Parents%20Connect/P1.jpg)
+<div class="yck-component">
+    <p>
+        At YCKSS, we engage parents through a series of Parent Engagement Sessions that address key topics and issues relevant to our students. Parents also participate actively in various school activities and events. These opportunities for involvement allow parents to connect with one another, share their experiences, and partner with the school in supporting the holistic development of their children.
+    </p>
+</div>
+<div class="yck-component">
+    <h3>Parent Engagement Sessions</h3>
+    <div class="yck-img-array">
+        <figure>
+            <img alt="Parent Engagement Sessions" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Parents%20Connect/Parents%20Connect/01parentconnect2025.jpg">
+        </figure>
+        <figure>
+            <img alt="Parent Engagement Sessions" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Parents%20Connect/Parents%20Connect/02parentconnect2025.jpg">
+        </figure>
+    </div>
+</div>
+<div class="yck-component">
+    <h3>Our Parents Support Group supporting the Homecoming Carnival</h3>
+    <div class="yck-img-array">
+        <figure>
+            <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Parents%20Connect/Parents%20Connect/03parentconnect2025.jpg">
+        </figure>
+    </div>
+</div>
+<div class="yck-component">
+    <h3>Parents supporting programmes organised by the school</h3>
+    <div class="yck-img-array">
+        <figure>
+            <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Parents%20Connect/Parents%20Connect/parentconnectmasonry.jpg">
+        </figure>
+        <figure>
+            <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Parents%20Connect/Parents%20Connect/parentsconnectnonmason.jpg">
+        </figure>
+    </div>
+</div>
 
-**Parents Connect** plays the key enabling role of **connecting parents** with the **school**, their **child** and other **parents**.  
-  
-The goals of Parents Connect are as follows.  
-  
+<style>
+:root {
+    --yck-text-line-height: 1.6em;
+    --yck-heading-line-height: 1.2em;
+    --yck-heading-letter-spacing: -0.02em;
+    --yck-spacing-unit: 1em;
+    --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+    --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
 
-*   To build bridges for positive partnerships between the school, parents and alumni through organising meaningful activities and supporting school events.  
-    
-*   To offer a platform for parents to share unique skills and volunteer their time for their children whilst building friendships with other parents.  
-    
+    --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
+    --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
+    --yck-step-0: clamp(1.125rem, 1.125rem + 0vw, 1.125rem);
+    --yck-step-1: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem);
+    --yck-step-2: clamp(1.4238rem, 1.3556rem + 0.3412vw, 1.62rem);
+    --yck-step-3: clamp(1.6018rem, 1.4828rem + 0.5951vw, 1.944rem);
+    --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
+    --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
-  
-Parents of past and present students are still connected on Facebook – [YCKSS PSG](https://www.facebook.com/groups/641464419329743/). Parents may request to join the community.
+    --yck-space-s-xl: clamp(1rem, 0.2143rem + 3.9286vw, 3.5rem);
+    interpolate-size: allow-keywords;
+    scroll-behavior: smooth;
+    text-rendering: optimizeSpeed;
+}
 
-<ul class="jekyllcodex_accordion">
+body {
+    height: 100vh;
+}
 
-  <li>
+::selection {
+    text-shadow: none;
+    background: yellow;
+}
 
-    <input type="checkbox" id="accordion1">
+img {
+    vertical-align: middle;
+}
 
-    <label for="accordion1">Quotes</label>
+.yck-component {
+    position: relative;
+    line-height: var(--yck-text-line-height);
+    letter-spacing: normal;
+    font-size: var(--yck-step-0);
+    margin-bottom: var(--yck-space-s-xl);
+}
 
-    <div>
+.yck-component h3,
+.yck-component p {
+    overflow-wrap: break-word;
+}
 
-<p> To quote some members of Parents Connect.<br> 
-  
-“Being part of Parents Connect is a great way to connect with the school. It gave me the opportunity to be a part of my daughter’s life in school, and it allowed me to guide her through her academic choices. This wouldn’t be possible if I didn’t have the first hand information through the chit-chats and activities organised by Parents’ Connect.” <br> 
-  
-~ Eileen Quek<br> 
-  
-“I’m glad to have the opportunity to set a good example for my daughter with regards to volunteerism. She said this to me, “I’m proud of you, dad! I enjoyed my school days in YCKSS.” She is a happy student indeed and that is what every parent wants for their children.<br> 
-  
-~ Alfred Chua<br>  
-  
-“I gained the support from other parents through the Parents Connect network. I am better informed to support and guide my child. Leading by example as a parent, my involvement in the school sends a clear signal to my child as a form of deep concern and care for him.”<br>  
-  
-~ Cheng TY<br>
-			</p>
+.yck-component h3 {
+    text-wrap: balance;
+}
 
-    </div>
+.yck-component p {
+    text-wrap: pretty;
+    margin-bottom: var(--yck-spacing-unit);
+}
 
-</li>
-	<li>
+.yck-component p:last-child {
+    margin-bottom: var(--yck-space-s-xl);
+}
 
-    <input type="checkbox" id="accordion2">
+.yck-component h3 {
+    font-size: var(--yck-step-3);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.75);
+    text-transform: capitalize;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
 
-    <label for="accordion2">Resources for Parents</label>
 
-    <div>
+.yck-component .yck-img-array {
 
-      <p> <b>Supporting Your Child through the Release of the GCE Examination Results and in making Decisions on the Next Step</b><br>
+    --yck-gap: 1em;
+    display: flex;
+    align-items: flex-start;
+    justify-items: flex-start;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: var(--yck-gap);
+    padding: 0;
+    margin-block: var(--yck-spacing-unit);
+}
 
-  
+.yck-component .yck-img-array>* {
 
-Dear parents,<br>  
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: calc((100% - var(--yck-gap)) / 6);
+    min-width: 240px;
+    list-style: none;
+}
 
-  
+@media (max-width:600px) {
+    .yck-component .yck-img-array>* {
+        flex-basis: auto;
+    }
+}
 
-Your child will be receiving his/her GCE Examination results soon.<br>
+.yck-component figure {
+    display: flex !important;
+    flex-flow: column !important;
+    max-width: 100%;
+    margin: auto !important;
+}
 
-  
+.yck-component figure img {
+    border-radius: 8px;
+    box-shadow: var(--yck-box-shadow);
+    margin-bottom: var(--yck-spacing-unit);
+}
 
-The social and emotional support we provide our children will help them learn to persevere and adapt positively to challenges. Assuring our children of our support is especially valuable and crucial during milestones such as results release, and when decisions about the next step need to be made.<br>
-
-  
-
-Here are some helpful tips and suggestions to convey your love and support to your child:<br>
-
-  
-
-1.    Celebrate your child’s efforts, no matter how big or small. Please refer to the web link below for a link to tips on praising our children effectively.<br>
-
-2.    Look out for out-of-character behaviours in your child. Please refer to this <a href="/files/Parents%20Connect/Resources%20for%20Parents/Parents%20Resource.pdf">Attachment</a>.<br>
-
-3.    Continue to have open conversations with your child to discuss his/her interests and choices.<br>
-
-4.    Go through the Education and Career Guidance resources which your child will receive through his/her school and the MySkillsFuture student portal for more information on schools, courses and career options.<br> 
-
-  
-
-For more resources on providing social and emotional support, affirming our children, and supporting your child through transitions,  please refer to the web link below.<br>
-
-  <a href="https://go.gov.sg/sel-res-for-parentshttps://www.myskillsfuture.sg/content/student/en/secondary.html">https://go.gov.sg/sel-res-for-parentshttps://www.myskillsfuture.sg/content/student/en/secondary.html</a>
-
-</p>
-
-    </div>
-
-</li>
-	
-<li>
-
-    <input type="checkbox" id="accordion3">
-
-    <label for="accordion3">Useful Links</label>
-
-    <div>
-
-<p> <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-hmcn{background-color:#FFF;color:#1E87F0;text-align:center;vertical-align:top}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
+}
 </style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-f4yw"><img src="/images/Our%20Family/Parents%20Connect/Useful%20Links/U1.png" alt="Schoolbag.png" width="193" height="59"></th>
-    <th class="tg-f4yw"><img src="/images/Our%20Family/Parents%20Connect/Useful%20Links/U2.jpg" alt="MOE.jpg" width="204" height="67"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-f4yw"><img src="/images/Our%20Family/Parents%20Connect/Useful%20Links/U3.jpg" alt="logo_myskillsfuture.jpg" width="193" height="79"></td>
-    <td class="tg-hmcn"><a href="/files/Parents%20Connect/Useful%20Links/Holiday%20Care%20Pack%20Secondary%20Edition.pdf"><span style="text-decoration:none;color:#1E87F0">Holiday Care Pack Secondary Edition</span></a> </td>
-  </tr>
-</tbody>
-</table>
-			</p>
-
-    </div>
-
-</li>
-	
-<li>
-
-    <input type="checkbox" id="accordion4">
-
-    <label for="accordion4">Events</label>
-
-    <div>
-
-<p> <b>Chit Chat with Heads of Departments</b><br>   
-A series of morning chit chat sessions that brings together the stakeholders of the school. Every session is a platform for parents to discover a different area of school life ranging from academic and non-academic programmes to discussing about post-secondary pathways.<br><br>
-	
-<img style="width:100%;height:50%" src="/images/Our%20Family/Parents%20Connect/Events/E1.png">
-			</p>
-
-  </div>
-
-</li>
-	
-	
-
-	
-</ul>
