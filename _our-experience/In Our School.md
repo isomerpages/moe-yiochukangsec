@@ -52,7 +52,7 @@ variant: markdown
         Media and Design Programme. Ear Time provides a conducive
         space for students after school to entertain their peers,
         performing in an informal setting with full technical
-        facilities. It is held twice a year, with one Showtime each
+        facilities. It is held twice a year, with one Ear Time each
         semester.
     </p>
 </div>
