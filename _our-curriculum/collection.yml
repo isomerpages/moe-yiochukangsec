@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Non Academic Programmes.md
       - Academic Programmes.md
       - Full Subject Based Banding.md
       - Distinctive Programmes/.keep
