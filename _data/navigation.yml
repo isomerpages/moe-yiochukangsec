@@ -50,3 +50,12 @@ links:
         url: /our-experience/in-our-community/
       - title: Connecting Globally
         url: /our-experience/connecting-globally
+  - title: Our Curriculum
+    url: /our-curriculum/Full-Subject-Based-Banding/
+    sublinks:
+      - title: Distinctive Programmes
+        url: /our-curriculum/distinctive-programmes/
+      - title: Academic Programmes
+        url: /our-curriculum/academic-programmes
+      - title: Non-Academic Programmes
+        url: /our-curriculum/non-acad
