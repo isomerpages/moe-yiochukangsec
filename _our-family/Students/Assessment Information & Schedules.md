@@ -17,19 +17,19 @@ on 5 Feb 2025)</p>
 <h4><strong>Weighted Assessment 2025 (Term 3)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Students/Assessment Information Sche/Secondary_1A_B_C_Weighted_Assessment_Term_3__Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 1 A B C Schedule &amp; Subject information</a>
+<p><a href="/files/Students/Assessment Information Sche/Secondary_1A_B_C_Weighted_Assessment_Term_3__Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 1 A B C Schedule information</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Students/Assessment Information Sche/Secondary_1D_E_F_Weighted_Assessment_Term_3__Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 1 D E F Schedule &amp; Subject information</a>
+<p><a href="/files/Students/Assessment Information Sche/Secondary_1D_E_F_Weighted_Assessment_Term_3__Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 1 D E F Schedule information</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Students/Assessment Information Sche/Secondary_2A_B_C_Weighted_Assessment_Term3__Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 2 A B C Schedule &amp; Subject information</a>
+<p><a href="/files/Students/Assessment Information Sche/Secondary_2A_B_C_Weighted_Assessment_Term3__Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 2 A B C Schedule information</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Students/Assessment Information Sche/Secondary_2D_E_F_Weighted_Assessment_Term3__Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 2 D E F Schedule &amp; Subject information</a>
+<p><a href="/files/Students/Assessment Information Sche/Secondary_2D_E_F_Weighted_Assessment_Term3__Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 2 D E F Schedule information</a>
 </p>
 </li>
 <li>
