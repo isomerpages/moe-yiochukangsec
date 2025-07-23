@@ -42,22 +42,18 @@ variant: markdown
 </div>
 <hr>
 <div class="yck-component">
-    <h2>Showtime</h2>
+    <h2>Ear Time</h2>
     <div class="ken-burns-container">
-        <img alt="It's Showtime at YCKSS" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20School/S3.jpg">
+        <img alt="It's Ear Time at YCKSS" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20School/S3.jpg">
     </div>
     <p>
-        Showtime gives students an avenue for self‑expression
+        Ear Time gives students an avenue for self‑expression
         because of the talents emerging from the school’s Arts,
-        Media and Design Programme. Showtime provides a conducive
+        Media and Design Programme. Ear Time provides a conducive
         space for students after school to entertain their peers,
         performing in an informal setting with full technical
         facilities. It is held twice a year, with one Showtime each
         semester.
-    </p>
-    <p>
-        <a href="/downloads/Horizon_Issue2.pdf">Download Issue&nbsp;2 of The Horizon &amp; find out more
-            about Showtime</a>
     </p>
 </div>
 <hr>
