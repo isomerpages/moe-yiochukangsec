@@ -43,17 +43,17 @@ image: /images/YCKLogo.svg
 </div>
 <hr>
 <div class="yck-component">
-    <h2>EarTime!</h2>
+	<h2><em>Ear<sup>Candy</sup>! </em></h2>
     <div class="ken-burns-container">
-        <img alt="It's EarTime! at YCKSS" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20School/S3.jpg">
+        <img alt="It's EarCandy! time at YCKSS" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20School/S3.jpg">
     </div>
     <p>
-        Ear Time gives students an avenue for self‑expression
-        because of the talents emerging from the school’s Arts,
-        Media and Design Programme. Ear Time provides a conducive
+			<em>Ear<sup>Candy</sup>! </em> gives students an avenue for self‑expression
+        because of the talents emerging from the school’s <a href="/our-curriculum/distinctive-programmes/learning-for-life-programmes/">Arts,
+			Media and Design Programme</a>.  <em>Ear<sup>Candy</sup>! </em> provides a conducive
         space for students after school to entertain their peers,
         performing in an informal setting with full technical
-        facilities. It is held twice a year, with one EarTime! each
+			facilities. It is held twice a year, with one <em>Ear<sup>Candy</sup>! </em>each
         semester.
     </p>
 </div>
