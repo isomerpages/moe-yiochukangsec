@@ -2,4 +2,5 @@ collections:
   landing-pages:
     output: true
     order:
+      - Our Curriculum.md
       - Distinctive Programmes.md
