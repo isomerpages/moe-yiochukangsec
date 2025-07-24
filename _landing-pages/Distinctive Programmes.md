@@ -197,7 +197,7 @@ image: /images/YCKLogo.svg
     font-style: normal;
     font-weight: bold;
     color: #eee !important;
-    font-size: 5.7vmin;
+    font-size: var(--yck-step-4);
     letter-spacing: 0.03em;
     line-height: 1;
     text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.8);
