@@ -33,7 +33,7 @@ image: /images/YCKLogo.svg
     </a>
 </div>
 <div class="yck-component">
-    <a href="/fita/">
+    <a href="/our-curriculum/distinctive-programmes/fita/">
         <figure>
             <div class="masthead" id="distinct-fita">
                 <h2>From Ideas to Action (F.I.T.A.)</h2>
