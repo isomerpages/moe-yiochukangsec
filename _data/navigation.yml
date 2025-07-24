@@ -42,7 +42,7 @@ links:
   - title: Our Family
     collection: our-family
   - title: Our Experience
-    url: /our-experience/
+    url: /landing-pages/our-experience/
     sublinks:
       - title: In Our School
         url: /our-experience/in-our-school
