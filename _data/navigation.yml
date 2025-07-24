@@ -42,7 +42,7 @@ links:
   - title: Our Family
     collection: our-family
   - title: Our Experience
-    url: /landing-pages/our-experience/
+    url: /our-experience/
     sublinks:
       - title: In Our School
         url: /our-experience/in-our-school
@@ -50,12 +50,3 @@ links:
         url: /our-experience/in-our-community/
       - title: Connecting Globally
         url: /our-experience/connecting-globally
-  - title: Our Curriculum
-    url: /our-curriculum/Full-Subject-Based-Banding/
-    sublinks:
-      - title: Distinctive Programmes
-        url: /distinctive-programmes/
-      - title: Academic Programmes
-        url: /Academic-Programmes/
-      - title: Non-Academic Programmes
-        url: /Non-Academic-Programmes/
