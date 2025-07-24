@@ -2,7 +2,6 @@ collections:
   our-experience:
     output: true
     order:
-      - Our Experience.md
       - In Our School.md
       - In Our Community.md
       - Connecting Globally.md
