@@ -2,6 +2,7 @@ collections:
   landing-pages:
     output: true
     order:
+      - Academic Programmes.md
       - Distinctive Programmes.md
       - Our Experience.md
       - Our Curriculum.md
