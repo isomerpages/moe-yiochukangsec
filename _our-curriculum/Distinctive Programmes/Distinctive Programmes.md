@@ -159,18 +159,18 @@ third_nav_title: Distinctive Programmes
 }
 
 #distinct-slii {
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 61%, rgba(0, 0, 0, 0.65) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/S1.jpg) no-repeat center center scroll;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 61%, rgba(0, 0, 0, 0.65) 100%), url(https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/S1.jpg) no-repeat center center scroll;
 }
 
 #distinct-fita {
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 100%, rgba(0, 0, 0, 0) 61%, rgba(0, 0, 0, 0.65) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/fita01.jpg) center center scroll;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 100%, rgba(0, 0, 0, 0) 61%, rgba(0, 0, 0, 0.65) 100%), url(https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Distinctive%20Programmes/fita01.jpg) no-repeat center center scroll;
 }
 
 .masthead h2 {
     font-style: normal;
     font-weight: bold;
     color: #eee !important;
-    font-size: 5.7vmin;
+    font-size: var(--yck-step-5);
     letter-spacing: 0.03em;
     line-height: 1;
     text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.8);
