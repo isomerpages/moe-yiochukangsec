@@ -1,4 +1,5 @@
 collections:
   archived-pages:
     output: true
-    order: []
+    order:
+      - The Horizon Newsletter (ARCHIVED).md
