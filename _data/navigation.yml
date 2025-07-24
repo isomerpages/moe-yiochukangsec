@@ -37,10 +37,6 @@ links:
         url: /cca/Uniformed-Groups/NPCC/
       - title: Red Cross Youth
         url: /cca/Uniformed-Groups/Red-Cross-Youth/
-  - title: Our Experience (OLD)
-    collection: our-experience
-  - title: Our Family
-    collection: our-family
   - title: Our Experience
     url: /our-experience/
     sublinks:
@@ -50,3 +46,7 @@ links:
         url: /our-experience/in-our-community/
       - title: Connecting Globally
         url: /our-experience/connecting-globally
+  - title: Our Experience (OLD)
+    collection: our-experience
+  - title: Our Family
+    collection: our-family
