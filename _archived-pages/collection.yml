@@ -2,5 +2,6 @@ collections:
   archived-pages:
     output: true
     order:
+      - The Horizon Issue 1 (Page 17).md
       - The Horizon Issue 1 (Page 15).md
       - The Horizon Newsletter (ARCHIVED).md
