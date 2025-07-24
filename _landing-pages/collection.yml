@@ -1,4 +1,5 @@
 collections:
   landing-pages:
     output: true
-    order: []
+    order:
+      - Distinctive Programmes.md
