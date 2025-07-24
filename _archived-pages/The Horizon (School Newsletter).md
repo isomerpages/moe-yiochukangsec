@@ -17,63 +17,10 @@ experience in school. You can also find this on our&nbsp;<a href="https://www.fa
 <p>Here's our latest edition of Horizon 2023. Read how our students and staff
 continue to adapt and adjust to the every changing environment through
 our various involvement in the school activities and events.</p>
-<p></p>
-<h4><a href="/files/The%20Horizon%20Newsletter/The_Horizon_Sem_2_2023_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">The Horizon Issue 10 (Jun - Dec 2023)</a></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Experience/The%20Horizon%20(newsletter)/the_horizon_sem_2_2023_issue_10.jpg">
 </div>
-	</div>
-<hr>
-<h4><strong>Journey Through 2020</strong></h4>
-<p>In 2020, in the year of COVID-19, instead of an e-newsletter, we decided
-to create a documentary to capture in film the rich narratives of different
-students and staff.</p>
-<p>Here are 3 videos that document the personal stories as we navigated this
-challenging yet meaningful journey together through the different stages
-in managing the disruption to learning.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lOQVsDo-_AI"></iframe>
-</div>
-<p><a href="https://www.youtube.com/watch?v=lOQVsDo-_AI" rel="noopener noreferrer nofollow" target="_blank">PART 1 - JANUARY TO MARCH<br>SCHOOL LIFE BEFORE&nbsp;HBL&nbsp;PERIOD.</a>
-</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mYRZgy5c-fs?si=TwxR5acvhZEMjrMY"></iframe>
-</div>
-<p><a href="https://www.youtube.com/watch?v=mYRZgy5c-fs&amp;feature=youtu.be" rel="noopener noreferrer nofollow" target="_blank">PART 2 - APRIL TO MAY<br>FULL HBL AND MAY SCHOOL HOLIDAYS</a>
-</p>
-<p></p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BDBEUba8dyc"></iframe>
-</div>
-<p><a href="https://youtu.be/BDBEUba8dyc" rel="noopener noreferrer nofollow" target="_blank">PART 3 - JUNE TO OCTOBER<br>SCHOOL RE-OPENS TO A NEW NORMAL</a>
-</p>
-<h3><strong>Additional Articles &amp; News Broadcast</strong></h3>
-<p>The first day of school re-opening on 2 June 2020, saw reporters from
-different news channels visiting the school.</p>
-<p>You can read the articles or watch the news broadcast via the links below.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://twitter.com/moesg/status/1267807153559007234?lang=en" rel="noopener noreferrer nofollow" target="_blank">MINISTRY OF EDUCATION</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.8world.com/news/singapore/article/singapore-covid-19-school-reopen-1150671?fbclid=IwAR0W4o5g-hJD0xwqvStdhjnBfx5AOTNY2Wye3-OPIzB379FV5JwfKnJgJ6w" rel="noopener noreferrer nofollow" target="_blank">8视界新闻新加坡 8WORLD NEWS</a>
-</p>
-</li>
-<li>
-<p><a href="https://mothership.sg/2020/06/schools-post-circuit-breaker/" rel="noopener noreferrer nofollow" target="_blank">MOTHERSHIP.SG</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.reuters.com/article/us-health-coronavirus-singapore-reopenin/schools-reopen-as-singapore-eases-lockdown-restrictions-idUSKBN2390G8" rel="noopener noreferrer nofollow" target="_blank">REUTERS</a>
-</p>
-</li>
-<li>
-<p><a href="https://sg.news.yahoo.com/schools-reopen-singapore-eases-lockdown-045107168.html" rel="noopener noreferrer nofollow" target="_blank">YAHOO! SINGAPORE</a>
-</p>
-</li>
-</ul>
+<div class="yck-component">
 <h3><strong>All Issues of The Horizon</strong></h3>
+	<div class="yck-flexbox-grid">
 <ul>
 <li>
 <p><a href="/files/The%20Horizon%20Newsletter/The_Horizon_Sem_2_2023_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">ISSUE 10 (JUNE - DEC 2023)</a> NEW!</p>
@@ -120,7 +67,8 @@ different news channels visiting the school.</p>
 </p>
 </li>
 </ul>
-<p></p>
+	</div>
+</div>
 
 <style>
 	:root {
