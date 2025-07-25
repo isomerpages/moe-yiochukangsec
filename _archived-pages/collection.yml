@@ -2,6 +2,7 @@ collections:
   archived-pages:
     output: true
     order:
+      - Events & Workshops.md
       - Parents Connect.md
       - Principal's Letters to Parents.md
       - The Horizon (School Newsletter).md
