@@ -11,7 +11,7 @@ image: /images/YCKLogo.svg
         YCKSS provides students with a rich range of activities outside the classroom to expose, engage and enrich students’ experiences in the school. Here are some of the activities that students look forward to. Please visit our <a target="_blank" href="https://www.facebook.com/yiochukangsec">YCKSS Facebook</a> and <a target="_blank" href="https://www.instagram.com/yiochukang_sec/">Instagram</a> for the more information.
     </p>
 </div>
-<div class="yck-component">
+<div class="yck-component" id="levelcamp">
     <h2>Level Camps</h2>
     <div class="ken-burns-container">
         <img alt="Students engaged in activities during the Level Camp" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Experience/In%20Our%20School/LevelCamp2025.jpg" class="ken-burns-image">
@@ -26,7 +26,7 @@ image: /images/YCKLogo.svg
     </p>
 </div>
 <hr>
-<div class="yck-component">
+<div class="yck-component" id="healthfiesta">
     <h2>Health Fiesta Week and Sports Carnival</h2>
     <div class="video-container">
         <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_xV05iVB5Yk?si=GEB8WjDn1szyTe1J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
@@ -42,7 +42,7 @@ image: /images/YCKLogo.svg
     </p>
 </div>
 <hr>
-<div class="yck-component">
+<div class="yck-component" id="earcandy">
 	<h2><em>Ear<sup>Candy</sup>! </em></h2>
     <div class="ken-burns-container">
         <img alt="It's EarCandy! time at YCKSS" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20School/S3.jpg">
@@ -58,7 +58,7 @@ image: /images/YCKLogo.svg
     </p>
 </div>
 <hr>
-<div class="yck-component">
+<div class="yck-component" id="speechday">
     <h2>Speech and Prize‑Giving Day</h2>
     <div class="video-container">
         <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/xWxW7cRhwfM?si=WnKIMnhkggsrkzKp" height="315" width="560"></iframe>
@@ -72,7 +72,7 @@ image: /images/YCKLogo.svg
     </p>
 </div>
 <hr>
-<div class="yck-component">
+<div class="yck-component" id="syf">
     <h2>Singapore Youth Festival</h2>
     <div class="yck-img-array">
         <div class="ken-burns-container">
@@ -107,7 +107,7 @@ image: /images/YCKLogo.svg
     </div>
 </div>
 <hr>
-<div class="yck-component">
+<div class="yck-component" id="safety">
     <h2>Safety and Security Exercises</h2>
     <p>
         School safety, security and care are taken seriously.
