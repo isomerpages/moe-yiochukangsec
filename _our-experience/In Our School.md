@@ -49,7 +49,7 @@ image: /images/YCKLogo.svg
     </div>
     <p>
 			<em>Ear<sup>Candy</sup>! </em> gives students an avenue for self‑expression
-        because of the talents emerging from the school’s <a href="/our-curriculum/distinctive-programmes/learning-for-life-programmes/">Arts,
+        because of the talents emerging from the school’s <a href="/our-curriculum/distinctive-programmes/learning-for-life-programme/">Arts,
 			Media and Design Programme</a>.  <em>Ear<sup>Candy</sup>! </em> provides a conducive
         space for students after school to entertain their peers,
         performing in an informal setting with full technical
