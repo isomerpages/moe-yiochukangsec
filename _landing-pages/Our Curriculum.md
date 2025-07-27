@@ -79,6 +79,7 @@ image: /images/YCKLogo.svg
 	</div>
 	<hr>
 	<h2>Tabs for Distinctive Programmes, Academic Programmes and Non-Academic Programmes.</h2>
+	<div class="yck-flexbox-grid">
 	<details>
 		<summary>Distintinctive Programmes</summary>
 		<ul>
@@ -100,6 +101,7 @@ image: /images/YCKLogo.svg
 		<li>Items here ...</li>
 	</ul>
 	</details>
+	</div>
 
 <style>
 :root {
