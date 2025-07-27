@@ -683,7 +683,8 @@ summary::before {
     content: '+';
     position: absolute;
     font-size: var(--yck-step-2);
-    left: 0.7rem;/ top: 50%;
+    left: 0.7rem;
+	  top: 50%;
     transform: translateY(-50%) rotate(0deg);
     transition: transform 0.3s ease-in-out;
     color: #e37f2a;
@@ -696,7 +697,7 @@ details[open]>summary::before {
 
 details {
     transition: height 1s ease-in-out,
-        content-visibility: 1s ease-in-out;
+        content-visibility 1s ease-in-out;
     transition-behavior: allow-discrete;
 }
 
@@ -713,7 +714,8 @@ details[open] {
 }
 
 details>*:not(summary) {
-    padding: 0.5rem 1rem 1rem 2rem;/ animation: fade-in 1s ease-out 1s;
+    padding: 0.5rem 1rem 1rem 2rem;
+	animation: fade-in 1s ease-out 1s;
     animation-fill-mode: both;
 }
 
