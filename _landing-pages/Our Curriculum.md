@@ -715,7 +715,7 @@ details[open] {
 
 details>*:not(summary) {
     padding: 0.5rem 1rem 1rem 2rem;
-	animation: fade-in 1s ease-out 1s;
+	animation: fade-in 0.4s ease-out 0.4s;
     animation-fill-mode: both;
 }
 
