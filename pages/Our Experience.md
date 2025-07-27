@@ -5,31 +5,45 @@ variant: markdown
 description: ""
 image: /images/YCKLogo.svg
 ---
+
 <div class="yck-component">
-    <div class="col3-container">
-        <div class="column">
-            <div class="yck-h3">In Our School</div>
-            <ul>
-                <li><a href="/our-experience/in-our-school/#levelcamp">Level Camps</a></li>
-                <li><a href="/our-experience/in-our-school/#healthfiesta">Health Fiesta</a></li>
-                <li><a href="/our-experience/in-our-school/#earcandy"><em>Ear<sup>Candy</sup>! </em></a></li>
-                <li><a href="/our-experience/in-our-school/#speechday">Speech and Prize Giving Day</a></li>
-                <li><a href="/our-experience/in-our-school/#syf">Singapore Youth Festival (SYF)</a></li>
-            </ul>
+    <div class="isomer-card-grid">
+        <div class="isomer-card">
+            <div class="isomer-card-body">
+                <div class="isomer-card-title">In Our School</div>
+                <div class="isomer-card-description">
+                    <ul>
+                        <li><a href="/our-experience/in-our-school/#levelcamp">Level Camps</a></li>
+                        <li><a href="/our-experience/in-our-school/#healthfiesta">Health Fiesta</a></li>
+                        <li><a href="/our-experience/in-our-school/#earcandy"><em>Ear<sup>Candy</sup>! </em></a></li>
+                        <li><a href="/our-experience/in-our-school/#speechday">Speech and Prize Giving Day</a></li>
+                        <li><a href="/our-experience/in-our-school/#syf">Singapore Youth Festival (SYF)</a></li>
+                    </ul>
+                </div>
+            </div>
         </div>
-        <div class="column">
-            <div class="yck-h3">In Our Community</div>
-            <ul>
-                <li><a href="/our-experience/in-our-community/#natday2023">National Day Parade 2023 - Onward as One</a></li>
-                <li><a href="/our-experience/in-our-community/#commevents">Community Events</a></li> <li><a href="/our-experience/in-our-community/#clusterevents">Cluster Events</a></li>
-            </ul>
+        <div class="isomer-card">
+            <div class="isomer-card-body">
+                <div class="isomer-card-title">In Our Community</div>
+                <div class="isomer-card-description">
+                    <ul>
+                        <li><a href="/our-experience/in-our-community/#natday2023">National Day Parade 2023 - Onward as One</a></li>
+                        <li><a href="/our-experience/in-our-community/#commevents">Community Events</a></li>
+                        <li><a href="/our-experience/in-our-community/#clusterevents">Cluster Events</a></li>
+                    </ul>
+                </div>
+            </div>
         </div>
-        <div class="column">
-            <div class="yck-h3">Connecting Globally</div>
-            <ul>
-                <li>Jakarta, Indonesia - SMPK Penabur Gading Serpong</li>
-                <li>Hong Kong - Kiangsu-Chekiang College (Kwai Chung)</li>
-            </ul>
+        <div class="isomer-card">
+            <div class="isomer-card-body">
+                <div class="isomer-card-title">Connecting Globally</div>
+                <div class="isomer-card-description">
+                    <ul>
+                        <li>Jakarta, Indonesia - SMPK Penabur Gading Serpong</li>
+                        <li>Hong Kong - Kiangsu-Chekiang College (Kwai Chung)</li>
+                    </ul>
+                </div>
+            </div>
         </div>
     </div>
 </div>
@@ -425,4 +439,89 @@ details>*:not(summary) {
         transform: translateY(0);
     }
 }
+	
+.yck-component .yck-flexbox-grid {
+
+    --yck-gap: 1em;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: var(--yck-gap);
+    padding: 0;
+    margin-block: var(--yck-spacing-unit);
+}
+
+.yck-component .yck-flexbox-grid>* {
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: calc((100% - var(--yck-gap)) / 4);
+    min-width: calc((100% - var(--yck-gap)) / 2);
+    list-style: none;
+}
+
+@media (max-width:1000px) {
+    .yck-component .yck-flexbox-grid>* {
+        flex-basis: 100%;
+    }
+}
+
+.yck-component .isomer-card {
+    text-decoration: none;
+    margin: 0 auto;
+    padding: 0;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: var(--yck-box-shadow);
+    overflow: hidden;
+    transition: transform 0.3s var(--yck-transition-timing), box-shadow 0.3s var(--yck-transition-timing);
+}
+
+.yck-component .isomer-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--yck-box-shadow);
+}
+
+.yck-component .isomer-card:hover .isomer-card-body .isomer-card-link {
+    color: #e37f2a;
+}
+
+.yck-component .isomer-card .isomer-card-image {
+    width: 100%;
+    object-fit: cover;
+}
+
+.yck-component .isomer-card .isomer-card-body {
+    padding: var(--yck-spacing-unit);
+}
+
+.yck-component .isomer-card .isomer-card-body .isomer-card-title {
+    color: #4a4a4a;
+    font-weight: 700;
+    font-size: var(--yck-step-1);
+    overflow-wrap: break-word;
+    text-wrap: balance;
+}
+
+.yck-component .isomer-card .isomer-card-body .isomer-card-description {
+    color: #484848;
+    font-size: var(--yck-step-0);
+}
+
+.yck-component .isomer-card .isomer-card-body .isomer-card-link {
+    font-size: var(--yck-step-0);
+    text-decoration: underline;
+    color: #e37f2a;
+    display: inline-block;
+    margin-top: 0.5rem;
+}
+
+.yck-component .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-description) {
+    margin-bottom: 0.75rem
+}
+
+.yck-component .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-link),
+.yck-component  .isomer-card .isomer-card-body .isomer-card-description:has(+.isomer-card-link) {
+    margin-bottom: 1.5rem
+}
+
 </style>
