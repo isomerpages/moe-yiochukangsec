@@ -5,42 +5,43 @@ variant: markdown
 description: ""
 image: /images/YCKLogo.svg
 ---
+<a href="/our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/">
 <div class="yck-component">
-    <a href="/our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/">
         <figure>
             <div class="masthead" id="distinct-alp">
                 <h2>Applied Learning Programme</h2>
             </div>
         </figure>
-    </a>
 </div>
-<div class="yck-component">
-    <a href="/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/">
+</a>
+<a href="/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/">
+	<div class="yck-component">    
         <figure>
             <div class="masthead" id="distinct-llp">
                 <h2>Learning for Life Programme</h2>
             </div>
         </figure>
-    </a>
+    
 </div>
+	</a>
+<a href="/our-curriculum/Distinctive-Programmes/Service-Learning-through-Issue-Investigation/">	
 <div class="yck-component">
-    <a href="/our-curriculum/Distinctive-Programmes/Service-Learning-through-Issue-Investigation/">
         <figure>
             <div class="masthead" id="distinct-slii">
                 <h2>Service Learning through Issue Investigation</h2>
             </div>
         </figure>
-    </a>
 </div>
+</a>
+<a href="/our-curriculum/distinctive-programmes/fita/">
 <div class="yck-component">
-    <a href="/our-curriculum/distinctive-programmes/fita/">
         <figure>
             <div class="masthead" id="distinct-fita">
                 <h2>From Ideas to Action (F.I.T.A.)</h2>
             </div>
         </figure>
-    </a>
 </div>
+</a>
 
 <style>
 :root {
@@ -202,6 +203,10 @@ hr {
     margin-top: 1.125em;
 }
 
+a, a:hover {
+	text-decoration: none !important;
+}
+	
 .yck-component a {
     text-decoration: none;
     color: #e37f2a;
@@ -806,5 +811,6 @@ details>*:not(summary) {
     text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.8);
     margin-bottom: 40px;
 	width: 26ch;
+	text-decoration: none !important;
 }
 </style>
