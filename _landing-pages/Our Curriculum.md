@@ -87,8 +87,19 @@ image: /images/YCKLogo.svg
 			<li><a href="/our-curriculum/distinctive-programmes/fita/">From Ideas to Action (F.I.T.A.)</a></li>
 			<li>Service Learning through Issue Investigation</li>
 		</ul>
-		
-
+		</details>
+		<details>
+	<summary>Academic Programmes</summary>
+	<ul>
+		<li>Items here ...</li>
+	</ul>
+	</details>
+<details>
+	<summary>Non-Academic Programmes</summary>
+	<ul>
+		<li>Items here ...</li>
+	</ul>
+	</details>
 
 <style>
 :root {
@@ -814,4 +825,4 @@ details>*:not(summary) {
         transform: translateY(0);
     }
 }
-	</style></details>
+	</style>
