@@ -140,6 +140,9 @@ image: /images/YCKLogo.svg
     interpolate-size: allow-keywords;
     scroll-behavior: smooth;
     text-rendering: optimizeSpeed;
+}
+
+body {
     height: 100vh;
 }
 
