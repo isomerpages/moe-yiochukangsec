@@ -152,8 +152,11 @@ variant: markdown
     interpolate-size: allow-keywords;
     scroll-behavior: smooth;
     text-rendering: optimizeSpeed;
-    height: 100vh;
 }
+	
+body {
+	min-height: 100vh;
+	}
 
 ::selection {
     text-shadow: none;
@@ -166,6 +169,20 @@ variant: markdown
     font-size: var(--yck-step-0);
     margin-bottom: var(--yck-space-s-xl);
 }
+	
+.yck-component abbr {
+    text-decoration: underline dotted #e37f2a;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+    color: #e37f2a;
+    font-weight: 500;
+    cursor: help;
+}
+
+.yck-component abbr:hover {
+    color: #efae5a;
+}
+
 
 .yck-component h2,
 .yck-component h3,
@@ -231,18 +248,20 @@ hr {
 }
 
 .yck-component a::after {
-    content: '';
+    content: ' ';
     position: absolute;
     width: 0;
     height: 2px;
     bottom: 0;
     left: 0;
     background-color: currentColor;
-    transition: width 1s var(--yck-transition-timing);
-}
+    transition: width 1s var(--yck-transition-timing),
+	color 2s var(--yck-transition-timing);
+	}
 
 .yck-component a:hover::after {
     width: 100%;
+	color: rgba(0, 122, 247, 0.25);
 }
 
 .yck-component a:hover {
