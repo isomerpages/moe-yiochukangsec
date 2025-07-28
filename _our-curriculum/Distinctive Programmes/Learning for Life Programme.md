@@ -166,12 +166,11 @@ This course aims to enhance students’ aesthetic learning experience by encoura
 <li>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">YCKSS&nbsp;EarTime!</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">YCKSS&nbsp;<em>Ear<sup>Candy</sup>!</em></label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<p> YCKSS EarTime! gives students the opportunity to showcase their talents and interest in the performing arts. In a casual and relaxed setting, students perform to their peers a variety of song and dance items ranging from K-Pop dance and rock band performances to solo dance and solo vocal rendition. </p>
+&nbsp;&nbsp;&nbsp;&nbsp;<p> YCKSS <em>Ear<sup>Candy</sup>!</em> gives students the opportunity to showcase their talents and interest in the performing arts. In a casual and relaxed setting, students perform to their peers a variety of song and dance items ranging from K-Pop dance and rock band performances to solo dance and solo vocal rendition. </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
