@@ -6,6 +6,24 @@ third_nav_title: Parents Connect
 variant: markdown
 ---
 <div class="yck-component">
+	<h2>Parent's Gateway App for iOS and Android</h2>
+	<div class="yck-img-array">
+		<div class="isomer-card-image">
+<img src="/images/Our%20Family/Parents%20Gateway/PGonPlayStore.png">
+</div>
+
+<div class="isomer-card-image">
+			<img src="/images/Our%20Family/Parents%20Gateway/PGonAppGallery.png">
+</div>
+		<div class="isomer-card-image">
+			<img src="/images/Our%20Family/Parents%20Gateway/PGoniOS.png">
+</div>
+		<div class="isomer-card-image">
+		</div>
+</div>
+	<p>Download “Parents Gateway” from the official app stores (Google Play, App Store or Huawei AppGallery) and ensure that the app developer is “Ministry of Education (Singapore)”.</p>
+</div>
+<div class="yck-component">
     <h3>On-boarding Video</h3>
     <div class="video-container">
         <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQAvAZsUSFHMUAicdB52CIgXZiAcV8GCPKruUFuhmD6iOZFuZcYXiRM4awFX2nXYmGKsv7wHqFVOr75/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
