@@ -15,6 +15,10 @@ image: /images/YCKLogo.svg
 <p>The story of Yio Chu Kang is one of constant evolution, marked by four major campus transformations that mirror the growth of our nation. Each chapter in this journey—from its humble origins in 1965, to its first major rebuilding in 1982, its modernization in 2001, and its most recent merger in 2018—is a testament to the school's resilience and its commitment to excellence.</p>
 
 <p>This spirit of adaptation has kept the school at the forefront of national education initiatives. In 2014, it became the second satellite school for Pathlight, an innovative partnership creating sustained opportunities for the academic and social integration of students with different learning abilities.</p>
+		
+<figure>
+	<img src="/images/Our%20Story/History/History/hist1new.PNG">
+		</figure>
 
 <p>The most recent transformation occurred in 2018 with the merger of Chong Boon Secondary School. This union honours the distinct heritage of both institutions while creating a new, unified identity. It powerfully demonstrates the school's agility and its capacity to evolve while remaining true to its founding ideals: <strong>Pursuit, Knowledge, and Service.</strong></p>
 
