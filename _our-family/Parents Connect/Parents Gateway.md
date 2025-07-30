@@ -8,15 +8,15 @@ variant: markdown
 <div class="yck-component">
 	<h2>Parent's Gateway App for iOS and Android</h2>
 	<div class="yck-img-array">
-		<div class="isomer-card-image">
-<img src="/images/Our%20Family/Parents%20Gateway/PGonPlayStore.png">
+		<div class="isomer-card-image"><a target="_blank" href="https://play.google.com/store/apps/details?id=com.moe.pgp">
+			<img src="/images/Our%20Family/Parents%20Gateway/PGonPlayStore.png"></a>
 </div>
 
-<div class="isomer-card-image">
-			<img src="/images/Our%20Family/Parents%20Gateway/PGonAppGallery.png">
+<div class="isomer-card-image"><a target="_blank" href="https://appgallery.huawei.com/app/C101325885">
+	<img src="/images/Our%20Family/Parents%20Gateway/PGonAppGallery.png"></a>
 </div>
-		<div class="isomer-card-image">
-			<img src="/images/Our%20Family/Parents%20Gateway/PGoniOS.png">
+		<div class="isomer-card-image"><a target="_blank" href="https://itunes.apple.com/sg/app/parents-gateway/id1267198708">
+			<img src="/images/Our%20Family/Parents%20Gateway/PGoniOS.png"></a>
 </div>
 		<div class="isomer-card-image">
 		</div>
