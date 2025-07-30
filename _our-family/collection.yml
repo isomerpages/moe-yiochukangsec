@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - Students/The YCKSians.md
       - Students/.keep
       - Students/School Handbook 2025.md
       - Students/Booklist.md
