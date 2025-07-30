@@ -6,6 +6,7 @@ third_nav_title: Parents Connect
 variant: markdown
 ---
 <div class="yck-component">
+	<div class="regular-flow">
 	<p>At YCKSS, we value working closely with parents to nurture our students’ holistic development and well-being. Parents can use the following official modes of communication with the school: </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <ul>
 	<li>Phone (General Office): 64560669</li>
@@ -23,6 +24,7 @@ variant: markdown
 <p>For urgent messages to teachers, please contact the school’s General Office, should the teachers be engaged and are uncontactable during school hours. Parents are encouraged to make appointments for face-to-face meetings with teachers by contacting the General Office to avoid
 	disruptions to teachers’ duties.</p>
 </div>
+	</div>
 
 <style>
 	:root {
