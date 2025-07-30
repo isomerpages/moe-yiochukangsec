@@ -17,10 +17,6 @@ variant: markdown
 		</div>
 	</details>
 	</ul>
-	
-<details><summary class="yck-h6">Click here for a map</summary>
-	<iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.663877410728!2d103.83943087590947!3d1.378344498608631!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da16c22ab68261%3A0xa45bab7e4ec2d880!2sYio%20Chu%20Kang%20Secondary%20School.!5e0!3m2!1sen!2ssg!4v1753904286989!5m2!1sen!2ssg"></iframe>
-	</details>
 
 <p>Our teachers are key to the culture of care that is pervasive in the school as they balance their time to engage parents with teaching lessons and the various other duties in school. We encourage parents to communicate and engage with teachers only during school hours <strong>(8am - 5pm), on working weekdays and during school terms.</strong> Teachers are not expected to respond to parents’ and students’ queries after school hours, during the weekends and school holidays. Teachers are also not expected to provide their personal mobile numbers to parents / students.</p>
 
