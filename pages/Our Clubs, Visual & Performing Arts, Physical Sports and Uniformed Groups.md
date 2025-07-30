@@ -115,6 +115,35 @@ image: /images/Our Curriculum/Non Academic Programmes/CoCurricular
         font-size: var(--yck-step-0);
         margin-bottom: var(--yck-space-s-xl);
     }
+		
+		.yck-component a {
+    text-decoration: none;
+    color: #e37f2a;
+    position: relative;
+    padding-bottom: 2px;
+}
+
+.yck-component a::after {
+    content: " ";
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: currentColor;
+    transition:
+        width 1s var(--yck-transition-timing),
+        color 1.2s ease-out;
+}
+
+.yck-component a:hover::after {
+    width: 100%;
+    color: rgba(0, 122, 247, 0.25);
+}
+
+.yck-component a:hover {
+    text-decoration: none;
+}
 
     .yck-component h2,
     .yck-component h4,
