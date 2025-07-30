@@ -8,7 +8,7 @@ third_nav_title: Parents Connect
 ---
 <div class="yck-component">
     <p>
-        At YCKSS, we engage parents through a series of Parent Engagement Sessions that address key topics and issues relevant to our students. Parents also participate actively in various school activities and events. These opportunities for involvement allow parents to connect with one another, share their experiences, and partner with the school in supporting the holistic development of their children.
+        At YCKSS, we engage parents through a series of <a href="/our-family/parents-connect/workshops-events/">Parent Engagement Sessions</a> that address key topics and issues relevant to our students. Parents also participate actively in various <a href="/our-experience/in-our-school/">school activities</a> and events. These opportunities for involvement allow parents to connect with one another, share their experiences, and partner with the school in supporting the holistic development of their children.
     </p>
 </div>
 <div class="yck-component">
