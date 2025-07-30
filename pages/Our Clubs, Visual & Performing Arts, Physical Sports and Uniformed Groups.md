@@ -68,7 +68,7 @@ image: /images/Our Curriculum/Non Academic Programmes/CoCurricular
         </div>
     </div>
 	
-	<style>
+<style>
     :root {
         --yck-text-line-height: 1.6em;
         --yck-heading-line-height: 1.2em;
