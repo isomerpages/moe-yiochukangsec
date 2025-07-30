@@ -6,20 +6,27 @@ third_nav_title: Parents Connect
 variant: markdown
 ---
 <div class="yck-component">
-	<h3>On-boarding Video</h3>
-	<div class="video-container">
-	<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQAvAZsUSFHMUAicdB52CIgXZiAcV8GCPKruUFuhmD6iOZFuZcYXiRM4awFX2nXYmGKsv7wHqFVOr75/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-	</div>
-</div>	
+    <h3>On-boarding Video</h3>
+    <div class="video-container">
+        <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQAvAZsUSFHMUAicdB52CIgXZiAcV8GCPKruUFuhmD6iOZFuZcYXiRM4awFX2nXYmGKsv7wHqFVOr75/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+    </div>
+</div>
 <div class="yck-component">
-	<div class="yck-img-array">
-		<figure>
-<img alt="" src="/images/Our Family/Parents Gateway/P1.png">
-<img alt="" src="/images/Our Family/Parents Gateway/P2.png">
-<img alt="" src="/images/Our Family/Parents Gateway/P3.png">
-<img alt="" src="/images/Our Family/Parents Gateway/P4.png">
-		</figure>
-	</div>
+    <div class="yck-img-array">
+        <div class="isomer-card">
+            <div class="isomer-card-body">
+                <div class="isomer-card-image">
+                    <img alt="" src="/images/Our Family/Parents Gateway/P1.png"> <div class="isomer-card-image">
+                    <img alt="" src="/images/Our Family/Parents Gateway/P2.png"></div>
+                <div class="isomer-card-image">
+                    <img alt="" src="/images/Our Family/Parents Gateway/P3.png">
+                </div>
+                <div class="isomer-card-image">
+                    <img alt="" src="/images/Our Family/Parents Gateway/P4.png">
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 
 <style>
@@ -675,4 +682,4 @@ details[open]::details-content {
         transform: translateY(0);
     }
 }
-</style>
+</style></div>
