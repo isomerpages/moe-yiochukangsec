@@ -8,7 +8,7 @@ image: /images/YCKLogo.svg
 <div class="yck-component">
 	<div class="regular-flow">
 		<h3>The Pioneer Spirit: The Story of Yio Chu Kang Secondary</h3>
-	<p>Born from the aspirations of a new nation, Yio Chu Kang Secondary School was founded in 1965, the 61st school established in a newly independent Singapore. Its creation was a direct response to personal requests from the farming community of Yio Chu Kang to their Prime Minister, Mr. Lee Kuan Yew, for a school to serve their children. Its original campus stood at the 11th milestone of Yio Chu Kang Road.</p>
+	<p>Born from the aspirations of a new nation, Yio Chu Kang Secondary School was founded in 1965, the 61st school established in a newly independent Singapore. Its creation was a direct response to personal requests from the farming community of Yio Chu Kang to their Prime Minister, Mr. Lee Kuan Yew, for a school to serve their children. Its original campus stood at the <a href="#see-footnote">11th milestone of Yio Chu Kang Road.</a></p>
 
 <p>Officially opened by then-Minister for Education Mr. Ong Pang Boon, the school began as an integrated English and Chinese-stream institution. This model was a critical nation-building strategy, designed to place multiple language streams under a single administration to foster social integration and underscore the importance of bilingualism.</p>
 
@@ -24,6 +24,23 @@ image: /images/YCKLogo.svg
 <p>Through five decades of profound change in Singapore's landscape, Yio Chu Kang Secondary School has not only survived but thrived, embodying the pioneer spirit of improving lives while skillfully adapting its programmes to meet the needs of every generation.</p></div>
 </div>
 </div>
+<hr>
+<div class="yck-component">
+                                <div class="isomer-card">
+                                    <div class="isomer-card-body">
+                                        <div class="isomer-card-description">
+                                            <div class="footnote" id="see-footnote">
+                                                <p>Footnote:<br>
+                                                    </p><ul>
+                                                        <li><a target="_blank" href="https://www.nas.gov.sg/archivesonline/photographs/record-details/2f8bda0c-1162-11e3-83d5-0050568939ad"><small><em>MINISTER FOR EDUCATION ONG PANG BOON ATTENDS OPENING OF YIO CHU KANG SECONDARY SCHOOL AT 10 MILESTONE, YIO CHU KANG ROAD</em></small></a></li>
+                                                        <li><a target="_blank" href="https://www.nas.gov.sg/archivesonline/photographs/record-details/c6e97133-1161-11e3-83d5-0050568939ad"><small><em>MINISTER FOR EDUCATION ONG PANG BOON BEING GREETED ON ARRIVAL FOR OPENING OF YIO CHU KANG SECONDARY SCHOOL AT 10 MILESTONE, YIO CHU KANG ROAD</em></small></a></li>
+                                                    </ul>
+                                                <p></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
 
 <style>
 	:root {
@@ -77,8 +94,8 @@ video {
     margin-bottom: var(--yck-space-s-xl);
     position: relative;
 }
-	
-	.yck-component h1,
+
+.yck-component h1,
 .yck-component h2,
 .yck-component h3,
 .yck-component h4,
@@ -96,7 +113,37 @@ video {
 .yck-component h6 {
     text-wrap: balance;
 }
-	
+
+.yck-component p,
+.yck-component ol,
+.yck-component ul {
+    text-wrap: pretty;
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component p:last-child,
+.yck-component ul li:last-child,
+.yck-component ol li:last-child {
+    margin-bottom: var(--yck-space-s-xl);
+}
+
+.yck-component .yck-h1,
+.yck-component h1 {
+    font-size: var(--yck-step-5);
+    margin-bottom: var(--yck-spacing-unit);
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
+
+.yck-component .yck-h2,
+.yck-component h2 {
+    font-size: var(--yck-step-4);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.85);
+    text-transform: capitalize;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
+
 .yck-component .yck-h3,
 .yck-component h3 {
     font-size: var(--yck-step-3);
@@ -114,34 +161,38 @@ video {
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
-	
-.yck-component p,
-.yck-component ol,
-.yck-component ul {
-    text-wrap: pretty;
-    margin-bottom: var(--yck-spacing-unit);
+
+.yck-component .yck-h5,
+.yck-component h5 {
+    font-size: var(--yck-step-1);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.25);
+    text-transform: uppercase;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.yck-component p:last-child,
-.yck-component ul li:last-child,
-.yck-component ol li:last-child {
-    margin-bottom: var(--yck-space-s-xl);
+.yck-component .yck-h6,
+.yck-component h6 {
+    font-size: var(--yck-step-0);
+    margin-bottom: var(--yck-spacing-unit);
+    text-transform: uppercase;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
 }
-	
-	.yck-component hr,
+
+.yck-component hr,
 hr {
     border: 1px dotted rgba(0, 0, 0, 0.25);
     margin-block: clamp(1rem, 2vw, 2.5rem);
 }
 
+.yck-component small,
+small {
+    font-size: var(--yck-step--2);
+}
+
 .yck-component .regular-flow > * + * {
     margin-top: 1.125em;
-}
-	
-.yck-component .bqcontainer {
-    margin: 0 auto;
-    padding: 0;
-    margin-bottom: var(--yck-space-s-xl) !important;
 }
 
 .yck-component a {
@@ -185,8 +236,286 @@ hr {
 .yck-component abbr:hover {
     color: #efae5a;
 }
-	
-	.yck-component figure {
+
+/* Table Styles */
+.yck-component .yck-table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 1000px;
+    margin-top: 0.5em;
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component .yck-th {
+    background-color: #f2f2f2;
+    text-align: left;
+    border-bottom: 1px dotted #ddd;
+    text-transform: uppercase;
+    padding: calc(var(--yck-spacing-unit) * 0.75);
+    font-weight: bold;
+    font-size: var(--yck-step-0);
+    letter-spacing: 0.05em;
+    vertical-align: top;
+}
+
+.yck-component .yck-th h4,
+.yck-component .yck-th h5,
+.yck-component .yck-th h6 {
+    margin: 0 0 0.5em;
+    text-wrap: balance;
+}
+
+.yck-component .yck-td {
+    border-bottom: 1px dotted #ddd;
+    min-width: 120px;
+    max-width: 100%;
+    word-wrap: break-word;
+    text-wrap: pretty;
+    padding: calc(var(--yck-spacing-unit) * 0.75);
+    vertical-align: top;
+}
+
+.yck-component .yck-table tbody .yck-td,
+.yck-component .yck-table tbody .yck-td p {
+    margin-top: 0;
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+    line-height: 1.5rem;
+    padding-bottom: 0.25em;
+    font-size: var(--yck-step-0);
+}
+
+.yck-component .yck-table tbody tr:last-child .yck-td:last-child,
+.yck-component .yck-table tbody tr:last-child .yck-td:last-child p:last-child {
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component .video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.yck-component .col-container,
+.yck-component .col3-container {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+
+    /* CSS Multi-column Layout properties */
+    column-count: 2;
+    column-width: 360px;
+    column-gap: 1.5em;
+}
+
+.yck-component .col3-container {
+    columns: 3;
+    column-width: 240px;
+    column-gap: 1.5em;
+    column-rule-style: dotted;
+    column-rule-width: 0.5px;
+    column-rule-color: rgba(170, 170, 170, 0.25);
+}
+
+.yck-component .isomer-card,
+.yck-component .column {
+    break-inside: avoid;
+    /* Prevents content from breaking across columns */
+    page-break-inside: avoid;
+    /* For older browsers */
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: var(--yck-box-shadow1);
+}
+
+.yck-component .column {
+    margin-bottom: var(--yck-spacing-unit) !important;
+}
+
+.yck-component .column ul,
+.yck-component .column ol {
+    list-style: none;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0;
+}
+
+.yck-component .column ul li {
+    margin-inline: 1em;
+    padding-left: 1rem;
+    border-bottom: 1px dotted rgba(0, 0, 0, 0.05);
+}
+
+.yck-component .yck-img-array {
+    --yck-gap: 1em;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    align-content: flex-start;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: var(--yck-gap);
+    padding: 0;
+    margin-block: var(--yck-spacing-unit);
+}
+
+.yck-component .yck-img-array > * {
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: calc((100% - var(--yck-gap)) / 6);
+    min-width: 240px;
+    list-style: none;
+}
+
+@media (max-width: 600px) {
+    .yck-component .yck-img-array > * {
+        flex-basis: auto;
+    }
+}
+
+.yck-component .yck-flexbox-grid {
+    --yck-gap: 1em;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: var(--yck-gap);
+    padding: 0;
+    margin-block: var(--yck-spacing-unit);
+}
+
+.yck-component .yck-flexbox-grid > * {
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: calc((100% - var(--yck-gap)) / 4);
+    min-width: calc((100% - var(--yck-gap)) / 2);
+    list-style: none;
+}
+
+@media (max-width: 1000px) {
+    .yck-component .yck-flexbox-grid > * {
+        flex-basis: 100%;
+    }
+}
+
+.yck-component .isomer-card {
+    text-decoration: none;
+    margin: 0 auto;
+    padding: 0;
+    /* border: 1px solid #e0e0e0; */
+    border: 1px solid rgba(224, 224, 224, 0.15);
+    border-radius: 8px;
+    overflow: hidden;
+    transition:
+        transform 0.6s var(--yck-transition-timing),
+        box-shadow 0.6s var(--yck-transition-timing);
+}
+
+.yck-component .isomer-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--yck-box-shadow);
+}
+
+.yck-component .isomer-card:hover .isomer-card-body .isomer-card-link {
+    color: #e37f2a;
+}
+
+.yck-component .isomer-card .isomer-card-image {
+    width: 100%;
+    object-fit: cover;
+}
+
+.yck-component .isomer-card .isomer-card-body {
+    padding: var(--yck-spacing-unit);
+}
+
+.yck-component .isomer-card .isomer-card-body .isomer-card-title {
+    color: #4a4a4a;
+    font-weight: 700;
+    font-size: var(--yck-step-1);
+    overflow-wrap: break-word;
+    text-wrap: balance;
+}
+
+.yck-component .isomer-card .isomer-card-body .isomer-card-description {
+    color: #484848;
+    font-size: var(--yck-step-0);
+}
+
+.yck-component .isomer-card .isomer-card-body .isomer-card-link {
+    font-size: var(--yck-step-0);
+    text-decoration: underline;
+    color: #e37f2a;
+    display: inline-block;
+    margin-top: 0.5rem;
+}
+
+.yck-component .isomer-card .isomer-card-body .isomer-card-title:has(+ .isomer-card-description) {
+    margin-bottom: 0.75rem;
+}
+
+.yck-component .isomer-card .isomer-card-body .isomer-card-title:has(+ .isomer-card-link),
+.yck-component .isomer-card .isomer-card-body .isomer-card-description:has(+ .isomer-card-link) {
+    margin-bottom: 1.5rem;
+}
+
+.yck-component .bqcontainer {
+    margin: 0 auto;
+    padding: 0;
+    margin-bottom: var(--yck-space-s-xl) !important;
+}
+
+.yck-component blockquote {
+    position: relative;
+    padding: 25px 35px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: var(--yck-box-shadow);
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.yck-component blockquote p,
+blockquote div {
+    color: #ff6b6b !important;
+    font-style: italic !important;
+    font-size: var(--yck-step-1) !important;
+    line-height: 1.5;
+    margin: 0;
+}
+
+.yck-component blockquote::before {
+    content: '"';
+    position: absolute;
+    top: 25px;
+    left: 10px;
+    color: #ff6b6b !important;
+    font-size: 60px;
+    font-family: Georgia, serif;
+    opacity: 0.3;
+}
+
+.yck-component cite {
+    display: block;
+    margin-top: var(--yck-spacing-unit);
+    font-size: var(--yck-step--1);
+    font-style: italic;
+    color: #555;
+    text-align: right;
+}
+
+.yck-component figure {
     display: flex !important;
     flex-flow: column !important;
     max-width: 100%;
@@ -206,8 +535,295 @@ hr {
     padding: 5px;
     text-align: center;
 }
+
+.yck-component .orgchart {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.yck-component .section-title {
+    font-size: var(--yck-step-3);
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: var(--yck-spacing-unit);
+    color: #222;
+    border-bottom: 3px solid #555;
+    padding-bottom: 8px;
+    width: 100%;
+    text-align: left;
+}
+
+.yck-component .person-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: var(--yck-space-s-xl);
+    position: relative;
+}
+
+.yck-component .person {
+    border-radius: 6px;
+    padding: 10px 15px;
+    margin: 10px;
+    text-align: left;
+    min-width: 200px;
+    box-shadow: var(--yck-box-shadow);
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: calc(25% - 10px);
+}
+
+.yck-component .person-email {
+    font-size: var(--yck-step--1);
+    font-weight: normal;
+    margin-inline-start: calc(var(--yck-space-s-xl) * 2);
+    margin-bottom: var(--yck-spacing-unit);
+    color: #333;
+}
+
+.yck-component .person-name {
+    font-size: var(--yck-step-0);
+    font-weight: normal;
+    color: #333;
+}
+
+.yck-component .person-title {
+    font-size: var(--yck-step-1);
+    color: #555;
+}
+
+.ken-burns-container {
+    max-width: 100%;
+    overflow: hidden;
+    position: relative;
+    border-radius: 8px;
+}
+
+.ken-burns-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    animation: kenBurns 35s ease-in-out infinite alternate;
+}
+
+@keyframes kenBurns {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.35);
+    }
+}
+
+.yck-component details {
+    overflow: hidden;
+}
+
+.yck-component details * {
+    margin: 0 auto !important;
+}
+
+.yck-component details > p,
+.yck-component details ul,
+.yck-component details div {
+    animation: fade-in 1s ease-out;
+    padding-top: calc(var(--yck-spacing-unit) * 0.5);
+}
+
+.yck-component summary {
+    margin-inline-start: 1.5rem !important;
+    list-style-position: outside;
+    cursor: pointer;
+    user-select: none;
+    outline: none;
+    font-size: var(--yck-step-1);
+    font-weight: 500;
+}
+
+.yck-component summary::marker {
+    font-size: var(--yck-step-1);
+}
+
+.yck-component details::details-content {
+    font-size: var(--yck-step-0);
+    padding-left: 1.5rem;
+    padding-right: var(--yck-space-s-xl);
+    block-size: 0;
+    transition:
+        block-size 1s ease,
+        content-visibility 1s ease;
+    transition-behavior: allow-discrete;
+}
+
+.yck-component details[open]::details-content {
+    block-size: auto;
+    /* overflow:  clip;
+    block-size: calc-size(auto); */
+}
+
+.yck-component details > *:not(summary) {
+    padding: 0.5rem 1rem 1rem 2rem;
+    animation: fade-in 1s ease 1s;
+    animation-fill-mode: both;
+}
+
+/* The individual items in the gallery */
+.masonry-item {
+    /* Prevents items from breaking across columns */
+    break-inside: avoid;
+    /* Adds space below each item */
+    margin-bottom: 1rem;
+    /* Ensures items don't have unwanted inline space */
+    display: inline-block;
+    width: 100%;
+}
+
+.yck-component .footnote {
+    font-size: var(--yck-step--1);
+    font-weight:  300;
+    padding:  var(--yck-spacing-unit);
+    line-height: var(--yck-spacing-unit);
+    box-shadow: var(--yck-inset-shadow2);
+}
+
+/* Makes images responsive within their container */
+.masonry-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.fade-in {
+    animation: fade-in 1s ease-in-out both;
+}
+
+/**
+ * ----------------------------------------
+ * animation fade-in
+ * ----------------------------------------
+ */
+@-webkit-keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@-webkit-keyframes fade-out {
+    0% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+@keyframes fade-out {
+    0% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
+}
+
+@supports (content-visibility: auto) {
+    details {
+        content-visibility: auto;
+    }
+}
+
+@supports (animation-timeline: view()) {
+    .yck-component .col-container,
+    .yck-component .col3-container,
+    .yck-component .isomer-card-grid {
+        animation: fade-in-bottom ease both;
+        animation-timeline: view();
+        animation-range: entry 25% cover 50%;
+    }
+}
+
+@keyframes fade-in-bottom {
+    from {
+        opacity: 0;
+        transform: translateY(10vh);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Button styling */
+.button-container {
+    text-align: center;
+    padding-top: 2rem;
+    width: 100%;
+    /* Ensure button container takes full width for centering */
+}
+
+.cheer-button {
+    background-color: var(--primary-green);
+    color: var(--white);
+    font-weight: 700;
+    padding: 0.75rem 2rem;
+    border-radius: 9999px;
+    box-shadow:
+        0 10px 15px -3px rgba(0, 0, 0, 0.1),
+        0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    transition: all 0.3s ease-in-out;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.cheer-button:hover {
+    box-shadow:
+        0 20px 25px -5px rgba(0, 0, 0, 0.1),
+        0 10px 10px -5px rgba(0, 0, 0, 0.04);
+    transform: scale(1.05);
+}
+
+.cheer-button:focus {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(56, 142, 60, 0.5);
+}
 	
 #chongboontreebg {
-    background: linear-gradient(to top, rgba(255, 255, 255, 1) 10%, rgba(255, 255, 255, 0.6) 47%, rgba(255, 255, 255, 0.65) 30%, rgba(255, 255, 255, 0.7) 65%, rgba(255, 255, 255, 0.9) 50%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/chongboontree.png) no-repeat center center;
-}
+                            background: linear-gradient(to top, rgba(255, 255, 255, 1) 10%, rgba(255, 255, 255, 0.6) 47%, rgba(255, 255, 255, 0.65) 30%, rgba(255, 255, 255, 0.7) 65%, rgba(255, 255, 255, 0.9) 50%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/chongboontree.png) no-repeat center center;
+                        }
 </style>
