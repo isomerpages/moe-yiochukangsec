@@ -6,7 +6,8 @@ description: ""
 image: /images/Our Curriculum/Non Academic Programmes/CoCurricular
   Activities/Clubs/Untitled_design.svg
 ---
- <div class="image-gallery">
+<h2 id="clubs">Our Clubs</h2>
+<div class="image-gallery">
                 <div class="image-container">
                    <a href="/cca/clubs/digital-animation-club/"><img loading="lazy" alt="CCA Activity 1" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/CA1.png"></a>
                 </div>
@@ -17,6 +18,30 @@ image: /images/Our Curriculum/Non Academic Programmes/CoCurricular
                     <a href="/cca/clubs/mars-club-mechatronics-aeronautics-and-robotics/"><img loading="lazy" alt="CCA Activity 3" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/CA3.png"></a>
                 </div>
             </div>
+						<hr>
+						<h2 id="arts">Our Visual and Performing Arts Group</h2>
+						<div class="image-gallery">
+                <div class="image-container">
+                   <a href="/cca/Performing-Arts/Concert-Band/"><img loading="lazy" alt="CCA Activity 1" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA1.png"></a>
+                </div>
+                <div class="image-container">
+                    <a href="/cca/clubs/media-club/"><img loading="lazy" alt="CCA Activity 2" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA2.png"></a>
+                </div>
+                <div class="image-container">
+                    <a href="/cca/clubs/mars-club-mechatronics-aeronautics-and-robotics/"><img loading="lazy" alt="CCA Activity 3" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA3.png"></a>
+                </div>
+	 <div class="image-container">
+                    <a href="/cca/clubs/mars-club-mechatronics-aeronautics-and-robotics/"><img loading="lazy" alt="CCA Activity 3" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA4.png"></a>
+                </div>
+	 <div class="image-container">
+                    <a href="/cca/clubs/mars-club-mechatronics-aeronautics-and-robotics/"><img loading="lazy" alt="CCA Activity 3" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA5.png"></a>
+                </div>
+	 <div class="image-container">
+                    <a href="/cca/clubs/mars-club-mechatronics-aeronautics-and-robotics/"><img loading="lazy" alt="CCA Activity 3" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA6.png"></a>
+                </div>
+            </div>
+						<hr>
+
 						
  <style>
             /* Modern CSS reset */
@@ -73,4 +98,3 @@ image: /images/Our Curriculum/Non Academic Programmes/CoCurricular
                 }
             }
         </style>
-        
