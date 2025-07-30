@@ -72,10 +72,10 @@ variant: markdown
     </ul>
     <p>More specifically,</p>
     <ul>
-        <li>The Physical Sports develop robustness, fair play and team spirit in students.</li>
-        <li>The Visual and Performing Arts instil in students a sense of graciousness and an appreciation for the rich culture and heritage of a multi-racial society.</li>
-        <li>The Uniformed Groups develop students into good citizens by inculcating in them self-reliance, resilience, discipline and a spirit of service to others.</li>
-			<li>The <a href="/cca/Clubs/">Clubs</a> allow students to explore and extend their interests in wide-ranging and specialised areas which may be knowledge-based or skills-based.</li>
+			<li>The <a href="/cca/all-ccas/#sports">Physical Sports</a> develop robustness, fair play and team spirit in students.</li>
+			<li>The <a href="/cca/all-ccas/#arts">Visual and Performing Arts</a> instil in students a sense of graciousness and an appreciation for the rich culture and heritage of a multi-racial society.</li>
+			<li>The <a href="/cca/all-ccas/#uniform">Uniformed Groups</a> develop students into good citizens by inculcating in them self-reliance, resilience, discipline and a spirit of service to others.</li>
+			<li>The <a href="/cca/all-ccas/#clubs">Clubs</a> allow students to explore and extend their interests in wide-ranging and specialised areas which may be knowledge-based or skills-based.</li>
     </ul>
 </div>
 <div class="yck-component">
