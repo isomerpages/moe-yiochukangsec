@@ -8,6 +8,7 @@ third_nav_title: Campus Transformation 1
 ---
 <div class="yck-component">
 	<div class="regular-flow">
+		<h3>The Pioneer Spirit: The Story of Yio Chu Kang Secondary</h3>
 	<p>Born from the aspirations of a new nation, Yio Chu Kang Secondary School was founded in 1965, the 61st school established in a newly independent Singapore. Its creation was a direct response to personal requests from the farming community of Yio Chu Kang to their Prime Minister, Mr. Lee Kuan Yew, for a school to serve their children. Its original campus stood at the 11th milestone of Yio Chu Kang Road.</p>
 
 <p>Officially opened by then-Minister for Education Mr. Ong Pang Boon, the school began as an integrated English and Chinese-stream institution. This model was a critical nation-building strategy, designed to place multiple language streams under a single administration to foster social integration and underscore the importance of bilingualism.</p>
