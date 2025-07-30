@@ -6,10 +6,7 @@ third_nav_title: Organisation Chart
 variant: markdown
 ---
 <style>
-body {
-            margin: 0;
-            overflow: hidden;
-        }
+
   .yck-component .yck-nav-bar {
       display: flex;
       justify-content: space-around;
@@ -467,7 +464,7 @@ body {
                                                     </details>
                                                 </div>
                                             </div>
-                                            <div class="section-title">Teaching Staff</div>
+                                            <div class="section-title" id="Teaching-Staff">Teaching Staff</div>
                                             <div class="teaching-staff-section">
                                                 <div class="department">
                                                     <div class="department-name">Design and Enterprise Department</div>
