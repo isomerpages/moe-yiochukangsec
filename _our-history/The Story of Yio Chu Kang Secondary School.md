@@ -208,7 +208,6 @@ hr {
 }
 	
 #chongboontreebg {
-    background: linear-gradient(to left, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0.6) 37%, rgba(255, 255, 255, 0.45) 60%, rgba(255, 255, 255, 0.85) 80%, rgba(255, 255, 255, 1) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Story/School%20Song/Sch_SongBG.png) no-repeat top right scroll;
-	object-fit: contain;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1) 10%, rgba(255, 255, 255, 0.6) 47%, rgba(255, 255, 255, 0.65) 30%, rgba(255, 255, 255, 0.7) 65%, rgba(255, 255, 255, 0.9) 50%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/chongboontree.png) no-repeat center center;
 }
 </style>
