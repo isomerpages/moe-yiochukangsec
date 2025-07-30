@@ -142,13 +142,7 @@ video {
             }
         }
 
-.wrapper {
-    width: 100%;
-    background-color: #fff;
-    display: flex;
-    justify-content: center;
-    padding: 20px;
-}
+
 
 /* Main container for the entire organizational chart */
 .org-chart {
