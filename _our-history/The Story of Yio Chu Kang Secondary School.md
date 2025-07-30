@@ -15,12 +15,13 @@ image: /images/YCKLogo.svg
 <p>The story of Yio Chu Kang is one of constant evolution, marked by <strong>four major campus transformations</strong> that mirror the growth of our nation. Each chapter in this journey—from its <a href="/our-history/campus-transformation-1/1965/">humble origins in <abbr title="Campus Transformation 1">1965</abbr></a>, to its first <a href="/our-history/campus-transformation-2/1982/">major rebuilding in <abbr title="Campus Transformation 2">1982</abbr></a>, its <a href="/our-history/campus-transformation-3/2001/">modernization in <abbr title="Campus Transformation 3">2001</abbr></a>, and its most <a href="/our-history/campus-transformation-4/2018/">recent merger in <abbr title="Campus Transformation 4">2018</abbr></a>—is a testament to the school's resilience and its commitment to excellence.</p>
 
 <p>This spirit of adaptation has kept the school at the forefront of national education initiatives. In 2014, it became the second satellite school for Pathlight, an innovative partnership creating sustained opportunities for the academic and social integration of students with different learning abilities.</p>
-		
-<p id="chongboontreebg">The most recent transformation occurred in 2018 with the merger of Chong Boon Secondary School. This union honours the distinct heritage of both institutions while creating a new, unified identity. It powerfully demonstrates the school's agility and its capacity to evolve while remaining true to its founding ideals: <strong>Pursuit, Knowledge, and Service.</strong></p>
+
+<div id="chongboontreebg">
+<p>The most recent transformation occurred in 2018 with the merger of Chong Boon Secondary School. This union honours the distinct heritage of both institutions while creating a new, unified identity. It powerfully demonstrates the school's agility and its capacity to evolve while remaining true to its founding ideals: <strong>Pursuit, Knowledge, and Service.</strong></p>
 
 
 
-<p>Through five decades of profound change in Singapore's landscape, Yio Chu Kang Secondary School has not only survived but thrived, embodying the pioneer spirit of improving lives while skillfully adapting its programmes to meet the needs of every generation.</p>
+<p>Through five decades of profound change in Singapore's landscape, Yio Chu Kang Secondary School has not only survived but thrived, embodying the pioneer spirit of improving lives while skillfully adapting its programmes to meet the needs of every generation.</p></div>
 </div>
 </div>
 
@@ -207,7 +208,7 @@ hr {
 }
 	
 #chongboontreebg {
-    background: linear-gradient(to left, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0.6) 37%, rgba(255, 255, 255, 0.45) 60%, rgba(255, 255, 255, 0.85) 80%, rgba(255, 255, 255, 1) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Story/School%20Song/Sch_SongBG.png) no-repeat center center fixed;
+    background: linear-gradient(to left, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0.6) 37%, rgba(255, 255, 255, 0.45) 60%, rgba(255, 255, 255, 0.85) 80%, rgba(255, 255, 255, 1) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Story/School%20Song/Sch_SongBG.png) no-repeat top right scroll;
 	object-fit: contain;
 }
 </style>
