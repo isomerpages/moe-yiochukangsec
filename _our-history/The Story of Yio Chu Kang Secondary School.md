@@ -17,7 +17,7 @@ image: /images/YCKLogo.svg
 <p>This spirit of adaptation has kept the school at the forefront of national education initiatives. In 2014, it became the second satellite school for Pathlight, an innovative partnership creating sustained opportunities for the academic and social integration of students with different learning abilities.</p>
 		
 <figure>
-	<img src="/images/Our%20Story/History/History/hist1new.PNG">
+	<img src="/images/Our%20History/chongboontree.png">
 		</figure>
 
 <p>The most recent transformation occurred in 2018 with the merger of Chong Boon Secondary School. This union honours the distinct heritage of both institutions while creating a new, unified identity. It powerfully demonstrates the school's agility and its capacity to evolve while remaining true to its founding ideals: <strong>Pursuit, Knowledge, and Service.</strong></p>
