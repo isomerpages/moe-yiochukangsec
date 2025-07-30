@@ -19,6 +19,8 @@ image: /images/Our Curriculum/Non Academic Programmes/CoCurricular
             <a href="/cca/clubs/mars-club-mechatronics-aeronautics-and-robotics/"><img loading="lazy" alt="CCA Activity 3" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/CA3.png"></a>
         </div>
     </div>
+</div>
+<div class="yck-component">
     <hr>
     <h2 id="arts">Our Visual and Performing Arts Group</h2>
     <div class="isomer-card-grid">
@@ -26,47 +28,52 @@ image: /images/Our Curriculum/Non Academic Programmes/CoCurricular
             <a href="/cca/Performing-Arts/Concert-Band/"><img loading="lazy" alt="CCA Activity 1" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA1.png"></a>
         </div>
         <div class="isomer-card">
-            <a href="/cca/clubs/media-club/"><img loading="lazy" alt="CCA Activity 2" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA2.png"></a>
+            <a href="/cca/Performing-Arts/Chinese-Dance/"><img loading="lazy" alt="CCA Activity 2" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA2.png"></a>
         </div>
         <div class="isomer-card">
-            <a href="/cca/clubs/mars-club-mechatronics-aeronautics-and-robotics/"><img loading="lazy" alt="CCA Activity 3" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA3.png"></a>
+            <a href="/cca/Performing-Arts/mars-club-mechatronics-aeronautics-and-robotics/"><img loading="lazy" alt="CCA Activity 3" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA3.png"></a>
         </div>
         <div class="isomer-card">
-            <a href="/cca/clubs/mars-club-mechatronics-aeronautics-and-robotics/"><img loading="lazy" alt="CCA Activity 3" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA4.png"></a>
+            <a href="/cca/Performing-Arts/mars-club-mechatronics-aeronautics-and-robotics/"><img loading="lazy" alt="CCA Activity 3" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA4.png"></a>
         </div>
         <div class="isomer-card">
-            <a href="/cca/clubs/mars-club-mechatronics-aeronautics-and-robotics/"><img loading="lazy" alt="CCA Activity 3" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA5.png"></a>
+            <a href="/cca/Performing-Arts/mars-club-mechatronics-aeronautics-and-robotics/"><img loading="lazy" alt="CCA Activity 3" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA5.png"></a>
         </div>
         <div class="isomer-card">
-            <a href="/cca/clubs/mars-club-mechatronics-aeronautics-and-robotics/"><img loading="lazy" alt="CCA Activity 3" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA6.png"></a>
+            <a href="/cca/Performing-Arts/mars-club-mechatronics-aeronautics-and-robotics/"><img loading="lazy" alt="CCA Activity 3" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA6.png"></a>
         </div>
     </div>
+</div>
+<div class="yck-component">
     <hr>
     <h2 id="sports">Physical Sports</h2>
     <div class="isomer-card-grid">
         <div class="isomer-card">
-            <a href="/cca/Performing-Arts/Concert-Band/"><img loading="lazy" alt="CCA Activity 1" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PS1.png"></a>
+            <a href="/cca/Physical-Sports/Basketball-Boys/"><img loading="lazy" alt="CCA Activity 1" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PS1.png"></a>
         </div>
         <div class="isomer-card">
-            <a href="/cca/clubs/media-club/"><img loading="lazy" alt="CCA Activity 2" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PS2.png"></a>
+            <a href="/cca/Physical-Sports/media-club/"><img loading="lazy" alt="CCA Activity 2" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PS2.png"></a>
         </div>
         <div class="isomer-card">
-            <a href="/cca/clubs/mars-club-mechatronics-aeronautics-and-robotics/"><img loading="lazy" alt="CCA Activity 3" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PS3.png"></a>
+            <a href="/cca/Physical-Sports/mars-club-mechatronics-aeronautics-and-robotics/"><img loading="lazy" alt="CCA Activity 3" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PS3.png"></a>
         </div>
         <div class="isomer-card">
-            <a href="/cca/clubs/mars-club-mechatronics-aeronautics-and-robotics/"><img loading="lazy" alt="CCA Activity 3" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PS4.png"></a>
+            <a href="/cca/Physical-Sports/mars-club-mechatronics-aeronautics-and-robotics/"><img loading="lazy" alt="CCA Activity 3" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PS4.png"></a>
         </div>
     </div>
+</div>
+<div class="yck-component">
     <hr>
     <h2 id="uniform">Uniformed Group</h2>
     <div class="isomer-card-grid">
         <div class="isomer-card">
-            <a href="/cca/Performing-Arts/Concert-Band/"><img loading="lazy" alt="CCA Activity 1" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/UG1.png"></a>
+            <a href="/cca/Uniformed-Groups/Red-Cross-Youth/"><img loading="lazy" alt="CCA Activity 1" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/UG1.png"></a>
         </div>
         <div class="isomer-card">
-            <a href="/cca/clubs/media-club/"><img loading="lazy" alt="CCA Activity 2" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/UG2.png"></a>
+            <a href="/cca/Uniformed-Groups/NPCC/"><img loading="lazy" alt="CCA Activity 2" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/UG2.png"></a>
         </div>
     </div>
+</div>
 	
 <style>
     :root {
@@ -340,4 +347,4 @@ image: /images/Our Curriculum/Non Academic Programmes/CoCurricular
     }
 }
 
-    </style></div>
+    </style>
