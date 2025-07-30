@@ -57,6 +57,39 @@ video {
     margin-bottom: var(--yck-space-s-xl);
     position: relative;
 }
+	
+.yck-component h1,
+.yck-component h2,
+.yck-component h3,
+.yck-component h4,
+.yck-component h5,
+.yck-component h6,
+.yck-component p {
+    overflow-wrap: break-word;
+}
+
+.yck-component h1,
+.yck-component h2,
+.yck-component h3,
+.yck-component h4,
+.yck-component h5,
+.yck-component h6 {
+    text-wrap: balance;
+}
+
+.yck-component p,
+.yck-component ol,
+.yck-component ul {
+    text-wrap: pretty;
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component p:last-child,
+.yck-component ul li:last-child,
+.yck-component ol li:last-child {
+    margin-bottom: var(--yck-space-s-xl);
+}
+	
   .yck-component .yck-nav-bar {
       display: flex;
       justify-content: space-around;
