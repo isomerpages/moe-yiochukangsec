@@ -156,7 +156,7 @@ video {
 
 /* Styling for major section titles like "School Leaders" */
 .section-title {
-    font-size: 1.8em;
+    font-size: var(--yck-step-3);
     font-weight: bold;
     margin-top: 30px;
     margin-bottom: 20px;
@@ -206,7 +206,7 @@ video {
 /* Titles for individual departments or non-teaching staff groups */
 .department-name,
 .group-name {
-    font-size: 1.4em;
+    font-size: var(--yck-step-2);
     font-weight: bold;
     color: #333;
     margin-bottom: 15px;
@@ -245,7 +245,7 @@ video {
 
 /* Name of the person */
 .person-name {
-    font-size: 1em;
+    font-size: var(--yck-step--1);
     font-weight: bold;
     margin-bottom: 4px;
     color: #333;
