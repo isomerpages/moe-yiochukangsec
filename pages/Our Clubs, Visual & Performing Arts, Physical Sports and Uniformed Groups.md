@@ -226,6 +226,24 @@ image: /images/Our Curriculum/Non Academic Programmes/CoCurricular
     border-radius: 5px;
     box-shadow: var(--yck-box-shadow1);
 }
+		
+		.yck-component .isomer-card {
+    text-decoration: none;
+    margin: 0 auto;
+    padding: 0;
+    /* border: 1px solid #e0e0e0; */
+    border: 1px solid rgba(224, 224, 224, 0.15);
+    border-radius: 8px;
+    overflow: hidden;
+    transition:
+        transform 0.6s var(--yck-transition-timing),
+        box-shadow 0.6s var(--yck-transition-timing);
+}
+
+.yck-component .isomer-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--yck-box-shadow);
+}
 
     .yck-component figure {
         display: flex !important;
@@ -284,4 +302,42 @@ image: /images/Our Curriculum/Non Academic Programmes/CoCurricular
         outline: 3px solid #4A90E2;
         outline-offset: 2px;
     }
+		
+		@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
+}
+
+@supports (content-visibility: auto) {
+    details {
+        content-visibility: auto;
+    }
+}
+
+@supports (animation-timeline: view()) {
+    .yck-component .col-container,
+    .yck-component .col3-container,
+    .yck-component .isomer-card-grid {
+        animation: fade-in-bottom ease both;
+        animation-timeline: view();
+        animation-range: entry 25% cover 50%;
+    }
+}
+
+@keyframes fade-in-bottom {
+    from {
+        opacity: 0;
+        transform: translateY(10vh);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
     </style></div>
