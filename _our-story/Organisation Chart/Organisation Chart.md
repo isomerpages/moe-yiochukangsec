@@ -270,16 +270,16 @@ body {
 </style>
 <div class="yck-component">
     <nav class="yck-nav-bar">
-			  <h6><a href="/our-story/Organisation-Chart/School-Leaders/">SCHOOL LEADERS</a></h6>
-<h6><a href="/our-story/Organisation-Chart/Key-Personnel/">KEY PERSONNEL</a></h6>
-<h6><a href="/our-story/Organisation-Chart/Teaching-Staff/">TEACHING STAFF</a></h6>
-<h6><a href="/our-story/Organisation-Chart/Non-teaching-Staff/">NON-TEACHING STAFF</a></h6>
+			  <h6><a href="#School-Leaders">SCHOOL LEADERS</a></h6>
+<h6><a href="#Key-Personnel">KEY PERSONNEL</a></h6>
+<h6><a href="#Teaching-Staff">TEACHING STAFF</a></h6>
+<h6><a href="#Non-teaching-Staff">NON-TEACHING STAFF</a></h6>
 
    </nav>
 </div>
 <div class="wrapper">
                                         <div class="org-chart">
-                                            <div class="section-title">School Leaders</div>
+                                            <div class="section-title" id="School-Leaders">School Leaders</div>
                                             <div class="person-container school-leaders">
                                                 <div class="person">
                                                     <div class="person-name">Mrs Chow (Betty Chang)</div>
@@ -303,7 +303,7 @@ body {
                                                     </details>
                                                 </div>
                                             </div>
-                                            <div class="section-title">Key Personnel</div>
+                                            <div class="section-title" id="Key-Personnel">Key Personnel</div>
                                             <div class="person-container key-personnel">
                                                 <div class="person">
                                                     <div class="person-name">Ms Lock Hwee Hong Alicia</div>
