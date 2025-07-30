@@ -1,0 +1,4 @@
+collections:
+  our-history:
+    output: true
+    order: []
