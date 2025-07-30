@@ -216,6 +216,17 @@ image: /images/Our Curriculum/Non Academic Programmes/CoCurricular
         height: 100%;
     }
 
+		.yck-component .isomer-card,
+.yck-component .column {
+    break-inside: avoid;
+    /* Prevents content from breaking across columns */
+    page-break-inside: avoid;
+    /* For older browsers */
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: var(--yck-box-shadow1);
+}
+
     .yck-component figure {
         display: flex !important;
         flex-flow: column !important;
