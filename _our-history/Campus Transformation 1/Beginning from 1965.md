@@ -6,7 +6,7 @@ description: ""
 image: /images/YCKLogo.svg
 third_nav_title: Campus Transformation 1
 ---
-<div class="yck-component">
+<div class="yck-component" id="campustrans1">
 	<div class="regular-flow">
 <p>The school's story began with a campus that was a testament to its humble, rural origins. Built for $444,000, it was officially opened by Singapore’s pioneer Minister for Education, Mr. Ong Pang Boon, in June 1966. While operations had begun the previous year, this ceremony marked its formal beginning, with five classes across two language streams and a graduating cohort of 37 students.</p>
 
@@ -192,4 +192,8 @@ hr {
     padding: 5px;
     text-align: center;
 }
+	
+#campustrans1 {
+                            background: linear-gradient(to right, rgba(255, 255, 255, 1) 10%, rgba(255, 255, 255, 0.7) 25%, rgba(255, 255, 255, 0.85) 90%, rgba(255, 255, 255, 0.9) 95%, rgba(255, 255, 255, 0.99) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Story/History/Campus%20Transformation%201/ct1new.PNG) no-repeat top right fixed;
+	background-size: fill;
 </style>
