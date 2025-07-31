@@ -12,6 +12,10 @@ third_nav_title: Campus Transformation 1
 
 <p>The physical school was modest: two single-storey, zinc-roofed buildings, a small canteen, and a lone basketball court. The school field often flooded, a constant reminder of the school's battle with the elements. Lacking a hall or a proper sports field, students demonstrated early resilience, walking to the nearby Pei Hwa Public School for assemblies and physical activities.</p>
 		
+<figure>
+			<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Story/History/Campus%20Transformation%201/CT2.png">
+</figure>
+		
 <p>These limitations extended to its curriculum. Students aspiring to study Science in their upper secondary years had to transfer to better-equipped schools—a poignant symbol of the school's initial constraints. Yet, faced with these challenges, the school community became exceptionally creative in its use of space.</p>
 		<p>Inevitably, the spirit and ambition of the school began to outgrow the limitations of its modest facilities, setting the stage for its first great transformation.</p>
 </div>
