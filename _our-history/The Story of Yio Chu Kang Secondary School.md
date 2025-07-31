@@ -65,21 +65,16 @@ image: /images/YCKLogo.svg
 </div>
 <hr>
 <div class="yck-component">
-                                <div class="isomer-card">
-                                    <div class="isomer-card-body">
-                                        <div class="isomer-card-description">
+                                <div class="bqcontainer">
                                             <div class="footnote" id="see-footnote">
                                                 <p>Footnote:<br>
                                                     </p><ul>
                                                         <li><a target="_blank" href="https://www.nas.gov.sg/archivesonline/photographs/record-details/2f8bda0c-1162-11e3-83d5-0050568939ad"><small><em>MINISTER FOR EDUCATION ONG PANG BOON ATTENDS OPENING OF YIO CHU KANG SECONDARY SCHOOL AT 10 MILESTONE, YIO CHU KANG ROAD</em></small></a></li>
                                                         <li><a target="_blank" href="https://www.nas.gov.sg/archivesonline/photographs/record-details/c6e97133-1161-11e3-83d5-0050568939ad"><small><em>MINISTER FOR EDUCATION ONG PANG BOON BEING GREETED ON ARRIVAL FOR OPENING OF YIO CHU KANG SECONDARY SCHOOL AT 10 MILESTONE, YIO CHU KANG ROAD</em></small></a></li>
                                                     </ul>
-                                                <p></p>
                                             </div>
                                         </div>
                                     </div>
-                                </div>
-                            </div>
 
 <style>
 	:root {
