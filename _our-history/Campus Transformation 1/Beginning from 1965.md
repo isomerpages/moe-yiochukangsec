@@ -8,9 +8,12 @@ third_nav_title: Campus Transformation 1
 ---
 <div class="yck-component">
 	<div class="regular-flow">
-	<p>The school, built at the cost of $444K, was officially opened by Singapore’s pioneer Minister of Education, Mr Ong Pang Boon in June 1966. It began operations with 5 classes in two language streams and graduated 37 students that year.</p>
+<p>The school's story began with a campus that was a testament to its humble, rural origins. Built for $444,000, it was officially opened by Singapore’s pioneer Minister for Education, Mr. Ong Pang Boon, in June 1966. While operations had begun the previous year, this ceremony marked its formal beginning, with five classes across two language streams and a graduating cohort of 37 students.</p>
 
-<p>The original school reflected its status as a rural school, consisting of 2 single-storey zinc roofed buildings, a small canteen and a basketball court. There was a very modest field that often flooded. There was no school hall and no sports field and the students walked over to the nearby Pei Hwa Public School for assembly or to use the school field. Students who wished to take Science in upper secondary had to transfer to another school. The school was very creative in its use of space. But gradually, the school outgrew the limitations of her modest facilities.</p>
+<p>The physical school was modest: two single-storey, zinc-roofed buildings, a small canteen, and a lone basketball court. The school field often flooded, a constant reminder of the school's battle with the elements. Lacking a hall or a proper sports field, students demonstrated early resilience, walking to the nearby Pei Hwa Public School for assemblies and physical activities.</p>
+		
+<p>These limitations extended to its curriculum. Students aspiring to study Science in their upper secondary years had to transfer to better-equipped schools—a poignant symbol of the school's initial constraints. Yet, faced with these challenges, the school community became exceptionally creative in its use of space.</p>
+		<p>Inevitably, the spirit and ambition of the school began to outgrow the limitations of its modest facilities, setting the stage for its first great transformation.</p>
 </div>
 </div>
 
