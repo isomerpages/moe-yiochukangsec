@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Students
 variant: markdown
 ---
-<div class="yck-component" id="ycksians">
+<div class="yck-component">
+	<div id="ycksians">
 <p>YCKSians are students of character who learn to thrive and develop a willingness to grow. Through service to the community, they will grow and lead meaningful lives and become a positive influence in the community.</p>
 
 <p>YCKSians are students of character who learn to thrive and develop a willingness to grow. Through service to the community, they will grow and lead meaningful lives and become a positive influence in the community.</p>
@@ -14,6 +15,7 @@ variant: markdown
 
 <p>Through service to the community, they will grow and lead meaningful lives and become a positive influence in the community.</p>
 </div>
+	</div>
 
 <style>
 	:root {
