@@ -2,19 +2,19 @@ collections:
   our-family:
     output: true
     order:
-      - Students/The YCKSians.md
-      - Students/.keep
-      - Students/School Handbook 2025.md
-      - Students/Booklist.md
-      - Students/Financial Assistance.md
-      - Students/School Uniform.md
-      - Students/Class Timetable and Schedules.md
-      - Students/Assessment & Promotion.md
-      - Students/Assessment Information & Schedules.md
-      - Students/Students Code of Conduct.md
-      - Students/School Canteen.md
-      - Students/Direct School Admission.md
-      - Students/Useful Links.md
+      - Our Students/The YCKSians.md
+      - Our Students/.keep
+      - Our Students/School Handbook 2025.md
+      - Our Students/Booklist.md
+      - Our Students/Financial Assistance.md
+      - Our Students/School Uniform.md
+      - Our Students/Class Timetable and Schedules.md
+      - Our Students/Assessment & Promotion.md
+      - Our Students/Assessment Information & Schedules.md
+      - Our Students/Students Code of Conduct.md
+      - Our Students/School Canteen.md
+      - Our Students/Direct School Admission.md
+      - Our Students/Useful Links.md
       - Our Staff/Professional Development Activities.md
       - Our Staff/SWC Activities.md
       - Our Staff/Useful Links.md
