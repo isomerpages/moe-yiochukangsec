@@ -5,6 +5,94 @@ variant: markdown
 description: ""
 image: /images/YCKLogo.svg
 ---
+<div class="yck-component">
+	<div class="isomer-card-grid">
+		<div class="isomer-card">
+			<div class="isomer-card-body">
+				<div class="isomer-card-title">Vision</div>
+				<div class="isomer-card-description">
+					A COMMUNITY OF <strong>LEARNERS, LEADERS AND INNOVATORS</strong></div>
+			</div>
+		</div>
+			<div class="isomer-card">
+			<div class="isomer-card-body">
+				<div class="isomer-card-title">Mission</div>
+				<div class="isomer-card-description">Nurturing students of character who thrive through love of learning, and a willingness to grow and lead in meaningful service to self and others</div>
+			</div>
+		</div>
+		<div class="isomer-card">
+			<div class="isomer-card-body">
+				<div class="isomer-card-title">Motto</div>
+				<div class="isomer-card-description"><strong>Pursuit of knowledge, Service to All</strong>
+			</div>
+		</div>
+		</div>
+		</div>
+<hr>
+<div class="yck-component">
+<h2>The Values of G.R.O.W.T.H</h2>
+<div class="isomer-card-grid">
+	<div class="isomer-card">
+			<div class="isomer-card-body">
+				<p><span class="yck-h2">G</span>ratitude</p>
+				<div class="isomer-card-description">Focusing on what you
+have and expressing
+appreciation</div>
+			</div>
+		</div>
+	<div class="isomer-card">
+			<div class="isomer-card-body">
+				<p><span class="yck-h2">R</span>espect</p>
+				<div class="isomer-card-description">Treating others and the
+environment well,
+showing care and
+empathy</div>
+			</div>
+		</div>
+	<div class="isomer-card">
+	<div class="isomer-card-body">
+				<p><span class="yck-h2">O</span>ptimism</p>
+				<div class="isomer-card-description">Seeing the best in all
+situations and hopeful
+of a better future</div>
+			</div>
+		</div>
+	<div class="isomer-card">
+	<div class="isomer-card-body">
+				<p><span class="yck-h2">W</span>hole-heartedness</p>
+				<div class="isomer-card-description">Showing complete
+sincerity and
+commitment</div>
+			</div>
+		</div>
+	<div class="isomer-card">
+	<div class="isomer-card-body">
+				<p><span class="yck-h2">T</span>eamwork</p>
+				<div class="isomer-card-description">Working together,
+coordinating and
+cooperating in the
+interest of a
+common goal</div>
+			</div>
+		</div><div class="isomer-card">
+	<div class="isomer-card-body">
+				<p><span class="yck-h2">H</span>onesty</p>
+				<div class="isomer-card-description">Acting with courage to
+uphold truth and
+integrity to do the
+morally right</div>
+			</div>
+		</div>tude, Respect, Optimism, Wholeheartedness, Teamwork, Honesty<p></p>
+	
+</div>
+<p><strong>GROWTH</strong></p>
+
+
+<img alt="Vision Image" src="/images/Our%20Story/School%20Vision,%20Mission/V1.png">
+<img alt="Mission Image" src="/images/Our%20Story/School%20Vision,%20Mission/V2.png">
+<img alt="Values Image" src="/images/Our%20Story/School%20Vision,%20Mission/V3.png">
+</div>
+
 <style>
 	:root {
     --yck-text-line-height: 1.6em;
@@ -786,4 +874,4 @@ blockquote div {
     box-shadow: 0 0 0 4px rgba(56, 142, 60, 0.5);
 }
 
-</style>
+</style></div>
