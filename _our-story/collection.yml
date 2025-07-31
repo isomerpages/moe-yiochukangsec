@@ -2,7 +2,6 @@ collections:
   our-story:
     output: true
     order:
-      - Organisation Chart.md
       - Principal's Message.md
       - School Vision, Mission, Motto and Values.md
       - School Logo.md
@@ -10,6 +9,7 @@ collections:
       - School Theme.md
       - School Facilities.md
       - Organisation Chart/.keep
+      - Organisation Chart.md
       - History.md
       - Achievements/.keep
       - Achievements/School.md
