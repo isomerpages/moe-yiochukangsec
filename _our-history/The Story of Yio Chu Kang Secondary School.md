@@ -11,11 +11,43 @@ image: /images/YCKLogo.svg
 	<p>Born from the aspirations of a new nation, Yio Chu Kang Secondary School was founded in 1965, the 61st school established in a newly independent Singapore. Its creation was a direct response to personal requests from the farming community of Yio Chu Kang to their Prime Minister, Mr. Lee Kuan Yew, for a school to serve their children. Its original campus stood at the <a href="#see-footnote">11th milestone of Yio Chu Kang Road.</a></p>
 		
 <div class="yck-img-array">
-<img src="/images/Our%20History/img0042.jpg">
-	<img src="/images/Our%20History/img0022.jpg">
-	<img src="/images/Our%20History/img0028.jpg">
-	<img src="/images/Our%20History/img0059.jpg">
-</div>
+	<div class="isomer-card">
+                                        <div class="isomer-card-body">
+                                            <div class="isomer-card-description">
+                                                <div class="footnote">
+                                            <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/img0042.jpg">
+                                                </div>
+                                            </div>
+                                        </div>
+                                            </div>
+                                            <div class="isomer-card">
+                                        <div class="isomer-card-body">
+                                            <div class="isomer-card-description">
+                                                <div class="footnote">
+                                            <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/img0022.jpg">
+                                                </div>
+                                            </div>
+                                                </div>
+                                            </div>
+                                            <div class="isomer-card">
+                                        <div class="isomer-card-body">
+                                            <div class="isomer-card-description">
+                                                <div class="footnote">
+                                            <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/img0028.jpg">
+                                                </div>
+                                            </div>
+                                                </div>
+                                            </div>
+                                            <div class="isomer-card">
+                                        <div class="isomer-card-body">
+                                            <div class="isomer-card-description">
+                                                <div class="footnote">
+                                            <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/img0059.jpg">
+                                                </div>
+                                            </div>
+                                                </div>
+                                            </div>
+                                        </div>
 
 <p>Officially opened by then-Minister for Education Mr. Ong Pang Boon, the school began as an integrated English and Chinese-stream institution. This model was a critical nation-building strategy, designed to place multiple language streams under a single administration to foster social integration and underscore the importance of bilingualism.</p>
 
