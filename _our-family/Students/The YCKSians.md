@@ -6,7 +6,7 @@ third_nav_title: Students
 variant: markdown
 ---
 <div class="yck-component">
-	<div id="ycksians">
+	<div class="regular-flow" id="ycksians">
 <p>YCKSians are students of character who learn to thrive and develop a willingness to grow. Through service to the community, they will grow and lead meaningful lives and become a positive influence in the community.</p>
 
 <p>YCKSians are students of character who learn to thrive and develop a willingness to grow. Through service to the community, they will grow and lead meaningful lives and become a positive influence in the community.</p>
@@ -101,8 +101,13 @@ video {
 .yck-component ol li:last-child {
     margin-bottom: var(--yck-space-s-xl);
 }
+	
+.yck-component .regular-flow > * + * {
+    margin-top: 1.125em;
+}
+	
 #ycksians {
-	background: linear-gradient(to top, rgba(255, 255, 255, 1) 10%, rgba(255, 255, 255, 0.6) 47%, rgba(255, 255, 255, 0.65) 30%, rgba(255, 255, 255, 0.7) 65%, rgba(255, 255, 255, 0.9) 50%), url(https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/The%20YCKSian/Y1.png) no-repeat center center local;
+	background: linear-gradient(to right, rgba(255, 255, 255, 1) 10%, rgba(255, 255, 255, 0.7) 25%, rgba(255, 255, 255, 0.85) 90%, rgba(255, 255, 255, 0.9) 95%, rgba(255, 255, 255, 0.95) 100%), url(https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/The%20YCKSian/Y1.png) no-repeat center center scroll;
 	background-size: cover;
 }
 </style>
