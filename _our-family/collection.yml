@@ -2,7 +2,6 @@ collections:
   our-family:
     output: true
     order:
-      - Our Vendors/.keep
       - Our Students/.keep
       - Our Students/The YCKSians.md
       - Our Students/School Uniform.md
@@ -28,3 +27,4 @@ collections:
       - Parents Connect/Parents Gateway.md
       - School Advisory Committee.md
       - Alumni.md
+      - Our Vendors/.keep
