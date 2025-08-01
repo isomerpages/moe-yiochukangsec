@@ -2,6 +2,7 @@ collections:
   our-story:
     output: true
     order:
+      - Our School/Our Theme.md
       - Our School/Our Logo.md
       - Our School/Our Vision, Mission, Motto and Values.md
       - Our School/.keep
