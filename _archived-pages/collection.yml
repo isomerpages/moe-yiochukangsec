@@ -2,6 +2,7 @@ collections:
   archived-pages:
     output: true
     order:
+      - School Song.md
       - School Logo.md
       - School Vision, Mission, Motto and Values.md
       - Non Teaching Staff.md
