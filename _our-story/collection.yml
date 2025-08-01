@@ -2,6 +2,7 @@ collections:
   our-story:
     output: true
     order:
+      - Our School/Our Facilities.md
       - Our School/The School Song.md
       - Our School/Our Theme.md
       - Our School/Our Logo.md
