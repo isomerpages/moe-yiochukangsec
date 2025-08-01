@@ -2,6 +2,7 @@ collections:
   archived-pages:
     output: true
     order:
+      - E Open House.md
       - School Facilities.md
       - History.md
       - School Theme.md
