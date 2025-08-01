@@ -8,8 +8,11 @@ third_nav_title: Our Vendors
 ---
 <div class="yck-component">
 	<div class="regular-flow">
-		<h3>Asencio Pte Ltd</h3>
-		<div>
+		<div class="isomer-card">
+			<div class="isomer-card-body">
+				<div class="isomer-card-title">
+					<h3>Asencio Pte Ltd</h3></div>
+		<div class="isomer-card-description">
 <ul style="margin: 0; padding: 0; list-style: none;">
 	<li style="margin: 0; padding: 0;">120 Hillview Avenue</li>
 	<li style="margin: 0; padding: 0;">#05-02 Kewalram Hillview</li>
@@ -18,12 +21,18 @@ third_nav_title: Our Vendors
 	<li style="margin: 0; padding: 0;">Website: <a href="http://www.asencio.com.sg">www.asencio.com.sg</a></li>
 </ul>
 		</div>
-		<h4>School term operating hours:</h4>
+			</div>
+			<div class="isomer-card-body">
+<div class="isomer-card-title">
+	<h4>School term operating hours:</h4></div>
 <ul style="margin: 0; padding: 0; list-style: none;">
 	<li style="margin: 0; padding: 0;">Monday to Friday</li> 
 	<li style="margin: 0; padding: 0;">7.30am to 3pm</li>
 </ul>
 </div>
+		</div>
+	</div>
+	</div>
 	<div class="yck-component">
 <p>For year-end book sales, online ordering is available at <a target="_blank" href="https://asenciobookshop.sg">asenciobookshop.sg</a>.
 	<br>Please refer to <a href="/our-family/Students/Booklist/#booklist">respective booklists</a> for the periods of online and in-person book sales.
@@ -810,4 +819,4 @@ blockquote div {
     outline: none;
     box-shadow: 0 0 0 4px rgba(56, 142, 60, 0.5);
 }
-</style></div>
+</style>
