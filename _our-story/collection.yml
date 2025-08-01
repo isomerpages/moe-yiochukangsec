@@ -2,6 +2,7 @@ collections:
   our-story:
     output: true
     order:
+      - Beginning from 1965.md
       - The Story of Yio Chu Kang Secondary School.md
       - Principal's Message.md
       - Our School/.keep
