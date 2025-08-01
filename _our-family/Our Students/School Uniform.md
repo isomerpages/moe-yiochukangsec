@@ -3,6 +3,7 @@ title: School Uniform
 permalink: /our-family/Students/School-Uniform/
 description: ""
 third_nav_title: Our Students
+variant: markdown
 ---
 #### **School Uniform Supplier**
 
@@ -22,9 +23,10 @@ Website: www.asencio.com.sg
 
 School uniform sales hours during school term:
 
-Tuesday & Thursday - 9.00am to 3.00pm
+Tuesday &amp; Thursday - 9.00am to 3.00pm
 
   
+<h4 id="sizing-guides">Sizing Guides</h4>
 
 [Size selection photo guide](/files/Students/School%20Uniform/Size%20selection%20photo%20guide.pdf)  
 [Shoes Secondary size Guide](/files/Students/School%20Uniform/Shoes%20secondary%20size%20guide.pdf)  
@@ -36,7 +38,9 @@ Tuesday & Thursday - 9.00am to 3.00pm
 ### **Level T-shirt**
 
 
-There are distinct level t-shirts for each cohort. They are worn during selected school events such as Level Camps, Sports Carnival and other events approved by the school. The t-shirts reflect the different aspects of growth and themes of the level camps.
+<div id="levelt">
+	<p>There are distinct level t-shirts for each cohort. They are worn during selected school events such as Level Camps, Sports Carnival and other events approved by the school. The t-shirts reflect the different aspects of growth and themes of the level camps.</p>
+	</div>
 
   
 
