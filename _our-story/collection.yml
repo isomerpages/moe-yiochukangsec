@@ -2,6 +2,7 @@ collections:
   our-story:
     output: true
     order:
+      - Our History/In 1982.md
       - Our History/In 2001.md
       - Our History/In 2018.md
       - Our History/.keep
