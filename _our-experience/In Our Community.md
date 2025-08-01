@@ -10,9 +10,11 @@ description: Experience the pride and unity at Yio Chu Kang Secondary School's
 image: /images/Our Experience/In Our Community/NDP/yckss_at_ndp_2023_metaimg.JPG
 variant: markdown
 ---
-YCKSS taps into the community resources and platforms to create opportunities to enhance our students’ learning experiences beyond school. We actively seek to collaborate and engage in community activities and it is evidenced from the various events our students participated such as SYF Celebrations Festival Concert in 2018 and Yio Chu Kang Community Club National Day Observance Day 2018, etc.
+<div class="yck-component">
+<p>YCKSS taps into the community resources and platforms to create opportunities to enhance our students’ learning experiences beyond school. We actively seek to collaborate and engage in community activities and it is evidenced from the various events our students participated such as <abbr title="Singapore Youth Festival">SYF</abbr> Celebrations Festival Concert in 2018 and Yio Chu Kang Community Club National Day Observance Day 2018, etc.</p>
 
-To find out more details of each activity, please visit our [YCKSS Facebook Page](https://www.facebook.com/yiochukangsec) and [Instagram Posts](https://www.instagram.com/yiochukang_sec/) for the latest updates.
+<p>To find out more details of each activity, please visit our <a href="https://www.facebook.com/yiochukangsec">YCKSS Facebook Page</a> and <a href="https://www.instagram.com/yiochukang_sec/">Instagram Posts</a> for the latest updates.
+</p></div>
 
 
 
@@ -50,7 +52,13 @@ To find out more details of each activity, please visit our [YCKSS Facebook Page
                 <p></p>
             </div>
         </div>
-	</div><input type="checkbox" id="accordion2"><label for="accordion2"><h3 id="commevents">Community Events</h3></label><img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Community%20Events/C1.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Community%20Events/C2.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Community%20Events/C3.png"></li><li><input type="checkbox" id="accordion3"><label for="accordion3"><h3 id="clusterevents">Cluster Events</h3></label><p>The <b>Media &amp; Design Festival</b> has been organised annually since 2003 to promote Infocomm Technology (ICT) excellence among N6 Cluster Primary four, five and six students, as well as to develop the leadership capacity of Yio Chu Kang Secondary School students in playing the role of student instructors.</p><img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Cluster%20Events/C1.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Cluster%20Events/C2.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Cluster%20Events/C3.png"></li></ul>
+	</div>
+<div class="yck-component">	
+<input type="checkbox" id="accordion2"><label for="accordion2"><h3 id="commevents">Community Events</h3></label><img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Community%20Events/C1.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Community%20Events/C2.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Community%20Events/C3.png"></div></li><li>
+
+<div class="yck-component">
+<input type="checkbox" id="accordion3"><label for="accordion3"><h3 id="clusterevents">Cluster Events</h3></label><p>The <b>Media &amp; Design Festival</b> has been organised annually since 2003 to promote Infocomm Technology (ICT) excellence among N6 Cluster Primary four, five and six students, as well as to develop the leadership capacity of Yio Chu Kang Secondary School students in playing the role of student instructors.</p><img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Cluster%20Events/C1.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Cluster%20Events/C2.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Cluster%20Events/C3.png"></div></li></ul>
+
 
 <style>
 	:root {
