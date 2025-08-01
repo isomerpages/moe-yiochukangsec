@@ -8,10 +8,13 @@ third_nav_title: Our Vendors
 ---
 <div class="yck-component">
 	<div class="regular-flow">
+		
+<p>Our school uniform is provided by Asencio Pte Ltd.</p>
+		<div class="yck-flexbox-grid">
 		<div class="isomer-card">
 			<div class="isomer-card-body">
 				<div class="isomer-card-title">
-					<h3>Asencio Pte Ltd</h3></div>
+					Books/Stationery Provider</div>
 		<div class="isomer-card-description">
 <ul style="margin: 0; padding: 0; list-style: none;">
 	<li style="margin: 0; padding: 0;">120 Hillview Avenue</li>
@@ -24,12 +27,33 @@ third_nav_title: Our Vendors
 			</div>
 			<div class="isomer-card-body">
 <div class="isomer-card-title">
-	<h4>School term operating hours:</h4></div>
+	School term operating hours:</div>
 <ul style="margin: 0; padding: 0; list-style: none;">
 	<li style="margin: 0; padding: 0;">Monday to Friday</li> 
 	<li style="margin: 0; padding: 0;">7.30am to 3pm</li>
 </ul>
 </div>
+		</div>
+		<div class="isomer-card">
+			<div class="isomer-card-body">
+				<div class="isomer-card-title">School Uniform Supplier</div>
+				<div class="isomer-card-description">
+<ul style="margin: 0; padding: 0; list-style: none;">
+	<li style="margin: 0; padding: 0;">120 Hillview Avenue</li>
+	<li style="margin: 0; padding: 0;">Singapore 669594</li>
+	<li style="margin: 0; padding: 0;">Tel: 67643102</li>
+	<li style="margin: 0; padding: 0;">Fax: 67641032</li>
+	<li style="margin: 0; padding: 0;">Website: <a href="http://www.asencio.com.sg">www.asencio.com.sg</a></li>
+</ul>
+</div>
+			</div>
+			<div class="isomer-card-body">
+				<div class="isomer-card-title">Sales of School uniform during school term:</div>
+
+<ul style="margin: 0; padding: 0; list-style: none;">
+	<li style="margin: 0; padding: 0;">Tuesday &amp; Thursday</li>
+	<li style="margin: 0; padding: 0;">9.00am to 3.00pm</li>
+				</ul>
 		</div>
 	</div>
 	</div>
@@ -819,4 +843,4 @@ blockquote div {
     outline: none;
     box-shadow: 0 0 0 4px rgba(56, 142, 60, 0.5);
 }
-</style>
+</style></div></div>
