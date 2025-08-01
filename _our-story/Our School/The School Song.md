@@ -6,6 +6,41 @@ description: ""
 image: /images/YCKLogo.svg
 third_nav_title: Our School
 ---
+<div class="yck-component">
+    <figure>
+        <div class="masthead" id="schsongbg">
+            <h2 class="yck-h2">YCKSS School Song</h2>
+            <p>Our School is Yio Chu Kang.<br>
+                Together we learn and grow.<br>
+                Pursuit of knowledge, service to all,<br>
+                With gratitude and character, we show.<br>
+                Wholeheartedly, our Home.</p>
+            <p>Through our hopes and dreams,<br>
+                We see the best in all.<br>
+                With heart and soul, we lead<br>
+                And strive for excellence.<br>
+                Wholeheartedly, our School.<br>
+                Wholeheartedly, our Home.</p>
+            <figcaption>Musics &amp; Lyrics by: Mr Michael William Cartwright &amp; Ms Lio Dan Wei
+            </figcaption>
+        </div>
+    </figure>
+</div>
+
+<div class="yck-component">
+
+<h3>About the School Song</h3>
+
+
+<p>In 2018, Music teachers, Miss Dan Wei Lio and Mr Michael Cartwright began work on composing the music and writing the lyrics to a new song to represent the newly merged school. The song was officially launched during the 2019 Speech and Prize Giving Day.</p>
+
+<p>The song contains elements from the schools songs of the two antecedent schools, Chong Boon Secondary School and Yio Chu Kang Secondary School. The lyrics capture the beliefs and aspirations of the new school. At the same time, it cleverly weaves in familiar phrases from the former Yio Chu Kang Secondary School song. The beautiful new melody is shaped by some elements of the former Chong Boon Secondary School Song. In this way, the fresh school song captures both antecedent schools, while creatively evoking a contemporary spirit.</p>
+
+<p>A specially commissioned recording was produced by two of our alumni currently enjoying success in the Singapore music industry: Irwin Fua from Chong Boon Secondary School (class of 2003) and Elizabeth Low from Yio Chu Kang Secondary School (class of 2011). The instrumental arrangement is by Irwin and Elizabeth provided the vocals. The recording is played to accompany the weekly mass singing of the school song during the formal Assembly in the Performing Arts Theatre.</p>
+    
+</div>
+
+
 <style>
 	:root {
     --yck-text-line-height: 1.6em;
@@ -785,6 +820,45 @@ blockquote div {
 .cheer-button:focus {
     outline: none;
     box-shadow: 0 0 0 4px rgba(56, 142, 60, 0.5);
+}
+	
+.masthead {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    text-align: left;
+    width: 100%;
+    min-width: 500px;
+    height: 75vh;
+    /* if you don't want it to take up the full screen, reduce this number */
+    overflow: hidden;
+    background-size: cover !important;
+    margin: 0 auto;
+    padding: var(--yck-spacing-unit);
+
+}
+
+#schsongbg {
+    background: linear-gradient(to left, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0.6) 37%, rgba(255, 255, 255, 0.45) 60%, rgba(255, 255, 255, 0.85) 80%, rgba(255, 255, 255, 1) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Story/School%20Song/Sch_SongBG.png) no-repeat center center scroll;
+}
+
+.masthead h2 {
+    font: normal var(--yck-step-4) serif;
+    font-weight: 700;
+    color: #333;
+    letter-spacing: 0.04em;
+    text-shadow: 1px 2px 4px rgba(24, 24, 24, 0.55);
+}
+
+.masthead p {
+    font: normal var(--yck-step-2) sans-serif;
+    font-weight: 500;
+    color: #444;
+    font-size: var(--yck-step-2);
+    letter-spacing: 0.03em;
+    line-height: 1.5;
+    text-shadow: 1px 2px 4px rgba(24, 24, 24, 0.35);
 }
 
 </style>
