@@ -2,5 +2,4 @@ collections:
   our-history:
     output: true
     order:
-      - Campus Transformation 3/.keep
       - Campus Transformation 4/.keep
