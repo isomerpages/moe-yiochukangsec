@@ -7,16 +7,17 @@ image: /images/YCKLogo.svg
 third_nav_title: Our School
 ---
 <div class="yck-component">
+	<figure>
+<a target="_blank" href="https://4d.silvrcraft.com/yckss360vt/index.htm"><img src="/images/openhouse.jpg"></a>
+	<figcaption>Come visit us at our <a target="_blank" href="https://4d.silvrcraft.com/yckss360vt/index.htm">e-Open House</a> where we will bring you on a virtual tour experience like no other</figcaption>
+	</figure>
+</div>
+
 <div class="yck-component">
 	<div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2ak3zEn2iBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
 </div>
-<div class="yck-component">
-	<figure>
-<a target="_blank" href="https://4d.silvrcraft.com/yckss360vt/index.htm"><img src="/images/openhouse.jpg"></a>
-	<figcaption>Come visit us at our <a target="_blank" href="https://4d.silvrcraft.com/yckss360vt/index.htm">e-Open House</a> where we will bring you on a virtual tour experience like no other</figcaption>
-	</figure>
 
 
 <style>
@@ -800,4 +801,4 @@ blockquote div {
     box-shadow: 0 0 0 4px rgba(56, 142, 60, 0.5);
 }
 
-</style></div></div>
+</style>
