@@ -2,6 +2,7 @@ collections:
   archived-pages:
     output: true
     order:
+      - School Facilities.md
       - History.md
       - School Theme.md
       - School Song.md
