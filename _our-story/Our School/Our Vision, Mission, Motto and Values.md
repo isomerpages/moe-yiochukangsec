@@ -83,16 +83,7 @@ uphold truth and
 integrity to do the
 morally right</div>
 			</div>
-		</div>tude, Respect, Optimism, Wholeheartedness, Teamwork, Honesty<p></p>
-	
-</div>
-<p><strong>GROWTH</strong></p>
-
-
-<img alt="Vision Image" src="/images/Our%20Story/School%20Vision,%20Mission/V1.png">
-<img alt="Mission Image" src="/images/Our%20Story/School%20Vision,%20Mission/V2.png">
-<img alt="Values Image" src="/images/Our%20Story/School%20Vision,%20Mission/V3.png">
-</div>
+		</div>
 
 <style>
 	:root {
@@ -875,4 +866,4 @@ blockquote div {
     box-shadow: 0 0 0 4px rgba(56, 142, 60, 0.5);
 }
 
-</style></div>
+</style></div></div></div>
