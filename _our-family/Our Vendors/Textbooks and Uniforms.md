@@ -9,8 +9,8 @@ third_nav_title: Our Vendors
 <div class="yck-component">
 	<div class="regular-flow">
 		
-<p>Our school uniform is provided by Asencio Pte Ltd.</p>
-		<div class="yck-flexbox-grid">
+<p>Our Books, Stationery and School Uniform is provided by <strong>Asencio Pte Ltd</strong>.</p>
+	<div class="yck-flexbox-grid">
 		<div class="isomer-card">
 			<div class="isomer-card-body">
 				<div class="isomer-card-title">
@@ -62,6 +62,8 @@ third_nav_title: Our Vendors
 	<br>Please refer to <a href="/our-family/Students/Booklist/#booklist">respective booklists</a> for the periods of online and in-person book sales.
 	<br>Enquiry email:    <a href="mailto:yckss@asencio.com.sg">yckss@asencio.com.sg</a></p>
 	</div>
+		<div class="yck-component">
+<p>Please refer to the <a href="/our-family/Students/School-Uniform/#sizing-guides">Sizing Guides for Uniform</a> and<a href="/our-family/Students/School-Uniform/#levelt"> Level-Ts'</a> to get the correct sizes before buying.
 
 <style>
 :root {
@@ -843,4 +845,4 @@ blockquote div {
     outline: none;
     box-shadow: 0 0 0 4px rgba(56, 142, 60, 0.5);
 }
-</style></div></div>
+</style></p></div></div></div>
