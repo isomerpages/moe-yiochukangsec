@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Campus Transformation 1/.keep
-      - Campus Transformation 2/In 1982.md
       - Campus Transformation 2/.keep
       - Campus Transformation 3/In 2001.md
       - Campus Transformation 3/.keep
