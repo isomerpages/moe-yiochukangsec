@@ -9,7 +9,7 @@ variant: markdown
 image: /images/YCKLogo.svg
 third_nav_title: Clubs
 ---
-<div class="yck-component">
+<div class="yck-component"><img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/MARs%20Club/MARsClub.png">
     <h2>MARS Club at Yio Chu Kang Secondary School</h2>
     <p>The <strong>Mechatronics, Aeronautics, and Robotics Society (MARS)</strong> Club is where innovation meets exploration! Our club focuses on <strong>robotics</strong>, <strong>drones</strong>, and the exciting realms of <strong>STEM (Science, Technology, Engineering, and Mathematics)</strong>.</p>
     <h3>What We Do</h3>
