@@ -2,12 +2,6 @@ collections:
   our-story:
     output: true
     order:
-      - Our History/The Story of Yio Chu Kang Secondary School.md
-      - "Our History/Campus Transformation 1: The Pioneer Campus (1965).md"
-      - "Our History/Campus Transformation 2: A New Home in Ang Mo Kio (1982).md"
-      - Our History/Campus Transformation 3.md
-      - Our History/Campus Transformation 4.md
-      - Our History/.keep
       - Principal's Message.md
       - Our School/.keep
       - Our School/Our Vision, Mission, Motto and Values.md
@@ -15,6 +9,12 @@ collections:
       - Our School/Our Theme.md
       - Our School/The School Song.md
       - Our School/Our Facilities.md
+      - Our History/.keep
+      - Our History/The Story of Yio Chu Kang Secondary School.md
+      - "Our History/Campus Transformation 1: The Pioneer Campus (1965).md"
+      - "Our History/Campus Transformation 2: A New Home in Ang Mo Kio (1982).md"
+      - Our History/Campus Transformation 3.md
+      - Our History/Campus Transformation 4.md
       - Achievements/.keep
       - Achievements/School.md
       - Achievements/Alumni.md
