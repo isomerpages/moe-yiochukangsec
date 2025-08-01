@@ -2,5 +2,4 @@ collections:
   our-school:
     output: true
     order:
-      - The School Song.md
       - Our Facilities.md
