@@ -2,6 +2,7 @@ collections:
   our-story:
     output: true
     order:
+      - The Story of Yio Chu Kang Secondary School.md
       - Principal's Message.md
       - Our School/.keep
       - Our School/Our Vision, Mission, Motto and Values.md
