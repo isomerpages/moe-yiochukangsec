@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Our Logo.md
       - Our Theme.md
       - The School Song.md
       - Our Facilities.md
