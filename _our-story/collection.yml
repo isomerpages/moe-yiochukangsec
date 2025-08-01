@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our History/.keep
-      - In 2018.md
       - In 2001.md
       - In 1982.md
       - Beginning from 1965.md
