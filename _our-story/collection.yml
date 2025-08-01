@@ -4,11 +4,11 @@ collections:
     order:
       - Principal's Message.md
       - Our School/.keep
-      - Our School/Our Facilities.md
-      - Our School/The School Song.md
-      - Our School/Our Theme.md
-      - Our School/Our Logo.md
       - Our School/Our Vision, Mission, Motto and Values.md
+      - Our School/Our Logo.md
+      - Our School/Our Theme.md
+      - Our School/The School Song.md
+      - Our School/Our Facilities.md
       - History.md
       - Achievements/.keep
       - Achievements/School.md
