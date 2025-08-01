@@ -2,6 +2,7 @@ collections:
   archived-pages:
     output: true
     order:
+      - Media Club (Audio Visual, Photography & Videography).md
       - Digital Animation Club.md
       - In Our School.md
       - E Open House.md
