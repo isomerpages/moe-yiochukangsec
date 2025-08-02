@@ -4,7 +4,17 @@ permalink: /YCKSS-Map/
 description: ""
 variant: markdown
 ---
-![](/images/Homepage/Mapv2.jpg)
+<div class="yck-component">
+	<div class="regular-flow">
+		<div class="video-container">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.663877410728!2d103.83943087509424!3d1.378344498608644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da16c22ab68261%3A0xa45bab7e4ec2d880!2sYio%20Chu%20Kang%20Secondary%20School.!5e0!3m2!1sen!2ssg!4v1693504361533!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+</div>
+		<p>If you have any problems viewing the embedded Google Maps, ...</p>
+		<details><summary>you can try this map</summary>
+			<figure>
+				<img src="/images/Homepage/Mapv2.jpg">
+			</figure>
+		</details>
 
 <style>
 	:root {
@@ -786,4 +796,4 @@ blockquote div {
     outline: none;
     box-shadow: 0 0 0 4px rgba(56, 142, 60, 0.5);
 }
-</style>
+</style></div></div>
