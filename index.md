@@ -53,8 +53,4 @@ sections:
       url: /homecoming-carnival/
       image: /images/60th Anniversary/Homecoming_Carnival_EDM.png
       alt: The Homecoming Carnival
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
 ---
