@@ -1,5 +1,4 @@
 collections:
   our-history:
     output: true
-    order:
-      - Campus Transformation 4/.keep
+    order: []
