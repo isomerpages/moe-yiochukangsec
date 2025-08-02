@@ -19,6 +19,10 @@ sections:
           url: /Contact-us/
       background: /images/Homepage/2024_YCKSS_Homepage_GIF.gif
       variant: image
+      backgroundColor: gray
+      size: sm
+      title: Home Heart Hope
+      subtitle: asefas
   - infopic:
       title: 60th Anniversary Celebration
       subtitle: YIO CHU KANG SECONDARY SCHOOL
@@ -49,17 +53,8 @@ sections:
       url: /homecoming-carnival/
       image: /images/60th Anniversary/Homecoming_Carnival_EDM.png
       alt: The Homecoming Carnival
-  - infopic:
-      title: Cyber Wellness Challenge
-      subtitle: Singapore schools
-      button: Winning Entries
-      url: https://www.yiochukangsec.moe.edu.sg/2024-winning-entries/
-      image: /images/Sscwc/SSCWCWinningEntries.png
-      alt: Image alt text
-  - infopic:
-      title: Visit Us
-      button: Enter Here
-      url: https://4d.silvrcraft.com/yckss360vt/index.htm
-      image: /images/openhouse.jpg
-      alt: Virtual Tour
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
 ---
