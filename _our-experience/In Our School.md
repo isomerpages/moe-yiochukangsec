@@ -598,7 +598,7 @@ small {
 
 .yck-component .isomer-card:hover {
     transform: translateY(-5px);
-    box-shadow: var(--yck-inset-shadow1);
+    box-shadow: var(--yck-box-shadow);
 }
 
 .yck-component .isomer-card:hover .isomer-card-body .isomer-card-link {
@@ -607,7 +607,7 @@ small {
 
 .yck-component .isomer-card .isomer-card-image {
     width: 100%;
-    object-fit: cover;
+    object-fit: containr;
 }
 
 .yck-component .isomer-card .isomer-card-body {
@@ -617,7 +617,7 @@ small {
 .yck-component .isomer-card .isomer-card-body .isomer-card-title {
     color: #4a4a4a;
     font-weight: 700;
-    font-size: var(--yck-step-1);
+    font-size: var(--yck-step-2);
     overflow-wrap: break-word;
     text-wrap: balance;
 }
