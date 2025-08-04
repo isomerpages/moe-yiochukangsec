@@ -6,9 +6,9 @@ description: ""
 image: /images/YCKLogo.svg
 third_nav_title: Our School
 ---
-<div class="yck-component">
+<div class="yck-component" id="schsongbg">
     <figure>
-        <div class="masthead" id="schsongbg">
+        <div class="masthead">
             <h2 class="yck-h2">YCKSS School Song</h2>
             <p>Our School is Yio Chu Kang.<br>
                 Together we learn and grow.<br>
@@ -25,9 +25,7 @@ third_nav_title: Our School
             </figcaption>
         </div>
     </figure>
-</div>
 
-<div class="yck-component">
 
 <h3>About the School Song</h3>
 
@@ -830,7 +828,7 @@ blockquote div {
     text-align: left;
     width: 100%;
     min-width: 500px;
-    height: 75vh;
+    height: 100vh;
     /* if you don't want it to take up the full screen, reduce this number */
     overflow: hidden;
     background-size: cover !important;
@@ -840,7 +838,7 @@ blockquote div {
 }
 
 #schsongbg {
-    background: linear-gradient(to left, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0.6) 37%, rgba(255, 255, 255, 0.45) 60%, rgba(255, 255, 255, 0.85) 80%, rgba(255, 255, 255, 1) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Story/School%20Song/Sch_SongBG.png) no-repeat center center scroll;
+    background: linear-gradient(to left, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0.6) 37%, rgba(255, 255, 255, 0.45) 60%, rgba(255, 255, 255, 0.85) 80%, rgba(255, 255, 255, 1) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Story/School%20Song/Sch_SongBG.png) no-repeat bottom right fixed;
 }
 
 .masthead h2 {
