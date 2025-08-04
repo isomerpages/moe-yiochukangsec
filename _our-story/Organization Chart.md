@@ -5,6 +5,36 @@ variant: markdown
 description: ""
 image: /images/YCKLogo.svg
 ---
+<div class="bg-decoration">✨</div>
+<div class="bg-decoration">🌟</div>
+<div class="bg-decoration">💫</div>
+<div class="bg-decoration">⭐</div>
+<div class="bg-decoration">🔮</div>
+<div class="redirect-container">
+
+<div class="corner-decoration">✨</div>
+<div class="corner-decoration">🌟</div>
+<div class="corner-decoration">💫</div>
+<div class="corner-decoration">⭐</div>
+<div class="magic-icon">🚀</div>
+<h1>Magical Journey</h1>
+<p class="subtitle">
+    Hold tight! We're preparing something spectacular for you.<br>
+    Your adventure begins in just a moment...
+</p>
+<div class="progress-container">
+    <div class="progress-bar"></div>
+</div>
+<div class="loading-dots">
+    <div class="dot"></div>
+    <div class="dot"></div>
+    <div class="dot"></div>
+</div>
+<div class="countdown">
+    Redirecting in 5 seconds...
+</div>
+</div>
+
 <style>
 * {
     margin: 0;
@@ -425,36 +455,3 @@ h1 {
     }
 }
 </style>
-
-
-
-    
-    <div class="bg-decoration">✨</div>
-    <div class="bg-decoration">🌟</div>
-    <div class="bg-decoration">💫</div>
-    <div class="bg-decoration">⭐</div>
-    <div class="bg-decoration">🔮</div>
-    <div class="redirect-container">
-        
-        <div class="corner-decoration">✨</div>
-        <div class="corner-decoration">🌟</div>
-        <div class="corner-decoration">💫</div>
-        <div class="corner-decoration">⭐</div>
-        <div class="magic-icon">🚀</div>
-        <h1>Magical Journey</h1>
-        <p class="subtitle">
-           Looking for the Organization Chart?<br>
-            It's right here ... <a href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/our-family/our-staff/organization-chart/">Organization Chart</a>
-        </p>
-        <div class="progress-container">
-            <div class="progress-bar"></div>
-        </div>
-        <div class="loading-dots">
-            <div class="dot"></div>
-            <div class="dot"></div>
-            <div class="dot"></div>
-        </div>
-        <div class="countdown">
-            Redirecting in 5 seconds...
-        </div>
-    </div>
