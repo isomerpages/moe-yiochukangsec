@@ -34,10 +34,10 @@ variant: markdown
 
 <div class="yck-component">
 	<div class="qr-container">
-		<div><img src="/images/Our%20Story/YCKSS_FacebookQRCode.png"><small><figcaption><a style="text-decoration: none !important;" target="_blank" href="https://www.facebook.com/yiochukangsec">YCKSS Facebook</a></figcaption></small>
+		<div><img src="/images/Our%20Story/YCKSS_FacebookQRCode.png"><figcaption><a style="text-decoration: none !important;" target="_blank" href="https://www.facebook.com/yiochukangsec">YCKSS Facebook</a></figcaption>
 		</div>
 		<div>
-			<img src="/images/Our%20Story/YCKSS_InstagramQRCode.png"><small><figcaption><a target="_blank" href="https://www.instagram.com/yiochukang_sec/">YCKSS Instagram</a></figcaption></small>
+			<img src="/images/Our%20Story/YCKSS_InstagramQRCode.png"><figcaption><a target="_blank" href="https://www.instagram.com/yiochukang_sec/">YCKSS Instagram</a></figcaption>
 </div>
 </div>
 	
