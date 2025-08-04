@@ -2,7 +2,6 @@ collections:
   our-family:
     output: true
     order:
-      - Our Students/Useful Links (Our Students).md
       - Our Students/.keep
       - Our Students/The YCKSians.md
       - Our Students/School Uniform.md
@@ -12,6 +11,7 @@ collections:
       - Our Students/Class Timetable and Schedules.md
       - Our Students/Students Code of Conduct.md
       - Our Students/Useful Links.md
+      - Our Students/Useful Links (Our Students).md
       - Our Students/Assessment & Promotion.md
       - Our Students/Assessment Information & Schedules.md
       - Our Students/Direct School Admission.md
