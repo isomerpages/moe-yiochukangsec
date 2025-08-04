@@ -12,7 +12,7 @@ image: /images/YCKLogo.svg
     </p>
 </div>
 <hr>
-                                    <div class="yck-component" id="levelcamp">
+ <div class="yck-component" id="levelcamp">
                                         <div class="yck-flexbox-grid">
                                             <div class="isomer-card">
                                                 <div class="isomer-card-image">
