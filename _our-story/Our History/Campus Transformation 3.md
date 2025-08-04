@@ -8,19 +8,18 @@ third_nav_title: Our History
 ---
 <div class="yck-component">
 	<div class="regular-flow">
-		<p>In 2000, the school was selected as one of the first schools to benefit from the inaugural Programme to Rebuild or Improve (PRIME) existing schools. The new school was built in 2001 on site but the land it occupied was vastly expanded with a new main entrance from Ang Mo Kio Avenue 5.
+		<h2>The Village Campus</h2>
+<p>By 2000, the school's reputation had grown to the point where it was selected for the government’s inaugural PRIME (Programme to Rebuild or Improve Existing) initiative. The result was a brand-new campus, completed on an expanded site in 2001, guided by a profound and unique vision: to create a modern school designed as a "village" that paid homage to its rural soul.</p>
 
-It was designed with modern facilities, incorporated into a village concept of the original rural school. This is seen clearly in the long, wide, covered pavement leading from the main entrance to the school hall. This recreates the long path that formerly led to the main house of the village headman.
+<p>This philosophy was woven into the very architecture. A long, covered walkway, recreating the path to a traditional village headman’s house, led from the new main entrance to the school's heart. An unusual, rounded stairwell was ingeniously designed as a vertical rock-climbing wall, inspired by the memory of children climbing fruit trees in the old kampungs.</p>
 
-To reflect the school’s Arts niche programmes, non-standard facilities of dance and band studios, and an outdoor performance area were incorporated. This required an additional $256K in funds which was raised with SAC help. The unusual rounded stairwell outside the hall created a vertical rock climbing wall. This was inspired by the common rural activity of climbing fruit trees and echoes the rural origins of the school.
+<p>The new campus was purpose-built to nurture the school's burgeoning arts niche. With an additional $256,000 in funds raised by the School Advisory Committee (SAC), purpose-built dance and band studios were incorporated, finally giving the acclaimed performing arts groups a proper home beyond the corridors.</p>
 
-A prominent feature of the school building was the school hall. Over the years, successive upgrades were made to enhance its ability to host performing arts groups. At one point, the school even adopted the tagline of “School of the Arts” to reflect its deep connection in this niche. In 2008, the hall was officially opened as the Performing Arts Theatre.
+<p>The centrepiece of this new "village" was its magnificent school hall. It became so central to the school's identity that the tagline "School of the Arts" was adopted, a name whose faint etching can still be seen above the stage today—a physical remnant of a proud era. In 2008, after significant upgrades, the hall was officially christened the Performing Arts Theatre. So profound was its reputation that it became known informally as the "original SOTA," a nod to the national arts school established that same year.</p>
 
-Informally, it is known as the original SOTA, referencing Singapore’s first pre-tertiary specialised arts school set up by the government in 2008 bearing this name. In 2016, the name was removed from the school hall. Remnants of this name is still visible in the faint etching of this tagline encircling the school logo displayed above the school stage in the hall.
-
-Progressively, the school has made several upgrades and introduced new facilities that reflect changes to programmes offered to students. This include the creation of the Animation Lab, The I-Cube, the Gym and the Indoor Sports Hall, synthetic turf for the school field and a synthetic flooring for sports in the parade square.</p>
+<p>Yet, true to its nature, the school never stopped evolving. Throughout the 2000s and 2010s, further upgrades reflected new curricular needs: an Animation Lab, the I-Cube, a modern gym, an Indoor Sports Hall, and an all-weather synthetic turf field. This constant drive for improvement showed that even this state-of-the-art campus would eventually need to enter a new phase to meet the future.</p>
 	</div>
-	</div>
+</div>
 
 <style>
 	:root {
