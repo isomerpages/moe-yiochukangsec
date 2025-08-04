@@ -5,6 +5,37 @@ variant: markdown
 description: ""
 image: /images/YCKLogo.svg
 ---
+<div class="yck-component">
+    <div class="bg-decoration">✨</div>
+    <div class="bg-decoration">🌟</div>
+    <div class="bg-decoration">💫</div>
+    <div class="bg-decoration">⭐</div>
+    <div class="bg-decoration">🔮</div>
+    <div class="redirect-container">
+        <div class="corner-decoration">✨</div>
+        <div class="corner-decoration">🌟</div>
+        <div class="corner-decoration">💫</div>
+        <div class="corner-decoration">⭐</div>
+        <div class="magic-icon">🚀</div>
+        <h1>Magical Journey</h1>
+        <p class="subtitle">
+            Looking for the Organization Chart?.<br>
+            Well ... It's now here ... <a href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/our-family/our-staff/organisation-chart/">Organisation Chart</a>
+        </p>
+        <div class="progress-container">
+            <div class="progress-bar"></div>
+        </div>
+        <div class="loading-dots">
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+        </div>
+        <div class="countdown">
+            Redirecting in 5 seconds...
+        </div>
+    </div>
+</div>
+
 <style>
 .yck-component {
     font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
@@ -422,36 +453,3 @@ image: /images/YCKLogo.svg
     }
 }
 </style>
-
-<div class="yck-component">
-    
-    <div class="bg-decoration">✨</div>
-    <div class="bg-decoration">🌟</div>
-    <div class="bg-decoration">💫</div>
-    <div class="bg-decoration">⭐</div>
-    <div class="bg-decoration">🔮</div>
-    <div class="redirect-container">
-        
-        <div class="corner-decoration">✨</div>
-        <div class="corner-decoration">🌟</div>
-        <div class="corner-decoration">💫</div>
-        <div class="corner-decoration">⭐</div>
-        <div class="magic-icon">🚀</div>
-        <h1>Magical Journey</h1>
-        <p class="subtitle">
-            Looking for the Organization Chart?.<br>
-            Well ... It's now here ... <a href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/our-family/our-staff/organisation-chart/">Organisation Chart</a>
-        </p>
-        <div class="progress-container">
-            <div class="progress-bar"></div>
-        </div>
-        <div class="loading-dots">
-            <div class="dot"></div>
-            <div class="dot"></div>
-            <div class="dot"></div>
-        </div>
-        <div class="countdown">
-            Redirecting in 5 seconds...
-        </div>
-    </div>
-</div>
