@@ -36,8 +36,7 @@ variant: markdown
 	<div class="bqcontainer">	
 		<figure>
 		<img src="/images/Our%20Story/YCKSS_FacebookQRCode.png"><figcaption>	<a style="text-decoration: none !important;" target="_blank" href="https://www.facebook.com/yiochukangsec">YCKSS Facebook</a></figcaption>
-		
-		</figure>
+</figure>
 	<figure>
 		<img src="/images/Our%20Story/YCKSS_InstagramQRCode.png"><figcaption><a target="_blank" href="https://www.instagram.com/yiochukang_sec/">YCKSS Instagram</a></figcaption>
 	</figure>
