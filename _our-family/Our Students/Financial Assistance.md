@@ -23,10 +23,12 @@ Please contact the **General Office at&nbsp;6456 0669**&nbsp;if you have any que
 	<div class="regular-flow">
 <h3>Useful Links</h3>
 
-* [2024 MOE&nbsp; FAS Application Form](/files/Students/Financial%20Assistance/2024_MOE_FAS_Application_Form.pdf) 
-* [Transport e-Voucher Redemption Process ](/files/Students/Financial%20Assistance/eVoucher%20Redemption%20Process%202016.pdf)  
-*   [List of Transit Link Ticket Offices](https://www.simplygo.com.sg/simplygo-ticket-offices/)
-*   [List of Add Value Machine Plus (AVM+)](https://www.transitlink.com.sg/PSdetail.aspx?ty=art&amp;Id=29)
+<ul>
+  <li><a target="_blank" href="/files/Students/Financial%20Assistance/2024_MOE_FAS_Application_Form.pdf">2024 MOE&nbsp; FAS Application Form</a></li>
+  <li><a target="_blank" href="/files/Students/Financial%20Assistance/eVoucher%20Redemption%20Process%202016.pdf">Transport e-Voucher Redemption Process</a></li>
+  <li><a target="_blank" href="https://www.simplygo.com.sg/simplygo-ticket-offices/">List of Transit Link Ticket Offices</a></li>
+  <li><a target="_blank" href="https://www.transitlink.com.sg/PSdetail.aspx?ty=art&amp;Id=29">List of Add Value Machine Plus (AVM+)</a></li>
+</ul>
 	</div>
 	</div>
 		
