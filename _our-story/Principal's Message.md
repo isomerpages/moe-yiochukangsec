@@ -831,6 +831,7 @@ blockquote div {
 }
 
 .qr-container img {
+	max-width: 60%;
   min-width: 100px;
 }
 
