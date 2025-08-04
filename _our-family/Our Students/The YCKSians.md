@@ -44,10 +44,6 @@ variant: markdown
     text-rendering: optimizeSpeed;
 }
 
-body {
-    min-height: 100vh;
-}
-
 ::selection {
     text-shadow: none;
     background: yellow;
@@ -68,6 +64,7 @@ video {
     font-size: var(--yck-step-0);
     margin-bottom: var(--yck-space-s-xl);
     position: relative;
+	 min-height: 100vh;
 }
 
 .yck-component h1,
