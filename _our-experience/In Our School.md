@@ -61,12 +61,12 @@ image: /images/YCKLogo.svg
                                                     <div class="isomer-card-image">
                                                         <div class="video-container"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/xWxW7cRhwfM?si=WnKIMnhkggsrkzKp" height="315" width="560"></iframe></div>
                                                     </div>
-                                                </div>
                                                 <div class="isomer-card-title">Annual Speech and Prize Giving Day</div>
                                                 <div class="isomer-card-description">
                                                     <p>Our Annual Speech &amp; Prize-Giving Day is a distinguished occasion celebrating the academic achievements of our students, with a special focus on our graduating cohort. The ceremony is also a showcase of the school's artistic excellence, culminating in a dynamic concert by our talented performing arts groups.</p>
                                                 </div>
                                             </div>
+																					</div>
                                             <div class="isomer-card">
                                                 <div class="isomer-card-body">
                                                     <div class="isomer-card-image">
