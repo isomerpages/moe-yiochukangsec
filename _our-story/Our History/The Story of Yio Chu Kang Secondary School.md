@@ -7,78 +7,78 @@ image: /images/YCKLogo.svg
 third_nav_title: Our History
 ---
 <div class="yck-component">
-	<div class="regular-flow">
-		<h3>The Pioneer Spirit: The Story of Yio Chu Kang Secondary</h3>
-	<p>Born from the aspirations of a new nation, Yio Chu Kang Secondary School was founded in 1965, the 61st school established in a newly independent Singapore. Its creation was a direct response to personal requests from the farming community of Yio Chu Kang to their Prime Minister, Mr. Lee Kuan Yew, for a school to serve their children. Its original campus stood at the <a href="#see-footnote">11th milestone of Yio Chu Kang Road.</a></p>
-		
-<div class="yck-img-array">
-	<div class="isomer-card">
-                                        <div class="isomer-card-body">
-                                            <div class="isomer-card-description">
-                                                <div class="footnote">
-                                            <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/img0042.jpg">
-                                                </div>
-                                            </div>
-                                        </div>
-                                            </div>
-                                            <div class="isomer-card">
-                                        <div class="isomer-card-body">
-                                            <div class="isomer-card-description">
-                                                <div class="footnote">
-                                            <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/img0022.jpg">
-                                                </div>
-                                            </div>
-                                                </div>
-                                            </div>
-                                            <div class="isomer-card">
-                                        <div class="isomer-card-body">
-                                            <div class="isomer-card-description">
-                                                <div class="footnote">
-                                            <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/img0028.jpg">
-                                                </div>
-                                            </div>
-                                                </div>
-                                            </div>
-                                            <div class="isomer-card">
-                                        <div class="isomer-card-body">
-                                            <div class="isomer-card-description">
-                                                <div class="footnote">
-                                            <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/img0059.jpg">
-                                                </div>
-                                            </div>
-                                                </div>
-                                            </div>
-                                        </div>
-
-<p>Officially opened by then-Minister for Education Mr. Ong Pang Boon, the school began as an integrated English and Chinese-stream institution. This model was a critical nation-building strategy, designed to place multiple language streams under a single administration to foster social integration and underscore the importance of bilingualism.</p>
-
-<p>The story of Yio Chu Kang is one of constant evolution, marked by <strong>four major campus transformations</strong> that mirror the growth of our nation. Each chapter in this journey—from its <a href="/our-history/campus-transformation-1/1965/">humble origins in <abbr title="Campus Transformation 1">1965</abbr></a>, to its first <a href="/our-history/campus-transformation-2/1982/">major rebuilding in <abbr title="Campus Transformation 2">1982</abbr></a>, its <a href="/our-history/campus-transformation-3/2001/">modernization in <abbr title="Campus Transformation 3">2001</abbr></a>, and its most <a href="/our-history/campus-transformation-4/2018/">recent merger in <abbr title="Campus Transformation 4">2018</abbr></a>—is a testament to the school's resilience and its commitment to excellence.</p>
-
-<p>This spirit of adaptation has kept the school at the forefront of national education initiatives. In 2014, it became the second satellite school for Pathlight, an innovative partnership creating sustained opportunities for the academic and social integration of students with different learning abilities.</p>
-
-<div id="chongboontreebg">
-<p>The most recent transformation occurred in 2018 with the merger of Chong Boon Secondary School. This union honours the distinct heritage of both institutions while creating a new, unified identity. It powerfully demonstrates the school's agility and its capacity to evolve while remaining true to its founding ideals: <strong>Pursuit, Knowledge, and Service.</strong></p>
-
-
-
-<p>Through five decades of profound change in Singapore's landscape, Yio Chu Kang Secondary School has not only survived but thrived, embodying the pioneer spirit of improving lives while skillfully adapting its programmes to meet the needs of every generation.</p></div>
+    <div class="regular-flow">
+        <h3>The Pioneer Spirit: The Story of Yio Chu Kang Secondary</h3>
+        <p>
+            Born from the aspirations of a new nation, Yio Chu Kang Secondary School was
+            founded in 1965, the 61st school established in a newly independent
+            Singapore. Its creation was a direct response to personal requests from the
+            farming community of Yio Chu Kang to their Prime Minister, Mr. Lee Kuan Yew,
+            for a school to serve their children. Its original campus stood at the
+            <a href="#see-footnote">11th milestone of Yio Chu Kang Road.</a>
+        </p>
+        <div class="yck-img-array">
+            <figure>
+                <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/img0042.jpg">
+            </figure>
+            <figure><img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/img0022.jpg">
+            </figure>
+            <figure>
+                <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/img0028.jpg">
+            </figure>
+            <figure>
+                <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/img0059.jpg">
+            </figure>
+        </div>
+    </div>
 </div>
+<div class="yck-component" id="chongboontreebg">
+    <div class="regular-flow">
+        <p>
+            Officially opened by then-Minister for Education Mr. Ong Pang Boon, the
+            school began as an integrated English and Chinese-stream institution. This
+            model was a critical nation-building strategy, designed to place multiple
+            language streams under a single administration to foster social integration
+            and underscore the importance of bilingualism.
+        </p>
+        <p>
+            The story of Yio Chu Kang is one of constant evolution, marked by
+            <strong>four major campus transformations</strong> that mirror the growth of
+            our nation. Each chapter in this journey—from its
+            <a href="/our-history/campus-transformation-1/1965/">humble origins in <abbr title="Campus Transformation 1">1965</abbr></a>, to its first
+            <a href="/our-history/campus-transformation-2/1982/">major rebuilding in
+                <abbr title="Campus Transformation 2">1982</abbr></a>, its
+            <a href="/our-history/campus-transformation-3/2001/">modernization in <abbr title="Campus Transformation 3">2001</abbr></a>, and its most
+            <a href="/our-history/campus-transformation-4/2018/">recent merger in <abbr title="Campus Transformation 4">2018</abbr></a>—is a testament to the school's resilience and its commitment to
+            excellence.
+        </p>
+        <p>
+            This spirit of adaptation has kept the school at the forefront of national
+            education initiatives. In 2014, it became the second satellite school for
+            Pathlight, an innovative partnership creating sustained opportunities for
+            the academic and social integration of students with different learning
+            abilities.
+        </p>
+        <p>
+            The most recent transformation occurred in 2018 with the merger of Chong
+            Boon Secondary School. This union honours the distinct heritage of both
+            institutions while creating a new, unified identity. It powerfully
+            demonstrates the school's agility and its capacity to evolve while
+            remaining true to its founding ideals:
+            <strong>Pursuit, Knowledge, and Service.</strong>
+        </p>
+        <p>
+            Through five decades of profound change in Singapore's landscape, Yio
+            Chu Kang Secondary School has not only survived but thrived, embodying
+            the pioneer spirit of improving lives while skillfully adapting its
+            programmes to meet the needs of every generation.
+        </p>
+    </div>
 </div>
 <hr>
-<div class="yck-component">
-                                <div class="bqcontainer">
-                                            <div class="footnote" id="see-footnote">
-                                                <p>Footnote:<br>
-                                                    </p><ul>
-                                                        <li><a target="_blank" href="https://www.nas.gov.sg/archivesonline/photographs/record-details/2f8bda0c-1162-11e3-83d5-0050568939ad"><small><em>MINISTER FOR EDUCATION ONG PANG BOON ATTENDS OPENING OF YIO CHU KANG SECONDARY SCHOOL AT 10 MILESTONE, YIO CHU KANG ROAD</em></small></a></li>
-                                                        <li><a target="_blank" href="https://www.nas.gov.sg/archivesonline/photographs/record-details/c6e97133-1161-11e3-83d5-0050568939ad"><small><em>MINISTER FOR EDUCATION ONG PANG BOON BEING GREETED ON ARRIVAL FOR OPENING OF YIO CHU KANG SECONDARY SCHOOL AT 10 MILESTONE, YIO CHU KANG ROAD</em></small></a></li>
-                                                    </ul>
-                                            </div>
-                                        </div>
-                                    </div>
 
 <style>
-	:root {
+:root {
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
@@ -224,6 +224,7 @@ hr {
 .yck-component small,
 small {
     font-size: var(--yck-step--2);
+    line-height: var(--yck-spacing-unit);
 }
 
 .yck-component .regular-flow > * + * {
@@ -453,13 +454,13 @@ small {
     border-radius: 8px;
     overflow: hidden;
     transition:
-        transform 0.6s var(--yck-transition-timing),
-        box-shadow 0.6s var(--yck-transition-timing);
+        transform 0.8s var(--yck-transition-timing),
+        box-shadow 0.8s var(--yck-transition-timing);
 }
 
 .yck-component .isomer-card:hover {
     transform: translateY(-5px);
-    box-shadow: var(--yck-box-shadow);
+    box-shadow: var(--yck-inset-shadow1);
 }
 
 .yck-component .isomer-card:hover .isomer-card-body .isomer-card-link {
@@ -725,7 +726,6 @@ blockquote div {
     font-size: var(--yck-step--1);
     font-weight:  300;
     padding:  var(--yck-spacing-unit);
-    line-height: var(--yck-spacing-unit);
     box-shadow: var(--yck-inset-shadow2);
 }
 
@@ -857,9 +857,17 @@ blockquote div {
     outline: none;
     box-shadow: 0 0 0 4px rgba(56, 142, 60, 0.5);
 }
-	
+
 #chongboontreebg {
-                            background: linear-gradient(to top, rgba(255, 255, 255, 1) 10%, rgba(255, 255, 255, 0.6) 47%, rgba(255, 255, 255, 0.65) 30%, rgba(255, 255, 255, 0.7) 65%, rgba(255, 255, 255, 0.9) 50%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/chongboontree.png) no-repeat center center local;
-	background-size: cover;
-                        }
+    background:
+        linear-gradient(to top,
+        rgba(255, 255, 255, 1) 10%,
+        rgba(255, 255, 255, 0.6) 47%,
+        rgba(255, 255, 255, 0.65) 30%,
+        rgba(255, 255, 255, 0.7) 65%,
+        rgba(255, 255, 255, 0.9) 50%),
+        url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/chongboontree.png) no-repeat top right fixed;
+    background-size: contain;
+	min-height: 100vh;
+}
 </style>
