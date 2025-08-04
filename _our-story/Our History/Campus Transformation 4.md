@@ -8,15 +8,16 @@ third_nav_title: Our History
 ---
 <div class="yck-component">
 	<div class="regular-flow">
-		<p>In 2017, with the anticipated changes to the school as a Merged School, a growing Pathlight Satellite School, and to cater to more small group teaching, some classrooms were installed with partitions. Fortunately timed with the merger was the General Renovation and Repair (GR&amp;R) Exercise at the end of 2017, during which the entire school was repainted with a fresh colour scheme and a new look was given to the school foyer and the staff cabinets outside the main staff room.
+		<h2>A Union of Legacies</h2>
+		<p>The school's fourth and most recent transformation was catalyzed by its 2018 merger with Chong Boon Secondary School. This was not a simple relocation but a complex and thoughtful process of integrating two histories, two cultures, and an expanding student body into a single, reimagined institution.</p>
 
-To echo the Merged School identity, a new school sign was erected at the main gate to display the name of the school in English and the adoption of Chong Boon’s Chinese name, 崇 文 中 学. Forty-Nine Solar Panels from Chong Boon, a legacy of her strong environmental education programme, were installed in Yio Chu Kang Secondary School.
+<p>The union was first declared at the front gate. A new school sign was erected, displaying the name in English alongside Chong Boon’s respected Chinese name, 崇文中学, a clear signal that both legacies would be honoured. In perhaps the most meaningful gesture, 49 solar panels—the proud legacy of Chong Boon's strong environmental education programme—were carefully relocated and installed on the Yio Chu Kang campus, physically transferring a piece of one school's soul to the heart of the other.</p>
 
-To accommodate the larger staff and student strength due to the school merger, several changes were made to the existing infrastructure. This included a new staff room that was set up on level 3 to accommodate the English Department. To make room for more classes for teaching and learning, the Needlework room was converted into a normal classroom with flexible configuration. Several open spaces were converted into study hubs for student to gather after school hours. This gave students additional options to do self-study, hold consultations with teachers, or to hold discussions with schoolmates and collaborate informally on learning projects.
+<p>This new identity required a campus that could adapt. A fortunately timed General Renovation and Repair (GR&amp;R) exercise in late 2017 allowed the entire school to be repainted with a fresh colour scheme. To accommodate the larger, merged staff, a new staff room was created. To serve more students, specialized spaces like the Needlework room were converted into flexible classrooms, and open areas were transformed into modern study hubs for collaboration and consultation.
 
-As a satellite school for Pathlight School, 14 classrooms were converted progressively since 2014 for Pathlight students.
+</p><p>Parallel to the merger was the school’s ongoing expansion to meet growing needs. The successful Pathlight satellite programme, which began in 2014, continued to grow. To provide space for all its students, a new classroom block was constructed in 2017, opening its doors to the senior cohorts on January 2, 2020.</p>
 
-In 2017, a new classroom block was constructed to provide YCKSians with additional classrooms and a covered void deck for student activities. The new block was opened for use on 2 Jan 2020 with the Secondary Four and Five students occupying it.</p>
+<p>From its humble, zinc-roofed origins in a rural village to the dynamic, integrated campus of today, Yio Chu Kang Secondary School has continually transformed itself, forever embodying a spirit of relentless improvement in service of its community and its students.</p>
 	</div>
 	</div>
 
