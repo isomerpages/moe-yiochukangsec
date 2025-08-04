@@ -93,21 +93,29 @@ image: /images/YCKLogo.svg
                                             <div class="isomer-card">
                                                 <div class="isomer-card-body">
                                                     <div class="isomer-card-image">
-                                                        <img src="https://placehold.co/600x400"></div>
+                                                        <div class="video-container">
+                                                            <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/wid1s6MvMKs?si=42dbLqLmDi5pkX-Z" height="315" width="560"></iframe>
+                                                        </div></div>
                                                     <div class="isomer-card-title">Cantabile!</div>
-                                                    <div class="isomer-card-description"> ... </div>
+                                                    <div class="isomer-card-description">
+																									<p>Highlights from Cantabile Concert 2024 held in Yio Chu Kang Secondary on 15 November. Watch the <a target="_blank" href="https://youtu.be/31CTJ73HnCc?si=RELAl8yLgHWnm25m">full concert</a> on our Youtube Channel.</p></div>
                                                 </div>
                                             </div>
                                             <div class="isomer-card">
                                                 <div class="isomer-card-body">
                                                     <div class="isomer-card-image">
-                                                        <img src="https://placehold.co/600x400"></div>
+																											<div class="video-container">
+																												<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/0gMIm58tj8A?si=x8pENslcE8YBkoLD" height="315" width="560"></iframe>
+																									</div>
+                                                        <img src="/images/Top_Banner.png"></div>
                                                     <div class="isomer-card-title">Singapore Schools Cyberwellness Challenge (SSCWC)</div>
-                                                    <div class="isomer-card-description"> ... </div>
+                                                    <div class="isomer-card-description">
+																									<p>The Singapore Schools Cyber Wellness Challenge (SSCWC) is a national film competition where secondary students mentor primary school peers to champion digital citizenship. Supported by the <a target="_blank" href="https://www.mlc.sg/">Media Literacy Council</a> and guided by experts from <a target="_blank" href="https://www.touch.org.sg/get-assistance/cyber-wellness.html">TOUCH Cyber Wellness</a> and Apple, teams collaborate to produce impactful films on iPads. This unique partnership cultivates leadership in older students while empowering younger ones to become safe, responsible digital creators..</p></div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
+																		<hr>
 <div class="yck-component" id="levelcamp">
     <h2>Level Camps</h2>
     <div class="ken-burns-container">
