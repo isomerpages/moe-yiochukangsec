@@ -12,9 +12,9 @@ image: /images/YCKLogo.svg
     </p>
 </div>
 <hr>
- <div class="yck-component" id="levelcamp">
+ <div class="yck-component">
                                         <div class="yck-flexbox-grid">
-                                            <div class="isomer-card">
+                                            <div class="isomer-card" id="levelcamp">
                                                 <div class="isomer-card-image">
                                                     <div class="ken-burns-container">
                                                         <img alt="Students engaged in activities during the Level Camp" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Experience/In%20Our%20School/LevelCamp2025.jpg" class="ken-burns-image">
@@ -28,7 +28,7 @@ image: /images/YCKLogo.svg
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="isomer-card">
+                                            <div class="isomer-card" id="sportsday">
                                                 <div class="isomer-card-body">
                                                     <div class="isomer-card-image">
                                                         <div class="video-container">
@@ -43,7 +43,7 @@ image: /images/YCKLogo.svg
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="isomer-card">
+                                            <div class="isomer-card" id="earcandy">
                                                 <div class="isomer-card-image">
                                                     <div class="ken-burns-container">
                                                         <img alt="It's EarCandy! time at YCKSS" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20School/S3.jpg" class="ken-burns-image">
@@ -56,7 +56,7 @@ image: /images/YCKLogo.svg
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="isomer-card">
+                                            <div class="isomer-card" id="speechday">
                                                 <div class="isomer-card-body">
                                                     <div class="isomer-card-image">
                                                         <div class="video-container"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/xWxW7cRhwfM?si=WnKIMnhkggsrkzKp" height="315" width="560"></iframe></div>
@@ -67,7 +67,7 @@ image: /images/YCKLogo.svg
                                                 </div>
                                             </div>
 																					</div>
-                                            <div class="isomer-card">
+                                            <div class="isomer-card" id="syf">
                                                 <div class="isomer-card-body">
                                                     <div class="isomer-card-image">
                                                         <div class="video-container">
@@ -90,7 +90,7 @@ image: /images/YCKLogo.svg
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="isomer-card">
+                                            <div class="isomer-card" id="cantabile">
                                                 <div class="isomer-card-body">
                                                     <div class="isomer-card-image">
                                                         <div class="video-container">
@@ -101,7 +101,7 @@ image: /images/YCKLogo.svg
 																									<p>Highlights from Cantabile Concert 2024 held in Yio Chu Kang Secondary on 15 November. Watch the <a target="_blank" href="https://youtu.be/31CTJ73HnCc?si=RELAl8yLgHWnm25m">full concert</a> on our Youtube Channel.</p></div>
                                                 </div>
                                             </div>
-                                            <div class="isomer-card">
+                                            <div class="isomer-card" id="sscwc">
                                                 <div class="isomer-card-body">
                                                     <div class="isomer-card-image">
 																											<div class="video-container">
