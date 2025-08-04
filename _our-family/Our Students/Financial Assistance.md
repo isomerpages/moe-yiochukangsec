@@ -11,11 +11,8 @@ variant: markdown
 
 <p>Singapore Citizen students from households with gross monthly household income (GHI) not exceeding $3,000, or per capita income (PCI) not exceeding $750, are eligible for the MOE FAS from 1 January, 2024.</p>
 
-<p>Parents who wish to apply may obtain a copy of the MOE FAS application form from the General Office, and return the completed form along with relevant documents to the school for processing.</p>
-
-Alternatively, you may submit the application electronically using this [link.](https://form.gov.sg/64e2f8f73f582600139f54ac)&nbsp;
-
-Please contact the **General Office at&nbsp;6456 0669**&nbsp;if you have any queries.
+<p>Parents who wish to apply may obtain a copy of the MOE FAS application form from the General Office, and return the completed form along with relevant documents to the school for processing. Alternatively, you may submit the application electronically using <a target="_blank" class="text-link" href="https://form.gov.sg/64e2f8f73f582600139f54ac">this link</a>.</p>
+<p>Please contact the <strong>General Office at 6456 0669</strong>&nbsp;if you have any queries.</p>
 </div></div>
 
 
