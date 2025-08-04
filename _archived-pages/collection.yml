@@ -2,6 +2,7 @@ collections:
   archived-pages:
     output: true
     order:
+      - Organization Chart.md
       - Useful Links (Archive).md
       - Media Club (Audio Visual, Photography & Videography).md
       - Digital Animation Club.md
