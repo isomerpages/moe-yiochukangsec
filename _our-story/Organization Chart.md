@@ -5,44 +5,8 @@ variant: markdown
 description: ""
 image: /images/YCKLogo.svg
 ---
-<div class="bg-decoration">✨</div>
-<div class="bg-decoration">🌟</div>
-<div class="bg-decoration">💫</div>
-<div class="bg-decoration">⭐</div>
-<div class="bg-decoration">🔮</div>
-<div class="redirect-container">
-
-<div class="corner-decoration">✨</div>
-<div class="corner-decoration">🌟</div>
-<div class="corner-decoration">💫</div>
-<div class="corner-decoration">⭐</div>
-<div class="magic-icon">🚀</div>
-<h1>Magical Journey</h1>
-<p class="subtitle">
-    Looking for the Organization Chart?.<br>
-    Well ... It's now here ... <a href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/our-family/our-staff/organization-chart/">Organization Chart</a>
-</p>
-<div class="progress-container">
-    <div class="progress-bar"></div>
-</div>
-<div class="loading-dots">
-    <div class="dot"></div>
-    <div class="dot"></div>
-    <div class="dot"></div>
-</div>
-<div class="countdown">
-    Redirecting in 5 seconds...
-</div>
-</div>
-
 <style>
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-body {
+.yck-component {
     font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
     background-size: 400% 400%;
@@ -53,6 +17,9 @@ body {
     overflow: hidden;
     position: relative;
     animation: gradientShift 8s ease infinite;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 @keyframes gradientShift {
@@ -70,42 +37,42 @@ body {
 }
 
 /* Floating background elements */
-.bg-decoration {
+.yck-component .bg-decoration {
     position: absolute;
     opacity: 0.1;
     animation: float 6s ease-in-out infinite;
     pointer-events: none;
 }
 
-.bg-decoration:nth-child(1) {
+.yck-component .bg-decoration:nth-child(1) {
     top: 10%;
     left: 10%;
     font-size: 4rem;
     animation-delay: 0s;
 }
 
-.bg-decoration:nth-child(2) {
+.yck-component .bg-decoration:nth-child(2) {
     top: 20%;
     right: 15%;
     font-size: 3rem;
     animation-delay: -2s;
 }
 
-.bg-decoration:nth-child(3) {
+.yck-component .bg-decoration:nth-child(3) {
     bottom: 20%;
     left: 20%;
     font-size: 5rem;
     animation-delay: -4s;
 }
 
-.bg-decoration:nth-child(4) {
+.yck-component .bg-decoration:nth-child(4) {
     bottom: 30%;
     right: 10%;
     font-size: 3.5rem;
     animation-delay: -1s;
 }
 
-.bg-decoration:nth-child(5) {
+.yck-component .bg-decoration:nth-child(5) {
     top: 50%;
     left: 5%;
     font-size: 2.5rem;
@@ -129,7 +96,7 @@ body {
 }
 
 /* Main container */
-.redirect-container {
+.yck-component .redirect-container {
     text-align: center;
     color: white;
     z-index: 10;
@@ -177,7 +144,7 @@ body {
 }
 
 /* Magical icon */
-.magic-icon {
+.yck-component .magic-icon {
     font-size: 5rem;
     margin-bottom: 2rem;
     display: inline-block;
@@ -213,7 +180,7 @@ body {
     }
 }
 
-h1 {
+.yck-component h1 {
     font-size: 3.5rem;
     font-weight: 800;
     margin-bottom: 1.5rem;
@@ -238,7 +205,7 @@ h1 {
     }
 }
 
-.subtitle {
+.yck-component .subtitle {
     font-size: 1.3rem;
     margin-bottom: 3rem;
     opacity: 0.95;
@@ -259,7 +226,7 @@ h1 {
 }
 
 /* Progress bar */
-.progress-container {
+.yck-component .progress-container {
     width: 100%;
     height: 12px;
     background: rgba(255, 255, 255, 0.2);
@@ -270,7 +237,7 @@ h1 {
     animation: fadeInUp 1s ease-out 1s both;
 }
 
-.progress-bar {
+.yck-component .progress-bar {
     height: 100%;
     background: linear-gradient(90deg,
         #00f5ff 0%,
@@ -309,7 +276,7 @@ h1 {
 }
 
 /* Loading dots */
-.loading-dots {
+.yck-component .loading-dots {
     display: flex;
     justify-content: center;
     gap: 12px;
@@ -317,7 +284,7 @@ h1 {
     animation: fadeInUp 1s ease-out 1.5s both;
 }
 
-.dot {
+.yck-component .dot {
     width: 16px;
     height: 16px;
     background: linear-gradient(135deg, #fff, #e0e0e0);
@@ -326,15 +293,15 @@ h1 {
     box-shadow: 0 0 15px rgba(255, 255, 255, 0.4);
 }
 
-.dot:nth-child(1) {
+.yck-component .dot:nth-child(1) {
     animation-delay: 0s;
 }
 
-.dot:nth-child(2) {
+.yck-component .dot:nth-child(2) {
     animation-delay: 0.3s;
 }
 
-.dot:nth-child(3) {
+.yck-component .dot:nth-child(3) {
     animation-delay: 0.6s;
 }
 
@@ -353,7 +320,7 @@ h1 {
 }
 
 /* Countdown */
-.countdown {
+.yck-component .countdown {
     font-size: 1.1rem;
     margin-top: 2rem;
     opacity: 0.8;
@@ -376,32 +343,32 @@ h1 {
 }
 
 /* Corner decorations */
-.corner-decoration {
+.yck-component .corner-decoration {
     position: absolute;
     font-size: 2rem;
     opacity: 0.3;
     animation: twinkle 2s ease-in-out infinite;
 }
 
-.corner-decoration:nth-child(1) {
+.yck-component .corner-decoration:nth-child(1) {
     top: -10px;
     left: -10px;
     animation-delay: 0s;
 }
 
-.corner-decoration:nth-child(2) {
+.yck-component .corner-decoration:nth-child(2) {
     top: -10px;
     right: -10px;
     animation-delay: 0.5s;
 }
 
-.corner-decoration:nth-child(3) {
+.yck-component .corner-decoration:nth-child(3) {
     bottom: -10px;
     left: -10px;
     animation-delay: 1s;
 }
 
-.corner-decoration:nth-child(4) {
+.yck-component .corner-decoration:nth-child(4) {
     bottom: -10px;
     right: -10px;
     animation-delay: 1.5s;
@@ -423,35 +390,68 @@ h1 {
 
 /* Responsive design */
 @media (max-width: 768px) {
-    .redirect-container {
+    .yck-component .redirect-container {
         margin: 20px;
         padding: 40px 30px;
     }
 
-    h1 {
+    .yck-component h1 {
         font-size: 2.8rem;
     }
 
-    .magic-icon {
+    .yck-component .magic-icon {
         font-size: 4rem;
     }
 
-    .subtitle {
+    .yck-component .subtitle {
         font-size: 1.1rem;
     }
 }
 
 @media (max-width: 480px) {
-    .redirect-container {
+    .yck-component .redirect-container {
         padding: 30px 20px;
     }
 
-    h1 {
+    .yck-component h1 {
         font-size: 2.2rem;
     }
 
-    .magic-icon {
+    .yck-component .magic-icon {
         font-size: 3.5rem;
     }
 }
 </style>
+
+<div class="yck-component">
+    
+    <div class="bg-decoration">✨</div>
+    <div class="bg-decoration">🌟</div>
+    <div class="bg-decoration">💫</div>
+    <div class="bg-decoration">⭐</div>
+    <div class="bg-decoration">🔮</div>
+    <div class="redirect-container">
+        
+        <div class="corner-decoration">✨</div>
+        <div class="corner-decoration">🌟</div>
+        <div class="corner-decoration">💫</div>
+        <div class="corner-decoration">⭐</div>
+        <div class="magic-icon">🚀</div>
+        <h1>Magical Journey</h1>
+        <p class="subtitle">
+            Looking for the Organization Chart?.<br>
+            Well ... It's now here ... <a href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/our-family/our-staff/organisation-chart/">Organisation Chart</a>
+        </p>
+        <div class="progress-container">
+            <div class="progress-bar"></div>
+        </div>
+        <div class="loading-dots">
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+        </div>
+        <div class="countdown">
+            Redirecting in 5 seconds...
+        </div>
+    </div>
+</div>
