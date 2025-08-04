@@ -19,8 +19,8 @@ image: /images/YCKLogo.svg
 <div class="magic-icon">🚀</div>
 <h1>Magical Journey</h1>
 <p class="subtitle">
-    Hold tight! We're preparing something spectacular for you.<br>
-    Your adventure begins in just a moment...
+    Looking for the Organization Chart?.<br>
+    Well ... It's now here ... <a href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/our-family/our-staff/organization-chart/">Organization Chart</a>
 </p>
 <div class="progress-container">
     <div class="progress-bar"></div>
