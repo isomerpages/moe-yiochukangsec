@@ -28,7 +28,7 @@ variant: markdown
 <p>Mrs Betty Chow<br>
     Principal, Yio Chu Kang Secondary School</p>
 
-<img alt="QRCodes for social media" style="width: 40%" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/Principal's%20Message/P2.png">
+
 
 </div>
 	
