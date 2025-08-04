@@ -115,7 +115,7 @@ image: /images/YCKLogo.svg
                                             </div>
                                         </div>
                                     </div>
-																		<hr>
+<hr>
 <div class="yck-component" id="levelcamp">
     <h2>Level Camps</h2>
     <div class="ken-burns-container">
