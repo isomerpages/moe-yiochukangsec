@@ -5,18 +5,28 @@ description: ""
 third_nav_title: Our Students
 variant: markdown
 ---
-#### **Useful Links**
-
-*   [The Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
-*   [Ace Learning](https://www.ace-learning.com/)
-*   [YCKSS Library OPAC System](https://schoolibrary.moe.edu.sg/yiochukangsec)
-*   [Singapore Examination and Assessment Board](https://www.seab.gov.sg/)
-
-*   [YCKSS Alumni Application](http://tinyurl.com/yckss-alumin/)
-*   [Ministry of Education](https://www.moe.gov.sg/)
-*   [Early Admission Exercise](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp)
-*   [ITE Education](https://www.ite.edu.sg/)
-
+<div class="yck-component">
+	<div class="regular-flow">
+<h4><strong>Useful Links</strong></h4>
+	<div class="col-container">
+		<div class="column">
+<ul>
+    <li><a class="text-link" href="https://vle.learning.moe.edu.sg/login">The Student Learning Space (SLS)</a></li>
+    <li><a class="text-link" href="https://www.ace-learning.com/">Ace Learning</a></li>
+    <li><a class="text-link" href="https://schoolibrary.moe.edu.sg/yiochukangsec">YCKSS Library OPAC System</a></li>
+    <li><a class="text-link" href="https://www.seab.gov.sg/">Singapore Examination and Assessment Board</a></li>
+</ul>
+</div>
+<div class="column">
+<ul>
+    <li><a class="text-link" href="http://tinyurl.com/yckss-alumin/">YCKSS Alumni Application</a></li>
+    <li><a class="text-link" href="https://www.moe.gov.sg/">Ministry of Education</a></li>
+    <li><a class="text-link" href="https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp">Early Admission Exercise</a></li>
+    <li><a class="text-link" href="https://www.ite.edu.sg/">ITE Education</a></li>
+</ul>
+</div>
+</div>
+</div>
 
 <style>
 	:root {
@@ -183,6 +193,7 @@ small {
     /* Styles specific to text links, like positioning context */
     position: relative;
     padding-bottom: 2px;
+		text-decoration: none;
 }
 
 /* Apply the animation pseudo-element ONLY to the text links */
@@ -222,4 +233,54 @@ a[target="_blank"]:after {
 .yck-component abbr:hover {
     color: #4e835b;
 }
-</style>
+	
+.yck-component .col-container,
+.yck-component .col3-container {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+
+    /* CSS Multi-column Layout properties */
+    column-count: 2;
+    column-width: 360px;
+    column-gap: 1.5em;
+}
+
+.yck-component .col3-container {
+    columns: 3;
+    column-width: 240px;
+    column-gap: 1.5em;
+    column-rule-style: dotted;
+    column-rule-width: 0.5px;
+    column-rule-color: rgba(170, 170, 170, 0.25);
+}
+
+.yck-component .isomer-card,
+.yck-component .column {
+    break-inside: avoid;
+    /* Prevents content from breaking across columns */
+    page-break-inside: avoid;
+    /* For older browsers */
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: var(--yck-box-shadow1);
+}
+
+.yck-component .column {
+    margin-bottom: var(--yck-spacing-unit) !important;
+}
+
+.yck-component .column ul,
+.yck-component .column ol {
+    list-style: none;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0;
+}
+
+.yck-component .column ul li {
+    margin-inline: 1em;
+    padding-left: 1rem;
+    border-bottom: 1px dotted rgba(0, 0, 0, 0.05);
+}
+</style></div>
