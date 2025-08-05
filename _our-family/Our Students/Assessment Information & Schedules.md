@@ -15,6 +15,7 @@ and level.</p>
 <p><a href="/files/Students/Assessment Information Sche/YCKSS_Weighted_Assessment_Rules_and_Regulations.pdf" rel="noopener nofollow" target="_blank">Weighted Assessment Rules &amp; Regulations 2025</a> (updated
 on 5 Feb 2025)</p>
 <h4><strong>Weighted Assessment 2025 (Term 3)</strong></h4>
+<p>(updated on 23 July 2025)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Students/Assessment Information Sche/Secondary_1A_B_C_Weighted_Assessment_Term_3__Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 1 A B C Schedule information</a>
@@ -33,16 +34,16 @@ on 5 Feb 2025)</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Students/Assessment Information Sche/Secondary_3_Weighted_Assessment_Schedule__Term_3__2025.pdf" rel="noopener nofollow" target="_blank">Sec 3 Schedule &amp; Subject information</a>
+<p><a href="/files/Students/Assessment Information Sche/Secondary_3_Weighted_Assessment_Schedule__Term_3__2025updated010825.pdf" rel="noopener nofollow" target="_blank">Sec 3 Schedule &amp; Subject Information</a>
 </p>
 </li>
 </ul>
-<p>(updated on 23 July 2025)</p>
-<h4><strong>2025 O LEVEL PRELIMINARY EXAMINATION TIME TABLE</strong></h4>
+<p>(updated on 5 August 2025)</p>
+<h4><strong>2025 O LEVEL PRELIMINARY EXAMINATION TIMETABLE</strong></h4>
 <p>(updated on 23 July 2025)</p>
 <p><a href="/files/Students/Assessment Information Sche/Sec_4E5N__Prelim.pdf" rel="noopener nofollow" target="_blank">Sec 4E5N Preliminary schedule</a>
 </p>
-<h4><strong>2025 N LEVEL PRELIMINARY EXAMINATION TIME TABLE</strong></h4>
+<h4><strong>2025 N LEVEL PRELIMINARY EXAMINATION TIMETABLE</strong></h4>
 <p>(updated on 15 July 2025)</p>
 <ul data-tight="true" class="tight">
 <li>
