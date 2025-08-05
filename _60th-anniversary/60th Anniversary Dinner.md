@@ -1,9 +1,9 @@
 ---
 title: 60th Anniversary Dinner
-permalink: /60th-anniversary-dinner/
+permalink: /60th-anniversary/60th-anniversary-dinner/
 variant: markdown
 description: ""
-image: /images/Our Story/School Logo/School Logo/S1.png
+image: /images/60th Anniversary/60thLogo.svg
 ---
 <div class="yck-component">
 <h3 class="yck-h3">60th Anniversary Dinner</h3>

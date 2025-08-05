@@ -3,21 +3,19 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - School Vision, Mission, Motto and Values.md
-      - School Logo.md
-      - School Song.md
-      - School Theme.md
-      - School Facilities.md
-      - The YCKSians.md
-      - Organisation Chart/.keep
-      - Organisation Chart/Organisation Chart.md
-      - Organisation Chart/School Leaders.md
-      - Organisation Chart/Key Personnel.md
-      - Organisation Chart/Teaching Staff.md
-      - Organisation Chart/Non Teaching Staff.md
-      - History.md
+      - Our School/.keep
+      - Our School/Our Vision, Mission, Motto and Values.md
+      - Our School/Our Logo.md
+      - Our School/Our Theme.md
+      - Our School/The School Song.md
+      - Our School/Our Facilities.md
+      - Our History/.keep
+      - Our History/The Story of Yio Chu Kang Secondary School.md
+      - "Our History/Campus Transformation 1: The Pioneer Campus (1965).md"
+      - "Our History/Campus Transformation 2: A New Home in Ang Mo Kio (1982).md"
+      - Our History/Campus Transformation 3.md
+      - "Our History/Campus Transformation 4: Union of Legacies.md"
       - Achievements/.keep
       - Achievements/School.md
       - Achievements/Alumni.md
-      - E Open House.md
       - YCKSS 60th Speech and Prize Giving Day.md

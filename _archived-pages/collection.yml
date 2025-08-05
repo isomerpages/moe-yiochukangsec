@@ -1,0 +1,26 @@
+collections:
+  archived-pages:
+    output: true
+    order:
+      - Organization Chart.md
+      - Useful Links (Archive).md
+      - Media Club (Audio Visual, Photography & Videography).md
+      - Digital Animation Club.md
+      - In Our School (Archive).md
+      - E Open House.md
+      - School Facilities.md
+      - History.md
+      - School Theme.md
+      - School Song.md
+      - School Logo.md
+      - School Vision, Mission, Motto and Values.md
+      - Non Teaching Staff.md
+      - Teaching Staff.md
+      - School Advisory Committee.md
+      - Key Personnel.md
+      - School Leaders.md
+      - YCKSS 58th Speech & Prize Giving Day.md
+      - Events & Workshops.md
+      - Parents Connect.md
+      - Principal's Letters to Parents.md
+      - The Horizon (School Newsletter).md

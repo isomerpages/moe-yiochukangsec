@@ -1,8 +1,9 @@
 ---
 title: 60th Anniversary Celebrations
-permalink: /60th-anniversary-celebrations/
+permalink: /60th-anniversary/60th-anniversary-celebrations/
 variant: markdown
 description: ""
+image: /images/60th Anniversary/60thLogo.svg
 ---
 <div class="yck-component">
 	<p>Our school is celebrating her 60th Anniversary this year with a series of exciting events: the <strong><a href="https://www.yiochukangsec.moe.edu.sg/homecoming-carnival/">Homecoming Carnival</a></strong> in May, the <strong><a href="https://www.yiochukangsec.moe.edu.sg/60th-anniversary-dinner/">Alumni Dinner</a></strong> in July, and the <strong>Concert for Hope</strong> in November. Stay tuned for more updates, and join us in making this milestone celebration unforgettable! Gather your friends and family to be part of the celebrations!</p>

@@ -1,8 +1,9 @@
 ---
 title: Connecting Globally
-permalink: /our-experience/Connecting-Globally/
+permalink: /our-experience/connecting-globally/
 description: ""
 variant: markdown
+image: /images/YCKLogo.svg
 ---
 <div class="yck-component">
     <p>The Internationalisation Programme in YCKSS aims to provide opportunities for our students to develop global perspectives through meaningful Overseas Immersion Programmes and Hosting Programmes.</p>

@@ -5,12 +5,12 @@ links:
   - title: Our Curriculum
     collection: our-curriculum
   - title: Our CCAs
-    url: /our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/
+    url: /our-curriculum/non-academic-programmes/co-curricular-activities/
     sublinks:
       - title: Digital Animation Club
-        url: /digital-animation-club/
+        url: /cca/clubs/digital-animation-club/
       - title: Media Club
-        url: /media-club/
+        url: /cca/clubs//media-club/
       - title: MARs Club
         url: /cca/clubs/mars-club-mechatronics-aeronautics-and-robotics/
       - title: Concert Band
@@ -41,7 +41,3 @@ links:
     collection: our-experience
   - title: Our Family
     collection: our-family
-  - title: Virtual Tour
-    url: https://4d.silvrcraft.com/yckss360vt/index.htm
-  - title: SSCWC 2024
-    url: https://www.yiochukangsec.moe.edu.sg/sscwc/sscwc2024/

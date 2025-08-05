@@ -1,6 +1,6 @@
 ---
 title: CoCurricular Activities
-permalink: /our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/
+permalink: /our-curriculum/non-academic-programmes/co-curricular-activities/
 description: ""
 third_nav_title: Non Academic Programmes
 variant: markdown
@@ -72,10 +72,10 @@ variant: markdown
     </ul>
     <p>More specifically,</p>
     <ul>
-        <li>The Physical Sports develop robustness, fair play and team spirit in students.</li>
-        <li>The Visual and Performing Arts instil in students a sense of graciousness and an appreciation for the rich culture and heritage of a multi-racial society.</li>
-        <li>The Uniformed Groups develop students into good citizens by inculcating in them self-reliance, resilience, discipline and a spirit of service to others.</li>
-        <li>The Clubs allow students to explore and extend their interests in wide-ranging and specialised areas which may be knowledge-based or skills-based.</li>
+			<li>The <a href="/cca/all-ccas/#sports">Physical Sports</a> develop robustness, fair play and team spirit in students.</li>
+			<li>The <a href="/cca/all-ccas/#arts">Visual and Performing Arts</a> instil in students a sense of graciousness and an appreciation for the rich culture and heritage of a multi-racial society.</li>
+			<li>The <a href="/cca/all-ccas/#uniform">Uniformed Groups</a> develop students into good citizens by inculcating in them self-reliance, resilience, discipline and a spirit of service to others.</li>
+			<li>The <a href="/cca/all-ccas/#clubs">Clubs</a> allow students to explore and extend their interests in wide-ranging and specialised areas which may be knowledge-based or skills-based.</li>
     </ul>
 </div>
 <div class="yck-component">
@@ -85,7 +85,7 @@ variant: markdown
         <li>A student may opt to participate in <strong>more than one CCA</strong> to broaden his/her experience, gain more exposure and learn a wider range of skills. Such involvement will be <strong>passion-driven</strong> and students <strong>will not be awarded a higher attainment</strong> for the participation in an additional CCA.</li>
         <li>Continuous involvement in and commitment to the same CCA will be rewarded, and this is reflected through a higher level of attainment assigned to students who stay with the same CCA over the years.</li>
         <li>All students must attain a <strong>minimum of 75% attendance</strong> in their 1st CCA in order for points to be computed.</li>
-        <li>The School Band and the National Uniformed Groups, comprising the National Cadet Corps (NCC), National Civil Defence Cadet Corps (NCDCC) and National Police Cadet Corps (NPCC) <strong>are mandatory CCA</strong> for all secondary schools. <strong>Students in any one of the mandatory CCA are not permitted to change his/her CCA throughout their secondary school years, except for medical reasons, or once at the end of Secondary 1 or 2.</strong>
+			<li>The <a href="/cca/Performing-Arts/Concert-Band/">School Band</a> and the National Uniformed Groups, comprising the National Cadet Corps (NCC), National Civil Defence Cadet Corps (NCDCC) and <a href="/cca/Uniformed-Groups/NPCC/">National Police Cadet Corps (NPCC)</a> <strong>are mandatory CCA</strong> for all secondary schools. <strong>Students in any one of the mandatory CCA are not permitted to change his/her CCA throughout their secondary school years, except for medical reasons, or once at the end of Secondary 1 or 2.</strong>
             <ul>
                 <li>Students who wish to <strong>change CCA</strong> may opt for a change in CCA at the <strong>beginning</strong> of each academic year. Each student can only opt for change of CCA once either at the end of Sec One or Sec Two.</li>
                 <li>The number of training sessions ranges from one to two in a week. Note that during peak season of the CCA, training sessions may increase up to three times a week.</li>
@@ -152,8 +152,11 @@ variant: markdown
     interpolate-size: allow-keywords;
     scroll-behavior: smooth;
     text-rendering: optimizeSpeed;
-    height: 100vh;
 }
+	
+body {
+	min-height: 100vh;
+	}
 
 ::selection {
     text-shadow: none;
@@ -166,6 +169,20 @@ variant: markdown
     font-size: var(--yck-step-0);
     margin-bottom: var(--yck-space-s-xl);
 }
+	
+.yck-component abbr {
+    text-decoration: underline dotted #e37f2a;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+    color: #e37f2a;
+    font-weight: 500;
+    cursor: help;
+}
+
+.yck-component abbr:hover {
+    color: #efae5a;
+}
+
 
 .yck-component h2,
 .yck-component h3,
@@ -231,18 +248,20 @@ hr {
 }
 
 .yck-component a::after {
-    content: '';
+    content: ' ';
     position: absolute;
     width: 0;
     height: 2px;
     bottom: 0;
     left: 0;
     background-color: currentColor;
-    transition: width 1s var(--yck-transition-timing);
-}
+    transition: width 1s var(--yck-transition-timing),
+	color 2s var(--yck-transition-timing);
+	}
 
 .yck-component a:hover::after {
     width: 100%;
+	color: rgba(0, 122, 247, 0.25);
 }
 
 .yck-component a:hover {

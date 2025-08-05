@@ -1,6 +1,6 @@
 ---
 title: From Ideas to Action (FITA)
-permalink: /fita/
+permalink: /our-curriculum/distinctive-programmes/fita/
 variant: markdown
 description: From Ideas To Action (F.I.T.A.) is an innovative multidisciplinary
   STEM programme that empowers students to tackle real-world challenges by

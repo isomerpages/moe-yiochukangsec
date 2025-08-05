@@ -2,28 +2,30 @@ collections:
   our-family:
     output: true
     order:
-      - Students/.keep
-      - Students/School Handbook 2025.md
-      - Students/Booklist.md
-      - Students/Financial Assistance.md
-      - Students/School Uniform.md
-      - Students/Class Timetable and Schedules.md
-      - Students/Assessment & Promotion.md
-      - Students/Assessment Information & Schedules.md
-      - Students/Students Code of Conduct.md
-      - Students/School Canteen.md
-      - Students/Direct School Admission.md
-      - Students/Useful Links.md
-      - Staff/Professional Development Activities.md
-      - Staff/SWC Activities.md
-      - Staff/Useful Links.md
-      - Staff/Organisation Chart.md
-      - Staff/.keep
-      - Parents Connect/Events & Workshops.md
+      - Our Students/.keep
+      - Our Students/The YCKSians.md
+      - Our Students/School Uniform.md
+      - Our Students/Booklist.md
+      - Our Students/Financial Assistance.md
+      - Our Students/School Handbook 2025.md
+      - Our Students/Class Timetable and Schedules.md
+      - Our Students/Students Code of Conduct.md
+      - Our Students/Useful Links.md
+      - Our Students/Assessment & Promotion.md
+      - Our Students/Assessment Information & Schedules.md
+      - Our Students/Direct School Admission.md
+      - Our Staff/Organisation Chart.md
+      - Our Staff/.keep
+      - Our Staff/Professional Development Activities.md
+      - Our Staff/SWC Activities.md
+      - Our Staff/Useful Links.md
       - Parents Connect/.keep
+      - Parents Connect/Parent Support Group.md
+      - Parents Connect/Workshops & Events.md
       - Parents Connect/Guidelines for Parents' Communication with School.md
-      - Parents Connect/Parents Connect.md
-      - Parents Connect/Principal's Letters to Parents.md
+      - Parents Connect/Parents Gateway.md
       - School Advisory Committee.md
       - Alumni.md
-      - Parents Gateway.md
+      - Our Vendors/Textbooks and Uniforms.md
+      - Our Vendors/School Canteen.md
+      - Our Vendors/.keep
