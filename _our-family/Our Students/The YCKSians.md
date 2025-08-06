@@ -104,7 +104,8 @@ video {
 }
 	
 #ycksians {
-	background: radial-gradient(circle, transparent 10%, rgba(255, 255, 255, 1) 65%), url(https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/The%20YCKSian/Y1.png) no-repeat bottom center fixed;
-	background-size: contain;
+    background: radial-gradient(ellipse at center, rgba(255, 255, 255. 0.05) 1%, rgba(255, 255, 255, 0.68) 37%, rgba(255, 255,  255, 0.95) 100%), url(https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/The%20YCKSian/Y1.png) no-repeat fixed;
+    background-size: contain;
+    background-origin: center center;
 }
 </style>
