@@ -822,41 +822,44 @@ blockquote div {
 	
 .masthead {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: flex-start;
     flex-direction: column;
     text-align: left;
-    width: 100%;
+    width: fit-content;
     min-width: 500px;
     height: 100vh;
+    border-radius: 15px;
     /* if you don't want it to take up the full screen, reduce this number */
     overflow: hidden;
-    background-size: cover !important;
-    margin: 0 auto;
+    background-size: contain !important;
     padding: var(--yck-spacing-unit);
-
+    backdrop-filter: blur(10px);
 }
 
-#schsongbg {
-    background: linear-gradient(to left, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0.6) 37%, rgba(255, 255, 255, 0.45) 60%, rgba(255, 255, 255, 0.85) 80%, rgba(255, 255, 255, 1) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Story/School%20Song/Sch_SongBG.png) no-repeat bottom right fixed;
+body {
+    background: radial-gradient(ellipse at center, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.8) 7%, rgba(250, 250, 250, 0.85) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Story/School%20Song/Sch_SongBG.png) no-repeat center top fixed;
 }
 
 .masthead h2 {
-    font: normal var(--yck-step-4) serif;
+    font-style: normal;
     font-weight: 700;
     color: #333;
-    letter-spacing: 0.04em;
-    text-shadow: 1px 2px 4px rgba(24, 24, 24, 0.55);
+    letter-spacing: 0.03em;
+    font-size: var(--yck-step-4);
+    text-shadow: 1px 2px 4px rgba(24, 24, 24, 0.5);
+    padding-top: 1em;
 }
 
 .masthead p {
-    font: normal var(--yck-step-2) sans-serif;
-    font-weight: 500;
+    font-style: normal;
+    font-weight: 700;
     color: #444;
     font-size: var(--yck-step-2);
     letter-spacing: 0.03em;
-    line-height: 1.5;
-    text-shadow: 1px 2px 4px rgba(24, 24, 24, 0.35);
+    line-height: 1.4;
+    text-shadow: 1px 2px 4px rgba(255, 255, 255, 0.75);
+    text-wrap: pretty;
+    margin-bottom: var(--yck-spacing-unit);
 }
-
 </style>
