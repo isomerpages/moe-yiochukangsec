@@ -14,12 +14,46 @@ and level.</p>
 <h3><strong>Assessment Rules &amp; Regulations</strong></h3>
 <p><a href="/files/Students/Assessment Information Sche/YCKSS_Weighted_Assessment_Rules_and_Regulations.pdf" rel="noopener nofollow" target="_blank">Weighted Assessment Rules &amp; Regulations 2025</a> (updated
 on 5 Feb 2025)</p>
-<h4><strong>End of Year Subject Information 2025 </strong></h4>
+<h4><strong>End of Year Subject Information 2025</strong></h4>
 <p>(updated on 7 August 2025)</p>
-<p><a href="/files/Students/Assessment Information Sche/EOY__Subject_Information_2025_SEc_1G2_.pdf" rel="noopener nofollow" target="_blank">Sec1G2 EOY Subject Information  </a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Students/Assessment Information Sche/EOY__Subject_Information_2025__Sec_1G1_.pdf" rel="noopener nofollow" target="_blank">Sec1 G1 EOY Subject Information</a>
 </p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/EOY__Subject_Information_2025_SEc_1G2_.pdf" rel="noopener nofollow" target="_blank">Sec 1 G2 EOY Subject Information</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/EOY__Subject_Information_2025__Sec_1G3_.pdf" rel="noopener nofollow" target="_blank">Sec 1 G3 EOY Subject Information</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/EOY__Subject_Information_2025__Sec_2G1_.pdf" rel="noopener nofollow" target="_blank">Sec 2 G1 EOY Subject Information</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/EOY__Subject_Information_2025__Sec_2G2_.pdf" rel="noopener nofollow" target="_blank">Sec 2 G2 EOY Subject Information</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/EOY__Subject_Information_2025__Sec__2G3_.pdf" rel="noopener nofollow" target="_blank">Sec 2 G3 EOY Subject Information</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/EOY__Subject_Information_2025__Sec_3G1_.pdf" rel="noopener nofollow" target="_blank">Sec 3 G1 EOY Subject Information</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Students/Assessment Information Sche/EOY__Subject_Information_2025__Sec_3G2_.pdf" rel="noopener nofollow" target="_blank">Sec3 G2 EOY Subject Information</a>
 </p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/EOY__Subject_Information_2025___Sec_3G3_.pdf" rel="noopener nofollow" target="_blank">Sec 3 G3 EOY Subject Information</a>
+</p>
+</li>
+</ul>
 <h4><strong>Weighted Assessment 2025 (Term 3)</strong></h4>
 <p>(updated on 23 July 2025)</p>
 <ul data-tight="true" class="tight">
