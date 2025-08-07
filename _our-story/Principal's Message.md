@@ -5,12 +5,13 @@ description: ""
 variant: markdown
 ---
 <div class="yck-component">
-<p>Welcome to the Yio Chu Kang Secondary School website. To students and staff new to the school, welcome to the YCKSS Family!&nbsp;</p>
+<p class="dropcap-title">Welcome to the Yio Chu Kang Secondary School website. To students and staff new to the school, welcome to the YCKSS Family!&nbsp;</p>
 
 <p>We are pleased to present an updated interface and hope that this new website will give greater access to information about the School. I would like to give due credit to the school's website development team which has worked tirelessly to make this fresh look possible. I encourage you to explore the website and discover how we create rich opportunities for our students to acquire a deeper understanding of their strengths and grow wider perspectives about our complex but wonderful world.</p>
+</div>
 
 <hr>
-
+<div class="yck-component">
 <p><strong>Our Story</strong>&nbsp;and&nbsp;<strong>Our Experiences</strong>&nbsp;capture how vibrant school life is; how hard the staff work together to give students a chance to develop and learn; and how genuine we are to provide a nurturing and enriching experience for our students.</p>
 
 <hr>
@@ -27,9 +28,6 @@ variant: markdown
 
 <p>Mrs Betty Chow<br>
     Principal, Yio Chu Kang Secondary School</p>
-
-
-
 </div>
 
 <div class="yck-component">
@@ -40,6 +38,7 @@ variant: markdown
 			<img src="/images/Our%20Story/YCKSS_InstagramQRCode.png"><figcaption><a target="_blank" href="https://www.instagram.com/yiochukang_sec/">YCKSS Instagram</a></figcaption>
 </div>
 </div>
+	</div>
 	
 <style>
 :root {
@@ -85,6 +84,10 @@ svg,
 video {
     vertical-align: middle;
 }
+
+/* ==========================================================================
+   2. Base Typography
+   ========================================================================== */
 
 .yck-component {
     line-height: var(--yck-text-line-height);
@@ -191,18 +194,18 @@ small {
     line-height: var(--yck-spacing-unit);
 }
 
-.yck-component .regular-flow > * + * {
-    margin-top: 1.125em;
-}
-
 .yck-component a {
     text-decoration: none;
     color: #e37f2a;
-    position: relative;
-    padding-bottom: 2px;
 }
 
-.yck-component a::after {
+.yck-component a.text-link {
+    position: relative;
+    padding-bottom: 2px;
+    text-decoration: none;
+}
+
+.yck-component a.text-link::after {
     content: " ";
     position: absolute;
     width: 0;
@@ -211,33 +214,144 @@ small {
     left: 0;
     background-color: currentColor;
     transition:
-        width 1s var(--yck-transition-timing),
+        width 1s cubic-bezier(0.25, 1, 0.5, 1),
         color 1.2s ease-out;
 }
 
-.yck-component a:hover::after {
+.yck-component a.text-link:hover::after {
     width: 100%;
     color: rgba(0, 122, 247, 0.25);
 }
 
-.yck-component a:hover {
-    text-decoration: none;
+.yck-component a[target="_blank"]:not(.text-link):after {
+    display: none;
+    margin: 0;
+    padding: 0;
 }
 
 .yck-component abbr {
-    text-decoration: underline dotted #e37f2a;
+    text-decoration: underline dotted #2c6139;
     text-decoration-thickness: 2px;
     text-underline-offset: 3px;
-    color: #e37f2a;
+    color: #2c6139;
     font-weight: 600;
     cursor: help;
 }
 
 .yck-component abbr:hover {
-    color: #efae5a;
+    color: #4e835b;
 }
 
-/* Table Styles */
+.yck-component .dropcap-title {
+    font-size: var(--yck-step-0);
+    /* Base font size for the heading */
+    font-weight: normal;
+    margin-bottom: 0.5em;
+    color: #555;
+}
+
+/* This is the core magic for the dropcap */
+.yck-component .dropcap-title::first-letter {
+    float: left;
+    font-size: calc(var(--yck-step-5)*1.65);
+    /* The size of the dropcap relative to the heading's font size */
+    font-weight: bold;
+    font-style: oblique;
+    font-family: cursive;
+    line-height: 0.9;
+    /* Pulls the rest of the text up vertically */
+    padding-right: 0.18em;
+    /* Adds a little space next to the letter */
+    color: #4e835b;
+    /* A distinct color for the dropcap */
+}
+
+/* ==========================================================================
+   3. Layout Components
+   ========================================================================== */
+
+.yck-component .regular-flow>*+* {
+    margin-top: 1.125em;
+}
+
+.yck-component .col-container,
+.yck-component .col3-container {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    column-count: 2;
+    column-width: 360px;
+    column-gap: 1.5em;
+}
+
+.yck-component .col3-container {
+    columns: 3;
+    column-width: 240px;
+    column-gap: 1.5em;
+    column-rule-style: dotted;
+    column-rule-width: 0.5px;
+    column-rule-color: rgba(170, 170, 170, 0.25);
+}
+
+/* --- Flexbox Grid System --- */
+.yck-component .yck-flexbox-grid {
+    --yck-gap: 1em;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: var(--yck-gap);
+    padding: 0;
+    margin-block: var(--yck-spacing-unit);
+}
+
+.yck-component .yck-flexbox-grid>* {
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: calc((100% - var(--yck-gap)) / 4);
+    min-width: calc((100% - var(--yck-gap)) / 2);
+    list-style: none;
+}
+
+.yck-component .yck-img-array {
+    --yck-gap: 1.25rem;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    align-content: flex-start;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: var(--yck-gap);
+    padding: 0;
+    margin: 0;
+}
+
+.yck-component .yck-img-array>* {
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: calc((100% - var(--yck-gap)) / 6);
+    min-width: 240px;
+    list-style: none;
+}
+
+.masonry-item {
+    break-inside: avoid;
+    margin-bottom: 1rem;
+    display: inline-block;
+    width: 100%;
+}
+
+.masonry-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* ==========================================================================
+   4. UI Components
+   ========================================================================== */
+
+/* --- Tables --- */
 .yck-component .yck-table {
     border-collapse: collapse;
     width: 100%;
@@ -254,6 +368,7 @@ small {
     padding: calc(var(--yck-spacing-unit) * 0.75);
     font-weight: bold;
     font-size: var(--yck-step-0);
+    line-height: 1.4;
     letter-spacing: 0.05em;
     vertical-align: top;
 }
@@ -261,8 +376,9 @@ small {
 .yck-component .yck-th h4,
 .yck-component .yck-th h5,
 .yck-component .yck-th h6 {
-    margin: 0 0 0.5em;
+    margin: 0 0 calc(var(--yck-spacing-unit) * 0.5) 0;
     text-wrap: balance;
+    line-height: 1.3;
 }
 
 .yck-component .yck-td {
@@ -273,33 +389,61 @@ small {
     text-wrap: pretty;
     padding: calc(var(--yck-spacing-unit) * 0.75);
     vertical-align: top;
+    font-size: var(--yck-step-0);
+    line-height: 1.5;
 }
 
-.yck-component .yck-table tbody .yck-td,
-.yck-component .yck-table tbody .yck-td p {
+.yck-component .yck-td>*,
+.yck-component .yck-td p,
+.yck-component .yck-td ul,
+.yck-component .yck-td ol {
     margin-top: 0;
     margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
-    line-height: 1.5rem;
-    padding-bottom: 0.25em;
-    font-size: var(--yck-step-0);
 }
 
-.yck-component .yck-table tbody tr:last-child .yck-td:last-child,
-.yck-component .yck-table tbody tr:last-child .yck-td:last-child p:last-child {
+.yck-component .yck-td ul,
+.yck-component .yck-td ol {
+    padding-left: calc(var(--yck-spacing-unit) * 1.5);
+}
+
+.yck-component .yck-td li {
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.25);
+    line-height: inherit;
+}
+
+.yck-component .yck-td>*:last-child,
+.yck-component .yck-td>p:last-child,
+.yck-component .yck-td>ul:last-child,
+.yck-component .yck-td>ol:last-child {
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.75);
+}
+
+.yck-component .yck-td ul:last-child li:last-child,
+.yck-component .yck-td ol:last-child li:last-child {
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.25);
+}
+
+.yck-component .yck-table tbody tr:last-child .yck-td>*:last-child {
     margin-bottom: var(--yck-spacing-unit);
 }
 
+.yck-component .yck-table tbody tr:nth-child(even) {
+    background-color: #fafafa;
+}
+
+/* --- Video Containers --- */
 .yck-component .video-container {
     position: relative;
     width: 100%;
     padding-bottom: 56.25%;
-    /* 16:9 aspect ratio */
     height: 0;
     overflow: hidden;
     margin-bottom: var(--yck-spacing-unit);
 }
 
-.yck-component .video-container iframe {
+.yck-component .video-container iframe,
+.yck-component .video-container object,
+.yck-component .video-container embed {
     position: absolute;
     top: 0;
     left: 0;
@@ -307,40 +451,18 @@ small {
     height: 100%;
 }
 
-.yck-component .col-container,
-.yck-component .col3-container {
-    width: 100%;
-    max-width: 1000px;
-    margin: 0 auto;
-
-    /* CSS Multi-column Layout properties */
-    column-count: 2;
-    column-width: 360px;
-    column-gap: 1.5em;
-}
-
-.yck-component .col3-container {
-    columns: 3;
-    column-width: 240px;
-    column-gap: 1.5em;
-    column-rule-style: dotted;
-    column-rule-width: 0.5px;
-    column-rule-color: rgba(170, 170, 170, 0.25);
-}
-
+/* --- Isomer Cards --- */
 .yck-component .isomer-card,
 .yck-component .column {
     break-inside: avoid;
-    /* Prevents content from breaking across columns */
     page-break-inside: avoid;
-    /* For older browsers */
     padding: 20px;
     border-radius: 5px;
     box-shadow: var(--yck-box-shadow1);
 }
 
 .yck-component .column {
-    margin-bottom: var(--yck-spacing-unit) !important;
+    margin-bottom: var(--yck-spacing-unit);
 }
 
 .yck-component .column ul,
@@ -357,69 +479,17 @@ small {
     border-bottom: 1px dotted rgba(0, 0, 0, 0.05);
 }
 
-.yck-component .yck-img-array {
-    --yck-gap: 1em;
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    align-content: flex-start;
-    justify-content: flex-start;
-    flex-wrap: wrap;
-    list-style: none;
-    gap: var(--yck-gap);
-    padding: 0;
-    margin-block: var(--yck-spacing-unit);
-}
-
-.yck-component .yck-img-array > * {
-    flex-grow: 1;
-    flex-shrink: 0;
-    flex-basis: calc((100% - var(--yck-gap)) / 6);
-    min-width: 240px;
-    list-style: none;
-}
-
-@media (max-width: 600px) {
-    .yck-component .yck-img-array > * {
-        flex-basis: auto;
-    }
-}
-
-.yck-component .yck-flexbox-grid {
-    --yck-gap: 1em;
-    display: flex;
-    flex-wrap: wrap;
-    list-style: none;
-    gap: var(--yck-gap);
-    padding: 0;
-    margin-block: var(--yck-spacing-unit);
-}
-
-.yck-component .yck-flexbox-grid > * {
-    flex-grow: 1;
-    flex-shrink: 0;
-    flex-basis: calc((100% - var(--yck-gap)) / 4);
-    min-width: calc((100% - var(--yck-gap)) / 2);
-    list-style: none;
-}
-
-@media (max-width: 1000px) {
-    .yck-component .yck-flexbox-grid > * {
-        flex-basis: 100%;
-    }
-}
-
 .yck-component .isomer-card {
     text-decoration: none;
     margin: 0 auto;
     padding: 0;
-    /* border: 1px solid #e0e0e0; */
     border: 1px solid rgba(224, 224, 224, 0.15);
     border-radius: 8px;
     overflow: hidden;
     transition:
-        transform 0.6s var(--yck-transition-timing),
-        box-shadow 0.6s var(--yck-transition-timing);
+        transform 0.8s var(--yck-transition-timing),
+        box-shadow 0.8s var(--yck-transition-timing),
+        background-color 0.5s ease;
 }
 
 .yck-component .isomer-card:hover {
@@ -429,6 +499,17 @@ small {
 
 .yck-component .isomer-card:hover .isomer-card-body .isomer-card-link {
     color: #e37f2a;
+}
+
+.yck-component .isomer-card:has(img) {
+    filter: brightness(100%);
+    background-color: #fff;
+    transition: filter 0.5s ease;
+}
+
+.yck-component .isomer-card:has(img):hover {
+    filter: brightness(90%);
+    background-color: #898989;
 }
 
 .yck-component .isomer-card .isomer-card-image {
@@ -467,15 +548,10 @@ small {
 
 .yck-component .isomer-card .isomer-card-body .isomer-card-title:has(+ .isomer-card-link),
 .yck-component .isomer-card .isomer-card-body .isomer-card-description:has(+ .isomer-card-link) {
-    margin-bottom: 1.5rem;
+    margin-bottom: 1rem;
 }
 
-.yck-component .bqcontainer {
-    margin: 0 auto;
-    padding: 0;
-    margin-bottom: var(--yck-space-s-xl) !important;
-}
-
+/* --- Blockquotes & Figures --- */
 .yck-component blockquote {
     position: relative;
     padding: 25px 35px;
@@ -486,11 +562,11 @@ small {
     margin-right: 0;
 }
 
-.yck-component blockquote p,
-blockquote div {
-    color: #ff6b6b !important;
-    font-style: italic !important;
-    font-size: var(--yck-step-1) !important;
+.yck-component blockquote>p,
+.yck-component blockquote>div {
+    color: #ff6b6b;
+    font-style: italic;
+    font-size: var(--yck-step-1);
     line-height: 1.5;
     margin: 0;
 }
@@ -500,7 +576,7 @@ blockquote div {
     position: absolute;
     top: 25px;
     left: 10px;
-    color: #ff6b6b !important;
+    color: #ff6b6b;
     font-size: 60px;
     font-family: Georgia, serif;
     opacity: 0.3;
@@ -515,14 +591,17 @@ blockquote div {
     text-align: right;
 }
 
-.yck-component figure {
-    display: flex !important;
-    flex-flow: column !important;
+.yck-component figure,
+.yck-component .figure {
+    display: flex;
+    flex-flow: column;
     max-width: 100%;
-    margin: auto !important;
+    margin: 0;
+    padding: 0;
 }
 
-.yck-component figure img {
+.yck-component figure img,
+.yck-component .figure img {
     border-radius: 8px;
     box-shadow: var(--yck-box-shadow);
     margin-bottom: var(--yck-spacing-unit);
@@ -532,10 +611,12 @@ blockquote div {
     background-color: rgba(255, 255, 255, 0.75);
     color: #333;
     font: italic var(--yck-step--1) sans-serif;
+    margin: 0;
     padding: 5px;
     text-align: center;
 }
 
+/* --- Org Chart --- */
 .yck-component .orgchart {
     display: flex;
     flex-direction: column;
@@ -599,39 +680,12 @@ blockquote div {
     color: #555;
 }
 
-.ken-burns-container {
-    max-width: 100%;
-    overflow: hidden;
-    position: relative;
-    border-radius: 8px;
-}
-
-.ken-burns-image {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    animation: kenBurns 35s ease-in-out infinite alternate;
-}
-
-@keyframes kenBurns {
-    from {
-        transform: scale(1);
-    }
-
-    to {
-        transform: scale(1.35);
-    }
-}
-
+/* --- Details/Summary (Accordion) --- */
 .yck-component details {
     overflow: hidden;
 }
 
-.yck-component details * {
-    margin: 0 auto !important;
-}
-
-.yck-component details > p,
+.yck-component details>p,
 .yck-component details ul,
 .yck-component details div {
     animation: fade-in 1s ease-out;
@@ -639,7 +693,7 @@ blockquote div {
 }
 
 .yck-component summary {
-    margin-inline-start: 1.5rem !important;
+    margin-inline-start: 1.5rem;
     list-style-position: outside;
     cursor: pointer;
     user-select: none;
@@ -665,50 +719,154 @@ blockquote div {
 
 .yck-component details[open]::details-content {
     block-size: auto;
-    /* overflow:  clip;
-    block-size: calc-size(auto); */
 }
 
-.yck-component details > *:not(summary) {
+.yck-component details>*:not(summary) {
     padding: 0.5rem 1rem 1rem 2rem;
     animation: fade-in 1s ease 1s;
     animation-fill-mode: both;
 }
 
-/* The individual items in the gallery */
-.masonry-item {
-    /* Prevents items from breaking across columns */
-    break-inside: avoid;
-    /* Adds space below each item */
-    margin-bottom: 1rem;
-    /* Ensures items don't have unwanted inline space */
+/* --- Navigation Bar --- */
+.yck-component .yck-nav-bar {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 0;
+    margin: 0;
+    position: relative;
+}
+
+.yck-component .yck-nav-bar a {
+    text-decoration: none;
+    color: inherit;
+    /* Inherit text color */
+    padding-bottom: 0.5em;
+    margin-inline: 1rem;
+    position: relative;
+}
+
+
+.yck-component .yck-nav-bar a::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 100%;
+    bottom: 0;
+    height: 2px;
+    background-color: #e37f2a;
+    /* Highlight Color */
+    transition: right 0.5s ease-in-out;
+    /* Transition on right for fade in from left */
+}
+
+.yck-component .yck-nav-bar a:hover::after {
+    right: 0;
+}
+
+/* --- Buttons --- */
+.yck-component .button-container {
+    text-align: center;
+    padding-top: 2rem;
+    width: 100%;
+}
+
+.yck-component .cheer-button {
+    background-color: var(--primary-green);
+    color: var(--white);
+    font-weight: 700;
+    padding: 0.75rem 2rem;
+    border-radius: 9999px;
+    box-shadow:
+        0 10px 15px -3px rgba(0, 0, 0, 0.1),
+        0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    transition: all 0.3s ease-in-out;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
     display: inline-block;
-    width: 100%;
 }
 
-.yck-component .footnote {
-    font-size: var(--yck-step--1);
-    font-weight:  300;
-    padding:  var(--yck-spacing-unit);
-    box-shadow: var(--yck-inset-shadow2);
+.yck-component .cheer-button:hover {
+    box-shadow:
+        0 20px 25px -5px rgba(0, 0, 0, 0.1),
+        0 10px 10px -5px rgba(0, 0, 0, 0.04);
+    transform: scale(1.05);
 }
 
-/* Makes images responsive within their container */
-.masonry-item img {
-    width: 100%;
-    height: auto;
+.yck-component .cheer-button:focus {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(56, 142, 60, 0.5);
+}
+
+.yck-component .truncate {
     display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* --- Backdrop --- */
+.yck-component .backdrop {
+    position: absolute;
+    inset: 0;
+    height: 200%;
+    border-radius: 4px;
+    background: hsl(0deg 0% 100% / 0.1);
+    pointer-events: none;
+    backdrop-filter: blur(16px);
+    mask-image: linear-gradient(to bottom,
+        black 0,
+        black 50%,
+        transparent 50%);
+}
+
+.yck-component .backdrop-edge {
+    --thickness: 6px;
+    position: absolute;
+    inset: 0;
+    height: 100%;
+    transform: translateY(100%);
+    background: hsl(0deg 0% 100% / 0.1);
+    backdrop-filter: blur(8px) brightness(120%);
+    pointer-events: none;
+    mask-image: linear-gradient(to bottom,
+        black 0,
+        black var(--thickness),
+        transparent var(--thickness));
+}
+
+/* ==========================================================================
+   5. Animations & Transitions
+   ========================================================================== */
+
+.ken-burns-container {
+    max-width: 100%;
+    overflow: hidden;
+    position: relative;
+    border-radius: 8px;
+}
+
+.ken-burns-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    animation: kenBurns 35s ease-in-out infinite alternate;
 }
 
 .fade-in {
     animation: fade-in 1s ease-in-out both;
 }
 
-/**
- * ----------------------------------------
- * animation fade-in
- * ----------------------------------------
- */
+@keyframes kenBurns {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.35);
+    }
+}
+
 @-webkit-keyframes fade-in {
     0% {
         opacity: 0;
@@ -749,6 +907,45 @@ blockquote div {
     }
 }
 
+@keyframes fade-in-bottom {
+    from {
+        opacity: 0;
+        transform: translateY(10vh);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* ==========================================================================
+   6. Accessibility & Media Queries
+   ========================================================================== */
+
+@media (max-width: 1000px) {
+    .yck-component .yck-flexbox-grid>* {
+        flex-basis: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    .yck-component .yck-table {
+        font-size: calc(var(--yck-step-0) * 0.9);
+    }
+
+    .yck-component .yck-th,
+    .yck-component .yck-td {
+        padding: calc(var(--yck-spacing-unit) * 0.5);
+    }
+}
+
+@media (max-width: 600px) {
+    .yck-component .yck-flex-grid.grid-cols-6>* {
+        flex-basis: auto;
+    }
+}
+
 @media (prefers-reduced-motion: reduce) {
     * {
         animation-duration: 0.01ms !important;
@@ -765,6 +962,7 @@ blockquote div {
 }
 
 @supports (animation-timeline: view()) {
+
     .yck-component .col-container,
     .yck-component .col3-container,
     .yck-component .isomer-card-grid {
@@ -773,55 +971,6 @@ blockquote div {
         animation-range: entry 25% cover 50%;
     }
 }
-
-@keyframes fade-in-bottom {
-    from {
-        opacity: 0;
-        transform: translateY(10vh);
-    }
-
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
-}
-
-/* Button styling */
-.button-container {
-    text-align: center;
-    padding-top: 2rem;
-    width: 100%;
-    /* Ensure button container takes full width for centering */
-}
-
-.cheer-button {
-    background-color: var(--primary-green);
-    color: var(--white);
-    font-weight: 700;
-    padding: 0.75rem 2rem;
-    border-radius: 9999px;
-    box-shadow:
-        0 10px 15px -3px rgba(0, 0, 0, 0.1),
-        0 4px 6px -2px rgba(0, 0, 0, 0.05);
-    transition: all 0.3s ease-in-out;
-    border: none;
-    cursor: pointer;
-    text-decoration: none;
-    display: inline-block;
-}
-
-.cheer-button:hover {
-    box-shadow:
-        0 20px 25px -5px rgba(0, 0, 0, 0.1),
-        0 10px 10px -5px rgba(0, 0, 0, 0.04);
-    transform: scale(1.05);
-}
-
-.cheer-button:focus {
-    outline: none;
-    box-shadow: 0 0 0 4px rgba(56, 142, 60, 0.5);
-}
-	
 .qr-container {
   display: flex;
   justify-content: center;
@@ -835,4 +984,4 @@ blockquote div {
   min-width: 100px;
 }
 
-</style></div>
+</style>
