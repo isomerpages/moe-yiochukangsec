@@ -10,20 +10,20 @@ third_nav_title: Our School
 	<div class="isomer-card-grid">
 		<div class="isomer-card">
 			<div class="isomer-card-body">
-				<div class="isomer-card-title">Vision</div>
+				<div class="isomer-card-title"><p class="dropcap-title">Vision</p></div>
 				<div class="isomer-card-description">
 					A COMMUNITY OF <strong>LEARNERS, LEADERS AND INNOVATORS</strong></div>
 			</div>
 		</div>
 			<div class="isomer-card">
 			<div class="isomer-card-body">
-				<div class="isomer-card-title">Mission</div>
+				<div class="isomer-card-title"><p class="dropcap-title">Mission</p></div>
 				<div class="isomer-card-description">Nurturing students of character who thrive through love of learning, and a willingness to grow and lead in meaningful service to self and others</div>
 			</div>
 		</div>
 		<div class="isomer-card">
 			<div class="isomer-card-body">
-				<div class="isomer-card-title">Motto</div>
+				<div class="isomer-card-title"><p class="dropcap-title">Motto</p></div>
 				<div class="isomer-card-description"><strong>Pursuit of knowledge, Service to All</strong>
 			</div>
 		</div>
@@ -279,6 +279,30 @@ small {
 
 .yck-component abbr:hover {
     color: #efae5a;
+}
+
+.yck-component .dropcap-title {
+    font-size: var(--yck-step-1);
+    /* Base font size for the heading */
+    font-weight: normal;
+    margin-bottom: 0.5em;
+    color: #555;
+}
+
+/* This is the core magic for the dropcap */
+.yck-component .dropcap-title::first-letter {
+    float: left;
+    font-size: calc(var(--yck-step-5)*1.65);
+    /* The size of the dropcap relative to the heading's font size */
+    font-weight: bold;
+    font-style: oblique;
+    font-family: cursive;
+    line-height: 0.9;
+    /* Pulls the rest of the text up vertically */
+    padding-right: 0.18em;
+    /* Adds a little space next to the letter */
+    color: #4e835b;
+    /* A distinct color for the dropcap */
 }
 
 /* Table Styles */
