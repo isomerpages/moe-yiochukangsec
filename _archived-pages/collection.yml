@@ -2,6 +2,7 @@ collections:
   archived-pages:
     output: true
     order:
+      - Our School/School Vision, Mission, Motto and Values.md
       - Our School/School Logo.md
       - Our School/School Song.md
       - Our School/School Facilities.md
