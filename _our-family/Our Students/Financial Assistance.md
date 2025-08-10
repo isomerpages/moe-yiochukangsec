@@ -7,11 +7,11 @@ variant: markdown
 ---
 <div class="yck-component">
 	<div class="regular-flow">
-		<p>The Ministry of Education Financial Assistance Scheme (MOE FAS) offers help to Singapore Citizen students in financial need.</p>
+		<p>The <a rel="noopener noreferrer nofollow" target="_blank" href="https://www.moe.gov.sg/financial-matters/financial-assistance">Ministry of Education Financial Assistance Scheme (MOE FAS)</a> offers help to Singapore Citizen students in financial need.</p>
 
 <p>Singapore Citizen students from households with gross monthly household income (GHI) not exceeding $3,000, or per capita income (PCI) not exceeding $750, are eligible for the MOE FAS from 1 January, 2024.</p>
 
-<p>Parents who wish to apply may obtain a copy of the MOE FAS application form from the General Office, and return the completed form along with relevant documents to the school for processing. Alternatively, you may submit the application electronically using <a target="_blank" class="text-link" href="https://form.gov.sg/64e2f8f73f582600139f54ac">this link</a>.</p>
+<p>Parents who wish to apply may obtain a copy of the MOE FAS application form from the General Office, and return the completed form along with relevant documents to the school for processing. Alternatively, you may submit the application electronically using <a rel="noopener noreferrer nofollow" target="_blank" class="text-link" href="https://form.gov.sg/64e2f8f73f582600139f54ac">this link</a>.</p>
 <p>Please contact the <strong>General Office at 6456 0669</strong>&nbsp;if you have any queries.</p>
 </div></div>
 
@@ -23,8 +23,8 @@ variant: markdown
 <ul>
   <li><a target="_blank" href="/files/Students/Financial%20Assistance/2024_MOE_FAS_Application_Form.pdf">2024 MOE&nbsp; FAS Application Form</a></li>
   <li><a target="_blank" href="/files/Students/Financial%20Assistance/eVoucher%20Redemption%20Process%202016.pdf">Transport e-Voucher Redemption Process</a></li>
-  <li><a target="_blank" href="https://www.simplygo.com.sg/simplygo-ticket-offices/">List of Transit Link Ticket Offices</a></li>
-  <li><a target="_blank" href="https://www.transitlink.com.sg/PSdetail.aspx?ty=art&amp;Id=29">List of Add Value Machine Plus (AVM+)</a></li>
+  <li><a rel="noopener noreferrer nofollow" target="_blank" href="https://www.simplygo.com.sg/simplygo-ticket-offices/">List of Transit Link Ticket Offices</a></li>
+  <li><a rel="noopener noreferrer nofollow" target="_blank" href="https://www.transitlink.com.sg/PSdetail.aspx?ty=art&amp;Id=29">List of Add Value Machine Plus (AVM+)</a></li>
 </ul>
 	</div>
 	</div>
