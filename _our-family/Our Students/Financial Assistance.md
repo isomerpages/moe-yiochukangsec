@@ -24,7 +24,7 @@ variant: markdown
   <li><a class="text-link" target="_blank" href="/files/Students/Financial%20Assistance/2024_MOE_FAS_Application_Form.pdf">2024 MOE&nbsp; FAS Application Form</a></li>
   <li><a class="text-link" target="_blank" href="/files/Students/Financial%20Assistance/eVoucher%20Redemption%20Process%202016.pdf">Transport e-Voucher Redemption Process</a></li>
   <li><a class="text-link" rel="noopener noreferrer nofollow" target="_blank" href="https://www.simplygo.com.sg/simplygo-ticket-offices/">List of Transit Link Ticket Offices</a></li>
-  <li><a class="text-link" rel="noopener noreferrer nofollow" target="_blank" href="https://simplygo.com.sg/locations/ticketing-service-kiosks#topupkiosks">List of Add Value Machine Plus (AVM+)</a></li>
+  <li><a class="text-link" rel="noopener noreferrer nofollow" target="_blank" href="https://simplygo.com.sg/locations/ticketing-service-kiosks#tab-TopUpKiosks">List of Add Value Machine Plus (AVM+)</a></li>
 </ul>
 	</div>
 	</div>
