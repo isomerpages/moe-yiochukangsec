@@ -2,6 +2,7 @@ collections:
   archived-pages:
     output: true
     order:
+      - Our Staff/Teaching Staff.md
       - Our Staff/Non Teaching Staff.md
       - Our Staff/Organization Chart.md
       - Our Staff/Staff Events.md
