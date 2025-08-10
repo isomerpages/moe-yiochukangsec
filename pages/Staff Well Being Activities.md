@@ -233,34 +233,7 @@ the scenic beauty around them. Ultimately, their primary goal in joining the act
 </details>
 
 <details><summary>Archived articles</summary>
-<h3> Staff Appreciation Day 5th Sept</h3>
 
-
-<p>The grouping for the bowling activity was done so that every team had a mixed number of bowlers from school leaders to the EAS staff. There was much bonding during the event. It was an event that favoured no male or female bowlers. All 120 bowlers had an equal chance of doing well for the team. At the end of the day, hidden talents in bowling emerged and the rest had a very joyful day.</p>
-
-<h4>Quotes from participants</h4>
-
-<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/P1.png">
-
-<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/P2.jpg">
-    
-<hr>
-    
-<h3>Durian Feast</h3>
-
-<p>At the durian feast held on 31st July 2019, our staff were spoiled for choices. With a variety of fruits to choose from, the King of fruits was definitely the favourite. Staff who tried the Mao Shan Wang (MSW) durian, known to be the premium type, commented on its rich, bitter and heavily rich flavour.</p>
-
-<p>It was indeed a great way to end the day and we had an enjoyable bonding session over the feasting.</p>
-
-<h4>Quotes from participants</h4>
-
-<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S17.png">
-
-<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S18.png">
-
-<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S19.png">
-
-</details>
 
 <style>
 @charset "UTF-8";
@@ -464,4 +437,4 @@ details[open] summary::after {
         flex-shrink: 0;
         /* Prevents the images from shrinking */
       }
-</style>
+</style></details>
