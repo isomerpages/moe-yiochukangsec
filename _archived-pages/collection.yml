@@ -2,6 +2,7 @@ collections:
   archived-pages:
     output: true
     order:
+      - Our Staff/Staff Events.md
       - Our Staff/.keep
       - Organization Chart.md
       - Useful Links (Archive).md
