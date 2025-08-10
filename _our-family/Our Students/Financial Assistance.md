@@ -7,7 +7,7 @@ variant: markdown
 ---
 <div class="yck-component">
 	<div class="regular-flow">
-		<p>The <a rel="noopener noreferrer nofollow" target="_blank" href="https://www.moe.gov.sg/financial-matters/financial-assistance">Ministry of Education Financial Assistance Scheme (MOE FAS)</a> offers help to Singapore Citizen students in financial need.</p>
+		<p>The <a class="text-link" rel="noopener noreferrer nofollow" target="_blank" href="https://www.moe.gov.sg/financial-matters/financial-assistance">Ministry of Education Financial Assistance Scheme (MOE FAS)</a> offers help to Singapore Citizen students in financial need.</p>
 
 <p>Singapore Citizen students from households with gross monthly household income (GHI) not exceeding $3,000, or per capita income (PCI) not exceeding $750, are eligible for the MOE FAS from 1 January, 2024.</p>
 
@@ -23,8 +23,8 @@ variant: markdown
 <ul>
   <li><a target="_blank" href="/files/Students/Financial%20Assistance/2024_MOE_FAS_Application_Form.pdf">2024 MOE&nbsp; FAS Application Form</a></li>
   <li><a target="_blank" href="/files/Students/Financial%20Assistance/eVoucher%20Redemption%20Process%202016.pdf">Transport e-Voucher Redemption Process</a></li>
-  <li><a rel="noopener noreferrer nofollow" target="_blank" href="https://www.simplygo.com.sg/simplygo-ticket-offices/">List of Transit Link Ticket Offices</a></li>
-  <li><a rel="noopener noreferrer nofollow" target="_blank" href="https://www.transitlink.com.sg/PSdetail.aspx?ty=art&amp;Id=29">List of Add Value Machine Plus (AVM+)</a></li>
+  <li><a class="text-link" rel="noopener noreferrer nofollow" target="_blank" href="https://www.simplygo.com.sg/simplygo-ticket-offices/">List of Transit Link Ticket Offices</a></li>
+  <li><a class="text-link" rel="noopener noreferrer nofollow" target="_blank" href="https://www.transitlink.com.sg/PSdetail.aspx?ty=art&amp;Id=29">List of Add Value Machine Plus (AVM+)</a></li>
 </ul>
 	</div>
 	</div>
@@ -187,11 +187,15 @@ small {
 .yck-component a {
     text-decoration: none;
     color: #e37f2a;
-    position: relative;
-    padding-bottom: 2px;
 }
 
-.yck-component a::after {
+.yck-component a.text-link {
+    position: relative;
+    padding-bottom: 2px;
+    text-decoration: none;
+}
+
+.yck-component a.text-link::after {
     content: " ";
     position: absolute;
     width: 0;
@@ -200,17 +204,19 @@ small {
     left: 0;
     background-color: currentColor;
     transition:
-        width 1s var(--yck-transition-timing),
+        width 1s cubic-bezier(0.25, 1, 0.5, 1),
         color 1.2s ease-out;
 }
 
-.yck-component a:hover::after {
+.yck-component a.text-link:hover::after {
     width: 100%;
     color: rgba(0, 122, 247, 0.25);
 }
 
-.yck-component a:hover {
-    text-decoration: none;
+.yck-component a[target="_blank"]:not(.text-link):after {
+    display: none;
+    margin: 0;
+    padding: 0;
 }
 
 .yck-component abbr {
