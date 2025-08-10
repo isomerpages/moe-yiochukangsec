@@ -19,7 +19,7 @@ variant: markdown
 <div class="yck-component">
 	<div class="regular-flow">
 <h3>Useful Links</h3>
-<div class="yck-nav-bar">
+<div class="column">
 <ul>
   <li><a target="_blank" href="/files/Students/Financial%20Assistance/2024_MOE_FAS_Application_Form.pdf">2024 MOE&nbsp; FAS Application Form</a></li>
   <li><a target="_blank" href="/files/Students/Financial%20Assistance/eVoucher%20Redemption%20Process%202016.pdf">Transport e-Voucher Redemption Process</a></li>
