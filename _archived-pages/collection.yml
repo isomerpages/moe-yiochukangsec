@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Staff/.keep
-      - Staff Events.md
       - Organization Chart.md
       - Useful Links (Archive).md
       - Media Club (Audio Visual, Photography & Videography).md
