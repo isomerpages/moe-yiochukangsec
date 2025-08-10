@@ -232,9 +232,6 @@ the scenic beauty around them. Ultimately, their primary goal in joining the act
     
 </details>
 
-<details><summary>Archived articles</summary>
-
-
 <style>
 @charset "UTF-8";
 
@@ -437,4 +434,4 @@ details[open] summary::after {
         flex-shrink: 0;
         /* Prevents the images from shrinking */
       }
-</style></details>
+</style>
