@@ -9,25 +9,18 @@ third_nav_title: Our Students
 <div class="yck-component">
 	<div class="regular-flow">
 <h4><strong>Useful Links</strong></h4>
-	<div class="col-container">
-		<div class="column">
+<nav class="yck-nav-bar">
 <ul>
     <li><a class="text-link" href="https://vle.learning.moe.edu.sg/login">The Student Learning Space (SLS)</a></li>
     <li><a class="text-link" href="https://www.ace-learning.com/">Ace Learning</a></li>
     <li><a class="text-link" href="https://schoolibrary.moe.edu.sg/yiochukangsec">YCKSS Library OPAC System</a></li>
     <li><a class="text-link" href="https://www.seab.gov.sg/">Singapore Examination and Assessment Board</a></li>
-</ul>
-</div>
-<div class="column">
-<ul>
     <li><a class="text-link" href="http://tinyurl.com/yckss-alumin/">YCKSS Alumni Application</a></li>
     <li><a class="text-link" href="https://www.moe.gov.sg/">Ministry of Education</a></li>
     <li><a class="text-link" href="https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp">Early Admission Exercise</a></li>
     <li><a class="text-link" href="https://www.ite.edu.sg/">ITE Education</a></li>
 </ul>
-</div>
-</div>
-</div>
+</nav>
 
 <style>
 	:root {
@@ -56,9 +49,9 @@ third_nav_title: Our Students
     text-rendering: optimizeSpeed;
 }
 
-/* body {
+body {
     min-height: 100vh;
-} */
+} 
 
 ::selection {
     text-shadow: none;
@@ -80,7 +73,6 @@ video {
     font-size: var(--yck-step-0);
     margin-bottom: var(--yck-space-s-xl);
     position: relative;
-    min-height: 100vh;
 }
 
 .yck-component h1,
@@ -284,4 +276,73 @@ a[target="_blank"]:after {
     padding-left: 1rem;
     border-bottom: 1px dotted rgba(0, 0, 0, 0.05);
 }
-</style></div>
+	
+.yck-component .yck-nav-bar>* {
+    margin: 0;
+    padding: 0;
+}
+
+.yck-component .yck-nav-bar ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    list-style: none;
+    background-color: #ffffff;
+    border-radius: 0.75rem;
+    box-shadow: var(--yck-inset-shadow2);
+    grid-auto-flow: row dense;
+      justify-content: start;
+      align-content: start;
+      /* justify-items: center;
+      align-items: start; */
+}
+
+.yck-component .yck-nav-bar a {
+    display: block;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: var(--yck-step-1);
+    transition: all 0.3s var(--yck-transition-timing);
+    margin: calc(var(--yck-spacing-unit) * 0.2);
+    padding: calc(var(--yck-spacing-unit) * 0.7);
+    border-radius: 0.5rem;
+    text-align: center;
+    text-wrap: balance;
+    color: #4a5568;
+    position: relative;
+}
+
+.yck-component .yck-nav-bar a::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: 5px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #4299e1;
+    /* Added background-color to the transition for the color fade effect */
+    transition: width 0.7s var(--yck-transition-timing), background-color 0.7s var(--yck-transition-timing);
+}
+
+
+.yck-component .yck-nav-bar a.active {
+    color: #2b6cb0;
+}
+
+.yck-component .yck-nav-bar a.active::after {
+    width: 60%;
+    background-color: #4299e1;
+}
+
+
+.yck-component .yck-nav-bar a:hover {
+    color: #e37f2a;
+}
+
+.yck-component .yck-nav-bar a:hover::after {
+    background-color: #e37f2a;
+    width: 60%;
+}
+
+</style></div></div>
