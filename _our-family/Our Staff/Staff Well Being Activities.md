@@ -10,6 +10,10 @@ third_nav_title: Our Staff
 
 The Staff Well-being Committee (SWC) adopts the PIES approach, looking into the **P**hysical, **I**ntellectual, **E**motional and **S**ocial well-being of the staff. The school aims to develop an engaged staff who care for self and others. Some of the plans in promoting staff well-being and satisfaction include identifying staff needs, staff well-being programmes and activities and providing a safe and secure environment.
 
+![](/images/Our%20Family/Staff/SWC%20Activities/Social/2025_durians_kiwi01.jpg)
+![](/images/Our%20Family/Staff/SWC%20Activities/Social/2025_durians_kiwi02.jpg)
+![](/images/Our%20Family/Staff/SWC%20Activities/Social/2025_durians_kiwi03.jpg)
+
 ---
 
 <details><summary>SOCIAL</summary>
