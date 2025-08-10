@@ -2,6 +2,7 @@ collections:
   archived-pages:
     output: true
     order:
+      - Our School/School Theme.md
       - Our School/.keep
       - Our CCAs/Digital Animation Club.md
       - Our CCAs/Media Club (Audio Visual, Photography & Videography).md
