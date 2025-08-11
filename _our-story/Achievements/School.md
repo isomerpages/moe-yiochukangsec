@@ -807,7 +807,8 @@ variant: markdown
 		</details>
 	</div>
 	</div>
-	<hr>
+
+<hr>
 
 
 <ul class="jekyllcodex_accordion">
