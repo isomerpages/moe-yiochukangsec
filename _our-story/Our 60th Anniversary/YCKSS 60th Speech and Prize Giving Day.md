@@ -12,16 +12,16 @@ third_nav_title: Our 60th Anniversary
     <div class="video-container"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/Ztbsf0cNbQQ?si=P49Y9bGzZ2iyVpB7&amp;controls=0" height="315" width="560"></iframe></div>
     <h4 class="yck-h4">Highlights from the 60<sup>th</sup> Speech and Prize Giving Day</h4>
     <div class="video-container"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/xWxW7cRhwfM?si=vEP3ZnN4iD2O5gQ2&amp;controls=0" height="315" width="560"></iframe></div>
-	<p>You can watch the highlights and performance during our <a href="https://www.yiochukangsec.moe.edu.sg/60th-anniversary-dinner/">60<sup>th</sup> Anniversary Dinner</a> by following <a target="_blank" href="https://www.yiochukangsec.moe.edu.sg/60th-anniversary-dinner/">this link</a>.</p>
+	<p>You can watch the highlights and performance during our <a class="text-link" href="/our-story/our-60th-anniversary/60th-anniversary-dinner/">60<sup>th</sup> Anniversary Dinner</a> by following <a class="text-link" target="_blank" href="/our-story/our-60th-anniversary/60th-anniversary-dinner/">this link</a>.</p>
 </div>
 <div class="yck-component">
 	<h4 class="yck-h4">Previous Speech &amp; Prize Giving Days</h4>	
 	<details><summary>Full Performances and Highlight Reels by Year</summary>
 		<ul>
-			<li>59<sup>th</sup> <a target="_blank" href="https://www.youtube.com/embed/iivxaYHg7HY?si=7M-KsfLRj1pHsKkC">Full Performance</a> and <a target="_blank" href="https://www.youtube.com/embed/vXqtR-VJkn4?si=WgK1sTAJ9A8mm625">Highlights</a> in 2024.</li>
-				<li>58<sup>th</sup> <a target="_blank" href="https://www.youtube.com/watch?v=UpBOuxauBJw">Full Performance</a> and <a target="_blank" href="-&quot;https://youtu.be/Rcnx3RyomJY?si=y43ZPzAwE4kYAwGa&quot;">Highlights</a> in 2023.</li>
-				<li>57<sup>th</sup> <a target="_blank" href="https://youtu.be/_WaoEa4PJzU?si=SlCGwDYyb1-1vMNV">Speech and Prize Giving Day</a> in 2022.</li>
-				<li>56<sup>th</sup> <a target="_blank" href="https://youtu.be/aHeeaGQKlwQ?si=3NTF35l5j1FPa63M">Speech and Prize Giving Day</a> in 2021.</li>
+			<li>59<sup>th</sup> <a class="text-link" target="_blank" href="https://www.youtube.com/embed/iivxaYHg7HY?si=7M-KsfLRj1pHsKkC">Full Performance</a> and <a class="text-link" target="_blank" href="https://www.youtube.com/embed/vXqtR-VJkn4?si=WgK1sTAJ9A8mm625">Highlights</a> in 2024.</li>
+				<li>58<sup>th</sup> <a class="text-link" target="_blank" href="https://www.youtube.com/watch?v=UpBOuxauBJw">Full Performance</a> and <a class="text-link" target="_blank" href="-&quot;https://youtu.be/Rcnx3RyomJY?si=y43ZPzAwE4kYAwGa&quot;">Highlights</a> in 2023.</li>
+				<li>57<sup>th</sup> <a class="text-link" target="_blank" href="https://youtu.be/_WaoEa4PJzU?si=SlCGwDYyb1-1vMNV">Speech and Prize Giving Day</a> in 2022.</li>
+				<li>56<sup>th</sup> <a class="text-link" target="_blank" href="https://youtu.be/aHeeaGQKlwQ?si=3NTF35l5j1FPa63M">Speech and Prize Giving Day</a> in 2021.</li>
 		</ul>
 	</details></div>
 
