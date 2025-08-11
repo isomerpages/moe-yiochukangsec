@@ -28,7 +28,7 @@ sections:
       subtitle: YIO CHU KANG SECONDARY SCHOOL
       id: infopic
       button: Come and join us
-      url: https://www.yiochukangsec.moe.edu.sg/60th-anniversary-celebrations/
+      url: https://www.yiochukangsec.moe.edu.sg/our-story/our-60th-anniversary/60th-anniversary-celebrations/
       image: /images/60th_Anniversary_Celebration.gif
       alt: 60th Celebration GIF
   - infopic:
@@ -50,7 +50,7 @@ sections:
         and friends for a day of fun, games, and heartwarming memories at our
         Homecoming Carnival.
       button: let’s make it unforgettable!
-      url: /homecoming-carnival/
+      url: https://www.yiochukangsec.moe.edu.sg/our-story/our-60th-anniversary/homecoming-carnival/
       image: /images/60th Anniversary/Homecoming_Carnival_EDM.png
       alt: The Homecoming Carnival
 ---
