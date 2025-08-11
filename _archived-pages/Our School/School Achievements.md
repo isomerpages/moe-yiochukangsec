@@ -1476,6 +1476,10 @@ small {
     overflow: hidden;
 }
 
+.yck-component details * {
+    margin: 0 !important;
+}
+
 .yck-component details>p,
 .yck-component details ul,
 .yck-component details div {
@@ -1485,16 +1489,36 @@ small {
 
 .yck-component summary {
     margin-inline-start: 1.5rem;
+    padding: 1rem;
     list-style-position: outside;
     cursor: pointer;
     user-select: none;
     outline: none;
     font-size: var(--yck-step-1);
     font-weight: 500;
+    border-radius: 10px;
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.yck-component summary:hover {
+    box-shadow: var(--yck-inset-shadow2);
 }
 
 .yck-component summary::marker {
-    font-size: var(--yck-step-1);
+    font-size: var(--yck-step-2);
+}
+.yck-component summary::after {
+    content: "+";
+    position: absolute;
+    font-size: var(--yck-step-2);
+    right: 1rem;
+    top: 1.25em;
+    transform: translateY(-50%) rotate(0deg); 
+    transition: transform 0.5s ease-in-out;
+}
+
+.yck-component details[open] > summary::after {
+    transform: translateY(-50%) rotate(135deg); /* Rotates the icon 90 degrees */
 }
 
 .yck-component details::details-content {
