@@ -6,82 +6,92 @@ variant: markdown
 third_nav_title: Physical Sports
 ---
 <div class="yck-component">
-    <div class="ken-burns-container">
-        <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Basketball%20(Boys)/B1.jpg" class="ken-burns-image">
+    <div class="regular-flow">
+        <div class="ken-burns-container">
+            <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Physical%20Sports/Basketball%20(Boys)/B1.jpg" class="ken-burns-image">
+        </div>
+        <p>The Basketball CCA aims to cultivate positive self-esteem and sportsmanship in students through training sessions and competitions. We strive to instill values such as gratitude, respect for others, honesty, and teamwork.</p>
+        <p>Basketball plays a crucial role in the physical, cognitive, social, emotional, and character development of every student. Through the sport, students acquire skills in self-management, responsible decision-making, and social awareness. Our overarching philosophy is to ensure that every student with potential, ability, or interest is given the opportunity to fully develop their potential.</p>
+        <h4 class="yck-h4">Training Schedule</h4>
+        <table class="yck-table">
+            <thead>
+                <tr>
+                    <th class="yck-th">
+                        <h5 class="yck-h5">DAY &amp; TIME:</h5>
+                    </th>
+                    <th class="yck-th">
+                        <h5 class="yck-h5">TEACHERS-IN-CHARGE</h5>
+                    </th>
+                    <th class="yck-th">
+                        <h5 class="yck-h5">VENUE:</h5>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="yck-td">
+                        <p>Every Tuesday, 3.00pm to 5.30pm</p>
+                        <p>Every Thursday, 3.00pm to 5.30pm</p>
+                    </td>
+                    <td class="yck-td">
+                        <p>Ms Anna Leong <i>(OIC)</i> (ext 218)</p>
+                        <p>Mr Jude Ang (ext 150)</p>
+                        <p>Mr Jeremy Chen (ext 145)</p>
+                        <p>Mdm Chua Sock Huang (ext 133)</p>
+                    </td>
+                    <td class="yck-td">
+                        <p>ISH Level 2</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
     </div>
-    <p>The Basketball CCA aims to cultivate positive self-esteem and sportsmanship in students through training sessions and competitions. We strive to instill values such as gratitude, respect for others, honesty, and teamwork.</p>
-    <p>Basketball plays a crucial role in the physical, cognitive, social, emotional, and character development of every student. Through the sport, students acquire skills in self-management, responsible decision-making, and social awareness. Our overarching philosophy is to ensure that every student with potential, ability, or interest is given the opportunity to fully develop their potential.</p>
 </div>
 <div class="yck-component">
-    <h4 class="yck-h4">Training Schedule</h4>
-    <table class="yck-table">
-        <thead>
-            <tr>
-                <th class="yck-th">
-                    <h5 class="yck-h5">DAY &amp; TIME:</h5>
-                </th>
-                <th class="yck-th">
-                    <h5 class="yck-h5">TEACHERS-IN-CHARGE</h5>
-                </th>
-                <th class="yck-th">
-                    <h5 class="yck-h5">VENUE:</h5>
-                </th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td class="yck-td">
-                    <p>Every Tuesday, 3.00pm to 5.30pm</p>
-                    <p>Every Thursday, 3.00pm to 5.30pm</p>
-                </td>
-                <td class="yck-td">
-                    <p>Ms Anna Leong <i>(OIC)</i> (ext 218)</p>
-                    <p>Mr Jude Ang (ext 150)</p>
-                    <p>Mr Jeremy Chen (ext 145)</p>
-                    <p>Mdm Chua Sock Huang (ext 133)</p>
-                </td>
-                <td class="yck-td">
-                    <p>ISH Level 2</p>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-<div class="yck-component">
-    <h4>Events &amp; Competitions</h4>
-    <div class="yck-flexbox-grid">
-        <div class="column">
-            <h5><strong>2024</strong></h5>
-            <ul>
-                <li>National 'C' Division League 5 2nd place</li>
-                <li>South Zone 'B' Division Basketball Championship</li>
-                <li>South Zone 'C' Division Basketball Championship</li>
-                <li>YCKSS U17 Cup 2024</li>
-            </ul>
-        </div>
-        <div class="column">
-            <h5><strong>2023</strong></h5>
-            <ul>
-                <li>YCKSS U17 Cup 2nd and 5th place</li>
-                <li>South Zone 'B' Division Basketball Championship</li>
-                <li>South Zone 'C' Division Basketball Championship</li>
-                <li>YCKSS U17 Cup 2023</li>
-            </ul>
-        </div>
-        <div class="column">
-            <h5><strong>2022</strong></h5>
-            <ul>
-                <li>YCKSS U17 Cup 4th and 6th place</li>
-                <li>South Zone 'B' Division Basketball Championship</li>
-                <li>South Zone 'C' Division Basketball Championship</li>
-                <li>YCKSS U17 Cup 2022</li>
-            </ul>
-        </div>
-        <div class="column">
-            <h5><strong>2021</strong></h5>
-            <ul>
-                <li>S7 Cluster Games 1st and 2nd place</li>
-            </ul>
+    <div class="regular-flow">
+        <h4>Events &amp; Competitions</h4>
+        <div class="yck-flexbox-grid">
+            <div class="isomer-card">
+                <div class="isomer-card-body">
+                    <h5><strong>2024</strong></h5>
+                    <ul>
+                        <li>National 'C' Division League 5 2nd place</li>
+                        <li>South Zone 'B' Division Basketball Championship</li>
+                        <li>South Zone 'C' Division Basketball Championship</li>
+                        <li>YCKSS U17 Cup 2024</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="isomer-card">
+                <div class="isomer-card-body">
+                    <h5><strong>2023</strong></h5>
+                    <ul>
+                        <li>YCKSS U17 Cup 2nd and 5th place</li>
+                        <li>South Zone 'B' Division Basketball Championship</li>
+                        <li>South Zone 'C' Division Basketball Championship</li>
+                        <li>YCKSS U17 Cup 2023</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="isomer-card">
+                <div class="isomer-card-body">
+                    <h5><strong>2022</strong></h5>
+                    <ul>
+                        <li>YCKSS U17 Cup 4th and 6th place</li>
+                        <li>South Zone 'B' Division Basketball Championship</li>
+                        <li>South Zone 'C' Division Basketball Championship</li>
+                        <li>YCKSS U17 Cup 2022</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="isomer-card">
+                <div class="isomer-card-body">
+                    <h5><strong>2021</strong></h5>
+                    <ul>
+                        <li>S7 Cluster Games 1st and 2nd place</li>
+                    </ul>
+                </div>
+            </div>
         </div>
     </div>
 </div>
@@ -94,8 +104,8 @@ third_nav_title: Physical Sports
 
 <style>
 /* ==========================================================================
-   1. Global Styles & Resets
-   ========================================================================== */
+       1. Global Styles & Resets
+       ========================================================================== */
 
 :root {
     --yck-text-line-height: 1.6em;
@@ -142,8 +152,8 @@ video {
 }
 
 /* ==========================================================================
-   2. Base Typography
-   ========================================================================== */
+       2. Base Typography
+       ========================================================================== */
 
 .yck-component {
     line-height: var(--yck-text-line-height);
@@ -323,8 +333,8 @@ small {
 }
 
 /* ==========================================================================
-   3. Layout Components
-   ========================================================================== */
+       3. Layout Components
+       ========================================================================== */
 
 .yck-component .regular-flow>*+* {
     margin-top: 1.125em;
@@ -404,8 +414,8 @@ small {
 }
 
 /* ==========================================================================
-   4. UI Components
-   ========================================================================== */
+       4. UI Components
+       ========================================================================== */
 
 /* --- Tables --- */
 .yck-component .yck-table {
@@ -787,18 +797,20 @@ small {
 .yck-component summary::marker {
     font-size: var(--yck-step-2);
 }
+
 .yck-component summary::after {
     content: "+";
     position: absolute;
     font-size: var(--yck-step-2);
     right: 1rem;
     top: 1.25em;
-    transform: translateY(-50%) rotate(0deg); 
+    transform: translateY(-50%) rotate(0deg);
     transition: transform 0.5s ease-in-out;
 }
 
-.yck-component details[open] > summary::after {
-    transform: translateY(-50%) rotate(135deg); /* Rotates the icon 90 degrees */
+.yck-component details[open]>summary::after {
+    transform: translateY(-50%) rotate(135deg);
+    /* Rotates the icon 90 degrees */
 }
 
 .yck-component details::details-content {
@@ -835,11 +847,11 @@ small {
     background-color: #ffffff;
     border-radius: 0.75rem;
     box-shadow: var(--yck-inset-shadow2);
-    
+
     justify-content: start;
     align-content: start;
     justify-items: center;
-      align-items: start;
+    align-items: start;
 }
 
 .yck-component .yck-nav-bar a {
@@ -976,8 +988,8 @@ small {
 }
 
 /* ==========================================================================
-   5. Animations & Transitions
-   ========================================================================== */
+       5. Animations & Transitions
+       ========================================================================== */
 
 .ken-burns-container {
     max-width: 100%;
@@ -1060,8 +1072,8 @@ small {
 }
 
 /* ==========================================================================
-   6. Accessibility & Media Queries
-   ========================================================================== */
+       6. Accessibility & Media Queries
+       ========================================================================== */
 
 @media (max-width: 1000px) {
     .yck-component .yck-flexbox-grid>* {
