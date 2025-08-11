@@ -7,8 +7,8 @@ image: /images/60th Anniversary/60thLogo.svg
 third_nav_title: Our 60th Anniversary
 ---
 <div class="yck-component">
-	<h3>2025</h3>
-    <h4 class="yck-h4">60<sup>th</sup> Speech and Prize Giving Day - Full Performance</h4>
+<div class="regular-flow">
+    <h2>60<sup>th</sup> Speech and Prize Giving Day - Full Performance</h2>
     <div class="video-container"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/Ztbsf0cNbQQ?si=P49Y9bGzZ2iyVpB7&amp;controls=0" height="315" width="560"></iframe></div>
     <h4 class="yck-h4">Highlights from the 60<sup>th</sup> Speech and Prize Giving Day</h4>
     <div class="video-container"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/xWxW7cRhwfM?si=vEP3ZnN4iD2O5gQ2&amp;controls=0" height="315" width="560"></iframe></div>
@@ -240,4 +240,4 @@ details[open]::details-content {
     }
 }
 
-</style>
+</style></div>
