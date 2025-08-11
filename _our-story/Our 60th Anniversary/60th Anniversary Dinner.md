@@ -8,7 +8,7 @@ third_nav_title: Our 60th Anniversary
 ---
 <div class="yck-component">
 	<div class="regular-flow">
-	<p>Let’s reconnect with old friends, relive cherished moments, and honour those who shaped our journey at the dinner. If you were unable to join us for the dinner, you can still experience the occasion by watching the event highlights and Dance Performance by our YCKSS Dance Interest Group.</p>	
+<p class="dropcap-title">Let’s reconnect with old friends, relive cherished moments, and honour those who shaped our journey at the dinner. If you were unable to join us for the dinner, you can still experience the occasion by watching the event highlights and Dance Performance by our YCKSS Dance Interest Group.</p>	
 <h3>60<sup>th</sup> Anniversary Dinner Highlights</h3>
 <div class="video-container">
 	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/gYkzZ-AIxS4?si=OYNBU5AbOu_qlCUl" height="315" width="560"></iframe>
