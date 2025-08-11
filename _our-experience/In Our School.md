@@ -8,7 +8,7 @@ image: /images/YCKLogo.svg
 <div class="yck-component" id="top">
     <h1>In Our School</h1>
     <p>
-        YCKSS provides students with a rich range of activities outside the classroom to expose, engage and enrich students’ experiences in the school. Here are some of the activities that students look forward to. Please visit our <a class="text-link" target="_blank" href="https://www.facebook.com/yiochukangsec">YCKSS Facebook</a> and <a class="text-link" target="_blank" href="https://www.instagram.com/yiochukang_sec/">Instagram</a> for the more information.
+        YCKSS provides students with a rich range of activities outside the classroom to expose, engage and enrich students’ experiences in the school. Here are some of the activities that students look forward to. Please visit our <a class="text-link" rel="noopener noreferrer nofollow" target="_blank" href="https://www.facebook.com/yiochukangsec">YCKSS Facebook</a> and <a class="text-link" rel="noopener noreferrer nofollow" target="_blank" href="https://www.instagram.com/yiochukang_sec/">Instagram</a> for the more information.
     </p>
 </div>
 <hr>
@@ -18,7 +18,7 @@ image: /images/YCKLogo.svg
         <ul>
             <li><a class="active" href="#levelcamp">Level Camps</a></li>
             <li><a href="#healthfiesta">Health Fiesta &amp; Sports Carnival</a></li>
-            <li><a href="#earcandy">EarCandy</a></li>
+            <li><a href="#earcandy">Ear<sup>Candy</sup>!</a></li>
             <li><a href="#speechday">Annual Speech and Prize Giving Day</a></li>
             <li><a href="#syf">Our Singapore Youth Festival (SYF) Journey</a></li>
             <li><a href="#safety">Commitment to a Safe Campus</a></li>
@@ -80,12 +80,22 @@ image: /images/YCKLogo.svg
         <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/xWxW7cRhwfM?si=WnKIMnhkggsrkzKp" height="315" width="560"></iframe>
     </div>
     <p>
-        Our annual <a class="text-link" target="_blank" href="https://www.yiochukangsec.moe.edu.sg/yckss-60th-speech-and-prize-giving-day/">Speech and Prize Giving Day</a> is a time to
+        Our annual <a class="text-link" rel="noopener noreferrer nofollow" target="_blank" href="https://www.yiochukangsec.moe.edu.sg/yckss-60th-speech-and-prize-giving-day/">Speech and Prize Giving Day</a> is a time to
         recognise the good work by the school and our graduating
         cohort of students. In addition, it is also a celebration of
         our students’ talents as all the performing arts groups such
-        as the <a class="text-link" href="/our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/">Dances</a>, <a class="text-link" href="/our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/">Choir</a>, <a class="text-link" href="/our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/">Band</a> and <a class="text-link" href="/our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/">Drama</a> will put up an <a class="text-link" target="_blank" href="https://youtu.be/Ztbsf0cNbQQ?si=JM352ScDkzir8m3r">amazing concert</a> that always leaves the audience asking for more.
+        as the <a class="text-link" href="/our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/">Dances</a>, <a class="text-link" href="/our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/">Choir</a>, <a class="text-link" href="/our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/">Band</a> and <a class="text-link" href="/our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/">Drama</a> will put up an <a class="text-link" rel="noopener noreferrer nofollow" target="_blank" href="https://youtu.be/Ztbsf0cNbQQ?si=JM352ScDkzir8m3r">amazing concert</a> that always leaves the audience asking for more.
     </p>
+    <h3>Previous Speech &amp; Prize Giving Days</h3>
+    <details>
+        <summary>Full Performances and Highlight Reels by Year</summary>
+        <ul>
+            <li>59<sup>th</sup> <a target="_blank" href="https://www.youtube.com/embed/iivxaYHg7HY?si=7M-KsfLRj1pHsKkC">Full Performance</a> and <a target="_blank" href="https://www.youtube.com/embed/vXqtR-VJkn4?si=WgK1sTAJ9A8mm625">Highlights</a> in 2024.</li>
+            <li>58<sup>th</sup> <a target="_blank" href="https://www.youtube.com/watch?v=UpBOuxauBJw">Full Performance</a> and <a target="_blank" href="-&quot;https://youtu.be/Rcnx3RyomJY?si=y43ZPzAwE4kYAwGa&quot;">Highlights</a> in 2023.</li>
+            <li>57<sup>th</sup> <a target="_blank" href="https://youtu.be/_WaoEa4PJzU?si=SlCGwDYyb1-1vMNV">Speech and Prize Giving Day</a> in 2022.</li>
+            <li>56<sup>th</sup> <a target="_blank" href="https://youtu.be/aHeeaGQKlwQ?si=3NTF35l5j1FPa63M">Speech and Prize Giving Day</a> in 2021.</li>
+        </ul>
+    </details>
 </div>
 <hr>
 <div class="yck-component" id="syf">
@@ -108,8 +118,8 @@ image: /images/YCKLogo.svg
         </div>
     </div>
     <p>
-        The <a class="text-link" target="_blank" href="https://www.syf.gov.sg/arts-presentation/about-the-arts-presentation">Singapore Youth Festival (SYF)</a> is an annual event
-        <a class="text-link" target="_blank" href="https://www.moe.gov.sg/news/press-releases/20250321-singapore-youth-festival-2025-students-to-showcase-aspirations-for-our-nations-future-through-diverse-art-forms">organised by the Ministry of Education</a> to celebrate the
+        The <a class="text-link" rel="noopener noreferrer nofollow" target="_blank" href="https://www.syf.gov.sg/arts-presentation/about-the-arts-presentation">Singapore Youth Festival (SYF)</a> is an annual event
+        <a class="text-link" rel="noopener noreferrer nofollow" target="_blank" href="https://www.moe.gov.sg/news/press-releases/20250321-singapore-youth-festival-2025-students-to-showcase-aspirations-for-our-nations-future-through-diverse-art-forms">organised by the Ministry of Education</a> to celebrate the
         vitality of our youth and their diverse artistic talents.
         Our performing arts groups are always excited to be a part
         of this celebration and though it entails many months of
@@ -132,12 +142,41 @@ image: /images/YCKLogo.svg
         calm in an emergency.
     </p>
 </div>
-<a aria-label="Back to top" class="back-to-top" href="#top">🔝</a>
+<hr>
+<div id="cantabile" class="yck-component">
+    <h2>Cantabile!</h2>
+    <div class="video-container">
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wid1s6MvMKs?si=42dbLqLmDi5pkX-Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+    </div>
+    <p>Highlights from Cantabile Concert 2024 held in Yio Chu Kang Secondary on 15 November. Watch the <a href="https://youtu.be/31CTJ73HnCc?si=RELAl8yLgHWnm25m" target="_blank">full concert</a> on our Youtube Channel.</p>
+    <h3>Cantabile! 2023 - Highlights and Full Concert</h3>
+    <div class="yck-flexbox-grid">
+        <div class="video-container">
+            <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/_wZY_deUv54?si=_Kt3CGD72sIr0JHJ" height="315" width="560"></iframe>
+        </div>
+        <div class="video-container">
+            <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/jFYMISLZt2w?si=DDaqYcY1zJJYFuYV" height="315" width="560"></iframe>
+        </div>
+    </div>
+</div>
+<hr>
+<div id="sscwc" class="yck-component">
+    <h2>Singapore Schools Cyberwellness Challenge (SSCWC)</h2>
+    <div class="video-container">
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0gMIm58tj8A?si=x8pENslcE8YBkoLD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+    </div>
+    <img src="https://www.yiochukangsec.moe.edu.sg/images/Top_Banner.png">
+    <p>The Singapore Schools Cyber Wellness Challenge (SSCWC) is a national film competition where secondary students mentor primary school peers to champion digital citizenship. Supported by the <a href="https://www.mlc.sg/" target="_blank">Media Literacy Council</a> and guided by experts from <a href="https://www.touch.org.sg/get-assistance/cyber-wellness.html" target="_blank">TOUCH Cyber Wellness</a> and Apple, teams collaborate to produce impactful films on iPads. This unique partnership cultivates leadership in older students while empowering younger ones to become safe, responsible digital creators..</p>
+    <div class="button-container">
+        <a aria-label="Back to top" class="button" href="#top">Back to top</a>
+    </div>
+</div>
+
 
 <style>
 /* ==========================================================================
-   1. Global Styles & Resets
-   ========================================================================== */
+       1. Global Styles & Resets
+       ========================================================================== */
 
 :root {
     --yck-text-line-height: 1.6em;
@@ -184,8 +223,8 @@ video {
 }
 
 /* ==========================================================================
-   2. Base Typography
-   ========================================================================== */
+       2. Base Typography
+       ========================================================================== */
 
 .yck-component {
     line-height: var(--yck-text-line-height);
@@ -365,8 +404,8 @@ small {
 }
 
 /* ==========================================================================
-   3. Layout Components
-   ========================================================================== */
+       3. Layout Components
+       ========================================================================== */
 
 .yck-component .regular-flow>*+* {
     margin-top: 1.125em;
@@ -446,8 +485,8 @@ small {
 }
 
 /* ==========================================================================
-   4. UI Components
-   ========================================================================== */
+       4. UI Components
+       ========================================================================== */
 
 /* --- Tables --- */
 .yck-component .yck-table {
@@ -547,6 +586,21 @@ small {
     left: 0;
     width: 100%;
     height: 100%;
+}
+
+.yck-component .widescreentv {
+    aspect-ratio: 16/9;
+    width: 100%;
+}
+
+.yck-component .tallscreentv {
+    aspect-ratio: 9/16;
+    width: 100%;
+}
+
+.yck-component .sdtv {
+    aspect-ratio: 4/3;
+    width: 100%;
 }
 
 /* --- Isomer Cards --- */
@@ -783,6 +837,10 @@ small {
     overflow: hidden;
 }
 
+.yck-component details * {
+    margin: 0 !important;
+}
+
 .yck-component details>p,
 .yck-component details ul,
 .yck-component details div {
@@ -792,16 +850,38 @@ small {
 
 .yck-component summary {
     margin-inline-start: 1.5rem;
+    padding: 1rem;
     list-style-position: outside;
     cursor: pointer;
     user-select: none;
     outline: none;
     font-size: var(--yck-step-1);
     font-weight: 500;
+    border-radius: 10px;
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.yck-component summary:hover {
+    box-shadow: var(--yck-inset-shadow2);
 }
 
 .yck-component summary::marker {
-    font-size: var(--yck-step-1);
+    font-size: var(--yck-step-2);
+}
+
+.yck-component summary::after {
+    content: "+";
+    position: absolute;
+    font-size: var(--yck-step-2);
+    right: 1rem;
+    top: 1.25em;
+    transform: translateY(-50%) rotate(0deg);
+    transition: transform 0.5s ease-in-out;
+}
+
+.yck-component details[open]>summary::after {
+    transform: translateY(-50%) rotate(135deg);
+    /* Rotates the icon 90 degrees */
 }
 
 .yck-component details::details-content {
@@ -826,29 +906,38 @@ small {
 }
 
 /* --- Integrated Navigation Bar Styles --- */
+.yck-component .yck-nav-bar>* {
+    margin: 0;
+    padding: 0;
+}
+
 .yck-component .yck-nav-bar ul {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     list-style: none;
-    padding: 0;
-    margin: 0;
     background-color: #ffffff;
     border-radius: 0.75rem;
-    box-shadow: var(--yck-box-shadow);
-    padding: calc(var(--yck-spacing-unit) * 0.25);
-    gap: calc(var(--yck-spacing-unit) * 0.25);
+    box-shadow: var(--yck-inset-shadow2);
+
+    justify-content: start;
+    align-content: start;
+    justify-items: center;
+    align-items: start;
 }
 
 .yck-component .yck-nav-bar a {
     display: block;
     text-decoration: none;
+    font-family: sans-serif;
     font-weight: 500;
     font-size: var(--yck-step-0);
     transition: all 0.3s var(--yck-transition-timing);
-    padding: calc(var(--yck-spacing-unit) * 0.6) var(--yck-spacing-unit);
+    margin: calc(var(--yck-spacing-unit) * 0.1);
+    padding: 1rem;
     border-radius: 0.5rem;
     text-align: center;
     text-wrap: balance;
+    overflow-wrap: break-word;
     color: #4a5568;
     position: relative;
 }
@@ -858,7 +947,7 @@ small {
     position: absolute;
     width: 0;
     height: 2px;
-    bottom: 5px;
+    bottom: 10px;
     left: 50%;
     transform: translateX(-50%);
     background-color: #4299e1;
@@ -866,7 +955,7 @@ small {
     transition: width 0.7s var(--yck-transition-timing), background-color 0.7s var(--yck-transition-timing);
 }
 
-/* Style for the active link (unhovered state) */
+
 .yck-component .yck-nav-bar a.active {
     color: #2b6cb0;
 }
@@ -876,7 +965,7 @@ small {
     background-color: #4299e1;
 }
 
-/* Style for ANY link on hover */
+
 .yck-component .yck-nav-bar a:hover {
     color: #e37f2a;
 }
@@ -886,39 +975,50 @@ small {
     width: 60%;
 }
 
+
+
 /* --- Buttons --- */
 .yck-component .button-container {
+    margin: 0;
+    padding: 0;
+    display: flex;
     text-align: center;
-    padding-top: 2rem;
     width: 100%;
+    justify-content: flex-end;
+    align-items: flex-end;
 }
 
-.yck-component .cheer-button {
-    background-color: var(--primary-green);
-    color: var(--white);
-    font-weight: 700;
-    padding: 0.75rem 2rem;
-    border-radius: 9999px;
+.yck-component .button {
+    background-color: #e37f2a;
+    color: #fff;
+    font-size: var(--yck-step-0);
+    font-weight: 900;
+    margin: 1rem;
+    padding: 0.65rem;
+    border-radius: 50px;
     box-shadow:
-        0 10px 15px -3px rgba(0, 0, 0, 0.1),
+        0 10px 15px -3px rgba(0, 0, 0, 0.15),
         0 4px 6px -2px rgba(0, 0, 0, 0.05);
-    transition: all 0.3s ease-in-out;
+    transition: all 0.35s ease-in-out;
     border: none;
     cursor: pointer;
     text-decoration: none;
     display: inline-block;
 }
 
-.yck-component .cheer-button:hover {
+.yck-component .button:hover {
+    text-decoration: none;
+    background-color: #fabe64;
+    color: #fff;
     box-shadow:
-        0 20px 25px -5px rgba(0, 0, 0, 0.1),
+        0 20px 25px -6px rgba(0, 0, 0, 0.12),
         0 10px 10px -5px rgba(0, 0, 0, 0.04);
     transform: scale(1.05);
 }
 
-.yck-component .cheer-button:focus {
+.yck-component .button:focus {
     outline: none;
-    box-shadow: 0 0 0 4px rgba(56, 142, 60, 0.5);
+    box-shadow: 0 0 0 4px rgba(250, 190, 60, 0.5);
 }
 
 .yck-component .truncate {
@@ -959,8 +1059,8 @@ small {
 }
 
 /* ==========================================================================
-   5. Animations & Transitions
-   ========================================================================== */
+       5. Animations & Transitions
+       ========================================================================== */
 
 .ken-burns-container {
     max-width: 100%;
@@ -1043,8 +1143,8 @@ small {
 }
 
 /* ==========================================================================
-   6. Accessibility & Media Queries
-   ========================================================================== */
+       6. Accessibility & Media Queries
+       ========================================================================== */
 
 @media (max-width: 1000px) {
     .yck-component .yck-flexbox-grid>* {
@@ -1064,7 +1164,7 @@ small {
 }
 
 @media (max-width: 600px) {
-    .yck-component .yck-flex-grid.grid-cols-6>* {
+    .yck-component .yck-flex-grid>* {
         flex-basis: auto;
     }
 }
