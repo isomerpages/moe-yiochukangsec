@@ -7,264 +7,816 @@ image: /images/YCKLogo.svg
 third_nav_title: Our School
 ---
 <div class="yck-component">
-	<div class="regular-flow">
-		<h2>Achievements 2023</h2>
+    <div class="regular-flow">
+        <details name="achievements">
+            <summary id="achieve2023">Achievements 2023
+            </summary>
+            <table class="yck-table">
+                <thead>
+                    <tr>
+                        <th class="yck-th">Environment</th>
+                        <th class="yck-th"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="yck-td">School Green Awards 2023</td>
+                        <td class="yck-td">Vanda Miss Joaquim Sustained Achievement Award</td>
+                    </tr>
+                </tbody>
+            </table>
+            <table class="yck-table">
+                <thead>
+                    <tr>
+                        <th class="yck-th">Innovations &amp; Enterprise</th>
+                        <th class="yck-th"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="yck-td">MOE INNERGY Award 2023</td>
+                        <td class="yck-td">Teaching and Learning Category - Bronze Award<br>The “Learn by Doing” Professional Development Model</td>
+                    </tr>
+                </tbody>
+            </table>
+            <table class="yck-table">
+                <thead>
+                    <tr>
+                        <th class="yck-th">MOE Special Awards</th>
+                        <th class="yck-th"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="yck-td">LKY-Outstanding Normal <br>Course Award (NA) 2023</td>
+                        <td class="yck-td">Kylie Giam, Sec 5/2022</td>
+                    </tr>
+                </tbody>
+            </table>
+            <table class="yck-table">
+                <thead>
+                    <tr>
+                        <th class="yck-th">MOE Special Awards</th>
+                        <th class="yck-th"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="yck-td">Service to Education Award 2023<br>(For School Advisory Committees)</td>
+                        <td class="yck-td">Ms Annie Chin (Silver)<br>Mr Kenneth Siow (Silver)<br>Mr Herald Yeo (Silver)</td>
+                    </tr>
+                </tbody>
+            </table>
+            <table class="yck-table">
+                <thead>
+                    <tr>
+                        <th class="yck-th">Uniformed Groups</th>
+                        <th class="yck-th"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="yck-td">NPCC</td>
+                        <td class="yck-td">2022 Unit Overall Proficiency Award (UOPA)<br>-&nbsp;&nbsp; Gold Award<br><br>2023 SPF-NPCC Badge<br>- Staff Sergeant, Liew Tze Wan, Sec 4<br>- Staff Sergeant, Xiong Shiqi, Sec 4</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Red Cross Youth</td>
+                        <td class="yck-td">2022 Excellent Unit Award (EUA)<br>- Gold Award<br><br>2023 Director’s Award<br>- Warrant Officer Teo Kai En, Alivia<br><br>Ambassadors of Blood Donation Championship<br>- Silver Award<br><br>Disaster Risk Reduction Championship<br>- Bronze Award<br><br>First Aid Competition Junior (Lower Sec)<br>- Silver Award<br><br>First Aid Competition Senior (Upper Sec)<br>- Bronze Award</td>
+                    </tr>
+                </tbody>
+            </table>
+            <table class="yck-table">
+                <thead>
+                    <tr>
+                        <th class="yck-th">Clubs</th>
+                        <th class="yck-th"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="yck-td">Mechatronics, Aeronautics<br> &amp; Robotics (MARs) Club</td>
+                        <td class="yck-td">IDE Series 2023 Robotics Competition<br>- Top 5 out of 72 teams<br><br>National Robotics Competition 2023<br>- Finalists - 2 teams</td>
+                    </tr>
+                </tbody>
+            </table>
+            <table class="yck-table">
+                <thead>
+                    <tr>
+                        <th class="yck-th">Aesthetics</th>
+                        <th class="yck-th"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="yck-td">Combined Performing Arts</td>
+                        <td class="yck-td">2023 National Day Parade: Act 4 “Shine Your Light” Dance</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Choir</td>
+                        <td class="yck-td">2021 SYF Presentation – Represented School under Special Provision (COVID-19)</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Concert Band</td>
+                        <td class="yck-td">2021 SYF Presentation – Certificate of Accomplishment</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Chinese Dance</td>
+                        <td class="yck-td">2021 SYF Presentation – Certificate of Accomplishment</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">English Drama</td>
+                        <td class="yck-td">2021 SYF Presentation – Certificate of Accomplishment</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Indian Dance</td>
+                        <td class="yck-td">2021 SYF Presentation – Certificate of Distinction</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Malay Dance</td>
+                        <td class="yck-td">2021 SYF Presentation – Certificate of Accomplishment</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Arts Media and Design LLP</td>
+                        <td class="yck-td">2023 Voice of My Generation Music Competition Finals<br><br>Junior Category<br>1st place – Team “Sound like the Morning”<br>- Zhai Jun Bo, Sec 1<br>- Loheath Ramesh, Sec 2<br>- Louis Wong Chun Yik, Sec 2<br>- Lim Wei Heng, Sec 3<br>- Alex Marjanovic, Sec 3<br><br>3rd place – Team “MCATS”<br>- Clariss Ong Li Rong, Sec 3<br>- Ong Tzy Yiin, Sec 3<br>- Sami Sharieff II, Sec 3<br>- Han Thong En, Sec 3<br>- Phone Myat Thit, Sec 3</td>
+                    </tr>
+                </tbody>
+            </table>
+            <table class="yck-table">
+                <thead>
+                    <tr>
+                        <th class="yck-th">Sports</th>
+                        <th class="yck-th"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="yck-td">Singapore Olympic Foundation - Peter Lim Scholarship 2023</td>
+                        <td class="yck-td">Encouragement Award<br>- De Silva Ayra Chantel Taculod (For Athletics), Sec 1</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Badminton</td>
+                        <td class="yck-td">National School Games C Division (Girls)<br>- Top 8 South Zone</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Netball</td>
+                        <td class="yck-td">National School Games C Division<br>- Top 6 South Zone<br><br>National School Games B Division<br>- Top 6 South Zone<br><br>Yio Chu Kang Netball Carnival (Under 14)<br>- 3rd</td>
+                    </tr>
+                </tbody>
+            </table>
+            <div class="button-container">
+                <a aria-label="Back to top" class="button" href="#achieve2023">Back to top</a>
+            </div>
+            <table class="yck-table">
+                <thead>
+                    <tr>
+                        <th class="yck-th">Leadership Related</th>
+                        <th class="yck-th"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="yck-td">Our Singapore Leadership<br> Programme (OSLP) 2023</td>
+                        <td class="yck-td">Wong Miu Yu, Sec 4</td>
+                    </tr>
+                </tbody>
+            </table>
+            <table class="yck-table">
+                <thead>
+                    <tr>
+                        <th class="yck-th">Languages and Humanities Related</th>
+                        <th class="yck-th"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="yck-td">International Model<br> United Nations Conference 2023</td>
+                        <td class="yck-td">Best Position Paper<br>- Foo Su Fang, Sec 3</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">National Youth<br> Environment Conference 2023</td>
+                        <td class="yck-td">Honourable Mentions<br>- Fong Hao Zheng, Sec 4<br>- Jason Boh, Sec 4</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Vetri Vizha 2023<br>Budding Writers’ Programme</td>
+                        <td class="yck-td">National Top 30 Budding Writers<br>- Yoganandhan Harini Sai, Sec 4</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">National Chinese<br> Challenge 2023</td>
+                        <td class="yck-td">National Top 30<br>- Ji Junkai, Sec 4</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Inter-Secondary School<br> Blackout Poetry &amp; Podcast Competition</td>
+                        <td class="yck-td">First Place<br>- Nur Izzati Binte Jasman, Sec 3</td>
+                    </tr>
+                </tbody>
+            </table>
+            <div class="button-container">
+                <a aria-label="Back to top" class="button" href="#achieve2023">Back to top</a>
+            </div>
+            <table class="yck-table">
+                <thead>
+                    <tr>
+                        <th class="yck-th">STEM Related</th>
+                        <th class="yck-th"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="yck-td">2023 All Singapore Mathematics Competition for Normal Course</td>
+                        <td class="yck-td">Individual Category:<br>Upper Secondary Normal Academic (Top 20)<br>- 19th position - Halaharivi Shaurya Daman, Sec 3<br><br>Lower Secondary Normal Academic (Top 20)<br>- 4th position - Ong Yiting, Sec 2<br>- 13th position - Ang Jun Sheng, Sec 2<br><br>Lower Secondary Normal Technical (Top 20)<br>- 11th position - Chia Li Yee, Sec 2<br><br>Team Category:<br>Lower Secondary Normal Academic (1st position)<br>- 1st position - Lim Jun Kai, Sec 2<br>- 1st position - Ong Yiting, Sec 2<br>- 1st position - Ang Jun Sheng, Sec 2</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">NIE Mathematics Challenge 2023</td>
+                        <td class="yck-td">Higher Distinction<br>- Guo Jingyi, Sec 1<br>- Gui Mingyue, Sec 1<br><br>Distinction<br>- Liam Rain Ebriega Cena, Sec 1<br>- Teekayuko Nathawat, Sec 1<br>- Zhai Junbo, Sec 1<br>- Tangsatapornpan Aukrit, Sec 1<br>- Wu Jinlin, Sec 1</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Singapore and Asian Schools Math Olympiad (SASMO) 2023</td>
+                        <td class="yck-td">Bronze Award<br>- Bowie Ong Yan Tao, Sec 2<br>- Tino Seah Wei Le, Sec 2<br>- Chia Yuan Kai, Sec 2<br>- Elgin Tan Sie Yuan, Sec 2<br>- Koh Chuen Hoe, Sec 2<br>- Zaven Pang Xing Yu (Feng Xingyu), Sec 3<br>- Kayen Leong Yu Ting, Sec 3<br>- Kang Pin Xian, Sec 3<br><br>Honourable Mention<br>- Aaron Tan Kaixun, Sec 2<br>- Pearl Aw Xue Jun (Hu Xuejun), Sec 2<br>- Ramesh Loheath, Sec 2<br>- Foong Qi Yuan, Ajax, Sec 2<br>- Toh Shi Ming Shermin, Sec 2<br>- Elise Tan Joo Hue (Chen Yuhui), Sec 2<br>- Chua Dong Zhe, Sec 3</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Singapore Math Kangaroo Contest (SMKC) 2023</td>
+                        <td class="yck-td">Silver Award<br>- Aaron Tan Kaixun, Sec 2<br>- Zaven Pang Xing Yu (Feng Xingyu), Sec 3<br><br>Bronze Award<br>- Bowie Ong Yan Tao, Sec 2<br>- Chia Yuan Kai, Sec 2<br>- Elise Tan Joo Hue (Chen Yuhui), Sec<br>- Lim Le Qi Clara, Sec 2<br>- Xu You, Alden (Lin Xuyou), Sec 3<br>- Kayen Leong Yu Ting, Sec 3<br>- Wei Heng, Sec 3<br>- Chua Dong Zhe, Sec 3<br>- Jun Xi Darryl (Weng Junxi), Sec 3<br><br>Honourable Mention<br>- Wang Hong En, Sec 2<br>- Clariss Ong Li Rong, Sec 3<br>- Josua Valencia Van Mook, Sec 3<br>- Gee Ming Xi, Sec 3</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">43<sup>rd</sup> International C.B. Paul Science Quiz 2023</td>
+                        <td class="yck-td">Bronze Award<br>- Ong Zhi Yuan, Sec 4<br><br>Merit Award<br>- Ngan Kwan Teng, Sec 4<br>- Ren Yanjia, Sec 4<br><br>Honorable Mention<br>- Kho Soong Yang, Sec 4</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">24<sup>th</sup> International Elementz Fair 2023</td>
+                        <td class="yck-td">Silver Award<br>- Satish Kumar Pratishtha, Sec 3<br>- Julian Koh Jun Rui, Sec 3<br>- Ashley Farisya Binte Muhammad Faizal, Sec 3<br>- Angelyn Low Shi Ning, Sec 3<br>- Mohamed Aaqil Bishan, Sec 3<br><br>Silver Award<br>- Gee Ming Xi, Sec 3<br>- Jolin Ang Rui En, Sec 3<br>- Jasper Lim Jun Xiong, Sec 3<br>- Joy Tan Jia Yi, Sec 3<br>- Janice Lye Yu Tiam, Sec 3<br><br>Bronze Award<br>- Lim Rou Hui Charlynn, Sec 3<br>- Lim Xu You Alden, Sec 3<br>- Teow Qiao Ruo, Sec 3<br>- Nazreen Fitria Izzati Binte Ngasti Wanto, Sec 3<br>- Jovelynn Lim En Ting, Sec 3</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Singapore International STEM Innovation Challenge (SISTEMIC) 2023</td>
+                        <td class="yck-td">STEM Innovation Challenge - Silver Award (Voyager)<br>- Foo Su Fang, Sec 3<br>- Sami Sharieff Ii, Sec 3<br>- Lim Wei Heng, Sec 3<br><br>Design &amp; Build Challenge - Most Sustainable Concept Award<br>- Sami Sharieff Ii, Sec 3</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Singapore Science &amp; Engineering Fair 2023</td>
+                        <td class="yck-td">Finalists<br>- Foo Su Fang, Sec 3<br>- Sami Sharieff Ii, Sec 3<br>- Charlene Ng Li Shan, Sec 3</td>
+                    </tr>
+                </tbody>
+            </table>
+            <div class="button-container">
+                <a aria-label="Back to top" class="button" href="#achieve2023">Back to top</a>
+            </div>
+        </details>
+    </div>
+</div>
+<hr>
+<div class="yck-component">
+    <div class="regular-flow">
+        <details name="achievements">
+            <summary id="achieve2022">Achievements 2022
+            </summary>
+            <table class="yck-table">
+                <thead>
+                    <tr>
+                        <th class="yck-th">Environment</th>
+                        <th class="yck-th"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="yck-td">Schools’ Green Award</td>
+                        <td class="yck-td">Vanda Miss Joaquim Sustained Achievement Award VIEW POST</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Building and Construction Authority (BCA) Green Mark</td>
+                        <td class="yck-td">Gold status conferred in 2022</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Alba E-Waste Collection Drive 2022</td>
+                        <td class="yck-td">National Third</td>
+                    </tr>
+                </tbody>
+            </table>
+            <br>
+            <table class="yck-table">
+                <thead>
+                    <tr>
+                        <th class="yck-th">Innovation &amp; Enterprise</th>
+                        <th class="yck-th"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="yck-td">MOE outstanding Innovator Award 2022</td>
+                        <td class="yck-td">Mr Wee Daiqi</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Network for Teaching Enterprise 2022</td>
+                        <td class="yck-td">Most Coordinated School Award</td>
+                    </tr>
+                </tbody>
+            </table>
+            <br>
+            <table class="yck-table">
+                <thead>
+                    <tr>
+                        <th class="yck-th">Uniformed Groups</th>
+                        <th class="yck-th"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="yck-td">NPCC</td>
+                        <td class="yck-td">2021 Unit Overall Proficiency Award (UOPA)<br>Gold Award<br>2021 SPF-NPCC Badge<br>• Staff Sergeant, Lim Boon Yu (4A)<br>• Staff Sergeant, Nur Rashiqa Binte Muhammad Risman (4E)</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Red Cross Youth</td>
+                        <td class="yck-td">2021 Excellent Unit Award (EUA)<br>Gold Award<br>2021 Director’s Award<br>• Sergeant, Muhammad Hazmi Bin Suhaimi (4T)</td>
+                    </tr>
+                </tbody>
+            </table>
+            <br>
+            <table class="yck-table">
+                <thead>
+                    <tr>
+                        <th class="yck-th">Clubs</th>
+                        <th class="yck-th"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="yck-td">Mechatronics, Aeronautics &amp; Robotics (MARs)</td>
+                        <td class="yck-td">Robo Genius Global Online Competition<br><br>Champion Award<br>• Wong Zhen Kai Li Yun En<br>Task Competition - 3rd Place<br>• Nah Jiang Qi<br>• Muhammad Aslam Bin Mohammad Fazli<br>Task Competition – 4th Place<br>• Aswin Haran Hariharan<br>• Ralph Jilian Calvo Galanza<br>ITE Ignite Skills Challenge 2022 - AI Car Challenge<br>2nd Runners-up<br>• Muhammad Danish Bin Rashid<br>• Matyn Reaandy Bin Rahamudy<br>• Gaven Lim Jia Jin<br>ITE Ignite Skills Challenge 2022 - Digital Making using Microbit<br>Finalists<br>• Mohamed Isa Charif<br>• Tapia Emmanuel Manansala<br>• Terence Ong Yuan Cheng</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Media Club</td>
+                        <td class="yck-td">2022 Our Schools, Ours Stories Contest (Youth Category)<br>Best Video Award – Theme: What I Go To School For WATCH<br><br>“Memories to be Treasured” by<br>• Yet Yan Shen<br>• Derrick See Kar Xun<br>• Neo Jun Yuan<br>Best Photo Story Award - Theme: Our School CommunityVIEW POST<br><br>Photo entitled “A Professional in Our School” by<br>• Wirdatul Marsya Binte Mohammad Fazuli<br>• Siti Nurasyirah Binte Mohammad Hery<br>• Sukainah Binte Mohammad Fahrur Razi</td>
+                    </tr>
+                </tbody>
+            </table>
+            <br>
+            <table class="yck-table">
+                <thead>
+                    <tr>
+                        <th class="yck-th">Aesthetics</th>
+                        <th class="yck-th"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="yck-td">Choir</td>
+                        <td class="yck-td">2021 SYF Presentation – Represented School under Special Provision (COVID-19)</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Concert Band</td>
+                        <td class="yck-td">2021 SYF Presentation – Certificate of Accomplishment</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Chiinese Dance</td>
+                        <td class="yck-td">2021 SYF Presentation – Certificate of Accomplishment</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">English Drama</td>
+                        <td class="yck-td">2021 SYF Presentation – Certificate of Accomplishment</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Indian Dance</td>
+                        <td class="yck-td">2021 SYF Presentation – Certificate of Distinction</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Malay Dance</td>
+                        <td class="yck-td">2021 SYF Presentation – Certificate of Accomplishment</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Arts Media and Design LLP</td>
+                        <td class="yck-td">Voice of My Generation Music Competition Finals (Junior Category) – 2nd runners up<br>• Clariss Ong Li Rong (2E)<br>• Han Thong En (2E)<br>• Ong Tzy Yiin (2E)<br>• Phone Myat Thit (2E)<br>• Sami Sharieff (2E)</td>
+                    </tr>
+                </tbody>
+            </table>
+            <div class="button-container">
+                <a aria-label="Back to top" class="button" href="#achieve2022">Back to top</a>
+            </div>
+            <table class="yck-table">
+                <thead>
+                    <tr>
+                        <th class="yck-th">Sports</th>
+                        <th class="yck-th"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="yck-td">Singapore Olympic Foundation – Peter Lim Scholarship 2022</td>
+                        <td class="yck-td">Encouragement Award<br>• Koh Ruo Le (4E) for Rhythmic Gymnastics<br>• Ang Yuan Hui (4E) for Badminton</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">National Schools Games 2022</td>
+                        <td class="yck-td">National Sailing Championship – 4th Place<br>• Koh Poh Ling, Abigail (4E)<br>National School Games Sportsmanship Award (‘B’ Division)<br>• Koh Poh Ling, Abigail (4E) for Sailing<br>• Koh Ruo Le (4E) for Rhythmic Gymnastics<br>• Dewi Qistina Binte Muhammad Haidi (4A) for Netball</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Badminton</td>
+                        <td class="yck-td">Preliminary Round [South Zone]<br>• National School Games ‘B’ Division Championship (Boys)<br>• National School Games ‘B’ Division Championship (Girls)<br>• National School Games ‘C’ Division Championship (Boys)<br><br>2nd round (Top 8 in South Zone)<br>• National School Games ‘C’ Division Championship (Girls)</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Basketball</td>
+                        <td class="yck-td">Preliminary Round<br>• National School Games ‘B’ Division Championship [South Zone]<br>2nd round (Top 8 in South Zone)<br>• National School Games ‘C’ Division Championship</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Floorball</td>
+                        <td class="yck-td">Preliminary Round<br>• National School Games ‘B’ Division Championship<br>2nd Round<br>• National School Games ‘C’ Division Championship</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Netball</td>
+                        <td class="yck-td">2nd round (Top 8 in South Zone)<br>• National School Games ‘B’ Division Championship<br>• National School Games ‘C’ Division Championship<br>Champion<br>• Deloitte Pesta Sukan 2022 ‘C’ Division</td>
+                    </tr>
+                </tbody>
+            </table>
+            <br>
+            <table class="yck-table">
+                <thead>
+                    <tr>
+                        <th class="yck-th">Leadership Related</th>
+                        <th class="yck-th"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="yck-td">2022 National Young Leaders Fellowship</td>
+                        <td class="yck-td">Fellowship Award (awarded to Top 30 nationwide)<br>Raenisha Sherridan<br>National Top 50<br>Xu Yinuo, Nora</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">2022 NYC Our Singapore Leadership Programme</td>
+                        <td class="yck-td">National Top 50<br>Derrick See Kar Xun</td>
+                    </tr>
+                </tbody>
+            </table>
+            <br>
+            <table class="yck-table">
+                <thead>
+                    <tr>
+                        <th class="yck-th">Language Related</th>
+                        <th class="yck-th"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="yck-td">University of New South Wales (UNSW) English</td>
+                        <td class="yck-td">Secondary 2<br>1 Distinction, 3 Credits, 4 Merits<br>Secondary 3<br>2 Merits</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">University of New South Wales (UNSW) Writing</td>
+                        <td class="yck-td">Secondary 2<br>1 Credit, 1 Merit<br>Secondary 3<br>1 Distinction</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">2022 Inter-Secondary School<br>Translation Competition: 3T<br>(Teriemah-Tutur-Tepat)</td>
+                        <td class="yck-td">Third Place<br>• Illya Batrisyah Putri Mohamad Bakri<br>• Nur Rashiqa Bite Muhammad Risman<br>• Siti Syahira Bite Muhammad Rashid<br><br>Best Translator<br>• Siti Syahira Binte Muhammad Rashid</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">2022 National Tamil Language Speakers Competition</td>
+                        <td class="yck-td">Second Place<br>• Yoganandhan Harini Sai</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">2022 National Tamil Creative Writing Competition</td>
+                        <td class="yck-td">Third Place<br>• John Britto Jeronicca Queen</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Vetri Vizha 2022 - Budding Writers’ and Budding Artistes’ Programme</td>
+                        <td class="yck-td">National Top 10 (Budding Writers)<br>• Harshini Elangovan<br>• Anas Mahmood Bin Abdul Quadir<br>National Top 10 (Budding Artistes)<br>• Janesh Raj S/o Logaraj Shashi Kumar<br>• Vetriyalagan Sivadharsan<br>• Dishika Angeline Anbalagan</td>
+                    </tr>
+                </tbody>
+            </table>
+            <br>
+            <table class="yck-table">
+                <thead>
+                    <tr>
+                        <th class="yck-th">STEM Related</th>
+                        <th class="yck-th"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="yck-td">2022 All Singapore Mathematics Competition for Normal Course</td>
+                        <td class="yck-td">National Top 20 (Upper Sec NT Category)<br>• Ong Shun Jie Vincent (11th position)</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Singapore Mathematical Olympiad (SMO)</td>
+                        <td class="yck-td">Honourable Mention<br>• Lim Xu You,Alden<br>• Lim Wei Heng<br>• Ong Jun Xi Darryl</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Singapore and Asian Schools Math Olympiad (SASMO)</td>
+                        <td class="yck-td">Silver Award<br>• Clariss Ong Li Rong<br>• Lim Wei Heng<br>• Wang Yihan<br>• Soo Yong Qi<br>Bronze Award<br>• Zaven Pang Xing Yu<br>• Nur Naurah Darwisyah Binte Mohamed Hafiz<br>• Josua Valencia Van Mook<br>• Ong Jun Xi Darryl<br>• Kang Pin Xian<br>• Ong Zhi Yuan<br>• Khoo Corey<br>• Ren Yanjia<br>• Nah Ee Heng, Ian<br>Honourable Mention<br>• Janice Lye Yu Tiam<br>• Gee Ming Xi<br>• Julian Koh Jun Rui<br>• Teo Kai En, Alivia<br>• Phey Kai En Karina<br>• Alarick Ong Tze Hou<br>• Tan You Ren, Zuriel</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">11th International Biomedical Quiz 2022</td>
+                        <td class="yck-td">Bronze<br>• Koh Ruo Le<br>Merit<br>• Tan Ying Shan<br>• Leora Wang Meize</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">23rd International Elementz Fair 2022</td>
+                        <td class="yck-td">Gold – Team 4<br>• Joash Emmanuel<br>• Sam Michelle<br>• Charmaine Lee<br>• Priscilla Loh Hui Ying<br>• Raenisha Sherridan<br>Silver – Team 2<br>• Elisha Gabrielle d/o Nicholas<br>• Liew Tze Wan<br>• Ng Li Lin<br>• Nisrina Shaheen d/o Jamshaid Khan<br>Bronze – Team 1<br>• Dela Cruz Nicole Aira Hernandez<br>• Ikjeen New<br>• Jason Neo Jie Sen<br>• Yoganandahan Hairini Sai</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">43rd International C.B. Paul Science Quiz 2022</td>
+                        <td class="yck-td">Individual Gold<br>• Li Nuofan<br>Individual Bronze<br>• Cui Zixuan<br>• Koh Ruo Le<br>• Tan Ying Shan Leora<br>Individual Merit<br>• Chu Jinyu<br>• Ng Guo Shen</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">2022 Singapore Junior Chemistry Olympiad</td>
+                        <td class="yck-td">Individual Merit Award<br>• Yong Tuck Lam<br>• Wang Meize</td>
+                    </tr>
+                    <tr>
+                        <td class="yck-td">Unity Scientific Innovation Challenge</td>
+                        <td class="yck-td">Consolation Prize 1<br>• Yoganandhan Harini Sai<br>• Ikjeen New<br>• Liew Tze Wan<br>• Jason Neo Jie Sen</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p>You can <a class="text-link" href="/files/Achievements/2022/YCKSS%202022%20Achievements%20updated%203%20Feb%202023.pdf">DOWNLOAD THE PDF</a> version of the Achievements 2022.</p>
+            <div class="button-container">
+                <a aria-label="Back to top" class="button" href="#achieve2022">Back to top</a>
+            </div>
+        </details>
+    </div>
+</div>
 <hr>
 
-<table class="yck-table">
-  <thead>
-    <tr>
-      <th class="yck-th">Environment</th>
-      <th class="yck-th"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="yck-td">School Green Awards 2023</td>
-      <td class="yck-td">Vanda Miss Joaquim Sustained Achievement Award</td>
-    </tr>
-  </tbody>
-</table>
+<div class="yck-component">
+	<div class="regular-flow">
+		<details name="achievements"><summary id="achieve2021">Achievements&nbsp;2021</summary>
 
-<table class="yck-table">
-  <thead>
-    <tr>
-      <th class="yck-th">Innovations &amp; Enterprise</th>
-      <th class="yck-th"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="yck-td">MOE INNERGY Award 2023</td>
-      <td class="yck-td">Teaching and Learning Category - Bronze Award<br>The “Learn by Doing” Professional Development Model</td>
-    </tr>
-  </tbody>
-</table>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<table class="yck-table">
-  <thead>
-    <tr>
-      <th class="yck-th">MOE Special Awards</th>
-      <th class="yck-th"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="yck-td">LKY-Outstanding Normal <br>Course Award (NA) 2023</td>
-      <td class="yck-td">Kylie Giam, Sec 5/2022</td>
-    </tr>
-  </tbody>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-525v{background-color:#F2F9FF;color:#222;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-auhb{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-muqq{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-auhb">Innovations</th>
+    <th class="tg-auhb"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-muqq"><span style="font-weight:bolder">MOE Innergy (Schools) Award 2021</span></td>
+    <td class="tg-525v">Silver<br>Student-centric Secondary 2 streaming process via SLS</td>
+  </tr>
+</tbody>
+</table><br>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-jurv{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-8wja{background-color:#FBFFFA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-mbcl{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-5env{background-color:#FBFFFA;color:#222;text-align:left;vertical-align:top}
+.tg .tg-x43p{background-color:#FBFFFA;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-jurv"><span style="color:#FBFFFA;background-color:#22A114"> Environment </span></th>
+    <th class="tg-mbcl"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-8wja"><span style="font-weight:bolder">Schools' Green Award</span></td>
+    <td class="tg-5env">Vanda Ms Joaquim Award (2019 and 2021)<br>The SGA was postponed in 2020</td>
+  </tr>
+  <tr>
+    <td class="tg-8wja"><span style="font-weight:bolder">Young Scientist Badge Programme</span></td>
+    <td class="tg-x43p"><span style="color:#222;background-color:#FBFFFA">Young Sustainability Champion Senior</span><br><span style="color:#222;background-color:#FBFFFA">Ng Shin Lin Naomi (3E3) and Phua Zu Yi (3E3)</span></td>
+  </tr>
+</tbody>
+</table><br>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-525v{background-color:#F2F9FF;color:#222;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-8s0f{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-auhb{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-muqq{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-8s0f"><span style="color:#F2F9FF;background-color:#1F8CE4">Uniformed Groups </span></th>
+    <th class="tg-auhb"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-muqq"><span style="font-weight:bolder">NPCC</span></td>
+    <td class="tg-525v">Unit Overall Proficiency Award (UOPA)<br><br>Cancelled for 20202021 SPF-NPCC Badge<br><br>Staff Sergeant, Sharmaine Chin Hui Xin (4E)<br>Staff Sergeant, Evangeline Png (4A)</td>
+  </tr>
+  <tr>
+    <td class="tg-muqq"><span style="font-weight:bolder">Red Cross Youth</span></td>
+    <td class="tg-525v">Excellent Unit Award (EUA)<br><br>Cancelled for 2020Director's Award<br><br>Staff Sergeant, Eve Ong Xin Ru (4E)Disaster Risk Reduction Championship<br><br>GoldAmbassadors of Blood Donation Competition<br><br>Bronze - Lim Cheng Hui (3E)</td>
+  </tr>
+</tbody>
+</table><br>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-525v{background-color:#F2F9FF;color:#222;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-8s0f{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-auhb{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-a3ni{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-8s0f"><span style="color:#F2F9FF;background-color:#1F8CE4">Clubs</span></th>
+    <th class="tg-auhb"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3ni"><span style="color:#222;background-color:#F2F9FF">Mechatronics, Aeronautics &amp; Robotics (MARs)</span></td>
+    <td class="tg-525v"><br>National IgnITE Skills Challenge 2021 - Bronze<br><span style="font-weight:400">Galanza Ralph Jilian Calvo (3A1)</span><br><br><span style="font-weight:400">Ajay Bhattarai (3A1)</span><br><br><span style="font-weight:400">Zameer Shareef s/o Nisardeen (3A1)</span><br>National IgnITE Skills Challenge 2021 - Finalists<br><br><span style="font-weight:400">Mohamed Isa Charif (2A1)</span><br><br><span style="font-weight:400">Tapia Emmanuel Manansala (2A1)</span><br><br><span style="font-weight:400">Terence Ong Yuan Cheng (2A1)</span></td>
+  </tr>
+</tbody>
+</table><br>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-j55y{background-color:#FFFCFD;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-f3bv{background-color:#E31D3C;color:#FFFCFD;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-5nwp{background-color:#FFFCFD;color:#222;text-align:left;vertical-align:top}
+.tg .tg-7u1b{background-color:#FFFCFD;color:#222;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-91wl{background-color:#E31D3C;color:#FFFCFD;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-f3bv"><span style="color:#FFFCFD;background-color:#E31D3C">Sports</span></th>
+    <th class="tg-91wl"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-j55y"><span style="color:#222;background-color:#FFFCFD">Badminton</span></td>
+    <td class="tg-7u1b">2021 National School Games (B and C Division, Boys and Girls)<br><span style="font-weight:400;background-color:#FFFCFD">- Represented School under Special Provision</span><br><br>2021 S7 Cluster Games Challenge<br><span style="font-weight:400;background-color:#FFFCFD">Individual Boys (2nd &amp; 3rd)</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-j55y"><span style="color:#222;background-color:#FFFCFD">Basketball</span></td>
+    <td class="tg-7u1b">2021 National School Games (B and C Division, Boys)<br><span style="font-weight:normal">- Represented School under Special Provision</span><br><br>2021 S7 Cluster Games Challenge<br><span style="font-weight:normal">Team B -1st</span><br><span style="font-weight:normal">Team C 2nd</span></td>
+  </tr>
+  <tr>
+    <td class="tg-j55y"><span style="color:#222;background-color:#FFFCFD"> Netball</span></td>
+    <td class="tg-7u1b">2021 National School Games (B and C Division)<br><span style="font-weight:normal">- Represented School under Special Provision</span><br><br>2021 S7 Cluster Games Challenge<br><span style="font-weight:normal">Unable to compete due to Covid-19 Heightened Alert</span></td>
+  </tr>
+  <tr>
+    <td class="tg-j55y"><span style="color:#222;background-color:#FFFCFD"> Football</span><br>(CCA not offered in the school)</td>
+    <td class="tg-5nwp"><span style="font-weight:normal">2021 S7 Cluster Games Challenge - 2nd Position</span></td>
+  </tr>
+</tbody>
+</table><br>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8rcp{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-ta95{background-color:#FD7E00;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-t0cp{background-color:#FD7E00;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ta95"><span style="color:#FFF;background-color:#FD7E00">Aesthetics</span></th>
+    <th class="tg-t0cp"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-8rcp">Choir</td>
+    <td class="tg-ktyi"><span style="font-weight:normal">2021 SYF Presentation - Represented School under Special Provision (Covid-19)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-8rcp">Concert Band</td>
+    <td class="tg-ktyi"><span style="font-weight:normal">2021 SYF Presentation - Certificate of Accomplishment</span></td>
+  </tr>
+  <tr>
+    <td class="tg-8rcp">Chinese Dance</td>
+    <td class="tg-ktyi"><span style="font-weight:normal">2021 SYF Presentation - Certificate of Accomplishment </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-8rcp">English Drama</td>
+    <td class="tg-ktyi"><span style="font-weight:normal">2021 SYF Presentation - Certificate of Accomplishment </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-8rcp">Indian Dance </td>
+    <td class="tg-ktyi"><span style="font-weight:normal">2021 SYF Presentation - Certificate of Distinction </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-8rcp">Malay Dance</td>
+    <td class="tg-ktyi"><span style="font-weight:normal">2021 SYF Presentation - Certificate of Accomplishment</span></td>
+  </tr>
+</tbody>
+</table><br>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-e14l{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-yst8{background-color:#FFF;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-f8vp{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-f8vp"><span style="color:#666;background-color:#DDD">Others</span></th>
+    <th class="tg-e14l"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">10th International Biomedical Quiz 2021</span></td>
+    <td class="tg-yst8">Merit<br><br>Loh Kok Roy (4E)</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">22nd Elementz International Science Research Conference &amp; Competition</span></td>
+    <td class="tg-yst8">Bronze<br>Project: "Harnessing Solar Energy to Power Devices in School"<br><br>Certificate of Commendation<br>Project: "Using Electricity to Enhance Plant Growth"</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">42nd International C.B. Paul Science Quiz 2021</span></td>
+    <td class="tg-zr06"> Individual Gold<br><br>Loh Kok Roy (4E)<br>Chen Kewei (4E)<br>Individual Merit<br>Ang Peck Kee, Peggy (4E)</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">Singapore Junior Chemistry Olympiad (SJChO)</span></td>
+    <td class="tg-yst8"> Individual Bronze<br><br>Chen Kewei (4E)</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">Research and Development Experience Programme (RDEP) by Science Centre</span></td>
+    <td class="tg-yst8">Selected for mentorship by academic &amp; industry mentors in Science Centre<br><br>Ang Yuan Hui (3E)<br>Joash Emmuanuel Sam (3E)<br>Raenisha Sherridan (3E)</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">Youth Engineer Award (YEA)</span><br></td>
+    <td class="tg-yst8">Certificate of Achievement<br><br>Loh Kok Roy (4E)<br>Chuang Tze Ye (4E)<br>Sharmaine Chin Hui Xin (4E)<br>Koh Leen (4E)<br>Lin Zheng Liang (4E)<br>Luong Quang Viet Anh (4E)<br>Warren Kenzie (4E)<br>Yip Ming Hon (4E)<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><br><span style="font-weight:bolder">Singapore Mathematics Olympiad 2021</span><br></td>
+    <td class="tg-yst8">Individual Category<br><br><br>Lin Nuo Fan - Bronze Award<br>Cao Yurong - Bronze Award<br>Alarick Ong Tze Hou - Honourable Mention<br>Beth Tan Yu Xi - Honourable Mention<br><br><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">Singapore and Asian Schools Math Olympiad (SASMO)</span></td>
+    <td class="tg-zr06"> 4 Honourable Mention, 6 Bronze, 1 Silver, 1 Gold</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">University of New South Wales (UNSW) Mathematics Competition</span></td>
+    <td class="tg-yst8">Secondary 1<br><br>2 Distinction, 10 Credits, 4 MeritSecondary 2<br><br>4 Credits, 2 MeritsSecondary 3<br><br>1 Distinction, 6 Credits, 1 Merits</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">All Singapore Mathematics Competition for Normal Course Students 2020</span></td>
+    <td class="tg-yst8">Lower Secondary Normal Academic Individual Category<br><br>Daniel Yow (2A) - 12th PositionUpper Secondary Normal Technical Individual Category<br><br>Lim Zi Pin Sam (4T) - 17th Position</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">Orator's Trophy</span></td>
+    <td class="tg-zr06">Finalist - Lynsey Chan Benedicto (2E)</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">National Cyber Wellness Advocacy Challenge (NCAC) 2021 - Advocacy Module</span></td>
+    <td class="tg-yst8">Silver Award - Secondary/Post-Secondary School Category<br><br>Derrick See Kar Xun (3E)<br>Law Wang Loong (3E)<br>Siti Mariana Binte Jamari (2E)<br>Nina Elisha Herrera De Veyra (2E)<br>Loo Chee Hin Lucas (2E)</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bolder">University of New South Wales (UNSW) Writing</span><br></td>
+    <td class="tg-yst8">Secondary 2<br><br>1 Distinction, 5 Credits, 1 Merit<br><br>Secondary 4<br>1 High Distinction, 1 Credit, 1 Merit</td>
+  </tr>
+</tbody>
 </table>
+			</p><div class="button-container">
+                                            <a aria-label="Back to top" class="button" href="#achieve2021">Back to top</a>
+                                        </div>
+			<p></p>
 
-<table class="yck-table">
-  <thead>
-    <tr>
-      <th class="yck-th">MOE Special Awards</th>
-      <th class="yck-th"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="yck-td">Service to Education Award 2023<br>(For School Advisory Committees)</td>
-      <td class="yck-td">Ms Annie Chin (Silver)<br>Mr Kenneth Siow (Silver)<br>Mr Herald Yeo (Silver)</td>
-    </tr>
-  </tbody>
-</table>
-
-<table class="yck-table">
-  <thead>
-    <tr>
-      <th class="yck-th">Uniformed Groups</th>
-      <th class="yck-th"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="yck-td">NPCC</td>
-      <td class="yck-td">2022 Unit Overall Proficiency Award (UOPA)<br>-&nbsp;&nbsp; Gold Award<br><br>2023 SPF-NPCC Badge<br>- Staff Sergeant, Liew Tze Wan, Sec 4<br>- Staff Sergeant, Xiong Shiqi, Sec 4</td>
-    </tr>
-    <tr>
-      <td class="yck-td">Red Cross Youth</td>
-      <td class="yck-td">2022 Excellent Unit Award (EUA)<br>- Gold Award<br><br>2023 Director’s Award<br>- Warrant Officer Teo Kai En, Alivia<br><br>Ambassadors of Blood Donation Championship<br>- Silver Award<br><br>Disaster Risk Reduction Championship<br>- Bronze Award<br><br>First Aid Competition Junior (Lower Sec)<br>- Silver Award<br><br>First Aid Competition Senior (Upper Sec)<br>- Bronze Award</td>
-    </tr>
-  </tbody>
-</table>
-
-<table class="yck-table">
-  <thead>
-    <tr>
-      <th class="yck-th">Clubs</th>
-      <th class="yck-th"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="yck-td">Mechatronics, Aeronautics<br> &amp; Robotics (MARs) Club</td>
-      <td class="yck-td">IDE Series 2023 Robotics Competition<br>- Top 5 out of 72 teams<br><br>National Robotics Competition 2023<br>- Finalists - 2 teams</td>
-    </tr>
-  </tbody>
-</table>
-
-<table class="yck-table">
-  <thead>
-    <tr>
-      <th class="yck-th">Aesthetics</th>
-      <th class="yck-th"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="yck-td">Combined Performing Arts</td>
-      <td class="yck-td">2023 National Day Parade: Act 4 “Shine Your Light” Dance</td>
-    </tr>
-    <tr>
-      <td class="yck-td">Choir</td>
-      <td class="yck-td">2021 SYF Presentation – Represented School under Special Provision (COVID-19)</td>
-    </tr>
-    <tr>
-      <td class="yck-td">Concert Band</td>
-      <td class="yck-td">2021 SYF Presentation – Certificate of Accomplishment</td>
-    </tr>
-    <tr>
-      <td class="yck-td">Chinese Dance</td>
-      <td class="yck-td">2021 SYF Presentation – Certificate of Accomplishment</td>
-    </tr>
-    <tr>
-      <td class="yck-td">English Drama</td>
-      <td class="yck-td">2021 SYF Presentation – Certificate of Accomplishment</td>
-    </tr>
-    <tr>
-      <td class="yck-td">Indian Dance</td>
-      <td class="yck-td">2021 SYF Presentation – Certificate of Distinction</td>
-    </tr>
-    <tr>
-      <td class="yck-td">Malay Dance</td>
-      <td class="yck-td">2021 SYF Presentation – Certificate of Accomplishment</td>
-    </tr>
-    <tr>
-      <td class="yck-td">Arts Media and Design LLP</td>
-      <td class="yck-td">2023 Voice of My Generation Music Competition Finals<br><br>Junior Category<br>1st place – Team “Sound like the Morning”<br>- Zhai Jun Bo, Sec 1<br>- Loheath Ramesh, Sec 2<br>- Louis Wong Chun Yik, Sec 2<br>- Lim Wei Heng, Sec 3<br>- Alex Marjanovic, Sec 3<br><br>3rd place – Team “MCATS”<br>- Clariss Ong Li Rong, Sec 3<br>- Ong Tzy Yiin, Sec 3<br>- Sami Sharieff II, Sec 3<br>- Han Thong En, Sec 3<br>- Phone Myat Thit, Sec 3</td>
-    </tr>
-  </tbody>
-</table>
-
-<table class="yck-table">
-  <thead>
-    <tr>
-      <th class="yck-th">Sports</th>
-      <th class="yck-th"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="yck-td">Singapore Olympic Foundation - Peter Lim Scholarship 2023</td>
-      <td class="yck-td">Encouragement Award<br>- De Silva Ayra Chantel Taculod (For Athletics), Sec 1</td>
-    </tr>
-    <tr>
-      <td class="yck-td">Badminton</td>
-      <td class="yck-td">National School Games C Division (Girls)<br>- Top 8 South Zone</td>
-    </tr>
-    <tr>
-      <td class="yck-td">Netball</td>
-      <td class="yck-td">National School Games C Division<br>- Top 6 South Zone<br><br>National School Games B Division<br>- Top 6 South Zone<br><br>Yio Chu Kang Netball Carnival (Under 14)<br>- 3rd</td>
-    </tr>
-  </tbody>
-</table>
-
-<table class="yck-table">
-  <thead>
-    <tr>
-      <th class="yck-th">Leadership Related</th>
-      <th class="yck-th"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="yck-td">Our Singapore Leadership<br> Programme (OSLP) 2023</td>
-      <td class="yck-td">Wong Miu Yu, Sec 4</td>
-    </tr>
-  </tbody>
-</table>
-
-<table class="yck-table">
-  <thead>
-    <tr>
-      <th class="yck-th">Languages and Humanities Related</th>
-      <th class="yck-th"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="yck-td">International Model<br> United Nations Conference 2023</td>
-      <td class="yck-td">Best Position Paper<br>- Foo Su Fang, Sec 3</td>
-    </tr>
-    <tr>
-      <td class="yck-td">National Youth<br> Environment Conference 2023</td>
-      <td class="yck-td">Honourable Mentions<br>- Fong Hao Zheng, Sec 4<br>- Jason Boh, Sec 4</td>
-    </tr>
-    <tr>
-      <td class="yck-td">Vetri Vizha 2023<br>Budding Writers’ Programme</td>
-      <td class="yck-td">National Top 30 Budding Writers<br>- Yoganandhan Harini Sai, Sec 4</td>
-    </tr>
-    <tr>
-      <td class="yck-td">National Chinese<br> Challenge 2023</td>
-      <td class="yck-td">National Top 30<br>- Ji Junkai, Sec 4</td>
-    </tr>
-    <tr>
-      <td class="yck-td">Inter-Secondary School<br> Blackout Poetry &amp; Podcast Competition</td>
-      <td class="yck-td">First Place<br>- Nur Izzati Binte Jasman, Sec 3</td>
-    </tr>
-  </tbody>
-</table>
-
-<table class="yck-table">
-  <thead>
-    <tr>
-      <th class="yck-th">STEM Related</th>
-      <th class="yck-th"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="yck-td">2023 All Singapore Mathematics Competition for Normal Course</td>
-      <td class="yck-td">Individual Category:<br>Upper Secondary Normal Academic (Top 20)<br>- 19th position - Halaharivi Shaurya Daman, Sec 3<br><br>Lower Secondary Normal Academic (Top 20)<br>- 4th position - Ong Yiting, Sec 2<br>- 13th position - Ang Jun Sheng, Sec 2<br><br>Lower Secondary Normal Technical (Top 20)<br>- 11th position - Chia Li Yee, Sec 2<br><br>Team Category:<br>Lower Secondary Normal Academic (1st position)<br>- 1st position - Lim Jun Kai, Sec 2<br>- 1st position - Ong Yiting, Sec 2<br>- 1st position - Ang Jun Sheng, Sec 2</td>
-    </tr>
-    <tr>
-      <td class="yck-td">NIE Mathematics Challenge 2023</td>
-      <td class="yck-td">Higher Distinction<br>- Guo Jingyi, Sec 1<br>- Gui Mingyue, Sec 1<br><br>Distinction<br>- Liam Rain Ebriega Cena, Sec 1<br>- Teekayuko Nathawat, Sec 1<br>- Zhai Junbo, Sec 1<br>- Tangsatapornpan Aukrit, Sec 1<br>- Wu Jinlin, Sec 1</td>
-    </tr>
-    <tr>
-      <td class="yck-td">Singapore and Asian Schools Math Olympiad (SASMO) 2023</td>
-      <td class="yck-td">Bronze Award<br>- Bowie Ong Yan Tao, Sec 2<br>- Tino Seah Wei Le, Sec 2<br>- Chia Yuan Kai, Sec 2<br>- Elgin Tan Sie Yuan, Sec 2<br>- Koh Chuen Hoe, Sec 2<br>- Zaven Pang Xing Yu (Feng Xingyu), Sec 3<br>- Kayen Leong Yu Ting, Sec 3<br>- Kang Pin Xian, Sec 3<br><br>Honourable Mention<br>- Aaron Tan Kaixun, Sec 2<br>- Pearl Aw Xue Jun (Hu Xuejun), Sec 2<br>- Ramesh Loheath, Sec 2<br>- Foong Qi Yuan, Ajax, Sec 2<br>- Toh Shi Ming Shermin, Sec 2<br>- Elise Tan Joo Hue (Chen Yuhui), Sec 2<br>- Chua Dong Zhe, Sec 3</td>
-    </tr>
-    <tr>
-      <td class="yck-td">Singapore Math Kangaroo Contest (SMKC) 2023</td>
-      <td class="yck-td">Silver Award<br>- Aaron Tan Kaixun, Sec 2<br>- Zaven Pang Xing Yu (Feng Xingyu), Sec 3<br><br>Bronze Award<br>- Bowie Ong Yan Tao, Sec 2<br>- Chia Yuan Kai, Sec 2<br>- Elise Tan Joo Hue (Chen Yuhui), Sec<br>- Lim Le Qi Clara, Sec 2<br>- Xu You, Alden (Lin Xuyou), Sec 3<br>- Kayen Leong Yu Ting, Sec 3<br>- Wei Heng, Sec 3<br>- Chua Dong Zhe, Sec 3<br>- Jun Xi Darryl (Weng Junxi), Sec 3<br><br>Honourable Mention<br>- Wang Hong En, Sec 2<br>- Clariss Ong Li Rong, Sec 3<br>- Josua Valencia Van Mook, Sec 3<br>- Gee Ming Xi, Sec 3</td>
-    </tr>
-    <tr>
-      <td class="yck-td">43<sup>rd</sup> International C.B. Paul Science Quiz 2023</td>
-      <td class="yck-td">Bronze Award<br>- Ong Zhi Yuan, Sec 4<br><br>Merit Award<br>- Ngan Kwan Teng, Sec 4<br>- Ren Yanjia, Sec 4<br><br>Honorable Mention<br>- Kho Soong Yang, Sec 4</td>
-    </tr>
-    <tr>
-      <td class="yck-td">24<sup>th</sup> International Elementz Fair 2023</td>
-      <td class="yck-td">Silver Award<br>- Satish Kumar Pratishtha, Sec 3<br>- Julian Koh Jun Rui, Sec 3<br>- Ashley Farisya Binte Muhammad Faizal, Sec 3<br>- Angelyn Low Shi Ning, Sec 3<br>- Mohamed Aaqil Bishan, Sec 3<br><br>Silver Award<br>- Gee Ming Xi, Sec 3<br>- Jolin Ang Rui En, Sec 3<br>- Jasper Lim Jun Xiong, Sec 3<br>- Joy Tan Jia Yi, Sec 3<br>- Janice Lye Yu Tiam, Sec 3<br><br>Bronze Award<br>- Lim Rou Hui Charlynn, Sec 3<br>- Lim Xu You Alden, Sec 3<br>- Teow Qiao Ruo, Sec 3<br>- Nazreen Fitria Izzati Binte Ngasti Wanto, Sec 3<br>- Jovelynn Lim En Ting, Sec 3</td>
-    </tr>
-    <tr>
-      <td class="yck-td">Singapore International STEM Innovation Challenge (SISTEMIC) 2023</td>
-      <td class="yck-td">STEM Innovation Challenge - Silver Award (Voyager)<br>- Foo Su Fang, Sec 3<br>- Sami Sharieff Ii, Sec 3<br>- Lim Wei Heng, Sec 3<br><br>Design &amp; Build Challenge - Most Sustainable Concept Award<br>- Sami Sharieff Ii, Sec 3</td>
-    </tr>
-    <tr>
-      <td class="yck-td">Singapore Science &amp; Engineering Fair 2023</td>
-      <td class="yck-td">Finalists<br>- Foo Su Fang, Sec 3<br>- Sami Sharieff Ii, Sec 3<br>- Charlene Ng Li Shan, Sec 3</td>
-    </tr>
-  </tbody>
-</table>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+		</details>
 	</div>
 	</div>
+
 <hr>
 
 
 <style>
+/* ==========================================================================
+   1. Global Styles & Resets
+   ========================================================================== */
+
 :root {
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
@@ -675,6 +1227,21 @@ small {
     height: 100%;
 }
 
+.yck-component .widescreentv {
+    aspect-ratio: 16/9;
+    width: 100%;
+}
+
+.yck-component .tallscreentv {
+    aspect-ratio: 9/16;
+    width: 100%;
+}
+
+.yck-component .sdtv {
+    aspect-ratio: 4/3;
+    width: 100%;
+}
+
 /* --- Isomer Cards --- */
 .yck-component .isomer-card,
 .yck-component .column {
@@ -951,75 +1518,120 @@ small {
     animation-fill-mode: both;
 }
 
-/* --- Navigation Bar --- */
-.yck-component .yck-nav-bar {
-    display: flex;
-    justify-content: space-between;
-    padding: 1rem 0;
+/* --- Integrated Navigation Bar Styles --- */
+.yck-component .yck-nav-bar>* {
     margin: 0;
-    position: relative;
+    padding: 0;
+}
+
+.yck-component .yck-nav-bar ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    list-style: none;
+    background-color: #ffffff;
+    border-radius: 0.75rem;
+    box-shadow: var(--yck-inset-shadow2);
+    
+    justify-content: start;
+    align-content: start;
+    justify-items: center;
+      align-items: start;
 }
 
 .yck-component .yck-nav-bar a {
+    display: block;
     text-decoration: none;
-    color: inherit;
-    /* Inherit text color */
-    padding-bottom: 0.5em;
-    margin-inline: 1rem;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: var(--yck-step-0);
+    transition: all 0.3s var(--yck-transition-timing);
+    margin: calc(var(--yck-spacing-unit) * 0.1);
+    padding: 1rem;
+    border-radius: 0.5rem;
+    text-align: center;
+    text-wrap: balance;
+    overflow-wrap: break-word;
+    color: #4a5568;
     position: relative;
 }
-
 
 .yck-component .yck-nav-bar a::after {
     content: '';
     position: absolute;
-    left: 0;
-    right: 100%;
-    bottom: 0;
+    width: 0;
     height: 2px;
-    background-color: #e37f2a;
-    /* Highlight Color */
-    transition: right 0.5s ease-in-out;
-    /* Transition on right for fade in from left */
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #4299e1;
+    /* Added background-color to the transition for the color fade effect */
+    transition: width 0.7s var(--yck-transition-timing), background-color 0.7s var(--yck-transition-timing);
+}
+
+
+.yck-component .yck-nav-bar a.active {
+    color: #2b6cb0;
+}
+
+.yck-component .yck-nav-bar a.active::after {
+    width: 60%;
+    background-color: #4299e1;
+}
+
+
+.yck-component .yck-nav-bar a:hover {
+    color: #e37f2a;
 }
 
 .yck-component .yck-nav-bar a:hover::after {
-    right: 0;
+    background-color: #e37f2a;
+    width: 60%;
 }
+
+
 
 /* --- Buttons --- */
 .yck-component .button-container {
+    margin: 0;
+    padding: 0;
+    display: flex;
     text-align: center;
-    padding-top: 2rem;
     width: 100%;
+    justify-content: flex-end;
+    align-items: flex-end;
 }
 
-.yck-component .cheer-button {
-    background-color: var(--primary-green);
-    color: var(--white);
-    font-weight: 700;
-    padding: 0.75rem 2rem;
-    border-radius: 9999px;
+.yck-component .button {
+    background-color: #e37f2a;
+    color: #fff;
+    font-size: var(--yck-step-0);
+    font-weight: 900;
+    margin: 1rem;
+    padding: 0.65rem;
+    border-radius: 50px;
     box-shadow:
-        0 10px 15px -3px rgba(0, 0, 0, 0.1),
+        0 10px 15px -3px rgba(0, 0, 0, 0.15),
         0 4px 6px -2px rgba(0, 0, 0, 0.05);
-    transition: all 0.3s ease-in-out;
+    transition: all 0.35s ease-in-out;
     border: none;
     cursor: pointer;
     text-decoration: none;
     display: inline-block;
 }
 
-.yck-component .cheer-button:hover {
+.yck-component .button:hover {
+    text-decoration: none;
+    background-color: #fabe64;
+    color: #fff;
     box-shadow:
-        0 20px 25px -5px rgba(0, 0, 0, 0.1),
+        0 20px 25px -6px rgba(0, 0, 0, 0.12),
         0 10px 10px -5px rgba(0, 0, 0, 0.04);
     transform: scale(1.05);
 }
 
-.yck-component .cheer-button:focus {
+.yck-component .button:focus {
     outline: none;
-    box-shadow: 0 0 0 4px rgba(56, 142, 60, 0.5);
+    box-shadow: 0 0 0 4px rgba(250, 190, 60, 0.5);
 }
 
 .yck-component .truncate {
@@ -1165,7 +1777,7 @@ small {
 }
 
 @media (max-width: 600px) {
-    .yck-component .yck-flex-grid.grid-cols-6>* {
+    .yck-component .yck-flex-grid>* {
         flex-basis: auto;
     }
 }
@@ -1195,4 +1807,4 @@ small {
         animation-range: entry 25% cover 50%;
     }
 }
-</style>
+	</style>
