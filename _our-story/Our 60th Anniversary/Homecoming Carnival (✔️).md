@@ -15,7 +15,7 @@ third_nav_title: Our 60th Anniversary
 ---
 <div class="yck-component">
 	<h3 class="yck-h3">60th Anniversary Homecoming Carnival</h3>
-	<p>Yio Chu Kang Secondary School celebrated the first of her 60th Anniversary events on 10 May 2025. We kicked off the festivities with the Homecoming Carnival, right here in school, packed with fun-filled games and creative handicraft booths.</p>
+<p class="dropcap-title">Yio Chu Kang Secondary School celebrated the first of her 60th Anniversary events on 10 May 2025. We kicked off the festivities with the Homecoming Carnival, right here in school, packed with fun-filled games and creative handicraft booths.</p>
 	<div class="video-container">
 		<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vm5_5gKTo2M?si=7Wp4dUmuScu14xDA&amp;controls=0" height="315" width="560"></iframe>
 	</div>
@@ -26,7 +26,7 @@ third_nav_title: Our 60th Anniversary
 <figure>
 <img alt="The Homecoming Carnival EDM" src="/images/60th%20Anniversary/Homecoming_Carnival_EDM.png">
 </figure>
-<p>Yio Chu Kang Secondary School is celebrated her 60th Anniversary this year with a series of exciting events! We have lined up the <strong>Homecoming Carnival on 10 May (Saturday), the <a href="/60th-anniversary-dinner/">Alumni Dinner</a> on 4 July (Friday), and the Concert for Hope on 21 November (Friday)</strong> --- and we can't wait for you to be part of the celebrations!</p>
+<p>Yio Chu Kang Secondary School is celebrated her 60th Anniversary this year with a series of exciting events! We have lined up the <strong>Homecoming Carnival on 10 May (Saturday), the <a class="text-link" href="/our-story/our-60th-anniversary/60th-anniversary-dinner/">Alumni Dinner</a> on 4 July (Friday), and the Concert for Hope on 21 November (Friday)</strong> --- and we can't wait for you to be part of the celebrations!</p>
 <p>We will kick off the festivities with the Homecoming Carnival, right here in school, packed with fun-filled games and creative handicraft booths.</p>
 <p>All game booths will be free for everyone to enjoy, while the handicraft booths --- showcasing beautiful, handmade creations by our talented students --- will involve a small fee. All proceeds from the sales will go towards helping needy students and/or supporting other educational causes approved by the Ministry of Education (MOE).</p>
     
