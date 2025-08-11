@@ -1,5 +1,4 @@
 collections:
   60th-anniversary:
     output: true
-    order:
-      - 60th Anniversary Celebrations.md
+    order: []
