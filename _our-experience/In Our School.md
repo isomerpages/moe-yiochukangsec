@@ -40,6 +40,9 @@ image: /images/YCKLogo.svg
         Teacher-Student Relationship. Through these activities, we help
         students discover the joy of learning.
     </p>
+    <div class="button-container">
+        <a aria-label="Back to top" class="button" href="#top">Back to top</a>
+    </div>
 </div>
 <hr>
 <div class="yck-component" id="healthfiesta">
@@ -56,6 +59,9 @@ image: /images/YCKLogo.svg
         social cohesion and interaction for students from all levels
         to interact.
     </p>
+    <div class="button-container">
+        <a aria-label="Back to top" class="button" href="#top">Back to top</a>
+    </div>
 </div>
 <hr>
 <div class="yck-component" id="earcandy">
@@ -72,6 +78,9 @@ image: /images/YCKLogo.svg
         facilities. It is held twice a year, with one <em>Ear<sup>Candy</sup>! </em>each
         semester.
     </p>
+    <div class="button-container">
+        <a aria-label="Back to top" class="button" href="#top">Back to top</a>
+    </div>
 </div>
 <hr>
 <div class="yck-component" id="speechday">
@@ -96,6 +105,9 @@ image: /images/YCKLogo.svg
             <li>56<sup>th</sup> <a target="_blank" href="https://youtu.be/aHeeaGQKlwQ?si=3NTF35l5j1FPa63M">Speech and Prize Giving Day</a> in 2021.</li>
         </ul>
     </details>
+    <div class="button-container">
+        <a aria-label="Back to top" class="button" href="#top">Back to top</a>
+    </div>
 </div>
 <hr>
 <div class="yck-component" id="syf">
@@ -131,6 +143,9 @@ image: /images/YCKLogo.svg
     <div class="video-container">
         <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/8xYmUrqATb4?si=GYCSmdKhjXknE0Ip" height="315" width="560"></iframe>
     </div>
+    <div class="button-container">
+        <a aria-label="Back to top" class="button" href="#top">Back to top</a>
+    </div>
 </div>
 <hr>
 <div class="yck-component" id="safety">
@@ -156,6 +171,9 @@ image: /images/YCKLogo.svg
         </div>
         <div class="video-container">
             <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/jFYMISLZt2w?si=DDaqYcY1zJJYFuYV" height="315" width="560"></iframe>
+        </div>
+        <div class="button-container">
+            <a aria-label="Back to top" class="button" href="#top">Back to top</a>
         </div>
     </div>
 </div>
