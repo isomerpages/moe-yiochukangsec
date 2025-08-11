@@ -2,6 +2,7 @@ collections:
   our-story:
     output: true
     order:
+      - Our 60th Anniversary/.keep
       - Principal's Message.md
       - Our School/.keep
       - Our School/Our Vision, Mission, Motto and Values.md
