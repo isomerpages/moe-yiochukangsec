@@ -6,7 +6,7 @@ description: ""
 image: /images/Gold.png
 ---
 <div class="yck-component">
-    <nav class="yck-nav-bar">
+    <nav class="yck-nav-bar" id="top">
         <ul>
             <li><a href="#School-Leaders">SCHOOL LEADERS</a></li>
             <li><a href="#Key-Personnel">KEY PERSONNEL</a></li>
@@ -205,6 +205,11 @@ image: /images/Gold.png
                 </details>
             </div>
         </div>
+			<div class="yck-component">
+			<div class="button-container">
+				<a class="button" href="#top">Back to Top</a>
+			</div>
+			</div>
         <div class="section-title" id="Teaching-Staff">Teaching Staff</div>
         <div class="teaching-staff-section">
             <div class="department">
@@ -289,6 +294,11 @@ image: /images/Gold.png
                     </div>
                 </div>
             </div>
+					<div class="yck-component">
+			<div class="button-container">
+				<a class="button" href="#top">Back to Top</a>
+			</div>
+			</div>
             <div class="department">
                 <div class="department-name">Humanities Department</div>
                 <div class="people-grid">
@@ -338,6 +348,11 @@ image: /images/Gold.png
             </div>
         </div>
     </div>
+	<div class="yck-component">
+			<div class="button-container">
+				<a class="button" href="#top">Back to Top</a>
+			</div>
+			</div>
 </div>
 
 <style>
