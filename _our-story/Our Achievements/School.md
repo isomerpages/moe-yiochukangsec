@@ -264,7 +264,8 @@ variant: markdown
 <div class="yck-component">
     <div class="regular-flow">
         <details name="achievements">
-            <summary id="achieve2022">Achievements 2022</summary>
+            <summary id="achieve2022">Achievements 2022
+            </summary>
             <table class="yck-table">
                 <thead>
                     <tr>
@@ -623,7 +624,9 @@ variant: markdown
                     </tr>
                 </tbody>
             </table>
-            <br>
+            <div class="button-container">
+                <a aria-label="Back to top" class="button" href="#achieve2021">Back to top</a>
+            </div>
             <table class="yck-table">
                 <thead>
                     <tr>
@@ -724,10 +727,9 @@ variant: markdown
             <div class="button-container">
                 <a aria-label="Back to top" class="button" href="#achieve2021">Back to top</a>
             </div>
-    </details>
-	</div>
+    </details></div>
     
-   <hr>
+    <hr>
     <div class="yck-component">
         <div class="regular-flow">
             <details name="achievements">
@@ -814,7 +816,9 @@ variant: markdown
                         </tr>
                     </tbody>
                 </table>
-                <br>
+                <div class="button-container">
+                    <a aria-label="Back to top" class="button" href="#achieve2020">Back to top</a>
+                </div>
                 <table class="yck-table">
                     <thead>
                         <tr>
@@ -908,1596 +912,1032 @@ variant: markdown
                         </tr>
                     </tbody>
                 </table>
-							                <div class="button-container">
+                <div class="button-container">
                     <a aria-label="Back to top" class="button" href="#achieve2020">Back to top</a>
                 </div>
-							</details></div>
-					
-			<hr>
-			</div>
-        
-   </div>
-<li>
+            </details>
+        </div>
+    </div>
+    <hr>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">Achievements&nbsp;2019</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-<p> <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-yst8{background-color:#FFF;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-mmvt{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-mmvt" colspan="2"><span style="color:#EEE;background-color:#2A2A2A">Uniformed Groups</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">NPCC</span></td>
-    <td class="tg-yst8">Unit Overall Proficiency Award (UOPA)<br><br>Gold Award<br><br>SPF - NPCC Badge<br>Elita Yu Jia Yi, Sec 4 Exp<br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">NCDCC</span></td>
-    <td class="tg-yst8">Unit Overall Proficiency Award (UOPA)<br><br>Gold Award Best Unit Cadet<br><br>Suzairi B ZulKifli<br><br>Pinnacle Badge<br>Suzairi B ZulKifli<br>Ong Jing Xuan</td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">Red Cross Youth</span></td>
-    <td class="tg-yst8">Excellent Unit Award (EUA)<br><br>Gold AwardDirector’s Award<br><br>Stephanie Chin Hui Ru, Sec 4 NA</td>
-  </tr>
-</tbody>
-</table><br>
-			<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-yst8{background-color:#FFF;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-mmvt{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-mmvt" colspan="2"><span style="color:#EEE;background-color:#2A2A2A">Sports</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">Floorball</span></td>
-    <td class="tg-zr06">Team 1<br><br>ActiveSG – SFA ‘B’ DivisionPlate &amp; Bowl Championship - 1st position Team 2<br><br>ActiveSG – SFA ‘B’ DivisionPlate &amp; Bowl Championship - 4th position </td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">Sailing</span><br></td>
-    <td class="tg-yst8">National  Sailing 4.7 Laser race C Division<br>1st - Abigail Koh Sec 1 <br><br>2nd- Regina Koh Sec 2 </td>
-  </tr>
-</tbody>
-</table><br>
-			<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-yst8{background-color:#FFF;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-mmvt{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ktyi"></th>
-    <th class="tg-0lax"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-mmvt" colspan="2"><span style="color:#EEE;background-color:#2A2A2A">Aesthetics</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">Band</span></td>
-    <td class="tg-zr06">SYF Presentation 2017- Certificate of Accomplishment</td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">Choir</span></td>
-    <td class="tg-zr06">SYF Presentation 2017 - Certificate of Distinction</td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">Chinese Dance</span></td>
-    <td class="tg-zr06">SYF Presentation 2017 - Certificate of Distinction</td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">Drama</span></td>
-    <td class="tg-zr06">SYF Presentation 2017 - Certificate of Distinction</td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">Indian Dance</span></td>
-    <td class="tg-zr06"> SYF Presentation 2017 - Certificate of Distinction</td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">Malay Dance</span></td>
-    <td class="tg-zr06">SYF Presentation 2017 - Certificate of Distinction<br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">Modern Dance</span> </td>
-    <td class="tg-zr06">SYF Presentation 2017 - Certificate of Accomplishment </td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">Club</span> </td>
-    <td class="tg-f4yw"> </td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">Infocomm Club – Digital Animation </td>
-    <td class="tg-yst8">Crea8 Sustainability Competition 2019<br><br>1st Runner-up (Upper Sec Category)<br>2nd Runner-up (Lower Sec Category)<br><br> </td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">MARs Club </span></td>
-    <td class="tg-yst8">Nanyang Polytechnic RippleUX competition 2019 (uKit Secondary Schools Category)<br><br><br>1st,2nd and 3rd positionsOneWorld Robotics Competition 2019  <br><br><br>Overall 3rd place<br>Solution presentation-1st Place<br><br>AI circuit Highest Scorer -Tang Haotian 3 Exp<br><br></td>
-  </tr>
-</tbody>
-</table><br>
-			<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-mmvt{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-mmvt" colspan="2"><span style="color:#EEE;background-color:#2A2A2A">Environment</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">School’s Green Award 2019</span></td>
-    <td class="tg-dgl5"><span style="font-weight:bolder">Vanda Miss Joaquim Award </span></td>
-  </tr>
-</tbody>
-</table><br>
-			<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-yst8{background-color:#FFF;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-mmvt{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-mmvt" colspan="2"><span style="color:#EEE;background-color:#2A2A2A">Others</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-dgl5">Unity Scientific Innovation Challenge 2019<br></td>
-    <td class="tg-yst8">Team Category<br><br>Top 10 Finalists<br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><br>International Biomedical Quiz 2019<br><br>40th International C.B. Paul Science Quiz <br></td>
-    <td class="tg-yst8">Individual Category<br>Silver Award<br><br><br>Pey Kiet Lin, 4 Exp<br><br><br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5"><br>40th International C.B. Paul Science Quiz<br></td>
-    <td class="tg-yst8">Individual Category<br><br>Silver Award<br> Hur Sun Ho, 4 Exp<br><br>Bronze Award<br><br>Tan Wei Song Russell Bryan, 4 Exp<br><br>Commendation Award<br>Cheah Suan Yi, 4 Exp<br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">20th Elementz International Science Research Conference &amp; Competition </td>
-    <td class="tg-yst8">All 6 groups received an award<br><br>Silver award - 1<br>Bronze awards - 2<br>Certificates of Commendation – 3<br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">Singapore Junior Chemistry Olympiad (SJChO) 2019<br></td>
-    <td class="tg-yst8">Individual Category<br>Bronze Award<br><br>Lin Bin, Sec 4 Exp<br><br>Merit Award<br><br>Won Jun, Sec 4 Exp<br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">Singapore and Asian Schools Math Olympiad (SASMO)<br></td>
-    <td class="tg-7yig">Individual Awards<br><br>Gold -1<br>Silver 2<br> Bronze -4<br><br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">Singapore Mathematical Olympiad (SMO)<br></td>
-    <td class="tg-7yig">Individual Awards<br><br><br> Honourable Mention -1<br>Bronze -2<br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">University of New South Wales (UNSW) Mathematics Competition<br></td>
-    <td class="tg-yst8">UNSW Medal 2019 (top scorers in Singapore)<br><br>Chen Kewei, Sec 2 Exp<br><br>Secondary 2  <br><br>1 High Distinction<br>7 Distinctions <br>5 Credits <br>4 Merits<br><br>Secondary 3  <br><br>Distinctions<br>3 Credits<br>2 Merits<br><br><br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">National Chinese Challenge 2019 - Secondary School</td>
-    <td class="tg-yst8">Excellence Award (Individual)<br><br>Xu Yi Xuan, Sec 4 Exp<br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">9th SCCCE Art Festival Competition</td>
-    <td class="tg-yst8">Gold Award<br><br>Lim Wen Han, Sec 4 Exp<br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">My Story 2019 Public Speaking Competition</td>
-    <td class="tg-yst8">Merit Award<br><br>Chen Zhehai, Sec 4 Exp<br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">4th Sing Chu National Students Chinese Callgraphy Competition 2019</td>
-    <td class="tg-yst8">Merit Award<br><br>Lim Wen Han, Sec 4 Exp<br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">National Chinese Pen Calligraphy Competition</td>
-    <td class="tg-yst8">First Prize<br><br>Lim Wen Han, Sec 4 Exp<br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">North Zone Malay Language Scrabble Competition</td>
-    <td class="tg-ktyi"><br>Team Award<br>3rd Prize <br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">RI Tamil Literary Competitions 2019  </td>
-    <td class="tg-dgl5"><span style="font-weight:bolder"> </span>Drama Competition<br><br><br>4th Prize (Team)<br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">Teck Ghee CC Tamil Literary Competitions</td>
-    <td class="tg-yst8">Language Quiz(pair): 1st Prize<br><br>Sakthi Priya, Sec 4 Exp<br>Kandasamy Nandakumar, Sec 4 Exp<br><br><br>Word Game(pair): 2nd Prize<br><br>S Mithraa, Sec 2 Exp<br>Namasivayam Senthil Kannan Raagavi, Sec 2 Exp<br><br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">A Budding Writers’ &amp; Budding Artistes’ Programme (NOP) by CPDD</td>
-    <td class="tg-yst8">Silver Award<br><br>S Mithraa, Sec 2 Exp<br>Ashwin S/O Balamurugan, Sec 2 NA<br>G B Durgesh, Sec 2 NT<br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">Your Talent Our Pride For Kids (by YCK CC)</td>
-    <td class="tg-yst8">1st Prize<br><br>Zameer Shareef S/o Nisardeen, Sec 1 NA2nd Prize<br><br><br><br>Raenisha Sheriidan, Sec 1 Exp<br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">National Creative Story Writing Competition for Secondary Students</td>
-    <td class="tg-yst8">Distinguished Achievement Award<br><br>Chen Kewei, Sec 2 Exp<br><br><br>Excellence Awards<br><br>Bi Hexin, Sec 4 Exp<br>Wang Shijia, Sec 4 Exp<br>Lim Qian Tong, Sec 5NA<br>Liu Zhen, Sec 5 NA<br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">EBS Enterprise Deal Competition 2019</td>
-    <td class="tg-ktyi">Two winning teams out of 3 participating teams<br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">University of New South Wales (UNSW) English Competition<br></td>
-    <td class="tg-ktyi">Secondary 2<br><br>1 Credit<br><br><br>Secondary 3 <br><br>1 Credit<br><br><br>Secondary 4<br><br>1 Merit<br>2 Credit<br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">Republic Polytechnic<br>Hospitality Race 2019</td>
-    <td class="tg-yst8">Consolation Prize<br><br>Ho Chian Cee Caapri, Sec 3 Exp<br>Nur Shafiqa Leong, Sec 3 Exp <br> Arjun Jayakumar, Sec 3 Exp<br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">National Youth Entrepreneurship Challenge - Grand Finale </span></td>
-    <td class="tg-yst8">Overall 2nd  <br>  Aikel bin Azmi 3 NT<br>Top 6<br><br>Kathir Vel s/o Ravinderan 3 NT</td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">National Youth Upcycling Movement 2019</span> </td>
-    <td class="tg-yst8">Gold Award<br><br>Yang Jing Jing, Sec2 NA <br>Goh Yen Ting Trishelle, Sec 2 Exp<br>Ian Balqis Putri Mohd Bakri, Sec 2 Exp<br>Kwok Mei Hui Sec 2 NA</td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">Shell STEM Challenge -NXplorers 2019 </span></td>
-    <td class="tg-zr06"> Team Category<br>Top 10 Teams<br><br>Kwok Mei Hui, Sec 2 NA<br>Lim Hui Min Emily, Sec 2NA<br>Loh Kok Roy, Sec 2 Exp<br>Liu Bin, Sec 2 Exp</td>
-  </tr>
-</tbody>
-</table>
-			</p>
-
-&nbsp;&nbsp;</div>
-
-</li>
-	
-<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion5">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion5">Achievements&nbsp;2018</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<p> <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-yst8{background-color:#FFF;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-mmvt{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-mmvt" colspan="2"><span style="color:#EEE;background-color:#2A2A2A">Uniformed Groups</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">NCDCC</span></td>
-    <td class="tg-yst8">Unit Overall Proficiency Award (UOPA) Gold Award<br><br>SCDF-NCDCC Pinnacle Badge<br><br>Marcus Ho Geng Yip, Sec 4<br><br>Urrutia Andreas Luis Prospero, Sec 4</td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">NPCC</span></td>
-    <td class="tg-yst8">Unit Overall Proficiency Award (UOPA)<br>Gold Award (CBSS)<br>Silver Award (YCKSS)<br><br>SPF-NPCC Badge<br>Low Yi San, Sec 4</td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">Red Cross Youth</span></td>
-    <td class="tg-yst8">Excellent Unit Award (EUA)<br>Gold Award<br><br>Director’s Award<br>Maneesha, Sec 4</td>
-  </tr>
-</tbody>
-</table><br>
-			<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-yst8{background-color:#FFF;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-mmvt{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-mmvt" colspan="2"><span style="color:#EEE;background-color:#2A2A2A">Sports</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">Badminton</span></td>
-    <td class="tg-zr06">North Zone - Quarter Finals (B Girls)</td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">Netball</span></td>
-    <td class="tg-zr06">North Zone Second Round (B Girls)<br>M1 Schools Challenge League Championship - Champions (C Girls)</td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">Taekwondo</span></td>
-    <td class="tg-yst8">National School Games Taekwondo Championship 2018 (Kyorugi Medallists)<br>C Division Female Red Belt Under 42kg<br>3rd Place - Lim Zi Xuan, Sec 1<br><br>B Division Male Black Belt Under 60kg<br>3rd Place - Klyde Phua, Sec 4<br><br>B Division Male Red Belt Under 81kg<br>1st Place - Brandon Lin Hui, Sec 4</td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">Sailing</span></td>
-    <td class="tg-yst8">National School Games Sailing Championship 2018<br>C Division Byte Girls<br>4th – Koh Bee Ling, Regina, Sec 1</td>
-  </tr>
-</tbody>
-</table><br>
-			<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-mmvt{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-mmvt" colspan="2"><span style="color:#EEE;background-color:#2A2A2A">Aesthetics</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">Choir</span></td>
-    <td class="tg-zr06">SYF Presentation 2017 - Certificate of Distinction</td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">Band</span></td>
-    <td class="tg-zr06">SYF Presentation 2017 - Certificate of Accomplishment</td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">Chinese Dance</span></td>
-    <td class="tg-zr06">SYF Presentation 2017 - Certificate of Distinction</td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">Drama</span></td>
-    <td class="tg-zr06">SYF Presentation 2017 - Certificate of Distinction</td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">Indian Dance</span></td>
-    <td class="tg-zr06">SYF Presentation 2017 - Certificate of Distinction</td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">Malay Dance</span></td>
-    <td class="tg-zr06">SYF Presentation 2017 - Certificate of Distinction</td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:bolder">Modern Dance</span></td>
-    <td class="tg-zr06">SYF Presentation 2017 - Certificate of Accomplishment</td>
-  </tr>
-</tbody>
-</table><br>
-			<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-8rcp{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-mmvt{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-mmvt" colspan="2"><span style="color:#EEE;background-color:#2A2A2A">Environment</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-8rcp">School’s Green Award 2018 <br></td>
-    <td class="tg-8rcp">Yellow Flame Award <br></td>
-  </tr>
-  <tr>
-    <td class="tg-8rcp">School’s Green Award 2017</td>
-    <td class="tg-8rcp">Lotus Award  </td>
-  </tr>
-</tbody>
-</table><br>
-			<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-3r84{background-color:#2A2A2A;border-color:inherit;color:#EEE;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-33e1{background-color:#FFF;border-color:inherit;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-nbj5{background-color:#FFF;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-jxgv{background-color:#FFF;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-pdeq{background-color:#FFF;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-3r84" colspan="2"><span style="color:#EEE;background-color:#2A2A2A">Others</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-pdeq">Unity Scientific Innovation Challenge 2019<br></td>
-    <td class="tg-33e1">Team Category<br>Top 10 Finalists<br></td>
-  </tr>
-  <tr>
-    <td class="tg-nbj5"><br>40th International C.B. Paul Science Quiz <br></td>
-    <td class="tg-33e1">Individual Category<br>Silver Award<br><br> Hur Sun Ho, 4E1<br><br>Bronze Award<br><br>Tan Wei Song Russell Bryan, 4E1<br><br>Commendation Award<br><br>Cheah Suan Yi, 4E1<br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-pdeq">International Biomedical Quiz 2019</td>
-    <td class="tg-33e1">Individual Category<br>Silver Award<br><br>Pey Kiet Lin, 4E2<br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-pdeq">20th Elementz International Science Research Conference &amp; Competition </td>
-    <td class="tg-33e1">All 6 groups received an award<br>Silver award - 1<br>Bronze awards - 2<br>Certificates of Commendation – 3<br></td>
-  </tr>
-  <tr>
-    <td class="tg-pdeq">Singapore Junior Chemistry Olympiad (SJChO) 2019<br></td>
-    <td class="tg-33e1">Individual Category<br>Bronze Award<br><br>Lin Bin, 4E1<br><br>Merit Award<br><br>Won Jun, 4E1<br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-pdeq">Singapore and Asian Schools Math Olympiad (SASMO)<br></td>
-    <td class="tg-jxgv">4  Bronze, 2 Silver &amp; 1 Gold<br></td>
-  </tr>
-  <tr>
-    <td class="tg-pdeq">Singapore Mathematical Olympiad (SMO)<br></td>
-    <td class="tg-jxgv">1   Honourable Mention &amp; 2 Bronze</td>
-  </tr>
-  <tr>
-    <td class="tg-pdeq">University of New South Wales (UNSW) Mathematics Competition<br></td>
-    <td class="tg-jxgv">Secondary 2  <br><br>1 High Distinction<br>7 Distinctions <br>5 Credits <br>4 Merits<br><br>Secondary 3  <br><br>Distinctions<br>3 Credits<br>2 Merits<br><br><br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-pdeq">National Chinese Challenge 2019 - Secondary School</td>
-    <td class="tg-jxgv">Excellence Award (Individual)<br><br>Xu Yi Xuan, Sec 4E1<br></td>
-  </tr>
-  <tr>
-    <td class="tg-pdeq">9th SCCCE Art Festival Competition</td>
-    <td class="tg-jxgv">Gold Award<br><br>Lim Wen Han, Sec 4E1<br></td>
-  </tr>
-  <tr>
-    <td class="tg-pdeq">My Story 2019 Public Speaking Competition</td>
-    <td class="tg-jxgv">Merit Award<br><br>Chen Zhehai, Sec 4E2<br></td>
-  </tr>
-  <tr>
-    <td class="tg-pdeq">4th Sing Chu National Students Chinese Callgraphy Competition 2019</td>
-    <td class="tg-jxgv">Merit Award<br><br>Lim Wen Han, Sec 4E1<br></td>
-  </tr>
-  <tr>
-    <td class="tg-pdeq">National Chinese Pen Calligraphy Competition</td>
-    <td class="tg-jxgv">First Prize<br><br>Lim Wen Han, Sec 4E1<br></td>
-  </tr>
-  <tr>
-    <td class="tg-pdeq">North Zone Malay Language Scrabble Competition</td>
-    <td class="tg-jxgv">3rd Prize (Team)<br></td>
-  </tr>
-  <tr>
-    <td class="tg-pdeq">RI Tamil Literary Competitions 2019  - Drama Competition</td>
-    <td class="tg-jxgv">4th Prize (Team)<br></td>
-  </tr>
-  <tr>
-    <td class="tg-pdeq">Teck Ghee CC Tamil Literary Competitions</td>
-    <td class="tg-jxgv">Language Quiz(pair): 1st Prize<br><br>Sakthi Priya, Sec 4E4<br>Kandasamy Nandakumar, Sec 4E1<br><br><br>Word Game(pair): 2nd Prize<br><br>S Mithraa, Sec 2E1<br>Namasivayam Senthil Kannan Raagavi, Sec 2E3<br><br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-pdeq">A Budding Writers’ &amp; Budding Artistes’ Programme (NOP) by CPDD</td>
-    <td class="tg-jxgv">Silver Award<br><br>S Mithraa, Sec 2E1<br>Ashwin S/O Balamurugan, Sec 2A1<br>G B Durgesh, Sec 2T1<br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-pdeq">Your Talent Our Pride For Kids (by YCK CC)</td>
-    <td class="tg-jxgv">1st Prize<br><br>Zameer Shareef S/o Nisardeen, Sec 1A12nd Prize<br><br><br><br>Raenisha Sheriidan, Sec 1E2<br></td>
-  </tr>
-  <tr>
-    <td class="tg-pdeq">National Creative Story Writing Competition for Secondary Students</td>
-    <td class="tg-jxgv">Distinguished Achievement Award<br><br>Chen Kewei, Sec 2E3<br><br><br>Excellence Awards<br><br>Bi Hexin, Sec 4E1<br>Wang Shijia, Sec 4E1<br>Lim Qian Tong, Sec 5A1<br>Liu Zhen, Sec 5A1<br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-pdeq">EBS Enterprise Deal Competition 2019</td>
-    <td class="tg-jxgv">Two winning teams (out of 3 participating teams)<br></td>
-  </tr>
-  <tr>
-    <td class="tg-pdeq">Crea8 Sustainability Competition 2019<br>(Infocomm Club – Digital Animation) <br></td>
-    <td class="tg-jxgv">1st Runner-up (Upper Sec Category)<br>2nd Runner-up (Lower Sec Category)</td>
-  </tr>
-  <tr>
-    <td class="tg-pdeq">University of New South Wales (UNSW) English Competition<br></td>
-    <td class="tg-jxgv">Secondary 2<br><br>1 Credit<br><br><br>Secondary 3 <br><br>1 Credit<br><br><br>Secondary 4<br><br>1 Merit<br>2 Credit<br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-pdeq">Republic Polytechnic<br>Hospitality Race 2019</td>
-    <td class="tg-33e1">Consolation Prize<br><br>Ho Chian Cee Caapri, Sec 3<br>Nur Shafiqa Leong, Sec 3<br> Arjun Jayakumar, Sec 3</td>
-  </tr>
-</tbody>
-</table> </p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-	
-	
-
-	
-
-<div class="yck-component">
-	<div class="regular-flow">
-		<div class="button-container">
-                    <a aria-label="Back to top" class="button" href="#achieve2020">Back to top</a>
-                </div>
-	</div>
-	</div>
-	
 <style>
     /* ==========================================================================
    1. Global Styles & Resets
    ========================================================================== */
 
-    :root {
-        --yck-text-line-height: 1.6em;
-        --yck-heading-line-height: 1.2em;
-        --yck-heading-letter-spacing: -0.02em;
-        --yck-spacing-unit: 1em;
-        --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
-        --yck-box-shadow1: 0 1px 2px rgba(0, 0, 0, 0.15);
-        --yck-inset-shadow1: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
-        --yck-inset-shadow2: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
-        --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
+:root {
+    --yck-text-line-height: 1.6em;
+    --yck-heading-line-height: 1.2em;
+    --yck-heading-letter-spacing: -0.02em;
+    --yck-spacing-unit: 1em;
+    --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+    --yck-box-shadow1: 0 1px 2px rgba(0, 0, 0, 0.15);
+    --yck-inset-shadow1: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    --yck-inset-shadow2: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+    --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
 
-        --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
-        --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
-        --yck-step-0: clamp(1.125rem, 1.125rem + 0vw, 1.125rem);
-        --yck-step-1: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem);
-        --yck-step-2: clamp(1.4238rem, 1.3556rem + 0.3412vw, 1.62rem);
-        --yck-step-3: clamp(1.6018rem, 1.4828rem + 0.5951vw, 1.944rem);
-        --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
-        --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
+    --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
+    --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
+    --yck-step-0: clamp(1.125rem, 1.125rem + 0vw, 1.125rem);
+    --yck-step-1: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem);
+    --yck-step-2: clamp(1.4238rem, 1.3556rem + 0.3412vw, 1.62rem);
+    --yck-step-3: clamp(1.6018rem, 1.4828rem + 0.5951vw, 1.944rem);
+    --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
+    --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
-        --yck-space-s-xl: clamp(1em, 0.2143em + 3.9286vw, 3.5em);
-        interpolate-size: allow-keywords;
-        scroll-behavior: smooth;
-        text-rendering: optimizeSpeed;
-    }
+    --yck-space-s-xl: clamp(1em, 0.2143em + 3.9286vw, 3.5em);
+    interpolate-size: allow-keywords;
+    scroll-behavior: smooth;
+    text-rendering: optimizeSpeed;
+}
 
-    body {
-        min-height: 100vh;
-    }
+body {
+    min-height: 100vh;
+}
 
-    ::selection {
-        text-shadow: none;
-        background: yellow;
-    }
+::selection {
+    text-shadow: none;
+    background: yellow;
+}
 
-    audio,
-    canvas,
-    iframe,
-    img,
-    svg,
-    video {
-        vertical-align: middle;
-    }
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+    vertical-align: middle;
+}
 
-    /* ==========================================================================
+/* ==========================================================================
    2. Base Typography
    ========================================================================== */
 
-    .yck-component {
-        line-height: var(--yck-text-line-height);
-        letter-spacing: normal;
-        font-size: var(--yck-step-0);
-        margin-bottom: var(--yck-space-s-xl);
-        position: relative;
-    }
+.yck-component {
+    line-height: var(--yck-text-line-height);
+    letter-spacing: normal;
+    font-size: var(--yck-step-0);
+    margin-bottom: var(--yck-space-s-xl);
+    position: relative;
+}
 
-    .yck-component h1,
-    .yck-component h2,
-    .yck-component h3,
-    .yck-component h4,
-    .yck-component h5,
-    .yck-component h6,
-    .yck-component p {
-        overflow-wrap: break-word;
-    }
+.yck-component h1,
+.yck-component h2,
+.yck-component h3,
+.yck-component h4,
+.yck-component h5,
+.yck-component h6,
+.yck-component p {
+    overflow-wrap: break-word;
+}
 
-    .yck-component h1,
-    .yck-component h2,
-    .yck-component h3,
-    .yck-component h4,
-    .yck-component h5,
-    .yck-component h6 {
-        text-wrap: balance;
-    }
+.yck-component h1,
+.yck-component h2,
+.yck-component h3,
+.yck-component h4,
+.yck-component h5,
+.yck-component h6 {
+    text-wrap: balance;
+}
 
-    .yck-component p,
-    .yck-component ol,
-    .yck-component ul {
-        text-wrap: pretty;
-        margin-bottom: var(--yck-spacing-unit);
-    }
+.yck-component p,
+.yck-component ol,
+.yck-component ul {
+    text-wrap: pretty;
+    margin-bottom: var(--yck-spacing-unit);
+}
 
-    .yck-component p:last-child,
-    .yck-component ul li:last-child,
-    .yck-component ol li:last-child {
-        margin-bottom: var(--yck-space-s-xl);
-    }
+.yck-component p:last-child,
+.yck-component ul li:last-child,
+.yck-component ol li:last-child {
+    margin-bottom: var(--yck-space-s-xl);
+}
 
-    .yck-component .yck-h1,
-    .yck-component h1 {
-        font-size: var(--yck-step-5);
-        margin-bottom: var(--yck-spacing-unit);
-        line-height: var(--yck-heading-line-height);
-        letter-spacing: var(--yck-heading-letter-spacing);
-    }
+.yck-component .yck-h1,
+.yck-component h1 {
+    font-size: var(--yck-step-5);
+    margin-bottom: var(--yck-spacing-unit);
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
 
-    .yck-component .yck-h2,
-    .yck-component h2 {
-        font-size: var(--yck-step-4);
-        margin-bottom: calc(var(--yck-spacing-unit) * 0.85);
-        text-transform: capitalize;
-        line-height: var(--yck-heading-line-height);
-        letter-spacing: var(--yck-heading-letter-spacing);
-    }
+.yck-component .yck-h2,
+.yck-component h2 {
+    font-size: var(--yck-step-4);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.85);
+    text-transform: capitalize;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
 
-    .yck-component .yck-h3,
-    .yck-component h3 {
-        font-size: var(--yck-step-3);
-        margin-bottom: calc(var(--yck-spacing-unit) * 0.75);
-        text-transform: capitalize;
-        line-height: var(--yck-heading-line-height);
-        letter-spacing: var(--yck-heading-letter-spacing);
-    }
+.yck-component .yck-h3,
+.yck-component h3 {
+    font-size: var(--yck-step-3);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.75);
+    text-transform: capitalize;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
 
-    .yck-component .yck-h4,
-    .yck-component h4 {
-        font-size: var(--yck-step-2);
-        margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
-        text-transform: capitalize;
-        line-height: var(--yck-heading-line-height);
-        letter-spacing: var(--yck-heading-letter-spacing);
-    }
+.yck-component .yck-h4,
+.yck-component h4 {
+    font-size: var(--yck-step-2);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+    text-transform: capitalize;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
 
-    .yck-component .yck-h5,
-    .yck-component h5 {
-        font-size: var(--yck-step-1);
-        margin-bottom: calc(var(--yck-spacing-unit) * 0.25);
-        text-transform: uppercase;
-        line-height: var(--yck-heading-line-height);
-        letter-spacing: var(--yck-heading-letter-spacing);
-    }
+.yck-component .yck-h5,
+.yck-component h5 {
+    font-size: var(--yck-step-1);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.25);
+    text-transform: uppercase;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
 
-    .yck-component .yck-h6,
-    .yck-component h6 {
-        font-size: var(--yck-step-0);
-        margin-bottom: var(--yck-spacing-unit);
-        text-transform: uppercase;
-        line-height: var(--yck-heading-line-height);
-        letter-spacing: var(--yck-heading-letter-spacing);
-    }
+.yck-component .yck-h6,
+.yck-component h6 {
+    font-size: var(--yck-step-0);
+    margin-bottom: var(--yck-spacing-unit);
+    text-transform: uppercase;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
 
-    .yck-component hr,
-    hr {
-        border: 1px dotted rgba(0, 0, 0, 0.25);
-        margin-block: clamp(1rem, 2vw, 2.5rem);
-    }
+.yck-component hr,
+hr {
+    border: 1px dotted rgba(0, 0, 0, 0.25);
+    margin-block: clamp(1rem, 2vw, 2.5rem);
+}
 
-    .yck-component small,
-    small {
-        font-size: var(--yck-step--2);
-        line-height: var(--yck-spacing-unit);
-    }
+.yck-component small,
+small {
+    font-size: var(--yck-step--2);
+    line-height: var(--yck-spacing-unit);
+}
 
-    .yck-component a {
-        text-decoration: none;
-        color: #e37f2a;
-    }
+.yck-component a {
+    text-decoration: none;
+    color: #e37f2a;
+}
 
-    .yck-component a.text-link {
-        position: relative;
-        padding-bottom: 2px;
-        text-decoration: none;
-    }
+.yck-component a.text-link {
+    position: relative;
+    padding-bottom: 2px;
+    text-decoration: none;
+}
 
-    .yck-component a.text-link::after {
-        content: " ";
-        position: absolute;
-        width: 0;
-        height: 2px;
-        bottom: 0;
-        left: 0;
-        background-color: currentColor;
-        transition:
-            width 1s cubic-bezier(0.25, 1, 0.5, 1),
-            color 1.2s ease-out;
-    }
+.yck-component a.text-link::after {
+    content: " ";
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: currentColor;
+    transition:
+        width 1s cubic-bezier(0.25, 1, 0.5, 1),
+        color 1.2s ease-out;
+}
 
-    .yck-component a.text-link:hover::after {
-        width: 100%;
-        color: rgba(0, 122, 247, 0.25);
-    }
+.yck-component a.text-link:hover::after {
+    width: 100%;
+    color: rgba(0, 122, 247, 0.25);
+}
 
-    .yck-component a[target="_blank"]:not(.text-link):after {
-        display: none;
-        margin: 0;
-        padding: 0;
-    }
+.yck-component a[target="_blank"]:not(.text-link):after {
+    display: none;
+    margin: 0;
+    padding: 0;
+}
 
-    .yck-component abbr {
-        text-decoration: underline dotted #2c6139;
-        text-decoration-thickness: 2px;
-        text-underline-offset: 3px;
-        color: #2c6139;
-        font-weight: 600;
-        cursor: help;
-    }
+.yck-component abbr {
+    text-decoration: underline dotted #2c6139;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+    color: #2c6139;
+    font-weight: 600;
+    cursor: help;
+}
 
-    .yck-component abbr:hover {
-        color: #4e835b;
-    }
+.yck-component abbr:hover {
+    color: #4e835b;
+}
 
-    .yck-component .dropcap-title {
-        font-size: var(--yck-step-1);
-        /* Base font size for the heading */
-        font-weight: normal;
-        margin-bottom: 0.5em;
-        color: #555;
-    }
+.yck-component .dropcap-title {
+    font-size: var(--yck-step-1);
+    /* Base font size for the heading */
+    font-weight: normal;
+    margin-bottom: 0.5em;
+    color: #555;
+}
 
-    /* This is the core magic for the dropcap */
-    .yck-component .dropcap-title::first-letter {
-        float: left;
-        font-size: calc(var(--yck-step-5)*1.65);
-        /* The size of the dropcap relative to the heading's font size */
-        font-weight: bold;
-        font-style: oblique;
-        font-family: cursive;
-        line-height: 0.9;
-        /* Pulls the rest of the text up vertically */
-        padding-right: 0.18em;
-        /* Adds a little space next to the letter */
-        color: #4e835b;
-        /* A distinct color for the dropcap */
-    }
+/* This is the core magic for the dropcap */
+.yck-component .dropcap-title::first-letter {
+    float: left;
+    font-size: calc(var(--yck-step-5)*1.65);
+    /* The size of the dropcap relative to the heading's font size */
+    font-weight: bold;
+    font-style: oblique;
+    font-family: cursive;
+    line-height: 0.9;
+    /* Pulls the rest of the text up vertically */
+    padding-right: 0.18em;
+    /* Adds a little space next to the letter */
+    color: #4e835b;
+    /* A distinct color for the dropcap */
+}
 
-    /* ==========================================================================
+/* ==========================================================================
    3. Layout Components
    ========================================================================== */
 
-    .yck-component .regular-flow>*+* {
-        margin-top: 1.125em;
-    }
+.yck-component .regular-flow>*+* {
+    margin-top: 1.125em;
+}
 
-    .yck-component .col-container,
-    .yck-component .col3-container {
-        width: 100%;
-        max-width: 1000px;
-        margin: 0 auto;
-        column-count: 2;
-        column-width: 360px;
-        column-gap: 1.5em;
-    }
+.yck-component .col-container,
+.yck-component .col3-container {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    column-count: 2;
+    column-width: 360px;
+    column-gap: 1.5em;
+}
 
-    .yck-component .col3-container {
-        columns: 3;
-        column-width: 240px;
-        column-gap: 1.5em;
-        column-rule-style: dotted;
-        column-rule-width: 0.5px;
-        column-rule-color: rgba(170, 170, 170, 0.25);
-    }
+.yck-component .col3-container {
+    columns: 3;
+    column-width: 240px;
+    column-gap: 1.5em;
+    column-rule-style: dotted;
+    column-rule-width: 0.5px;
+    column-rule-color: rgba(170, 170, 170, 0.25);
+}
 
-    /* --- Flexbox Grid System --- */
-    .yck-component .yck-flexbox-grid {
-        --yck-gap: 1em;
-        display: flex;
-        flex-wrap: wrap;
-        list-style: none;
-        gap: var(--yck-gap);
-        padding: 0;
-        margin-block: var(--yck-spacing-unit);
-    }
+/* --- Flexbox Grid System --- */
+.yck-component .yck-flexbox-grid {
+    --yck-gap: 1em;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: var(--yck-gap);
+    padding: 0;
+    margin-block: var(--yck-spacing-unit);
+}
 
-    .yck-component .yck-flexbox-grid>* {
-        flex-grow: 1;
-        flex-shrink: 0;
-        flex-basis: calc((100% - var(--yck-gap)) / 4);
-        min-width: calc((100% - var(--yck-gap)) / 2);
-        list-style: none;
-    }
+.yck-component .yck-flexbox-grid>* {
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: calc((100% - var(--yck-gap)) / 4);
+    min-width: calc((100% - var(--yck-gap)) / 2);
+    list-style: none;
+}
 
-    .yck-component .yck-img-array {
-        --yck-gap: 1.25rem;
-        display: flex;
-        flex-direction: row;
-        align-items: flex-start;
-        align-content: flex-start;
-        justify-content: flex-start;
-        flex-wrap: wrap;
-        list-style: none;
-        gap: var(--yck-gap);
-        padding: 0;
-        margin: 0;
-    }
+.yck-component .yck-img-array {
+    --yck-gap: 1.25rem;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    align-content: flex-start;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: var(--yck-gap);
+    padding: 0;
+    margin: 0;
+}
 
-    .yck-component .yck-img-array>* {
-        flex-grow: 1;
-        flex-shrink: 0;
-        flex-basis: calc((100% - var(--yck-gap)) / 6);
-        min-width: 240px;
-        list-style: none;
-    }
+.yck-component .yck-img-array>* {
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: calc((100% - var(--yck-gap)) / 6);
+    min-width: 240px;
+    list-style: none;
+}
 
-    .masonry-item {
-        break-inside: avoid;
-        margin-bottom: 1rem;
-        display: inline-block;
-        width: 100%;
-    }
+.masonry-item {
+    break-inside: avoid;
+    margin-bottom: 1rem;
+    display: inline-block;
+    width: 100%;
+}
 
-    .masonry-item img {
-        width: 100%;
-        height: auto;
-        display: block;
-    }
+.masonry-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
 
-    /* ==========================================================================
+/* ==========================================================================
    4. UI Components
    ========================================================================== */
 
-    /* --- Tables --- */
-    .yck-component .yck-table {
-        border-collapse: collapse;
-        width: 100%;
-        max-width: 1000px;
-        margin-top: 0.5em;
-        margin-bottom: var(--yck-spacing-unit);
-    }
-
-    .yck-component .yck-th {
-        background-color: #f2f2f2;
-        text-align: left;
-        border-bottom: 1px dotted #ddd;
-        text-transform: uppercase;
-        padding: calc(var(--yck-spacing-unit) * 0.75);
-        font-weight: bold;
-        font-size: var(--yck-step-0);
-        line-height: 1.4;
-        letter-spacing: 0.05em;
-        vertical-align: top;
-    }
-
-    .yck-component .yck-th h4,
-    .yck-component .yck-th h5,
-    .yck-component .yck-th h6 {
-        margin: 0 0 calc(var(--yck-spacing-unit) * 0.5) 0;
-        text-wrap: balance;
-        line-height: 1.3;
-    }
-
-    .yck-component .yck-td {
-        border-bottom: 1px dotted #ddd;
-        min-width: 120px;
-        max-width: 100%;
-        word-wrap: break-word;
-        text-wrap: pretty;
-        padding: calc(var(--yck-spacing-unit) * 0.75);
-        vertical-align: top;
-        font-size: var(--yck-step-0);
-        line-height: 1.5;
-    }
-
-    .yck-component .yck-td>*,
-    .yck-component .yck-td p,
-    .yck-component .yck-td ul,
-    .yck-component .yck-td ol {
-        margin-top: 0;
-        margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
-    }
-
-    .yck-component .yck-td ul,
-    .yck-component .yck-td ol {
-        padding-left: calc(var(--yck-spacing-unit) * 1.5);
-    }
-
-    .yck-component .yck-td li {
-        margin-bottom: calc(var(--yck-spacing-unit) * 0.25);
-        line-height: inherit;
-    }
-
-    .yck-component .yck-td>*:last-child,
-    .yck-component .yck-td>p:last-child,
-    .yck-component .yck-td>ul:last-child,
-    .yck-component .yck-td>ol:last-child {
-        margin-bottom: calc(var(--yck-spacing-unit) * 0.75);
-    }
-
-    .yck-component .yck-td ul:last-child li:last-child,
-    .yck-component .yck-td ol:last-child li:last-child {
-        margin-bottom: calc(var(--yck-spacing-unit) * 0.25);
-    }
-
-    .yck-component .yck-table tbody tr:last-child .yck-td>*:last-child {
-        margin-bottom: var(--yck-spacing-unit);
-    }
-
-    .yck-component .yck-table tbody tr:nth-child(even) {
-        background-color: #fafafa;
-    }
-
-    /* --- Video Containers --- */
-    .yck-component .video-container {
-        position: relative;
-        width: 100%;
-        padding-bottom: 56.25%;
-        height: 0;
-        overflow: hidden;
-        margin-bottom: var(--yck-spacing-unit);
-    }
-
-    .yck-component .video-container iframe,
-    .yck-component .video-container object,
-    .yck-component .video-container embed {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-    }
-
-    .yck-component .widescreentv {
-        aspect-ratio: 16/9;
-        width: 100%;
-    }
-
-    .yck-component .tallscreentv {
-        aspect-ratio: 9/16;
-        width: 100%;
-    }
-
-    .yck-component .sdtv {
-        aspect-ratio: 4/3;
-        width: 100%;
-    }
-
-    /* --- Isomer Cards --- */
-    .yck-component .isomer-card,
-    .yck-component .column {
-        break-inside: avoid;
-        page-break-inside: avoid;
-        padding: 20px;
-        border-radius: 5px;
-        box-shadow: var(--yck-box-shadow1);
-    }
-
-    .yck-component .column {
-        margin-bottom: var(--yck-spacing-unit);
-    }
-
-    .yck-component .column ul,
-    .yck-component .column ol {
-        list-style: none;
-        line-height: 1.5em;
-        margin: 0;
-        padding: 0;
-    }
-
-    .yck-component .column ul li {
-        margin-inline: 1em;
-        padding-left: 1rem;
-        border-bottom: 1px dotted rgba(0, 0, 0, 0.05);
-    }
-
-    .yck-component .isomer-card {
-        text-decoration: none;
-        margin: 0 auto;
-        padding: 0;
-        border: 1px solid rgba(224, 224, 224, 0.15);
-        border-radius: 8px;
-        overflow: hidden;
-        transition:
-            transform 0.8s var(--yck-transition-timing),
-            box-shadow 0.8s var(--yck-transition-timing),
-            background-color 0.5s ease;
-    }
-
-    .yck-component .isomer-card:hover {
-        transform: translateY(-5px);
-        box-shadow: var(--yck-box-shadow);
-    }
-
-    .yck-component .isomer-card:hover .isomer-card-body .isomer-card-link {
-        color: #e37f2a;
-    }
-
-    .yck-component .isomer-card:has(img) {
-        filter: brightness(100%);
-        background-color: #fff;
-        transition: filter 0.5s ease;
-    }
-
-    .yck-component .isomer-card:has(img):hover {
-        filter: brightness(90%);
-        background-color: #898989;
-    }
-
-    .yck-component .isomer-card .isomer-card-image {
-        width: 100%;
-        object-fit: cover;
-    }
-
-    .yck-component .isomer-card .isomer-card-body {
-        padding: var(--yck-spacing-unit);
-    }
-
-    .yck-component .isomer-card .isomer-card-body .isomer-card-title {
-        color: #4a4a4a;
-        font-weight: 700;
-        font-size: var(--yck-step-1);
-        overflow-wrap: break-word;
-        text-wrap: balance;
-    }
-
-    .yck-component .isomer-card .isomer-card-body .isomer-card-description {
-        color: #484848;
-        font-size: var(--yck-step-0);
-    }
-
-    .yck-component .isomer-card .isomer-card-body .isomer-card-link {
-        font-size: var(--yck-step-0);
-        text-decoration: underline;
-        color: #e37f2a;
-        display: inline-block;
-        margin-top: 0.5rem;
-    }
-
-    .yck-component .isomer-card .isomer-card-body .isomer-card-title:has(+ .isomer-card-description) {
-        margin-bottom: 0.75rem;
-    }
-
-    .yck-component .isomer-card .isomer-card-body .isomer-card-title:has(+ .isomer-card-link),
-    .yck-component .isomer-card .isomer-card-body .isomer-card-description:has(+ .isomer-card-link) {
-        margin-bottom: 1rem;
-    }
-
-    /* --- Blockquotes & Figures --- */
-    .yck-component blockquote {
-        position: relative;
-        padding: 25px 35px;
-        background-color: white;
-        border-radius: 5px;
-        box-shadow: var(--yck-box-shadow);
-        margin-left: 0;
-        margin-right: 0;
-    }
-
-    .yck-component blockquote>p,
-    .yck-component blockquote>div {
-        color: #ff6b6b;
-        font-style: italic;
-        font-size: var(--yck-step-1);
-        line-height: 1.5;
-        margin: 0;
-    }
-
-    .yck-component blockquote::before {
-        content: '"';
-        position: absolute;
-        top: 25px;
-        left: 10px;
-        color: #ff6b6b;
-        font-size: 60px;
-        font-family: Georgia, serif;
-        opacity: 0.3;
-    }
-
-    .yck-component cite {
-        display: block;
-        margin-top: var(--yck-spacing-unit);
-        font-size: var(--yck-step--1);
-        font-style: italic;
-        color: #555;
-        text-align: right;
-    }
-
-    .yck-component figure,
-    .yck-component .figure {
-        display: flex;
-        flex-flow: column;
-        max-width: 100%;
-        margin: 0;
-        padding: 0;
-    }
-
-    .yck-component figure img,
-    .yck-component .figure img {
-        border-radius: 8px;
-        box-shadow: var(--yck-box-shadow);
-        margin-bottom: var(--yck-spacing-unit);
-    }
-
-    .yck-component figcaption {
-        background-color: rgba(255, 255, 255, 0.75);
-        color: #333;
-        font: italic var(--yck-step--1) sans-serif;
-        margin: 0;
-        padding: 5px;
-        text-align: center;
-    }
-
-    /* --- Org Chart --- */
-    .yck-component .orgchart {
-        display: flex;
-        flex-direction: column;
-        align-items: flex-start;
-        width: 100%;
-        max-width: 1000px;
-        margin: 0 auto;
-        padding: 0;
-    }
-
-    .yck-component .section-title {
-        font-size: var(--yck-step-3);
-        font-weight: bold;
-        margin-top: 30px;
-        margin-bottom: var(--yck-spacing-unit);
-        color: #222;
-        border-bottom: 3px solid #555;
-        padding-bottom: 8px;
-        width: 100%;
-        text-align: left;
-    }
-
-    .yck-component .person-container {
-        display: flex;
-        flex-direction: column;
-        justify-content: flex-start;
-        flex-wrap: wrap;
-        width: 100%;
-        margin-bottom: var(--yck-space-s-xl);
-        position: relative;
-    }
-
-    .yck-component .person {
-        border-radius: 6px;
-        padding: 10px 15px;
-        margin: 10px;
-        text-align: left;
-        min-width: 200px;
-        box-shadow: var(--yck-box-shadow);
-        flex-grow: 0;
-        flex-shrink: 0;
-        flex-basis: calc(25% - 10px);
-    }
-
-    .yck-component .person-email {
-        font-size: var(--yck-step--1);
-        font-weight: normal;
-        margin-inline-start: calc(var(--yck-space-s-xl) * 2);
-        margin-bottom: var(--yck-spacing-unit);
-        color: #333;
-    }
-
-    .yck-component .person-name {
-        font-size: var(--yck-step-0);
-        font-weight: normal;
-        color: #333;
-    }
-
-    .yck-component .person-title {
-        font-size: var(--yck-step-1);
-        color: #555;
-    }
-
-    /* --- Details/Summary (Accordion) --- */
-    .yck-component details {
-        overflow: hidden;
-    }
-
-    .yck-component details * {
-        margin: 0 !important;
-    }
-
-    .yck-component details>p,
-    .yck-component details ul,
-    .yck-component details div {
-        animation: fade-in 1s ease-out;
-        padding-top: calc(var(--yck-spacing-unit) * 0.5);
-    }
-
-    .yck-component summary {
-        margin-inline-start: 1.5rem;
-        padding: 1rem;
-        list-style-position: outside;
-        cursor: pointer;
-        user-select: none;
-        outline: none;
-        font-size: var(--yck-step-1);
-        font-weight: 500;
-        border-radius: 10px;
-        transition: box-shadow 0.3s ease-in-out;
-    }
-
-    .yck-component summary:hover {
-        box-shadow: var(--yck-inset-shadow2);
-    }
-
-    .yck-component summary::marker {
-        font-size: var(--yck-step-2);
-    }
-
-    .yck-component summary::after {
-        content: "+";
-        position: absolute;
-        font-size: var(--yck-step-2);
-        right: 1rem;
-        top: 1.25em;
-        transform: translateY(-50%) rotate(0deg);
-        transition: transform 0.5s ease-in-out;
-    }
-
-    .yck-component details[open]>summary::after {
-        transform: translateY(-50%) rotate(135deg);
-        /* Rotates the icon 90 degrees */
-    }
-
-    .yck-component details::details-content {
-        font-size: var(--yck-step-0);
-        padding-left: 1.5rem;
-        padding-right: var(--yck-space-s-xl);
-        block-size: 0;
-        transition:
-            block-size 1s ease,
-            content-visibility 1s ease;
-        transition-behavior: allow-discrete;
-    }
-
-    .yck-component details[open]::details-content {
-        block-size: auto;
-    }
-
-    .yck-component details>*:not(summary) {
-        padding: 0.5rem 1rem 1rem 2rem;
-        animation: fade-in 1s ease 1s;
-        animation-fill-mode: both;
-    }
-
-    /* --- Integrated Navigation Bar Styles --- */
-    .yck-component .yck-nav-bar>* {
-        margin: 0;
-        padding: 0;
-    }
-
-    .yck-component .yck-nav-bar ul {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-        list-style: none;
-        background-color: #ffffff;
-        border-radius: 0.75rem;
-        box-shadow: var(--yck-inset-shadow2);
-
-        justify-content: start;
-        align-content: start;
-        justify-items: center;
-        align-items: start;
-    }
-
-    .yck-component .yck-nav-bar a {
-        display: block;
-        text-decoration: none;
-        font-family: sans-serif;
-        font-weight: 500;
-        font-size: var(--yck-step-0);
-        transition: all 0.3s var(--yck-transition-timing);
-        margin: calc(var(--yck-spacing-unit) * 0.1);
-        padding: 1rem;
-        border-radius: 0.5rem;
-        text-align: center;
-        text-wrap: balance;
-        overflow-wrap: break-word;
-        color: #4a5568;
-        position: relative;
-    }
-
-    .yck-component .yck-nav-bar a::after {
-        content: '';
-        position: absolute;
-        width: 0;
-        height: 2px;
-        bottom: 10px;
-        left: 50%;
-        transform: translateX(-50%);
-        background-color: #4299e1;
-        /* Added background-color to the transition for the color fade effect */
-        transition: width 0.7s var(--yck-transition-timing), background-color 0.7s var(--yck-transition-timing);
-    }
-
-
-    .yck-component .yck-nav-bar a.active {
-        color: #2b6cb0;
-    }
-
-    .yck-component .yck-nav-bar a.active::after {
-        width: 60%;
-        background-color: #4299e1;
-    }
-
-
-    .yck-component .yck-nav-bar a:hover {
-        color: #e37f2a;
-    }
-
-    .yck-component .yck-nav-bar a:hover::after {
-        background-color: #e37f2a;
-        width: 60%;
-    }
-
-
-
-    /* --- Buttons --- */
-    .yck-component .button-container {
-        margin: 0;
-        padding: 0;
-        display: flex;
-        text-align: center;
-        width: 100%;
-        justify-content: flex-end;
-        align-items: flex-end;
-    }
-
-    .yck-component .button {
-        background-color: #e37f2a;
-        color: #fff;
-        font-size: var(--yck-step-0);
-        font-weight: 900;
-        margin: 1rem;
-        padding: 0.65rem;
-        border-radius: 50px;
-        box-shadow:
-            0 10px 15px -3px rgba(0, 0, 0, 0.15),
-            0 4px 6px -2px rgba(0, 0, 0, 0.05);
-        transition: all 0.35s ease-in-out;
-        border: none;
-        cursor: pointer;
-        text-decoration: none;
-        display: inline-block;
-    }
-
-    .yck-component .button:hover {
-        text-decoration: none;
-        background-color: #fabe64;
-        color: #fff;
-        box-shadow:
-            0 20px 25px -6px rgba(0, 0, 0, 0.12),
-            0 10px 10px -5px rgba(0, 0, 0, 0.04);
-        transform: scale(1.05);
-    }
-
-    .yck-component .button:focus {
-        outline: none;
-        box-shadow: 0 0 0 4px rgba(250, 190, 60, 0.5);
-    }
-
-    .yck-component .truncate {
-        display: block;
-        white-space: nowrap;
-        overflow: hidden;
-        text-overflow: ellipsis;
-    }
-
-    /* --- Backdrop --- */
-    .yck-component .backdrop {
-        position: absolute;
-        inset: 0;
-        height: 200%;
-        border-radius: 4px;
-        background: hsl(0deg 0% 100% / 0.1);
-        pointer-events: none;
-        backdrop-filter: blur(16px);
-        mask-image: linear-gradient(to bottom,
-            black 0,
-            black 50%,
-            transparent 50%);
-    }
-
-    .yck-component .backdrop-edge {
-        --thickness: 6px;
-        position: absolute;
-        inset: 0;
-        height: 100%;
-        transform: translateY(100%);
-        background: hsl(0deg 0% 100% / 0.1);
-        backdrop-filter: blur(8px) brightness(120%);
-        pointer-events: none;
-        mask-image: linear-gradient(to bottom,
-            black 0,
-            black var(--thickness),
-            transparent var(--thickness));
-    }
-
-    /* ==========================================================================
+/* --- Tables --- */
+.yck-component .yck-table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 1000px;
+    margin-top: 0.5em;
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component .yck-th {
+    background-color: #f2f2f2;
+    text-align: left;
+    border-bottom: 1px dotted #ddd;
+    text-transform: uppercase;
+    padding: calc(var(--yck-spacing-unit) * 0.75);
+    font-weight: bold;
+    font-size: var(--yck-step-0);
+    line-height: 1.4;
+    letter-spacing: 0.05em;
+    vertical-align: top;
+}
+
+.yck-component .yck-th h4,
+.yck-component .yck-th h5,
+.yck-component .yck-th h6 {
+    margin: 0 0 calc(var(--yck-spacing-unit) * 0.5) 0;
+    text-wrap: balance;
+    line-height: 1.3;
+}
+
+.yck-component .yck-td {
+    border-bottom: 1px dotted #ddd;
+    min-width: 120px;
+    max-width: 100%;
+    word-wrap: break-word;
+    text-wrap: pretty;
+    padding: calc(var(--yck-spacing-unit) * 0.75);
+    vertical-align: top;
+    font-size: var(--yck-step-0);
+    line-height: 1.5;
+}
+
+.yck-component .yck-td>*,
+.yck-component .yck-td p,
+.yck-component .yck-td ul,
+.yck-component .yck-td ol {
+    margin-top: 0;
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+}
+
+.yck-component .yck-td ul,
+.yck-component .yck-td ol {
+    padding-left: calc(var(--yck-spacing-unit) * 1.5);
+}
+
+.yck-component .yck-td li {
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.25);
+    line-height: inherit;
+}
+
+.yck-component .yck-td>*:last-child,
+.yck-component .yck-td>p:last-child,
+.yck-component .yck-td>ul:last-child,
+.yck-component .yck-td>ol:last-child {
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.75);
+}
+
+.yck-component .yck-td ul:last-child li:last-child,
+.yck-component .yck-td ol:last-child li:last-child {
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.25);
+}
+
+.yck-component .yck-table tbody tr:last-child .yck-td>*:last-child {
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component .yck-table tbody tr:nth-child(even) {
+    background-color: #fafafa;
+}
+
+/* --- Video Containers --- */
+.yck-component .video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component .video-container iframe,
+.yck-component .video-container object,
+.yck-component .video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.yck-component .widescreentv {
+    aspect-ratio: 16/9;
+    width: 100%;
+}
+
+.yck-component .tallscreentv {
+    aspect-ratio: 9/16;
+    width: 100%;
+}
+
+.yck-component .sdtv {
+    aspect-ratio: 4/3;
+    width: 100%;
+}
+
+/* --- Isomer Cards --- */
+.yck-component .isomer-card,
+.yck-component .column {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: var(--yck-box-shadow1);
+}
+
+.yck-component .column {
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component .column ul,
+.yck-component .column ol {
+    list-style: none;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0;
+}
+
+.yck-component .column ul li {
+    margin-inline: 1em;
+    padding-left: 1rem;
+    border-bottom: 1px dotted rgba(0, 0, 0, 0.05);
+}
+
+.yck-component .isomer-card {
+    text-decoration: none;
+    margin: 0 auto;
+    padding: 0;
+    border: 1px solid rgba(224, 224, 224, 0.15);
+    border-radius: 8px;
+    overflow: hidden;
+    transition:
+        transform 0.8s var(--yck-transition-timing),
+        box-shadow 0.8s var(--yck-transition-timing),
+        background-color 0.5s ease;
+}
+
+.yck-component .isomer-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--yck-box-shadow);
+}
+
+.yck-component .isomer-card:hover .isomer-card-body .isomer-card-link {
+    color: #e37f2a;
+}
+
+.yck-component .isomer-card:has(img) {
+    filter: brightness(100%);
+    background-color: #fff;
+    transition: filter 0.5s ease;
+}
+
+.yck-component .isomer-card:has(img):hover {
+    filter: brightness(90%);
+    background-color: #898989;
+}
+
+.yck-component .isomer-card .isomer-card-image {
+    width: 100%;
+    object-fit: cover;
+}
+
+.yck-component .isomer-card .isomer-card-body {
+    padding: var(--yck-spacing-unit);
+}
+
+.yck-component .isomer-card .isomer-card-body .isomer-card-title {
+    color: #4a4a4a;
+    font-weight: 700;
+    font-size: var(--yck-step-1);
+    overflow-wrap: break-word;
+    text-wrap: balance;
+}
+
+.yck-component .isomer-card .isomer-card-body .isomer-card-description {
+    color: #484848;
+    font-size: var(--yck-step-0);
+}
+
+.yck-component .isomer-card .isomer-card-body .isomer-card-link {
+    font-size: var(--yck-step-0);
+    text-decoration: underline;
+    color: #e37f2a;
+    display: inline-block;
+    margin-top: 0.5rem;
+}
+
+.yck-component .isomer-card .isomer-card-body .isomer-card-title:has(+ .isomer-card-description) {
+    margin-bottom: 0.75rem;
+}
+
+.yck-component .isomer-card .isomer-card-body .isomer-card-title:has(+ .isomer-card-link),
+.yck-component .isomer-card .isomer-card-body .isomer-card-description:has(+ .isomer-card-link) {
+    margin-bottom: 1rem;
+}
+
+/* --- Blockquotes & Figures --- */
+.yck-component blockquote {
+    position: relative;
+    padding: 25px 35px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: var(--yck-box-shadow);
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.yck-component blockquote>p,
+.yck-component blockquote>div {
+    color: #ff6b6b;
+    font-style: italic;
+    font-size: var(--yck-step-1);
+    line-height: 1.5;
+    margin: 0;
+}
+
+.yck-component blockquote::before {
+    content: '"';
+    position: absolute;
+    top: 25px;
+    left: 10px;
+    color: #ff6b6b;
+    font-size: 60px;
+    font-family: Georgia, serif;
+    opacity: 0.3;
+}
+
+.yck-component cite {
+    display: block;
+    margin-top: var(--yck-spacing-unit);
+    font-size: var(--yck-step--1);
+    font-style: italic;
+    color: #555;
+    text-align: right;
+}
+
+.yck-component figure,
+.yck-component .figure {
+    display: flex;
+    flex-flow: column;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.yck-component figure img,
+.yck-component .figure img {
+    border-radius: 8px;
+    box-shadow: var(--yck-box-shadow);
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component figcaption {
+    background-color: rgba(255, 255, 255, 0.75);
+    color: #333;
+    font: italic var(--yck-step--1) sans-serif;
+    margin: 0;
+    padding: 5px;
+    text-align: center;
+}
+
+/* --- Org Chart --- */
+.yck-component .orgchart {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.yck-component .section-title {
+    font-size: var(--yck-step-3);
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: var(--yck-spacing-unit);
+    color: #222;
+    border-bottom: 3px solid #555;
+    padding-bottom: 8px;
+    width: 100%;
+    text-align: left;
+}
+
+.yck-component .person-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: var(--yck-space-s-xl);
+    position: relative;
+}
+
+.yck-component .person {
+    border-radius: 6px;
+    padding: 10px 15px;
+    margin: 10px;
+    text-align: left;
+    min-width: 200px;
+    box-shadow: var(--yck-box-shadow);
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: calc(25% - 10px);
+}
+
+.yck-component .person-email {
+    font-size: var(--yck-step--1);
+    font-weight: normal;
+    margin-inline-start: calc(var(--yck-space-s-xl) * 2);
+    margin-bottom: var(--yck-spacing-unit);
+    color: #333;
+}
+
+.yck-component .person-name {
+    font-size: var(--yck-step-0);
+    font-weight: normal;
+    color: #333;
+}
+
+.yck-component .person-title {
+    font-size: var(--yck-step-1);
+    color: #555;
+}
+
+/* --- Details/Summary (Accordion) --- */
+.yck-component details {
+    overflow: hidden;
+}
+
+.yck-component details * {
+    margin: 0 !important;
+}
+
+.yck-component details>p,
+.yck-component details ul,
+.yck-component details div {
+    animation: fade-in 1s ease-out;
+    padding-top: calc(var(--yck-spacing-unit) * 0.5);
+}
+
+.yck-component summary {
+    margin-inline-start: 1.5rem;
+    padding: 1rem;
+    list-style-position: outside;
+    cursor: pointer;
+    user-select: none;
+    outline: none;
+    font-size: var(--yck-step-1);
+    font-weight: 500;
+    border-radius: 10px;
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.yck-component summary:hover {
+    box-shadow: var(--yck-inset-shadow2);
+}
+
+.yck-component summary::marker {
+    font-size: var(--yck-step-2);
+}
+.yck-component summary::after {
+    content: "+";
+    position: absolute;
+    font-size: var(--yck-step-2);
+    right: 1rem;
+    top: 1.25em;
+    transform: translateY(-50%) rotate(0deg); 
+    transition: transform 0.5s ease-in-out;
+}
+
+.yck-component details[open] > summary::after {
+    transform: translateY(-50%) rotate(135deg); /* Rotates the icon 90 degrees */
+}
+
+.yck-component details::details-content {
+    font-size: var(--yck-step-0);
+    padding-left: 1.5rem;
+    padding-right: var(--yck-space-s-xl);
+    block-size: 0;
+    transition:
+        block-size 1s ease,
+        content-visibility 1s ease;
+    transition-behavior: allow-discrete;
+}
+
+.yck-component details[open]::details-content {
+    block-size: auto;
+}
+
+.yck-component details>*:not(summary) {
+    padding: 0.5rem 1rem 1rem 2rem;
+    animation: fade-in 1s ease 1s;
+    animation-fill-mode: both;
+}
+
+/* --- Integrated Navigation Bar Styles --- */
+.yck-component .yck-nav-bar>* {
+    margin: 0;
+    padding: 0;
+}
+
+.yck-component .yck-nav-bar ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    list-style: none;
+    background-color: #ffffff;
+    border-radius: 0.75rem;
+    box-shadow: var(--yck-inset-shadow2);
+    
+    justify-content: start;
+    align-content: start;
+    justify-items: center;
+      align-items: start;
+}
+
+.yck-component .yck-nav-bar a {
+    display: block;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: var(--yck-step-0);
+    transition: all 0.3s var(--yck-transition-timing);
+    margin: calc(var(--yck-spacing-unit) * 0.1);
+    padding: 1rem;
+    border-radius: 0.5rem;
+    text-align: center;
+    text-wrap: balance;
+    overflow-wrap: break-word;
+    color: #4a5568;
+    position: relative;
+}
+
+.yck-component .yck-nav-bar a::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #4299e1;
+    /* Added background-color to the transition for the color fade effect */
+    transition: width 0.7s var(--yck-transition-timing), background-color 0.7s var(--yck-transition-timing);
+}
+
+
+.yck-component .yck-nav-bar a.active {
+    color: #2b6cb0;
+}
+
+.yck-component .yck-nav-bar a.active::after {
+    width: 60%;
+    background-color: #4299e1;
+}
+
+
+.yck-component .yck-nav-bar a:hover {
+    color: #e37f2a;
+}
+
+.yck-component .yck-nav-bar a:hover::after {
+    background-color: #e37f2a;
+    width: 60%;
+}
+
+
+
+/* --- Buttons --- */
+.yck-component .button-container {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    text-align: center;
+    width: 100%;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.yck-component .button {
+    background-color: #e37f2a;
+    color: #fff;
+    font-size: var(--yck-step-0);
+    font-weight: 900;
+    margin: 1rem;
+    padding: 0.65rem;
+    border-radius: 50px;
+    box-shadow:
+        0 10px 15px -3px rgba(0, 0, 0, 0.15),
+        0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    transition: all 0.35s ease-in-out;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.yck-component .button:hover {
+    text-decoration: none;
+    background-color: #fabe64;
+    color: #fff;
+    box-shadow:
+        0 20px 25px -6px rgba(0, 0, 0, 0.12),
+        0 10px 10px -5px rgba(0, 0, 0, 0.04);
+    transform: scale(1.05);
+}
+
+.yck-component .button:focus {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(250, 190, 60, 0.5);
+}
+
+.yck-component .truncate {
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* --- Backdrop --- */
+.yck-component .backdrop {
+    position: absolute;
+    inset: 0;
+    height: 200%;
+    border-radius: 4px;
+    background: hsl(0deg 0% 100% / 0.1);
+    pointer-events: none;
+    backdrop-filter: blur(16px);
+    mask-image: linear-gradient(to bottom,
+        black 0,
+        black 50%,
+        transparent 50%);
+}
+
+.yck-component .backdrop-edge {
+    --thickness: 6px;
+    position: absolute;
+    inset: 0;
+    height: 100%;
+    transform: translateY(100%);
+    background: hsl(0deg 0% 100% / 0.1);
+    backdrop-filter: blur(8px) brightness(120%);
+    pointer-events: none;
+    mask-image: linear-gradient(to bottom,
+        black 0,
+        black var(--thickness),
+        transparent var(--thickness));
+}
+
+/* ==========================================================================
    5. Animations & Transitions
    ========================================================================== */
 
-    .ken-burns-container {
-        max-width: 100%;
-        overflow: hidden;
-        position: relative;
-        border-radius: 8px;
+.ken-burns-container {
+    max-width: 100%;
+    overflow: hidden;
+    position: relative;
+    border-radius: 8px;
+}
+
+.ken-burns-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    animation: kenBurns 35s ease-in-out infinite alternate;
+}
+
+.fade-in {
+    animation: fade-in 1s ease-in-out both;
+}
+
+@keyframes kenBurns {
+    from {
+        transform: scale(1);
     }
 
-    .ken-burns-image {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-        animation: kenBurns 35s ease-in-out infinite alternate;
+    to {
+        transform: scale(1.35);
+    }
+}
+
+@-webkit-keyframes fade-in {
+    0% {
+        opacity: 0;
     }
 
-    .fade-in {
-        animation: fade-in 1s ease-in-out both;
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fade-in {
+    0% {
+        opacity: 0;
     }
 
-    @keyframes kenBurns {
-        from {
-            transform: scale(1);
-        }
+    100% {
+        opacity: 1;
+    }
+}
 
-        to {
-            transform: scale(1.35);
-        }
+@-webkit-keyframes fade-out {
+    0% {
+        opacity: 1;
     }
 
-    @-webkit-keyframes fade-in {
-        0% {
-            opacity: 0;
-        }
+    100% {
+        opacity: 0;
+    }
+}
 
-        100% {
-            opacity: 1;
-        }
+@keyframes fade-out {
+    0% {
+        opacity: 1;
     }
 
-    @keyframes fade-in {
-        0% {
-            opacity: 0;
-        }
+    100% {
+        opacity: 0;
+    }
+}
 
-        100% {
-            opacity: 1;
-        }
+@keyframes fade-in-bottom {
+    from {
+        opacity: 0;
+        transform: translateY(10vh);
     }
 
-    @-webkit-keyframes fade-out {
-        0% {
-            opacity: 1;
-        }
-
-        100% {
-            opacity: 0;
-        }
+    to {
+        opacity: 1;
+        transform: translateY(0);
     }
+}
 
-    @keyframes fade-out {
-        0% {
-            opacity: 1;
-        }
-
-        100% {
-            opacity: 0;
-        }
-    }
-
-    @keyframes fade-in-bottom {
-        from {
-            opacity: 0;
-            transform: translateY(10vh);
-        }
-
-        to {
-            opacity: 1;
-            transform: translateY(0);
-        }
-    }
-
-    /* ==========================================================================
+/* ==========================================================================
    6. Accessibility & Media Queries
    ========================================================================== */
 
-    @media (max-width: 1000px) {
-        .yck-component .yck-flexbox-grid>* {
-            flex-basis: 100%;
-        }
+@media (max-width: 1000px) {
+    .yck-component .yck-flexbox-grid>* {
+        flex-basis: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    .yck-component .yck-table {
+        font-size: calc(var(--yck-step-0) * 0.9);
     }
 
-    @media (max-width: 768px) {
-        .yck-component .yck-table {
-            font-size: calc(var(--yck-step-0) * 0.9);
-        }
-
-        .yck-component .yck-th,
-        .yck-component .yck-td {
-            padding: calc(var(--yck-spacing-unit) * 0.5);
-        }
+    .yck-component .yck-th,
+    .yck-component .yck-td {
+        padding: calc(var(--yck-spacing-unit) * 0.5);
     }
+}
 
-    @media (max-width: 600px) {
-        .yck-component .yck-flex-grid>* {
-            flex-basis: auto;
-        }
+@media (max-width: 600px) {
+    .yck-component .yck-flex-grid>* {
+        flex-basis: auto;
     }
+}
 
-    @media (prefers-reduced-motion: reduce) {
-        * {
-            animation-duration: 0.01ms !important;
-            animation-iteration-count: 1 !important;
-            transition-duration: 0.01ms !important;
-            scroll-behavior: auto !important;
-        }
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
     }
+}
 
-    @supports (content-visibility: auto) {
-        details {
-            content-visibility: auto;
-        }
+@supports (content-visibility: auto) {
+    details {
+        content-visibility: auto;
     }
+}
 
-    @supports (animation-timeline: view()) {
+@supports (animation-timeline: view()) {
 
-        .yck-component .col-container,
-        .yck-component .col3-container,
-        .yck-component .isomer-card-grid {
-            animation: fade-in-bottom ease both;
-            animation-timeline: view();
-            animation-range: entry 25% cover 50%;
-        }
+    .yck-component .col-container,
+    .yck-component .col3-container,
+    .yck-component .isomer-card-grid {
+        animation: fade-in-bottom ease both;
+        animation-timeline: view();
+        animation-range: entry 25% cover 50%;
     }
- </style>
+}
+</style></div>
