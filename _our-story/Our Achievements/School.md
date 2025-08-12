@@ -727,9 +727,9 @@ variant: markdown
             <div class="button-container">
                 <a aria-label="Back to top" class="button" href="#achieve2021">Back to top</a>
             </div>
-    </details></div>
-    
-    <hr>
+    </details>
+	</div>
+ <hr>
     <div class="yck-component">
         <div class="regular-flow">
             <details name="achievements">
