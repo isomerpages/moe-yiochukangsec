@@ -91,7 +91,8 @@ variant: markdown
 </details>
 
 <details><summary>EMOTIONAL</summary>
-
+<div class="yck-component">
+	<div class="regular-flow">
 <h3>Monthly Theme Dressing</h3>
 
 <p>Monthly Theme Dressing helps to bond staff and to commemorate certain events such as World Water Day, Earth Day...etc: The themes so far have been:-</p>
@@ -142,6 +143,8 @@ variant: markdown
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E10.png">
 
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E11.jpg">
+	</div>
+	</div>
 
 
 </details>
