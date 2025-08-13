@@ -1226,11 +1226,12 @@ small {
 </style>
 <div class="yck-component">
     <nav class="yck-nav-bar">
-			  <h6><a href="#School-Leaders">SCHOOL LEADERS</a></h6>
-<h6><a href="#Key-Personnel">KEY PERSONNEL</a></h6>
-<h6><a href="#Teaching-Staff">TEACHING STAFF</a></h6>
-<h6><a href="#Non-teaching-Staff">NON-TEACHING STAFF</a></h6>
-
+			  <ul>
+    <li><a href="#School-Leaders">SCHOOL LEADERS</a></li>
+    <li><a href="#Key-Personnel">KEY PERSONNEL</a></li>
+    <li><a href="#Teaching-Staff">TEACHING STAFF</a></li>
+    <li><a href="#Non-teaching-Staff">NON-TEACHING STAFF</a></li>
+</ul>
    </nav>
 </div>
 <div class="wrapper">
