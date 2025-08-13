@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Non Academic Programmes
 variant: markdown
 ---
-<div class="yck-component">
+<div class="yck-component" id="top">
     <p>The CCA Programme provides our students with a platform to discover their interests and talents. Students will progressively develop CCA-specific knowledge, skills, values and attitudes through sustained participation CCA.&nbsp; Explore the following tabs to learn more.</p>
 </div>
 <div class="yck-component">
@@ -122,6 +122,11 @@ variant: markdown
 <div class="yck-component">
     <p>For more information on <abbr title="Leadership, Enrichment, Achievement, Participation and Service">LEAPS 2.0</abbr>, please refer to the following website: <a class="text-link" target="_blank" href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0">LEAPS 2.0</a></p>
 </div>
+<div class="yck-component">
+                            <div class="button-container">
+                                <a href="#top" class="button">Back to Top</a>
+                            </div>
+                        </div>
 
 <style>
 /* ==========================================================================
