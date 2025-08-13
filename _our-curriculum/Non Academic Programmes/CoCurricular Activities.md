@@ -87,6 +87,11 @@ variant: markdown
     </ul>
 </div>
 <div class="yck-component">
+                            <div class="button-container">
+                                <a href="#top" class="button">Back to Top</a>
+                            </div>
+                        </div>
+<div class="yck-component">
     <h4 class="yck-h4">CCA Stand Down for Exams</h4>
     <p>In general, CCAs will stand down 2 weeks before the start of examinations. If there are CCAs still in competitions or completing badge work in UGs, they will stand down immediately after the last day of competition. CCAs will resume after the last day of exams.</p>
     <h4 class="yck-h4">Recognition of Students’ Level of Attainment</h4>
