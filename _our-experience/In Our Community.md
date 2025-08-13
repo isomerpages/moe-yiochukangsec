@@ -17,20 +17,20 @@ variant: markdown
 <p>To find out more details of each activity, please visit our <a class="text-link" href="https://www.facebook.com/yiochukangsec">YCKSS Facebook Page</a> and <a target="_blank" class="text-link" href="https://www.instagram.com/yiochukang_sec/">Instagram Posts</a> for the latest updates.
 </p></div>
 	</div>
+	<hr>
 
 
 
 
 
-<ul class="jekyllcodex\_accordion"><li><input type="checkbox" id="accordion1"><div class="yck-component">
+<div class="yck-component">
+	<div class="regular-flow">
     <h2>National Day Parade 2023 - Onward as One</h2>
     <div class="video-container">
         <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/HR4seEKIgT4?si=7OypyE9IaxbGQ0ap" height="315" width="560"></iframe>
     </div>
     <p>Yio Chu Kang Secondary School was invited to perform in 2023 National Day Parade (NDP) Act 4 – Onward as One with Kuo Chuan Presbyterian Secondary School, CHIJ St Theresa’s Convent and Nanyang Girls’ High School. Leading up to NDP, students engaged in a series of activities, from intense weekly training sessions in school, evening performances at the Padang to learning journey and bonding sessions with participants of the other 3 schools.</p>
-</div>
-<div class="yck-component">
-    <figure>
+ <figure>
         <img alt="Group photo of students and teachers participating in NDP 2023 seated in a ballroom" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/NDP/yckss_at_ndp_2023_02.jpeg">
     </figure>
     <p>Participating in the National Day Parade (NDP) as a school was an unforgettable and pride-filled experience. The atmosphere was electrifying as students from various schools came together, adorned in the red-white costume for on 9 August. As the students danced in unison to the NDP 23 Theme song, “Shine Your Light”, they signified the light that would lead us ahead into the future. The camaraderie and sense of unity among schools created a powerful sense of national identity and belonging.</p>
@@ -39,8 +39,10 @@ variant: markdown
     </figure>
     <p>The NDP experience not only instils a deeper appreciation for the nation but also offers students an opportunity to forge lasting friendships and unforgettable memories as we come together to celebrate their shared identity as citizens of the nation.</p>
 </div>
+	</div>
 <hr>
 <div class="yck-component">
+	<div class="regular-flow">
 <div style="margin-top: 3em" class="card">
             <div style="text-align: center" class="card-body">
                 <h3 class="card-title">Young &amp; Garang Cheer</h3>
@@ -55,11 +57,16 @@ variant: markdown
             </div>
         </div>
 	</div>
-<div class="yck-component">	
-<input type="checkbox" id="accordion2"><label for="accordion2"><h3 id="commevents">Community Events</h3></label><img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Community%20Events/C1.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Community%20Events/C2.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Community%20Events/C3.png"></div></li><li>
+	</div>
+	<hr>
+<div class="yck-component">
+	<div class="regular-flow">
+		<h3 id="commevents">Community Events</h3>
+		<img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Community%20Events/C1.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Community%20Events/C2.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Community%20Events/C3.png"></div>
+	</div>
 
 <div class="yck-component">
-<input type="checkbox" id="accordion3"><label for="accordion3"><h3 id="clusterevents">Cluster Events</h3></label><p>The <b>Media &amp; Design Festival</b> has been organised annually since 2003 to promote Infocomm Technology (ICT) excellence among N6 Cluster Primary four, five and six students, as well as to develop the leadership capacity of Yio Chu Kang Secondary School students in playing the role of student instructors.</p><img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Cluster%20Events/C1.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Cluster%20Events/C2.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Cluster%20Events/C3.png"></div></li></ul>
+<input type="checkbox" id="accordion3"><label for="accordion3"><h3 id="clusterevents">Cluster Events</h3></label><p>The <b>Media &amp; Design Festival</b> has been organised annually since 2003 to promote Infocomm Technology (ICT) excellence among N6 Cluster Primary four, five and six students, as well as to develop the leadership capacity of Yio Chu Kang Secondary School students in playing the role of student instructors.</p><img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Cluster%20Events/C1.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Cluster%20Events/C2.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Cluster%20Events/C3.png"></div>
 
 
 <style>
