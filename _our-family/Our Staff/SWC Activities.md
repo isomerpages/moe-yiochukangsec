@@ -123,7 +123,7 @@ variant: markdown
 <h3> Manito-Manitee Game</h3>
 
 
-    <p>During the month of September, we played the Manito-Manitee Game (Angel-Mortal) to encourage a caring environment in the school and to enhance staff bonding. All staff (teaching and non-teaching)* were randomly paired and everyone had to take care of their appointed Manitee, for a month. Many gave gifts and wrote encouraging notes to brighten up the day, but they would remain anonymous until revelation day, which was Teachers' Day. There were hand made gifts and improvised wrapping papers , well thought and nicely wrapped up snacks and useful stationery.</p>
+<p>During the month of September, we played the Manito-Manitee Game (Angel-Mortal) to encourage a caring environment in the school and to enhance staff bonding. All staff (teaching and non-teaching)* were randomly paired and everyone had to take care of their appointed Manitee, for a month. Many gave gifts and wrote encouraging notes to brighten up the day, but they would remain anonymous until revelation day, which was Teachers' Day. There were hand made gifts and improvised wrapping papers , well thought and nicely wrapped up snacks and useful stationery.</p>
     
 <p>All in all, most staff gave positive feedback and are looking forward to more of such engaging activities in future.</p>
 
