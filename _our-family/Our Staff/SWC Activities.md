@@ -87,6 +87,11 @@ variant: markdown
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Slide5.png">
 	</div>
 	</div>
+	<div class="yck-component">
+                                            <div class="button-container">
+                                                <a href="#top" class="button">Back to Top</a>
+                                            </div>
+                                        </div>
 
 </details>
 
@@ -111,13 +116,9 @@ variant: markdown
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E1.png">
 
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E2.png">
-
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E3.png">
-
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E4.png">
-
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E5.png">
-
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E6.jpg">
 
 <h3> Manito-Manitee Game</h3>
@@ -145,12 +146,18 @@ variant: markdown
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E11.jpg">
 	</div>
 	</div>
+	<div class="yck-component">
+                                            <div class="button-container">
+                                                <a href="#top" class="button">Back to Top</a>
+                                            </div>
+                                        </div>
 
 
 </details>
 
 <details><summary>PHYSICAL</summary>
-
+<div class="yck-component">
+	<div class="regular-flow">
 <h3>Run for Your ‘Life’</h3>
 
 
@@ -192,11 +199,19 @@ the scenic beauty around them. Ultimately, their primary goal in joining the act
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/P3.png">
 
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/P4.png">
+	</div>
+	</div>
+	<div class="yck-component">
+                                            <div class="button-container">
+                                                <a href="#top" class="button">Back to Top</a>
+                                            </div>
+                                        </div>
 
 </details>
 
 <details><summary>INTELLECTUAL</summary>
-
+<div class="yck-component">
+	<div class="regular-flow">
 <h3>Professional Development</h3>
 
 
@@ -234,7 +249,7 @@ the scenic beauty around them. Ultimately, their primary goal in joining the act
 
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Intellectual/I5.png">
     
-</details>
+</div></div></details>
 
 <details><summary>Archived articles</summary>
 <h3> Staff Appreciation Day 5th Sept</h3>
@@ -263,6 +278,13 @@ the scenic beauty around them. Ultimately, their primary goal in joining the act
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S18.png">
 
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/S19.png">
+	
+	
+	<div class="yck-component">
+                                            <div class="button-container">
+                                                <a href="#top" class="button">Back to Top</a>
+                                            </div>
+                                        </div>
 
 </details>
 
