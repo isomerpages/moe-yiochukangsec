@@ -30,15 +30,31 @@ variant: markdown
         <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/HR4seEKIgT4?si=7OypyE9IaxbGQ0ap" height="315" width="560"></iframe>
     </div>
     <p>Yio Chu Kang Secondary School was invited to perform in 2023 National Day Parade (NDP) Act 4 – Onward as One with Kuo Chuan Presbyterian Secondary School, CHIJ St Theresa’s Convent and Nanyang Girls’ High School. Leading up to NDP, students engaged in a series of activities, from intense weekly training sessions in school, evening performances at the Padang to learning journey and bonding sessions with participants of the other 3 schools.</p>
+		<div class="isomer-card-grid">
+			<div class="isomer-card">
+				<div class="isomer-card-img">
  <figure>
         <img alt="Group photo of students and teachers participating in NDP 2023 seated in a ballroom" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/NDP/yckss_at_ndp_2023_02.jpeg">
     </figure>
+				</div>
+				<div class="isomer-card-body">
+					<div class="isomer-card-description">
     <p>Participating in the National Day Parade (NDP) as a school was an unforgettable and pride-filled experience. The atmosphere was electrifying as students from various schools came together, adorned in the red-white costume for on 9 August. As the students danced in unison to the NDP 23 Theme song, “Shine Your Light”, they signified the light that would lead us ahead into the future. The camaraderie and sense of unity among schools created a powerful sense of national identity and belonging.</p>
+						</div>
+				</div>
+			</div>
+			<div class="isomer-card">
+				<div class="isomer-card-img">
     <figure>
         <img alt="Group photo of students and teachers on the stage after the NDP 2023" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/NDP/yckss_at_ndp_2023_01.jpeg">
     </figure>
+				</div>
+				<div class="isomer-card-body">
+					<div class="isomer-card-description">
     <p>The NDP experience not only instils a deeper appreciation for the nation but also offers students an opportunity to forge lasting friendships and unforgettable memories as we come together to celebrate their shared identity as citizens of the nation.</p>
-</div>
+					</div>
+				</div>
+			</div>
 	</div>
 <hr>
 <div class="yck-component">
@@ -61,12 +77,27 @@ variant: markdown
 	<hr>
 <div class="yck-component">
 	<div class="regular-flow">
-		<h3 id="commevents">Community Events</h3>
-		<img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Community%20Events/C1.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Community%20Events/C2.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Community%20Events/C3.png"></div>
+		<details name="ourcomm">
+			<summary>
+				<h3 id="commevents">Community Events</h3></summary>
+		<img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Community%20Events/C1.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Community%20Events/C2.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Community%20Events/C3.png">
+			<div class="yck-component">
+                                            <div class="button-container">
+                                                <a href="#top" class="button">Back to Top</a>
+                                            </div>
+                                        </div>
+		</details>
+	<details name="ourcomm">
+		<summary><h3 id="clusterevents">Cluster Events</h3></summary>
+		<p>The <b>Media &amp; Design Festival</b> has been organised annually since 2003 to promote Infocomm Technology (ICT) excellence among N6 Cluster Primary four, five and six students, as well as to develop the leadership capacity of Yio Chu Kang Secondary School students in playing the role of student instructors.</p><img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Cluster%20Events/C1.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Cluster%20Events/C2.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Cluster%20Events/C3.png">
+		<div class="yck-component">
+                                            <div class="button-container">
+                                                <a href="#top" class="button">Back to Top</a>
+                                            </div>
+                                        </div>
+		</details>
 	</div>
-
-<div class="yck-component">
-<input type="checkbox" id="accordion3"><label for="accordion3"><h3 id="clusterevents">Cluster Events</h3></label><p>The <b>Media &amp; Design Festival</b> has been organised annually since 2003 to promote Infocomm Technology (ICT) excellence among N6 Cluster Primary four, five and six students, as well as to develop the leadership capacity of Yio Chu Kang Secondary School students in playing the role of student instructors.</p><img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Cluster%20Events/C1.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Cluster%20Events/C2.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Cluster%20Events/C3.png"></div>
+		</div>
 
 
 <style>
@@ -550,14 +581,12 @@ small {
 }
 
 .yck-component .isomer-card:has(img) {
-    filter: brightness(100%);
-    background-color: #fff;
+    background-color: rgba(254, 254, 254, 0.05);
     transition: filter 0.5s ease;
 }
 
 .yck-component .isomer-card:has(img):hover {
-    filter: brightness(90%);
-    background-color: #898989;
+    background-color: rgba(253, 253, 253, 0.25);
 }
 
 .yck-component .isomer-card .isomer-card-image {
@@ -1088,4 +1117,4 @@ small {
         animation-range: entry 25% cover 50%;
     }
 }
-</style>
+</style></div></div>
