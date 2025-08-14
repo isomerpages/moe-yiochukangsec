@@ -17,12 +17,7 @@ variant: markdown
 <p>To find out more details of each activity, please visit our <a class="text-link" href="https://www.facebook.com/yiochukangsec">YCKSS Facebook Page</a> and <a target="_blank" class="text-link" href="https://www.instagram.com/yiochukang_sec/">Instagram Posts</a> for the latest updates.
 </p></div>
 	</div>
-	<hr>
-
-
-
-
-
+<hr>
 <div class="yck-component">
 	<div class="regular-flow">
     <h2>National Day Parade 2023 - Onward as One</h2>
