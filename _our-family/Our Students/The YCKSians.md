@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Students
 variant: markdown
 ---
-<div class="yck-component" id="ycksians">
+<div class="yck-component">
 	<div class="regular-flow">
 <p>YCKSians are students of character who learn to thrive and develop a willingness to grow. Through service to the community, they will grow and lead meaningful lives and become a positive influence in the community.</p>
 
@@ -15,7 +15,7 @@ variant: markdown
 
 <p>Through service to the community, they will grow and lead meaningful lives and become a positive influence in the community.</p>
 </div>
-	</div>
+</div>
 
 <style>
 	:root {
@@ -105,7 +105,6 @@ video {
 	
 body {
     background: radial-gradient(ellipse at center, rgba(255, 255, 255. 0.05) 1%, rgba(255, 255, 255, 0.68) 37%, rgba(255, 255,  255, 0.95) 100%), url(https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/The%20YCKSian/Y1.png) no-repeat center center fixed;
-    background-size: contain;
-    background-origin: center center;
+	background-size: cover;
 }
 </style>
