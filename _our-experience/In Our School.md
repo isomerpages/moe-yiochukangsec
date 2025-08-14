@@ -16,7 +16,8 @@ image: /images/YCKLogo.svg
     <h2>Take a look at our ...</h2>
     <nav class="yck-nav-bar">
         <ul>
-            <li><a class="active" href="#levelcamp">Level Camps</a></li>
+					<li><a class="active" href="#natday2025">NDP 60 Celebrations</a></li>
+            <li><a href="#levelcamp">Level Camps</a></li>
             <li><a href="#healthfiesta">Health Fiesta &amp; Sports Carnival</a></li>
             <li><a href="#earcandy">Ear<sup>Candy</sup>!</a></li>
             <li><a href="#speechday">Annual Speech and Prize Giving Day</a></li>
@@ -27,6 +28,33 @@ image: /images/YCKLogo.svg
         </ul>
     </nav>
 </div>
+<div class="yck-component" id="natday2025">
+    <h2>NDP 60 Celebrations</h2>
+	<figure>
+    <div class="video-container">
+        <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/NQ6ENBgdD4M?si=mmUQcv8YflWT9VVE" height="315" width="560"></iframe>
+</div>
+<figcaption>YCKSS celebrates our Nation's Birthday on 8 August 2025.</figcaption>
+</figure>
+	<div class="yck-flexbox-grid">
+		<div class="isomer-card">
+			<div class="isomer-card-body">
+				<div class="isomer-card-title">Video taken by:</div>
+				<div class="isomer-card-description">
+<p>Sky, Danish and Yu Zhe
+					</p></div>
+			</div>
+		</div>
+		<div class="isomer-card">
+			<div class="isomer-card-body">
+				<div class="isomer-card-title">Song Credits:</div>
+				<div class="isomer-card-description"><p><strong>Song:</strong> Here We Are (Dance of the Nation Remix) </p>
+					<p><strong>Artist:</strong> NDPeeps, Charlie Lim, Kit Chan, Kit Chan 陳潔儀, The Island Voices</p>
+					<p><strong>Album:</strong> Here We Are</p>
+</div>
+			</div>
+		</div>
+<hr>
 <div class="yck-component" id="levelcamp">
     <h2>Level Camps</h2>
     <div class="ken-burns-container">
@@ -1212,4 +1240,4 @@ small {
         animation-range: entry 25% cover 50%;
     }
 }
-</style>
+</style></div></div>
