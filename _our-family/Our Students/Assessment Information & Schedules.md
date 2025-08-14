@@ -50,7 +50,7 @@ on 5 Feb 2025)</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Students/Assessment Information Sche/EOY__Subject_Information_2025___Sec_3G3_.pdf" rel="noopener nofollow" target="_blank">Sec 3 G3 EOY Subject Information</a>
+<p><a href="/files/Students/Assessment Information Sche/EOY__NSubject_Information_2025__Sec_3_G3_updated120825.pdf" rel="noopener nofollow" target="_blank">Sec 3 G3 EOY Subject Information</a>
 </p>
 </li>
 </ul>
