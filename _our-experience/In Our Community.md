@@ -10,7 +10,7 @@ description: Experience the pride and unity at Yio Chu Kang Secondary School's
 image: /images/Our Experience/In Our Community/NDP/yckss_at_ndp_2023_metaimg.JPG
 variant: markdown
 ---
-<div class="yck-component">
+<div class="yck-component" id="top">
 	<div class="regular-flow">
 <p>YCKSS taps into the community resources and platforms to create opportunities to enhance our students’ learning experiences beyond school. We actively seek to collaborate and engage in community activities and it is evidenced from the various events our students participated such as <abbr title="Singapore Youth Festival">SYF</abbr> Celebrations Festival Concert in 2018 and Yio Chu Kang Community Club National Day Observance Day 2018, etc.</p>
 
