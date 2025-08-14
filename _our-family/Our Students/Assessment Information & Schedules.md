@@ -15,7 +15,7 @@ and level.</p>
 <p><a href="/files/Students/Assessment Information Sche/YCKSS_Weighted_Assessment_Rules_and_Regulations.pdf" rel="noopener nofollow" target="_blank">Weighted Assessment Rules &amp; Regulations 2025</a> (updated
 on 5 Feb 2025)</p>
 <h4><strong>End of Year Subject Information 2025</strong></h4>
-<p>(updated on 7 August 2025)</p>
+<p>(updated on 12 August 2025)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Students/Assessment Information Sche/EOY__Subject_Information_2025__Sec_1G1_.pdf" rel="noopener nofollow" target="_blank">Sec1 G1 EOY Subject Information</a>
@@ -50,7 +50,7 @@ on 5 Feb 2025)</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Students/Assessment Information Sche/EOY__Subject_Information_2025___Sec_3G3_.pdf" rel="noopener nofollow" target="_blank">Sec 3 G3 EOY Subject Information</a>
+<p><a href="/files/Students/Assessment Information Sche/EOY__NSubject_Information_2025__Sec_3_G3_updated120825.pdf" rel="noopener nofollow" target="_blank">Sec 3 G3 EOY Subject Information</a>
 </p>
 </li>
 </ul>

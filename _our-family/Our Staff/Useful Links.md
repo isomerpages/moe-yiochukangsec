@@ -1,9 +1,10 @@
 ---
 title: Useful Links
-permalink: /our-family/Staff/Useful-Links/
+permalink: /our-family/our-staff/useful-links/
 description: ""
 third_nav_title: Our Staff
 variant: markdown
+image: /images/YCKLogo.svg
 ---
 <div class="yck-component">
     <div class="regular-flow">
