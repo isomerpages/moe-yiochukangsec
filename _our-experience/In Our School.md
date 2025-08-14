@@ -54,6 +54,7 @@ image: /images/YCKLogo.svg
 </div>
 			</div>
 		</div>
+	</div>
 <hr>
 <div class="yck-component" id="levelcamp">
     <h2>Level Camps</h2>
@@ -1240,4 +1241,4 @@ small {
         animation-range: entry 25% cover 50%;
     }
 }
-</style></div></div>
+</style></div>
