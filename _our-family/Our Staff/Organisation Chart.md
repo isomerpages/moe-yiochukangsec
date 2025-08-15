@@ -1225,7 +1225,7 @@ small {
 }
 </style>
 <div class="yck-component">
-    <nav class="yck-nav-bar">
+    <nav class="yck-nav-bar" id="top">
 			  <ul>
     <li><a href="#School-Leaders">SCHOOL LEADERS</a></li>
     <li><a href="#Key-Personnel">KEY PERSONNEL</a></li>
