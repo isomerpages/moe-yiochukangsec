@@ -21,7 +21,7 @@ variant: markdown
                     </div>
                     <div class="isomer-card-description">
                         <p>
-                            A confident, effective and reflective user of the English Language
+                           Confident and fluent users of their mother tongue language 
                         </p>
                     </div>
                 </div>
@@ -33,8 +33,7 @@ variant: markdown
                     </div>
                     <div class="isomer-card-description">
                         <p>
-                            To develop students to appreciate the English Language and to
-                            nurture them as competent communicators.
+                           To provide authentic learning experiences for students in the learning of MT languages and culture 
                         </p>
                     </div>
                 </div>
