@@ -38,9 +38,9 @@ third_nav_title: Our Staff
 </div>
 
 <style>
-.yck-component {
+body  {
     font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%) !important;
     background-size: 400% 400%;
     min-height: 100vh;
     display: flex;
@@ -69,42 +69,42 @@ third_nav_title: Our Staff
 }
 
 /* Floating background elements */
-.yck-component .bg-decoration {
+body .bg-decoration {
     position: absolute;
     opacity: 0.1;
     animation: float 6s ease-in-out infinite;
     pointer-events: none;
 }
 
-.yck-component .bg-decoration:nth-child(1) {
+body .bg-decoration:nth-child(1) {
     top: 10%;
     left: 10%;
     font-size: 4rem;
     animation-delay: 0s;
 }
 
-.yck-component .bg-decoration:nth-child(2) {
+body .bg-decoration:nth-child(2) {
     top: 20%;
     right: 15%;
     font-size: 3rem;
     animation-delay: -2s;
 }
 
-.yck-component .bg-decoration:nth-child(3) {
+body .bg-decoration:nth-child(3) {
     bottom: 20%;
     left: 20%;
     font-size: 5rem;
     animation-delay: -4s;
 }
 
-.yck-component .bg-decoration:nth-child(4) {
+body .bg-decoration:nth-child(4) {
     bottom: 30%;
     right: 10%;
     font-size: 3.5rem;
     animation-delay: -1s;
 }
 
-.yck-component .bg-decoration:nth-child(5) {
+body .bg-decoration:nth-child(5) {
     top: 50%;
     left: 5%;
     font-size: 2.5rem;
@@ -128,7 +128,7 @@ third_nav_title: Our Staff
 }
 
 /* Main container */
-.yck-component .redirect-container {
+body .redirect-container {
     text-align: center;
     color: white;
     z-index: 10;
@@ -176,7 +176,7 @@ third_nav_title: Our Staff
 }
 
 /* Magical icon */
-.yck-component .magic-icon {
+body .magic-icon {
     font-size: 5rem;
     margin-bottom: 2rem;
     display: inline-block;
@@ -212,7 +212,7 @@ third_nav_title: Our Staff
     }
 }
 
-.yck-component h1 {
+body h1 {
     font-size: 3.5rem;
     font-weight: 800;
     margin-bottom: 1.5rem;
@@ -237,7 +237,7 @@ third_nav_title: Our Staff
     }
 }
 
-.yck-component .subtitle {
+body .subtitle {
     font-size: 1.3rem;
     margin-bottom: 3rem;
     opacity: 0.95;
@@ -269,7 +269,7 @@ third_nav_title: Our Staff
     animation: fadeInUp 1s ease-out 1s both;
 }
 
-.yck-component .progress-bar {
+body .progress-bar {
     height: 100%;
     background: linear-gradient(90deg,
         #00f5ff 0%,
@@ -308,7 +308,7 @@ third_nav_title: Our Staff
 }
 
 /* Loading dots */
-.yck-component .loading-dots {
+body .loading-dots {
     display: flex;
     justify-content: center;
     gap: 12px;
@@ -316,7 +316,7 @@ third_nav_title: Our Staff
     animation: fadeInUp 1s ease-out 1.5s both;
 }
 
-.yck-component .dot {
+body .dot {
     width: 16px;
     height: 16px;
     background: linear-gradient(135deg, #fff, #e0e0e0);
@@ -325,15 +325,15 @@ third_nav_title: Our Staff
     box-shadow: 0 0 15px rgba(255, 255, 255, 0.4);
 }
 
-.yck-component .dot:nth-child(1) {
+body .dot:nth-child(1) {
     animation-delay: 0s;
 }
 
-.yck-component .dot:nth-child(2) {
+body .dot:nth-child(2) {
     animation-delay: 0.3s;
 }
 
-.yck-component .dot:nth-child(3) {
+body .dot:nth-child(3) {
     animation-delay: 0.6s;
 }
 
@@ -352,7 +352,7 @@ third_nav_title: Our Staff
 }
 
 /* Countdown */
-.yck-component .countdown {
+body .countdown {
     font-size: 1.1rem;
     margin-top: 2rem;
     opacity: 0.8;
@@ -375,32 +375,32 @@ third_nav_title: Our Staff
 }
 
 /* Corner decorations */
-.yck-component .corner-decoration {
+body .corner-decoration {
     position: absolute;
     font-size: 2rem;
     opacity: 0.3;
     animation: twinkle 2s ease-in-out infinite;
 }
 
-.yck-component .corner-decoration:nth-child(1) {
+body .corner-decoration:nth-child(1) {
     top: -10px;
     left: -10px;
     animation-delay: 0s;
 }
 
-.yck-component .corner-decoration:nth-child(2) {
+body .corner-decoration:nth-child(2) {
     top: -10px;
     right: -10px;
     animation-delay: 0.5s;
 }
 
-.yck-component .corner-decoration:nth-child(3) {
+body .corner-decoration:nth-child(3) {
     bottom: -10px;
     left: -10px;
     animation-delay: 1s;
 }
 
-.yck-component .corner-decoration:nth-child(4) {
+body .corner-decoration:nth-child(4) {
     bottom: -10px;
     right: -10px;
     animation-delay: 1.5s;
@@ -422,34 +422,34 @@ third_nav_title: Our Staff
 
 /* Responsive design */
 @media (max-width: 768px) {
-    .yck-component .redirect-container {
+body .redirect-container {
         margin: 20px;
         padding: 40px 30px;
     }
 
-    .yck-component h1 {
+body h1 {
         font-size: 2.8rem;
     }
 
-    .yck-component .magic-icon {
+body .magic-icon {
         font-size: 4rem;
     }
 
-    .yck-component .subtitle {
+body .subtitle {
         font-size: 1.1rem;
     }
 }
 
 @media (max-width: 480px) {
-    .yck-component .redirect-container {
+body .redirect-container {
         padding: 30px 20px;
     }
 
-    .yck-component h1 {
+body h1 {
         font-size: 2.2rem;
     }
 
-    .yck-component .magic-icon {
+body .magic-icon {
         font-size: 3.5rem;
     }
 }
