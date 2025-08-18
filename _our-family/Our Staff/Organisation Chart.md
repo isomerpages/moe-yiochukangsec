@@ -1127,7 +1127,7 @@ small {
 
 /* Name of the person */
 .person-name {
-    font-size: var(--yck-step--1);
+    font-size: var(--yck-step-0);
     font-weight: bold;
     margin-bottom: 4px;
     color: #333;
@@ -1135,14 +1135,14 @@ small {
 
 /* Title/role of the person */
 .person-title {
-    font-size: 0.85em;
+    font-size: var(--yck-step--1);
     color: #555;
     margin-bottom: 8px;
     /* Add some space before the details tag */
 }
 
 .person details {
-    font-size: 0.8em;
+    font-size: var(--yck-step--1);
     cursor: pointer;
 }
 
@@ -1209,11 +1209,11 @@ small {
 
     .department-name,
     .group-name {
-        font-size: 1.2em;
+        font-size: var(--yck-step-0);
     }
 
     .section-title {
-        font-size: 1.5em;
+        font-size: var(--yck-step-1);
     }
 }
 
@@ -1515,11 +1515,6 @@ small {
                     </div>
                 </div>
             </div>
-            <div class="yck-component">
-                <div class="button-container">
-                    <a href="#top" class="button">Back to Top</a>
-                </div>
-            </div>
             <div class="department">
                 <div class="department-name">Humanities Department</div>
                 <div class="people-grid">
@@ -1565,11 +1560,6 @@ small {
                             <summary>Email Address:</summary>chua_sock_huang<wbr>@moe.edu.sg
                         </details>
                     </div>
-                </div>
-            </div>
-            <div class="yck-component">
-                <div class="button-container">
-                    <a href="#top" class="button">Back to Top</a>
                 </div>
             </div>
             <div class="department">
@@ -1624,11 +1614,6 @@ small {
                             <summary>Email Address:</summary>annie_matthews<wbr>@moe.edu.sg
                         </details>
                     </div>
-                </div>
-            </div>
-            <div class="yck-component">
-                <div class="button-container">
-                    <a href="#top" class="button">Back to Top</a>
                 </div>
             </div>
             <div class="department">
@@ -1713,11 +1698,6 @@ small {
                     </div>
                 </div>
             </div>
-            <div class="yck-component">
-                <div class="button-container">
-                    <a href="#top" class="button">Back to Top</a>
-                </div>
-            </div>
             <div class="department">
                 <div class="department-name">Physical Education Department</div>
                 <div class="people-grid">
@@ -1735,11 +1715,6 @@ small {
                             <summary>Email Address:</summary>leong_ngan_nyun_anna<wbr>@moe.edu.sg
                         </details>
                     </div>
-                </div>
-            </div>
-            <div class="yck-component">
-                <div class="button-container">
-                    <a href="#top" class="button">Back to Top</a>
                 </div>
             </div>
             <div class="department">
@@ -1808,11 +1783,6 @@ small {
                             <summary>Email Address:</summary>teo_hwee_peng<wbr>@moe.edu.sg
                         </details>
                     </div>
-                </div>
-            </div>
-            <div class="yck-component">
-                <div class="button-container">
-                    <a href="#top" class="button">Back to Top</a>
                 </div>
             </div>
             <div class="department">
