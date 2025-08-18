@@ -1038,7 +1038,7 @@ small {
 
 /* Styling for major section titles like "School Leaders" */
 .section-title {
-    font-size: var(--yck-step-3);
+    font-size: var(--yck-step-2);
     font-weight: bold;
     margin-top: 30px;
     margin-bottom: 20px;
@@ -1088,7 +1088,7 @@ small {
 /* Titles for individual departments or non-teaching staff groups */
 .department-name,
 .group-name {
-    font-size: var(--yck-step-2);
+    font-size: var(--yck-step-1);
     font-weight: bold;
     color: #333;
     margin-bottom: 15px;
@@ -1114,8 +1114,8 @@ small {
     padding: 10px 15px;
     margin: 5px;
     text-align: center;
-    min-width: 160px;
-    max-width: 200px;
+    min-width: 25ch;
+    max-width: 50ch;
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
     flex-grow: 1;
     /* Prevents cards from growing to fill space */
@@ -1135,14 +1135,14 @@ small {
 
 /* Title/role of the person */
 .person-title {
-    font-size: var(--yck-step--1);
+    font-size: calc(var(--yck-step-0)*0.85);
     color: #555;
     margin-bottom: 8px;
     /* Add some space before the details tag */
 }
 
 .person details {
-    font-size: var(--yck-step--1);
+    font-size: calc(var(--yck-step-0)*0.8);
     cursor: pointer;
 }
 
