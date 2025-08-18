@@ -1250,14 +1250,14 @@ small {
                 <div class="person-name">Mr Kevin Lim Hock Chye</div>
                 <div class="person-title">VICE-PRINCIPAL</div>
                 <details>
-                    <summary>Email Address:</summary>lim_hock_chye_kevin@moe.edu.sg
+                    <summary>Email Address:</summary>lim_hock_chye_kevin<wbr>@moe.edu.sg
                 </details>
             </div>
             <div class="person">
                 <div class="person-name">Mr Pek Xu Hao Alvin</div>
                 <div class="person-title">VICE-PRINCIPAL</div>
                 <details>
-                    <summary>Email Address:</summary>pek_xu_hao_alvin@moe.edu.sg
+                    <summary>Email Address:</summary>pek_xu_hao_alvin<wbr>@moe.edu.sg
                 </details>
             </div>
         </div>
@@ -1295,14 +1295,14 @@ small {
                 <div class="person-name">Mr Goh Chye Peng David</div>
                 <div class="person-title">HOD/Student Mgmt</div>
                 <details>
-                    <summary>Email Address:</summary>goh_chye_peng_david@moe.edu.sg
+                    <summary>Email Address:</summary>goh_chye_peng_david<wbr>@moe.edu.sg
                 </details>
             </div>
             <div class="person">
                 <div class="person-name">Mr Chin Pin Chuen Brandon</div>
                 <div class="person-title">HOD/ICT</div>
                 <details>
-                    <summary>Email Address:</summary>chin_pin_chuen_brandon@moe.edu.sg
+                    <summary>Email Address:</summary>chin_pin_chuen_brandon<wbr>@moe.edu.sg
                 </details>
             </div>
             <div class="person">
@@ -1440,14 +1440,14 @@ small {
                         <div class="person-name">Mr Michael William Cartwright</div>
                         <div class="person-title">Music</div>
                         <details>
-                            <summary>Email Address:</summary>michael_william_cartwright@moe.edu.sg
+                            <summary>Email Address:</summary>michael_william_cartwright<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="tanbockleongchristopherjimmy">
                         <div class="person-name">Mr Tan Bock Leong Christopher Jimmy</div>
                         <div class="person-title">Art</div>
                         <details>
-                            <summary>Email Address:</summary>tan_bock_leong_christopher@moe.edu.sg
+                            <summary>Email Address:</summary>tan_bock_leong_christopher<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="thamhwijindarren">
@@ -1468,14 +1468,14 @@ small {
                         <div class="person-name">Mrs Adele Nair</div>
                         <div class="person-title">NFS</div>
                         <details>
-                            <summary>Email Address:</summary>adele_louise_williams@moe.edu.sg
+                            <summary>Email Address:</summary>adele_louise_williams<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="weesohyepatrick">
                         <div class="person-name">Mr Wee Soh Ye Patrick</div>
                         <div class="person-title">D&amp;T</div>
                         <details>
-                            <summary>Email Address:</summary>wee_soh_ye_patrick@moe.edu.sg
+                            <summary>Email Address:</summary>wee_soh_ye_patrick<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="sutinahbtesujaair">
@@ -1496,7 +1496,7 @@ small {
                         <div class="person-name">Mr Albert Ong</div>
                         <div class="person-title">D&amp;T</div>
                         <details>
-                            <summary>Email Address:</summary>ong_tiong_guan_albert@moe.edu.sg
+                            <summary>Email Address:</summary>ong_tiong_guan_albert<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="limcheewee">
@@ -1529,21 +1529,21 @@ small {
                         <div class="person-name">Mdm Nirmala Devi S Tasiveran</div>
                         <div class="person-title">ST/SS</div>
                         <details>
-                            <summary>Email Address:</summary>nirmala_devi_s_tasiveran@moe.edu.sg
+                            <summary>Email Address:</summary>nirmala_devi_s_tasiveran<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="tewtjinlianamelia">
                         <div class="person-name">Ms Tew Tjin Lian Amelia</div>
                         <div class="person-title">SS</div>
                         <details>
-                            <summary>Email Address:</summary>tew_tjin_lian_amelia@moe.edu.sg
+                            <summary>Email Address:</summary>tew_tjin_lian_amelia<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="laujieruijezreel">
                         <div class="person-name">Ms Lau Jie Rui Jezreel</div>
                         <div class="person-title">Geog</div>
                         <details>
-                            <summary>Email Address:</summary>lau_jie_rui_jezreel@moe.edu.sg
+                            <summary>Email Address:</summary>lau_jie_rui_jezreel<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="rohinidoayavoo">
@@ -1623,7 +1623,7 @@ small {
                         <div class="person-name">Mdm Siti Aisha Bte Ahmat Yusop</div>
                         <div class="person-title">ST/ML</div>
                         <details>
-                            <summary>Email Address:</summary>siti_aisha_ahmat_yusop@moe.edu.sg
+                            <summary>Email Address:</summary>siti_aisha_ahmat_yusop<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="yeyuluan">
@@ -1724,14 +1724,14 @@ small {
                         <div class="person-name">Mdm Lim Meng Choo Emily</div>
                         <div class="person-title">ST/Chem</div>
                         <details>
-                            <summary>Email Address:</summary>lim_meng_choo_emily@moe.edu.sg
+                            <summary>Email Address:</summary>lim_meng_choo_emily<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="sarasvathyd">
                         <div class="person-name">Mdm Sarasvathy D/O Sivalingam S</div>
                         <div class="person-title"></div>
                         <details>
-                            <summary>Email Address:</summary>sarasvathy_sivalingam@moe.edu.sg
+                            <summary>Email Address:</summary>sarasvathy_sivalingam<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="teohweehong">
@@ -1745,7 +1745,7 @@ small {
                         <div class="person-name">Mr M Vijeyaa Kumaran</div>
                         <div class="person-title"></div>
                         <details>
-                            <summary>Email Address:</summary>m_vijeyaa_kumaran@moe.edu.sg
+                            <summary>Email Address:</summary>m_vijeyaa_kumaran<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="foogermaine">
@@ -1889,7 +1889,7 @@ small {
                         <div class="person-name">Ms Nur Hidayah Bte M Saharudin</div>
                         <div class="person-title">SEN Officer</div>
                         <details>
-                            <summary>Email Address:</summary>nur_hidayah_m_saharudin@moe.edu.sg
+                            <summary>Email Address:</summary>nur_hidayah_m_saharudin<wbr>@moe.edu.sg
                         </details>
                     </div>
                 </div>
@@ -1915,14 +1915,14 @@ small {
                         <div class="person-name">Mdm Nur Khalidah</div>
                         <div class="person-title">Administrative Executive</div>
                         <details>
-                            <summary>Email Address:</summary>nur_khalidah_mohamed_khir@moe.edu.sg
+                            <summary>Email Address:</summary>nur_khalidah_mohamed_khir<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="weekweelendoreen">
                         <div class="person-name">Mdm Wee Kwee Len Doreen</div>
                         <div class="person-title">Asst Support Officer</div>
                         <details>
-                            <summary>Email Address:</summary>wee_kwee_len_doreen@moe.edu.sg
+                            <summary>Email Address:</summary>wee_kwee_len_doreen<wbr>@moe.edu.sg
                         </details>
                     </div>
                 </div>
@@ -1934,14 +1934,14 @@ small {
                         <div class="person-name">Mrs Kumkum Vinod Singh</div>
                         <div class="person-title">ICT Manager</div>
                         <details>
-                            <summary>Email Address:</summary>kumkum_vinod_singh@moe.edu.sg
+                            <summary>Email Address:</summary>kumkum_vinod_singh<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="zulkarnainbinmahfudz">
                         <div class="person-name">Mr Zulkarnain Bin Mahfudz</div>
                         <div class="person-title">D&amp;T Workshop</div>
                         <details>
-                            <summary>Email Address:</summary>zulkarnain_mahfudz@moe.edu.sg
+                            <summary>Email Address:</summary>zulkarnain_mahfudz<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="hamizahbintehassan">
@@ -1955,7 +1955,7 @@ small {
                         <div class="person-name">Mdm Tan Teck Lin Adeline</div>
                         <div class="person-title">Science Lab</div>
                         <details>
-                            <summary>Email Address:</summary>tan_teck_lin_adeline@moe.edu.sg
+                            <summary>Email Address:</summary>tan_teck_lin_adeline<wbr>@moe.edu.sg
                         </details>
                     </div>
                 </div>
@@ -1974,7 +1974,7 @@ small {
                         <div class="person-name">Mr Krishnamoorthy S/O Sauraju</div>
                         <div class="person-title"></div>
                         <details>
-                            <summary>Email Address:</summary>krishnamoorthy_saurajlu@moe.edu.sg
+                            <summary>Email Address:</summary>krishnamoorthy_saurajlu<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="wongaunteck">
