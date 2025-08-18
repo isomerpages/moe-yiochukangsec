@@ -1267,14 +1267,14 @@ small {
                 <div class="person-name">Mr Pang Tiangui Desmond</div>
                 <div class="person-title">Staff Developer</div>
                 <details>
-                    <summary>Email Address:</summary>
+                    <summary>Email Address:</summary>pang_tiangui@moe.edu.sg
                 </details>
             </div>
             <div class="person">
                 <div class="person-name">Ms Lock Hwee Hong Alicia</div>
                 <div class="person-title">HOD/Science</div>
                 <details>
-                    <summary>Email Address:</summary>
+                    <summary>Email Address:</summary>lock_hwee_hong_alicia@moe.edu.sg
                 </details>
             </div>
             <div class="person">
@@ -1337,28 +1337,28 @@ small {
                 <div class="person-name">Ms Cho Ling Ling Kelly</div>
                 <div class="person-title">Year Head (LS)</div>
                 <details>
-                    <summary>Email Address:</summary>
+                    <summary>Email Address:</summary>kelly_cho_ling_ling@moe.edu.sg
                 </details>
             </div>
             <div class="person">
                 <div class="person-name">Mr Mok Boon Foong</div>
                 <div class="person-title">Year Head (US)</div>
                 <details>
-                    <summary>Email Address:</summary>
+                    <summary>Email Address:</summary>mok_boon_foong@moe.edu.sg
                 </details>
             </div>
             <div class="person">
                 <div class="person-name">Ms Per Ching Yee</div>
                 <div class="person-title">Administration Manager</div>
                 <details>
-                    <summary>Email Address:</summary>
+                    <summary>Email Address:</summary>per_ching_yee@moe.edu.sg
                 </details>
             </div>
             <div class="person">
                 <div class="person-name">Ms Sin Puay San</div>
                 <div class="person-title"></div>
                 <details>
-                    <summary>Email Address:</summary>
+                    <summary>Email Address:</summary>sin_puay_san@moe.edu.sg
                 </details>
             </div>
             <div class="person">
@@ -1372,7 +1372,7 @@ small {
                 <div class="person-name">Mr Gan Hui Kok Martin</div>
                 <div class="person-title">Operations Manager</div>
                 <details>
-                    <summary>Email Address:</summary>
+                    <summary>Email Address:</summary>Gan_Hui_Kok@moe.edu.sg
                 </details>
             </div>
             <div class="person">
@@ -1386,7 +1386,7 @@ small {
                 <div class="person-name">Ms Vidya Premapadmanabhan</div>
                 <div class="person-title">LH/EL</div>
                 <details>
-                    <summary>Email Address:</summary>
+                    <summary>Email Address:</summary>vidya_premapadmanabhan@moe.edu.sg
                 </details>
             </div>
             <div class="person">
@@ -1421,7 +1421,7 @@ small {
                 <div class="person-name">Mdm Alvina Loganathan</div>
                 <div class="person-title">SH-CCE</div>
                 <details>
-                    <summary>Email Address:</summary>
+                    <summary>Email Address:</summary>alvina_loganathan@moe.edu.sg
                 </details>
             </div>
         </div>
@@ -1569,7 +1569,7 @@ small {
                         <div class="person-name">Ms Gauwri S Kumar</div>
                         <div class="person-title"></div>
                         <details>
-                            <summary>Email Address:</summary>
+                            <summary>Email Address:</summary>gauwri_s_kumar@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="foosiankoksimon">
@@ -2000,7 +2000,7 @@ small {
                         <div class="person-name">Mr Kwan Yeow Hwee Jeff</div>
                         <div class="person-title">ICT/AV Executive</div>
                         <details>
-                            <summary>Email Address:</summary>
+                            <summary>Email Address:</summary>Kwan_Yeow_Hwee@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="yongchweeyock">
