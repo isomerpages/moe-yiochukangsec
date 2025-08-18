@@ -1593,13 +1593,6 @@ small {
                             <summary>Email Address:</summary>tan_thiam_boon@moe.edu.sg
                         </details>
                     </div>
-                    <div class="person" id="ngmangchung">
-                        <div class="person-name">Mr Ng Mang Chung</div>
-                        <div class="person-title"></div>
-                        <details>
-                            <summary>Email Address:</summary>ng_mang_chung@moe.edu.sg
-                        </details>
-                    </div>
                     <div class="person" id="tanhanzhongmark">
                         <div class="person-name">Mr Tan Han Zhong, Mark</div>
                         <div class="person-title">Math, POA</div>
@@ -1661,13 +1654,6 @@ small {
                             <summary>Email Address:</summary>tan_chun_buei@moe.edu.sg
                         </details>
                     </div>
-                    <div class="person" id="chikingkiok">
-                        <div class="person-name">Mdm Chi King Kiok</div>
-                        <div class="person-title">CL</div>
-                        <details>
-                            <summary>Email Address:</summary>chi_king_kiok@moe.edu.sg
-                        </details>
-                    </div>
                     <div class="person" id="xuxiaohong">
                         <div class="person-name">Ms Xu Xiaohong</div>
                         <div class="person-title">CL</div>
@@ -1715,11 +1701,11 @@ small {
             <div class="department">
                 <div class="department-name">Physical Education Department</div>
                 <div class="people-grid">
-                    <div class="person" id="weedaigi">
-                        <div class="person-name">Mr Wee Daigi</div>
+                    <div class="person" id="weedaiqi">
+                        <div class="person-name">Mr Wee Daiqi</div>
                         <div class="person-title"></div>
                         <details>
-                            <summary>Email Address:</summary>wee_daigi@moe.edu.sg
+                            <summary>Email Address:</summary>wee_daiqi@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="leongngannyunanna">
@@ -1869,13 +1855,6 @@ small {
                         <div class="person-title">Allied Educator (Counsellor)</div>
                         <details>
                             <summary>Email Address:</summary>koh_kwek_choong@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="pohsheeyean">
-                        <div class="person-name">Ms Poh Shee Yean</div>
-                        <div class="person-title">Senior Allied Educator (Counsellor)</div>
-                        <details>
-                            <summary>Email Address:</summary>poh_shee_yean@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="chowwonhow">
