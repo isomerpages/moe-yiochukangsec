@@ -1431,7 +1431,7 @@ small {
             </div>
         </div>
         <hr>
-        <div class="section-title">Teaching Staff</div>
+        <div class="section-title" id="Teaching-Staff">Teaching Staff</div>
         <div class="teaching-staff-section">
             <div class="department">
                 <div class="department-name">Design and Enterprise Department</div>
