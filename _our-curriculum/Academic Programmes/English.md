@@ -21,7 +21,7 @@ variant: markdown
             <p>To develop students to appreciate the English Language and to nurture them as competent communicators. </p>
         </div>
     </div>
-    <p><small>Download the <a href="/files/Academic%20Programmes/English/English_Department_Programme_and_Subject_Information.pdf">English Department Programme and Subject Information (PDF, 490kb)</a></small></p>
+    <p>Download the <a class="text-link" href="/files/Academic%20Programmes/English/English_Department_Programme_and_Subject_Information.pdf">English Department Programme and Subject Information (PDF, 490kb)</a></p>
 </div>
 <div class="yck-component">
     <h3 class="yck-h3">Key Programmes</h3>
@@ -104,13 +104,13 @@ variant: markdown
 }
 
 ::selection {
-  text-shadow: none;
-  background: yellow;
+    text-shadow: none;
+    background: yellow;
 }
 
 iframe,
 img {
-  vertical-align: middle;
+    vertical-align: middle;
 }
 
 .yck-component {
@@ -216,7 +216,7 @@ img {
 .yck-component a:hover {
     text-decoration: none;
 }
-
+	
 /* Table Styles */
 
 .yck-component .video-container {
@@ -421,4 +421,3 @@ details[open]::details-content {
     }
 }
 </style>
-	
