@@ -85,6 +85,9 @@ variant: markdown
     --yck-heading-letter-spacing: -0.02em;
     --yck-spacing-unit: 1em;
     --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+    --yck-box-shadow1: 0 1px 2px rgba(0, 0, 0, 0.15);
+    --yck-inset-shadow1: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    --yck-inset-shadow2: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
     --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
 
     --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
@@ -96,11 +99,14 @@ variant: markdown
     --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
-    --yck-space-s-xl: clamp(0.75rem, 0.2143rem + 3.9286vw, 3.75rem);
+    --yck-space-s-xl: clamp(1em, 0.2143em + 3.9286vw, 3.5em);
     interpolate-size: allow-keywords;
     scroll-behavior: smooth;
     text-rendering: optimizeSpeed;
-    height: 100vh;
+}
+
+body {
+    min-height: 100vh;
 }
 
 ::selection {
@@ -108,51 +114,76 @@ variant: markdown
     background: yellow;
 }
 
+audio,
+canvas,
 iframe,
-img {
+img,
+svg,
+video {
     vertical-align: middle;
 }
+
+img {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* ==========================================================================
+   2. Base Typography
+   ========================================================================== */
 
 .yck-component {
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
     font-size: var(--yck-step-0);
     margin-bottom: var(--yck-space-s-xl);
+    position: relative;
 }
 
 .yck-component h1,
 .yck-component h2,
 .yck-component h3,
+.yck-component h4,
+.yck-component h5,
+.yck-component h6,
 .yck-component p {
     overflow-wrap: break-word;
 }
 
 .yck-component h1,
 .yck-component h2,
-.yck-component h3 {
+.yck-component h3,
+.yck-component h4,
+.yck-component h5,
+.yck-component h6 {
     text-wrap: balance;
 }
 
-.yck-component p {
+.yck-component p,
+.yck-component ol,
+.yck-component ul {
     text-wrap: pretty;
-    margin-bottom: var(--yck-space-s-xl);
+    margin-bottom: var(--yck-spacing-unit);
 }
 
-.yck-component p:last-child {
-    margin-bottom: calc(var(--yck-spacing-unit) * 2);
+.yck-component p:last-child,
+.yck-component ul li:last-child,
+.yck-component ol li:last-child {
+    margin-bottom: var(--yck-space-s-xl);
 }
 
 .yck-component .yck-h1,
 .yck-component h1 {
     font-size: var(--yck-step-5);
-    margin-bottom: var(--yck-space-s-xl);
+    margin-bottom: var(--yck-spacing-unit);
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
 
+.yck-component .yck-h2,
 .yck-component h2 {
     font-size: var(--yck-step-4);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.6);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.85);
     text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
@@ -161,29 +192,32 @@ img {
 .yck-component .yck-h3,
 .yck-component h3 {
     font-size: var(--yck-step-3);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.75);
+    text-transform: capitalize;
+    line-height: var(--yck-heading-line-height);
+    letter-spacing: var(--yck-heading-letter-spacing);
+}
+
+.yck-component .yck-h4,
+.yck-component h4 {
+    font-size: var(--yck-step-2);
     margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
     text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.yck-component .yck-h4 {
-    font-size: var(--yck-step-2);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.3);
-    text-transform: capitalize;
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
-}
-
-.yck-component .yck-h5 {
+.yck-component .yck-h5,
+.yck-component h5 {
     font-size: var(--yck-step-1);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.1);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.25);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
     letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.yck-component .yck-h6 {
+.yck-component .yck-h6,
+.yck-component h6 {
     font-size: var(--yck-step-0);
     margin-bottom: var(--yck-spacing-unit);
     text-transform: uppercase;
@@ -191,31 +225,92 @@ img {
     letter-spacing: var(--yck-heading-letter-spacing);
 }
 
+.yck-component hr,
+hr {
+    border: 1px dotted rgba(0, 0, 0, 0.25);
+    margin-block: clamp(1rem, 2vw, 2.5rem);
+}
+
+.yck-component small,
+small {
+    font-size: var(--yck-step--2);
+    line-height: var(--yck-spacing-unit);
+}
+
 .yck-component a {
     text-decoration: none;
     color: #e37f2a;
-    position: relative;
-    padding-bottom: 2px;
 }
 
-.yck-component a::after {
-    content: '';
+.yck-component a.text-link {
+    position: relative;
+    padding-bottom: 2px;
+    text-decoration: none;
+}
+
+.yck-component a.text-link::after {
+    content: " ";
     position: absolute;
     width: 0;
     height: 2px;
     bottom: 0;
     left: 0;
     background-color: currentColor;
-    transition: width 1s var(--yck-transition-timing);
+    transition:
+        width 1s cubic-bezier(0.25, 1, 0.5, 1),
+        color 1.2s ease-out;
 }
 
-.yck-component a:hover::after {
+.yck-component a.text-link:hover::after {
     width: 100%;
+    color: rgba(0, 122, 247, 0.25);
 }
 
-.yck-component a:hover {
-    text-decoration: none;
+.yck-component a[target="_blank"]:not(.text-link):after {
+    display: none;
+    margin: 0;
+    padding: 0;
 }
+
+.yck-component abbr,
+abbr {
+    text-decoration: underline dotted #2c6139;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+    color: #2c6139;
+    font-weight: 600;
+    cursor: help;
+}
+
+.yck-component abbr:hover,
+abbr:hover {
+    color: #4e835b;
+}
+
+.yck-component .dropcap-title {
+    font-size: var(--yck-step-1);
+    /* Base font size for the heading */
+    font-weight: normal;
+    margin-bottom: 0.5em;
+    color: #555;
+}
+
+/* This is the core magic for the dropcap */
+.yck-component .dropcap-title::first-letter {
+    float: left;
+    font-size: calc(var(--yck-step-5)*1.65);
+    /* The size of the dropcap relative to the heading's font size */
+    font-weight: bold;
+    font-style: oblique;
+    font-family: cursive;
+    line-height: 0.9;
+    /* Pulls the rest of the text up vertically */
+    padding-right: 0.18em;
+    /* Adds a little space next to the letter */
+    color: #4e835b;
+    /* A distinct color for the dropcap */
+}
+
 	
 /* Table Styles */
 
