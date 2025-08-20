@@ -195,8 +195,7 @@ video {
     }
 }
 
-	
 body {
-    background: radial-gradient(ellipse at center, rgba(255, 255, 255. 0.05) 1%, rgba(255, 255, 255, 0.68) 37%, rgba(255, 255,  255, 0.95) 100%), url(/images/Our%20Story/The%20YCKSian/Y1.png) no-repeat center center fixed;
+    background: radial-gradient(ellipse at center, rgba(255, 255, 255. 0.05) 1%, rgba(255, 255, 255, 0.68) 37%, rgba(255, 255,  255, 0.95) 100%), url("/images/Our%20Story/The%20YCKSian/Y1.png") no-repeat top center fixed;
 }
 </style>
