@@ -1041,7 +1041,8 @@ small {
     }
 }
 	
-#campustrans1 {
-                            background: linear-gradient(to right, rgba(255, 255, 255, 1) 10%, rgba(255, 255, 255, 0.7) 25%, rgba(255, 255, 255, 0.85) 90%, rgba(255, 255, 255, 0.9) 95%, rgba(255, 255, 255, 0.99) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Story/History/Campus%20Transformation%201/ct1new.PNG) no-repeat bottom right fixed;
-	background-size: contain;
+body {
+	background: radial-gradient(ellipse at center, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.8) 7%, rgba(250, 250, 250, 0.85) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Story/History/Campus%20Transformation%201/ct1new.PNG) no-repeat center right fixed;
+	background-size: cover;
 </style>
+
