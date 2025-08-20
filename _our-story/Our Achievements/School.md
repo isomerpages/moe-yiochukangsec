@@ -923,10 +923,12 @@ third_nav_title: Our Achievements
 <hr>
 
 
+
+
 <style>
 /* ==========================================================================
-   1. Global Styles & Resets
-   ========================================================================== */
+       1. Global Styles & Resets
+       ========================================================================== */
 
 :root {
     --yck-text-line-height: 1.6em;
@@ -972,9 +974,14 @@ video {
     vertical-align: middle;
 }
 
+img {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 /* ==========================================================================
-   2. Base Typography
-   ========================================================================== */
+       2. Base Typography
+       ========================================================================== */
 
 .yck-component {
     line-height: var(--yck-text-line-height);
@@ -1116,7 +1123,8 @@ small {
     padding: 0;
 }
 
-.yck-component abbr {
+.yck-component abbr,
+abbr {
     text-decoration: underline dotted #2c6139;
     text-decoration-thickness: 2px;
     text-underline-offset: 3px;
@@ -1125,7 +1133,8 @@ small {
     cursor: help;
 }
 
-.yck-component abbr:hover {
+.yck-component abbr:hover,
+abbr:hover {
     color: #4e835b;
 }
 
@@ -1154,11 +1163,23 @@ small {
 }
 
 /* ==========================================================================
-   3. Layout Components
-   ========================================================================== */
+       3. Layout Components
+       ========================================================================== */
 
 .yck-component .regular-flow>*+* {
     margin-top: 1.125em;
+}
+
+.yck-component .deadctr-container {
+    display: grid;
+    place-items: center;
+    height: auto;
+}
+
+.yck-component .deadctr-content {
+    padding: var(--yck-spacing-unit);
+    margin: 0 auto;
+    text-align: center;
 }
 
 .yck-component .col-container,
@@ -1173,11 +1194,11 @@ small {
 
 .yck-component .col3-container {
     columns: 3;
-    column-width: 240px;
+    column-width: 20ch;
     column-gap: 1.5em;
     column-rule-style: dotted;
     column-rule-width: 0.5px;
-    column-rule-color: rgba(170, 170, 170, 0.25);
+    column-rule-color: rgba(170, 170, 170, 0.75);
 }
 
 /* --- Flexbox Grid System --- */
@@ -1221,6 +1242,13 @@ small {
     list-style: none;
 }
 
+.masonry-container {
+    column-count: 3;
+    /* The number of columns you want */
+    column-gap: 1rem;
+    /* The space between columns */
+}
+
 .masonry-item {
     break-inside: avoid;
     margin-bottom: 1rem;
@@ -1235,13 +1263,14 @@ small {
 }
 
 /* ==========================================================================
-   4. UI Components
-   ========================================================================== */
+       4. UI Components
+       ========================================================================== */
 
 /* --- Tables --- */
 .yck-component .yck-table {
     border-collapse: collapse;
     width: 100%;
+    min-width: 180px;
     max-width: 1000px;
     margin-top: 0.5em;
     margin-bottom: var(--yck-spacing-unit);
@@ -1411,7 +1440,7 @@ small {
 
 .yck-component .isomer-card:has(img):hover {
     filter: brightness(90%);
-    background-color: #898989;
+    background-color: #fefefe;
 }
 
 .yck-component .isomer-card .isomer-card-image {
@@ -1432,7 +1461,7 @@ small {
 }
 
 .yck-component .isomer-card .isomer-card-body .isomer-card-description {
-    color: #484848;
+    color: #383838;
     font-size: var(--yck-step-0);
 }
 
@@ -1510,7 +1539,7 @@ small {
 }
 
 .yck-component figcaption {
-    background-color: rgba(255, 255, 255, 0.75);
+    background-color: rgba(255, 255, 255, 0.55);
     color: #333;
     font: italic var(--yck-step--1) sans-serif;
     margin: 0;
@@ -1518,144 +1547,85 @@ small {
     text-align: center;
 }
 
-/* --- Org Chart --- */
-.yck-component .orgchart {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    width: 100%;
-    max-width: 1000px;
-    margin: 0 auto;
-    padding: 0;
-}
 
-.yck-component .section-title {
-    font-size: var(--yck-step-3);
-    font-weight: bold;
-    margin-top: 30px;
-    margin-bottom: var(--yck-spacing-unit);
-    color: #222;
-    border-bottom: 3px solid #555;
-    padding-bottom: 8px;
-    width: 100%;
-    text-align: left;
-}
-
-.yck-component .person-container {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    flex-wrap: wrap;
-    width: 100%;
-    margin-bottom: var(--yck-space-s-xl);
-    position: relative;
-}
-
-.yck-component .person {
-    border-radius: 6px;
-    padding: 10px 15px;
-    margin: 10px;
-    text-align: left;
-    min-width: 200px;
-    box-shadow: var(--yck-box-shadow);
-    flex-grow: 0;
-    flex-shrink: 0;
-    flex-basis: calc(25% - 10px);
-}
-
-.yck-component .person-email {
-    font-size: var(--yck-step--1);
-    font-weight: normal;
-    margin-inline-start: calc(var(--yck-space-s-xl) * 2);
-    margin-bottom: var(--yck-spacing-unit);
-    color: #333;
-}
-
-.yck-component .person-name {
-    font-size: var(--yck-step-0);
-    font-weight: normal;
-    color: #333;
-}
-
-.yck-component .person-title {
-    font-size: var(--yck-step-1);
-    color: #555;
-}
-
-/* --- Details/Summary (Accordion) --- */
+/* --- Details Summary --- */
 .yck-component details {
     overflow: hidden;
+    border-radius: 10px;
+    background-color: #fff;
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.yck-component details[open] {
+    /* Shadow applied to the whole container when open */
+    box-shadow: var(--yck-inset-shadow2);
 }
 
 .yck-component details * {
     margin: 0 !important;
-}
-
-.yck-component details>p,
-.yck-component details ul,
-.yck-component details div {
-    animation: fade-in 1s ease-out;
-    padding-top: calc(var(--yck-spacing-unit) * 0.5);
+    /* Overriding potential external margins */
 }
 
 .yck-component summary {
-    margin-inline-start: 1.5rem;
-    padding: 1rem;
+    position: relative;
+    /* Establishes positioning context for the icon */
+    padding: 1rem 3rem 1rem 1.5rem;
+    /* Right padding makes space for the icon */
     list-style-position: outside;
     cursor: pointer;
     user-select: none;
     outline: none;
     font-size: var(--yck-step-1);
     font-weight: 500;
-    border-radius: 10px;
-    transition: box-shadow 0.3s ease-in-out;
+    transition: background-color 0.2s ease-in-out;
 }
 
 .yck-component summary:hover {
-    box-shadow: var(--yck-inset-shadow2);
+    background-color: rgba(0, 0, 0, 0.02);
 }
 
 .yck-component summary::marker {
-    font-size: var(--yck-step-2);
+    content: '';
 }
+
 .yck-component summary::after {
     content: "+";
     position: absolute;
     font-size: var(--yck-step-2);
+    line-height: 1;
     right: 1rem;
-    top: 1.25em;
-    transform: translateY(-50%) rotate(0deg); 
-    transition: transform 0.5s ease-in-out;
+    /* Positions the icon in the padded area */
+    top: 50%;
+    transform: translateY(-50%) rotate(0deg);
+    transition: transform 0.4s cubic-bezier(0.25, 1, 0.5, 1);
 }
 
-.yck-component details[open] > summary::after {
-    transform: translateY(-50%) rotate(135deg); /* Rotates the icon 90 degrees */
-}
-
-.yck-component details::details-content {
-    font-size: var(--yck-step-0);
-    padding-left: 1.5rem;
-    padding-right: var(--yck-space-s-xl);
-    block-size: 0;
-    transition:
-        block-size 1s ease,
-        content-visibility 1s ease;
-    transition-behavior: allow-discrete;
-}
-
-.yck-component details[open]::details-content {
-    block-size: auto;
+.yck-component details[open]>summary::after {
+    transform: translateY(-50%) rotate(135deg);
 }
 
 .yck-component details>*:not(summary) {
-    padding: 0.5rem 1rem 1rem 2rem;
-    animation: fade-in 1s ease 1s;
+    padding: 1rem 1.5rem 1.5rem 1.5rem;
+    font-size: var(--yck-step-0);
+    animation: fade-in 0.5s ease 0.1s;
     animation-fill-mode: both;
+}
+
+@keyframes fade-in {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
 
 /* --- Integrated Navigation Bar Styles --- */
 .yck-component .yck-nav-bar>* {
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
 }
 
@@ -1666,11 +1636,11 @@ small {
     background-color: #ffffff;
     border-radius: 0.75rem;
     box-shadow: var(--yck-inset-shadow2);
-    
-    justify-content: start;
+
+    justify-content: space-evenly;
     align-content: start;
     justify-items: center;
-      align-items: start;
+    align-items: start;
 }
 
 .yck-component .yck-nav-bar a {
@@ -1807,8 +1777,8 @@ small {
 }
 
 /* ==========================================================================
-   5. Animations & Transitions
-   ========================================================================== */
+       5. Animations & Transitions
+       ========================================================================== */
 
 .ken-burns-container {
     max-width: 100%;
@@ -1891,8 +1861,8 @@ small {
 }
 
 /* ==========================================================================
-   6. Accessibility & Media Queries
-   ========================================================================== */
+       6. Accessibility & Media Queries
+       ========================================================================== */
 
 @media (max-width: 1000px) {
     .yck-component .yck-flexbox-grid>* {
@@ -1926,6 +1896,26 @@ small {
     }
 }
 
+/* Default for mobile (1 column) */
+.masonry-container {
+    column-count: 1;
+    column-gap: 1rem;
+}
+
+/* Tablet (2 columns) */
+@media (min-width: 640px) {
+    .masonry-container {
+        column-count: 2;
+    }
+}
+
+/* Desktop (3 columns) */
+@media (min-width: 1024px) {
+    .masonry-container {
+        column-count: 3;
+    }
+}
+
 @supports (content-visibility: auto) {
     details {
         content-visibility: auto;
@@ -1942,4 +1932,4 @@ small {
         animation-range: entry 25% cover 50%;
     }
 }
-	</style>
+</style>
