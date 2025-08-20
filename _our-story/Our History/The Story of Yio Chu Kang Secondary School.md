@@ -1098,6 +1098,6 @@ small {
 }
 	
 #chongboontreebg {
-                            background: linear-gradient(to top, rgba(255, 255, 255, 1) 10%, rgba(255, 255, 255, 0.6) 47%, rgba(255, 255, 255, 0.65) 30%, rgba(255, 255, 255, 0.7) 65%, rgba(255, 255, 255, 0.9) 50%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/chongboontree.png) no-repeat center center;
+                            background: linear-gradient(to top, rgba(255, 255, 255, 1) 10%, rgba(255, 255, 255, 0.6) 47%, rgba(255, 255, 255, 0.65) 30%, rgba(255, 255, 255, 0.7) 65%, rgba(255, 255, 255, 0.9) 50%), url(https://www.yiochukangsec.moe.edu.sg/images/Our%20History/chongboontree.png) no-repeat center center;
                         }
 </style>
