@@ -1361,11 +1361,11 @@ small {
                     <summary>Email Address:</summary>sin_puay_san<wbr>@moe.edu.sg
                 </details>
             </div>
-            <div class="person" id="mrkenny">
-                <div class="person-name">Mr Kenny</div>
+            <div class="person" id="mrwongfookwah">
+                <div class="person-name">Mr Wong Fook Wah</div>
                 <div class="person-title">Operations Manager</div>
                 <details name="key">
-                    <summary>Email Address:</summary>
+                    <summary>Email Address:</summary>Wong_Fook_Wah<wbr>@moe.edu.sg
                 </details>
             </div>
             <div class="person" id="mrganhuikokmartin">
