@@ -1240,7 +1240,7 @@ small {
         <div id="School-Leaders" class="section-title">School Leaders</div>
         <div class="person-container school-leaders">
             <div class="person" id="mrschowbettychang">
-                <div class="person-name">Mrs Chow (Betty Chang)</div>
+                <div class="person-name">Mdm Betty Chang</div>
                 <div class="person-title">PRINCIPAL</div>
                 <details name="schlead">
                     <summary>Email Address:</summary>betty_chang<wbr>@moe.edu.sg
@@ -1998,6 +1998,13 @@ small {
                 <div class="people-grid">
                     <div class="person" id="kohbakweikelvin">
                         <div class="person-name">Mr Koh Bak Wei Kelvin</div>
+                        <div class="person-title">Desktop Engineer (NCS)</div>
+                        <details name="nonmoe">
+                            <summary>Email Address:</summary>
+                        </details>
+                    </div>
+									<div class="person" id="mohamedfaris">
+                        <div class="person-name">Mr Mohamed Faris</div>
                         <div class="person-title">Desktop Engineer (NCS)</div>
                         <details name="nonmoe">
                             <summary>Email Address:</summary>
