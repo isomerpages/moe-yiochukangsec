@@ -8,11 +8,6 @@ image: /images/YCKLogo.svg
 ---
 <div class="yck-component">
     <h1 class="yck-h1">English Department</h1>
-    <div class="ken-burns-container">
-        <figure>
-            <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/English/E1.jpg" class="ken-burns-image">
-        </figure>
-    </div>
     <div class="yck-flexbox-grid">
         <div class="isomer-card">
             <div class="isomer-card-body">
@@ -33,8 +28,8 @@ image: /images/YCKLogo.svg
         </div>
     </div>
     <p>
-        <small>Download the
-            <a class="text-link" href="/files/Academic%20Programmes/English/English_Department_Programme_and_Subject_Information.pdf">English Department Programme and Subject Information (PDF, 490kb)</a></small>
+Download the
+            <a class="text-link" href="/files/Academic%20Programmes/English/English_Department_Programme_and_Subject_Information.pdf">English Department Programme and Subject Information (PDF, 490kb)</a>
     </p>
 </div>
 
