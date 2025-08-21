@@ -6,12 +6,9 @@ third_nav_title: Academic Programmes
 variant: markdown
 image: /images/Icons/robotics.png
 ---
-<div class="ken-burns-container">
-        <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D1.jpg" class="ken-burns-image">
-</div>
-
 <div class="yck-component">
-   <div class="yck-flexbox-grid">
+	<div class="regular-flow">
+		<h1>Design and Enterprise Department</h1><div class="yck-flexbox-grid">
         <div class="isomer-card">
 					<div class="isomer-card-body">
             <h2><strong>Vision</strong></h2>
@@ -27,7 +24,7 @@ image: /images/Icons/robotics.png
     </div>
     <p>The Design and Enterprise Department offers the following subjects to develop an <strong>innovative mindset</strong> in our students. The hands-on approach adopted in these subjects allows students to anchor on design actions and the application of knowledge and process skills in real-life situations.</p>
 	
-<p><small>Download the <a href="/files/Academic%20Programmes/Design%20and%20Enterprise/Curriculum_and_Assessment_Briefing__HOD____2025__for_parents_.pdf">Curriculum and Assessment Briefing for parents (PDF, 2.23MB)</a></small></p>
+<p>Download the <a href="/files/Academic%20Programmes/Design%20and%20Enterprise/Curriculum_and_Assessment_Briefing__HOD____2025__for_parents_.pdf">Curriculum and Assessment Briefing for parents (PDF, 2.23MB)</a></p>
 		
  <img alt="" src="/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D_Tframework.png">
 </div>
@@ -1105,4 +1102,4 @@ abbr:hover {
         animation-range: entry 25% cover 50%;
     }
 }
-</style>
+</style></div>
