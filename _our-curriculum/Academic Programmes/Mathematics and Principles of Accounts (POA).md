@@ -8,13 +8,7 @@ image: /images/YCKLogo.svg
 ---
 <div class="yck-component">
     <div class="regular-flow">
-        <div class="ken-burns-container">
-            <div class="ken-burns-image">
-                <figure>
-                    <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Mathematics%20and%20POA/M1.jpg">
-                </figure>
-            </div>
-        </div>
+			<h1>Mathematics and Principles of Accounts (POA) Department</h1>
         <p>Please <a class="text-link" href="/files/Academic%20Programmes/Math%20and%20POA/Math_Department_Programme_and_Subject_Information.pdf">click here</a> for more details on the department programme and subject information.</p>
         <div class="yck-flexbox-grid">
             <div class="isomer-card">
