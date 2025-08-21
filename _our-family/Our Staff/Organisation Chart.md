@@ -2050,9 +2050,16 @@ small {
                             <summary>Email Address:</summary>kumkum_vinod_singh<wbr>@moe.edu.sg
                         </details>
                     </div>
+                    <div class="person" id="muhammadalhafizhbinnhron">
+                        <div class="person-name">Mr Muhammad Alhafizh Bin Nahron</div>
+                        <div class="person-title">STEM Instructor (Workshop)</div>
+                        <details name="ts">
+                            <summary>Email Address:</summary>Muhammad_Alhafizh_Nahron<wbr>@moe.edu.sg
+                        </details>
+                    </div>
                     <div class="person" id="zulkarnainbinmahfudz">
                         <div class="person-name">Mr Zulkarnain Bin Mahfudz</div>
-                        <div class="person-title">D&amp;T Workshop</div>
+                        <div class="person-title">STEM Instructor (Workshop)</div>
                         <details name="ts">
                             <summary>Email Address:</summary>zulkarnain_mahfudz<wbr>@moe.edu.sg
                         </details>
@@ -2069,13 +2076,6 @@ small {
                         <div class="person-title">Science Lab</div>
                         <details name="ts">
                             <summary>Email Address:</summary>tan_teck_lin_adeline<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="muhammadalhafizhbinnhron">
-                        <div class="person-name">Mr Muhammad Alhafizh Bin Nahron</div>
-                        <div class="person-title">STEM Instructor (Workshop)</div>
-                        <details name="ts">
-                            <summary>Email Address:</summary>Muhammad_Alhafizh_Nahron<wbr>@moe.edu.sg
                         </details>
                     </div>
                 </div>
