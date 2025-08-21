@@ -7,11 +7,7 @@ variant: markdown
 ---
 <div class="yck-component">
     <div class="regular-flow">
-        <div class="ken-burns-container">
-            <figure class="ken-burns-image">
-                <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Mother%20Tongue%20Languages/M1.jpg">
-            </figure>
-        </div>
+			<h1>Mother Tongue Languages Department</h1>
         <p>Please <a class="text-link" href="/files/Academic%20Programmes/Mother%20Tongue%20Languages/MTL_Department_Programme_and_Subject_Information.pdf">click here</a> for more details on the department programme and subject information.</p>
         <div class="yck-flexbox-grid">
             <div class="isomer-card">
