@@ -6,10 +6,8 @@ third_nav_title: Academic Programmes
 variant: markdown
 ---
 <div class="yck-component">
-    <div class="ken-burns-container">
-        <figure><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Science/S1.jpg" class="ken-burns-image">
-        </figure>
-    </div>
+	<div class="regular-flow">
+		<h1>Science Department</h1>
     <div class="yck-flexbox-grid">
 			<div class="isomer-card">
         <div class="isomer-card-body">
@@ -1148,4 +1146,4 @@ abbr:hover {
         animation-range: entry 25% cover 50%;
     }
 }
-</style></div>
+</style></div></div>
