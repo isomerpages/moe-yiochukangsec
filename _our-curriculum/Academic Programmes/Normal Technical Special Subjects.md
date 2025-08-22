@@ -3,8 +3,9 @@ title: Normal Technical Special Subjects
 permalink: /our-curriculum/Academic-Programmes/Normal-Technical-Special-Subjects/
 description: ""
 third_nav_title: Academic Programmes
+variant: markdown
 ---
-![](/images/Our%20Curriculum/Academic%20Programmes/NT%20Special%20Subjects/N1.jpg)
+
 
 **Vision** 
 
