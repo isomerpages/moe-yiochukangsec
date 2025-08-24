@@ -25,7 +25,7 @@ third_nav_title: Our School
 <p>Let’s join hands and move into the exciting Future together!&nbsp;
 </p>
 
-<p>Future-Ready is Now!</p>
+<p class="dropcap-title">Future-Ready is Now!</p>
 	
 </div>
 </div>
@@ -783,32 +783,28 @@ blockquote div {
     /* Ensure button container takes full width for centering */
 }
 
-.cheer-button {
-    background-color: var(--primary-green);
-    color: var(--white);
-    font-weight: 700;
-    padding: 0.75rem 2rem;
-    border-radius: 9999px;
-    box-shadow:
-        0 10px 15px -3px rgba(0, 0, 0, 0.1),
-        0 4px 6px -2px rgba(0, 0, 0, 0.05);
-    transition: all 0.3s ease-in-out;
-    border: none;
-    cursor: pointer;
-    text-decoration: none;
-    display: inline-block;
+.yck-component .dropcap-title {
+    font-size: var(--yck-step-1);
+    /* Base font size for the heading */
+    font-weight: normal;
+    margin-bottom: 0.5em;
+    color: #555;
 }
 
-.cheer-button:hover {
-    box-shadow:
-        0 20px 25px -5px rgba(0, 0, 0, 0.1),
-        0 10px 10px -5px rgba(0, 0, 0, 0.04);
-    transform: scale(1.05);
-}
-
-.cheer-button:focus {
-    outline: none;
-    box-shadow: 0 0 0 4px rgba(56, 142, 60, 0.5);
+/* This is the core magic for the dropcap */
+.yck-component .dropcap-title::first-letter {
+    float: left;
+    font-size: calc(var(--yck-step-5)*1.65);
+    /* The size of the dropcap relative to the heading's font size */
+    font-weight: bold;
+    font-style: oblique;
+    font-family: cursive;
+    line-height: 0.9;
+    /* Pulls the rest of the text up vertically */
+    padding-right: 0.18em;
+    /* Adds a little space next to the letter */
+    color: #4e835b;
+    /* A distinct color for the dropcap */
 }
 
 </style>
