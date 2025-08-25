@@ -10,19 +10,14 @@ description: Experience the pride and unity at Yio Chu Kang Secondary School's
 image: /images/Our Experience/In Our Community/NDP/yckss_at_ndp_2023_metaimg.JPG
 variant: markdown
 ---
-<div class="yck-component">
+<div class="yck-component" id="top">
 	<div class="regular-flow">
 <p>YCKSS taps into the community resources and platforms to create opportunities to enhance our students’ learning experiences beyond school. We actively seek to collaborate and engage in community activities and it is evidenced from the various events our students participated such as <abbr title="Singapore Youth Festival">SYF</abbr> Celebrations Festival Concert in 2018 and Yio Chu Kang Community Club National Day Observance Day 2018, etc.</p>
 
 <p>To find out more details of each activity, please visit our <a class="text-link" href="https://www.facebook.com/yiochukangsec">YCKSS Facebook Page</a> and <a target="_blank" class="text-link" href="https://www.instagram.com/yiochukang_sec/">Instagram Posts</a> for the latest updates.
 </p></div>
 	</div>
-	<hr>
-
-
-
-
-
+<hr>
 <div class="yck-component">
 	<div class="regular-flow">
     <h2>National Day Parade 2023 - Onward as One</h2>
@@ -30,15 +25,31 @@ variant: markdown
         <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/HR4seEKIgT4?si=7OypyE9IaxbGQ0ap" height="315" width="560"></iframe>
     </div>
     <p>Yio Chu Kang Secondary School was invited to perform in 2023 National Day Parade (NDP) Act 4 – Onward as One with Kuo Chuan Presbyterian Secondary School, CHIJ St Theresa’s Convent and Nanyang Girls’ High School. Leading up to NDP, students engaged in a series of activities, from intense weekly training sessions in school, evening performances at the Padang to learning journey and bonding sessions with participants of the other 3 schools.</p>
+		<div class="isomer-card-grid">
+			<div class="isomer-card">
+				<div class="isomer-card-img">
  <figure>
         <img alt="Group photo of students and teachers participating in NDP 2023 seated in a ballroom" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/NDP/yckss_at_ndp_2023_02.jpeg">
     </figure>
+				</div>
+				<div class="isomer-card-body">
+					<div class="isomer-card-description">
     <p>Participating in the National Day Parade (NDP) as a school was an unforgettable and pride-filled experience. The atmosphere was electrifying as students from various schools came together, adorned in the red-white costume for on 9 August. As the students danced in unison to the NDP 23 Theme song, “Shine Your Light”, they signified the light that would lead us ahead into the future. The camaraderie and sense of unity among schools created a powerful sense of national identity and belonging.</p>
+						</div>
+				</div>
+			</div>
+			<div class="isomer-card">
+				<div class="isomer-card-img">
     <figure>
         <img alt="Group photo of students and teachers on the stage after the NDP 2023" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/NDP/yckss_at_ndp_2023_01.jpeg">
     </figure>
+				</div>
+				<div class="isomer-card-body">
+					<div class="isomer-card-description">
     <p>The NDP experience not only instils a deeper appreciation for the nation but also offers students an opportunity to forge lasting friendships and unforgettable memories as we come together to celebrate their shared identity as citizens of the nation.</p>
-</div>
+					</div>
+				</div>
+			</div>
 	</div>
 <hr>
 <div class="yck-component">
@@ -61,18 +72,35 @@ variant: markdown
 	<hr>
 <div class="yck-component">
 	<div class="regular-flow">
-		<h3 id="commevents">Community Events</h3>
-		<img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Community%20Events/C1.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Community%20Events/C2.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Community%20Events/C3.png"></div>
+		<details name="ourcomm">
+			<summary>
+				<h3 id="commevents">Community Events</h3></summary>
+		<img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Community%20Events/C1.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Community%20Events/C2.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Community%20Events/C3.png">
+			<div class="yck-component">
+                                            <div class="button-container">
+                                                <a href="#top" class="button">Back to Top</a>
+                                            </div>
+                                        </div>
+		</details>
+	<details name="ourcomm">
+		<summary><h3 id="clusterevents">Cluster Events</h3></summary>
+		<p>The <b>Media &amp; Design Festival</b> has been organised annually since 2003 to promote Infocomm Technology (ICT) excellence among N6 Cluster Primary four, five and six students, as well as to develop the leadership capacity of Yio Chu Kang Secondary School students in playing the role of student instructors.</p><img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Cluster%20Events/C1.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Cluster%20Events/C2.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Cluster%20Events/C3.png">
+		<div class="yck-component">
+                                            <div class="button-container">
+                                                <a href="#top" class="button">Back to Top</a>
+                                            </div>
+                                        </div>
+		</details>
 	</div>
+		</div>
 
-<div class="yck-component">
-<input type="checkbox" id="accordion3"><label for="accordion3"><h3 id="clusterevents">Cluster Events</h3></label><p>The <b>Media &amp; Design Festival</b> has been organised annually since 2003 to promote Infocomm Technology (ICT) excellence among N6 Cluster Primary four, five and six students, as well as to develop the leadership capacity of Yio Chu Kang Secondary School students in playing the role of student instructors.</p><img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Cluster%20Events/C1.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Cluster%20Events/C2.png"> <img style="width:100%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Experience/In%20Our%20Community/Cluster%20Events/C3.png"></div>
+
 
 
 <style>
 /* ==========================================================================
-   1. Global Styles & Resets
-   ========================================================================== */
+       1. Global Styles & Resets
+       ========================================================================== */
 
 :root {
     --yck-text-line-height: 1.6em;
@@ -118,9 +146,14 @@ video {
     vertical-align: middle;
 }
 
+img {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 /* ==========================================================================
-   2. Base Typography
-   ========================================================================== */
+       2. Base Typography
+       ========================================================================== */
 
 .yck-component {
     line-height: var(--yck-text-line-height);
@@ -262,7 +295,8 @@ small {
     padding: 0;
 }
 
-.yck-component abbr {
+.yck-component abbr,
+abbr {
     text-decoration: underline dotted #2c6139;
     text-decoration-thickness: 2px;
     text-underline-offset: 3px;
@@ -271,7 +305,8 @@ small {
     cursor: help;
 }
 
-.yck-component abbr:hover {
+.yck-component abbr:hover,
+abbr:hover {
     color: #4e835b;
 }
 
@@ -300,11 +335,23 @@ small {
 }
 
 /* ==========================================================================
-   3. Layout Components
-   ========================================================================== */
+       3. Layout Components
+       ========================================================================== */
 
 .yck-component .regular-flow>*+* {
     margin-top: 1.125em;
+}
+
+.yck-component .deadctr-container {
+    display: grid;
+    place-items: center;
+    height: auto;
+}
+
+.yck-component .deadctr-content {
+    padding: var(--yck-spacing-unit);
+    margin: 0 auto;
+    text-align: center;
 }
 
 .yck-component .col-container,
@@ -319,11 +366,11 @@ small {
 
 .yck-component .col3-container {
     columns: 3;
-    column-width: 240px;
+    column-width: 20ch;
     column-gap: 1.5em;
     column-rule-style: dotted;
     column-rule-width: 0.5px;
-    column-rule-color: rgba(170, 170, 170, 0.25);
+    column-rule-color: rgba(170, 170, 170, 0.75);
 }
 
 /* --- Flexbox Grid System --- */
@@ -367,6 +414,13 @@ small {
     list-style: none;
 }
 
+.masonry-container {
+    column-count: 3;
+    /* The number of columns you want */
+    column-gap: 1rem;
+    /* The space between columns */
+}
+
 .masonry-item {
     break-inside: avoid;
     margin-bottom: 1rem;
@@ -381,13 +435,14 @@ small {
 }
 
 /* ==========================================================================
-   4. UI Components
-   ========================================================================== */
+       4. UI Components
+       ========================================================================== */
 
 /* --- Tables --- */
 .yck-component .yck-table {
     border-collapse: collapse;
     width: 100%;
+    min-width: 180px;
     max-width: 1000px;
     margin-top: 0.5em;
     margin-bottom: var(--yck-spacing-unit);
@@ -557,7 +612,7 @@ small {
 
 .yck-component .isomer-card:has(img):hover {
     filter: brightness(90%);
-    background-color: #898989;
+    background-color: #fefefe;
 }
 
 .yck-component .isomer-card .isomer-card-image {
@@ -578,7 +633,7 @@ small {
 }
 
 .yck-component .isomer-card .isomer-card-body .isomer-card-description {
-    color: #484848;
+    color: #383838;
     font-size: var(--yck-step-0);
 }
 
@@ -656,7 +711,7 @@ small {
 }
 
 .yck-component figcaption {
-    background-color: rgba(255, 255, 255, 0.75);
+    background-color: rgba(255, 255, 255, 0.55);
     color: #333;
     font: italic var(--yck-step--1) sans-serif;
     margin: 0;
@@ -664,144 +719,85 @@ small {
     text-align: center;
 }
 
-/* --- Org Chart --- */
-.yck-component .orgchart {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    width: 100%;
-    max-width: 1000px;
-    margin: 0 auto;
-    padding: 0;
-}
 
-.yck-component .section-title {
-    font-size: var(--yck-step-3);
-    font-weight: bold;
-    margin-top: 30px;
-    margin-bottom: var(--yck-spacing-unit);
-    color: #222;
-    border-bottom: 3px solid #555;
-    padding-bottom: 8px;
-    width: 100%;
-    text-align: left;
-}
-
-.yck-component .person-container {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    flex-wrap: wrap;
-    width: 100%;
-    margin-bottom: var(--yck-space-s-xl);
-    position: relative;
-}
-
-.yck-component .person {
-    border-radius: 6px;
-    padding: 10px 15px;
-    margin: 10px;
-    text-align: left;
-    min-width: 200px;
-    box-shadow: var(--yck-box-shadow);
-    flex-grow: 0;
-    flex-shrink: 0;
-    flex-basis: calc(25% - 10px);
-}
-
-.yck-component .person-email {
-    font-size: var(--yck-step--1);
-    font-weight: normal;
-    margin-inline-start: calc(var(--yck-space-s-xl) * 2);
-    margin-bottom: var(--yck-spacing-unit);
-    color: #333;
-}
-
-.yck-component .person-name {
-    font-size: var(--yck-step-0);
-    font-weight: normal;
-    color: #333;
-}
-
-.yck-component .person-title {
-    font-size: var(--yck-step-1);
-    color: #555;
-}
-
-/* --- Details/Summary (Accordion) --- */
+/* --- Details Summary --- */
 .yck-component details {
     overflow: hidden;
+    border-radius: 10px;
+    background-color: #fff;
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.yck-component details[open] {
+    /* Shadow applied to the whole container when open */
+    box-shadow: var(--yck-inset-shadow2);
 }
 
 .yck-component details * {
     margin: 0 !important;
-}
-
-.yck-component details>p,
-.yck-component details ul,
-.yck-component details div {
-    animation: fade-in 1s ease-out;
-    padding-top: calc(var(--yck-spacing-unit) * 0.5);
+    /* Overriding potential external margins */
 }
 
 .yck-component summary {
-    margin-inline-start: 1.5rem;
-    padding: 1rem;
+    position: relative;
+    /* Establishes positioning context for the icon */
+    padding: 1rem 3rem 1rem 1.5rem;
+    /* Right padding makes space for the icon */
     list-style-position: outside;
     cursor: pointer;
     user-select: none;
     outline: none;
     font-size: var(--yck-step-1);
     font-weight: 500;
-    border-radius: 10px;
-    transition: box-shadow 0.3s ease-in-out;
+    transition: background-color 0.2s ease-in-out;
 }
 
 .yck-component summary:hover {
-    box-shadow: var(--yck-inset-shadow2);
+    background-color: rgba(0, 0, 0, 0.02);
 }
 
 .yck-component summary::marker {
-    font-size: var(--yck-step-2);
+    content: '';
 }
+
 .yck-component summary::after {
     content: "+";
     position: absolute;
     font-size: var(--yck-step-2);
+    line-height: 1;
     right: 1rem;
-    top: 1.25em;
-    transform: translateY(-50%) rotate(0deg); 
-    transition: transform 0.5s ease-in-out;
+    /* Positions the icon in the padded area */
+    top: 50%;
+    transform: translateY(-50%) rotate(0deg);
+    transition: transform 0.4s cubic-bezier(0.25, 1, 0.5, 1);
 }
 
-.yck-component details[open] > summary::after {
-    transform: translateY(-50%) rotate(135deg); /* Rotates the icon 90 degrees */
-}
-
-.yck-component details::details-content {
-    font-size: var(--yck-step-0);
-    padding-left: 1.5rem;
-    padding-right: var(--yck-space-s-xl);
-    block-size: 0;
-    transition:
-        block-size 1s ease,
-        content-visibility 1s ease;
-    transition-behavior: allow-discrete;
-}
-
-.yck-component details[open]::details-content {
-    block-size: auto;
+.yck-component details[open]>summary::after {
+    transform: translateY(-50%) rotate(135deg);
 }
 
 .yck-component details>*:not(summary) {
-    padding: 0.5rem 1rem 1rem 2rem;
-    animation: fade-in 1s ease 1s;
+    padding: 1rem 1.5rem 1.5rem 1.5rem;
+    font-size: var(--yck-step-0);
+    animation: fade-in 0.5s ease 0.1s;
     animation-fill-mode: both;
+}
+
+@keyframes fade-in {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
 
 /* --- Integrated Navigation Bar Styles --- */
 .yck-component .yck-nav-bar>* {
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
 }
 
@@ -812,11 +808,11 @@ small {
     background-color: #ffffff;
     border-radius: 0.75rem;
     box-shadow: var(--yck-inset-shadow2);
-    
-    justify-content: start;
+
+    justify-content: space-evenly;
     align-content: start;
     justify-items: center;
-      align-items: start;
+    align-items: start;
 }
 
 .yck-component .yck-nav-bar a {
@@ -953,8 +949,8 @@ small {
 }
 
 /* ==========================================================================
-   5. Animations & Transitions
-   ========================================================================== */
+       5. Animations & Transitions
+       ========================================================================== */
 
 .ken-burns-container {
     max-width: 100%;
@@ -1037,8 +1033,8 @@ small {
 }
 
 /* ==========================================================================
-   6. Accessibility & Media Queries
-   ========================================================================== */
+       6. Accessibility & Media Queries
+       ========================================================================== */
 
 @media (max-width: 1000px) {
     .yck-component .yck-flexbox-grid>* {
@@ -1072,6 +1068,26 @@ small {
     }
 }
 
+/* Default for mobile (1 column) */
+.masonry-container {
+    column-count: 1;
+    column-gap: 1rem;
+}
+
+/* Tablet (2 columns) */
+@media (min-width: 640px) {
+    .masonry-container {
+        column-count: 2;
+    }
+}
+
+/* Desktop (3 columns) */
+@media (min-width: 1024px) {
+    .masonry-container {
+        column-count: 3;
+    }
+}
+
 @supports (content-visibility: auto) {
     details {
         content-visibility: auto;
@@ -1088,4 +1104,4 @@ small {
         animation-range: entry 25% cover 50%;
     }
 }
-</style>
+</style></div></div>

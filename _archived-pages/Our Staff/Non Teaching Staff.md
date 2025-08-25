@@ -1,9 +1,9 @@
 ---
 title: Non Teaching Staff
-permalink: /archived-pages/non-teaching-staff/
+permalink: /archived-pages/our-staff/non-teaching-staff/
 description: ""
 variant: markdown
-image: /images/YCKLogo.svg
+image: /images/Icons/archive.png
 third_nav_title: Our Staff
 ---
 <ul class="jekyllcodex_accordion">

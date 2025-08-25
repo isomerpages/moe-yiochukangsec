@@ -5,17 +5,25 @@ description: ""
 third_nav_title: Our Students
 variant: markdown
 ---
-<div class="yck-component" id="ycksians">
+<section>
+	<div class="yck-component">
 	<div class="regular-flow">
 <p>YCKSians are students of character who learn to thrive and develop a willingness to grow. Through service to the community, they will grow and lead meaningful lives and become a positive influence in the community.</p>
-
+		<div class="ken-burns-container">
+			<div class="ken-burns-image">
+<figure>
+	<img src="/images/Our%20Story/The%20YCKSian/Y1.png">
+</figure>
+			</div>
+		</div>
 <p>YCKSians are students of character who learn to thrive and develop a willingness to grow. Through service to the community, they will grow and lead meaningful lives and become a positive influence in the community.</p>
 
 <p>YCKSians are students of character who learn to thrive and develop a willingness to grow.</p>
 
 <p>Through service to the community, they will grow and lead meaningful lives and become a positive influence in the community.</p>
 </div>
-	</div>
+</div>
+	</section>
 
 <style>
 	:root {
@@ -103,9 +111,91 @@ video {
     margin-top: 1.125em;
 }
 	
+/* ==========================================================================
+   5. Animations & Transitions
+   ========================================================================== */
+
+.ken-burns-container {
+    max-width: 100%;
+    overflow: hidden;
+    position: relative;
+    border-radius: 8px;
+}
+
+.ken-burns-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    animation: kenBurns 35s ease-in-out infinite alternate;
+}
+
+.fade-in {
+    animation: fade-in 1s ease-in-out both;
+}
+
+@keyframes kenBurns {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.35);
+    }
+}
+
+@-webkit-keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@-webkit-keyframes fade-out {
+    0% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+@keyframes fade-out {
+    0% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+@keyframes fade-in-bottom {
+    from {
+        opacity: 0;
+        transform: translateY(10vh);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
 body {
-    background: radial-gradient(ellipse at center, rgba(255, 255, 255. 0.05) 1%, rgba(255, 255, 255, 0.68) 37%, rgba(255, 255,  255, 0.95) 100%), url(https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/The%20YCKSian/Y1.png) no-repeat center center fixed;
-    background-size: contain;
-    background-origin: center center;
+    background: radial-gradient(ellipse at center, rgba(255, 255, 255. 0.05) 1%, rgba(255, 255, 255, 0.68) 37%, rgba(255, 255,  255, 0.95) 100%), url("/images/Our%20Story/The%20YCKSian/Y1.png") no-repeat top center fixed;
 }
 </style>

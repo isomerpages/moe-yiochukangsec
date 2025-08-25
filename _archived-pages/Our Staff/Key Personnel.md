@@ -1,9 +1,10 @@
 ---
 title: Key Personnel
-permalink: /our-story/Organisation-Chart/Key-Personnel/
+permalink: /archived-pages/our-staff/key-personnel/
 description: ""
 variant: markdown
 third_nav_title: Our Staff
+image: /images/Icons/archive.png
 ---
 <img alt="Key Personnel Row 01" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Story/Organisation%20Chart/Key%20Personnel/01keyperson2025.png">
 <img alt="Key Personnel Row 02" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Story/Organisation%20Chart/Key%20Personnel/02keyperson2025.png">

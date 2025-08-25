@@ -1,9 +1,10 @@
 ---
 title: Teaching Staff
-permalink: /our-story/Organisation-Chart/Teaching-Staff/
+permalink: /archived-pages/our-staff/teaching-staff/
 description: ""
 variant: markdown
 third_nav_title: Our Staff
+image: /images/Icons/archive.png
 ---
 <div class="yck-component">
 <ul class="jekyllcodex_accordion">
