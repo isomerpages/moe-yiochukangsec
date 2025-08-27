@@ -7,10 +7,10 @@ image: /images/YCKLogo.svg
 ---
 <div class="yck-component">
 	<div class="regular-flow">
-		<p>The School Advisory Committee (SAC) was newly formed after the merger
-of Yio Chu Kang Secondary School and Chong Boon Secondary School in 2018.
-The new committee is made up of members from both former schools' committee,
-			and they aim to help bring out the best in our school and students.</p> 
+		<p>The School Advisory Committee (SAC) was newly formed after the <a class="text-link" href="/our-story/our-history/2018/">merger
+                                        of Yio Chu Kang Secondary School and Chong Boon Secondary School in 2018.</a>
+                                        The new committee is made up of members from both former schools' committee,
+                                        and they aim to help bring out the best in our school and students.</p>
 		<p>Their
 			many contributions include the <i>SAC-YCKSS Resilience</i> award. This award was
 initiated by the SAC in 2018 to recognize students who have been able to
