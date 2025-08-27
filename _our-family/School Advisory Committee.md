@@ -25,58 +25,58 @@ achieve excellence against all odds and challenges.</p>
 </tr>
 <tr>
 <td class="yck-td">
-<p>Mr Herald Yeo</p>
+Mr Herald Yeo
 </td>
 <td class="yck-td">
-<p>Chairman</p>
-</td>
-</tr>
-<tr>
-<td class="yck-td">
-<p>Dr Matthew Yap</p>
-</td>
-<td class="yck-td">
-<p>Vice-Chairman</p>
+Chairman
 </td>
 </tr>
 <tr>
 <td class="yck-td">
-<p>Mr Kenneth Siow</p>
+Dr Matthew Yap
 </td>
 <td class="yck-td">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td class="yck-td">
-<p>Ms Koh Chen Chen</p>
-</td>
-<td class="yck-td">
-<p>Member</p>
+Vice-Chairman
 </td>
 </tr>
 <tr>
 <td class="yck-td">
-<p>Mr Johannes Yap</p>
+Mr Kenneth Siow
 </td>
 <td class="yck-td">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td class="yck-td">
-<p>Mr Sebastian Ng</p>
-</td>
-<td class="yck-td">
-<p>Member</p>
+Member
 </td>
 </tr>
 <tr>
 <td class="yck-td">
-<p>Ms Catherine Soh</p>
+Ms Koh Chen Chen
 </td>
 <td class="yck-td">
-<p>Member</p>
+Member
+</td>
+</tr>
+<tr>
+<td class="yck-td">
+Mr Johannes Yap
+</td>
+<td class="yck-td">
+<p>Member
+</p></td>
+</tr>
+<tr>
+<td class="yck-td">
+Mr Sebastian Ng
+</td>
+<td class="yck-td">
+<p>Member
+</p></td>
+</tr>
+<tr>
+<td class="yck-td">
+Ms Catherine Soh<p></p>
+</td>
+<td class="yck-td">
+Member
 </td>
 </tr>
 </tbody>
