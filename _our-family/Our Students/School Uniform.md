@@ -1,9 +1,10 @@
 ---
 title: School Uniform
-permalink: /our-family/Students/School-Uniform/
+permalink: /our-family/our-students/school-uniform/
 description: ""
 third_nav_title: Our Students
 variant: markdown
+image: /images/YCKLogo.svg
 ---
 <div class="yck-component">
 	<div class="isomer-card">

@@ -12,8 +12,28 @@ students with subject information to guide their preparation for the assessments
 and level.</p>
 <p>Click the links below for details. This will be refreshed for each term.</p>
 <h3><strong>Assessment Rules &amp; Regulations</strong></h3>
+<p><a href="/files/Students/Assessment Information Sche/Exam_Rules___Regulations_2025.pdf" rel="noopener nofollow" target="_blank">Examination Rules &amp; Regulations 2025 </a>(updated
+on 29 August 2025)</p>
 <p><a href="/files/Students/Assessment Information Sche/YCKSS_Weighted_Assessment_Rules_and_Regulations.pdf" rel="noopener nofollow" target="_blank">Weighted Assessment Rules &amp; Regulations 2025</a> (updated
 on 5 Feb 2025)</p>
+<p></p>
+<h4><strong>End of Year Examination Schedule 2025</strong></h4>
+<p>(updated on 29 August 2025)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Students/Assessment Information Sche/Sec_3_EOY_Timetable2025.pdf" rel="noopener nofollow" target="_blank">Sec 3 EOY Timetable 2025</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/2025_Sec_2_EOY_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 2 EOY Timetable 2025</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/2025_Sec_1_EOY_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 1 EOY Timetable 2025</a>
+</p>
+</li>
+</ul>
+<p></p>
 <h4><strong>End of Year Subject Information 2025</strong></h4>
 <p>(updated on 12 August 2025)</p>
 <ul data-tight="true" class="tight">

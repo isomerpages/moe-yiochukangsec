@@ -1,6 +1,6 @@
 ---
 title: "Campus Transformation 4: Union of Legacies"
-permalink: /our-history/2018/
+permalink: /our-story/our-history/2018/
 variant: markdown
 description: ""
 image: /images/YCKLogo.svg

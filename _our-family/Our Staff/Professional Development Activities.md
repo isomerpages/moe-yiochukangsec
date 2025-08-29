@@ -83,8 +83,8 @@ image: /images/YCKLogo.svg
 
 <style>
 /* ==========================================================================
-       1. Global Styles & Resets
-       ========================================================================== */
+   1. Global Styles & Resets
+   ========================================================================== */
 
 :root {
     --yck-text-line-height: 1.6em;
@@ -107,6 +107,23 @@ image: /images/YCKLogo.svg
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
     --yck-space-s-xl: clamp(1em, 0.2143em + 3.9286vw, 3.5em);
+    
+    --font-system-ui: system-ui, sans-serif;
+    --font-transitional: Charter, Bitstream Charter, Sitka Text, Cambria, serif;
+    --font-old-style: Iowan Old Style, Palatino Linotype, URW Palladio L, P052, serif;
+    --font-humanist: Seravek, Gill Sans Nova, Ubuntu, Calibri, DejaVu Sans, source-sans-pro, sans-serif;
+    --font-geometric-humanist: Avenir, Montserrat, Corbel, URW Gothic, source-sans-pro, sans-serif;
+    --font-classical-humanist: Optima, Candara, Noto Sans, source-sans-pro, sans-serif;
+    --font-neo-grotesque: Inter, Roboto, Helvetica Neue, Arial Nova, Nimbus Sans, Arial, sans-serif;
+    --font-monospace-slab-serif: Nimbus Mono PS, Courier New, monospace;
+    --font-monospace-code: Dank Mono, Operator Mono, Inconsolata, Fira Mono, ui-monospace, SF Mono,Monaco, Droid Sans Mono, Source Code Pro, Cascadia Code,Menlo, Consolas, DejaVu Sans Mono, monospace;
+    --font-industrial: Bahnschrift, DIN Alternate, Franklin Gothic Medium, Nimbus Sans Narrow, sans-serif-condensed, sans-serif;
+    --font-rounded-sans: ui-rounded, Hiragino Maru Gothic ProN, Quicksand, Comfortaa, Manjari, Arial Rounded MT, Arial Rounded MT Bold, Calibri, source-sans-pro, sans-serif;
+    --font-slab-serif: Rockwell, Rockwell Nova, Roboto Slab, DejaVu Serif, Sitka Small, serif;
+    --font-antique: Superclarendon, Bookman Old Style, URW Bookman, URW Bookman L, Georgia Pro, Georgia, serif;
+    --font-didone: Didot, Bodoni MT, Noto Serif Display, URW Palladio L, P052, Sylfaen, serif;
+    --font-handwritten: Segoe Print, Bradley Hand, Chilanka, TSCu_Comic, casual, cursive;
+
     interpolate-size: allow-keywords;
     scroll-behavior: smooth;
     text-rendering: optimizeSpeed;
@@ -136,8 +153,8 @@ img {
 }
 
 /* ==========================================================================
-       2. Base Typography
-       ========================================================================== */
+   2. Base Typography
+   ========================================================================== */
 
 .yck-component {
     line-height: var(--yck-text-line-height);
@@ -289,7 +306,7 @@ abbr {
     cursor: help;
 }
 
-.yck-component abbr:hover,
+.yck-component abbr:hover, 
 abbr:hover {
     color: #4e835b;
 }
@@ -309,7 +326,7 @@ abbr:hover {
     /* The size of the dropcap relative to the heading's font size */
     font-weight: bold;
     font-style: oblique;
-    font-family: cursive;
+    font-family: var(--font-antique);
     line-height: 0.9;
     /* Pulls the rest of the text up vertically */
     padding-right: 0.18em;
@@ -319,8 +336,8 @@ abbr:hover {
 }
 
 /* ==========================================================================
-       3. Layout Components
-       ========================================================================== */
+   3. Layout Components
+   ========================================================================== */
 
 .yck-component .regular-flow>*+* {
     margin-top: 1.125em;
@@ -419,8 +436,8 @@ abbr:hover {
 }
 
 /* ==========================================================================
-       4. UI Components
-       ========================================================================== */
+   4. UI Components
+   ========================================================================== */
 
 /* --- Tables --- */
 .yck-component .yck-table {
@@ -651,7 +668,7 @@ abbr:hover {
 
 .yck-component blockquote>p,
 .yck-component blockquote>div {
-    color: #ff6b6b !important;
+    color: #ff6b6b;
     font-style: italic;
     font-size: var(--yck-step-1);
     line-height: 1.5;
@@ -701,82 +718,6 @@ abbr:hover {
     margin: 0;
     padding: 5px;
     text-align: center;
-}
-
-
-/* --- Details Summary --- */
-.yck-component details {
-    overflow: hidden;
-    border-radius: 10px;
-    background-color: #fff;
-    transition: box-shadow 0.3s ease-in-out;
-}
-
-.yck-component details[open] {
-    /* Shadow applied to the whole container when open */
-    box-shadow: var(--yck-inset-shadow2);
-}
-
-.yck-component details * {
-    margin: 0 !important;
-    /* Overriding potential external margins */
-}
-
-.yck-component summary {
-    position: relative;
-    /* Establishes positioning context for the icon */
-    padding: 1rem 3rem 1rem 1.5rem;
-    /* Right padding makes space for the icon */
-    list-style-position: outside;
-    cursor: pointer;
-    user-select: none;
-    outline: none;
-    font-size: var(--yck-step-1);
-    font-weight: 500;
-    transition: background-color 0.2s ease-in-out;
-}
-
-.yck-component summary:hover {
-    background-color: rgba(0, 0, 0, 0.02);
-}
-
-.yck-component summary::marker {
-    content: '';
-}
-
-.yck-component summary::after {
-    content: "+";
-    position: absolute;
-    font-size: var(--yck-step-2);
-    line-height: 1;
-    right: 1rem;
-    /* Positions the icon in the padded area */
-    top: 50%;
-    transform: translateY(-50%) rotate(0deg);
-    transition: transform 0.4s cubic-bezier(0.25, 1, 0.5, 1);
-}
-
-.yck-component details[open]>summary::after {
-    transform: translateY(-50%) rotate(135deg);
-}
-
-.yck-component details>*:not(summary) {
-    padding: 1rem 1.5rem 1.5rem 1.5rem;
-    font-size: var(--yck-step-0);
-    animation: fade-in 0.5s ease 0.1s;
-    animation-fill-mode: both;
-}
-
-@keyframes fade-in {
-    from {
-        opacity: 0;
-        transform: translateY(-10px);
-    }
-
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
 }
 
 /* --- Integrated Navigation Bar Styles --- */
@@ -933,8 +874,8 @@ abbr:hover {
 }
 
 /* ==========================================================================
-       5. Animations & Transitions
-       ========================================================================== */
+   5. Animations & Transitions
+   ========================================================================== */
 
 .ken-burns-container {
     max-width: 100%;
@@ -1017,8 +958,8 @@ abbr:hover {
 }
 
 /* ==========================================================================
-       6. Accessibility & Media Queries
-       ========================================================================== */
+   6. Accessibility & Media Queries
+   ========================================================================== */
 
 @media (max-width: 1000px) {
     .yck-component .yck-flexbox-grid>* {
@@ -1040,15 +981,6 @@ abbr:hover {
 @media (max-width: 600px) {
     .yck-component .yck-flex-grid>* {
         flex-basis: auto;
-    }
-}
-
-@media (prefers-reduced-motion: reduce) {
-    * {
-        animation-duration: 0.01ms !important;
-        animation-iteration-count: 1 !important;
-        transition-duration: 0.01ms !important;
-        scroll-behavior: auto !important;
     }
 }
 
@@ -1151,7 +1083,7 @@ abbr:hover {
 .yck-component .carousel-images img {
     scroll-snap-align: center;
     /*padding-left: 20px;
-            padding-right: 20px;*/
+    padding-right: 20px;*/
     max-width: 100%;
     /* This ensures each image takes up the full width of the carousel */
     height: 100%;
@@ -1159,4 +1091,275 @@ abbr:hover {
     flex-shrink: 0;
     /* Prevents the images from shrinking */
 }
+
+/* --- Details Summary --- */
+.yck-component details {
+    overflow: hidden;
+    border-radius: 10px;
+    background-color: #fff;
+    transition: box-shadow 0.5s ease-out;
+}
+
+.yck-component details[open] {
+    /* Shadow applied to the whole container when open */
+    box-shadow: var(--yck-inset-shadow2);
+}
+
+.yck-component details * {
+    margin: 0 !important;
+}
+
+.yck-component summary {
+    position: relative;
+    padding: 1rem 3rem 1rem 1.5rem;
+    list-style-position: outside;
+    cursor: pointer;
+    user-select: none;
+    outline: none;
+    font-size: var(--yck-step-1);
+    font-weight: 500;
+    transition: background-color 0.5s ease-in;
+}
+
+.yck-component summary:hover {
+    background-color: rgba(0, 0, 0, 0.03);
+    box-shadow: var(--yck-box-shadow1);
+}
+
+.yck-component summary::marker {
+    content: '';
+}
+
+.yck-component summary::after {
+    content: "+";
+    position: absolute;
+    font-size: var(--yck-step-2);
+    line-height: 1;
+    right: 1rem;
+    top: 50%;
+    transform: translateY(-50%) rotate(0deg);
+    transition: transform 0.65s cubic-bezier(0.25, 1, 0.5, 1);
+}
+
+.yck-component details[open]>summary::after {
+    transform: translateY(-50%) rotate(135deg);
+}
+
+.yck-component details>*:not(summary) {
+    padding: 1rem 1.5rem 1.5rem 1.5rem;
+    animation: fade-in 0.5s ease 0.5s;
+    animation-fill-mode: both;
+}
+
+@keyframes fade-in {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Main container for the entire organizational chart */
+.org-chart {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 1600px;
+    /* Allows for a wider chart */
+}
+
+/* Styling for major section titles like "School Leaders" */
+.section-title {
+    font-size: var(--yck-step-2);
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: #222;
+    border-bottom: 3px solid #555;
+    padding-bottom: 8px;
+    width: 100%;
+    text-align: center;
+}
+
+/* Container for a group of people, e.g., all school leaders */
+.person-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 25px;
+    position: relative;
+    /* Needed for the pseudo-element connector line */
+}
+
+/* A simple vertical line connecting a section title to its content below */
+.person-container::before {
+    content: '';
+    position: absolute;
+    top: -15px;
+    /* Positioned just below the title */
+    left: 50%;
+    transform: translateX(-50%);
+    width: 2px;
+    height: 15px;
+    background-color: #777;
+}
+
+/* Styling for department and staff group containers */
+.department,
+.staff-group {
+    width: 100%;
+    margin-bottom: 30px;
+    padding: 15px;
+    border: 1px solid #d0d0d0;
+    border-radius: 8px;
+    background-color: #fdfdfd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+/* Titles for individual departments or non-teaching staff groups */
+.department-name,
+.group-name {
+    font-size: var(--yck-step-1);
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 15px;
+    text-align: center;
+    border-bottom: 1px dashed #aaa;
+    padding-bottom: 10px;
+}
+
+/* Grid layout for displaying people within a department or group */
+.people-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    /* Provides spacing between individual person cards */
+}
+
+/* Individual card for each person */
+.person {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    padding: 10px 15px;
+    margin: 5px;
+    text-align: center;
+    min-width: 25ch;
+    max-width: 50ch;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+    flex-grow: 1;
+    /* Prevents cards from growing to fill space */
+    flex-shrink: 0;
+    /* Prevents cards from shrinking */
+    flex-basis: calc(20% - 10px);
+    /* Aims for 5 cards per row, adjusting for gap */
+}
+
+/* Name of the person */
+.person-name {
+    font-size: var(--yck-step-0);
+    font-weight: bold;
+    margin-bottom: 4px;
+    color: #333;
+}
+
+/* Title/role of the person */
+.person-title {
+    font-size: calc(var(--yck-step-0)*0.85);
+    color: #555;
+    margin-bottom: 8px;
+    /* Add some space before the details tag */
+}
+
+.person details {
+    font-size: calc(var(--yck-step-0)*0.8);
+    cursor: pointer;
+}
+
+/* --- Tier-Specific Styling --- */
+
+/* Special styling for school leader cards */
+.school-leaders .person {
+    background-color: #e0eafc;
+    border-color: #abc4ff;
+    flex-basis: calc(33% - 20px);
+    /* Aims for 3 leaders per row */
+}
+
+/* Special styling for key personnel cards */
+.key-personnel .person {
+    background-color: #dcf0dc;
+    border-color: #a0c0a0;
+    flex-basis: calc(33.33% - 10px);
+    /* Aims for 3 per row */
+}
+
+/* Styling for teaching staff cards within departments */
+.department .person {
+    background-color: #fff5e6;
+    border-color: #ffd5ab;
+    flex-basis: calc(25% - 10px);
+    /* Aims for 4 per row */
+}
+
+/* Styling for non-teaching staff cards within groups */
+.staff-group .person {
+    background-color: #e6f2ff;
+    border-color: #adccef;
+    flex-basis: calc(25% - 10px);
+    /* Aims for 4 per row */
+}
+
+/* --- Responsive Adjustments for Different Screen Sizes --- */
+
+@media (max-width: 1200px) {
+    .person {
+        flex-basis: calc(25% - 10px);
+        /* 4 cards per row */
+    }
+
+    .school-leaders .person {
+        flex-basis: calc(50% - 20px);
+        /* 2 leader cards per row */
+    }
+}
+
+@media (max-width: 900px) {
+    .person {
+        flex-basis: calc(33.33% - 10px);
+        /* 3 cards per row */
+    }
+}
+
+@media (max-width: 600px) {
+    .person {
+        flex-basis: calc(50% - 10px);
+        /* 2 cards per row */
+    }
+
+    .department-name,
+    .group-name {
+        font-size: var(--yck-step-0);
+    }
+
+    .section-title {
+        font-size: var(--yck-step-1);
+    }
+}
+
+@media (max-width: 400px) {
+    .person {
+        flex-basis: calc(100% - 10px);
+        /* 1 card per row */
+    }
+}
+
+
 </style>
