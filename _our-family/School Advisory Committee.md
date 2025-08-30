@@ -27,16 +27,16 @@ achieve excellence against all odds and challenges.</p>
 <td class="yck-td">
 Mr Herald Yeo
 </td>
-<td class="yck-td">
-Chairman
+<td class="yck-td"><span style="text-transform: uppercase;">
+	Chairman</span>
 </td>
 </tr>
 <tr>
 <td class="yck-td">
 Dr Matthew Yap
 </td>
-<td class="yck-td">
-Vice-Chairman
+<td class="yck-td"><span style="text-transform: uppercase;">
+	Vice-Chairman</span>
 </td>
 </tr>
 <tr>
@@ -60,20 +60,20 @@ Member
 Mr Johannes Yap
 </td>
 <td class="yck-td">
-<p>Member
-</p></td>
+Member
+</td>
 </tr>
 <tr>
 <td class="yck-td">
 Mr Sebastian Ng
 </td>
 <td class="yck-td">
-<p>Member
-</p></td>
+Member
+</td>
 </tr>
 <tr>
 <td class="yck-td">
-Ms Catherine Soh<p></p>
+Ms Catherine Soh
 </td>
 <td class="yck-td">
 Member
