@@ -77,8 +77,14 @@ image: /images/YCKLogo.svg
 </div>
 <div class="yck-component">
     <div class="button-container">
-        <a href="#top" class="button">Back to Top</a>
-    </div>
+                                        <a href="#top">
+                                            <button class="buttontotop">
+                                                <svg viewBox="0 0 384 512" class="svgIcon">
+                                                    <path d="M214.6 41.4c-12.5-12.5-32.8-12.5-45.3 0l-160 160c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L160 141.2V448c0 17.7 14.3 32 32 32s32-14.3 32-32V141.2L329.4 246.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3l-160-160z"></path>
+                                                </svg>
+                                            </button>
+                                        </a>
+                                    </div>
 </div>
 
 <style>
@@ -107,7 +113,7 @@ image: /images/YCKLogo.svg
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
     --yck-space-s-xl: clamp(1em, 0.2143em + 3.9286vw, 3.5em);
-    
+
     --font-system-ui: system-ui, sans-serif;
     --font-transitional: Charter, Bitstream Charter, Sitka Text, Cambria, serif;
     --font-old-style: Iowan Old Style, Palatino Linotype, URW Palladio L, P052, serif;
@@ -116,7 +122,7 @@ image: /images/YCKLogo.svg
     --font-classical-humanist: Optima, Candara, Noto Sans, source-sans-pro, sans-serif;
     --font-neo-grotesque: Inter, Roboto, Helvetica Neue, Arial Nova, Nimbus Sans, Arial, sans-serif;
     --font-monospace-slab-serif: Nimbus Mono PS, Courier New, monospace;
-    --font-monospace-code: Dank Mono, Operator Mono, Inconsolata, Fira Mono, ui-monospace, SF Mono,Monaco, Droid Sans Mono, Source Code Pro, Cascadia Code,Menlo, Consolas, DejaVu Sans Mono, monospace;
+    --font-monospace-code: Dank Mono, Operator Mono, Inconsolata, Fira Mono, ui-monospace, SF Mono, Monaco, Droid Sans Mono, Source Code Pro, Cascadia Code, Menlo, Consolas, DejaVu Sans Mono, monospace;
     --font-industrial: Bahnschrift, DIN Alternate, Franklin Gothic Medium, Nimbus Sans Narrow, sans-serif-condensed, sans-serif;
     --font-rounded-sans: ui-rounded, Hiragino Maru Gothic ProN, Quicksand, Comfortaa, Manjari, Arial Rounded MT, Arial Rounded MT Bold, Calibri, source-sans-pro, sans-serif;
     --font-slab-serif: Rockwell, Rockwell Nova, Roboto Slab, DejaVu Serif, Sitka Small, serif;
@@ -306,7 +312,7 @@ abbr {
     cursor: help;
 }
 
-.yck-component abbr:hover, 
+.yck-component abbr:hover,
 abbr:hover {
     color: #4e835b;
 }
@@ -361,7 +367,7 @@ abbr:hover {
     max-width: 1000px;
     margin: 0 auto;
     column-count: 2;
-    column-width: 360px;
+    column-width: 55px;
     column-gap: 1.5em;
 }
 
@@ -842,6 +848,65 @@ abbr:hover {
     overflow: hidden;
     text-overflow: ellipsis;
 }
+
+/* From Uiverse.io by vinodjangid07 */ 
+.yck-component .buttontotop {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #e37f2a;
+  border: none;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0px 0px 0px 4px rgba(250, 190, 60, 0.5);
+  cursor: pointer;
+  transition-duration: 0.3s;
+  overflow: hidden;
+  position: relative;
+}
+
+.yck-component .svgIcon {
+  width: 12px;
+  transition-duration: 0.3s;
+}
+
+.yck-component  .svgIcon path {
+  fill: white;
+}
+
+.yck-component .buttontotop:hover {
+  width: 140px;
+  border-radius: 50px;
+  transition-duration: 0.3s;
+  background-color: #fabe64;
+  align-items: center;
+}
+
+.yck-component .buttontotop:hover .svgIcon {
+  /* width: 20px; */
+  transition-duration: 0.3s;
+  transform: translateY(-200%);
+}
+
+.yck-component .buttontotop::before {
+  position: absolute;
+  bottom: -20px;
+  content: "Back to Top";
+  color: white;
+  /* transition-duration: .3s; */
+  font-size: 0px;
+}
+
+.yck-component .buttontotop:hover::before {
+  font-size: var(--yck-step-0);
+  opacity: 1;
+  bottom: unset;
+  /* transform: translateY(-30px); */
+  transition-duration: 0.3s;
+}
+
 
 /* --- Backdrop --- */
 .yck-component .backdrop {
@@ -1360,6 +1425,4 @@ abbr:hover {
         /* 1 card per row */
     }
 }
-
-
 </style>
