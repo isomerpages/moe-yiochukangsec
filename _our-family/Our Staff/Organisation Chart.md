@@ -675,10 +675,10 @@ third_nav_title: Our Staff
                         </details>
                     </div>
                     <div class="person" id="vijayadorajaratanam">
-                        <div class="person-name">Mdm Vijaya D/O Rajaratanam</div>
+                        <div class="person-name">Mdm Vijaya D/O Rajaratenam </div>
                         <div class="person-title"></div>
                         <details>
-                            <summary>Email Address:</summary>vijaya_rajaratanam<wbr>@moe.edu.sg
+                            <summary>Email Address:</summary>vijaya_rajaratenam<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="chonglaikhar">
