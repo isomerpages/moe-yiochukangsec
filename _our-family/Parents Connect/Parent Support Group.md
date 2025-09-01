@@ -20,16 +20,16 @@ third_nav_title: Parents Connect
         <h3>Our Parents Support Group supporting <a class="text-link" href="/our-story/our-60th-anniversary/homecoming-carnival/">the Homecoming Carnival</a></h3>
         <div class="yck-img-array">
             <figure>
-                <img alt="Parent Engagement Sessions" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Parents%20Connect/Parents%20Connect/03parentconnect2025.jpg">
+                <img alt="Parent Engagement Sessions" src="/images/Our%20Family/Parents%20Connect/Parents%20Connect/03parentconnect2025.jpg">
             </figure>
         </div>
         <h3>Parents supporting programmes organised by the school</h3>
         <div class="yck-img-array">
             <figure>
-                <img alt="Parent Engagement Sessions" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Parents%20Connect/Parents%20Connect/parentconnectmasonry.jpg">
+                <img alt="Parent Engagement Sessions" src="/images/Our%20Family/Parents%20Connect/Parents%20Connect/parentconnectmasonry.jpg">
             </figure>
             <figure>
-                <img alt="Parent Engagement Sessions" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Parents%20Connect/Parents%20Connect/parentsconnectnonmason.jpg">
+                <img alt="Parent Engagement Sessions" src="/images/Our%20Family/Parents%20Connect/Parents%20Connect/parentsconnectnonmason.jpg">
             </figure>
         </div>
     </div>
