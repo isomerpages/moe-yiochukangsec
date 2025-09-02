@@ -158,9 +158,9 @@ third_nav_title: Our Staff
             </div>
             <div class="person" id="mslimbeiyimichelle">
                 <div class="person-name">Ms Lim Beiyi Michelle</div>
-                <div class="person-title">LH/Math &amp; Student Well-Being</div>
+                <div class="person-title">SH SL &amp; Student Well-Being</div>
                 <details name="key">
-                    <summary>Email Address:</summary>lim_beiyi_michelle<wbr>@moe.edu.sg
+                    <summary>Email Address:</summary>lim_bei-yi_michelle<wbr>@moe.edu.sg
                 </details>
             </div>
             <div class="person" id="msvidyapremapadmanabhan">
