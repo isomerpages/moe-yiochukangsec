@@ -14,11 +14,13 @@ image: /images/YCKLogo.svg
         <li id="pie-emo">
             <a class="text-link" href="/pi-emotional-s/">PI-<strong>E</strong>motional-S</a>
         </li>
-        <li id="pie-social"><a class="active" href="#">PIE-<strong>S</strong>ocial</a></li>
-    </ul>
+        <li id="pie-social"><a class="active" href="#">PIE-<strong>S</strong>ocial</a>
+					<br><a href="@sad2024">Staff Appreciation Day</a><br>
+					<a href="#minidurians2024">Mini Durians Delight</a><br>
+    </li></ul>
 </div>
 		<hr>
-		<h3>Staff Appreciation Week: Grateful Moments, Lasting Impact</h3>
+		<h3 id="sad2024">Staff Appreciation Week: Grateful Moments, Lasting Impact</h3>
 
 <p><i>“It’s my life~~~” Bon Jovi’s</i> song rang out as the principal joined in the groove, signaling the official yet fun start of the Staff Appreciation Lunch. With the microphone in hand, groups eagerly showcased their unique identities – flaunting glossy balloons, rocking cool shades, or sporting bandana scarves. The royal blue attire, paired with tiaras or songkoks, added a dash of flair, as everyone embraced the theme of ‘Be Yourself.’</p>
     
