@@ -19,6 +19,48 @@ image: /images/YCKLogo.svg
 					<a href="#minidurians2024">Mini Durians Delight</a><br>
     </li></ul>
 </div>
+		
+<div class="yck-component">
+    <div class="yck-flexbox-grid">
+            <details name="ccas">
+							<summary><h3><strong>P</strong>hysical-IES</h3></summary>
+                <ul>
+                    <li><a class="text-link" href="/cca/clubs/digital-animation-club/">Digital Animation Club</a></li>
+                    <li><a class="text-link" href="/cca/clubs/media-club/">Media Club</a></li>
+                    <li><a class="text-link" href="/cca/clubs/mars-club-mechatronics-aeronautics-and-robotics/">MARs Club</a></li>
+                </ul>
+            </details>
+            <details name="ccas">
+                <summary><h3>Physical Sports</h3></summary>
+                <ul>
+                    <li><a class="text-link" href="/cca/physical-sports/badminton/">Badminton</a></li>
+                    <li><a class="text-link" href="/cca/Physical-Sports/Basketball-Boys/">Basketball (Boys)</a></li>
+                    <li><a class="text-link" href="/cca/Physical-Sports/Floorball-Boys/">Floorball (Boys)</a></li>
+                    <li><a class="text-link" href="/cca/Physical-Sports/Netball/">Netball</a></li>
+                </ul>
+            </details>
+			<details name="ccas">
+				<summary><h3>Performing Arts</h3></summary>
+                <ul>
+                    <li><a class="text-link" href="/cca/Performing-Arts/Choir/">Choir</a></li>
+                    <li><a class="text-link" href="/cca/Performing-Arts/Concert-Band/">Concert Band</a></li>
+                    <li><a class="text-link" href="/cca/Performing-Arts/Chinese-Dance/">Chinese Dance</a></li>
+                    <li><a class="text-link" href="/cca/Performing-Arts/Malay-Dance/">Malay Dance</a></li>
+                    <li><a class="text-link" href="/cca/Performing-Arts/Indian-Dance/">Indian Dance</a></li>
+                    <li><a class="text-link" href="/cca/Performing-Arts/English-Drama/">English Drama</a></li>
+                </ul>
+            </details>
+			<details name="ccas">
+				<summary><h3>Uniform Groups</h3></summary>
+                <ul>
+                    <li><a class="text-link" href="/cca/Uniformed-Groups/NPCC/">NPCC</a></li>
+                    <li><a class="text-link" href="/cca/Uniformed-Groups/Red-Cross-Youth/">Red Cross Youth</a></li>
+                </ul>
+            </details>
+        </div>
+    </div>
+
+<hr>
 		<hr>
 		<h3 id="sad2024">Staff Appreciation Week: Grateful Moments, Lasting Impact</h3>
 
