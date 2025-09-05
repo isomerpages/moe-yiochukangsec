@@ -5,22 +5,9 @@ variant: markdown
 description: ""
 image: /images/YCKLogo.svg
 ---
+
 <div class="yck-component" id="top">
 	<div class="regular-flow">
-		<div class="yck-nav-bar">
-    <ul>
-        <li id="pie-physical"><a class="text-link" href="/physical-ies"><strong>P</strong>hysical-IES</a></li>
-        <li id="pie-intellectual"><a class="text-link" href="/p-intellectual-es/">P<strong>I</strong>ntellectual-ES</a></li>
-        <li id="pie-emo">
-            <a class="text-link" href="/pi-emotional-s/">PI-<strong>E</strong>motional-S</a>
-        </li>
-        <li id="pie-social"><a class="active" href="#">PIE-<strong>S</strong>ocial</a>
-					<br><a href="@sad2024">Staff Appreciation Day</a><br>
-					<a href="#minidurians2024">Mini Durians Delight</a><br>
-    </li></ul>
-</div>
-<hr>		
-<div class="yck-component">
     <div class="yck-flexbox-grid">
             <details name="ccas">
 							<summary><h3><strong>P</strong>hysical-IES</h3></summary>
@@ -170,7 +157,7 @@ image: /images/YCKLogo.svg
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Slide4.png">
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Slide5.png">
 </div>
-</div>
+
 <div class="button-container">
                                         <a href="#top">
                                             <button class="buttontotop">
