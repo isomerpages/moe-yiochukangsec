@@ -19,48 +19,55 @@ image: /images/YCKLogo.svg
 					<a href="#minidurians2024">Mini Durians Delight</a><br>
     </li></ul>
 </div>
-		
+<hr>		
 <div class="yck-component">
     <div class="yck-flexbox-grid">
             <details name="ccas">
 							<summary><h3><strong>P</strong>hysical-IES</h3></summary>
                 <ul>
-                    <li><a class="text-link" href="/cca/clubs/digital-animation-club/">Digital Animation Club</a></li>
-                    <li><a class="text-link" href="/cca/clubs/media-club/">Media Club</a></li>
-                    <li><a class="text-link" href="/cca/clubs/mars-club-mechatronics-aeronautics-and-robotics/">MARs Club</a></li>
+                   <li id="pie-physical"><a class="text-link" href="/physical-ies"><strong>P</strong>hysical-IES</a></li>
+									<li id="pie-physical"><a class="text-link" href="/physical-ies"><strong>P</strong>hysical-IES</a></li>
+									<li id="pie-physical"><a class="text-link" href="/physical-ies"><strong>P</strong>hysical-IES</a></li>
+									<li id="pie-physical"><a class="text-link" href="/physical-ies"><strong>P</strong>hysical-IES</a></li>
                 </ul>
             </details>
             <details name="ccas">
-                <summary><h3>Physical Sports</h3></summary>
+                <summary><h3>P-<strong>I</strong>ntellectual-ES</h3></summary>
                 <ul>
-                    <li><a class="text-link" href="/cca/physical-sports/badminton/">Badminton</a></li>
-                    <li><a class="text-link" href="/cca/Physical-Sports/Basketball-Boys/">Basketball (Boys)</a></li>
-                    <li><a class="text-link" href="/cca/Physical-Sports/Floorball-Boys/">Floorball (Boys)</a></li>
-                    <li><a class="text-link" href="/cca/Physical-Sports/Netball/">Netball</a></li>
+                    <li id="pie-intellectual"><a class="text-link" href="/p-intellectual-es/">P<strong>I</strong>ntellectual-ES</a></li>
+									<li id="pie-intellectual"><a class="text-link" href="/p-intellectual-es/">P<strong>I</strong>ntellectual-ES</a></li>
+									<li id="pie-intellectual"><a class="text-link" href="/p-intellectual-es/">P<strong>I</strong>ntellectual-ES</a></li>
+									<li id="pie-intellectual"><a class="text-link" href="/p-intellectual-es/">P<strong>I</strong>ntellectual-ES</a></li>
                 </ul>
             </details>
 			<details name="ccas">
-				<summary><h3>Performing Arts</h3></summary>
+				<summary><h3>PI-<strong>E</strong>motional-S</h3></summary>
                 <ul>
-                    <li><a class="text-link" href="/cca/Performing-Arts/Choir/">Choir</a></li>
-                    <li><a class="text-link" href="/cca/Performing-Arts/Concert-Band/">Concert Band</a></li>
-                    <li><a class="text-link" href="/cca/Performing-Arts/Chinese-Dance/">Chinese Dance</a></li>
-                    <li><a class="text-link" href="/cca/Performing-Arts/Malay-Dance/">Malay Dance</a></li>
-                    <li><a class="text-link" href="/cca/Performing-Arts/Indian-Dance/">Indian Dance</a></li>
-                    <li><a class="text-link" href="/cca/Performing-Arts/English-Drama/">English Drama</a></li>
+                    <li id="pie-emo">
+            <a class="text-link" href="/pi-emotional-s/">PI-<strong>E</strong>motional-S</a>
+        </li>
+									<li id="pie-emo">
+            <a class="text-link" href="/pi-emotional-s/">PI-<strong>E</strong>motional-S</a>
+        </li>
+									<li id="pie-emo">
+            <a class="text-link" href="/pi-emotional-s/">PI-<strong>E</strong>motional-S</a>
+        </li>
+									<li id="pie-emo">
+            <a class="text-link" href="/pi-emotional-s/">PI-<strong>E</strong>motional-S</a>
+        </li>
                 </ul>
             </details>
 			<details name="ccas">
-				<summary><h3>Uniform Groups</h3></summary>
+				<summary><h3>PIE-<strong>S</strong>ocial</h3></summary>
                 <ul>
-                    <li><a class="text-link" href="/cca/Uniformed-Groups/NPCC/">NPCC</a></li>
-                    <li><a class="text-link" href="/cca/Uniformed-Groups/Red-Cross-Youth/">Red Cross Youth</a></li>
-                </ul>
+                    <li id="pie-social"><a class="active" href="#">PIE-<strong>S</strong>ocial</a>
+											</li><li id="pie-social"><a class="active" href="#">PIE-<strong>S</strong>ocial</a>
+												</li><li id="pie-social"><a class="active" href="#">PIE-<strong>S</strong>ocial</a>
+													</li><li id="pie-social"><a class="active" href="#">PIE-<strong>S</strong>ocial</a>
+                </li></ul>
             </details>
         </div>
     </div>
-
-<hr>
 		<hr>
 		<h3 id="sad2024">Staff Appreciation Week: Grateful Moments, Lasting Impact</h3>
 
@@ -174,8 +181,9 @@ image: /images/YCKLogo.svg
                                         </a>
                                     </div>
 																		
+
 <style>
-	/* ==========================================================================
+/* ==========================================================================
    1. Global Styles & Resets
    ========================================================================== */
 
@@ -254,7 +262,6 @@ img {
     letter-spacing: normal;
     font-size: var(--yck-step-0);
     margin-bottom: var(--yck-space-s-xl);
-    position: relative;
 }
 
 .yck-component h1,
@@ -1261,6 +1268,10 @@ abbr:hover {
     margin: 0 !important;
 }
 
+.yck-component details > ul {
+    list-style:  none;
+}
+
 .yck-component summary {
     position: relative;
     padding: 1rem 3rem 1rem 1.5rem;
@@ -1512,73 +1523,4 @@ abbr:hover {
         /* 1 card per row */
     }
 }
-	
-/* Basic carousel styling */
-      .carousel {
-        width: 100%;
-        height: 55vh;
-        /* 50% of the viewport height */
-        overflow: hidden;
-        position: relative;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        scroll-snap-type: x mandatory;
-      }
-
-      .images {
-        display: flex;
-        width: 600%; /* Changed from 400% to accommodate the extra image */
-        animation: scroller 40s infinite alternate ease-in-out;
-        /* Increased duration to 40s for smoother transition */
-      }
-
-
-/* Keyframe animation for 7 images */
-@keyframes scroller {
-    0%, 14.29% {
-        transform: translate3d(0, 0, 0); /* Show the 1st image */
-        opacity: 1;
-    }
-    14.29%, 28.58% {
-        transform: translate3d(-100%, 0, 0); /* Show the 2nd image */
-        opacity: 1;
-    }
-    28.58%, 42.87% {
-        transform: translate3d(-200%, 0, 0); /* Show the 3rd image */
-        opacity: 1;
-    }
-    42.87%, 57.16% {
-        transform: translate3d(-300%, 0, 0); /* Show the 4th image */
-        opacity: 1;
-    }
-    57.16%, 71.45% {
-        transform: translate3d(-400%, 0, 0); /* Show the 5th image */
-        opacity: 1;
-    }
-    71.45%, 85.74% {
-        transform: translate3d(-500%, 0, 0); /* Show the 6th image */
-        opacity: 1;
-    }
-    85.74%, 100% {
-        transform: translate3d(-600%, 0, 0); /* Show the 7th image */
-        opacity: 1;
-    }
-}
-
-      .carousel:hover .images {
-        animation-play-state: paused;
-      }
-
-      .images img {
-        scroll-snap-align: center;
-        /*padding-left: 20px;
-        padding-right: 20px;*/
-        max-width: 100%;
-        /* This ensures each image takes up the full width of the carousel */
-        height: 100%;
-        object-fit: contain;
-        flex-shrink: 0;
-        /* Prevents the images from shrinking */
-      }
 </style>
