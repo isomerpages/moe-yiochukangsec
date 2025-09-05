@@ -1510,8 +1510,9 @@ abbr:hover {
     }
 }
 	
+	
 /* Basic carousel styling */
-    .yck-component .carousel {
+      .carousel {
         width: 100%;
         height: 55vh;
         /* 50% of the viewport height */
@@ -1521,63 +1522,61 @@ abbr:hover {
         justify-content: center;
         align-items: center;
         scroll-snap-type: x mandatory;
-    }
+      }
 
-    .yck-component .carousel-images {
+      .images {
         display: flex;
-        width: 300%;
-        /* Changed from 400% to accommodate the extra image */
-        animation: scroller 20s infinite alternate ease-in-out;
+        width: 600%; /* Changed from 400% to accommodate the extra image */
+        animation: scroller 40s infinite alternate ease-in-out;
         /* Increased duration to 40s for smoother transition */
+      }
+
+
+/* Keyframe animation for 7 images */
+@keyframes scroller {
+    0%, 14.29% {
+        transform: translate3d(0, 0, 0); /* Show the 1st image */
+        opacity: 1;
     }
-
-
-    /* Keyframe animation for 7 images */
-    @keyframes scroller {
-
-        0%,
-        25% {
-            transform: translate3d(0, 0, 0);
-            /* Show the 1st image */
-            opacity: 1;
-        }
-
-        25%,
-        50% {
-            transform: translate3d(-100%, 0, 0);
-            /* Show the 2nd image */
-            opacity: 1;
-        }
-
-        50%,
-        75% {
-            transform: translate3d(-200%, 0, 0);
-            /* Show the 3rd image */
-            opacity: 1;
-        }
-
-        75%,
-        100% {
-            transform: translate3d(-300%, 0, 0);
-            /* Show the 4th image */
-            opacity: 1;
-        }
-
+    14.29%, 28.58% {
+        transform: translate3d(-100%, 0, 0); /* Show the 2nd image */
+        opacity: 1;
     }
+    28.58%, 42.87% {
+        transform: translate3d(-200%, 0, 0); /* Show the 3rd image */
+        opacity: 1;
+    }
+    42.87%, 57.16% {
+        transform: translate3d(-300%, 0, 0); /* Show the 4th image */
+        opacity: 1;
+    }
+    57.16%, 71.45% {
+        transform: translate3d(-400%, 0, 0); /* Show the 5th image */
+        opacity: 1;
+    }
+    71.45%, 85.74% {
+        transform: translate3d(-500%, 0, 0); /* Show the 6th image */
+        opacity: 1;
+    }
+    85.74%, 100% {
+        transform: translate3d(-600%, 0, 0); /* Show the 7th image */
+        opacity: 1;
+    }
+}
 
-    .yck-component .carousel:hover .carousel-images {
+      .carousel:hover .images {
         animation-play-state: paused;
-    }
+      }
 
-    .yck-component .carousel-images img {
+      .images img {
         scroll-snap-align: center;
         /*padding-left: 20px;
         padding-right: 20px;*/
         max-width: 100%;
         /* This ensures each image takes up the full width of the carousel */
         height: 100%;
-        object-fit: cover;
+        object-fit: contain;
         flex-shrink: 0;
         /* Prevents the images from shrinking */
-    }
+      }
 </style>
