@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 image: /images/YCKLogo.svg
 ---
-
 <div class="yck-component" id="top">
 	<div class="regular-flow">
     <div class="yck-flexbox-grid">
@@ -1510,4 +1509,75 @@ abbr:hover {
         /* 1 card per row */
     }
 }
+	
+/* Basic carousel styling */
+    .yck-component .carousel {
+        width: 100%;
+        height: 55vh;
+        /* 50% of the viewport height */
+        overflow: hidden;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        scroll-snap-type: x mandatory;
+    }
+
+    .yck-component .carousel-images {
+        display: flex;
+        width: 300%;
+        /* Changed from 400% to accommodate the extra image */
+        animation: scroller 20s infinite alternate ease-in-out;
+        /* Increased duration to 40s for smoother transition */
+    }
+
+
+    /* Keyframe animation for 7 images */
+    @keyframes scroller {
+
+        0%,
+        25% {
+            transform: translate3d(0, 0, 0);
+            /* Show the 1st image */
+            opacity: 1;
+        }
+
+        25%,
+        50% {
+            transform: translate3d(-100%, 0, 0);
+            /* Show the 2nd image */
+            opacity: 1;
+        }
+
+        50%,
+        75% {
+            transform: translate3d(-200%, 0, 0);
+            /* Show the 3rd image */
+            opacity: 1;
+        }
+
+        75%,
+        100% {
+            transform: translate3d(-300%, 0, 0);
+            /* Show the 4th image */
+            opacity: 1;
+        }
+
+    }
+
+    .yck-component .carousel:hover .carousel-images {
+        animation-play-state: paused;
+    }
+
+    .yck-component .carousel-images img {
+        scroll-snap-align: center;
+        /*padding-left: 20px;
+        padding-right: 20px;*/
+        max-width: 100%;
+        /* This ensures each image takes up the full width of the carousel */
+        height: 100%;
+        object-fit: cover;
+        flex-shrink: 0;
+        /* Prevents the images from shrinking */
+    }
 </style>
