@@ -25,7 +25,7 @@ image: /images/YCKLogo.svg
             <details name="ccas">
 							<summary><h3><strong>P</strong>hysical-IES</h3></summary>
                 <ul>
-                   <li id="pie-physical"><a class="text-link" href="/physical-ies"><strong>P</strong>hysical-IES</a></li>
+                   <li id="pie-physical"><a class="text-link" href="/physical-ies">Staff Appreciation Day</a></li>
 									<li id="pie-physical"><a class="text-link" href="/physical-ies"><strong>P</strong>hysical-IES</a></li>
 									<li id="pie-physical"><a class="text-link" href="/physical-ies"><strong>P</strong>hysical-IES</a></li>
 									<li id="pie-physical"><a class="text-link" href="/physical-ies"><strong>P</strong>hysical-IES</a></li>
@@ -60,8 +60,8 @@ image: /images/YCKLogo.svg
 			<details name="ccas">
 				<summary><h3>PIE-<strong>S</strong>ocial</h3></summary>
                 <ul>
-                    <li id="pie-social"><a class="active" href="#">PIE-<strong>S</strong>ocial</a>
-											</li><li id="pie-social"><a class="active" href="#">PIE-<strong>S</strong>ocial</a>
+                    <li id="pie-social"><a class="active" href="#">Staff Appreciation Day</a>
+											</li><li id="pie-social"><a class="active" href="#">Mini Durians Delight</a>
 												</li><li id="pie-social"><a class="active" href="#">PIE-<strong>S</strong>ocial</a>
 													</li><li id="pie-social"><a class="active" href="#">PIE-<strong>S</strong>ocial</a>
                 </li></ul>
