@@ -127,7 +127,7 @@ body {
 
 ::selection {
     text-shadow: none;
-    background: yellow;
+    background: rgba(255, 255, 0, 0.35);
 }
 
 audio,
