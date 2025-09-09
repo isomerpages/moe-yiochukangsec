@@ -42,7 +42,7 @@ third_nav_title: Our History
             <strong>four major campus transformations</strong> that mirror the growth of
             our nation. Each chapter in this journey—from its
             <a class="text-link" href="/our-history/campus-transformation-1/1965/">humble origins in <abbr title="Campus Transformation 1">1965</abbr></a>, to its first
-            <a href="/our-history/campus-transformation-2/1982/">major rebuilding in
+            <a class="text-link" href="/our-history/campus-transformation-2/1982/">major rebuilding in
                 <abbr class="text-link" title="Campus Transformation 2">1982</abbr></a>, its
             <a class="text-link" href="/our-history/campus-transformation-3/2001/">modernization in <abbr title="Campus Transformation 3">2001</abbr></a>, and its most
             <a class="text-link" href="/our-history/campus-transformation-4/2018/">recent merger in <abbr title="Campus Transformation 4">2018</abbr></a>—is a testament to the school's resilience and its commitment to
