@@ -15,18 +15,14 @@ third_nav_title: Our History
             Singapore. Its creation was a direct response to personal requests from the
             farming community of Yio Chu Kang to their Prime Minister, Mr. Lee Kuan Yew,
             for a school to serve their children. Its original campus stood at the
-            <a href="#see-footnote">11th milestone of Yio Chu Kang Road.</a>
+           11th milestone of Yio Chu Kang Road.
         </p>
         <div class="yck-img-array">
             <figure>
-                <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/img0042.jpg">
-            </figure>
-            <figure><img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/img0022.jpg">
+                <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/img0042.jpg"><img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/img0022.jpg">
             </figure>
             <figure>
                 <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/img0028.jpg">
-            </figure>
-            <figure>
                 <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/img0059.jpg">
             </figure>
         </div>
@@ -45,11 +41,11 @@ third_nav_title: Our History
             The story of Yio Chu Kang is one of constant evolution, marked by
             <strong>four major campus transformations</strong> that mirror the growth of
             our nation. Each chapter in this journey—from its
-            <a href="/our-history/campus-transformation-1/1965/">humble origins in <abbr title="Campus Transformation 1">1965</abbr></a>, to its first
+            <a class="text-link" href="/our-history/campus-transformation-1/1965/">humble origins in <abbr title="Campus Transformation 1">1965</abbr></a>, to its first
             <a href="/our-history/campus-transformation-2/1982/">major rebuilding in
-                <abbr title="Campus Transformation 2">1982</abbr></a>, its
-            <a href="/our-history/campus-transformation-3/2001/">modernization in <abbr title="Campus Transformation 3">2001</abbr></a>, and its most
-            <a href="/our-history/campus-transformation-4/2018/">recent merger in <abbr title="Campus Transformation 4">2018</abbr></a>—is a testament to the school's resilience and its commitment to
+                <abbr class="text-link" title="Campus Transformation 2">1982</abbr></a>, its
+            <a class="text-link" href="/our-history/campus-transformation-3/2001/">modernization in <abbr title="Campus Transformation 3">2001</abbr></a>, and its most
+            <a class="text-link" href="/our-history/campus-transformation-4/2018/">recent merger in <abbr title="Campus Transformation 4">2018</abbr></a>—is a testament to the school's resilience and its commitment to
             excellence.
         </p>
         <p>
