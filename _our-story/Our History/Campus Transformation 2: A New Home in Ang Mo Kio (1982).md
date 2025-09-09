@@ -16,7 +16,7 @@ third_nav_title: Our History
 
 <p>In 1984, 700 students participated in the mass dance display at the National Day Parade, bringing national attention to the school. This has seeded a tradition of the school in building talents in the performing arts. The school participated in two more National Day Parade Mass Displays in 2010 and 2017. </p>
 
-<p>Through the school’s vibrant arts programme, students were able to pursue interests in these areas. One prominent celebrity to emerge from this was Pan Ling Ling. Today, this legacy can be seen in the school’s choice of distinction in the Learning for Life Programme (LLP) focused on the Arts, Media and Design. </p>
+<p>Through the school’s vibrant arts programme, students were able to pursue interests in these areas. One prominent celebrity to emerge from this was Pan Ling Ling. Today, this legacy can be seen in the school’s choice of distinction in the <a class="text-link" href="/our-curriculum/distinctive-programmes/learning-for-life-programme/">Learning for Life Programme (LLP)</a> focused on the Arts, Media and Design. </p>
 
 <p>Again, the school’s programme needs soon outstripped the limitations of the facilities. For instance, many of the performing arts groups held their practices in the corridors of the classrooms. It was time to move to bigger premises again!</p>
 </div>
