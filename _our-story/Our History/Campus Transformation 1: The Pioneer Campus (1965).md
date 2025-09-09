@@ -1039,6 +1039,6 @@ small {
 }
 	
 body {
-	background: radial-gradient(ellipse at center, rgba(255, 255, 255, 0) 0%, rgba(250, 250, 250, 0.85) 100%), url(https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/History/Campus%20Transformation%201/ct1new.PNG) no-repeat center right fixed;
+	background: linear-gradient(to-left, rgba(255, 255, 255, 0) 0%, rgba(250, 250, 250, 0.85) 100%), url(https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/History/Campus%20Transformation%201/ct1new.PNG) no-repeat center right fixed;
 	background-size: cover;
 </style>
