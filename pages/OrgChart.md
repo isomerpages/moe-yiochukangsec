@@ -5,6 +5,82 @@ variant: markdown
 description: ""
 image: /images/Gold.png
 ---
+
+<div id="yck-component">
+                                
+                                <div style="display: flex; justify-content: center; align-items: flex-start; flex-direction: row; text-align: center; width: 100%; height: 40vh; overflow: hidden; background-size: cover !important; background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 37%, rgba(0, 0, 0, 0.65) 100%), url(https://placehold.co/1280x720?text=NTSS) no-repeat center center scroll;" class="masthead" id="ntss">
+                                    
+                                    <h2 style="font-style: normal; font-weight: bold; color: #eee !important; font-size: 5.7vmin; letter-spacing: 0.03em; line-height: 1; text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.8); margin-bottom: 30px; text-wrap: balance; overflow-wrap: break-word;">Normal Technical Special Subjects</h2>
+                                </div>
+                            </div>
+                            
+                            <div style="line-height: 1.6em; letter-spacing: normal; font-size: clamp(1.125rem, 1.125rem + 0vw, 1.125rem); margin-bottom: clamp(1em, 0.2143em + 3.9286vw, 3.5em);" class="yck-component">
+                                
+                                <div style="--yck-gap: 1em; display: flex; flex-wrap: wrap; list-style: none; gap: 1em; padding: 0px; margin-block: 1em;" class="yck-flexbox-grid">
+                                    
+                                    <div style="break-inside: avoid; page-break-inside: avoid; padding: 20px; border-radius: 5px; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15); margin-bottom: 1em; flex-grow: 1; flex-shrink: 0; flex-basis: calc((100% - 1em) / 4); min-width: calc((100% - 1em) / 2); list-style: none;" class="column">
+                                        <h2 style="font-size: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem); margin-bottom: calc(1em * .85); text-transform: capitalize; line-height: 1.2em; letter-spacing: -0.02em; text-wrap: balance; overflow-wrap: break-word;"><strong>Vision</strong></h2>
+                                        <p style="overflow-wrap: break-word; text-wrap: pretty; margin-bottom: 1em;">Passionate learners who are agile and active contributors in the future economy</p>
+                                    </div>
+                                    <div style="break-inside: avoid; page-break-inside: avoid; padding: 20px; border-radius: 5px; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15); margin-bottom: 1em; flex-grow: 1; flex-shrink: 0; flex-basis: calc((100% - 1em) / 4); min-width: calc((100% - 1em) / 2); list-style: none;" class="column">
+                                        <h2 style="font-size: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem); margin-bottom: calc(1em * .85); text-transform: capitalize; line-height: 1.2em; letter-spacing: -0.02em; text-wrap: balance; overflow-wrap: break-word;"><strong>Mission</strong></h2>
+                                        <p style="overflow-wrap: break-word; text-wrap: pretty; margin-bottom: 1em;">To equip students with key skills, knowledge and attitude for successful careers in the technology and services sectors</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div style="line-height: 1.6em; letter-spacing: normal; font-size: clamp(1.125rem, 1.125rem + 0vw, 1.125rem); margin-bottom: clamp(1em, 0.2143em + 3.9286vw, 3.5em);" class="yck-component .regular-flow">
+                                <h3 style="font-size: clamp(1.6018rem, 1.4828rem + 0.5951vw, 1.944rem); margin-bottom: calc(1em * .75); text-transform: capitalize; line-height: 1.2em; letter-spacing: -0.02em; text-wrap: balance; overflow-wrap: break-word;" class="yck-h3">Key Programmes</h3>
+                                
+                                <div style="break-inside: avoid; page-break-inside: avoid; padding: 20px; border-radius: 5px; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15); margin-bottom: 1em;" class="column">
+                                    <details style="overflow: hidden; border-radius: 10px; background-color: rgb(255, 255, 255); transition: box-shadow 0.5s ease-out 0s; margin: 0px !important;" name="keyprog">
+                                        
+                                        <summary style="position: relative; padding: 1rem 3rem 1rem 1.5rem; list-style-position: outside; cursor: pointer; user-select: none; outline: 0px; font-size: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem); font-weight: 500; transition: background-color 0.5s ease-in 0s; margin: 0px !important; text-transform: capitalize; line-height: 1.2em; letter-spacing: -0.02em;" class="yck-h4">Computer Applications (CPA)</summary>
+                                        <div style="padding: 1rem 1.5rem 1.5rem; animation: 0.5s ease 0.5s 1 normal both running fade-in;">
+                                            <p style="overflow-wrap: break-word; text-wrap: pretty; margin: 0px !important;">CPA is offered to all students in the <em>Normal Technical</em> course from <i>Secondary one to four</i>. It promotes <mark>digital literacy</mark> in students, developing them to be responsible, confident and creative users of technology who can participate and thrive in a digital world. The subject engages students and prepares them for future studies through <mark>authentic tasks</mark> and <mark>hands-on activities</mark>.</p>
+                                            <p style="overflow-wrap: break-word; text-wrap: pretty; margin: 0px !important;">Students are equipped with a wide range of necessary ICT skills that prepare them to meet the demands of other subjects in secondary school and at post-secondary institutes. Through CPA, students acquire 21st century competencies such as critical thinking, information processing and effective communication.</p>
+                                            <p style="overflow-wrap: break-word; text-wrap: pretty; margin: 0px !important;">Students also learn basic computational thinking skills such as algorithmic thinking and decomposition through creating animations and games. </p>
+                                        </div>
+                                    </details>
+                                </div>
+                                <div style="break-inside: avoid; page-break-inside: avoid; padding: 20px; border-radius: 5px; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15); margin-bottom: 1em; margin-top: 1.125em;" class="column">
+                                    <details style="overflow: hidden; border-radius: 10px; background-color: rgb(255, 255, 255); transition: box-shadow 0.5s ease-out 0s; margin: 0px !important;" name="keyprog">
+                                        <summary style="position: relative; padding: 1rem 3rem 1rem 1.5rem; list-style-position: outside; cursor: pointer; user-select: none; outline: 0px; font-size: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem); font-weight: 500; transition: background-color 0.5s ease-in 0s; margin: 0px !important; text-transform: capitalize; line-height: 1.2em; letter-spacing: -0.02em;" class="yck-h4">Smart Electrical Technology (SET)</summary>
+                                        <div style="padding: 1rem 1.5rem 1.5rem; animation: 0.5s ease 0.5s 1 normal both running fade-in;">
+                                            <p style="overflow-wrap: break-word; text-wrap: pretty; margin: 0px !important;">SET is offered as an upper secondary <strong>elective subject</strong> in the <i>Normal Technical</i> course. It aims to provide students with training in the core, foundational concepts and principles of operation of all <strong>home automation systems</strong>, i.e. hardware and devices, software, combination and integration of the technologies involved, programming techniques, communication protocols and testing.</p>
+                                            <p style="overflow-wrap: break-word; text-wrap: pretty; margin: 0px !important;">At <i>Secondary three</i>, students are equipped with foundational knowledge of electrical circuits and systems.</p>
+                                            <p style="overflow-wrap: break-word; text-wrap: pretty; margin: 0px !important;">At <i>Secondary four</i>, students are trained to plan and design the smart home using home automation system. They will learn to perform the programming of the input devices, such as intelligent switches, sensors, scene master and touch screen in the control of lightings and blinds.</p>
+                                        </div>
+                                    </details>
+                                </div>
+                                <div style="break-inside: avoid; page-break-inside: avoid; padding: 20px; border-radius: 5px; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15); margin-bottom: 1em; margin-top: 1.125em;" class="column">
+                                    <details style="overflow: hidden; border-radius: 10px; background-color: rgb(255, 255, 255); transition: box-shadow 0.5s ease-out 0s; margin: 0px !important;" name="keyprog">
+                                        <summary style="position: relative; padding: 1rem 3rem 1rem 1.5rem; list-style-position: outside; cursor: pointer; user-select: none; outline: 0px; font-size: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem); font-weight: 500; transition: background-color 0.5s ease-in 0s; margin: 0px !important; text-transform: capitalize; line-height: 1.2em; letter-spacing: -0.02em;" class="yck-h4">NT Learning Journeys (NTLJ)</summary>
+                                        <div style="padding: 1rem 1.5rem 1.5rem; animation: 0.5s ease 0.5s 1 normal both running fade-in;">
+                                            <p style="overflow-wrap: break-word; text-wrap: pretty; margin: 0px !important;">The NTLJ is an integral component of the NT curriculum. Every fortnight, all NT classes will spend three hours at a learning journey venue outside of school. The objectives of the NTLJ programme are to create meaningful and authentic learning experiences for the NT students, develop a love for learning and equip them with a deeper knowledge and understanding of the world around them. </p>
+                                            <p style="overflow-wrap: break-word; text-wrap: pretty; margin: 0px !important;">The learning journeys are planned to centre on three themes:</p>
+                                            <ul style="text-wrap: pretty; margin: 0px !important;">
+                                                <li style="margin: 0px !important;">Discovering our Past (Secondary 1)</li>
+                                                <li style="margin: 0px !important;">Experiencing the Present (Secondary 2)</li>
+                                                <li style="margin: 0px !important;">Charting our Future (Secondary 3 and 4). </li>
+                                            </ul>
+                                            <p style="overflow-wrap: break-word; text-wrap: pretty; margin: 0px !important;">Syllabus objectives from curriculum subjects such as Social Studies, Elements of Business Skills and English Language are also incorporated in the learning journeys. Subject teachers design tasks for the learning journey venues so that students are able to make connections between their learning in school with real-world experiences.</p>
+                                            <p style="overflow-wrap: break-word; text-wrap: pretty; margin: 0px !important;">The learning journeys are also aligned to the CCE outcomes, especially in the area of Education and Career Guidance (ECG) for our Secondary three and four students.</p>
+                                            <p style="overflow-wrap: break-word; text-wrap: pretty; margin: 0px !important;">The students are given various tasks and questions to complete for every learning journey. Students develop critical thinking through reflective questions posed in the NTLJ tasks for each venue. These questions and tasks are framed using Elements of Thought (e.g. point of view, implications and consequences) and aim to grow students to become reflective thinkers and learners.</p>
+                                        </div>
+                                    </details>
+                                </div>
+                            </div>
+                        
+                    
+                
+            
+        
+    
+
+
+
+
+<details><summary> ORGCHART</summary>
 <div class="yck-component">
     <nav class="yck-nav-bar" id="top">
         <ul>
@@ -1509,3 +1585,4 @@ small {
     }
 }
 </style>
+</details>
