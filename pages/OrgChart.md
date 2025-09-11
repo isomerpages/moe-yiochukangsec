@@ -5,36 +5,33 @@ variant: markdown
 description: ""
 image: /images/Gold.png
 ---
-
 <div id="yck-component">
                                 
-                                <div style="display: flex; justify-content: center; align-items: flex-start; flex-direction: row; text-align: center; width: 100%; height: 40vh; overflow: hidden; background-size: cover !important; background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 37%, rgba(0, 0, 0, 0.65) 100%), url(https://placehold.co/1280x720?text=NTSS) no-repeat center center scroll;" class="masthead" id="ntss">
+<div style="display: flex; justify-content: center; align-items: flex-start; flex-direction: row; text-align: center; width: 100%; height: 40vh; overflow: hidden; background-size: cover !important; background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 37%, rgba(0, 0, 0, 0.65) 100%), url(https://placehold.co/1280x720?text=NTSS) no-repeat center center scroll;" class="masthead" id="ntss">
                                     
-                                    <h2 style="font-style: normal; font-weight: bold; color: #eee !important; font-size: 5.7vmin; letter-spacing: 0.03em; line-height: 1; text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.8); margin-bottom: 30px; text-wrap: balance; overflow-wrap: break-word;">Normal Technical Special Subjects</h2>
-                                </div>
-                            </div>
+<h2 style="font-style: normal; font-weight: bold; color: #eee !important; font-size: 5.7vmin; letter-spacing: 0.03em; line-height: 1; text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.8); margin-bottom: 30px; text-wrap: balance; overflow-wrap: break-word;">Normal Technical Special Subjects</h2></div></div>
                             
-                            <div style="line-height: 1.6em; letter-spacing: normal; font-size: clamp(1.125rem, 1.125rem + 0vw, 1.125rem); margin-bottom: clamp(1em, 0.2143em + 3.9286vw, 3.5em);" class="yck-component">
+<div style="line-height: 1.6em; letter-spacing: normal; font-size: clamp(1.125rem, 1.125rem + 0vw, 1.125rem); margin-bottom: clamp(1em, 0.2143em + 3.9286vw, 3.5em);" class="yck-component">
                                 
-                                <div style="--yck-gap: 1em; display: flex; flex-wrap: wrap; list-style: none; gap: 1em; padding: 0px; margin-block: 1em;" class="yck-flexbox-grid">
+<div style="--yck-gap: 1em; display: flex; flex-wrap: wrap; list-style: none; gap: 1em; padding: 0px; margin-block: 1em;" class="yck-flexbox-grid">
                                     
-                                    <div style="break-inside: avoid; page-break-inside: avoid; padding: 20px; border-radius: 5px; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15); margin-bottom: 1em; flex-grow: 1; flex-shrink: 0; flex-basis: calc((100% - 1em) / 4); min-width: calc((100% - 1em) / 2); list-style: none;" class="column">
-                                        <h2 style="font-size: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem); margin-bottom: calc(1em * .85); text-transform: capitalize; line-height: 1.2em; letter-spacing: -0.02em; text-wrap: balance; overflow-wrap: break-word;"><strong>Vision</strong></h2>
-                                        <p style="overflow-wrap: break-word; text-wrap: pretty; margin-bottom: 1em;">Passionate learners who are agile and active contributors in the future economy</p>
-                                    </div>
-                                    <div style="break-inside: avoid; page-break-inside: avoid; padding: 20px; border-radius: 5px; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15); margin-bottom: 1em; flex-grow: 1; flex-shrink: 0; flex-basis: calc((100% - 1em) / 4); min-width: calc((100% - 1em) / 2); list-style: none;" class="column">
-                                        <h2 style="font-size: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem); margin-bottom: calc(1em * .85); text-transform: capitalize; line-height: 1.2em; letter-spacing: -0.02em; text-wrap: balance; overflow-wrap: break-word;"><strong>Mission</strong></h2>
-                                        <p style="overflow-wrap: break-word; text-wrap: pretty; margin-bottom: 1em;">To equip students with key skills, knowledge and attitude for successful careers in the technology and services sectors</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div style="line-height: 1.6em; letter-spacing: normal; font-size: clamp(1.125rem, 1.125rem + 0vw, 1.125rem); margin-bottom: clamp(1em, 0.2143em + 3.9286vw, 3.5em);" class="yck-component .regular-flow">
-                                <h3 style="font-size: clamp(1.6018rem, 1.4828rem + 0.5951vw, 1.944rem); margin-bottom: calc(1em * .75); text-transform: capitalize; line-height: 1.2em; letter-spacing: -0.02em; text-wrap: balance; overflow-wrap: break-word;" class="yck-h3">Key Programmes</h3>
+<div style="break-inside: avoid; page-break-inside: avoid; padding: 20px; border-radius: 5px; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15); margin-bottom: 1em; flex-grow: 1; flex-shrink: 0; flex-basis: calc((100% - 1em) / 4); min-width: calc((100% - 1em) / 2); list-style: none;" class="column">
+<h2 style="font-size: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem); margin-bottom: calc(1em * .85); text-transform: capitalize; line-height: 1.2em; letter-spacing: -0.02em; text-wrap: balance; overflow-wrap: break-word;"><strong>Vision</strong></h2>
+<p style="overflow-wrap: break-word; text-wrap: pretty; margin-bottom: 1em;">Passionate learners who are agile and active contributors in the future economy</p>
+</div>
+<div style="break-inside: avoid; page-break-inside: avoid; padding: 20px; border-radius: 5px; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15); margin-bottom: 1em; flex-grow: 1; flex-shrink: 0; flex-basis: calc((100% - 1em) / 4); min-width: calc((100% - 1em) / 2); list-style: none;" class="column">
+<h2 style="font-size: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem); margin-bottom: calc(1em * .85); text-transform: capitalize; line-height: 1.2em; letter-spacing: -0.02em; text-wrap: balance; overflow-wrap: break-word;"><strong>Mission</strong></h2>
+<p style="overflow-wrap: break-word; text-wrap: pretty; margin-bottom: 1em;">To equip students with key skills, knowledge and attitude for successful careers in the technology and services sectors</p> 
+	</div>
+ </div>
+</div>
+<div style="line-height: 1.6em; letter-spacing: normal; font-size: clamp(1.125rem, 1.125rem + 0vw, 1.125rem); margin-bottom: clamp(1em, 0.2143em + 3.9286vw, 3.5em);" class="yck-component .regular-flow">
+<h3 style="font-size: clamp(1.6018rem, 1.4828rem + 0.5951vw, 1.944rem); margin-bottom: calc(1em * .75); text-transform: capitalize; line-height: 1.2em; letter-spacing: -0.02em; text-wrap: balance; overflow-wrap: break-word;" class="yck-h3">Key Programmes</h3>
                                 
-                                <div style="break-inside: avoid; page-break-inside: avoid; padding: 20px; border-radius: 5px; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15); margin-bottom: 1em;" class="column">
-                                    <details style="overflow: hidden; border-radius: 10px; background-color: rgb(255, 255, 255); transition: box-shadow 0.5s ease-out 0s; margin: 0px !important;" name="keyprog">
+<div style="break-inside: avoid; page-break-inside: avoid; padding: 20px; border-radius: 5px; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15); margin-bottom: 1em;" class="column">
+<details style="overflow: hidden; border-radius: 10px; background-color: rgb(255, 255, 255); transition: box-shadow 0.5s ease-out 0s; margin: 0px !important;" name="keyprog">
                                         
-                                        <summary style="position: relative; padding: 1rem 3rem 1rem 1.5rem; list-style-position: outside; cursor: pointer; user-select: none; outline: 0px; font-size: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem); font-weight: 500; transition: background-color 0.5s ease-in 0s; margin: 0px !important; text-transform: capitalize; line-height: 1.2em; letter-spacing: -0.02em;" class="yck-h4">Computer Applications (CPA)</summary>
+<summary style="position: relative; padding: 1rem 3rem 1rem 1.5rem; list-style-position: outside; cursor: pointer; user-select: none; outline: 0px; font-size: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem); font-weight: 500; transition: background-color 0.5s ease-in 0s; margin: 0px !important; text-transform: capitalize; line-height: 1.2em; letter-spacing: -0.02em;" class="yck-h4">Computer Applications (CPA)</summary>
                                         <div style="padding: 1rem 1.5rem 1.5rem; animation: 0.5s ease 0.5s 1 normal both running fade-in;">
                                             <p style="overflow-wrap: break-word; text-wrap: pretty; margin: 0px !important;">CPA is offered to all students in the <em>Normal Technical</em> course from <i>Secondary one to four</i>. It promotes <mark>digital literacy</mark> in students, developing them to be responsible, confident and creative users of technology who can participate and thrive in a digital world. The subject engages students and prepares them for future studies through <mark>authentic tasks</mark> and <mark>hands-on activities</mark>.</p>
                                             <p style="overflow-wrap: break-word; text-wrap: pretty; margin: 0px !important;">Students are equipped with a wide range of necessary ICT skills that prepare them to meet the demands of other subjects in secondary school and at post-secondary institutes. Through CPA, students acquire 21st century competencies such as critical thinking, information processing and effective communication.</p>
