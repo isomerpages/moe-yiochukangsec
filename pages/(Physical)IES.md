@@ -8,7 +8,7 @@ image: /images/YCKLogo.svg
 <div class="yck-component" id="top">
 	<div class="regular-flow">
 		
-<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Physical/OliveRun_3a.jpg">
+<img title="OliveRun_3a.jpg" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Physical/OliveRun_3a.jpg">
 		
 		
 </div>
@@ -1358,4 +1358,3 @@ abbr:hover {
     }
 }
 </style>
-	
