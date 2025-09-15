@@ -10,13 +10,18 @@ image: /images/YCKLogo.svg
 		<h1>Physical</h1>		
 <img title="OliveRun_3a.jpg" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Physical/OliveRun_3a.jpg">
 <h1>Intellectual</h1>
+		<figure>
 <img title="OliveRun_3a.jpg" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Intellectual/i3c_sm.jpg">
+		</figure>
 		
 <h1>Emotional</h1>
-<img title="OliveRun_3a.jpg" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Emotional/e6_yellow_sm.jpg">	
+		<figure>
+<img title="OliveRun_3a.jpg" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Emotional/e6_yellow_sm.jpg">	</figure>
 		
 <h1>Social</h1>
-<img title="OliveRun_3a.jpg" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Physical/OliveRun_3a.jpg">		
+<figure>
+<img title="OliveRun_3a.jpg" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2025_durians_kiwi02.jpg">
+</figure>
 		
 </div>
 </div>
