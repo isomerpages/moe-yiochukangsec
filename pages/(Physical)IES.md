@@ -7,9 +7,16 @@ image: /images/YCKLogo.svg
 ---
 <div class="yck-component" id="top">
 	<div class="regular-flow">
-		
+		<h1>Physical</h1>		
 <img title="OliveRun_3a.jpg" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Physical/OliveRun_3a.jpg">
+<h1>Intellectual</h1>
+<img title="OliveRun_3a.jpg" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Physical/OliveRun_3a.jpg">	
 		
+<h1>Emotional</h1>
+<img title="OliveRun_3a.jpg" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Physical/OliveRun_3a.jpg">		
+		
+<h1>Social</h1>
+<img title="OliveRun_3a.jpg" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Physical/OliveRun_3a.jpg">		
 		
 </div>
 </div>
