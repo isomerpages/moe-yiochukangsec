@@ -8,7 +8,7 @@ image: /images/YCKLogo.svg
 <div class="yck-component" id="top">
 	<div class="regular-flow">
    
-<details><summary>
+<details name="social"><summary>
 		<h3 id="sad2024">Staff Appreciation Week: Grateful Moments, Lasting Impact</h3>
 			</summary>
 
@@ -51,7 +51,7 @@ image: /images/YCKLogo.svg
                                     </div>
 	</details>
  <hr> 
-<details><summary>
+<details name="social"><summary>
 <h3 id="minidurians2024">Mini Durian Delights</h3>
 	</summary>
 
@@ -77,7 +77,7 @@ image: /images/YCKLogo.svg
 		</div>
 	</details>
 <hr>
-	<details><summary>
+<details name="social"><summary>
 <h3 id="hariraya2024">Embracing the Spirit of Hari Raya</h3>
 		</summary>
 
@@ -107,7 +107,7 @@ image: /images/YCKLogo.svg
 	</details>
 
 <hr>
-		<details name="social"><summary>
+<details name="social"><summary>
 <h3 id="cny2024">Chinese New Year Celebrations 2024</h3>
 			</summary>
 
@@ -130,9 +130,10 @@ image: /images/YCKLogo.svg
                                             </button>
                                         </a>
                                     </div>
-			</details></div>
+</details></div>
+
 		
-	<hr>
+<hr>
 																		
 
 <style>
