@@ -7,55 +7,10 @@ image: /images/YCKLogo.svg
 ---
 <div class="yck-component" id="top">
 	<div class="regular-flow">
-    <div class="yck-flexbox-grid">
-            <details name="ccas">
-							<summary><h3><strong>P</strong>hysical-IES</h3></summary>
-                <ul>
-                   <li id="pie-physical"><a class="text-link" href="/physical-ies">Staff Appreciation Day</a></li>
-									<li id="pie-physical"><a class="text-link" href="/physical-ies"><strong>P</strong>hysical-IES</a></li>
-									<li id="pie-physical"><a class="text-link" href="/physical-ies"><strong>P</strong>hysical-IES</a></li>
-									<li id="pie-physical"><a class="text-link" href="/physical-ies"><strong>P</strong>hysical-IES</a></li>
-                </ul>
-            </details>
-            <details name="ccas">
-                <summary><h3>P-<strong>I</strong>ntellectual-ES</h3></summary>
-                <ul>
-                    <li id="pie-intellectual"><a class="text-link" href="/p-intellectual-es/">P<strong>I</strong>ntellectual-ES</a></li>
-									<li id="pie-intellectual"><a class="text-link" href="/p-intellectual-es/">P<strong>I</strong>ntellectual-ES</a></li>
-									<li id="pie-intellectual"><a class="text-link" href="/p-intellectual-es/">P<strong>I</strong>ntellectual-ES</a></li>
-									<li id="pie-intellectual"><a class="text-link" href="/p-intellectual-es/">P<strong>I</strong>ntellectual-ES</a></li>
-                </ul>
-            </details>
-			<details name="ccas">
-				<summary><h3>PI-<strong>E</strong>motional-S</h3></summary>
-                <ul>
-                    <li id="pie-emo">
-            <a class="text-link" href="/pi-emotional-s/">PI-<strong>E</strong>motional-S</a>
-        </li>
-									<li id="pie-emo">
-            <a class="text-link" href="/pi-emotional-s/">PI-<strong>E</strong>motional-S</a>
-        </li>
-									<li id="pie-emo">
-            <a class="text-link" href="/pi-emotional-s/">PI-<strong>E</strong>motional-S</a>
-        </li>
-									<li id="pie-emo">
-            <a class="text-link" href="/pi-emotional-s/">PI-<strong>E</strong>motional-S</a>
-        </li>
-                </ul>
-            </details>
-			<details name="ccas">
-				<summary><h3>PIE-<strong>S</strong>ocial</h3></summary>
-                <ul>
-                    <li id="pie-social"><a class="active" href="#">Staff Appreciation Day</a>
-											</li><li id="pie-social"><a class="active" href="#">Mini Durians Delight</a>
-												</li><li id="pie-social"><a class="active" href="#">PIE-<strong>S</strong>ocial</a>
-													</li><li id="pie-social"><a class="active" href="#">PIE-<strong>S</strong>ocial</a>
-                </li></ul>
-            </details>
-        </div>
-    </div>
-		<hr>
+   
+<details><summary>
 		<h3 id="sad2024">Staff Appreciation Week: Grateful Moments, Lasting Impact</h3>
+			</summary>
 
 <p><i>“It’s my life~~~” Bon Jovi’s</i> song rang out as the principal joined in the groove, signaling the official yet fun start of the Staff Appreciation Lunch. With the microphone in hand, groups eagerly showcased their unique identities – flaunting glossy balloons, rocking cool shades, or sporting bandana scarves. The royal blue attire, paired with tiaras or songkoks, added a dash of flair, as everyone embraced the theme of ‘Be Yourself.’</p>
     
@@ -93,9 +48,12 @@ image: /images/YCKLogo.svg
                                                 </svg>
                                             </button>
                                         </a>
-                                    </div>   
- <hr>   
+                                    </div>
+	</details>
+ <hr> 
+<details><summary>
 <h3 id="minidurians2024">Mini Durian Delights</h3>
+	</summary>
 
 <p>The air buzzed with anticipation when a hint of its presence was dropped through a text message. Upon its arrival, the atmosphere intensified; some rushed up to it with their like-minded colleagues, while others scrunched up their noses yet politely declined, saying, ‘I would give it a miss.’ It is none other than the king of fruits – durian!</p>
 
@@ -117,8 +75,11 @@ image: /images/YCKLogo.svg
                                         </a>
                                     </div>
 		</div>
+	</details>
 <hr>
+	<details><summary>
 <h3 id="hariraya2024">Embracing the Spirit of Hari Raya</h3>
+		</summary>
 
 
 <p>Hari Raya festivities are synonymous with an exquisite array of culinary delights. It was no exception this year, with the primary aim of fostering YCKSS familial ties. On 19 April, as the aroma of tantalising lunch filled the air, it set the perfect backdrop for colleagues to engage in hearty conversations amidst their busy lives.</p>
@@ -143,9 +104,12 @@ image: /images/YCKLogo.svg
                                         </a>
                                     </div>
 		</div>
+	</details>
 
 <hr>
+		<details name="social"><summary>
 <h3 id="cny2024">Chinese New Year Celebrations 2024</h3>
+			</summary>
 
 
 <p>To usher in the Year of the Dragon, all YCKSS staff convened in a calligraphy session on 2 February 2024. Empowered with creative autonomy, everyone carefully and meticulously penned auspicious words of their choice and engaged in the delicate art of paper cutting, reflecting personalised aspirations. The celebration would not be complete without the venerable tradition of Lo Hei on 16 February 2024, when a myriad of ingredients were tossed with one collective purpose: ringing in peace and prosperity in the coming year.</p>
@@ -155,7 +119,7 @@ image: /images/YCKLogo.svg
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Slide3.png">
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Slide4.png">
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Social/Slide5.png">
-</div>
+
 
 <div class="button-container">
                                         <a href="#top">
@@ -166,6 +130,9 @@ image: /images/YCKLogo.svg
                                             </button>
                                         </a>
                                     </div>
+			</details></div>
+		
+	<hr>
 																		
 
 <style>
@@ -1579,4 +1546,4 @@ abbr:hover {
         flex-shrink: 0;
         /* Prevents the images from shrinking */
       }
-</style>
+</style></div>
