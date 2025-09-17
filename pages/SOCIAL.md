@@ -7,6 +7,40 @@ image: /images/YCKLogo.svg
 ---
 <div class="yck-component" id="top">
 	<div class="regular-flow">
+		
+<details open="" name="social"><summary>
+	<h3>Black Gold or Golden Kiwis?</h3></summary>
+	<p class="dropcap-title">Your choice. Your delight</p>
+	<p>Every year, fruit lovers are faced with an irresistible dilemma: a life choice that stirs the taste buds</p>.
+<div class="yck-flexbox-grid">
+	<figure class="landscape">
+		<img alt="Staff activity image 1" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2025_durians_kiwi01.jpg">
+	</figure>
+	<figure>
+		 <img alt="Staff activity image 2" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2025_durians_kiwi02.jpg">
+	</figure>
+<figure>
+	<img alt="Staff activity image 3" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2025_durians_kiwi03.jpg">
+	</figure>
+	</div>
+<p>On 30 July 2025, a much-welcomed message was dropped, hinting at the arrival of two seasonal
+treasures. The air grew thick with anticipation, and the mood quickly shifted into high gear. Some
+made a beeline for the Heritage Gallery with like-minded colleagues, eager to savour the king of
+fruits—the rich, creamy Black Gold. Others scrunched up their noses at its potent aroma and
+cheerfully quipped, “Enjoy the king of fruits,” before turning to claim a crown jewel—the tangy-sweet
+	Zespri golden kiwi.</p>
+<p>The liberty of choice has transformed the school into a stage for this cherished ritual of flavour and
+	friendly rivalry.</p>
+ <div class="button-container">
+                                        <a href="#top">
+                                            <button class="buttontotop">
+                                                <svg viewBox="0 0 384 512" class="svgIcon">
+                                                    <path d="M214.6 41.4c-12.5-12.5-32.8-12.5-45.3 0l-160 160c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L160 141.2V448c0 17.7 14.3 32 32 32s32-14.3 32-32V141.2L329.4 246.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3l-160-160z"></path>
+                                                </svg>
+                                            </button>
+                                        </a>
+                                    </div>
+</details>
    
 <details name="social"><summary>
 		<h3 id="sad2024">Staff Appreciation Week: Grateful Moments, Lasting Impact</h3>
