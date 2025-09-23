@@ -35,7 +35,7 @@ image: /images/YCKLogo.svg
                 </svg>
             </div>
         </div>
-        <div class="category-card emotional">
+       <a href="#"></a><div class="category-card emotional"><a href="#">
             <div class="category-content">
                 <h2 class="category-title">Emotional</h2>
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21" class="arrow">
@@ -44,8 +44,8 @@ image: /images/YCKLogo.svg
                         <path d="m9.5 11.5 3-3-3-3"></path>
                         <path transform="matrix(0 1 -1 0 17 0)" d="m8.5 4.5v8"></path>
                     </g>
-                </svg>
-            </div>
+							</svg>
+					</div></a>
         </div>
         <div class="category-card social">
             <div class="category-content">
@@ -1492,10 +1492,11 @@ abbr:hover {
 
 /* --- Arrow Icon --- */
 .yck-component .arrow {
-    height: 3.5em;
-    width: 3.5em;
+    height: 4em;
+    width: 4em;
     transition: transform 0.5s var(--yck-transition-timing);
     flex-shrink: 0;
+	color: white;
 
     /* MODIFICATION: Removed bottom margin and padding to allow for proper alignment */
     margin-left: 40px;
