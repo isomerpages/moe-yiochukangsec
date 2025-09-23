@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 image: /images/YCKLogo.svg
 ---
-<div class="yck-component">
+<div class="yck-component" id="top">
     <div class="regular-flow">
         <header>
             <h1>ACTIVITIES FROM THE STAFF WELL-BEING COMMITTEE (SWC)</h1>
