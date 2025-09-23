@@ -11,9 +11,7 @@ image: /images/YCKLogo.svg
             <h1>ACTIVITIES FROM THE STAFF WELL-BEING COMMITTEE (SWC)</h1>
             <p>The Staff Well-being Committee <i>(SWC)</i> adopts the <strong>PIES</strong> approach, looking into the <strong>P</strong>hysical, <strong>I</strong>ntellectual, <strong>E</strong>motional and <strong>S</strong>ocial well-being of the staff. The school aims to develop an engaged staff who care for self and others.</p>
         </header>
-        
-        
-        <div class="category-card physical">
+<div class="category-card physical">
             <div class="category-content">
                 <h2 class="category-title">Physical</h2>
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21" class="arrow">
