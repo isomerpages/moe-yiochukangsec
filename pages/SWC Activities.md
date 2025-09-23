@@ -7,48 +7,59 @@ image: /images/YCKLogo.svg
 ---
 <div class="yck-component">
     <div class="regular-flow">
-            <h1>ACTIVITIES FROM THE STAFF WELL-BEING COMMITTEE (SWC) </h1>
-            <p>The Staff Well-being Committee <i>(SWC)</i> adopts the <strong>PIES</strong> approach, looking into the <strong>P</strong>hysical, <strong>I</strong>ntellectual, <strong>E</strong>motional and <strong>S</strong>ocial well-being of the staff.</p> 
-					<p>The school aims to develop an engaged staff who care for self and others. Some of the plans in promoting staff well-being and satisfaction include identifying staff needs, staff well-being programmes and activities and providing a safe and secure environment.</p>
-    </div>
-</div>
-<div class="yck-component">
-    <div id="physical" class="category-card">
-        <div class="category-content">
-            <h2 class="category-title">PHYSICAL</h2>
-             <div class="arrow">
-                    <svg viewBox="0 0 50 24">
-                        <path d="M2 12h46M36 4l12 8-12 8"></path>
-                    </svg>
-                </div>
+        <header>
+            <h1>ACTIVITIES FROM THE STAFF WELL-BEING COMMITTEE (SWC)</h1>
+            <p>The Staff Well-being Committee <i>(SWC)</i> adopts the <strong>PIES</strong> approach, looking into the <strong>P</strong>hysical, <strong>I</strong>ntellectual, <strong>E</strong>motional and <strong>S</strong>ocial well-being of the staff. The school aims to develop an engaged staff who care for self and others.</p>
+        </header>
+        
+        
+        <div class="category-card physical">
+            <div class="category-content">
+                <h2 class="category-title">Physical</h2>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21" class="arrow">
+                    <g transform="translate(3 2)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill-rule="evenodd" fill="none">
+                        <circle r="8" cy="8.5" cx="8.5"></circle>
+                        <path d="m9.5 11.5 3-3-3-3"></path>
+                        <path transform="matrix(0 1 -1 0 17 0)" d="m8.5 4.5v8"></path>
+                    </g>
+                </svg>
+            </div>
         </div>
-    </div>
-    <div id="intellectual" class="category-card">
-        <div class="category-content">
-            <h2 class="category-title">INTELLECTUAL</h2>
-            <div class="arrow">
-                    <svg viewBox="0 0 50 24"><path d="M2 12h46M36 4l12 8-12 8"></path></svg>
-              </div>
+        <div class="category-card intellectual">
+            <div class="category-content">
+                <h2 class="category-title">Intellectual</h2>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21" class="arrow">
+                    <g transform="translate(3 2)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill-rule="evenodd" fill="none">
+                        <circle r="8" cy="8.5" cx="8.5"></circle>
+                        <path d="m9.5 11.5 3-3-3-3"></path>
+                        <path transform="matrix(0 1 -1 0 17 0)" d="m8.5 4.5v8"></path>
+                    </g>
+                </svg>
+            </div>
         </div>
-   </div>
-   <div id="emotional" class="category-card">
-        <div class="category-content">
-            <h2 class="category-title">EMOTIONAL</h2>
-            <div class="arrow">
-                    <svg viewBox="0 0 50 24">
-                        <path d="M2 12h46M36 4l12 8-12 8"></path>
-                    </svg>
-                </div>
+        <div class="category-card emotional">
+            <div class="category-content">
+                <h2 class="category-title">Emotional</h2>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21" class="arrow">
+                    <g transform="translate(3 2)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill-rule="evenodd" fill="none">
+                        <circle r="8" cy="8.5" cx="8.5"></circle>
+                        <path d="m9.5 11.5 3-3-3-3"></path>
+                        <path transform="matrix(0 1 -1 0 17 0)" d="m8.5 4.5v8"></path>
+                    </g>
+                </svg>
+            </div>
         </div>
-    </div>
-    <div id="social" class="category-card">
-        <div class="category-content">
-            <h2 class="category-title">SOCIAL</h2>
-            <div class="arrow">
-                    <svg viewBox="0 0 50 24">
-                        <path d="M2 12h46M36 4l12 8-12 8"></path>
-                    </svg>
-                </div>
+        <div class="category-card social">
+            <div class="category-content">
+                <h2 class="category-title">Social</h2>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21" class="arrow">
+                    <g transform="translate(3 2)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill-rule="evenodd" fill="none">
+                        <circle r="8" cy="8.5" cx="8.5"></circle>
+                        <path d="m9.5 11.5 3-3-3-3"></path>
+                        <path transform="matrix(0 1 -1 0 17 0)" d="m8.5 4.5v8"></path>
+                    </g>
+                </svg>
+            </div>
         </div>
     </div>
 </div>
@@ -814,62 +825,62 @@ abbr:hover {
     text-overflow: ellipsis;
 }
 
-/* From Uiverse.io by vinodjangid07 */
+/* From Uiverse.io by vinodjangid07 */ 
 .yck-component .buttontotop {
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
-    background-color: #e37f2a;
-    border: none;
-    font-weight: 600;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    box-shadow: 0px 0px 0px 4px rgba(250, 190, 60, 0.5);
-    cursor: pointer;
-    transition-duration: 0.3s;
-    overflow: hidden;
-    position: relative;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #e37f2a;
+  border: none;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0px 0px 0px 4px rgba(250, 190, 60, 0.5);
+  cursor: pointer;
+  transition-duration: 0.3s;
+  overflow: hidden;
+  position: relative;
 }
 
 .yck-component .svgIcon {
-    width: 12px;
-    transition-duration: 0.3s;
+  width: 12px;
+  transition-duration: 0.3s;
 }
 
-.yck-component .svgIcon path {
-    fill: white;
+.yck-component  .svgIcon path {
+  fill: white;
 }
 
 .yck-component .buttontotop:hover {
-    width: 140px;
-    border-radius: 50px;
-    transition-duration: 0.3s;
-    background-color: #fabe64;
-    align-items: center;
+  width: 140px;
+  border-radius: 50px;
+  transition-duration: 0.3s;
+  background-color: #fabe64;
+  align-items: center;
 }
 
 .yck-component .buttontotop:hover .svgIcon {
-    /* width: 20px; */
-    transition-duration: 0.3s;
-    transform: translateY(-200%);
+  /* width: 20px; */
+  transition-duration: 0.3s;
+  transform: translateY(-200%);
 }
 
 .yck-component .buttontotop::before {
-    position: absolute;
-    bottom: -20px;
-    content: "Back to Top";
-    color: white;
-    /* transition-duration: .3s; */
-    font-size: 0px;
+  position: absolute;
+  bottom: -20px;
+  content: "Back to Top";
+  color: white;
+  /* transition-duration: .3s; */
+  font-size: 0px;
 }
 
 .yck-component .buttontotop:hover::before {
-    font-size: var(--yck-step-0);
-    opacity: 1;
-    bottom: unset;
-    /* transform: translateY(-30px); */
-    transition-duration: 0.3s;
+  font-size: var(--yck-step-0);
+  opacity: 1;
+  bottom: unset;
+  /* transform: translateY(-30px); */
+  transition-duration: 0.3s;
 }
 
 
@@ -1141,8 +1152,8 @@ abbr:hover {
     margin: 0 !important;
 }
 
-.yck-component details>ul {
-    list-style: none;
+.yck-component details > ul {
+    list-style:  none;
 }
 
 .yck-component summary {
@@ -1395,107 +1406,105 @@ abbr:hover {
         flex-basis: calc(100% - 10px);
         /* 1 card per row */
     }
-}
+}	
 
+/* --- Category Card Styles --- */
 .yck-component .category-card {
-            position: relative;
-            height: 300px;
-            border-radius: 15px;
-            overflow: hidden;
-            cursor: pointer;
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
-	margin-bottom: var(--yck-spacing-unit);
-        }
+    position: relative;
+    height: 280px;
+    border-radius: 15px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: transform 0.5s var(--yck-transition-timing), box-shadow 0.5s var(--yck-transition-timing);
 
-        .yck-component .category-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
-        }
-
-        .yck-component .category-card::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            background: linear-gradient(45deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3));
-            z-index: 1;
-        }
-
-
-#physical {
-    background: #ffffff
-        url("https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/OliveRun_3a.jpg");
-   background-size: cover; 
-	background-position: center; 
-	background-repeat: no-repeat;
-}
-
-#intellectual {
-    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.6)),
-        url('https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Intellectual/i3c_sm.jpg');
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    color: white !important;
     background-size: cover;
     background-position: center;
+    margin-bottom: var(--yck-spacing-unit);
+    /* MODIFICATION: Removed flex properties to use absolute positioning for the content */
 }
 
-#emotional {
-    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.6)),
-        url('https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Emotional/e6_yellow_sm.jpg');
-    background-size: cover;
-    background-position: center;
+.yck-component .category-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
 }
 
-#social {
-    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.6)),
-        url('https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2025_durians_kiwi01.jpg');
-    background-size: cover;
-    background-position: center;
+/* Dark gradient overlay */
+.yck-component .category-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(45deg, rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.05));
+    z-index: 1;
 }
 
- .yck-component .category-content {
-            position: relative;
-            z-index: 2;
-            height: 100%;
-            display: flex;
-            align-items: flex-end;
-            padding: 0 40px 0px 40px;
-            color: white;
-        }
+/* --- Background Images for each card --- */
+.yck-component .physical {
+    background-image: url('https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/OliveRun_3a.jpg');
+}
 
-        .yck-component .category-title {
-            font-size: 5.5vmin;
-            font-weight: bold;
-            text-transform: uppercase;
-            letter-spacing: 2px;
-            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-        }
+.yck-component .intellectual {
+    background-image: url('https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Intellectual/i3c_sm.jpg');
+}
 
-     .yck-component .arrow {
-            position: absolute;
-            right: 40px;
-            bottom: 30px;
-            transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-        }
+.yck-component .emotional {
+    background-image: url('https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Emotional/e6_yellow_sm.jpg');
+}
 
-      .yck-component .arrow svg {
-						width: 5.5vmin;
-            height: calc(5.5vmin * 0.48);
-            fill: none;
-            stroke: white;
-            stroke-width: 3;
-            stroke-linecap: round;
-            stroke-linejoin: round;
-            transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-        }
+.yck-component .social {
+    background-image: url('https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2025_durians_kiwi01.jpg');
+}
 
-      .yck-component .category-card:hover .arrow {
-            transform: translateX(15px);
-        }
+/* Content container */
+.yck-component .category-content {
+    /* MODIFICATION: Using absolute positioning to lock content to the bottom */
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    box-sizing: border-box;
+    /* Ensures padding is included in the element's width */
 
-        .yck-component .category-card:hover .arrow svg {
-            stroke: rgba(255, 255, 255, 0.9);
-            transform: scale(1.1);
-        }
+    z-index: 200;
+    display: flex;
+    justify-content: space-between;
+
+    /* MODIFICATION: Align items to the bottom */
+    align-items: flex-end;
+
+    /* MODIFICATION: Reduced bottom padding to decrease space */
+    padding: 40px 40px 16px;
+}
+
+.yck-component .category-title {
+    font-size: 5.5vmin;
+    font-weight: bold;
+    color: white !important;
+    z-index: 200;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
+    padding: 0;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+/* --- Arrow Icon --- */
+.yck-component .arrow {
+    height: 3.5em;
+    width: 3.5em;
+    transition: transform 0.5s var(--yck-transition-timing);
+    flex-shrink: 0;
+
+    /* MODIFICATION: Removed bottom margin and padding to allow for proper alignment */
+    margin-left: 40px;
+    filter: drop-shadow(2px 2px 3px rgba(0, 0, 0, 0.5));
+}
+
+.yck-component .category-card:hover .arrow {
+    transform: scale(1.4);
+}
 </style>
