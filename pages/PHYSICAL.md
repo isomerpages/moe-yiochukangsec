@@ -5,26 +5,64 @@ variant: markdown
 description: ""
 image: /images/YCKLogo.svg
 ---
-<div class="yck-component" id="top">
+<div class="yck-component">
 	<div class="regular-flow">
-		<h1>Physical</h1>		
-<img title="OliveRun_3a.jpg" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Physical/OliveRun_3a.jpg">
-<h1>Intellectual</h1>
-		<figure>
-<img title="OliveRun_3a.jpg" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Intellectual/i3c_sm.jpg">
-		</figure>
-		
-<h1>Emotional</h1>
-		<figure>
-<img title="OliveRun_3a.jpg" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Emotional/e6_yellow_sm.jpg">	</figure>
-		
-<h1>Social</h1>
-<figure>
-<img title="OliveRun_3a.jpg" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2025_durians_kiwi02.jpg">
-</figure>
-		
-</div>
-</div>
+<details><summary>PHYSICAL</summary>
+<div class="yck-component">
+	<div class="regular-flow">
+<h3>Run for Your ‘Life’</h3>
+
+
+<blockquote> ‘Stretch! Swing! Skip! Squat!’ ...</blockquote>
+
+<p>These were some of the warm-up exercises that a group of staff performed before commencing their 14 th MOE Olive Run at Singapore Sports Hub, OCBC Square, on 13 July 2024. Whether or not their counterparts were dashing past them toward the finishing line, they remained focused on their personal pace, form, and even the enjoyment of
+the scenic beauty around them. Ultimately, their primary goal in joining the activity was to stay fit and healthy. Anything else, such as refreshments, goodie bags, complimentary fitness check, and even lucky draw prizes, was a bonus but secondary. After all, health is the greatest wealth.</p>
+
+<img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/OliveRun_1.jpg">
+<img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/OliveRun_2.jpg">
+<img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/OliveRun_3.jpg">
+
+<h3>Yoga: Ignite Your Mind, Body and Soul!</h3>
+
+
+<p>Armed with water bottles, towels, and even yoga mats, the staff soldiered on to the sacred sanctuaries where tranquil melodies and revitalising yoga awaited on an ordinary Friday, 1 March 2024. Namaste!</p>
+
+<p>Having greeted the yoga teachers respectfully, some traversed along an infinity pattern gracefully in the cavernous hall, while others curled their toes and lifted their hips methodically in the cozy studio. The rewards were immense – radiant smiles across the faces, beads of perspiration testament to a vigorous workout and last but not least, a much-cherished respite from the hustle and bustle of life.</p>
+
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/YOGA1.png">
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/YOGA2.png">
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/YOGA3.png">
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/YOGA4.png">
+
+
+
+
+<h3>Staff retreat &amp; celebrations</h3>
+
+
+<p>Objective : To foster strong and cohesive teams through a team building staff retreat.</p>
+
+<p>Feel the soft sand, the smooth sea and the bright sun while we **"Cruise the Southern Seas of Singapore"** - an adventure to discover the sustainability efforts of Singapore in the Southern Islands of Sisters Island, Kusu Island, Pulau Semakau, Pulau Bukom.</p>
+
+<p>It was a clear sky on Friday, 24 June 2022, after days of rain. The staff had a bonding game with a boarding pass on the buses going to the Marina Bay Ferry Terminal. The staff disembarked on Kusu Island where they had a game untangling themselves. Engaging session learning the legends of the names of the islands, the sustainability efforts by the government.</p>
+
+<p>Ended the day with a buffet lunch on Sentosa. Staff made a pledge to save the environment.</p>
+
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/P3.png">
+
+<img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/P4.png">
+	</div>
+	</div>
+	<div class="yck-component">
+                                            <div class="button-container">
+                                                <a href="#top" class="button">Back to Top</a>
+                                            </div>
+                                        </div>
+
+</details>
+	</div>
+	</div>
+
 	
 <style>
 	/* ==========================================================================
