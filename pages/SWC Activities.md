@@ -11,7 +11,7 @@ image: /images/YCKLogo.svg
             <h1>ACTIVITIES FROM THE STAFF WELL-BEING COMMITTEE (SWC)</h1>
             <p>The Staff Well-being Committee <i>(SWC)</i> adopts the <strong>PIES</strong> approach, looking into the <strong>P</strong>hysical, <strong>I</strong>ntellectual, <strong>E</strong>motional and <strong>S</strong>ocial well-being of the staff. The school aims to develop an engaged staff who care for self and others.</p>
         </header>
-<div class="category-card physical">
+<a href="/our-family/our-staff/staff-wellbeing-committee-activities/physical"><div class="category-card physical">
             <div class="category-content">
                 <h2 class="category-title">Physical</h2>
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21" class="arrow">
@@ -22,8 +22,8 @@ image: /images/YCKLogo.svg
                     </g>
                 </svg>
             </div>
-        </div>
-        <div class="category-card intellectual">
+	</div></a>
+       <a href="/our-family/our-staff/staff-wellbeing-committee-activities/intellectual"> <div class="category-card intellectual">
             <div class="category-content">
                 <h2 class="category-title">Intellectual</h2>
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21" class="arrow">
@@ -34,8 +34,8 @@ image: /images/YCKLogo.svg
                     </g>
                 </svg>
             </div>
-        </div>
-       <a href="#"></a><div class="category-card emotional"><a href="#">
+				 </div></a>
+       <a href="/our-family/our-staff/staff-wellbeing-committee-activities/emotional"></a><div class="category-card emotional"><a href="/our-family/our-staff/staff-wellbeing-committee-activities/emotional">
             <div class="category-content">
                 <h2 class="category-title">Emotional</h2>
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21" class="arrow">
@@ -47,7 +47,7 @@ image: /images/YCKLogo.svg
 							</svg>
 					</div></a>
         </div>
-        <div class="category-card social">
+        <a href="/our-family/our-staff/staff-wellbeing-committee-activities//social/"><div class="category-card social">
             <div class="category-content">
                 <h2 class="category-title">Social</h2>
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21" class="arrow">
@@ -59,8 +59,8 @@ image: /images/YCKLogo.svg
                 </svg>
             </div>
         </div>
-    </div>
-</div>
+    </a></div><a href="/our-family/our-staff/staff-wellbeing-committee-activities//social/">
+</a></div><a href="/our-family/our-staff/staff-wellbeing-committee-activities//social/">
 
 <style>
 /* ==========================================================================
@@ -1506,4 +1506,4 @@ abbr:hover {
 .yck-component .category-card:hover .arrow {
     transform: scale(1.4);
 }
-</style>
+</style></a>
