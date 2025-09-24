@@ -45,9 +45,9 @@ image: /images/YCKLogo.svg
                         <path transform="matrix(0 1 -1 0 17 0)" d="m8.5 4.5v8"></path>
                     </g>
 							</svg>
-					</div></a>
-        </div>
-        <a href="/our-family/our-staff/staff-wellbeing-committee-activities//social/"><div class="category-card social">
+					</div>
+        </a></div>
+        <a href="/our-family/our-staff/staff-wellbeing-committee-activities/social/"><div class="category-card social">
             <div class="category-content">
                 <h2 class="category-title">Social</h2>
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21" class="arrow">
@@ -59,8 +59,7 @@ image: /images/YCKLogo.svg
                 </svg>
             </div>
         </div>
-    </a></div><a href="/our-family/our-staff/staff-wellbeing-committee-activities//social/">
-</a></div><a href="/our-family/our-staff/staff-wellbeing-committee-activities//social/">
+   </a></div>
 
 <style>
 /* ==========================================================================
@@ -1506,4 +1505,4 @@ abbr:hover {
 .yck-component .category-card:hover .arrow {
     transform: scale(1.4);
 }
-</style></a>
+</style></div>
