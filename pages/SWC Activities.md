@@ -35,7 +35,7 @@ image: /images/YCKLogo.svg
                 </svg>
             </div>
 				 </div></a>
-       <a href="/our-family/our-staff/staff-wellbeing-committee-activities/emotional"></a><div class="category-card emotional"><a href="/our-family/our-staff/staff-wellbeing-committee-activities/emotional">
+       <a href="/our-family/our-staff/staff-wellbeing-committee-activities/emotional"><div class="category-card emotional">
             <div class="category-content">
                 <h2 class="category-title">Emotional</h2>
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21" class="arrow">
@@ -46,7 +46,8 @@ image: /images/YCKLogo.svg
                     </g>
 							</svg>
 					</div>
-        </a></div>
+        </div>
+			</a>
         <a href="/our-family/our-staff/staff-wellbeing-committee-activities/social/"><div class="category-card social">
             <div class="category-content">
                 <h2 class="category-title">Social</h2>
