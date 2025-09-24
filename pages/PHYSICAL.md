@@ -7,9 +7,6 @@ image: /images/YCKLogo.svg
 ---
 <div class="yck-component">
 	<div class="regular-flow">
-<details><summary>PHYSICAL</summary>
-<div class="yck-component">
-	<div class="regular-flow">
 <h3>Run for Your ‘Life’</h3>
 
 
@@ -21,8 +18,12 @@ the scenic beauty around them. Ultimately, their primary goal in joining the act
 <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/OliveRun_1.jpg">
 <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/OliveRun_2.jpg">
 <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/OliveRun_3.jpg">
+		
+<hr>
+		
 
-<h3>Yoga: Ignite Your Mind, Body and Soul!</h3>
+<details id="yoga-physical" name="physical">
+	<summary><h3>Yoga: Ignite Your Mind, Body and Soul!</h3></summary>
 
 
 <p>Armed with water bottles, towels, and even yoga mats, the staff soldiered on to the sacred sanctuaries where tranquil melodies and revitalising yoga awaited on an ordinary Friday, 1 March 2024. Namaste!</p>
@@ -33,11 +34,10 @@ the scenic beauty around them. Ultimately, their primary goal in joining the act
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/YOGA2.png">
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/YOGA3.png">
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/YOGA4.png">
-
-
-
-
-<h3>Staff retreat &amp; celebrations</h3>
+		</details>
+<hr>
+<details id="physical" name="physical">
+	<summary><h3>Staff retreat &amp; celebrations</h3></summary>
 
 
 <p>Objective : To foster strong and cohesive teams through a team building staff retreat.</p>
@@ -51,7 +51,7 @@ the scenic beauty around them. Ultimately, their primary goal in joining the act
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/P3.png">
 
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/P4.png">
-	</div>
+	</details></div>
 	</div>
 	<div class="yck-component">
                                             <div class="button-container">
@@ -59,9 +59,9 @@ the scenic beauty around them. Ultimately, their primary goal in joining the act
                                             </div>
                                         </div>
 
-</details>
-	</div>
-	</div>
+
+	
+	
 
 	
 <style>
@@ -118,7 +118,7 @@ body {
 
 ::selection {
     text-shadow: none;
-    background: yellow;
+    background: rgba(255, 255, 0, 0.35);
 }
 
 audio,
