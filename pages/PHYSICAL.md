@@ -56,7 +56,7 @@ image: /images/YCKLogo.svg
 <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/P4.png">
 	</details></div>
 	</div>
-	<div class="yck-component">
+<div class="yck-component">
                                             <div class="button-container">
                                                 <a href="#top" class="button">Back to Top</a>
                                             </div>
