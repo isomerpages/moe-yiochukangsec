@@ -45,7 +45,7 @@ image: /images/YCKLogo.svg
 
 <p>Objective : To foster strong and cohesive teams through a team building staff retreat.</p>
 
-<p>Feel the soft sand, the smooth sea and the bright sun while we **"Cruise the Southern Seas of Singapore"** - an adventure to discover the sustainability efforts of Singapore in the Southern Islands of Sisters Island, Kusu Island, Pulau Semakau, Pulau Bukom.</p>
+<p>Feel the soft sand, the smooth sea and the bright sun while we <strong>"Cruise the Southern Seas of Singapore"</strong> - an adventure to discover the sustainability efforts of Singapore in the Southern Islands of Sisters Island, Kusu Island, Pulau Semakau, Pulau Bukom.</p>
 
 <p>It was a clear sky on Friday, 24 June 2022, after days of rain. The staff had a bonding game with a boarding pass on the buses going to the Marina Bay Ferry Terminal. The staff disembarked on Kusu Island where they had a game untangling themselves. Engaging session learning the legends of the names of the islands, the sustainability efforts by the government.</p>
 
