@@ -1,163 +1,42 @@
 ---
-title: Gift Appreciation
-permalink: /gift-appreciation/
+title: INTELLECTUAL
+permalink: /our-family/our-staff/staff-wellbeing-committee-activities/intellectual/
 variant: markdown
 description: ""
-image: /images/60th Anniversary/60thLogo.svg
+image: /images/YCKLogo.svg
 ---
-<div class="yck-component">
+<div class="yck-component" id="top">
     <div class="regular-flow">
-        <h1>YCKSS 60th Anniversary Dinner - Gift Appreciation</h1>
-        <p>
-            Thank you for gracing the occasion of YCKSS 60th Anniversary Dinner. We have put together some gifts as
-            tokens of our appreciation.
-        </p>
-        <hr>
-        <section>
-            <h2>Growing Roots, Gaining Independence</h2>
-            <div class="col3-container">
-                <p>
-                    Our school was established by the First Prime Minister of Singapore Mr Lee Kuan Yew in 1965, the
-                    same year Singapore gained independence. Mr Lee was visiting Yio Chu Kang, then a rural farming
-                    community, when he acceded to the request by farmers to build a school for their children. Mr Ong
-                    Pang Boon, then Minister for Education, officially opened the school after it was built at 11
-                    milestone Yio Chu Kang Road.
-                </p>
-                <p>
-                    <strong>Gift 1: Vegetable Seeds</strong> from our school's Mendel's Garden – Every seed holds hope
-                    and promise for a better tomorrow, as YCKSS anchors itself through its roots at the same time when
-                    Singapore gains independence.
-                </p>
-            </div>
-        </section>
-        <hr>
-        <section>
-            <h2>Standing Up for Singapore, Contributing to Workforce</h2>
-            <div class="col-container">
-                <p>
-                    Our school witnessed changes in tandem with Singapore's history. It was a time of rapid
-                    industrialisation. At YCKSS, the equal educational opportunities afforded to all students,
-                    regardless of background, was the cornerstone for driving social mobility and meritocracy. Our
-                    school emphasised on the development of students' technical skills for them to contribute to the
-                    workforce.
-                </p>
-                <p>
-                    <strong>Gift 2: Acrylic Keepsake</strong> reflecting both SG60 and YCK60 – YCKSS's journey together
-                    with our nation Singapore, as we pay tribute to the Pioneer and Merdeka Generations who built our
-                    Nation, our School, our Home.
-                </p>
-            </div>
-        </section>
-        <hr>
-        <section>
-            <h2>Building Infrastructure, Fulfilling Potential</h2>
-            <div class="col3-container">
-                <p>
-                    In 1982, our school was re-sited to its current premises at 3063 Ang Mo Kio Avenue 5 in new Ang Mo
-                    Kio Town. Our school, tapping on a Knowledge-based Economy, and aligned with the MOE vision of
-                    'Thinking Schools, Learning Nation', was focused on customizing curricula to students of varying
-                    abilities to develop their full potential.
-                </p>
-                <p>
-                    <strong>Gift 3: Token Keychain</strong> – Every YCKian is worthy, and has potential to be discovered
-                    and unlocked, to contribute to family, society, and country.
-                </p>
-            </div>
-        </section>
-        <hr>
-        <section>
-            <h2>Sustaining Life, Nurturing Growth</h2>
-            <div class="col-container">
-                <p>
-                    Our school developed identity and sense of belonging in students through National Education;
-                    Critical and Creative Thinking, Collaborative Learning, and ICT literacy through 21st Century
-                    Competencies. Social Emotional Competencies were also nurtured. In 2002, our school's physical
-                    facilities were improved and upgraded under PRIME.
-                </p>
-                <p>
-                    <strong>Gift 4: Water in Tetra-Pak (饮水思源)</strong> – Like water sustains life, YCKSS has
-                    nurtured generations with knowledge, skills and competencies. YCKians have achieved in different
-                    sectors of business, industry and professions. When reflecting on our life experiences, we remember
-                    those who have taught us to be confident and resilient.
-                </p>
-            </div>
-        </section>
-        <hr>
-        <section>
-            <h2>Pursuing Excellence, Serving Others</h2>
-            <div class="col3-container">
-                <p>
-                    Our school pursues excellence in all we do, through continuous improvement of our curricula and
-                    co-curricular activities. YCKSS recognises our responsibilities towards the community and the
-                    environment. Our students serve people through Values-in-Action programmes aligned to our motto
-                    'Pursuit of Knowledge, Service to All'. They are active in promoting sustainability against climate
-                    change.
-                </p>
-                <p>
-                    <strong>Gift 5: Recyclable Tote Bag</strong> – YCKians embrace continuous learning opportunities as
-                    we carry essential items in this eco-friendly bag on a journey to realize hopes and aspirations.
-                </p>
-            </div>
-        </section>
-        <hr>
-        <section>
-            <h2>Enriching Learning, Spreading Joy</h2>
-            <div class="col-container">
-                <p>
-                    YCKSS develops its niche areas into the Applied Learning (STEM - Science, Technology, Engineering &amp;
-                    Mathematics) and Learning for Life (Arts, Media and Design) Programmes. Our school's ALP develops
-                    inquiring minds and inventive thinking by devising integrated solutions for real-life problems
-                    through technology. Our LLP exposes students to different art forms and allows them to express their
-                    ideas in different ways. Both give students enriching experiences, fostering creativity and joy of
-                    learning.
-                </p>
-                <p>
-                    <strong>Gift 6: Sticker Pack</strong> – Every sticker represents a cherished memory of learning; a
-                    piece of YCKSS that stays with you always.
-                </p>
-            </div>
-        </section>
-        <hr>
-        <section>
-            <h2>Weaving with Care, Connecting for Life</h2>
-            <div class="col3-container">
-                <p>
-                    In 2018, Yio Chu Kang Secondary School merged with Chong Boon Secondary School, retaining its
-                    English name and taking up the latter school's Chinese name of '崇文'. Yio Chu Kang Secondary School
-                    continues with the Gen Ed-SPED Partnership with Pathlight School (PLS) as its satellite campus,
-                    hosting students on the Autism Spectrum, providing opportunities for integration and inclusivity.
-                </p>
-                <p>
-                    <strong>Gift 7: Macrame Wrist Strap</strong> – Weaved by our students who have put their names on
-                    the pieces, with passion and pride. Like the knots, past and present school leaders, advisory
-                    committee members, staff and alumni have bonds with YCKSS that connect us and last forever.
-                </p>
-            </div>
-        </section>
-        <hr>
-        <section>
-            <h2>Continuing the Culture, Leaving a Legacy</h2>
-            <div class="col-container">
-                <p>
-                    Our School Vision is 'A community of Learners, Leaders and Innovators', and our mission is 'To
-                    nurture students of character who thrive through love of learning and a willingness to grow and lead
-                    in meaningful service to self and others'. YCKians are each a 'Leader, Learner, Innovator'. The year
-                    2025 is our 60th anniversary, and our theme is 'Celebrating our Heritage – Yio Chu Kang Secondary
-                    School Our Home, Heart and Hope'.
-                </p>
-                <p>
-                    <strong>Gift 8: The Bag itself</strong> – Carrying with it 60 years of the school's culture of
-                    adaptability and resilience.
-                </p>
-            </div>
-        </section>
-        <hr>
-        <p class="dropcap-title">
-            On behalf of Yio Chu Kang Secondary School staff and students, it contains all our best wishes to you.
-        </p>
-        <p>Thank you for your presence and contributions.</p>
+        <h3>Professional Development</h3>
+        <p>Professional development sessions ensure that staff continue to strengthen their practice throughout their career.</p>
+        <p>The key learning programmes for 2019 are Assessment for Learning (AfL), Differentiated Instruction (DI) and ICT in Pedagogy using The Student Learning Space (SLS).</p>
+        <h4>Quotes from participants</h4>
+        <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Intellectual/I1.png">
+        <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Intellectual/I2.png">
+        <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Intellectual/I3.png">
+        <h3>Celebration of Learning Day</h3>
+        <p>The objectives of the annual Celebration of Learning Day are as follows:</p>
+        <ul>
+            <li>To celebrate and affirm the meaningful work done by PLTs since 2021 Term 3.</li>
+            <li>To provide a platform for PLTs to share and learn from each other.</li>
+            <li>To allow PLTs to gather feedback and suggestions to improve on the lesson design and refine their tech-enabled learning activities.</li>
+        </ul>
+        <p>The Celebration of Learning Day employed the Blended Learning approach with VP Mr Kevin Lim delivering his opening remarks via the Zoom Platform while the showcase of PLT lesson packages by 21 teams was conducted face-to-face in separate classrooms for safe distancing in 2021.</p>
+        <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Intellectual/I4.png">
+        <h3>First Aid Course</h3>
+        <p>Our teachers continue to improve their competencies even when the school term has ended. The Standard First-Aid Course + CPR + AED Course Online Theory lesson was held on 6 September 2021 and the Face to Face Practical session was held on 19 November 2021. The objective of the course is to ensure that all staff be trained in life saving skills.</p>
+        <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Intellectual/I5.png">
     </div>
 </div>
+
+
+<div class="yck-component">
+    <div class="button-container">
+        <a href="#top" class="button">Back to Top</a>
+    </div>
+</div>
+
+
 
 <style>
 /* ==========================================================================
@@ -194,9 +73,12 @@ image: /images/60th Anniversary/60thLogo.svg
     --font-classical-humanist: Optima, Candara, Noto Sans, source-sans-pro, sans-serif;
     --font-neo-grotesque: Inter, Roboto, Helvetica Neue, Arial Nova, Nimbus Sans, Arial, sans-serif;
     --font-monospace-slab-serif: Nimbus Mono PS, Courier New, monospace;
-    --font-monospace-code: Dank Mono, Operator Mono, Inconsolata, Fira Mono, ui-monospace, SF Mono, Monaco, Droid Sans Mono, Source Code Pro, Cascadia Code, Menlo, Consolas, DejaVu Sans Mono, monospace;
-    --font-industrial: Bahnschrift, DIN Alternate, Franklin Gothic Medium, Nimbus Sans Narrow, sans-serif-condensed, sans-serif;
-    --font-rounded-sans: ui-rounded, Hiragino Maru Gothic ProN, Quicksand, Comfortaa, Manjari, Arial Rounded MT, Arial Rounded MT Bold, Calibri, source-sans-pro, sans-serif;
+    --font-monospace-code: Dank Mono, Operator Mono, Inconsolata, Fira Mono, ui-monospace, SF Mono, Monaco,
+        Droid Sans Mono, Source Code Pro, Cascadia Code, Menlo, Consolas, DejaVu Sans Mono, monospace;
+    --font-industrial: Bahnschrift, DIN Alternate, Franklin Gothic Medium, Nimbus Sans Narrow, sans-serif-condensed,
+        sans-serif;
+    --font-rounded-sans: ui-rounded, Hiragino Maru Gothic ProN, Quicksand, Comfortaa, Manjari, Arial Rounded MT,
+        Arial Rounded MT Bold, Calibri, source-sans-pro, sans-serif;
     --font-slab-serif: Rockwell, Rockwell Nova, Roboto Slab, DejaVu Serif, Sitka Small, serif;
     --font-antique: Superclarendon, Bookman Old Style, URW Bookman, URW Bookman L, Georgia Pro, Georgia, serif;
     --font-didone: Didot, Bodoni MT, Noto Serif Display, URW Palladio L, P052, Sylfaen, serif;
@@ -213,7 +95,7 @@ body {
 
 ::selection {
     text-shadow: none;
-    background: yellow;
+    background: rgba(255, 255, 0, 0.35);
 }
 
 audio,
@@ -237,9 +119,9 @@ img {
 .yck-component {
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
+    padding: 0;
     font-size: var(--yck-step-0);
     margin-bottom: var(--yck-space-s-xl);
-    position: relative;
 }
 
 .yck-component h1,
@@ -400,7 +282,7 @@ abbr:hover {
 /* This is the core magic for the dropcap */
 .yck-component .dropcap-title::first-letter {
     float: left;
-    font-size: calc(var(--yck-step-5)*1.65);
+    font-size: calc(var(--yck-step-5) * 1.65);
     /* The size of the dropcap relative to the heading's font size */
     font-weight: bold;
     font-style: oblique;
@@ -439,7 +321,7 @@ abbr:hover {
     max-width: 1000px;
     margin: 0 auto;
     column-count: 2;
-    column-width: 360px;
+    column-width: 55px;
     column-gap: 1.5em;
 }
 
@@ -776,7 +658,8 @@ abbr:hover {
 .yck-component figure,
 .yck-component .figure {
     display: flex;
-    flex-flow: column;
+    justify-items: flex-start;
+    align-items: flex-start;
     max-width: 100%;
     margin: 0;
     padding: 0;
@@ -786,7 +669,6 @@ abbr:hover {
 .yck-component .figure img {
     border-radius: 8px;
     box-shadow: var(--yck-box-shadow);
-    margin-bottom: var(--yck-spacing-unit);
 }
 
 .yck-component figcaption {
@@ -836,7 +718,7 @@ abbr:hover {
 }
 
 .yck-component .yck-nav-bar a::after {
-    content: '';
+    content: "";
     position: absolute;
     width: 0;
     height: 2px;
@@ -845,9 +727,10 @@ abbr:hover {
     transform: translateX(-50%);
     background-color: #4299e1;
     /* Added background-color to the transition for the color fade effect */
-    transition: width 0.7s var(--yck-transition-timing), background-color 0.7s var(--yck-transition-timing);
+    transition:
+        width 0.7s var(--yck-transition-timing),
+        background-color 0.7s var(--yck-transition-timing);
 }
-
 
 .yck-component .yck-nav-bar a.active {
     color: #2b6cb0;
@@ -858,7 +741,6 @@ abbr:hover {
     background-color: #4299e1;
 }
 
-
 .yck-component .yck-nav-bar a:hover {
     color: #e37f2a;
 }
@@ -867,8 +749,6 @@ abbr:hover {
     background-color: #e37f2a;
     width: 60%;
 }
-
-
 
 /* --- Buttons --- */
 .yck-component .button-container {
@@ -979,7 +859,6 @@ abbr:hover {
     transition-duration: 0.3s;
 }
 
-
 /* --- Backdrop --- */
 .yck-component .backdrop {
     position: absolute;
@@ -989,10 +868,7 @@ abbr:hover {
     background: hsl(0deg 0% 100% / 0.1);
     pointer-events: none;
     backdrop-filter: blur(16px);
-    mask-image: linear-gradient(to bottom,
-        black 0,
-        black 50%,
-        transparent 50%);
+    mask-image: linear-gradient(to bottom, black 0, black 50%, transparent 50%);
 }
 
 .yck-component .backdrop-edge {
@@ -1004,10 +880,7 @@ abbr:hover {
     background: hsl(0deg 0% 100% / 0.1);
     backdrop-filter: blur(8px) brightness(120%);
     pointer-events: none;
-    mask-image: linear-gradient(to bottom,
-        black 0,
-        black var(--thickness),
-        transparent var(--thickness));
+    mask-image: linear-gradient(to bottom, black 0, black var(--thickness), transparent var(--thickness));
 }
 
 /* ==========================================================================
@@ -1149,8 +1022,10 @@ abbr:hover {
 
 @supports (animation-timeline: view()) {
 
-    .yck-component .col-container,
-    .yck-component .col3-container,
+    .yck-component figure,
+    .yck-component .carousel,
+    .yck-component .masonry-container .masonry-item,
+    .yck-component .yck-img-array,
     .yck-component .isomer-card-grid {
         animation: fade-in-bottom ease both;
         animation-timeline: view();
@@ -1178,7 +1053,6 @@ abbr:hover {
     animation: scroller 20s infinite alternate ease-in-out;
     /* Increased duration to 40s for smoother transition */
 }
-
 
 /* Keyframe animation for 7 images */
 @keyframes scroller {
@@ -1210,7 +1084,6 @@ abbr:hover {
         /* Show the 4th image */
         opacity: 1;
     }
-
 }
 
 .yck-component .carousel:hover .carousel-images {
@@ -1246,6 +1119,10 @@ abbr:hover {
     margin: 0 !important;
 }
 
+.yck-component details>ul {
+    list-style: none;
+}
+
 .yck-component summary {
     position: relative;
     padding: 1rem 3rem 1rem 1.5rem;
@@ -1264,7 +1141,7 @@ abbr:hover {
 }
 
 .yck-component summary::marker {
-    content: '';
+    content: "";
 }
 
 .yck-component summary::after {
@@ -1336,7 +1213,7 @@ abbr:hover {
 
 /* A simple vertical line connecting a section title to its content below */
 .person-container::before {
-    content: '';
+    content: "";
     position: absolute;
     top: -15px;
     /* Positioned just below the title */
@@ -1409,14 +1286,14 @@ abbr:hover {
 
 /* Title/role of the person */
 .person-title {
-    font-size: calc(var(--yck-step-0)*0.85);
+    font-size: calc(var(--yck-step-0) * 0.85);
     color: #555;
     margin-bottom: 8px;
     /* Add some space before the details tag */
 }
 
 .person details {
-    font-size: calc(var(--yck-step-0)*0.8);
+    font-size: calc(var(--yck-step-0) * 0.8);
     cursor: pointer;
 }
 

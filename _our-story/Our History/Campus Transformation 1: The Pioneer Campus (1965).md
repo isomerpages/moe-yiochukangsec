@@ -8,14 +8,11 @@ third_nav_title: Our History
 ---
 <div class="yck-component" id="campustrans1">
 	<div class="regular-flow">
-<p>The school's story began with a campus that was a testament to its humble, rural origins. Built for $444,000, it was officially opened by Singapore’s pioneer Minister for Education, Mr. Ong Pang Boon, in June 1966. While operations had begun the previous year, this ceremony marked its formal beginning, with five classes across two language streams and a graduating cohort of 37 students.</p>
+<p>The school's story began with a campus that was a testament to its humble, rural origins. Built for $444,000, it was officially <a target="_blank" class="text-link" href="https://www.nas.gov.sg/archivesonline/photographs/record-details/c6e996d1-1161-11e3-83d5-0050568939ad">opened by Singapore’s pioneer Minister for Education, Mr. Ong Pang Boon</a>, in June 1966. While operations had begun the previous year, this ceremony marked its formal beginning, with five classes across two language streams and a graduating cohort of 37 students.</p>
 
-<p>The physical school was modest: two single-storey, zinc-roofed buildings, a small canteen, and a lone basketball court. The school field often flooded, a constant reminder of the school's battle with the elements. Lacking a hall or a proper sports field, students demonstrated early resilience, walking to the nearby Pei Hwa Public School for assemblies and physical activities.</p>
-		
-<figure>
-			<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Story/History/Campus%20Transformation%201/CT2.png">
-</figure>
-		
+<p><a title="Click to view location of school on map circa 1970" target="_blank" class="text-link" href="https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fa18b9fe-115c-11e3-83d5-0050568939ad">The physical school was modest</a>: two single-storey, zinc-roofed buildings, a small canteen, and a lone basketball court. The school field often flooded, a constant reminder of the school's battle with the elements. Lacking a hall or a proper sports field, students demonstrated early resilience, walking to the nearby Pei Hwa Public School for assemblies and physical activities.</p>
+<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Story/History/Campus%20Transformation%201/CT2.png">
+
 <p>These limitations extended to its curriculum. Students aspiring to study Science in their upper secondary years had to transfer to better-equipped schools—a poignant symbol of the school's initial constraints. Yet, faced with these challenges, the school community became exceptionally creative in its use of space.</p>
 		<p>Inevitably, the spirit and ambition of the school began to outgrow the limitations of its modest facilities, setting the stage for its first great transformation.</p>
 </div>
@@ -1042,6 +1039,6 @@ small {
 }
 	
 body {
-	background: radial-gradient(ellipse at center, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.8) 7%, rgba(250, 250, 250, 0.85) 100%), url(https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/History/Campus%20Transformation%201/ct1new.PNG) no-repeat center right fixed;
+	background: linear-gradient(to-left, rgba(255, 255, 255, 0) 0%, rgba(250, 250, 250, 0.85) 100%), url(https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/History/Campus%20Transformation%201/ct1new.PNG) no-repeat center right fixed;
 	background-size: cover;
 </style>

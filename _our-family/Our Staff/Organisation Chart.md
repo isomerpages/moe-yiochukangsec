@@ -53,49 +53,49 @@ third_nav_title: Our Staff
             </div>
             <div class="person" id="mslockhweehongalicia">
                 <div class="person-name">Ms Lock Hwee Hong Alicia</div>
-                <div class="person-title">HOD/Science</div>
+                <div class="person-title">HOD Science</div>
                 <details name="key">
                     <summary>Email Address:</summary>lock_hwee_hong_alicia<wbr>@moe.edu.sg
                 </details>
             </div>
             <div class="person" id="mdmchenhuijun">
                 <div class="person-name">Mdm Chen Huijun</div>
-                <div class="person-title">HOD/Hum</div>
+                <div class="person-title">HOD <abbr title="Humanities">Hum</abbr></div>
                 <details name="key">
                     <summary>Email Address:</summary>chen_huijun<wbr>@moe.edu.sg
                 </details>
             </div>
             <div class="person" id="mschongfoongharn">
                 <div class="person-name">Ms Chong Foong Harn</div>
-                <div class="person-title">HOD/EL</div>
+                <div class="person-title">HOD EL</div>
                 <details name="key">
                     <summary>Email Address:</summary>chong_foong_harn<wbr>@moe.edu.sg
                 </details>
             </div>
             <div class="person" id="mrgohchyepengdavid">
                 <div class="person-name">Mr Goh Chye Peng David</div>
-                <div class="person-title">HOD/Student Mgmt</div>
+                <div class="person-title">HOD <abbr title="Student Management">SM</abbr></div>
                 <details name="key">
                     <summary>Email Address:</summary>goh_chye_peng_david<wbr>@moe.edu.sg
                 </details>
             </div>
             <div class="person" id="mrchinpinchuenbrandon">
                 <div class="person-name">Mr Chin Pin Chuen Brandon</div>
-                <div class="person-title">HOD/ICT</div>
+                <div class="person-title">HOD <abbr title="Information and Communications Technology">ICT</abbr></div>
                 <details>
                     <summary>Email Address:</summary>chin_pin_chuen_brandon<wbr>@moe.edu.sg
                 </details>
             </div>
             <div class="person" id="mdmgohshwujun">
                 <div class="person-name">Mdm Goh Shwu Jun</div>
-                <div class="person-title">HOD/Math</div>
+                <div class="person-title">HOD Math</div>
                 <details name="key">
                     <summary>Email Address:</summary>goh_shwu_jun<wbr>@moe.edu.sg
                 </details>
             </div>
             <div class="person" id="msgoyyapching">
                 <div class="person-name">Ms Goy Yap Ching</div>
-                <div class="person-title">HOD/MTL</div>
+                <div class="person-title">HOD <abbr title="Mother Tongue Languages">MTL</abbr></div>
                 <details name="key">
                     <summary>Email Address:</summary>goy_yap_ching<wbr>@moe.edu.sg
                 </details>
@@ -109,27 +109,27 @@ third_nav_title: Our Staff
             </div>
             <div class="person" id="mshoonsiewhui">
                 <div class="person-name">Ms Hoon Siew Hui</div>
-                <div class="person-title">HOD/Design &amp; Enterprise</div>
+                <div class="person-title">HOD Design &amp; Enterprise</div>
                 <details name="key">
                     <summary>Email Address:</summary>hoon_siew_hui<wbr>@moe.edu.sg
                 </details>
             </div>
             <div class="person" id="mschoolinglingkelly">
                 <div class="person-name">Ms Cho Ling Ling Kelly</div>
-                <div class="person-title">Year Head (LS)</div>
+                <div class="person-title">Year Head <abbr title="Lower Secondary">(LS)</abbr></div>
                 <details name="key">
                     <summary>Email Address:</summary>kelly_cho_ling_ling<wbr>@moe.edu.sg
                 </details>
             </div>
             <div class="person" id="mrmokboonfoong">
                 <div class="person-name">Mr Mok Boon Foong</div>
-                <div class="person-title">Year Head (US)</div>
+                <div class="person-title">Year Head <abbr title="Upper Secondary">(US)</abbr></div>
                 <details>
                     <summary>Email Address:</summary>mok_boon_foong<wbr>@moe.edu.sg
                 </details>
             </div>
             <div class="person" id="msperchingyee">
-                <div class="person-name">Ms Per Ching Yee</div>
+                <div class="person-name">Mdm Per Ching Yee</div>
                 <div class="person-title">Administration Manager</div>
                 <details name="key">
                     <summary>Email Address:</summary>per_ching_yee<wbr>@moe.edu.sg
@@ -137,7 +137,7 @@ third_nav_title: Our Staff
             </div>
             <div class="person" id="mssinpuaysan">
                 <div class="person-name">Ms Sin Puay San</div>
-                <div class="person-title"></div>
+                <div class="person-title">HOD <abbr title="Character and Citizenship Education">CCE</abbr></div>
                 <details name="key">
                     <summary>Email Address:</summary>sin_puay_san<wbr>@moe.edu.sg
                 </details>
@@ -158,49 +158,49 @@ third_nav_title: Our Staff
             </div>
             <div class="person" id="mslimbeiyimichelle">
                 <div class="person-name">Ms Lim Beiyi Michelle</div>
-                <div class="person-title">LH/Math &amp; Student Well-Being</div>
+                <div class="person-title">SH SL &amp; Student Well-Being</div>
                 <details name="key">
-                    <summary>Email Address:</summary>lim_beiyi_michelle<wbr>@moe.edu.sg
+                    <summary>Email Address:</summary>lim_bei-yi_michelle<wbr>@moe.edu.sg
                 </details>
             </div>
             <div class="person" id="msvidyapremapadmanabhan">
                 <div class="person-name">Ms Vidya Premapadmanabhan</div>
-                <div class="person-title">LH/EL</div>
+                <div class="person-title">LH EL</div>
                 <details name="key">
                     <summary>Email Address:</summary>vidya_premapadmanabhan<wbr>@moe.edu.sg
                 </details>
             </div>
             <div class="person" id="mrchenweiguojeremy">
                 <div class="person-name">Mr Chen Weiguo Jeremy</div>
-                <div class="person-title">LH/Science</div>
+                <div class="person-title">LH MATH</div>
                 <details name="key">
                     <summary>Email Address:</summary>chen_weiguo_jeremy<wbr>@moe.edu.sg
                 </details>
             </div>
             <div class="person" id="mrwongmingwei">
                 <div class="person-name">Mr Wong Mingwei</div>
-                <div class="person-title">SH/Student Leadership</div>
+                <div class="person-title">LH SCIENCE</div>
                 <details name="key">
                     <summary>Email Address:</summary>wong_mingwei<wbr>@moe.edu.sg
                 </details>
             </div>
             <div class="person" id="mdmnghuiyin">
                 <div class="person-name">Mdm Ng Hui Yin</div>
-                <div class="person-title">SH/Discipline</div>
+                <div class="person-title">SH SM</div>
                 <details name="key">
                     <summary>Email Address:</summary>ng_hui_yin<wbr>@moe.edu.sg
                 </details>
             </div>
             <div class="person" id="msnurulainbtekamaldin">
                 <div class="person-name">Ms Nurul Ain Bte Kamaldin</div>
-                <div class="person-title">SH/PE &amp; CCA</div>
+                <div class="person-title">SH PE &amp; CCA</div>
                 <details name="key">
                     <summary>Email Address:</summary>nurul_ain_kamaldin<wbr>@moe.edu.sg
                 </details>
             </div>
             <div class="person" id="mdmalvinaloganathan">
                 <div class="person-name">Mdm Alvina Loganathan</div>
-                <div class="person-title">SH-CCE</div>
+                <div class="person-title">SH CCE</div>
                 <details name="key">
                     <summary>Email Address:</summary>alvina_loganathan<wbr>@moe.edu.sg
                 </details>
@@ -208,7 +208,13 @@ third_nav_title: Our Staff
         </div>
         <div class="yck-component">
             <div class="button-container">
-                <a href="#top" class="button">Back to Top</a>
+                <a href="#top">
+                    <button class="buttontotop">
+                        <svg viewBox="0 0 384 512" class="svgIcon">
+                            <path d="M214.6 41.4c-12.5-12.5-32.8-12.5-45.3 0l-160 160c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L160 141.2V448c0 17.7 14.3 32 32 32s32-14.3 32-32V141.2L329.4 246.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3l-160-160z"></path>
+                        </svg>
+                    </button>
+                </a>
             </div>
         </div>
         <hr>
@@ -253,13 +259,6 @@ third_nav_title: Our Staff
                             <summary>Email Address:</summary>adele_louise_williams<wbr>@moe.edu.sg
                         </details>
                     </div>
-                    <div class="person" id="weesohyepatrick">
-                        <div class="person-name">Mr Wee Soh Ye Patrick</div>
-                        <div class="person-title">D&amp;T</div>
-                        <details>
-                            <summary>Email Address:</summary>wee_soh_ye_patrick<wbr>@moe.edu.sg
-                        </details>
-                    </div>
                     <div class="person" id="sutinahbtesujaair">
                         <div class="person-name">Mdm Sutinah Bte Sujaair</div>
                         <div class="person-title">NFS</div>
@@ -279,6 +278,13 @@ third_nav_title: Our Staff
                         <div class="person-title">D&amp;T</div>
                         <details>
                             <summary>Email Address:</summary>ong_tiong_guan_albert<wbr>@moe.edu.sg
+                        </details>
+                    </div>
+                    <div class="person" id="weesohyepatrick">
+                        <div class="person-name">Mr Wee Soh Ye Patrick</div>
+                        <div class="person-title">D&amp;T</div>
+                        <details>
+                            <summary>Email Address:</summary>wee_soh_ye_patrick<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="limcheewee">
@@ -302,14 +308,14 @@ third_nav_title: Our Staff
                 <div class="people-grid">
                     <div class="person" id="ngwanhweedoreen">
                         <div class="person-name">Mdm Ng Wan Hwee Doreen</div>
-                        <div class="person-title">ST/Hist</div>
+                        <div class="person-title">ST Hist</div>
                         <details>
                             <summary>Email Address:</summary>ng_wan_hwee_doreen<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="nirmaladevis">
                         <div class="person-name">Mdm Nirmala Devi S Tasiveran</div>
-                        <div class="person-title">ST/SS</div>
+                        <div class="person-title">ST SS</div>
                         <details>
                             <summary>Email Address:</summary>nirmala_devi_s_tasiveran<wbr>@moe.edu.sg
                         </details>
@@ -337,7 +343,7 @@ third_nav_title: Our Staff
                     </div>
                     <div class="person" id="chuasockhuang">
                         <div class="person-name">Mdm Chua Sock Huang</div>
-                        <div class="person-title">SS Teacher</div>
+                        <div class="person-title">SS</div>
                         <details>
                             <summary>Email Address:</summary>chua_sock_huang<wbr>@moe.edu.sg
                         </details>
@@ -356,28 +362,28 @@ third_nav_title: Our Staff
                 <div class="people-grid">
                     <div class="person" id="gauwriskumar">
                         <div class="person-name">Ms Gauwri S Kumar</div>
-                        <div class="person-title"></div>
+                        <div class="person-title">Teacher</div>
                         <details>
                             <summary>Email Address:</summary>gauwri_s_kumar<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="foosiankoksimon">
                         <div class="person-name">Mr Foo Sian Kok Simon</div>
-                        <div class="person-title"></div>
+                        <div class="person-title">Teacher</div>
                         <details>
                             <summary>Email Address:</summary>foo_sian_kok_simon<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="leechingfong">
                         <div class="person-name">Mdm Lee Ching Fong</div>
-                        <div class="person-title"></div>
+                        <div class="person-title">Teacher</div>
                         <details>
                             <summary>Email Address:</summary>lee_ching_fong<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="tanthiamboon">
                         <div class="person-name">Mr Tan Thiam Boon</div>
-                        <div class="person-title"></div>
+                        <div class="person-title">Teacher</div>
                         <details>
                             <summary>Email Address:</summary>tan_thiam_boon<wbr>@moe.edu.sg
                         </details>
@@ -398,7 +404,7 @@ third_nav_title: Our Staff
                     </div>
                     <div class="person" id="anniematthews">
                         <div class="person-name">Mdm Annie Matthews</div>
-                        <div class="person-title">Teacher</div>
+                        <div class="person-title">Math</div>
                         <details>
                             <summary>Email Address:</summary>annie_matthews<wbr>@moe.edu.sg
                         </details>
@@ -438,14 +444,14 @@ third_nav_title: Our Staff
                 <div class="people-grid">
                     <div class="person" id="sitiaishabteahmatyusop">
                         <div class="person-name">Mdm Siti Aisha Bte Ahmat Yusop</div>
-                        <div class="person-title">ST/ML</div>
+                        <div class="person-title">ST ML</div>
                         <details>
                             <summary>Email Address:</summary>siti_aisha_ahmat_yusop<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="yeyuluan">
                         <div class="person-name">Mdm Ye Yuluan</div>
-                        <div class="person-title">ST/CL</div>
+                        <div class="person-title">ST CL</div>
                         <details>
                             <summary>Email Address:</summary>ye_yuluan<wbr>@moe.edu.sg
                         </details>
@@ -466,7 +472,7 @@ third_nav_title: Our Staff
                     </div>
                     <div class="person" id="tanchunbuei">
                         <div class="person-name">Ms Tan Chun Buei</div>
-                        <div class="person-title"></div>
+                        <div class="person-title">CL</div>
                         <details>
                             <summary>Email Address:</summary>tan_chun_buei<wbr>@moe.edu.sg
                         </details>
@@ -480,7 +486,7 @@ third_nav_title: Our Staff
                     </div>
                     <div class="person" id="limhuiqi">
                         <div class="person-name">Mdm Lim Hui Qi</div>
-                        <div class="person-title">CL Teacher</div>
+                        <div class="person-title">CL</div>
                         <details>
                             <summary>Email Address:</summary>lim_hui_qi<wbr>@moe.edu.sg
                         </details>
@@ -501,7 +507,7 @@ third_nav_title: Our Staff
                     </div>
                     <div class="person" id="muhammadfarhanbinzailani">
                         <div class="person-name">Mr Muhammad Farhan Bin Zailani</div>
-                        <div class="person-title">ML Teacher</div>
+                        <div class="person-title">ML</div>
                         <details>
                             <summary>Email Address:</summary>muhammad_farhan_zailani@moe.edu.sg
                         </details>
@@ -534,14 +540,14 @@ third_nav_title: Our Staff
                 <div class="people-grid">
                     <div class="person" id="weedaiqi">
                         <div class="person-name">Mr Wee Daiqi</div>
-                        <div class="person-title"></div>
+                        <div class="person-title">Teacher</div>
                         <details>
                             <summary>Email Address:</summary>wee_daiqi<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="leongngannyunanna">
                         <div class="person-name">Ms Leong Ngan Nyun Anna</div>
-                        <div class="person-title"></div>
+                        <div class="person-title">Teacher</div>
                         <details>
                             <summary>Email Address:</summary>leong_ngan_nyun_anna<wbr>@moe.edu.sg
                         </details>
@@ -560,63 +566,63 @@ third_nav_title: Our Staff
                 <div class="people-grid">
                     <div class="person" id="limmengchooemily">
                         <div class="person-name">Mdm Lim Meng Choo Emily</div>
-                        <div class="person-title">ST/Chem</div>
+                        <div class="person-title">ST Chem</div>
                         <details>
                             <summary>Email Address:</summary>lim_meng_choo_emily<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="sarasvathyd">
                         <div class="person-name">Mdm Sarasvathy D/O Sivalingam S</div>
-                        <div class="person-title"></div>
+                        <div class="person-title">Teacher</div>
                         <details>
                             <summary>Email Address:</summary>sarasvathy_sivalingam<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="teohweehong">
                         <div class="person-name">Ms Teo Hwee Hong</div>
-                        <div class="person-title"></div>
+                        <div class="person-title">Teacher</div>
                         <details>
                             <summary>Email Address:</summary>teo_hwee_hong<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="mvijeyaakumaran">
                         <div class="person-name">Mr M Vijeyaa Kumaran</div>
-                        <div class="person-title"></div>
+                        <div class="person-title">Teacher</div>
                         <details>
                             <summary>Email Address:</summary>m_vijeyaa_kumaran<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="foogermaine">
                         <div class="person-name">Ms Foo Ger Maine</div>
-                        <div class="person-title"></div>
+                        <div class="person-title">Teacher</div>
                         <details>
                             <summary>Email Address:</summary>foo_ger_maine<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="ongxiaoyun">
                         <div class="person-name">Ms Ong Xiao Yun</div>
-                        <div class="person-title"></div>
+                        <div class="person-title">Teacher</div>
                         <details>
                             <summary>Email Address:</summary>ong_xiao_yun<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="gohkokhoeoctave">
                         <div class="person-name">Mr Goh Kok Hoe Octave</div>
-                        <div class="person-title">Science</div>
+                        <div class="person-title">Teacher</div>
                         <details>
                             <summary>Email Address:</summary>goh_kok_hoe_octave<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="yeosailinconnie">
                         <div class="person-name">Mdm Yeo Sai Lin Connie</div>
-                        <div class="person-title"></div>
+                        <div class="person-title">Teacher</div>
                         <details>
                             <summary>Email Address:</summary>yeo_sai_lin_connie<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="teohweepeng">
                         <div class="person-name">Mdm Teo Hwee Peng</div>
-                        <div class="person-title">Science</div>
+                        <div class="person-title">Teacher</div>
                         <details>
                             <summary>Email Address:</summary>teo_hwee_peng<wbr>@moe.edu.sg
                         </details>
@@ -630,7 +636,7 @@ third_nav_title: Our Staff
                     </div>
                     <div class="person" id="simkokheng">
                         <div class="person-name">Mr Sim Kok Heng</div>
-                        <div class="person-title">FAJT - Science</div>
+                        <div class="person-title">FAJT-Science</div>
                         <details>
                             <summary>Email Address:</summary>sim_kok_heng_a<wbr>@moe.edu.sg
                         </details>
@@ -642,42 +648,42 @@ third_nav_title: Our Staff
                 <div class="people-grid">
                     <div class="person" id="chongnyukfoong">
                         <div class="person-name">Mdm Chong Nyuk Foong</div>
-                        <div class="person-title">ST/EL</div>
+                        <div class="person-title">ST EL</div>
                         <details>
                             <summary>Email Address:</summary>chong_nyuk_foong<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="chyeyenyenaudrey">
                         <div class="person-name">Ms Chye Yen Yen Audrey</div>
-                        <div class="person-title"></div>
+                        <div class="person-title">Teacher</div>
                         <details>
                             <summary>Email Address:</summary>chye_yen_yen_audrey<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="lohshihui">
                         <div class="person-name">Ms Loh Shihui</div>
-                        <div class="person-title"></div>
+                        <div class="person-title">Teacher</div>
                         <details>
                             <summary>Email Address:</summary>loh_shihui<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="eepohlam">
                         <div class="person-name">Mr Ee Poh Lam</div>
-                        <div class="person-title"></div>
+                        <div class="person-title">Teacher</div>
                         <details>
                             <summary>Email Address:</summary>ee_poh_lam<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="vijayadorajaratanam">
-                        <div class="person-name">Mdm Vijaya D/O Rajaratanam</div>
-                        <div class="person-title"></div>
+                        <div class="person-name">Mdm Vijaya D/O Rajaratenam </div>
+                        <div class="person-title">Teacher</div>
                         <details>
-                            <summary>Email Address:</summary>vijaya_rajaratanam<wbr>@moe.edu.sg
+                            <summary>Email Address:</summary>vijaya_rajaratenam<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="chonglaikhar">
                         <div class="person-name">Mdm Chong Lai Khar</div>
-                        <div class="person-title"></div>
+                        <div class="person-title">Teacher</div>
                         <details>
                             <summary>Email Address:</summary>chong_lai_khar<wbr>@moe.edu.sg
                         </details>
@@ -722,7 +728,13 @@ third_nav_title: Our Staff
         </div>
         <div class="yck-component">
             <div class="button-container">
-                <a href="#top" class="button">Back to Top</a>
+                <a href="#top">
+                    <button class="buttontotop">
+                        <svg viewBox="0 0 384 512" class="svgIcon">
+                            <path d="M214.6 41.4c-12.5-12.5-32.8-12.5-45.3 0l-160 160c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L160 141.2V448c0 17.7 14.3 32 32 32s32-14.3 32-32V141.2L329.4 246.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3l-160-160z"></path>
+                        </svg>
+                    </button>
+                </a>
             </div>
         </div>
         <div class="section-title" id="Non-teaching-Staff">Non-Teaching Staff</div>
@@ -945,7 +957,13 @@ third_nav_title: Our Staff
     </div>
     <div class="yck-component">
         <div class="button-container">
-            <a href="#top" class="button">Back to Top</a>
+            <a href="#top">
+                <button class="buttontotop">
+                    <svg viewBox="0 0 384 512" class="svgIcon">
+                        <path d="M214.6 41.4c-12.5-12.5-32.8-12.5-45.3 0l-160 160c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L160 141.2V448c0 17.7 14.3 32 32 32s32-14.3 32-32V141.2L329.4 246.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3l-160-160z"></path>
+                    </svg>
+                </button>
+            </a>
         </div>
     </div>
 </div>
@@ -976,6 +994,23 @@ third_nav_title: Our Staff
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
     --yck-space-s-xl: clamp(1em, 0.2143em + 3.9286vw, 3.5em);
+
+    --font-system-ui: system-ui, sans-serif;
+    --font-transitional: Charter, Bitstream Charter, Sitka Text, Cambria, serif;
+    --font-old-style: Iowan Old Style, Palatino Linotype, URW Palladio L, P052, serif;
+    --font-humanist: Seravek, Gill Sans Nova, Ubuntu, Calibri, DejaVu Sans, source-sans-pro, sans-serif;
+    --font-geometric-humanist: Avenir, Montserrat, Corbel, URW Gothic, source-sans-pro, sans-serif;
+    --font-classical-humanist: Optima, Candara, Noto Sans, source-sans-pro, sans-serif;
+    --font-neo-grotesque: Inter, Roboto, Helvetica Neue, Arial Nova, Nimbus Sans, Arial, sans-serif;
+    --font-monospace-slab-serif: Nimbus Mono PS, Courier New, monospace;
+    --font-monospace-code: Dank Mono, Operator Mono, Inconsolata, Fira Mono, ui-monospace, SF Mono, Monaco, Droid Sans Mono, Source Code Pro, Cascadia Code, Menlo, Consolas, DejaVu Sans Mono, monospace;
+    --font-industrial: Bahnschrift, DIN Alternate, Franklin Gothic Medium, Nimbus Sans Narrow, sans-serif-condensed, sans-serif;
+    --font-rounded-sans: ui-rounded, Hiragino Maru Gothic ProN, Quicksand, Comfortaa, Manjari, Arial Rounded MT, Arial Rounded MT Bold, Calibri, source-sans-pro, sans-serif;
+    --font-slab-serif: Rockwell, Rockwell Nova, Roboto Slab, DejaVu Serif, Sitka Small, serif;
+    --font-antique: Superclarendon, Bookman Old Style, URW Bookman, URW Bookman L, Georgia Pro, Georgia, serif;
+    --font-didone: Didot, Bodoni MT, Noto Serif Display, URW Palladio L, P052, Sylfaen, serif;
+    --font-handwritten: Segoe Print, Bradley Hand, Chilanka, TSCu_Comic, casual, cursive;
+
     interpolate-size: allow-keywords;
     scroll-behavior: smooth;
     text-rendering: optimizeSpeed;
@@ -1178,7 +1213,7 @@ abbr:hover {
     /* The size of the dropcap relative to the heading's font size */
     font-weight: bold;
     font-style: oblique;
-    font-family: cursive;
+    font-family: var(--font-antique);
     line-height: 0.9;
     /* Pulls the rest of the text up vertically */
     padding-right: 0.18em;
@@ -1213,7 +1248,7 @@ abbr:hover {
     max-width: 1000px;
     margin: 0 auto;
     column-count: 2;
-    column-width: 360px;
+    column-width: 55px;
     column-gap: 1.5em;
 }
 
@@ -1572,82 +1607,6 @@ abbr:hover {
     text-align: center;
 }
 
-
-/* --- Details Summary --- */
-.yck-component details {
-    overflow: hidden;
-    border-radius: 10px;
-    background-color: #fff;
-    transition: box-shadow 0.3s ease-in-out;
-}
-
-.yck-component details[open] {
-    /* Shadow applied to the whole container when open */
-    box-shadow: var(--yck-inset-shadow2);
-}
-
-.yck-component details * {
-    margin: 0 !important;
-    /* Overriding potential external margins */
-}
-
-.yck-component summary {
-    position: relative;
-    /* Establishes positioning context for the icon */
-    padding: 1rem 3rem 1rem 1.5rem;
-    /* Right padding makes space for the icon */
-    list-style-position: outside;
-    cursor: pointer;
-    user-select: none;
-    outline: none;
-    font-size: var(--yck-step-1);
-    font-weight: 500;
-    transition: background-color 0.2s ease-in-out;
-}
-
-.yck-component summary:hover {
-    background-color: rgba(0, 0, 0, 0.02);
-}
-
-.yck-component summary::marker {
-    content: '';
-}
-
-.yck-component summary::after {
-    content: "+";
-    position: absolute;
-    font-size: var(--yck-step-2);
-    line-height: 1;
-    right: 1rem;
-    /* Positions the icon in the padded area */
-    top: 50%;
-    transform: translateY(-50%) rotate(0deg);
-    transition: transform 0.4s cubic-bezier(0.25, 1, 0.5, 1);
-}
-
-.yck-component details[open]>summary::after {
-    transform: translateY(-50%) rotate(135deg);
-}
-
-.yck-component details>*:not(summary) {
-    padding: 1rem 1.5rem 1.5rem 1.5rem;
-    font-size: var(--yck-step-0);
-    animation: fade-in 0.5s ease 0.1s;
-    animation-fill-mode: both;
-}
-
-@keyframes fade-in {
-    from {
-        opacity: 0;
-        transform: translateY(-10px);
-    }
-
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
-}
-
 /* --- Integrated Navigation Bar Styles --- */
 .yck-component .yck-nav-bar>* {
     margin: 0 auto;
@@ -1770,6 +1729,65 @@ abbr:hover {
     overflow: hidden;
     text-overflow: ellipsis;
 }
+
+/* From Uiverse.io by vinodjangid07 */ 
+.yck-component .buttontotop {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #e37f2a;
+  border: none;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0px 0px 0px 4px rgba(250, 190, 60, 0.5);
+  cursor: pointer;
+  transition-duration: 0.3s;
+  overflow: hidden;
+  position: relative;
+}
+
+.yck-component .svgIcon {
+  width: 12px;
+  transition-duration: 0.3s;
+}
+
+.yck-component  .svgIcon path {
+  fill: white;
+}
+
+.yck-component .buttontotop:hover {
+  width: 140px;
+  border-radius: 50px;
+  transition-duration: 0.3s;
+  background-color: #fabe64;
+  align-items: center;
+}
+
+.yck-component .buttontotop:hover .svgIcon {
+  /* width: 20px; */
+  transition-duration: 0.3s;
+  transform: translateY(-200%);
+}
+
+.yck-component .buttontotop::before {
+  position: absolute;
+  bottom: -20px;
+  content: "Back to Top";
+  color: white;
+  /* transition-duration: .3s; */
+  font-size: 0px;
+}
+
+.yck-component .buttontotop:hover::before {
+  font-size: var(--yck-step-0);
+  opacity: 1;
+  bottom: unset;
+  /* transform: translateY(-30px); */
+  transition-duration: 0.3s;
+}
+
 
 /* --- Backdrop --- */
 .yck-component .backdrop {
@@ -1912,15 +1930,6 @@ abbr:hover {
     }
 }
 
-@media (prefers-reduced-motion: reduce) {
-    * {
-        animation-duration: 0.01ms !important;
-        animation-iteration-count: 1 !important;
-        transition-duration: 0.01ms !important;
-        scroll-behavior: auto !important;
-    }
-}
-
 /* Default for mobile (1 column) */
 .masonry-container {
     column-count: 1;
@@ -1957,7 +1966,149 @@ abbr:hover {
         animation-range: entry 25% cover 50%;
     }
 }
-	
+
+/* Basic carousel styling */
+.yck-component .carousel {
+    width: 100%;
+    height: 55vh;
+    /* 50% of the viewport height */
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    scroll-snap-type: x mandatory;
+}
+
+.yck-component .carousel-images {
+    display: flex;
+    width: 300%;
+    /* Changed from 400% to accommodate the extra image */
+    animation: scroller 20s infinite alternate ease-in-out;
+    /* Increased duration to 40s for smoother transition */
+}
+
+
+/* Keyframe animation for 7 images */
+@keyframes scroller {
+
+    0%,
+    25% {
+        transform: translate3d(0, 0, 0);
+        /* Show the 1st image */
+        opacity: 1;
+    }
+
+    25%,
+    50% {
+        transform: translate3d(-100%, 0, 0);
+        /* Show the 2nd image */
+        opacity: 1;
+    }
+
+    50%,
+    75% {
+        transform: translate3d(-200%, 0, 0);
+        /* Show the 3rd image */
+        opacity: 1;
+    }
+
+    75%,
+    100% {
+        transform: translate3d(-300%, 0, 0);
+        /* Show the 4th image */
+        opacity: 1;
+    }
+
+}
+
+.yck-component .carousel:hover .carousel-images {
+    animation-play-state: paused;
+}
+
+.yck-component .carousel-images img {
+    scroll-snap-align: center;
+    /*padding-left: 20px;
+    padding-right: 20px;*/
+    max-width: 100%;
+    /* This ensures each image takes up the full width of the carousel */
+    height: 100%;
+    object-fit: cover;
+    flex-shrink: 0;
+    /* Prevents the images from shrinking */
+}
+
+/* --- Details Summary --- */
+.yck-component details {
+    overflow: hidden;
+    border-radius: 10px;
+    background-color: #fff;
+    transition: box-shadow 0.5s ease-out;
+}
+
+.yck-component details[open] {
+    /* Shadow applied to the whole container when open */
+    box-shadow: var(--yck-inset-shadow2);
+}
+
+.yck-component details * {
+    margin: 0 !important;
+}
+
+.yck-component summary {
+    position: relative;
+    padding: 1rem 3rem 1rem 1.5rem;
+    list-style-position: outside;
+    cursor: pointer;
+    user-select: none;
+    outline: none;
+    font-size: var(--yck-step-1);
+    font-weight: 500;
+    transition: background-color 0.5s ease-in;
+}
+
+.yck-component summary:hover {
+    background-color: rgba(0, 0, 0, 0.03);
+    box-shadow: var(--yck-box-shadow1);
+}
+
+.yck-component summary::marker {
+    content: '';
+}
+
+.yck-component summary::after {
+    content: "+";
+    position: absolute;
+    font-size: var(--yck-step-2);
+    line-height: 1;
+    right: 1rem;
+    top: 50%;
+    transform: translateY(-50%) rotate(0deg);
+    transition: transform 0.65s cubic-bezier(0.25, 1, 0.5, 1);
+}
+
+.yck-component details[open]>summary::after {
+    transform: translateY(-50%) rotate(135deg);
+}
+
+.yck-component details>*:not(summary) {
+    padding: 1rem 1.5rem 1.5rem 1.5rem;
+    animation: fade-in 0.5s ease 0.5s;
+    animation-fill-mode: both;
+}
+
+@keyframes fade-in {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
 /* Main container for the entire organizational chart */
 .org-chart {
     display: flex;

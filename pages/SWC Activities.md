@@ -1,168 +1,72 @@
 ---
-title: Gift Appreciation
-permalink: /gift-appreciation/
+title: SWC Activities
+permalink: /our-family/our-staff/staff-wellbeing-committee-activities/
 variant: markdown
 description: ""
-image: /images/60th Anniversary/60thLogo.svg
+image: /images/YCKLogo.svg
 ---
-<div class="yck-component">
+<div class="yck-component" id="top">
     <div class="regular-flow">
-        <h1>YCKSS 60th Anniversary Dinner - Gift Appreciation</h1>
-        <p>
-            Thank you for gracing the occasion of YCKSS 60th Anniversary Dinner. We have put together some gifts as
-            tokens of our appreciation.
-        </p>
-        <hr>
-        <section>
-            <h2>Growing Roots, Gaining Independence</h2>
-            <div class="col3-container">
-                <p>
-                    Our school was established by the First Prime Minister of Singapore Mr Lee Kuan Yew in 1965, the
-                    same year Singapore gained independence. Mr Lee was visiting Yio Chu Kang, then a rural farming
-                    community, when he acceded to the request by farmers to build a school for their children. Mr Ong
-                    Pang Boon, then Minister for Education, officially opened the school after it was built at 11
-                    milestone Yio Chu Kang Road.
-                </p>
-                <p>
-                    <strong>Gift 1: Vegetable Seeds</strong> from our school's Mendel's Garden – Every seed holds hope
-                    and promise for a better tomorrow, as YCKSS anchors itself through its roots at the same time when
-                    Singapore gains independence.
-                </p>
+        <header>
+            <h1>ACTIVITIES FROM THE STAFF WELL-BEING COMMITTEE (SWC)</h1>
+            <p>The Staff Well-being Committee <i>(SWC)</i> adopts the <strong>PIES</strong> approach, looking into the <strong>P</strong>hysical, <strong>I</strong>ntellectual, <strong>E</strong>motional and <strong>S</strong>ocial well-being of the staff. The school aims to develop an engaged staff who care for self and others.</p>
+        </header>
+<a href="/our-family/our-staff/staff-wellbeing-committee-activities/physical"><div class="category-card physical">
+            <div class="category-content">
+                <h2 class="category-title">Physical</h2>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21" class="arrow">
+                    <g transform="translate(3 2)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill-rule="evenodd" fill="none">
+                        <circle r="8" cy="8.5" cx="8.5"></circle>
+                        <path d="m9.5 11.5 3-3-3-3"></path>
+                        <path transform="matrix(0 1 -1 0 17 0)" d="m8.5 4.5v8"></path>
+                    </g>
+                </svg>
             </div>
-        </section>
-        <hr>
-        <section>
-            <h2>Standing Up for Singapore, Contributing to Workforce</h2>
-            <div class="col-container">
-                <p>
-                    Our school witnessed changes in tandem with Singapore's history. It was a time of rapid
-                    industrialisation. At YCKSS, the equal educational opportunities afforded to all students,
-                    regardless of background, was the cornerstone for driving social mobility and meritocracy. Our
-                    school emphasised on the development of students' technical skills for them to contribute to the
-                    workforce.
-                </p>
-                <p>
-                    <strong>Gift 2: Acrylic Keepsake</strong> reflecting both SG60 and YCK60 – YCKSS's journey together
-                    with our nation Singapore, as we pay tribute to the Pioneer and Merdeka Generations who built our
-                    Nation, our School, our Home.
-                </p>
+	</div></a>
+       <a href="/our-family/our-staff/staff-wellbeing-committee-activities/intellectual"> <div class="category-card intellectual">
+            <div class="category-content">
+                <h2 class="category-title">Intellectual</h2>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21" class="arrow">
+                    <g transform="translate(3 2)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill-rule="evenodd" fill="none">
+                        <circle r="8" cy="8.5" cx="8.5"></circle>
+                        <path d="m9.5 11.5 3-3-3-3"></path>
+                        <path transform="matrix(0 1 -1 0 17 0)" d="m8.5 4.5v8"></path>
+                    </g>
+                </svg>
             </div>
-        </section>
-        <hr>
-        <section>
-            <h2>Building Infrastructure, Fulfilling Potential</h2>
-            <div class="col3-container">
-                <p>
-                    In 1982, our school was re-sited to its current premises at 3063 Ang Mo Kio Avenue 5 in new Ang Mo
-                    Kio Town. Our school, tapping on a Knowledge-based Economy, and aligned with the MOE vision of
-                    'Thinking Schools, Learning Nation', was focused on customizing curricula to students of varying
-                    abilities to develop their full potential.
-                </p>
-                <p>
-                    <strong>Gift 3: Token Keychain</strong> – Every YCKian is worthy, and has potential to be discovered
-                    and unlocked, to contribute to family, society, and country.
-                </p>
+				 </div></a>
+       <a href="/our-family/our-staff/staff-wellbeing-committee-activities/emotional"><div class="category-card emotional">
+            <div class="category-content">
+                <h2 class="category-title">Emotional</h2>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21" class="arrow">
+                    <g transform="translate(3 2)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill-rule="evenodd" fill="none">
+                        <circle r="8" cy="8.5" cx="8.5"></circle>
+                        <path d="m9.5 11.5 3-3-3-3"></path>
+                        <path transform="matrix(0 1 -1 0 17 0)" d="m8.5 4.5v8"></path>
+                    </g>
+							</svg>
+					</div>
+        </div>
+			</a>
+        <a href="/our-family/our-staff/staff-wellbeing-committee-activities/social/"><div class="category-card social">
+            <div class="category-content">
+                <h2 class="category-title">Social</h2>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21" class="arrow">
+                    <g transform="translate(3 2)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill-rule="evenodd" fill="none">
+                        <circle r="8" cy="8.5" cx="8.5"></circle>
+                        <path d="m9.5 11.5 3-3-3-3"></path>
+                        <path transform="matrix(0 1 -1 0 17 0)" d="m8.5 4.5v8"></path>
+                    </g>
+                </svg>
             </div>
-        </section>
-        <hr>
-        <section>
-            <h2>Sustaining Life, Nurturing Growth</h2>
-            <div class="col-container">
-                <p>
-                    Our school developed identity and sense of belonging in students through National Education;
-                    Critical and Creative Thinking, Collaborative Learning, and ICT literacy through 21st Century
-                    Competencies. Social Emotional Competencies were also nurtured. In 2002, our school's physical
-                    facilities were improved and upgraded under PRIME.
-                </p>
-                <p>
-                    <strong>Gift 4: Water in Tetra-Pak (饮水思源)</strong> – Like water sustains life, YCKSS has
-                    nurtured generations with knowledge, skills and competencies. YCKians have achieved in different
-                    sectors of business, industry and professions. When reflecting on our life experiences, we remember
-                    those who have taught us to be confident and resilient.
-                </p>
-            </div>
-        </section>
-        <hr>
-        <section>
-            <h2>Pursuing Excellence, Serving Others</h2>
-            <div class="col3-container">
-                <p>
-                    Our school pursues excellence in all we do, through continuous improvement of our curricula and
-                    co-curricular activities. YCKSS recognises our responsibilities towards the community and the
-                    environment. Our students serve people through Values-in-Action programmes aligned to our motto
-                    'Pursuit of Knowledge, Service to All'. They are active in promoting sustainability against climate
-                    change.
-                </p>
-                <p>
-                    <strong>Gift 5: Recyclable Tote Bag</strong> – YCKians embrace continuous learning opportunities as
-                    we carry essential items in this eco-friendly bag on a journey to realize hopes and aspirations.
-                </p>
-            </div>
-        </section>
-        <hr>
-        <section>
-            <h2>Enriching Learning, Spreading Joy</h2>
-            <div class="col-container">
-                <p>
-                    YCKSS develops its niche areas into the Applied Learning (STEM - Science, Technology, Engineering &amp;
-                    Mathematics) and Learning for Life (Arts, Media and Design) Programmes. Our school's ALP develops
-                    inquiring minds and inventive thinking by devising integrated solutions for real-life problems
-                    through technology. Our LLP exposes students to different art forms and allows them to express their
-                    ideas in different ways. Both give students enriching experiences, fostering creativity and joy of
-                    learning.
-                </p>
-                <p>
-                    <strong>Gift 6: Sticker Pack</strong> – Every sticker represents a cherished memory of learning; a
-                    piece of YCKSS that stays with you always.
-                </p>
-            </div>
-        </section>
-        <hr>
-        <section>
-            <h2>Weaving with Care, Connecting for Life</h2>
-            <div class="col3-container">
-                <p>
-                    In 2018, Yio Chu Kang Secondary School merged with Chong Boon Secondary School, retaining its
-                    English name and taking up the latter school's Chinese name of '崇文'. Yio Chu Kang Secondary School
-                    continues with the Gen Ed-SPED Partnership with Pathlight School (PLS) as its satellite campus,
-                    hosting students on the Autism Spectrum, providing opportunities for integration and inclusivity.
-                </p>
-                <p>
-                    <strong>Gift 7: Macrame Wrist Strap</strong> – Weaved by our students who have put their names on
-                    the pieces, with passion and pride. Like the knots, past and present school leaders, advisory
-                    committee members, staff and alumni have bonds with YCKSS that connect us and last forever.
-                </p>
-            </div>
-        </section>
-        <hr>
-        <section>
-            <h2>Continuing the Culture, Leaving a Legacy</h2>
-            <div class="col-container">
-                <p>
-                    Our School Vision is 'A community of Learners, Leaders and Innovators', and our mission is 'To
-                    nurture students of character who thrive through love of learning and a willingness to grow and lead
-                    in meaningful service to self and others'. YCKians are each a 'Leader, Learner, Innovator'. The year
-                    2025 is our 60th anniversary, and our theme is 'Celebrating our Heritage – Yio Chu Kang Secondary
-                    School Our Home, Heart and Hope'.
-                </p>
-                <p>
-                    <strong>Gift 8: The Bag itself</strong> – Carrying with it 60 years of the school's culture of
-                    adaptability and resilience.
-                </p>
-            </div>
-        </section>
-        <hr>
-        <p class="dropcap-title">
-            On behalf of Yio Chu Kang Secondary School staff and students, it contains all our best wishes to you.
-        </p>
-        <p>Thank you for your presence and contributions.</p>
-    </div>
-</div>
+        </div>
+   </a>
+	</div>
 
 <style>
 /* ==========================================================================
-       1. Global Styles & Resets
-       ========================================================================== */
+   1. Global Styles & Resets
+   ========================================================================== */
 
 :root {
     --yck-text-line-height: 1.6em;
@@ -231,15 +135,14 @@ img {
 }
 
 /* ==========================================================================
-       2. Base Typography
-       ========================================================================== */
+   2. Base Typography
+   ========================================================================== */
 
 .yck-component {
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
     font-size: var(--yck-step-0);
     margin-bottom: var(--yck-space-s-xl);
-    position: relative;
 }
 
 .yck-component h1,
@@ -414,8 +317,8 @@ abbr:hover {
 }
 
 /* ==========================================================================
-       3. Layout Components
-       ========================================================================== */
+   3. Layout Components
+   ========================================================================== */
 
 .yck-component .regular-flow>*+* {
     margin-top: 1.125em;
@@ -439,7 +342,7 @@ abbr:hover {
     max-width: 1000px;
     margin: 0 auto;
     column-count: 2;
-    column-width: 360px;
+    column-width: 55px;
     column-gap: 1.5em;
 }
 
@@ -514,8 +417,8 @@ abbr:hover {
 }
 
 /* ==========================================================================
-       4. UI Components
-       ========================================================================== */
+   4. UI Components
+   ========================================================================== */
 
 /* --- Tables --- */
 .yck-component .yck-table {
@@ -921,62 +824,62 @@ abbr:hover {
     text-overflow: ellipsis;
 }
 
-/* From Uiverse.io by vinodjangid07 */
+/* From Uiverse.io by vinodjangid07 */ 
 .yck-component .buttontotop {
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
-    background-color: #e37f2a;
-    border: none;
-    font-weight: 600;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    box-shadow: 0px 0px 0px 4px rgba(250, 190, 60, 0.5);
-    cursor: pointer;
-    transition-duration: 0.3s;
-    overflow: hidden;
-    position: relative;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #e37f2a;
+  border: none;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0px 0px 0px 4px rgba(250, 190, 60, 0.5);
+  cursor: pointer;
+  transition-duration: 0.3s;
+  overflow: hidden;
+  position: relative;
 }
 
 .yck-component .svgIcon {
-    width: 12px;
-    transition-duration: 0.3s;
+  width: 12px;
+  transition-duration: 0.3s;
 }
 
-.yck-component .svgIcon path {
-    fill: white;
+.yck-component  .svgIcon path {
+  fill: white;
 }
 
 .yck-component .buttontotop:hover {
-    width: 140px;
-    border-radius: 50px;
-    transition-duration: 0.3s;
-    background-color: #fabe64;
-    align-items: center;
+  width: 140px;
+  border-radius: 50px;
+  transition-duration: 0.3s;
+  background-color: #fabe64;
+  align-items: center;
 }
 
 .yck-component .buttontotop:hover .svgIcon {
-    /* width: 20px; */
-    transition-duration: 0.3s;
-    transform: translateY(-200%);
+  /* width: 20px; */
+  transition-duration: 0.3s;
+  transform: translateY(-200%);
 }
 
 .yck-component .buttontotop::before {
-    position: absolute;
-    bottom: -20px;
-    content: "Back to Top";
-    color: white;
-    /* transition-duration: .3s; */
-    font-size: 0px;
+  position: absolute;
+  bottom: -20px;
+  content: "Back to Top";
+  color: white;
+  /* transition-duration: .3s; */
+  font-size: 0px;
 }
 
 .yck-component .buttontotop:hover::before {
-    font-size: var(--yck-step-0);
-    opacity: 1;
-    bottom: unset;
-    /* transform: translateY(-30px); */
-    transition-duration: 0.3s;
+  font-size: var(--yck-step-0);
+  opacity: 1;
+  bottom: unset;
+  /* transform: translateY(-30px); */
+  transition-duration: 0.3s;
 }
 
 
@@ -1011,8 +914,8 @@ abbr:hover {
 }
 
 /* ==========================================================================
-       5. Animations & Transitions
-       ========================================================================== */
+   5. Animations & Transitions
+   ========================================================================== */
 
 .ken-burns-container {
     max-width: 100%;
@@ -1095,8 +998,8 @@ abbr:hover {
 }
 
 /* ==========================================================================
-       6. Accessibility & Media Queries
-       ========================================================================== */
+   6. Accessibility & Media Queries
+   ========================================================================== */
 
 @media (max-width: 1000px) {
     .yck-component .yck-flexbox-grid>* {
@@ -1149,8 +1052,10 @@ abbr:hover {
 
 @supports (animation-timeline: view()) {
 
-    .yck-component .col-container,
-    .yck-component .col3-container,
+    .yck-component figure,
+    .yck-component .carousel,
+    .yck-component .masonry-container .masonry-item,
+    .yck-component .yck-img-array,
     .yck-component .isomer-card-grid {
         animation: fade-in-bottom ease both;
         animation-timeline: view();
@@ -1220,7 +1125,7 @@ abbr:hover {
 .yck-component .carousel-images img {
     scroll-snap-align: center;
     /*padding-left: 20px;
-        padding-right: 20px;*/
+    padding-right: 20px;*/
     max-width: 100%;
     /* This ensures each image takes up the full width of the carousel */
     height: 100%;
@@ -1244,6 +1149,10 @@ abbr:hover {
 
 .yck-component details * {
     margin: 0 !important;
+}
+
+.yck-component details > ul {
+    list-style:  none;
 }
 
 .yck-component summary {
@@ -1496,5 +1405,106 @@ abbr:hover {
         flex-basis: calc(100% - 10px);
         /* 1 card per row */
     }
+}	
+
+/* --- Category Card Styles --- */
+.yck-component .category-card {
+    position: relative;
+    height: 280px;
+    border-radius: 15px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: transform 0.5s var(--yck-transition-timing), box-shadow 0.5s var(--yck-transition-timing);
+
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    color: white !important;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: var(--yck-spacing-unit);
+    /* MODIFICATION: Removed flex properties to use absolute positioning for the content */
 }
-</style>
+
+.yck-component .category-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+}
+
+/* Dark gradient overlay */
+.yck-component .category-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(45deg, rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.05));
+    z-index: 1;
+}
+
+/* --- Background Images for each card --- */
+.yck-component .physical {
+    background-image: url('https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/OliveRun_3a.jpg');
+}
+
+.yck-component .intellectual {
+    background-image: url('https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Intellectual/i3c_sm.jpg');
+}
+
+.yck-component .emotional {
+    background-image: url('https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Emotional/e6_yellow_sm.jpg');
+}
+
+.yck-component .social {
+    background-image: url('https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2025_durians_kiwi01.jpg');
+}
+
+/* Content container */
+.yck-component .category-content {
+    /* MODIFICATION: Using absolute positioning to lock content to the bottom */
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    box-sizing: border-box;
+    /* Ensures padding is included in the element's width */
+
+    z-index: 200;
+    display: flex;
+    justify-content: space-between;
+
+    /* MODIFICATION: Align items to the bottom */
+    align-items: flex-end;
+
+    /* MODIFICATION: Reduced bottom padding to decrease space */
+    padding: 40px 40px 16px;
+}
+
+.yck-component .category-title {
+    font-size: 5.5vmin;
+    font-weight: bold;
+    color: white !important;
+    z-index: 200;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
+    padding: 0;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+/* --- Arrow Icon --- */
+.yck-component .arrow {
+    height: 4em;
+    width: 4em;
+    transition: transform 0.5s var(--yck-transition-timing);
+    flex-shrink: 0;
+	color: white;
+
+    /* MODIFICATION: Removed bottom margin and padding to allow for proper alignment */
+    margin-left: 40px;
+    filter: drop-shadow(2px 2px 3px rgba(0, 0, 0, 0.5));
+}
+
+.yck-component .category-card:hover .arrow {
+    transform: scale(1.4);
+}
+</style></div>
