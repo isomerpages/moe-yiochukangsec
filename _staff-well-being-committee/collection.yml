@@ -1,4 +1,5 @@
 collections:
   staff-well-being-committee:
     output: true
-    order: []
+    order:
+      - PHYSICAL.md
