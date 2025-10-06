@@ -11,21 +11,21 @@ image: /images/YCKLogo.svg
         <div class="yck-img-array">
             <div class="isomer-card">
                 <div class="isomer-card-image">
-                    <a href="https://icon.moe.edu.sg/" target="_blank">
+                    <a title="iCONs. Teach, Learn and Collaborate" href="https://icon.moe.edu.sg/" target="_blank">
                         <img alt="iCON" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Useful%20Links/U1.jpg">
                     </a>
                 </div>
             </div>
             <div class="isomer-card">
                 <div class="isomer-card-image">
-                    <a href="https://schoolcockpit.moe.gov.sg/CP/scapp/security" target="_blank">
+                    <a title="School Cockpit Plus. In Touch, In Time" href="https://schoolcockpit.moe.gov.sg/CP/scapp/security" target="_blank">
                         <img alt="School Cockpit" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Useful%20Links/U2.jpg">
                     </a>
                 </div>
             </div>
             <div class="isomer-card">
                 <div class="isomer-card-image">
-                    <a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fresponse_type%3Dcode%26client_id%3DOpal2WebApp%26state%3DAADJYyQQak4Qf-6X9v_0EtoM7gY_SvG_JGS2ZZVQ9O-sF%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fapp%252Findex.html%26scope%3Droles%2520profile%2520cxprofile%2520openid%2520cxDomainInternalApi%26code_challenge%3Dey-yV01YvZ5DB4SVXxhV8AYElkF5B9TOK_XL_LaCHIU%26code_challenge_method%3DS256%26nonce%3DAADJYyQQak4Qf-6X9v_0EtoM7gY_SvG_JGS2ZZVQ9O-sF" target="_blank">
+                    <a title="OPAL 2.0 - One Portal All Learners" href="https://idm.opal2.moe.edu.sg" target="_blank">
                         <img alt="OPAL 2.0" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Useful%20Links/U3.jpg">
                     </a>
                 </div>
