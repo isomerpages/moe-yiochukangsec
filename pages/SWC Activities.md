@@ -1420,7 +1420,7 @@ abbr:hover {
     color: white !important;
     background-size: cover;
     background-position: center;
-    margin-bottom: var(--yck-spacing-unit);
+    margin-bottom: calc(var(--yck-spacing-unit)*2);
     /* MODIFICATION: Removed flex properties to use absolute positioning for the content */
 }
 
