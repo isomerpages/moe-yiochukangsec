@@ -6,8 +6,11 @@ third_nav_title: Our Students
 variant: tiptap
 ---
 <p></p>
+<h4><strong>2025 EOY Checking of Scripts Timetable (Semester 2)</strong></h4>
+<p><a href="/files/Students/Class Timetable Schedules/2025/Checking_of_Scripts_Timetable_Ver_6___Classes.pdf" rel="noopener nofollow" target="_blank">2025 EOY Checking of Scripts Timetable</a>
+</p>
 <h4><strong>2025 Class Timetable (Semester 2)</strong></h4>
-<p><strong> Special-[for 11 July, 15-17 July, 25 July &amp; 3 Sep 2025]</strong>
+<p><strong>Special-[for 11 July, 15-17 July, 25 July &amp; 3 Sep 2025]</strong>
 </p>
 <p>(Uploaded on 4July 2025)</p>
 <p><a href="/files/Students/Class Timetable Schedules/2025/2025_Sem_2_Special_Timetable___Class.pdf" rel="noopener nofollow" target="_blank">2025 Sem 2 Special Timetable - Class</a>
