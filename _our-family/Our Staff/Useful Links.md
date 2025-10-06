@@ -39,7 +39,7 @@ image: /images/YCKLogo.svg
             </div>
             <div class="isomer-card">
                 <div class="isomer-card-image">
-                    <a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcsl%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fcsl%252Fuser%252Fauth%252Fexternal%253Fauthclient%253DIdM%26xoauth_displayname%3DOPAL2.0%26scope%3Dopenid%2520profile%2520cxDomainInternalApi%2520offline_access%26state%3D1ba954baac6f481c7b9e558043435f0426908653842f6c105bee7f0775d2d9a1" target="_blank">
+                    <a title="OPAL 2.0 - One Portal All Learners" href="https://idm.opal2.moe.edu.sg" target="_blank">
                         <img alt="Community of Singapore Learners" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Useful%20Links/U5.jpg">
                     </a>
                 </div>
