@@ -118,7 +118,7 @@ img {
 }
 	
 .yck-component a.text-link::before {
-    content: " ";
+    content: "";
 }
 
 /* --- Isomer Cards --- */
