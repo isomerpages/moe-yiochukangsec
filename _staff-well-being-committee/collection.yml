@@ -2,5 +2,6 @@ collections:
   staff-well-being-committee:
     output: true
     order:
+      - EMOTIONAL.md
       - INTELLECTUAL.md
       - PHYSICAL.md
