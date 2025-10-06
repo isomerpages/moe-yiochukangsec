@@ -9,11 +9,9 @@ image: /images/Our Family/Students/YCKSS_STUDENT_HANDBOOK_2025.jpg
 <div class="yck-component">
 	<h2>YCKSS Student Handbook 2025</h2>
 <div class="isomer-card">	
-<a title="YCKSS Student Handbook 2025" href="/files/Students/Student_handbook_2025/YCKSS_STUDENT_HANDBOOK_2025.pdf">
-	<figure>
+<a class="text-link" title="YCKSS Student Handbook 2025" href="/files/Students/Student_handbook_2025/YCKSS_STUDENT_HANDBOOK_2025.pdf">
 	<img alt="Cover page of the YCKSS Student Handbook 2025" src="/images/Our Family/Students/YCKSS_STUDENT_HANDBOOK_2025.jpg" class="isomer-card-image">
 	<figcaption>Click the image above to download the Student Handbook 2025 ... </figcaption>
-	</figure>
 </a>
 </div>
 </div>
