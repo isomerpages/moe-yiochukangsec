@@ -130,6 +130,7 @@ img {
     padding: 0;
     border-radius: 8px;
     overflow: hidden;
+	background: #fff;
     transition:
         background-color 0.5s ease;
 }
@@ -139,7 +140,7 @@ img {
 }
 
 .yck-component .isomer-card:has(img) {
-    filter: brightness(90%);
+    filter: brightness(95%);
     background-color: #fff;
     transition: filter 0.5s ease;
 }
