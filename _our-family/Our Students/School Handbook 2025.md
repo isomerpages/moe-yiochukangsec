@@ -131,8 +131,6 @@ img {
     border-radius: 8px;
     overflow: hidden;
 	background: #fff;
-    transition:
-        background-color 0.5s ease;
 }
 
 .yck-component .isomer-card:hover {;
