@@ -9,9 +9,9 @@ image: /images/Our Family/Students/YCKSS_STUDENT_HANDBOOK_2025.jpg
 <div class="yck-component">
 	<h2>YCKSS Student Handbook 2025</h2>
 <div class="isomer-card">	
-<a title="YCKSS Student Handbook 2025" href="/files/Students/Student_handbook_2025/YCKSS_STUDENT_HANDBOOK_2025.pdf">
+<a class="text-link" title="YCKSS Student Handbook 2025" href="/files/Students/Student_handbook_2025/YCKSS_STUDENT_HANDBOOK_2025.pdf">
 	<img alt="Cover page of the YCKSS Student Handbook 2025" src="/images/Our Family/Students/YCKSS_STUDENT_HANDBOOK_2025.jpg" class="isomer-card-image">
-	<figcaption>Click the image above to download the Student Handbook 2025 ... </figcaption>
+	<figcaption class="isomer-card-link">Click the image above to download the Student Handbook 2025 ... </figcaption>
 </a>
 </div>
 </div>
@@ -111,55 +111,31 @@ img {
     letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.yck-component a {
-    text-decoration: none;
-    color: #e37f2a;
-}
-
 .yck-component a.text-link {
     position: relative;
     padding-bottom: 2px;
     text-decoration: none;
 }
 
-.yck-component a.text-link::after {
-    content: " ";
-    position: absolute;
-    width: 0;
-    height: 2px;
-    bottom: 0;
-    left: 0;
-    background-color: currentColor;
-    transition:
-        width 1s cubic-bezier(0.25, 1, 0.5, 1),
-        color 1.2s ease-out;
-}
-
-.yck-component a.text-link:hover::after {
-    width: 100%;
-    color: rgba(0, 122, 247, 0.25);
-}
 
 /* --- Isomer Cards --- */
 .yck-component .isomer-card {
-    text-decoration: none;
+    text-decoration: none !important;
     margin: 0 auto;
     break-inside: avoid;
     page-break-inside: avoid;
-    padding: 20px;
+    padding: 0;
     border: 1px solid rgba(224, 224, 224, 0.15);
     border-radius: 8px;
-    box-shadow: var(--yck-box-shadow1);
+    box-shadow: var(--yck-box-shadow);
     overflow: hidden;
     transition:
-        transform 0.8s var(--yck-transition-timing),
         box-shadow 0.8s var(--yck-transition-timing),
         background-color 0.5s ease;
 }
 
-.yck-component .isomer-card:hover {
-    transform: translateY(-5px);
-    box-shadow: var(--yck-box-shadow);
+.yck-component .isomer-card:hover {;
+    box-shadow: var(--yck-box-shadow1);
 }
 
 .yck-component .isomer-card:has(img) {
@@ -170,7 +146,7 @@ img {
 
 .yck-component .isomer-card:has(img):hover {
     filter: brightness(100%);
-    background-color: #fefefe;
+    background-color: #fff;
 }
 
 .yck-component .isomer-card .isomer-card-image {
@@ -194,6 +170,7 @@ img {
     font: italic var(--yck-step--1) sans-serif;
     margin: 0;
     padding-top: 10px;
+	padding-bottom: 10px;
     text-align: center;
 }
 </style>
