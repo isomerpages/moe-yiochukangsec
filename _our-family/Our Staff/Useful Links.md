@@ -12,14 +12,14 @@ image: /images/YCKLogo.svg
             <div class="isomer-card">
                 <div class="isomer-card-image">
                     <a title="iCONs. Teach, Learn and Collaborate" href="https://icon.moe.edu.sg/" target="_blank">
-                        <img alt="iCON" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Useful%20Links/U1.jpg">
+                        <img alt="iCONs. Teach, Learn and Collaborate" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Useful%20Links/U1.jpg">
                     </a>
                 </div>
             </div>
             <div class="isomer-card">
                 <div class="isomer-card-image">
                     <a title="School Cockpit Plus. In Touch, In Time" href="https://schoolcockpit.moe.gov.sg/CP/scapp/security" target="_blank">
-                        <img alt="School Cockpit" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Useful%20Links/U2.jpg">
+                        <img alt="School Cockpit Plus. In Touch, In Time" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Useful%20Links/U2.jpg">
                     </a>
                 </div>
             </div>
@@ -32,8 +32,8 @@ image: /images/YCKLogo.svg
             </div>
             <div class="isomer-card">
                 <div class="isomer-card-image">
-                    <a href="https://www.hrp.gov.sg/hrp/#/" target="_blank">
-                        <img alt="HRP" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Useful%20Links/U4.jpg">
+                    <a title="Employees and Pensioners Portal" href="https://www.hrp.gov.sg/hrp/#/" target="_blank">
+                        <img alt="HRP - Employees and Pensioners Portal" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Useful%20Links/U4.jpg">
                     </a>
                 </div>
             </div>
@@ -53,22 +53,22 @@ image: /images/YCKLogo.svg
             </div>
             <div class="isomer-card">
                 <div class="isomer-card-image">
-                    <a href="https://iexams.seab.gov.sg/" target="_blank">
-                        <img alt="iExams" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Useful%20Links/U7.jpg">
+                    <a title="SEAB iEXAMSs" href="https://iexams.seab.gov.sg/" target="_blank">
+                        <img alt="SEAB iExams" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Useful%20Links/U7.jpg">
                     </a>
                 </div>
             </div>
             <div class="isomer-card">
                 <div class="isomer-card-image">
-                    <a href="https://vle.learning.moe.edu.sg/login" target="_blank">
+                    <a title="The Singapore Student Learning Space - Educator Login" href="https://vle.learning.moe.edu.sg/login" target="_blank">
                         <img alt="Student Learning Space (SLS)" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Useful%20Links/U8.jpg">
                     </a>
                 </div>
             </div>
             <div class="isomer-card">
                 <div class="isomer-card-image">
-                    <a href="https://ifaas2-idm.moe.gov.sg/oam/server/obrareq.cgi?encquery%3DO5scxIwhmHm5W%2BFSprigE%2FUBTXVyra0oKLjq3N8us96JKpuTXct1uy1diOwsemb8GJVSLvIv7xJKobVLeZ%2BCrN5q7PHvvP4x24px7%2BVVT2plbXOLPPIZYXORdl5jRLcrchNTZhvOrgLqG1jrjQ8%2BN9Fk5yEdr8mVZHOksE6RThYmqFZmj%2FJWE0fRL%2F%2FqQRb6JikowSR6O47h8ExLJN%2FSiws9GWJYZ73HB4ePJx3EbkST43kyteyq2%2B2OKusOCXyx%20agentid%3DMOEHOST%20ver%3D1%20crmethod%3D2&amp;ECID-Context=1.0001SOhZEDO2nJmLSqt1ic00058N000MAh%3BkXjE" target="_blank">
-                        <img alt="iFAAS 2.0" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Useful%20Links/U9.jpg">
+                    <a title="IFAAS2 - Integrated Financial Administration and Accounting System" href="https://ifaas2-idm.moe.gov.sg/oam/server/obrareq.cgi?encquery%3DO5scxIwhmHm5W%2BFSprigE%2FUBTXVyra0oKLjq3N8us96JKpuTXct1uy1diOwsemb8GJVSLvIv7xJKobVLeZ%2BCrN5q7PHvvP4x24px7%2BVVT2plbXOLPPIZYXORdl5jRLcrchNTZhvOrgLqG1jrjQ8%2BN9Fk5yEdr8mVZHOksE6RThYmqFZmj%2FJWE0fRL%2F%2FqQRb6JikowSR6O47h8ExLJN%2FSiws9GWJYZ73HB4ePJx3EbkST43kyteyq2%2B2OKusOCXyx%20agentid%3DMOEHOST%20ver%3D1%20crmethod%3D2&amp;ECID-Context=1.0001SOhZEDO2nJmLSqt1ic00058N000MAh%3BkXjE" target="_blank">
+                        <img alt="iFAAS 2.0 -0 Integrated Financial Administration and Accounting System" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Useful%20Links/U9.jpg">
                     </a>
                 </div>
             </div>
