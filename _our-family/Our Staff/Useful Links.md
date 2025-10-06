@@ -74,22 +74,22 @@ image: /images/YCKLogo.svg
             </div>
             <div class="isomer-card">
                 <div class="isomer-card-image">
-                    <a href="http://intranet.moe.gov.sg/Pages/Home.aspx" target="_blank">
+                    <a title="Home - MOE Intranet" href="http://intranet.moe.gov.sg/Pages/Home.aspx" target="_blank">
                         <img alt="MOE Intranet" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Useful%20Links/U10.jpg">
                     </a>
                 </div>
             </div>
             <div class="isomer-card">
                 <div class="isomer-card-image">
-                    <a href="https://rbs.avero-tech.com/" target="_blank">
-                        <img alt="Resource Booking System" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Useful%20Links/U11.png">
+                    <a title="Resource Booking Service (RBS)" href="https://rbs.avero-tech.com/" target="_blank">
+                        <img alt="Resource Booking Service (RBS)" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Useful%20Links/U11.png">
                     </a>
                 </div>
             </div>
             <div class="isomer-card">
                 <div class="isomer-card-image">
-                    <a href="https://www.schoolbag.sg/" target="_blank">
-                        <img alt="Schoolbag" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Useful%20Links/U12.png">
+                    <a title="Schoolbag.sg - The Education News Site" href="https://www.schoolbag.sg/" target="_blank">
+                        <img alt="Schoolbag.sg - The Education News Site" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Useful%20Links/U12.png">
                     </a>
                 </div>
             </div>
