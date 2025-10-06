@@ -119,7 +119,6 @@ img {
 	
 .yck-component a.text-link::before {
     content: " ";
-    position: absolute;
 }
 
 /* --- Isomer Cards --- */
@@ -129,27 +128,24 @@ img {
     break-inside: avoid;
     page-break-inside: avoid;
     padding: 0;
-    border: 1px solid rgba(224, 224, 224, 0.15);
     border-radius: 8px;
-    box-shadow: var(--yck-box-shadow);
     overflow: hidden;
     transition:
-        box-shadow 0.8s var(--yck-transition-timing),
         background-color 0.5s ease;
 }
 
 .yck-component .isomer-card:hover {;
-    box-shadow: var(--yck-box-shadow1);
+    background: #fff;
 }
 
 .yck-component .isomer-card:has(img) {
     filter: brightness(90%);
-    background-color: #fefefe;
+    background-color: #fff;
     transition: filter 0.5s ease;
 }
 
 .yck-component .isomer-card:has(img):hover {
-    filter: brightness(100%);
+    filter: brightness(100%) saturate(150%);
     background-color: #fff;
 }
 
@@ -169,7 +165,6 @@ img {
 
 
 .yck-component figcaption {
-    background-color: rgba(255, 255, 255, 0.15);
     color: #333;
     font: italic var(--yck-step--1) sans-serif;
     margin: 0;
