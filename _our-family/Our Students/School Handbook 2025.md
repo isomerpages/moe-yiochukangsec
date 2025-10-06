@@ -116,7 +116,11 @@ img {
     padding-bottom: 2px;
     text-decoration: none;
 }
-
+	
+.yck-component a.text-link::before {
+    content: " ";
+    position: absolute;
+}
 
 /* --- Isomer Cards --- */
 .yck-component .isomer-card {
