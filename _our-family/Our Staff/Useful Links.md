@@ -88,8 +88,8 @@ image: /images/YCKLogo.svg
             </div>
             <div class="isomer-card">
                 <div class="isomer-card-image">
-                    <a title="Schoolbag.sg - The Education News Site" href="https://www.schoolbag.sg/" target="_blank">
-                        <img alt="Schoolbag.sg - The Education News Site" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Useful%20Links/U12.png">
+                    <a title="Schoolbag.edu.sg is an online publication by the Ministry of Education" href="https://schoolbag.edu.sg/" target="_blank">
+                        <img alt="Schoolbag.edu.sg is an online publication by the Ministry of Education" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Useful%20Links/U12.png">
                     </a>
                 </div>
             </div>
