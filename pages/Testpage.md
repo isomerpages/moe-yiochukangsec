@@ -35,9 +35,16 @@ variant: markdown
   </div>
   
   <input id="tabthree" name="tabs" type="radio">
-  <label for="tabthree">Tab Three</label>
+  <label for="tabthree">Sexuality Education (SEd)</label>
   <div class="tab">
-    <h1>Tab Three Content</h1>
+    <h1>Sexuality Education (SEd)</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+  </div>
+</div>
+<input id="tabfour" name="tabs" type="radio">
+  <label for="tabfour">Sexuality Education (SEd)</label>
+  <div class="tab">
+    <h1>Sexuality Education (SEd)</h1>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
   </div>
 </div>
@@ -67,7 +74,7 @@ variant: markdown
 	</figure>
     </div>
 </div>
-</div>
+
 	
 <style>
 /* 
