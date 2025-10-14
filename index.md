@@ -27,9 +27,9 @@ sections:
       title: YCKSS e-Open House
       subtitle: A Unique Way to Experience
       id: infopic
-      description: Come visit us at our e-Open House where we will bring you on a
-        virtual tour experience like no other ...
-      button: Come in & Welcome!
+      description: Join us for an immersive 360° virtual tour and explore our vibrant
+        campus from anywhere.
+      button: Start Your Tour! 👉🏻
       url: https://4d.silvrcraft.com/yckss360vt/index.htm
       image: /images/openhouse.jpg
       alt: YCKSS e-Open House
