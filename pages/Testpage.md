@@ -6,8 +6,66 @@ variant: markdown
 ---
 <div class="yck-component">
 	<div class="regular-flow">
+		<div style="display: none;" class="isomer-card">
+			<div class="isomer-card-body">
+				<div class="isomer-card-image">
 		<img class="svg-quote" src="/images/Icons/quote.svg">
-	
+		</div>
+</div>
+</div>
+
+<div class="yck-component">
+	<div class="regular-class">
+	<div class="tabs">
+  <input checked="checked" id="tabone" name="tabs" type="radio">
+  <label for="tabone">Education &amp; Career Guidance (ECG)</label>
+  <div class="tab">
+	  <article>
+    <h1>Education &amp; Career Guidance (ECG)</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+	  </article>
+  </div>
+  
+  <input id="tabtwo" name="tabs" type="radio">
+  <label for="tabtwo">National Education (NE)</label>
+  <div class="tab">
+    <h1>National Education (NE)</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  </div>
+  
+  <input id="tabthree" name="tabs" type="radio">
+  <label for="tabthree">Tab Three</label>
+  <div class="tab">
+    <h1>Tab Three Content</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+  </div>
+</div>
+	</div>
+</div>
+	<div class="yck-component">
+        <div class="regular-flow">
+        <figure class="quote">
+		<blockquote>
+			<p>As you read a book word by word and page by page, you participate in its creation, just as a cellist playing a Bach suite participates, note by note, in the creation, the coming-to-be, the existence, of the music.</p> <p>And, as you read and re-read, the book of course participates in the creation of you, your thoughts and feelings, the size and temper of your soul.</p>
+		</blockquote>
+		<figcaption>
+			Ursula K. Le Guin
+		</figcaption>
+	</figure>
+	</div>
+	</div>
+
+<div class="yck-component">
+	<figure class="quote">
+		<blockquote>
+			<p>What an astonishing thing a book is. It's a flat object made from a tree with flexible parts on which are imprinted lots of funny dark squiggles. But one glance at it and you're inside the mind of another person, maybe somebody dead for thousands of years.</p> <p>Across the millennia, an author is speaking clearly and silently inside your head, directly to you. Writing is perhaps the greatest of human inventions, binding together people who never knew each other, citizens of distant epochs. Books break the shackles of time.</p> <p>A book is proof that humans are capable of working magic.</p>
+		</blockquote>
+		<figcaption>
+			Carl Sagan
+		</figcaption>
+	</figure>
+    </div>
 </div>
 </div>
 	
@@ -321,6 +379,96 @@ abbr {
 abbr:hover {
     color: #4e835b;
 }
+	
+.yck-component article {
+  margin: 0 auto;
+}
+.yck-component .quote {
+  margin: 4rem 1rem 1rem 8rem;
+  padding: var(--yck-spacing-unit)
+  border-left: 1px solid #999
+}
+.yck-component blockquote {
+  font-size: var(--yck-step-1);
+  font-weight: 200;
+  position: relative;
+  padding: 0 var(--yck-space-s-xl);
+  margin: 0
+}
+.yck-component blockquote::before {
+  font-weight: 900;
+  content: "\201C";
+  color: #a63232;
+  font-size: calc(var(--yck-step-5)*5);
+  position: absolute;
+  left: -8rem;
+  top: 3.5rem
+}
+.yck-component figcaption {
+  font-weight: 400;
+  font-style: italic;
+  margin-top: 1rem;
+  font-size: var(--yck-step-0);
+  padding-right: var(--yck-spaces);
+  text-align: right
+}
+
+.yck-component .tabs {
+	display: flex;
+	flex-wrap: wrap; 
+	justify-content: space-between;
+	color: #525252;
+    min-width: 100%;
+}
+.yck-component .tabs label {
+	order: 1; 
+	display: block;
+	padding: 1rem 2rem;
+	cursor: pointer;
+  background: #ccc;
+  font-weight: bold;
+  transition: all ease 0.8s;
+	text-align: center;
+	flex-grow: 1;
+	width: fit-content;
+	border: none;
+}
+.yck-component .tabs .tab {
+  order: 99; 
+  flex-grow: 1;
+	width: 100%;
+	height: auto;
+	display: none;
+  padding: var(--yck-spacing-unit);
+  background: #fefefe;
+  line-height: var(--yck-text-line-height);
+}
+.yck-component .tabs input[type="radio"] {
+	display: none;
+}
+.yck-component .tabs input[type="radio"]:checked + label {
+	background: #fefefe;
+	border-left: 1px;
+	border-right: 1px;
+	border-top: 1px;
+	border-color: darkgrey;
+	border-radius: 5px;
+}
+.yck-component .tabs input[type="radio"]:checked + label + .tab {
+	display: block;
+}
+
+@media (max-width: 100%) {
+  .yck-component .tabs .tab,
+  .yck-component .tabs label {
+    order: initial;
+  }
+  .yck-component .tabs label {
+    width: 100%;
+    margin-right: 0;
+    margin-top: 0.2rem;
+  }
+
 
 .yck-component .dropcap-title {
     font-size: var(--yck-step-1);
