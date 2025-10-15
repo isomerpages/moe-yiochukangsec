@@ -456,7 +456,7 @@ svg {
    ========================================================================== */
 
 /* --- Tables --- */
-/* .yck-component .yck-table {
+.yck-component .yck-table {
     border-collapse: collapse;
     width: 100%;
     min-width: 180px;
