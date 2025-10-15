@@ -132,7 +132,7 @@ image: /images/YCKLogo.svg
                                             <table class="yck-tables">
                                                 <thead>
                                                     <tr>
-                                                        <th class="yck-th">Topics/Lessons</th>
+                                                        <th class="yck-th">Topics or Lessons</th>
                                                         <th class="yck-th">Programme Learning Objectives</th>
                                                         <th class="yck-th">Time Period</th>
                                                     </tr>
