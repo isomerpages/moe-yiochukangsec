@@ -22,36 +22,33 @@ image: /images/YCKLogo.svg
                                                 different ethnic and religious communities in Singapore on sexuality
                                                 issues.
                                             </p>
-                                            <p>2. The <strong>Goals</strong> of Sexuality Education are to:</p>
-                                            <p>
-                                                (a) Support students in managing their physiological, social and
+                                            <div>2. The <strong>Goals</strong> of Sexuality Education are to:
+                                            <ul style="list-style-type: lower-alpha">
+                                                <li>Support students in managing their physiological, social and
                                                 emotional changes as they grow up and develop safe and healthy
-                                                relationships.
-                                            </p>
-                                            <p>
-                                                (b) Guide students to make wise, informed and responsible decisions on
-                                                sexuality matters.
-                                            </p>
-                                            <p>
-                                                (c) Help students develop a moral compass and respect for themselves and
+																									relationships.</li>                                            
+																							<li>Guide students to make wise, informed and responsible decisions on
+																								sexuality matters.</li>
+                                            <li>Help students develop a moral compass and respect for themselves and
                                                 others by having positive mainstream values and attitudes about
                                                 sexuality that are premised on the family as the basic unit of society.
-                                            </p>
-                                            <p>3. The <strong>Key Messages</strong> of Sexuality Education are:</p>
-                                            <p>(a) Love and respect yourself as you love and respect others;</p>
-                                            <p>
-                                                (b) Build positive relationships based on love and respect (which are
+                                            </li>
+																							</ul>
+																							</div>
+                                            <div>3. The <strong>Key Messages</strong> of Sexuality Education are:
+                                            <ul style="list-style-type: lower-alpha">
+																							<li>Love and respect yourself as you love and respect others;</li>
+																							<li>Build positive relationships based on love and respect (which are
                                                 the foundation for strong families);
-                                            </p>
-                                            <p>
-                                                (c) Make responsible decisions for yourself, your family and society;
-                                                and
-                                            </p>
-                                            <p>
-                                                (d) Abstinence before marriage is the best protection against STIs/HIV
+                                            </li>
+                                            <li>Make responsible decisions for yourself, your family and society;
+																							and</li>
+																							<li>Abstinence before marriage is the best protection against STIs/HIV
                                                 and unintended pregnancies. Casual sex can harm and hurt you and your
                                                 loved ones.
-                                            </p>
+                                            </li>
+																							</ul>
+																							</div>
                                             <p>
                                                 You may click
                                                 <a target="_blank" href="https://go.gov.sg/moe-sexuality-education">here</a>
