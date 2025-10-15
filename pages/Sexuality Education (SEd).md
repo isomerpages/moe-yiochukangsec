@@ -129,40 +129,39 @@ image: /images/YCKLogo.svg
                                                 <strong>At Yio Chu Kang Secondary School, the <em>eTeens</em> programme
                                                     will be implemented as follows in 2025:</strong>
                                             </p>
-                                            <table>
+                                            <table class="yck-tables">
                                                 <thead>
                                                     <tr>
-                                                        <th>Topics/Lessons</th>
-                                                        <th>Programme Learning Objectives</th>
-                                                        <th>Time Period</th>
+                                                        <th class="yck-th">Topics/Lessons</th>
+                                                        <th class="yck-th">Programme Learning Objectives</th>
+                                                        <th class="yck-th">Time Period</th>
                                                     </tr>
                                                 </thead>
                                                 <tbody>
                                                     <tr>
-                                                        <td>Mass Talk delivered through a pre-recorded video</td>
-                                                        <td>
-                                                            <p>Raise awareness and provide knowledge on:</p>
-                                                            <p>
-                                                                a) Infectious diseases (STIs and HIV): what it is, how
+                                                        <td class="yck-td">Mass Talk delivered through a pre-recorded video</td>
+                                                       <td class="yck-td">
+                                                            Raise awareness and provide knowledge on:
+																												 <ul style="list-style-type: lower-alpha">
+																													 <li>Infectious diseases (STIs and HIV): what it is, how
                                                                 it spreads, how to prevent infection mainly through ABC
                                                                 (abstinence, being faithful, correct, and consistent
-                                                                condom use).
-                                                            </p>
-                                                            <p>
-                                                                b) Managing relationships and risky situations in a
+																														 condom use).</li>
+                                                          <li>Managing relationships and risky situations in a
                                                                 healthy way.
-                                                            </p>
+                                                            </li>
+																												 </ul>
                                                         </td>
-                                                        <td>Term 3 Week 2</td>
+                                                         <td class="yck-td">Term 3 Week 2</td>
                                                     </tr>
                                                     <tr>
-                                                        <td>Classroom-based Lesson</td>
-                                                        <td>
+                                                         <td class="yck-td">Classroom-based Lesson</td>
+                                                        <td class="yck-td">
                                                             Learn to negotiate their way out of a risky situation by
                                                             applying skills of assertiveness and responsible
                                                             decision-making
                                                         </td>
-                                                        <td>Term 3 Week 3</td>
+                                                         <td class="yck-td">Term 3 Week 3</td>
                                                     </tr>
                                                 </tbody>
                                             </table>
