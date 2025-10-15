@@ -58,6 +58,7 @@ image: /images/YCKLogo.svg
                                                 for more information on MOE Sexuality Education.
                                             </p>
                                         </article>
+																					<hr>
                                         <article id="ycksed2025">
                                             <h3>
                                                 Overview of Yio Chu Kang Secondary School's Sexuality Education
@@ -165,6 +166,7 @@ image: /images/YCKLogo.svg
                                                     </tr>
                                                 </tbody>
                                             </table>
+																					<hr>
                                             <h3>Information for Parents</h3>
                                             <p>
                                                 10. Parents may opt their children out of the Sexuality Education
