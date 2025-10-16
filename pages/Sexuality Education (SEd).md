@@ -480,6 +480,7 @@ svg {
     letter-spacing: 0.05em;
     vertical-align: top;
 	 text-wrap: balance;
+	min-width: 10ch;
 }
 
 .yck-component .yck-td {
