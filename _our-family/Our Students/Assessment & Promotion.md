@@ -502,12 +502,12 @@ abbr:hover {
 }
 	.yck-component .yck-th:nth-child(1),
 .yck-component .yck-td:nth-child(1) {
-	text-align: right;
 	min-width: 10ch;
+	font-weight: 700;
 	}
 .yck-component .yck-td:nth-child(n+2) {
 	text-align: center;
-	min-width: 13ch;
+	min-width: 14ch;
 	}
 .yck-component .yck-td {
     border-bottom: 1px dotted #ddd;
