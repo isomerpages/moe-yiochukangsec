@@ -505,6 +505,7 @@ svg {
 .yck-component .yck-td li {
     margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
     line-height: 1.4;
+	font-size: var(--yck-step-0);
 }
 
 .yck-component .yck-td>*:last-child,
