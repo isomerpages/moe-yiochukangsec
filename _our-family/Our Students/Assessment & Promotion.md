@@ -73,16 +73,6 @@ Students’ overall results (except those of graduating classes) are based on bo
 </tbody>
 </table>
 </p><p>For Lower Secondary D&amp;T and FCE which are conducted in alternate semesters, the SBA structure &amp; weighting distribution are as follows:</p>
-			<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-3bno{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-8d3w{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
-</style>
 <table class="yck-table">
 <thead>
   <tr>
@@ -97,8 +87,8 @@ Students’ overall results (except those of graduating classes) are based on bo
   <tr>
     <td class="yck-td"></td>
     <td class="yck-td"><span style="color:#222;background-color:transparent">Weighted Assessment</span></td>
-    <td class="yck-td"><span style="color:#222;background-color:transparent">End-Of-Course Assessment<a href="#note1">*</a></span></td>
-    <td class="yck-td"><span style="color:#222;background-color:transparent">End-Of-Course Assessment*</span><br></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent">End-Of-Course Assessment<sup><a href="#note1">(1)</a></sup></span></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent">End-Of-Course Assessmentt<sup><a href="#note1">(1)</a></sup></span></td>
     <td class="yck-td"><span style="color:#222;background-color:transparent">End-Of-Year Examination</span><br></td>
   </tr>
   <tr style="font-weight: 700">
@@ -127,7 +117,7 @@ Students’ overall results (except those of graduating classes) are based on bo
   </tr>
 </tbody>
 </table>
-<div class="small" id="note1">End-Of-Course assessment comprises a Coursework &amp; a Theory Component</div>
+	<div class="small" id="note1"><sup>(1)</sup>End-Of-Course Assessment comprises: (i) a <strong>Coursework component</strong>; and (ii) a <strong>Theory component</strong>.</div>
 <p>Absenteeism from any SBA must be supported with a&nbsp;<b>valid medical certificate</b>. Otherwise, a zero mark will be awarded for the paper. If a student is unable to sit for any SBA due to adverse conditions (e.g. bereavement), the student must seek approval from the school with the relevant supporting documents (e.g.&nbsp; death certificate).
 			</p>
 
@@ -425,11 +415,13 @@ hr {
     margin-block: clamp(1rem, 2vw, 2.5rem);
 }
 
-.yck-component .small,
-.yck-component small {
+.yck-component .small {
     font-size: var(--yck-step--1);
     line-height: var(--yck-spacing-unit);
 }
+.yck-component .small ul li {
+	line-height: 0.5;
+	}
 
 .yck-component a {
     text-decoration: none;
