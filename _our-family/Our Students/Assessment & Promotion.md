@@ -88,7 +88,7 @@ Students’ overall results (except those of graduating classes) are based on bo
     <td class="yck-td"></td>
     <td class="yck-td"><span style="color:#222;background-color:transparent">Weighted Assessment</span></td>
     <td class="yck-td"><span style="color:#222;background-color:transparent">End-Of-Course Assessment<sup><a href="#note1">(1)</a></sup></span></td>
-    <td class="yck-td"><span style="color:#222;background-color:transparent">End-Of-Course Assessmentt<sup><a href="#note1">(1)</a></sup></span></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent">End-Of-Course Assessment<sup><a href="#note1">(1)</a></sup></span></td>
     <td class="yck-td"><span style="color:#222;background-color:transparent">End-Of-Year Examination</span><br></td>
   </tr>
   <tr style="font-weight: 700">
