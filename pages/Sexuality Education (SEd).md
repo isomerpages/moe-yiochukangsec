@@ -458,7 +458,7 @@ svg {
 .yck-component .yck-table {
     border-collapse: collapse;
     width: 100%;
-    min-width: 180px;
+    min-width: 120px;
     margin-bottom: var(--yck-space-s-xl);
     font-size: var(--yck-step-0);
     border: 1px dotted lightgrey;
@@ -473,20 +473,13 @@ svg {
     text-align: left;
     border-bottom: 1px dotted #ddd;
     text-transform: uppercase;
-    padding: calc(var(--yck-spacing-unit) * 0.75);
+    padding: var(--yck-spacing-unit);
     font-weight: bold;
     font-size: var(--yck-step-0);
-    line-height: 1.4;
+    line-height: 1.3;
     letter-spacing: 0.05em;
     vertical-align: top;
-}
-
-.yck-component .yck-th h4,
-.yck-component .yck-th h5,
-.yck-component .yck-th h6 {
-    margin: 0 0 calc(var(--yck-spacing-unit) * 0.5) 0;
-    text-wrap: balance;
-    line-height: 1.3;
+	 text-wrap: balance;
 }
 
 .yck-component .yck-td {
@@ -496,40 +489,33 @@ svg {
     font-size: var(--yck-step-0);
     word-wrap: break-word;
     text-wrap: pretty;
-    padding: calc(var(--yck-spacing-unit) * 0.75);
+    padding: var(--yck-spacing-unit);
     vertical-align: top;
-    line-height: 1.5;
+    line-height: 1.6;
 }
 
-.yck-component .yck-td>*,
+.yck-component .yck-td *,
 .yck-component .yck-td p,
 .yck-component .yck-td ul,
 .yck-component .yck-td ol {
     margin-top: 0;
-    margin-bottom: var(--yck-spacing-unit);
-    font-size: var(--yck-step-0);
-}
-
-.yck-component .yck-td ul,
-.yck-component .yck-td ol {
-    padding-left: calc(var(--yck-spacing-unit) * 1.5);
 }
 
 .yck-component .yck-td li {
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.25);
-    line-height: inherit;
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+    line-height: 1.4;
 }
 
 .yck-component .yck-td>*:last-child,
 .yck-component .yck-td>p:last-child,
 .yck-component .yck-td>ul:last-child,
 .yck-component .yck-td>ol:last-child {
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.25);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
 }
 
 .yck-component .yck-td ul:last-child li:last-child,
 .yck-component .yck-td ol:last-child li:last-child {
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.25);
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
 }
 
 .yck-component .yck-table tbody tr:last-child .yck-td>*:last-child {
@@ -537,10 +523,20 @@ svg {
 }
 
 .yck-component .yck-table tbody tr:nth-child(even) {
-    background-color: #efefef;
+    background-color: #f6f6f6;
 }
 
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .yck-component .yck-table {
+        font-size: calc(var(--yck-step-0) * 0.9);
+    }
 
+    .yck-component .yck-th,
+    .yck-component .yck-td {
+        padding: calc(var(--yck-spacing-unit) * 0.5);
+    }
+}
 
 /* --- Video Containers --- */
 .yck-component .video-container {
