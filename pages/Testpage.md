@@ -5,82 +5,167 @@ description: ""
 variant: markdown
 ---
 <div class="yck-component">
-	<div class="yck-flexbox-grid">
-		<div class="column">
-<blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/p/DJWARo0RjnE/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-captioned="" class="instagram-media">
-    <div style="padding:16px;"> <a target="_blank" style="background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" href="https://www.instagram.com/p/DJWARo0RjnE/?utm_source=ig_embed&amp;utm_campaign=loading">
-            <div style="display: flex; flex-direction: row; align-items: center;">
-                <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div>
-                <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;">
-                    <div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div>
-                    <div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div>
-                </div>
-            </div>
-            <div style="padding: 19% 0;"></div>
-            <div style="padding-top: 8px;">
-                <div style="color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"></div>
-            </div>
-            <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;">
-                <div>
-                    <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div>
-                    <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div>
-                    <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div>
-                </div>
-                <div style="margin-left: 8px;">
-                    <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div>
-                    <div style="width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div>
-                </div>
-                <div style="margin-left: auto;">
-                    <div style="width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div>
-                    <div style="background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div>
-                    <div style="width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div>
-                </div>
-            </div>
-        </a></div>
-</blockquote>
+	<div class="regular-flow">
+		<div style="display: none;" class="isomer-card">
+			<div class="isomer-card-body">
+				<div class="isomer-card-image">
+		<img class="svg-quote" src="/images/Icons/quote.svg">
 		</div>
-		<div class="column">
-<blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/p/DJWARo0RjnE/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-captioned="" class="instagram-media"><div style="padding:16px;"> <a target="_blank" style="background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" href="https://www.instagram.com/p/DJWARo0RjnE/?utm_source=ig_embed&amp;utm_campaign=loading"> <div style="display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="padding-top: 8px;"> <div style="color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"></div></div><div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style="width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style="width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style="background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style="width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a></div></blockquote>
-		</div>
-	</div>
-<hr>
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe allow="fullscreen" allowfullscreen="allowfullscreen" src="https://www.canva.com/design/DAGvcJ9OhxI/MbP_L4E1PEDPFYwqLyCsPA/view?embed" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" loading="lazy">
-  </iframe>
 </div>
-<a rel="noopener" target="_blank" href="https://www.canva.com/design/DAGvcJ9OhxI/MbP_L4E1PEDPFYwqLyCsPA/view?utm_content=DAGvcJ9OhxI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link">Copy of SG60</a> by Yeow Hwee Kwan
-<div class="yck-component">
-    <figure>
-        <div class="masthead" id="schsongbg">
-					<details>
-						<summary class="yck-h2">YCKSS School Song</summary>
-            <p>Our School is Yio Chu Kang.<br>
-                Together we learn and grow.<br>
-                Pursuit of knowledge, service to all,<br>
-                With gratitude and character, we show.<br>
-                Wholeheartedly, our Home.</p>
-            <p>Through our hopes and dreams,<br>
-                We see the best in all.<br>
-                With heart and soul, we lead<br>
-                And strive for excellence.<br>
-                Wholeheartedly, our School.<br>
-                Wholeheartedly, our Home.</p>
-            <figcaption>Musics &amp; Lyrics by: Mr Michael William Cartwright &amp; Ms Lio Dan Wei
-            </figcaption>
-					</details>
-        </div>
-    </figure>
 </div>
 
+<div class="yck-component">
+	<div class="regular-class">
+	<div class="tabs">
+  <input checked="checked" id="tabone" name="tabs" type="radio">
+  <label for="tabone">Education &amp; Career Guidance (ECG)</label>
+  <div class="tab">
+	  <article>
+    <h1>Education &amp; Career Guidance (ECG)</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+	  </article>
+  </div>
+  
+  <input id="tabtwo" name="tabs" type="radio">
+  <label for="tabtwo">National Education (NE)</label>
+  <div class="tab">
+    <h1>National Education (NE)</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  </div>
+  
+  <input id="tabthree" name="tabs" type="radio">
+  <label for="tabthree">Sexuality Education (SEd)</label>
+  <div class="tab">
+    <h1>Sexuality Education (SEd)</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+  </div>
+</div>
+<input id="tabfour" name="tabs" type="radio">
+  <label for="tabfour">Sexuality Education (SEd)</label>
+  <div class="tab">
+    <h1>Sexuality Education (SEd)</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+  </div>
+</div>
+	</div>
+</div>
+	<div class="yck-component">
+        <div class="regular-flow">
+        <figure class="quote">
+		<blockquote>
+			<p>As you read a book word by word and page by page, you participate in its creation, just as a cellist playing a Bach suite participates, note by note, in the creation, the coming-to-be, the existence, of the music.</p> <p>And, as you read and re-read, the book of course participates in the creation of you, your thoughts and feelings, the size and temper of your soul.</p>
+		</blockquote>
+		<figcaption>
+			Ursula K. Le Guin
+		</figcaption>
+	</figure>
+	</div>
+	</div>
+
+<div class="yck-component">
+	<figure class="quote">
+		<blockquote>
+			<p>What an astonishing thing a book is. It's a flat object made from a tree with flexible parts on which are imprinted lots of funny dark squiggles. But one glance at it and you're inside the mind of another person, maybe somebody dead for thousands of years.</p> <p>Across the millennia, an author is speaking clearly and silently inside your head, directly to you. Writing is perhaps the greatest of human inventions, binding together people who never knew each other, citizens of distant epochs. Books break the shackles of time.</p> <p>A book is proof that humans are capable of working magic.</p>
+		</blockquote>
+		<figcaption>
+			Carl Sagan
+		</figcaption>
+	</figure>
+    </div>
+</div>
+
+	
 <style>
+/* 
+ * CSS Reset 
+ * Based on best practices and recommendations 
+ */
+
+/* Box Sizing */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+/* Reset Margins and Padding */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Typography */
+
+html {
+    font-size: 100%;
+    /* [3] Define base font size in percentage for accessibility. */
+}
+
+/* Links */
+
+a {
+    text-decoration: none;
+    /* [4] Remove default underline for a cleaner look. */
+    color: inherit;
+    /* [7] Inherit color from parent for consistency. */
+}
+
+/* Buttons */
+
+button,
+a.button {
+    border: none;
+    /* [4] Remove default border. */
+    background-color: transparent;
+    /* [4] Remove default background color. */
+    font-family: inherit;
+    /* [4] Inherit font family from parent for consistency. */
+    padding: 0;
+    /* [4] Remove default padding. */
+    cursor: pointer;
+    /* [4] Provide visual feedback to users that the element is interactive. */
+
+    /* Accessibility - Windows High Contrast Mode */
+    @media screen and (-ms-high-contrast: active) {
+        border: 2px solid currentcolor;
+        /* [4] Ensure a perceivable button border for improved accessibility. */
+    }
+}
+
+/* Lists */
+
+ol,
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    /* [8] Remove default list styles for greater styling control. */
+}
+
+/* Images */
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* ==========================================================================
+   1. Global Styles & Resets
+   ========================================================================== */
+
 :root {
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
     --yck-spacing-unit: 1em;
     --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+    --yck-box-shadow1: 0 1px 2px rgba(0, 0, 0, 0.15);
+    --yck-inset-shadow1: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    --yck-inset-shadow2: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
     --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
 
     --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
@@ -92,16 +177,43 @@ variant: markdown
     --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
-    --yck-space-s-xl: clamp(0.75rem, 0.2143rem + 3.9286vw, 3.75rem);
+    --yck-space-s-xl: clamp(1.125em, 0.2143em + 3.9286vw, 3.5em);
+
+    --font-system-ui: system-ui, sans-serif;
+    --font-transitional: Charter, Bitstream Charter, Sitka Text, Cambria, serif;
+    --font-old-style: Iowan Old Style, Palatino Linotype, URW Palladio L, P052, serif;
+    --font-humanist: Seravek, Gill Sans Nova, Ubuntu, Calibri, DejaVu Sans, source-sans-pro, sans-serif;
+    --font-geometric-humanist: Avenir, Montserrat, Corbel, URW Gothic, source-sans-pro, sans-serif;
+    --font-classical-humanist: Optima, Candara, Noto Sans, source-sans-pro, sans-serif;
+    --font-neo-grotesque: Inter, Roboto, Helvetica Neue, Arial Nova, Nimbus Sans, Arial, sans-serif;
+    --font-monospace-slab-serif: Nimbus Mono PS, Courier New, monospace;
+    --font-monospace-code: Dank Mono, Operator Mono, Inconsolata, Fira Mono, ui-monospace, SF Mono, Monaco,
+        Droid Sans Mono, Source Code Pro, Cascadia Code, Menlo, Consolas, DejaVu Sans Mono, monospace;
+    --font-industrial: Bahnschrift, DIN Alternate, Franklin Gothic Medium, Nimbus Sans Narrow, sans-serif-condensed,
+        sans-serif;
+    --font-rounded-sans: ui-rounded, Hiragino Maru Gothic ProN, Quicksand, Comfortaa, Manjari, Arial Rounded MT,
+        Arial Rounded MT Bold, Calibri, source-sans-pro, sans-serif;
+    --font-slab-serif: Rockwell, Rockwell Nova, Roboto Slab, DejaVu Serif, Sitka Small, serif;
+    --font-antique: Superclarendon, Bookman Old Style, URW Bookman, URW Bookman L, Georgia Pro, Georgia, serif;
+    --font-didone: Didot, Bodoni MT, Noto Serif Display, URW Palladio L, P052, Sylfaen, serif;
+    --font-handwritten: Segoe Print, Bradley Hand, Chilanka, TSCu_Comic, casual, cursive;
+
     interpolate-size: allow-keywords;
     scroll-behavior: smooth;
     text-rendering: optimizeSpeed;
-    height: 100vh;
+}
+
+body {
+    min-height: 100dvh;
+    font-family: inherit;
+    line-height: var(--yck-text-line-height);
+    word-break: break-word;
+    overflow-wrap: break-word;
 }
 
 ::selection {
     text-shadow: none;
-    background: yellow;
+    background: rgba(255, 255, 0, 0.35);
 }
 
 audio,
@@ -113,9 +225,17 @@ video {
     vertical-align: middle;
 }
 
+img {
+}
+
+/* ==========================================================================
+   2. Base Typography
+   ========================================================================== */
+
 .yck-component {
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
+    padding: 0;
     font-size: var(--yck-step-0);
     margin-bottom: var(--yck-space-s-xl);
 }
@@ -143,7 +263,7 @@ video {
 .yck-component ol,
 .yck-component ul {
     text-wrap: pretty;
-    margin-bottom: calc(var(--yck-spacing-unit)*1.5);
+    margin-bottom: var(--yck-spacing-unit);
 }
 
 .yck-component p:last-child,
@@ -211,63 +331,221 @@ hr {
     margin-block: clamp(1rem, 2vw, 2.5rem);
 }
 
+.yck-component small,
+small {
+    font-size: var(--yck-step--2);
+    line-height: var(--yck-spacing-unit);
+}
+
 .yck-component a {
     text-decoration: none;
     color: #e37f2a;
-    position: relative;
-    padding-bottom: 2px;
 }
 
-.yck-component a::after {
-    content: '';
+.yck-component a.text-link {
+    position: relative;
+    padding-bottom: 2px;
+    text-decoration: none;
+}
+
+.yck-component a.text-link::after {
+    content: " ";
     position: absolute;
     width: 0;
     height: 2px;
     bottom: 0;
     left: 0;
     background-color: currentColor;
-    transition: width 1s var(--yck-transition-timing);
+    transition:
+        width 1s cubic-bezier(0.25, 1, 0.5, 1),
+        color 1.2s ease-out;
 }
 
-.yck-component a:hover::after {
+.yck-component a.text-link:hover::after {
     width: 100%;
+    color: rgba(0, 122, 247, 0.25);
 }
 
-.yck-component a:hover {
-    text-decoration: none;
+.yck-component a[target="_blank"]:not(.text-link):after {
+    display: none;
+    margin: 0;
+    padding: 0;
 }
 
-.yck-component .video-container {
-    position: relative;
+.yck-component abbr,
+abbr {
+    text-decoration: underline dotted #2c6139;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+    color: #2c6139;
+    font-weight: 600;
+    cursor: help;
+}
+
+.yck-component abbr:hover,
+abbr:hover {
+    color: #4e835b;
+}
+	
+.yck-component article {
+  margin: 0 auto;
+}
+.yck-component .quote {
+  margin: 4rem 1rem 1rem 8rem;
+  padding: var(--yck-spacing-unit)
+  border-left: 1px solid #999
+}
+.yck-component blockquote {
+  font-size: var(--yck-step-1);
+  font-weight: 200;
+  position: relative;
+  padding: 0 var(--yck-space-s-xl);
+  margin: 0
+}
+.yck-component blockquote::before {
+  font-weight: 900;
+  content: "\201C";
+  color: #a63232;
+  font-size: calc(var(--yck-step-5)*5);
+  position: absolute;
+  left: -8rem;
+  top: 3.5rem
+}
+.yck-component figcaption {
+  font-weight: 400;
+  font-style: italic;
+  margin-top: 1rem;
+  font-size: var(--yck-step-0);
+  padding-right: var(--yck-spaces);
+  text-align: right
+}
+
+.yck-component .tabs {
+	display: flex;
+	flex-wrap: wrap; 
+	justify-content: space-between;
+	color: #525252;
+    min-width: 100%;
+}
+.yck-component .tabs label {
+	order: 1; 
+	display: block;
+	padding: 1rem 2rem;
+	cursor: pointer;
+  background: #ccc;
+  font-weight: bold;
+  transition: all ease 0.8s;
+	text-align: center;
+	flex-grow: 1;
+	width: fit-content;
+	border: none;
+}
+.yck-component .tabs .tab {
+  order: 99; 
+  flex-grow: 1;
+	width: 100%;
+	height: auto;
+	display: none;
+  padding: var(--yck-spacing-unit);
+  background: #fefefe;
+  line-height: var(--yck-text-line-height);
+}
+.yck-component .tabs input[type="radio"] {
+	display: none;
+}
+.yck-component .tabs input[type="radio"]:checked + label {
+	background: #fefefe;
+	border-left: 1px;
+	border-right: 1px;
+	border-top: 1px;
+	border-color: darkgrey;
+	border-radius: 5px;
+}
+.yck-component .tabs input[type="radio"]:checked + label + .tab {
+	display: block;
+}
+
+@media (max-width: 100%) {
+  .yck-component .tabs .tab,
+  .yck-component .tabs label {
+    order: initial;
+  }
+  .yck-component .tabs label {
     width: 100%;
-    padding-bottom: 56.25%;
-    /* 16:9 aspect ratio */
-    height: 0;
-    overflow: hidden;
-    margin-bottom: var(--yck-spacing-unit);
+    margin-right: 0;
+    margin-top: 0.2rem;
+  }
+
+
+.yck-component .dropcap-title {
+    font-size: var(--yck-step-1);
+    /* Base font size for the heading */
+    font-weight: normal;
+    margin-bottom: 0.5em;
+    color: #555;
 }
 
-.yck-component .video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
+/* This is the core magic for the dropcap */
+.yck-component .dropcap-title::first-letter {
+    float: left;
+    font-size: calc(var(--yck-step-5) * 1.65);
+    /* The size of the dropcap relative to the heading's font size */
+    font-weight: bold;
+    font-style: oblique;
+    font-family: var(--font-antique);
+    line-height: 0.9;
+    /* Pulls the rest of the text up vertically */
+    padding-right: 0.18em;
+    /* Adds a little space next to the letter */
+    color: #4e835b;
+    /* A distinct color for the dropcap */
+}
+
+/* ==========================================================================
+   3. Layout Components
+   ========================================================================== */
+
+.yck-component .regular-flow > * + * {
+    margin-top: 1.125em;
+}
+
+.yck-component .deadctr-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*  display: grid;
+    place-items: center;
     width: 100%;
-    height: 100%;
+    height: auto; */
 }
 
-.yck-component .isomer-card,
-.yck-component .column {
-    break-inside: avoid;
-    /* Prevents content from breaking across columns */
-    page-break-inside: avoid;
-    /* For older browsers */
-    padding: 20px;
-    border-radius: 5px;
-    box-shadow: var(--yck-box-shadow);
+.yck-component .deadctr-content {
+    padding: var(--yck-spacing-unit);
+    margin: 0 auto;
+    text-align: center;
 }
 
+.yck-component .col-container,
+.yck-component .col3-container {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    column-count: 2;
+    column-width: 55px;
+    column-gap: 1.5em;
+}
+
+.yck-component .col3-container {
+    columns: 3;
+    column-width: 20ch;
+    column-gap: 1.5em;
+    column-rule-style: dotted;
+    column-rule-width: 0.5px;
+    column-rule-color: rgba(170, 170, 170, 0.75);
+}
+
+/* --- Flexbox Grid System --- */
 .yck-component .yck-flexbox-grid {
-
     --yck-gap: 1em;
     display: flex;
     flex-wrap: wrap;
@@ -277,7 +555,7 @@ hr {
     margin-block: var(--yck-spacing-unit);
 }
 
-.yck-component .yck-flexbox-grid>* {
+.yck-component .yck-flexbox-grid > * {
     flex-grow: 1;
     flex-shrink: 0;
     flex-basis: calc((100% - var(--yck-gap)) / 4);
@@ -285,41 +563,240 @@ hr {
     list-style: none;
 }
 
-@media (max-width:1000px) {
-    .yck-component .yck-flexbox-grid>* {
-        flex-basis: 100%;
-    }
+.yck-component .yck-img-array {
+    --yck-gap: 1.25rem;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    align-content: flex-start;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: var(--yck-gap);
+    padding: 0;
+    margin: 0;
 }
 
-.yck-component .yck-flexbox-grid .isomer-card {
+.yck-component .yck-img-array > * {
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: calc((100% - var(--yck-gap)) / 6);
+    min-width: 240px;
+    list-style: none;
+}
+
+.masonry-container {
+    column-count: 3;
+    /* The number of columns you want */
+    column-gap: 1rem;
+    /* The space between columns */
+}
+
+.masonry-item {
+    break-inside: avoid;
+    margin-bottom: 1rem;
+    display: inline-block;
+    width: 100%;
+}
+
+.masonry-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* ==========================================================================
+   4. UI Components
+   ========================================================================== */
+
+/* --- Tables --- */
+.yck-component .yck-table {
+    border-collapse: collapse;
+    width: 100%;
+    min-width: 180px;
+    margin-top: 0.5em;
+    margin-bottom: var(--yck-space-s-xl);
+    font-size: var(--yck-step-0);
+}
+
+.yck-component .yck-th {
+    background-color: #a2a2a2;
+    text-align: left;
+    border-bottom: 1px dotted #ddd;
+    text-transform: uppercase;
+    padding: calc(var(--yck-spacing-unit) * 0.75);
+    font-weight: bold;
+    font-size: var(--yck-step-1);
+    line-height: 1.4;
+    letter-spacing: 0.05em;
+    vertical-align: top;
+}
+
+.yck-component .yck-th h4,
+.yck-component .yck-th h5,
+.yck-component .yck-th h6 {
+    margin: 0 0 calc(var(--yck-spacing-unit) * 0.5) 0;
+    text-wrap: balance;
+    line-height: 1.3;
+}
+
+.yck-component .yck-td {
+    border-bottom: 1px dotted #ddd;
+    min-width: 120px;
+    max-width: 100%;
+    word-wrap: break-word;
+    text-wrap: pretty;
+    padding: calc(var(--yck-spacing-unit) * 0.75);
+    vertical-align: top;
+    font-size: var(--yck-step-3);
+    line-height: 1.5;
+}
+
+.yck-component .yck-td > *,
+.yck-component .yck-td p,
+.yck-component .yck-td ul,
+.yck-component .yck-td ol {
+    margin-top: 0;
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+    font-size: var(--yck-step-0);
+}
+
+.yck-component .yck-td ul,
+.yck-component .yck-td ol {
+    padding-left: calc(var(--yck-spacing-unit) * 1.5);
+}
+
+.yck-component .yck-td li {
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.25);
+    line-height: inherit;
+}
+
+.yck-component .yck-td > *:last-child,
+.yck-component .yck-td > p:last-child,
+.yck-component .yck-td > ul:last-child,
+.yck-component .yck-td > ol:last-child {
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.75);
+}
+
+.yck-component .yck-td ul:last-child li:last-child,
+.yck-component .yck-td ol:last-child li:last-child {
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.25);
+}
+
+.yck-component .yck-table tbody tr:last-child .yck-td > *:last-child {
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component .yck-table tbody tr:nth-child(even) {
+    background-color: #fafafa;
+}
+
+/* --- Video Containers --- */
+.yck-component .video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component .video-container iframe,
+.yck-component .video-container object,
+.yck-component .video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.yck-component .widescreentv {
+    aspect-ratio: 16/9;
+    width: 100%;
+}
+
+.yck-component .tallscreentv {
+    aspect-ratio: 9/16;
+    width: 100%;
+}
+
+.yck-component .sdtv {
+    aspect-ratio: 4/3;
+    width: 100%;
+}
+
+/* --- Isomer Cards --- */
+.yck-component .isomer-card,
+.yck-component .column {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: var(--yck-box-shadow1);
+}
+
+.yck-component .column {
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component .column ul,
+.yck-component .column ol {
+    list-style: none;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0;
+}
+
+.yck-component .column ul li {
+    margin-inline: 1em;
+    padding-left: 1rem;
+    border-bottom: 1px dotted rgba(0, 0, 0, 0.05);
+}
+
+.yck-component .isomer-card {
     text-decoration: none;
     margin: 0 auto;
     padding: 0;
-    border: 1px solid #e0e0e0;
+    border: 1px solid rgba(224, 224, 224, 0.15);
     border-radius: 8px;
     overflow: hidden;
-    transition: transform 0.3s var(--yck-transition-timing), box-shadow 0.3s var(--yck-transition-timing);
+    transition:
+        transform 0.8s var(--yck-transition-timing),
+        box-shadow 0.8s var(--yck-transition-timing),
+        background-color 0.5s ease;
 }
 
-.yck-component .yck-flexbox-grid .isomer-card:hover {
+.yck-component .isomer-card:hover {
     transform: translateY(-5px);
     box-shadow: var(--yck-box-shadow);
 }
 
-.yck-component .yck-flexbox-grid .isomer-card:hover .isomer-card-body .isomer-card-link {
+.yck-component .isomer-card:hover .isomer-card-body .isomer-card-link {
     color: #e37f2a;
 }
 
-.yck-component .yck-flexbox-grid .isomer-card .isomer-card-image {
+.yck-component .isomer-card:has(img) {
+    filter: brightness(100%);
+    background-color: #fff;
+    transition: filter 0.5s ease;
+}
+
+.yck-component .isomer-card:has(img):hover {
+    filter: brightness(90%);
+    background-color: #fefefe;
+}
+
+.yck-component .isomer-card .isomer-card-image {
     width: 100%;
     object-fit: cover;
 }
 
-.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body {
+.yck-component .isomer-card .isomer-card-body {
     padding: var(--yck-spacing-unit);
 }
 
-.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title {
+.yck-component .isomer-card .isomer-card-body .isomer-card-title {
     color: #4a4a4a;
     font-weight: 700;
     font-size: var(--yck-step-1);
@@ -327,12 +804,12 @@ hr {
     text-wrap: balance;
 }
 
-.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-description {
-    color: #484848;
+.yck-component .isomer-card .isomer-card-body .isomer-card-description {
+    color: #383838;
     font-size: var(--yck-step-0);
 }
 
-.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-link {
+.yck-component .isomer-card .isomer-card-body .isomer-card-link {
     font-size: var(--yck-step-0);
     text-decoration: underline;
     color: #e37f2a;
@@ -340,34 +817,346 @@ hr {
     margin-top: 0.5rem;
 }
 
-.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-description) {
-    margin-bottom: 0.75rem
+.yck-component .isomer-card .isomer-card-body .isomer-card-title:has(+ .isomer-card-description) {
+    margin-bottom: 0.75rem;
 }
 
-.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-link),
-.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-description:has(+.isomer-card-link) {
-    margin-bottom: 1.5rem
+.yck-component .isomer-card .isomer-card-body .isomer-card-title:has(+ .isomer-card-link),
+.yck-component .isomer-card .isomer-card-body .isomer-card-description:has(+ .isomer-card-link) {
+    margin-bottom: 1rem;
 }
 
-.yck-component figure {
-    display: flex !important;
-    flex-flow: column !important;
+/* --- Blockquotes & Figures --- */
+.yck-component .quote {
+    margin: 2rem 1rem 1rem 5rem;
+    padding: 1rem;
+    width: fit-content;
+    border-left: 2px dotted #999;
+    border-right: 2px dotted #999;
+    border-radius: 10px;
+}
+
+.yck-component blockquote {
+    font-size: var(--yck-step-1);
+    font-weight: 300;
+    line-height: 1.6em;
+    position: relative;
+    padding: 1rem;
+    margin: 0;
+    border-left: 0;
+}
+
+.yck-component blockquote::before {
+    font-weight: 600;
+    font-style: italic;
+    content: "❝";
+    color: #a63232;
+    font-size: calc(var(--yck-step-4) * 2);
+    position: absolute;
+    left: -6rem;
+    top: 0.5rem;
+    opacity: 0.3;
+}
+
+/* .yck-component .blockquote {
+    font-family: "Georgia", serif;
+    font-weight: 400;
+    font-size: clamp(1.5rem, 1.25rem + 1dvi, 3rem);
+    letter-spacing: 0;
+}
+
+.yck-component .blockquote p {
+    text-wrap: pretty;
+}
+
+.yck-component .blockquote q::before {
+    position: absolute;
+    margin-inline-start: -1ex;
+}
+
+.yck-component .blockquote q q::before {
+    position: static;
+    margin-inline-start: unset;
+}
+
+.yck-component .blockquote>* {
+    margin-block-start: calc(clamp(1.25ex, 2.5vmax, 1.75ex) / 4);
+}
+
+.yck-component .blockquote:not(:last-child) {
+    padding-block-end: calc(clamp(1.25ex, 2.5vmax, 1.75ex) / 2);
+} */
+
+/* .yck-component blockquote {
+    position: relative;
+    padding: 25px 35px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: var(--yck-box-shadow);
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.yck-component blockquote > p,
+.yck-component blockquote > div {
+    color: #ff6b6b;
+    font-style: italic;
+    font-size: var(--yck-step-1);
+    line-height: 1.5;
+    margin: 0;
+}
+
+.yck-component blockquote::before {
+    content: '"';
+    position: absolute;
+    top: 25px;
+    left: 10px;
+    color: #ff6b6b;
+    font-size: 60px;
+    font-family: Georgia, serif;
+    opacity: 0.3;
+} */
+
+.yck-component cite {
+    display: block;
+    margin-top: var(--yck-spacing-unit);
+    font-size: var(--yck-step--1);
+    font-style: italic;
+    color: #555;
+    text-align: right;
+}
+
+.yck-component figure,
+.yck-component .figure {
+    display: flex;
+    justify-items: flex-start;
+    align-items: flex-start;
     max-width: 100%;
-    margin: auto !important;
+    margin: 0;
+    padding: 0;
 }
 
-.yck-component figure img {
+.yck-component figure img,
+.yck-component .figure img {
     border-radius: 8px;
     box-shadow: var(--yck-box-shadow);
-    margin-bottom: var(--yck-spacing-unit);
 }
 
 .yck-component figcaption {
+    background-color: rgba(255, 255, 255, 0.55);
     color: #333;
     font: italic var(--yck-step--1) sans-serif;
+    margin: 0;
     padding: 5px;
     text-align: center;
 }
+
+/* --- Integrated Navigation Bar Styles --- */
+.yck-component .yck-nav-bar > * {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.yck-component .yck-nav-bar ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    list-style: none;
+    background-color: #ffffff;
+    border-radius: 0.75rem;
+    box-shadow: var(--yck-inset-shadow2);
+
+    justify-content: space-evenly;
+    align-content: start;
+    justify-items: center;
+    align-items: start;
+}
+
+.yck-component .yck-nav-bar a {
+    display: block;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: var(--yck-step-0);
+    transition: all 0.3s var(--yck-transition-timing);
+    margin: calc(var(--yck-spacing-unit) * 0.1);
+    padding: 1rem;
+    border-radius: 0.5rem;
+    text-align: center;
+    text-wrap: balance;
+    overflow-wrap: break-word;
+    color: #4a5568;
+    position: relative;
+}
+
+.yck-component .yck-nav-bar a::after {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #4299e1;
+    /* Added background-color to the transition for the color fade effect */
+    transition:
+        width 0.7s var(--yck-transition-timing),
+        background-color 0.7s var(--yck-transition-timing);
+}
+
+.yck-component .yck-nav-bar a.active {
+    color: #2b6cb0;
+}
+
+.yck-component .yck-nav-bar a.active::after {
+    width: 60%;
+    background-color: #4299e1;
+}
+
+.yck-component .yck-nav-bar a:hover {
+    color: #e37f2a;
+}
+
+.yck-component .yck-nav-bar a:hover::after {
+    background-color: #e37f2a;
+    width: 60%;
+}
+
+/* --- Buttons --- */
+.yck-component .button-container {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    text-align: center;
+    width: 100%;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.yck-component .button {
+    background-color: #e37f2a;
+    color: #fff;
+    font-size: var(--yck-step-0);
+    font-weight: 900;
+    margin: 1rem;
+    padding: 0.65rem;
+    border-radius: 50px;
+    box-shadow:
+        0 10px 15px -3px rgba(0, 0, 0, 0.15),
+        0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    transition: all 0.35s ease-in-out;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.yck-component .button:hover {
+    text-decoration: none;
+    background-color: #fabe64;
+    color: #fff;
+    box-shadow:
+        0 20px 25px -6px rgba(0, 0, 0, 0.12),
+        0 10px 10px -5px rgba(0, 0, 0, 0.04);
+    transform: scale(1.05);
+}
+
+.yck-component .button:focus {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(250, 190, 60, 0.5);
+}
+
+.yck-component .truncate {
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* From Uiverse.io by vinodjangid07 */
+.yck-component .buttontotop {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #e37f2a;
+    border: none;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 0px 0px 4px rgba(250, 190, 60, 0.5);
+    cursor: pointer;
+    transition-duration: 0.3s;
+    overflow: hidden;
+    position: relative;
+}
+
+.yck-component .svgIcon {
+    width: 12px;
+    transition-duration: 0.3s;
+}
+
+.yck-component .svgIcon path {
+    fill: white;
+}
+
+.yck-component .buttontotop:hover {
+    width: 140px;
+    border-radius: 50px;
+    transition-duration: 0.3s;
+    background-color: #fabe64;
+    align-items: center;
+}
+
+.yck-component .buttontotop:hover .svgIcon {
+    /* width: 20px; */
+    transition-duration: 0.3s;
+    transform: translateY(-200%);
+}
+
+.yck-component .buttontotop::before {
+    position: absolute;
+    bottom: -20px;
+    content: "Back to Top";
+    color: white;
+    /* transition-duration: .3s; */
+    font-size: 0px;
+}
+
+.yck-component .buttontotop:hover::before {
+    font-size: var(--yck-step-0);
+    opacity: 1;
+    bottom: unset;
+    /* transform: translateY(-30px); */
+    transition-duration: 0.3s;
+}
+
+/* --- Backdrop --- */
+.yck-component .backdrop {
+    position: absolute;
+    inset: 0;
+    height: 200%;
+    border-radius: 4px;
+    background: hsl(0deg 0% 100% / 0.1);
+    pointer-events: none;
+    backdrop-filter: blur(16px);
+    mask-image: linear-gradient(to bottom, black 0, black 50%, transparent 50%);
+}
+
+.yck-component .backdrop-edge {
+    --thickness: 6px;
+    position: absolute;
+    inset: 0;
+    height: 100%;
+    transform: translateY(100%);
+    background: hsl(0deg 0% 100% / 0.1);
+    backdrop-filter: blur(8px) brightness(120%);
+    pointer-events: none;
+    mask-image: linear-gradient(to bottom, black 0, black var(--thickness), transparent var(--thickness));
+}
+
+/* ==========================================================================
+   5. Animations & Transitions
+   ========================================================================== */
 
 .ken-burns-container {
     max-width: 100%;
@@ -383,6 +1172,10 @@ hr {
     animation: kenBurns 35s ease-in-out infinite alternate;
 }
 
+.fade-in {
+    animation: fade-in 1s ease-in-out both;
+}
+
 @keyframes kenBurns {
     from {
         transform: scale(1);
@@ -393,16 +1186,6 @@ hr {
     }
 }
 
-.fade-in {
-    -webkit-animation: fade-in 1.2s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
-    animation: fade-in 1s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
-}
-
-/**
-                             * ----------------------------------------
-                             * animation fade-in
-                             * ----------------------------------------
-                             */
 @-webkit-keyframes fade-in {
     0% {
         opacity: 0;
@@ -443,12 +1226,62 @@ hr {
     }
 }
 
-@media (prefers-reduced-motion: reduce) {
-    * {
-        animation-duration: 0.01ms !important;
-        animation-iteration-count: 1 !important;
-        transition-duration: 0.01ms !important;
-        scroll-behavior: auto !important;
+@keyframes fade-in-bottom {
+    from {
+        opacity: 0;
+        transform: translateY(10vh);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* ==========================================================================
+   6. Accessibility & Media Queries
+   ========================================================================== */
+
+@media (max-width: 1000px) {
+    .yck-component .yck-flexbox-grid > * {
+        flex-basis: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    .yck-component .yck-table {
+        font-size: calc(var(--yck-step-0) * 0.9);
+    }
+
+    .yck-component .yck-th,
+    .yck-component .yck-td {
+        padding: calc(var(--yck-spacing-unit) * 0.5);
+    }
+}
+
+@media (max-width: 600px) {
+    .yck-component .yck-flex-grid > * {
+        flex-basis: auto;
+    }
+}
+
+/* Default for mobile (1 column) */
+.masonry-container {
+    column-count: 1;
+    column-gap: 1rem;
+}
+
+/* Tablet (2 columns) */
+@media (min-width: 640px) {
+    .masonry-container {
+        column-count: 2;
+    }
+}
+
+/* Desktop (3 columns) */
+@media (min-width: 1024px) {
+    .masonry-container {
+        column-count: 3;
     }
 }
 
@@ -459,168 +1292,356 @@ hr {
 }
 
 @supports (animation-timeline: view()) {
-
-    .yck-component .yck-flexbox-grid .isomer-card,
-    .yck-component .isomer-card-grid,
-    .yck-component .col-container {
-        animation: fade-in-bottom linear both;
+    .yck-component figure,
+    .yck-component .carousel,
+    .yck-component .masonry-container .masonry-item,
+    .yck-component .yck-img-array,
+    .yck-component .isomer-card-grid {
+        animation: fade-in-bottom ease both;
         animation-timeline: view();
         animation-range: entry 25% cover 50%;
     }
 }
 
-details {
+/* Basic carousel styling */
+.yck-component .carousel {
+    width: 100%;
+    height: 55vh;
+    /* 50% of the viewport height */
     overflow: hidden;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    scroll-snap-type: x mandatory;
 }
 
-details * {
+.yck-component .carousel-images {
+    display: flex;
+    width: 300%;
+    /* Changed from 400% to accommodate the extra image */
+    animation: scroller 20s infinite alternate ease-in-out;
+    /* Increased duration to 40s for smoother transition */
+}
+
+/* Keyframe animation for 7 images */
+@keyframes scroller {
+    0%,
+    25% {
+        transform: translate3d(0, 0, 0);
+        /* Show the 1st image */
+        opacity: 1;
+    }
+
+    25%,
+    50% {
+        transform: translate3d(-100%, 0, 0);
+        /* Show the 2nd image */
+        opacity: 1;
+    }
+
+    50%,
+    75% {
+        transform: translate3d(-200%, 0, 0);
+        /* Show the 3rd image */
+        opacity: 1;
+    }
+
+    75%,
+    100% {
+        transform: translate3d(-300%, 0, 0);
+        /* Show the 4th image */
+        opacity: 1;
+    }
+}
+
+.yck-component .carousel:hover .carousel-images {
+    animation-play-state: paused;
+}
+
+.yck-component .carousel-images img {
+    scroll-snap-align: center;
+    /*padding-left: 20px;
+    padding-right: 20px;*/
+    max-width: 100%;
+    /* This ensures each image takes up the full width of the carousel */
+    height: 100%;
+    object-fit: cover;
+    flex-shrink: 0;
+    /* Prevents the images from shrinking */
+}
+
+/* --- Details Summary --- */
+.yck-component details {
+    overflow: hidden;
+    border-radius: 10px;
+    background-color: #fff;
+    transition: box-shadow 0.5s ease-out;
+}
+
+.yck-component details[open] {
+    /* Shadow applied to the whole container when open */
+    box-shadow: var(--yck-inset-shadow2);
+}
+
+.yck-component details * {
     margin: 0 !important;
 }
 
-details>p,
-details ul li,
-details div {
-    animation: fade-in 1s ease-out;
-    padding-top: calc(var(--yck-spacing-unit) * 0.5);
+.yck-component details > ul {
+    list-style: none;
 }
 
-summary {
-    margin-inline-start: 1.5rem !important;
+.yck-component summary {
+    position: relative;
+    padding: 1rem 3rem 1rem 1.5rem;
     list-style-position: outside;
-    list-style: none;
     cursor: pointer;
     user-select: none;
     outline: none;
     font-size: var(--yck-step-1);
     font-weight: 500;
+    transition: background-color 0.5s ease-in;
 }
 
-/* A specific rule for Chrome/Safari */
-summary::-webkit-details-marker {
-    display: none;
+.yck-component summary:hover {
+    background-color: rgba(0, 0, 0, 0.03);
+    box-shadow: var(--yck-box-shadow1);
 }
 
-summary::before {
-    content: ''; /* This is the chevron icon */
+.yck-component summary::marker {
+    content: "";
+}
+
+.yck-component summary::after {
+    content: "+";
     position: absolute;
     font-size: var(--yck-step-2);
-    left: 0.05rem;
-    top: 1.55rem;
-	  width: 1.5rem;
-	  height: 3rem;
-	  background-image: url("data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjEwMCUiIHdpZHRoPSIzMCUiIHZpZXdCb3g9IjAgMCAzMjAgMzIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGNsYXNzPSJzdmctZWxlbS0xIiBkPSJNMTQxLjUgMS42MjdjLTM4LjEwMyA1LjczMi02Ny43MjMgMjAuMTIzLTkzIDQ1LjE4My03My41ODEgNzIuOTUtNTguNTYyIDE5NS4yMjggMzAuNSAyNDguMzEgODAuMjU1IDQ3LjgzMyAxODYuMDc0IDE1LjA5MSAyMjQuOTk2LTY5LjYxNyAyNS40OTktNTUuNDk1IDE1LjkwNS0xMjUuNDc4LTIzLjE2OS0xNjkuMDAzLTIuNDY5LTIuNzUtNS4zNTMtNi4wNTMtNi40MDgtNy4zMzktMTEuMDU3LTEzLjQ3OC00Mi4xMTktMzIuOTUyLTY0Ljg0Ni00MC42NTQtMTYuNzk3LTUuNjkyLTUyLjE5Mi05LjI2OS02OC4wNzMtNi44OG03IDcuOTk1Yy00Ny43MzYgNS4wNjktODguMTI4IDI4LjU0MS0xMTIuNzA5IDY1LjQ5Ni01OS43NTUgODkuODM1LTEwLjU4NSAyMDguNjU2IDk1LjYwNSAyMzEuMDMzIDE0LjQ4OCAzLjA1MyA0Mi43MiAzLjA1MyA1Ny4yMDggMCAxMzAuODU4LTI3LjU3NiAxNjUuNDAyLTE5NS40ODYgNTUuNzI0LTI3MC44NjNDMjE3LjczMyAxNy4wMTEgMTc4LjMyNCA2LjQ1NiAxNDguNSA5LjYyMm0tNiAxMS44ODFjLTIyLjAzOCA0LjE2NS00MS44MTcgMTYuNzc1LTU3LjU3MiAzNi43MDhsLTMuODQ4IDQuODY3IDQuNTE5IDcuNjQzYzE4LjAwNSAzMC40NTUgNDIuODg1IDQ1LjYxOSA3NC45MDEgNDUuNjUxIDMyLjI5NC4wMzMgNTYuNzkxLTE2Ljc3OSA3Mi42Ny00OS44NzFsNC4xNDEtOC42MjktNS45MDYtNi4wMzFjLTE4LjU4Mi0xOC45OC0zNy44ODItMjguNTAyLTYzLjUwMi0zMS4zMjlsLTUuNTk2LS42MTgtLjY1NCA5LjIwN2MtLjM1OSA1LjA2My0uNjYgMTcuMTI1LS42NjggMjYuODAzLS4wMiAyMi40OTktMS40NjcgMjUuMjI2LTIuMzQgNC40MDYtLjM2NC04LjY5NS0uOTQ5LTIxLjMyMy0xLjMtMjguMDZMMTU2LjcwOCAyMGwtMy42MDQuMDljLTEuOTgyLjA1LTYuNzU0LjY4Ni0xMC42MDQgMS40MTNtODQgODMuOTc1Yy00NC4xMjcgMzEuNjctODkuMjcgMzIuMDI1LTEzNS41MjMgMS4wNjctNC41NjQtMy4wNTYtOC4zODEtNS40NDEtOC40OC01LjMtMi45MzggNC4xNDktOS43MDggMTkuMTM1LTguNzkyIDE5LjQ2MiA5LjkzOCAzLjU0NCA0MS4zNzIgMjYuMjUxIDU0LjMxOSAzOS4yMzkgMTcuOTMyIDE3Ljk4OCAyNC45MTMgNDAuMzEgMjQuOTU4IDc5LjgwNEwxNTMgMjU2aDIwLjg1NGwtLjU2OC0xMi43NzdjLTEuMDA5LTIyLjcgMi43MTUtNDkuNDIyIDkuMDY5LTY1LjA1OCA0Ljg3OS0xMi4wMDggMTcuNTA1LTI3LjI5NiAzMy4xNTEtNDAuMTQyIDYuNzk1LTUuNTc5IDI5LjU2Mi0yMS41NDYgMzEuNzczLTIyLjI4MyAxLjAyNy0uMzQyLTkuOTYxLTE2Ljc1MS0xMS4yMDQtMTYuNzMxLS4zMTYuMDA1LTQuNjI1IDIuOTE2LTkuNTc1IDYuNDY5bTMyLjIxMSAzMC4wNjNjLTM4LjM2MyA2LjA1OC02Ni44MzQgMzMuNDQxLTcxLjc4NiA2OS4wNDMtMi42MTMgMTguNzg2IDMuNTM3IDQwLjE2MyAxNy4yOTYgNjAuMTIyIDYuNzk1IDkuODU2IDYuNDkgOS42ODMgMTMuNzI0IDcuODA4IDI0LjQ3NS02LjM0MiA0OC4zNzMtMjMuNDkgNTkuNDMxLTQyLjY0M2wyLjY3Mi00LjYyOS0yMy43NzQtMTMuMjljLTM0LjE1MS0xOS4wOTEtMzMuODIzLTE5LjM0MiAyLjY1NC0yLjAzIDE3LjUyOSA4LjMxOSAyMy42MzUgMTAuNzk5IDI0LjI0NiA5Ljg0OC40NDktLjY5OCAxLjc1Ni0zLjc0NSAyLjkwNC02Ljc3IDguNjAzLTIyLjY3NSA3LjYzOS00Ni41NTEtMi45MDMtNzEuOTQxbC0yLjcyNC02LjU1OS02LjQ3Ni0uMTczYy0zLjU2MS0uMDk2LTEwLjQzLjQ1MS0xNS4yNjQgMS4yMTRtLTIxNi41NzggNS44OTJjLTExLjQ1MyAyNS44OTEtMTIuNzk3IDUxLjI4LTMuOTA3IDczLjgxNyAxLjY4MSA0LjI2MiAzLjQ3MiA3Ljc1IDMuOTc5IDcuNzUuOTg3IDAgNC40MTgtMS41NDggMjMuMjk1LTEwLjUxIDI0LjI2Ni0xMS41MiAyNi43MDYtMTIuNjE3IDI3LjEyNy0xMi4xOTcuMjM2LjIzNy0yLjYyMSAyLjA3LTYuMzQ5IDQuMDc1QzgyLjU1IDIwNi4zNzMgNzQuNzc1IDIxMC43MDcgNjkgMjE0Yy01Ljc3NSAzLjI5My0xMy41MzggNy42MjEtMTcuMjUgOS42MTctNy44NyA0LjIzMy03Ljg3IDQuMjM0LTMuMDgyIDExLjM5NiA4Ljg4NSAxMy4yOTEgMjEuNzc1IDI0LjU2MiAzNi4xNTMgMzEuNjEyIDkuNjQxIDQuNzI4IDIyLjgzOCA5LjM3NSAyNi42MjIgOS4zNzUgNC42OTYgMCAxNy44NDMtMjEuMTg3IDIzLjI2OS0zNy41IDMuODA5LTExLjQ0NyA0LjAwMy0zMi40NDIuMzk4LTQzLTExLjk1Ni0zNS4wMjEtNDAuOTEyLTU2LjE1Mi03OS43NS01OC4xOTlsLTExLjE0LS41ODctMi4wODcgNC43MTkiIHN0cm9rZT0iI2VmNTYyZCIgZmlsbC1ydWxlPSJldmVub2RkIiBmaWxsPSIjZWY1NjJkIj48L3BhdGg+PHBhdGggY2xhc3M9InN2Zy1lbGVtLTIiIGQ9Ik0xNDYgMS42MzljLTEuMzc1LjIwMi01Ljg3NS44NS0xMCAxLjQ0Qzc0LjUwMSAxMS44NzMgMjIuMTk0IDU5LjAyNCA3LjAwMSAxMTkuMzY0LTIyLjcxOSAyMzcuMzk0IDgzLjE0OCAzNDEuOTYzIDIwMS41IDMxMS40OGM0Ny44ODctMTIuMzM0IDg5LjA1OC00OS45NzcgMTA2Ljg5NC05Ny43MzYgMTIuMDAzLTMyLjE0MSAxMi42OS02OS44OTcgMS44OTctMTA0LjI0NC0xNS40NjktNDkuMjI0LTU5LjkzOS05MC42NTUtMTExLjA3LTEwMy40ODFDMTgyLjkwMiAxLjkyNiAxNTguMDA2LS4xMjMgMTQ2IDEuNjM5bS05LjM4MiA5LjAwNkM3Ni43NDcgMTkuMjk5IDI4LjM4NCA2NC43ODIgMTIuODk0IDEyN2MtMy4yMDkgMTIuODktMy41MjMgNDguNjMxLS41NCA2MS41IDE3LjI5NCA3NC42MDcgNzguMTc3IDEyMi41ODYgMTUyLjUyMiAxMjAuMTk2IDcwLjQ3Mi0yLjI2NiAxMjYuMzM1LTQ5LjI5NiAxNDIuNzctMTIwLjE5NiAzLjE1Mi0xMy42MDEgMi42OTEtNDguNjc1LS44MjMtNjIuNTFDMjg2Ljg2IDQ3LjM3OSAyMTUuNzcyLS43OTYgMTM2LjYxOCAxMC42NDVtOTQuODgyIDkxLjdjLTUuNjQ5IDQuNjY5LTIwLjU2NyAxMy41NjctMzAgMTcuODk0LTM1LjQ4NyAxNi4yNzgtNzEuNTI1IDEyLjA4Mi0xMDkuNzg5LTEyLjc4My00LjgzNC0zLjE0MS04LjkyMi01LjU0MS05LjA4NS01LjMzNC0uMTYzLjIwOC0yLjM5NyA0LjI3NC00Ljk2MyA5LjAzNWwtNC42NjcgOC42NTcgNi43NTIgMy43MDljMjcuOTg2IDE1LjM3MSA1NC43ODQgMzguOTE2IDYyLjYyMyA1NS4wMjQgNy4zMzQgMTUuMDY5IDEwLjk0MiAzNS4yIDExLjA1OSA2MS43MDNsLjA3IDE1Ljc1IDEwLS4wMDIgMTAtLjAwMS4wMTktMjIuMjQ4Yy4wNDEtNDguMzQzIDkuMTUxLTY5LjEyNCA0Mi4zNC05Ni41ODMgNi40MjktNS4zMTkgMjEuNTAzLTE1Ljc3NiAyOC4zODUtMTkuNjlsMy43NDQtMi4xMjktNS43NDQtOC4xNTdjLTYuNjc1LTkuNDc4LTUuNjgxLTkuMDMtMTAuNzQ0LTQuODQ1IiBzdHJva2Utd2lkdGg9IjMiIHN0cm9rZT0iIzBhNTMyYyIgZmlsbC1ydWxlPSJldmVub2RkIiBmaWxsPSIjMGE1MzJjIj48L3BhdGg+PC9zdmc+");
-            background-repeat: no-repeat;
-            background-position: center;
-	
-    transform: translateY(-50%) rotate(0deg); /* Sets the starting rotation */
-    transition: transform 0.3s ease-in-out; /* This makes the rotation smooth! */
+    line-height: 1;
+    right: 1rem;
+    top: 50%;
+    transform: translateY(-50%) rotate(0deg);
+    transition: transform 0.65s cubic-bezier(0.25, 1, 0.5, 1);
 }
 
-details[open] > summary::before {
-    transform: translateY(-50%) rotate(450deg); /* Rotates the icon 90 degrees */
+.yck-component details[open] > summary::after {
+    transform: translateY(-50%) rotate(135deg);
 }
 
-details::details-content {
-    font-size: var(--yck-step-0);
-    padding-left: 1.5rem;
-    height:  0;
-    transition:
-        height 1s cubic-bezier(0.390, 0.575, 0.565, 1.000),
-        content-visibility 1s cubic-bezier(0.390, 0.575, 0.565, 1.000);
-    transition-behavior: allow-discrete;
-}
-
-details[open]::details-content {
-    height: auto;
-}
-
-.fade-in {
-    -webkit-animation: fade-in 1.2s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
-    animation: fade-in 1s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
-}
-
-/**
- * ----------------------------------------
- * animation fade-in
- * ----------------------------------------
- */
-@-webkit-keyframes fade-in {
-    0% {
-        opacity: 0;
-    }
-
-    100% {
-        opacity: 1;
-    }
+.yck-component details > *:not(summary) {
+    padding: 1rem 1.5rem 1.5rem 1.5rem;
+    animation: fade-in 0.5s ease 0.5s;
+    animation-fill-mode: both;
 }
 
 @keyframes fade-in {
-    0% {
+    from {
         opacity: 0;
+        transform: translateY(-10px);
     }
 
-    100% {
+    to {
         opacity: 1;
+        transform: translateY(0);
     }
 }
 
-@-webkit-keyframes fade-out {
-    0% {
-        opacity: 1;
-    }
-
-    100% {
-        opacity: 0;
-    }
+/* Main container for the entire organizational chart */
+.org-chart {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 1600px;
+    /* Allows for a wider chart */
 }
 
-@keyframes fade-out {
-    0% {
-        opacity: 1;
-    }
-
-    100% {
-        opacity: 0;
-    }
+/* Styling for major section titles like "School Leaders" */
+.section-title {
+    font-size: var(--yck-step-2);
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: #222;
+    border-bottom: 3px solid #555;
+    padding-bottom: 8px;
+    width: 100%;
+    text-align: center;
 }
-	
-.masthead {
+
+/* Container for a group of people, e.g., all school leaders */
+.person-container {
     display: flex;
     justify-content: center;
-    align-items: flex-start;
-    flex-direction: column;
-    text-align: left;
+    flex-wrap: wrap;
     width: 100%;
-    min-width: 500px;
-    height: 75vh;
-    /* if you don't want it to take up the full screen, reduce this number */
-    overflow: hidden;
-    background-size: cover !important;
-    margin: 0 auto;
-    padding: var(--yck-spacing-unit);
-
+    margin-bottom: 25px;
+    position: relative;
+    /* Needed for the pseudo-element connector line */
 }
 
-#schsongbg {
-    background: linear-gradient(to left, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0.6) 37%, rgba(255, 255, 255, 0.45) 60%, rgba(255, 255, 255, 0.85) 80%, rgba(255, 255, 255, 1) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Story/School%20Song/Sch_SongBG.png) no-repeat center center scroll;
+/* A simple vertical line connecting a section title to its content below */
+.person-container::before {
+    content: "";
+    position: absolute;
+    top: -15px;
+    /* Positioned just below the title */
+    left: 50%;
+    transform: translateX(-50%);
+    width: 2px;
+    height: 15px;
+    background-color: #777;
 }
 
-.masthead h2 {
-    font-style: normal;
-    font-weight: 700;
+/* Styling for department and staff group containers */
+.department,
+.staff-group {
+    width: 100%;
+    margin-bottom: 30px;
+    padding: 15px;
+    border: 1px solid #d0d0d0;
+    border-radius: 8px;
+    background-color: #fdfdfd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+/* Titles for individual departments or non-teaching staff groups */
+.department-name,
+.group-name {
+    font-size: var(--yck-step-1);
+    font-weight: bold;
     color: #333;
-    letter-spacing: 0.03em;
-    font-size: var(--yck-step-4);
-    text-shadow: 1px 2px 4px rgba(24, 24, 24, 0.5);
+    margin-bottom: 15px;
+    text-align: center;
+    border-bottom: 1px dashed #aaa;
+    padding-bottom: 10px;
 }
 
-.masthead p {
-    font-style: normal;
-    font-weight: 500;
-    color: #444;
-    font-size: var(--yck-step-2);
-    letter-spacing: 0.03em;
-    line-height: 1.5;
-    text-shadow: 1px 2px 2px rgba(24, 24, 24, 0.25);
+/* Grid layout for displaying people within a department or group */
+.people-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    /* Provides spacing between individual person cards */
 }
-</style></div>
+
+/* Individual card for each person */
+.person {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    padding: 10px 15px;
+    margin: 5px;
+    text-align: center;
+    min-width: 25ch;
+    max-width: 50ch;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+    flex-grow: 1;
+    /* Prevents cards from growing to fill space */
+    flex-shrink: 0;
+    /* Prevents cards from shrinking */
+    flex-basis: calc(20% - 10px);
+    /* Aims for 5 cards per row, adjusting for gap */
+}
+
+/* Name of the person */
+.person-name {
+    font-size: var(--yck-step-0);
+    font-weight: bold;
+    margin-bottom: 4px;
+    color: #333;
+}
+
+/* Title/role of the person */
+.person-title {
+    font-size: calc(var(--yck-step-0) * 0.85);
+    color: #555;
+    margin-bottom: 8px;
+    /* Add some space before the details tag */
+}
+
+.person details {
+    font-size: calc(var(--yck-step-0) * 0.8);
+    cursor: pointer;
+}
+
+/* --- Tier-Specific Styling --- */
+
+/* Special styling for school leader cards */
+.school-leaders .person {
+    background-color: #e0eafc;
+    border-color: #abc4ff;
+    flex-basis: calc(33% - 20px);
+    /* Aims for 3 leaders per row */
+}
+
+/* Special styling for key personnel cards */
+.key-personnel .person {
+    background-color: #dcf0dc;
+    border-color: #a0c0a0;
+    flex-basis: calc(33.33% - 10px);
+    /* Aims for 3 per row */
+}
+
+/* Styling for teaching staff cards within departments */
+.department .person {
+    background-color: #fff5e6;
+    border-color: #ffd5ab;
+    flex-basis: calc(25% - 10px);
+    /* Aims for 4 per row */
+}
+
+/* Styling for non-teaching staff cards within groups */
+.staff-group .person {
+    background-color: #e6f2ff;
+    border-color: #adccef;
+    flex-basis: calc(25% - 10px);
+    /* Aims for 4 per row */
+}
+
+/* --- Responsive Adjustments for Different Screen Sizes --- */
+
+@media (max-width: 1200px) {
+    .person {
+        flex-basis: calc(25% - 10px);
+        /* 4 cards per row */
+    }
+
+    .school-leaders .person {
+        flex-basis: calc(50% - 20px);
+        /* 2 leader cards per row */
+    }
+}
+
+@media (max-width: 900px) {
+    .person {
+        flex-basis: calc(33.33% - 10px);
+        /* 3 cards per row */
+    }
+}
+
+@media (max-width: 600px) {
+    .person {
+        flex-basis: calc(50% - 10px);
+        /* 2 cards per row */
+    }
+
+    .department-name,
+    .group-name {
+        font-size: var(--yck-step-0);
+    }
+
+    .section-title {
+        font-size: var(--yck-step-1);
+    }
+}
+
+@media (max-width: 400px) {
+    .person {
+        flex-basis: calc(100% - 10px);
+        /* 1 card per row */
+    }
+}
+
+</style>

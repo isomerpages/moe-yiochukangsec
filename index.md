@@ -24,6 +24,16 @@ sections:
       title: Home Heart Hope
       subtitle: asefas
   - infopic:
+      title: YCKSS e-Open House
+      subtitle: A Unique Way to Experience
+      id: infopic
+      description: Join us for an immersive 360° virtual tour and explore our vibrant
+        campus from anywhere.
+      button: Start Your Tour! 👉🏻
+      url: https://4d.silvrcraft.com/yckss360vt/index.htm
+      image: /images/openhouse.jpg
+      alt: YCKSS e-Open House
+  - infopic:
       title: 60th Anniversary Celebration
       subtitle: YIO CHU KANG SECONDARY SCHOOL
       id: infopic
