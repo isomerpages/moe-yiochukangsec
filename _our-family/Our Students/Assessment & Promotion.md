@@ -28,56 +28,57 @@ Students’ overall results (except those of graduating classes) are based on bo
 .tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table style="word-wrap: break-word; text-wrap: pretty" class="yck-table">
 <thead>
   <tr>
-    <th class="tg-4ufn"><span style="font-weight:bolder">Term 1</span></th>
-    <th class="tg-4ufn" colspan="2"><span style="font-weight:bolder">Term 2</span></th>
-    <th class="tg-4ufn"><span style="font-weight:bolder">Term 3</span></th>
-    <th class="tg-4ufn"><span style="font-weight:bolder">Term 4</span></th>
-    <th class="tg-0lax"></th>
+		<th class="yck-th"></th>
+    <th class="yck-th"><span style="font-weight:bolder">TERM 1</span></th>
+    <th class="yck-th"><span style="font-weight:bolder">TERM 2</span></th>
+   <th class="yck-th"><span style="font-weight:bolder">TERM 3</span></th>
+   <th class="yck-th"><span style="font-weight:bolder">TERM 4</span></th>
+   <th class="yck-th"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-4ufn"></td>
-    <td class="tg-ykyb"><span style="color:#222;background-color:transparent">WEIGHTED</span><br><span style="color:#222;background-color:transparent">ASSESSMENT</span></td>
-    <td class="tg-ykyb"><span style="color:#222;background-color:transparent">WEIGHTED</span><br><span style="color:#222;background-color:transparent">ASSESSMENT</span></td>
-    <td class="tg-ykyb"><span style="color:#222;background-color:transparent">MID-YEAR EXAM</span></td>
-    <td class="tg-ykyb"><span style="color:#222;background-color:transparent">WEIGHTED</span><br><span style="color:#222;background-color:transparent">ASSESSMENT</span></td>
-    <td class="tg-ykyb"><span style="color:#222;background-color:transparent">END-OF-YEAR EXAM</span></td>
+    <td style="min-width: 10ch" class="yck-td"></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent; text-align: center">Weighted</span><br><span style="color:#222;background-color:transparent">Assessment</span></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent">Weighted</span><br><span style="color:#222;background-color:transparent">Assessment</span></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent">Mid-Year Examination</span></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent">Weighted</span><br><span style="color:#222;background-color:transparent">Assessment</span></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent">End-Of-Year Examination</span></td>
   </tr>
   <tr>
-    <td class="tg-ykyb"><span style="color:#222;background-color:transparent"> Sec 1</span></td>
-    <td class="tg-ykyb"><span style="color:#222;background-color:transparent"> 15%</span></td>
-    <td class="tg-ykyb"><span style="color:#222;background-color:transparent"> 15%</span></td>
-    <td class="tg-ykyb"><span style="color:#222;background-color:transparent"> -</span></td>
-    <td class="tg-ykyb"><span style="color:#222;background-color:transparent"> 15%</span></td>
-    <td class="tg-ykyb"><span style="color:#222;background-color:transparent">55% </span></td>
+    <td style="min-width: 10ch" class="yck-td"><span style="color:#222;background-color:transparent"> Sec 1</span></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent"> 15%</span></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent"> 15%</span></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent"> -</span></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent">15%</span></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent">55% </span></td>
   </tr>
   <tr>
-    <td class="tg-ykyb"><span style="color:#222;background-color:transparent"> Sec 2</span></td>
-    <td class="tg-ykyb"><span style="color:#222;background-color:transparent">15% </span></td>
-    <td class="tg-ykyb"><span style="color:#222;background-color:transparent">15%</span></td>
-    <td class="tg-ykyb"><span style="color:#222;background-color:transparent">-</span></td>
-    <td class="tg-ykyb"><span style="color:#222;background-color:transparent">15% </span></td>
-    <td class="tg-ykyb"><span style="color:#222;background-color:transparent"> 55%</span></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent"> Sec 2</span></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent">15% </span></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent">15%</span></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent">-</span></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent">15% </span></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent"> 55%</span></td>
   </tr>
   <tr>
-    <td class="tg-ykyb"><span style="color:#222;background-color:transparent"> Sec 3</span></td>
-    <td class="tg-ykyb"><span style="color:#222;background-color:transparent">15% </span></td>
-    <td class="tg-ykyb"><span style="color:#222;background-color:transparent">15% </span></td>
-    <td class="tg-ykyb"><span style="color:#222;background-color:transparent"> -</span></td>
-    <td class="tg-ykyb"><span style="color:#222;background-color:transparent">15% </span></td>
-    <td class="tg-ykyb"><span style="color:#222;background-color:transparent">55% </span></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent"> Sec 3</span></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent">15% </span></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent">15% </span></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent"> -</span></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent">15% </span></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent">55% </span></td>
   </tr>
   <tr>
-    <td class="tg-ykyb"><span style="color:#222;background-color:transparent"> Sec 4/5</span></td>
-    <td class="tg-ykyb"><span style="color:#222;background-color:transparent">100% </span></td>
-    <td class="tg-ykyb"><span style="color:#222;background-color:transparent"> -</span></td>
-    <td class="tg-ykyb"><span style="color:#222;background-color:transparent">100% </span></td>
-    <td class="tg-ykyb"><span style="color:#222;background-color:transparent"> 100% (Prelim Exams)</span></td>
-    <td class="tg-ykyb"><span style="color:#222;background-color:transparent"> -</span></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent"> Sec 4/5</span></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent">100% </span></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent"> -</span></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent">100% </span></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent">100% (Prelim Exams)</span></td>
+    <td class="yck-td"><span style="color:#222;background-color:transparent"> -</span></td>
   </tr>
 </tbody>
 </table><br><br>
