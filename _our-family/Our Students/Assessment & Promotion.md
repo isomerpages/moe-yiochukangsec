@@ -118,17 +118,16 @@ Students’ overall results (except those of graduating classes) are based on bo
 </tbody>
 </table>
 	<div class="small" id="note1"><sup>(1)</sup>End-Of-Course Assessment comprises: (i) a <strong>Coursework component</strong>; and (ii) a <strong>Theory component</strong>.</div>
-<p>Absenteeism from any SBA must be supported with a&nbsp;<b>valid medical certificate</b>. Otherwise, a zero mark will be awarded for the paper. If a student is unable to sit for any SBA due to adverse conditions (e.g. bereavement), the student must seek approval from the school with the relevant supporting documents (e.g.&nbsp; death certificate).
+	<p>Absenteeism from any <abbr title="School Based Assessment">SBA</abbr> must be supported with a&nbsp;<b>valid medical certificate</b>. Otherwise, a zero mark will be awarded for the paper. If a student is unable to sit for any SBA due to adverse conditions (e.g. bereavement), the student must seek approval from the school with the relevant supporting documents (e.g.&nbsp; death certificate).
 			</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+<hr></div>
 
 </li>
+</ul>
 
 
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
+<div>
 
 <p> <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -164,7 +163,7 @@ Students’ overall results (except those of graduating classes) are based on bo
 	
 
 	
-</ul>
+
 
 <style>
 	/* Box Sizing */
@@ -420,7 +419,22 @@ hr {
 }
 .yck-component .small ul li {
 	line-height: 0.5;
-	}
+}
+	
+.yck-component abbr,
+abbr {
+    text-decoration: underline dotted #2c6139;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+    color: #2c6139;
+    font-weight: 600;
+    cursor: help;
+}
+
+.yck-component abbr:hover,
+abbr:hover {
+    color: #4e835b;
+}
 
 .yck-component a {
     text-decoration: none;
@@ -476,7 +490,7 @@ abbr:hover {
 .yck-component .yck-table {
     border-collapse: collapse;
     width: 100%;
-    min-width: 360px;
+    min-width: 160px;
     margin-bottom: var(--yck-space-s-xl);
     font-size: var(--yck-step--1);
     border: 1px dotted lightgrey;
