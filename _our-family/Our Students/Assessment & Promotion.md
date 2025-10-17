@@ -178,7 +178,6 @@ Students’ overall results (except those of graduating classes) are based on bo
 * {
     margin: 0;
     padding: 0;
-	outline: 0px dotted red
 }
 
 /* Typography */
@@ -263,7 +262,7 @@ img {
     --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
 
-     --yck-space-s-xl: clamp(0.625rem, -0.239rem + 4.32vw, 3rem)
+     --yck-space-s-xl: clamp(0.625rem, -0.239rem + 4.32vw, 3rem);
      /* clamp(1.125em, 0.2143em + 3.9286vw, 3.5em); */
 
     --font-system-ui: system-ui, sans-serif;
@@ -412,7 +411,7 @@ video {
 .yck-component hr,
 hr {
     border: 1px dotted rgba(0, 0, 0, 0.25);
-    margin-block: clamp(1rem, 2vw, 2.5rem);
+    margin-block: clamp(1rem, 1.125rem + 2vw, 2.5rem);
 }
 
 .yck-component .small {
@@ -477,7 +476,7 @@ abbr:hover {
 .yck-component .yck-table {
     border-collapse: collapse;
     width: 100%;
-    min-width: 120px;
+    min-width: 360px;
     margin-bottom: var(--yck-space-s-xl);
     font-size: var(--yck-step--1);
     border: 1px dotted lightgrey;
@@ -486,7 +485,8 @@ abbr:hover {
   border-radius: 8px; /* Rounded corners for a modern look */
   overflow: hidden; /* Ensures box-shadow and border-radius clip correctly */
 }
-
+	
+.yck-component thead,
 .yck-component .yck-th {
     background-color: #cfcfcf;
     text-align: center;
@@ -500,18 +500,20 @@ abbr:hover {
     vertical-align: top;
 	 text-wrap: balance;
 }
-	.yck-component .yck-th:nth-child(1),
+
+.yck-component .yck-th:nth-child(1),
 .yck-component .yck-td:nth-child(1) {
 	min-width: 10ch;
 	font-weight: 700;
 	}
+	
 .yck-component .yck-td:nth-child(n+2) {
 	text-align: center;
 	min-width: 14ch;
 	}
+	
 .yck-component .yck-td {
     border-bottom: 1px dotted #ddd;
-    min-width: 120px;
     max-width: 100%;
     font-size: var(--yck-step--1);
     word-wrap: break-word;
@@ -557,7 +559,7 @@ abbr:hover {
 /* Responsive adjustments */
 @media (max-width: 768px) {
     .yck-component .yck-table {
-        font-size: calc(var(--yck-step-0) * 0.9);
+        font-size: calc(var(--yck-step--1) * 0.9);
     }
 
     .yck-component .yck-th,
