@@ -6,7 +6,10 @@ variant: markdown
 ---
 <div class="yck-component">
 	<div class="regular-flow">
+		<details style="display: none;">
+			<summary>YCKSS Alumni Registration Form</summary>
 	<iframe loading="lazy" frameborder="0" name="YCKSSAlumniRegForm" title="YCKSS Alumni Registration Form on form.gov.sg" height="4000px" width="100%" src="https://form.gov.sg/68ca489fd0a59f37d0f4199b"></iframe>
+		</details>
 		<div style="display: none;" class="isomer-card">
 			<div class="isomer-card-body">
 				<div class="isomer-card-image">
@@ -76,7 +79,6 @@ variant: markdown
     </div>
 </div>
 
-	
 <style>
 /* 
  * CSS Reset 
@@ -1389,7 +1391,7 @@ abbr:hover {
     margin: 0 !important;
 }
 
-.yck-component details > ul {
+.yck-component details>ul {
     list-style: none;
 }
 
@@ -1425,11 +1427,11 @@ abbr:hover {
     transition: transform 0.65s cubic-bezier(0.25, 1, 0.5, 1);
 }
 
-.yck-component details[open] > summary::after {
+.yck-component details[open]>summary::after {
     transform: translateY(-50%) rotate(135deg);
 }
 
-.yck-component details > *:not(summary) {
+.yck-component details>*:not(summary) {
     padding: 1rem 1.5rem 1.5rem 1.5rem;
     animation: fade-in 0.5s ease 0.5s;
     animation-fill-mode: both;
@@ -1446,7 +1448,7 @@ abbr:hover {
         transform: translateY(0);
     }
 }
-
+	
 /* Main container for the entire organizational chart */
 .org-chart {
     display: flex;
