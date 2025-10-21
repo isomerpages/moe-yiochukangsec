@@ -20,93 +20,69 @@ variant: markdown
 
 
 <ul class="jekyllcodex_accordion">
-
-&nbsp;&nbsp;<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Alumni&nbsp;Engagement Sessions&nbsp;2020</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-<p> (ECG) to equip our students with the necessary knowledge, skills and values to make important life choices at each key education stage for the successful transition from school to further education or work, the school invited our alumni to share their life experiences in secondary and post-sec institutions.<br><br>
-	
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-8rcp{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
+<li>
+<input type="checkbox" id="accordion1">
+<label for="accordion1">Alumni&nbsp;Engagement Sessions&nbsp;2020</label>
+<div>
+<p> (ECG) to equip our students with the necessary knowledge, skills and values to make important life choices at each key education stage for the successful transition from school to further education or work, the school invited our alumni to share their life experiences in secondary and post-sec institutions.</p>
+<table class="yck-table">
 <thead>
   <tr>
-    <th class="tg-8rcp">Name of Alumni</th>
-    <th class="tg-8rcp">Education Pathways</th>
-    <th class="tg-8rcp">Target Audience</th>
+    <th class="yck-th">Name of Alumni</th>
+    <th class="yck-th">Education Pathways</th>
+    <th class="yck-th">Target Audience</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zr06">Tan Jing Wei</td>
-    <td class="tg-zr06">From 4NT &gt; NITEC in western Culinary Arts &gt; Technical Diploma in Culinary Arts</td>
-    <td class="tg-zr06">Sec 4NT</td>
+    <td class="yck-td">Tan Jing Wei</td>
+    <td class="yck-td">From 4NT &gt; NITEC in western Culinary Arts &gt; Technical Diploma in Culinary Arts</td>
+    <td class="yck-td">Sec 4NT</td>
   </tr>
   <tr>
-    <td class="tg-zr06">Tan Xuan Ling</td>
-    <td class="tg-zr06">From 4NT &gt; NITEC in Finance Services &gt; Common Business Programme in Nanyang Polytechnic</td>
-    <td class="tg-zr06">Sec 4NT</td>
+    <td class="yck-td">Tan Xuan Ling</td>
+    <td class="yck-td">From 4NT &gt; NITEC in Finance Services &gt; Common Business Programme in Nanyang Polytechnic</td>
+   <td class="yck-td">Sec 4NT</td>
   </tr>
   <tr>
-    <td class="tg-zr06">Oh Jia Shang</td>
-    <td class="tg-zr06">From Sec 4E &gt; Raffles Junior College &gt; NUS Global Merit Scholarship</td>
-    <td class="tg-zr06">Sec 1 to 5</td>
+    <td class="yck-td">Oh Jia Shang</td>
+    <td class="yck-td">From Sec 4E &gt; Raffles Junior College &gt; NUS Global Merit Scholarship</td>
+    <td class="yck-td">Sec 1 to 5</td>
   </tr>
   <tr>
-    <td class="tg-zr06">Kerk Shi Ying</td>
-    <td class="tg-zr06">From Sec 4NA &gt; Sec 5NA &gt; Higher NITEC &gt; Ngee Ann Polytechnic</td>
-    <td class="tg-zr06">Sec 1 to 5</td>
+    <td class="yck-td">Kerk Shi Ying</td>
+    <td class="yck-td">From Sec 4NA &gt; Sec 5NA &gt; Higher NITEC &gt; Ngee Ann Polytechnic</td>
+    <td class="yck-td">Sec 1 to 5</td>
   </tr>
   <tr>
-    <td class="tg-zr06">Lee Cheng Mun</td>
-    <td class="tg-zr06">From Sec 4NA &gt; NITEC &gt; Singapore Polytechnic</td>
-    <td class="tg-zr06">Sec 1 to 5</td>
+    <td class="yck-td">Lee Cheng Mun</td>
+    <td class="yck-td">From Sec 4NA &gt; NITEC &gt; Singapore Polytechnic</td>
+    <td class="yck-td">Sec 1 to 5</td>
   </tr>
 </tbody>
-</table><br><br>
-			<img style="width:100%;height:50%" src="/images/Our%20Family/Alumni/Alumni%20Engagement%20Se%202020/A1.png">
-			<img style="width:100%;height:50%" src="/images/Our%20Family/Alumni/Alumni%20Engagement%20Se%202020/A2.png">
-			</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+</table>
+	<figure>
+			<img src="/images/Our%20Family/Alumni/Alumni%20Engagement%20Se%202020/A1.png"></figure>
+			<img src="/images/Our%20Family/Alumni/Alumni%20Engagement%20Se%202020/A2.png">
+</div>
 
 </li>
 	<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">NSmen/NSF&nbsp;Alumni Sharing&nbsp;Session&nbsp;2019</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>NSmen/NSF Alumni Sharing Session 2019<br>
-
-Educating our students on the importance of National Service (NS) is a key component of National Education (NE) and Character and Citizenship Education (CCE). On 16 August 2019, Yio Chu Kang Secondary School collaborated with the SAF and Home Team to invite alumni to engage our students on their National Service (NS) experience.<br>&nbsp;
-
-Together with the officers from the Army, our Alumni, Dustin Wong, Chia Yi You and Muhammad Aliff Adha Bin Rosli engaged our students with their personal encounters. In order to make the session relevant to the girls, female officers were invited to share on their journey.<br>&nbsp;
-
-Good rapport was built when the students responded enthusiastically and positively. There was continuous string of questions asked on matters ranging from pre-enlistment procedures and preparation, to life during BMT, the process of becoming a regular National Serviceman and lasting comradeship formed during NS.<br>&nbsp;
-
-This engagement session helped our younger generation – Sec 3 students to better appreciate and understand the importance of National Service (NS) also provided information on how male students can start preparing for NS. As for the girls, they learnt how they could support their spouse or explore army careers in the future.<br>
+<input type="checkbox" id="accordion2">
+<label for="accordion2">NSmen/NSF&nbsp;Alumni Sharing&nbsp;Session&nbsp;2019</label>
+<div>
+	<h3>NSmen/NSF Alumni Sharing Session 2019</h3>
+<p>Educating our students on the importance of National Service (NS) is a key component of National Education (NE) and Character and Citizenship Education (CCE). On 16 August 2019, Yio Chu Kang Secondary School collaborated with the SAF and Home Team to invite alumni to engage our students on their National Service (NS) experience</p>
+<p>Together with the officers from the Army, our Alumni, Dustin Wong, Chia Yi You and Muhammad Aliff Adha Bin Rosli engaged our students with their personal encounters. In order to make the session relevant to the girls, female officers were invited to share on their journey.</p>
+<p>Good rapport was built when the students responded enthusiastically and positively. There was continuous string of questions asked on matters ranging from pre-enlistment procedures and preparation, to life during BMT, the process of becoming a regular National Serviceman and lasting comradeship formed during NS.</p>
+<p>This engagement session helped our younger generation – Sec 3 students to better appreciate and understand the importance of National Service (NS) also provided information on how male students can start preparing for NS. As for the girls, they learnt how they could support their spouse or explore army careers in the future.</p>
 				
-<img style="width:100%;height:50%" src="/images/Our%20Family/Alumni/NSmenNSF%20Alumni%20Sharing%20Se19/N1.png">
-				<img style="width:50%;height:50%" src="/images/Our%20Family/Alumni/NSmenNSF%20Alumni%20Sharing%20Se19/N2.jpg">
-				<img style="width:50%;height:50%" src="/images/Our%20Family/Alumni/NSmenNSF%20Alumni%20Sharing%20Se19/N3.jpg">
-</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+<img src="/images/Our%20Family/Alumni/NSmenNSF%20Alumni%20Sharing%20Se19/N1.png">
+<div class="yck-flexbox-grid">				
+	<img src="/images/Our%20Family/Alumni/NSmenNSF%20Alumni%20Sharing%20Se19/N2.jpg">
+	<img src="/images/Our%20Family/Alumni/NSmenNSF%20Alumni%20Sharing%20Se19/N3.jpg">
+	</div>
+</div>
 
 </li>
 	
@@ -139,9 +115,9 @@ This engagement session helped our younger generation – Sec 3 students to bett
 
 The first session was held on 16 July 2018. 10 Alumni stepped forward and were eager to share their own personal experiences while communicating the key messages. It was a good bonding and networking session amongst them.<br>
 	
-<img style="width:100%;height:50%" src="/images/Our%20Family/Alumni/NSmanNSF%20Engagement%20Se%202018/N1.png">
-		<img style="width:100%;height:50%" src="/images/Our%20Family/Alumni/NSmanNSF%20Engagement%20Se%202018/N2.png">
-			</p>
+</p><figure><img style="width:100%;height:50%" src="/images/Our%20Family/Alumni/NSmanNSF%20Engagement%20Se%202018/N1.png"></figure>
+		<figure><img style="width:100%;height:50%" src="/images/Our%20Family/Alumni/NSmanNSF%20Engagement%20Se%202018/N2.png"></figure>
+			<p></p>
 
 &nbsp;&nbsp;</div>
 
@@ -151,6 +127,8 @@ The first session was held on 16 July 2018. 10 Alumni stepped forward and were e
 
 	
 </ul>
+</div>
+</div>
 
 <style>
 	/* 
@@ -494,10 +472,6 @@ abbr:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    /*  display: grid;
-    place-items: center;
-    width: 100%;
-    height: auto; */
 }
 
 .yck-component .deadctr-content {
@@ -566,25 +540,6 @@ abbr:hover {
     list-style: none;
 }
 
-.masonry-container {
-    column-count: 3;
-    /* The number of columns you want */
-    column-gap: 1rem;
-    /* The space between columns */
-}
-
-.masonry-item {
-    break-inside: avoid;
-    margin-bottom: 1rem;
-    display: inline-block;
-    width: 100%;
-}
-
-.masonry-item img {
-    width: 100%;
-    height: auto;
-    display: block;
-}
 
 /* ==========================================================================
    4. UI Components
@@ -779,21 +734,6 @@ abbr:hover {
     height: 100%;
 }
 
-.yck-component .widescreentv {
-    aspect-ratio: 16/9;
-    width: 100%;
-}
-
-.yck-component .tallscreentv {
-    aspect-ratio: 9/16;
-    width: 100%;
-}
-
-.yck-component .sdtv {
-    aspect-ratio: 4/3;
-    width: 100%;
-}
-
 /* --- Isomer Cards --- */
 .yck-component .isomer-card,
 .yck-component .column {
@@ -895,7 +835,7 @@ abbr:hover {
 }
 
 /* --- Blockquotes & Figures --- */
-/* .yck-component .quote {
+ .yck-component .quote {
     margin: 2rem 1rem 1rem 5rem;
     padding: 1rem;
     width: fit-content;
@@ -925,39 +865,9 @@ abbr:hover {
     left: -6rem;
     top: 0.5rem;
     opacity: 0.3;
-} */
+} 
 
-/* .yck-component .blockquote {
-    font-family: "Georgia", serif;
-    font-weight: 400;
-    font-size: clamp(1.5rem, 1.25rem + 1dvi, 3rem);
-    letter-spacing: 0;
-    text-wrap: pretty;
-}
-
-.yck-component .blockquote p {
-    text-wrap: pretty;
-}
-
-.yck-component .blockquote q::before {
-    position: absolute;
-    margin-inline-start: -1ex;
-}
-
-.yck-component .blockquote q q::before {
-    position: static;
-    margin-inline-start: unset;
-}
-
-.yck-component .blockquote>* {
-    margin-block-start: calc(clamp(1.25ex, 2.5vmax, 1.75ex) / 4);
-}
-
-.yck-component .blockquote:not(:last-child) {
-    padding-block-end: calc(clamp(1.25ex, 2.5vmax, 1.75ex) / 2);
-} */
-
-/* .yck-component blockquote {
+/*  .yck-component blockquote {
     position: relative;
     padding: 25px 35px;
     background-color: white;
@@ -985,7 +895,7 @@ abbr:hover {
     font-size: 60px;
     font-family: Georgia, serif;
     opacity: 0.3;
-} */
+}  */
 
 .yck-component cite {
     display: block;
@@ -1019,76 +929,6 @@ abbr:hover {
     margin: 0;
     padding: 5px;
     text-align: center;
-}
-
-/* --- Integrated Navigation Bar Styles --- */
-.yck-component .yck-nav-bar>* {
-    margin: 0 auto;
-    padding: 0;
-}
-
-.yck-component .yck-nav-bar ul {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    list-style: none;
-    background-color: #ffffff;
-    border-radius: 0.75rem;
-    box-shadow: var(--yck-inset-shadow2);
-
-    justify-content: space-evenly;
-    align-content: start;
-    justify-items: center;
-    align-items: start;
-}
-
-.yck-component .yck-nav-bar a {
-    display: block;
-    text-decoration: none;
-    font-family: sans-serif;
-    font-weight: 500;
-    font-size: var(--yck-step-0);
-    transition: all 0.3s var(--yck-transition-timing);
-    margin: calc(var(--yck-spacing-unit) * 0.1);
-    padding: 1rem;
-    border-radius: 0.5rem;
-    text-align: center;
-    text-wrap: balance;
-    overflow-wrap: break-word;
-    color: #4a5568;
-    position: relative;
-}
-
-.yck-component .yck-nav-bar a::after {
-    content: "";
-    position: absolute;
-    width: 0;
-    height: 2px;
-    bottom: 10px;
-    left: 50%;
-    transform: translateX(-50%);
-    background-color: #4299e1;
-    /* Added background-color to the transition for the color fade effect */
-    transition:
-        width 0.7s var(--yck-transition-timing),
-        background-color 0.7s var(--yck-transition-timing);
-}
-
-.yck-component .yck-nav-bar a.active {
-    color: #2b6cb0;
-}
-
-.yck-component .yck-nav-bar a.active::after {
-    width: 60%;
-    background-color: #4299e1;
-}
-
-.yck-component .yck-nav-bar a:hover {
-    color: #e37f2a;
-}
-
-.yck-component .yck-nav-bar a:hover::after {
-    background-color: #e37f2a;
-    width: 60%;
 }
 
 .yck-component .truncate {
@@ -1155,30 +995,6 @@ abbr:hover {
     bottom: unset;
     /* transform: translateY(-30px); */
     transition-duration: 0.3s;
-}
-
-/* --- Backdrop --- */
-.yck-component .backdrop {
-    position: absolute;
-    inset: 0;
-    height: 200%;
-    border-radius: 4px;
-    background: hsl(0deg 0% 100% / 0.1);
-    pointer-events: none;
-    backdrop-filter: blur(16px);
-    mask-image: linear-gradient(to bottom, black 0, black 50%, transparent 50%);
-}
-
-.yck-component .backdrop-edge {
-    --thickness: 6px;
-    position: absolute;
-    inset: 0;
-    height: 100%;
-    transform: translateY(100%);
-    background: hsl(0deg 0% 100% / 0.1);
-    backdrop-filter: blur(8px) brightness(120%);
-    pointer-events: none;
-    mask-image: linear-gradient(to bottom, black 0, black var(--thickness), transparent var(--thickness));
 }
 
 /* ==========================================================================
@@ -1331,74 +1147,7 @@ abbr:hover {
     }
 }
 
-/* Basic carousel styling */
-.yck-component .carousel {
-    width: 100%;
-    height: 55vh;
-    /* 50% of the viewport height */
-    overflow: hidden;
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    scroll-snap-type: x mandatory;
-}
 
-.yck-component .carousel-images {
-    display: flex;
-    width: 300%;
-    /* Changed from 400% to accommodate the extra image */
-    animation: scroller 20s infinite alternate ease-in-out;
-    /* Increased duration to 40s for smoother transition */
-}
-
-/* Keyframe animation for 7 images */
-@keyframes scroller {
-
-    0%,
-    25% {
-        transform: translate3d(0, 0, 0);
-        /* Show the 1st image */
-        opacity: 1;
-    }
-
-    25%,
-    50% {
-        transform: translate3d(-100%, 0, 0);
-        /* Show the 2nd image */
-        opacity: 1;
-    }
-
-    50%,
-    75% {
-        transform: translate3d(-200%, 0, 0);
-        /* Show the 3rd image */
-        opacity: 1;
-    }
-
-    75%,
-    100% {
-        transform: translate3d(-300%, 0, 0);
-        /* Show the 4th image */
-        opacity: 1;
-    }
-}
-
-.yck-component .carousel:hover .carousel-images {
-    animation-play-state: paused;
-}
-
-.yck-component .carousel-images img {
-    scroll-snap-align: center;
-    /*padding-left: 20px;
-    padding-right: 20px;*/
-    max-width: 100%;
-    /* This ensures each image takes up the full width of the carousel */
-    height: 100%;
-    object-fit: cover;
-    flex-shrink: 0;
-    /* Prevents the images from shrinking */
-}
 
 /* --- Details Summary --- */
 .yck-component details {
@@ -1672,4 +1421,4 @@ abbr:hover {
         /* 1 card per row */
     }
 }
-</style></div></div>
+</style>
