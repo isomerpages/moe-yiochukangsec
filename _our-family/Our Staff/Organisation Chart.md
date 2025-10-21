@@ -488,7 +488,7 @@ third_nav_title: Our Staff
                         <div class="person-name">Mdm Lim Hui Qi</div>
                         <div class="person-title">Chinese Language</div>
                         <details>
-                            <summary>Email Address:</summary>lim_hui_qi<wbr>@moe.edu.sg
+                            <summary>Email Address:</summary>lim_hui_qi_a<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="ammaniammalilango">
