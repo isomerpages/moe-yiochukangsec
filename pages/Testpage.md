@@ -4,7 +4,7 @@ permalink: /testpage/
 description: ""
 variant: markdown
 ---
- <div class="yck-component">
+<div class="yck-component">
                                         <div class="regular-flow">
                                             <p>Students’ overall results (except those of graduating classes) are based on both Weighted Assessments and End-Of-Year Exams.</p>
                                             <hr>
@@ -112,19 +112,19 @@ variant: markdown
                                                     </table>
                                                     <div class="small" id="note1"><sup>(1)</sup>End-Of-Course Assessment comprises: (i) a <strong>Coursework component</strong>; and (ii) a <strong>Theory component</strong>.</div>
                                                     <p>Absenteeism from any <abbr title="School-Based Assessment">SBA</abbr> must be supported with a&nbsp;<b>valid medical certificate</b>. Otherwise, a zero mark will be awarded for the paper. If a student is unable to sit for any SBA due to adverse conditions (e.g. bereavement), the student must seek approval from the school with the relevant supporting documents (e.g.&nbsp; death certificate).
-                                                    </p>
-                                                </div>
-                                            </details>
-                                        </div>
-                                    </div>
-                                    <hr>
-                                    <div class="yck-component">
-                                        <div class="regular-flow">
-                                            <header>
-                                                <h3>YIO CHU KANG SECONDARY SCHOOL EXAMINATION RULES AND REGULATIONS</h3>
-                                            </header>
-                                            <section>
-                                                <h4>General</h4>
+</p>
+</div>
+</details>
+</div>
+</div>
+<hr>
+<div class="yck-component">
+<div class="regular-flow">
+<header>
+<h3>YIO CHU KANG SECONDARY SCHOOL EXAMINATION RULES AND REGULATIONS</h3>
+</header>
+<section>
+<h4>General</h4>
                                                 <ol>
                                                     <li>All students must report in full school uniform for the flag-raising and / or pledge-taking ceremony during the examination period by 7.30 am. No student is allowed to leave school before the end of the last paper for the day.</li>
                                                     <li>Students who have papers later in the morning are required to report in the morning by 7.30 am. Only students who do not have any papers on that day are not required to report to school.</li>
