@@ -119,80 +119,79 @@ variant: markdown
 </div>
 <hr>
 <div class="yck-component">
-<div class="regular-flow">
-<header>
-<h3>YIO CHU KANG SECONDARY SCHOOL EXAMINATION RULES AND REGULATIONS</h3>
-</header>
-<section>
-<h4>General</h4>
-                                                <ol>
-                                                    <li>All students must report in full school uniform for the flag-raising and / or pledge-taking ceremony during the examination period by 7.30 am. No student is allowed to leave school before the end of the last paper for the day.</li>
-                                                    <li>Students who have papers later in the morning are required to report in the morning by 7.30 am. Only students who do not have any papers on that day are not required to report to school.</li>
-                                                    <li>Students are to be present in the examination room/hall at least 10 minutes before the start of the examination. Students will not be given any additional time if they report late for examination.</li>
-                                                    <li>Absenteeism from any examination paper must be supported with a valid medical certificate. Otherwise, a zero mark will be awarded for the paper. If a student is unable to sit for any examination paper due to adverse conditions (e.g. bereavement), the student must first seek approval from the school with the relevant supporting documents (e.g. death certificate).</li>
-                                                    <li>Students are to use only black or blue ink pens when answering the questions. They are to bring their own stationery and materials required for the examination. No borrowing is permitted.</li>
-                                                    <li>Students are encouraged not to use correction type/fluid during the examination.</li>
-                                                    <li>Students should be seated according to their register number.</li>
-                                                    <li>Students are to ensure that their name, register number and class are written clearly on all answer sheets.</li>
-                                                    <li>Students are advised to:
-                                                        <ul>
-                                                            <li>read instructions carefully</li>
-                                                            <li>write legibly</li>
-                                                            <li>number the question papers correctly</li>
-                                                        </ul>
-                                                    </li>
-                                                    <li>Students are not allowed to carry mobile phones with them throughout the entire examination. Otherwise, they will be heavily penalised.</li>
-                                                    <li>Students are only allowed to go to the toilet accompanied by a teacher.</li>
-                                                </ol>
-                                            </section>
-                                            <section>
-                                                <h4>In the Examination Room</h4>
-                                                <ol>
-                                                    <li>Students should wait outside the examination room and only enter the room when the invigilator gives the permission to do so.</li>
-                                                    <li>All bags, books and related materials must be placed in front of the room before the start of the paper.</li>
-                                                    <li>Silence is to be observed at ALL times. Instructions given by the invigilators should be complied with.</li>
-                                                    <li>Students must notify the invigilator by raising their hands with regards to the following:
-                                                        <ul>
-                                                            <li>where there is a blank or missing page</li>
-                                                            <li>where the printing is unclear</li>
-                                                            <li>where the wrong paper has been given</li>
-                                                            <li>where materials to be provided by the school have not been received e.g. maps, grid paper, etc.</li>
-                                                        </ul>
-                                                    </li>
-                                                    <li>Students must not open the question and answer booklets or start reading and writing unless they are told to do so by the invigilator.</li>
-                                                    <li>Students are reminded to be extra vigilant in ensuring that all their answer scripts are handed up. Under NO circumstances will any answer script be accepted by the invigilator after the examination is over.</li>
-                                                    <li>Students must not eat in the examination room/hall. However, they are allowed to drink water and the water bottle must be placed on the floor next to their seat.</li>
-                                                    <li>Students must not leave the examination room during or before the paper ends, unless with the permission of the invigilator.</li>
-                                                    <li>Students are not allowed to go for toilet visit during the last fifteen minutes of the exam.</li>
-                                                </ol>
-                                            </section>
-                                            <section>
-                                                <h4>After the Examination</h4>
-                                                <ol>
-                                                    <li>Students are not allowed to bring unused writing paper out of the examination room.</li>
-                                                    <li>On leaving the examination room, students are to ensure that the room is kept clean and tidy.</li>
-                                                    <li>Dismissal should be in an orderly manner so as to minimise disturbance to the other students who may still be sitting for a paper. Students are not allowed to loiter outside the examination rooms after dismissal.</li>
-                                                </ol>
-                                            </section>
-                                            <section class="warning-section">
-                                                <h4>Warning</h4>
-                                                <p>A student may be prohibited from taking the examination, expelled from the examination room, refused entry for subsequent papers, have his/her results nullified or suffer a grade penalty if he/she does not comply with the following:</p>
-                                                <ol>
-                                                    <li>Any unauthorised electronic, communication, entertainment or gaming devices capable of capturing, storing, displaying and/or transmitting or receiving visual, audio or verbal information within the examination premises (e.g. Examination Room, Quarantine Room, Waiting Room). Examples of prohibited items include (but not limited to) mobile phones, cameras, tablets, earphones/earpieces (wired or wireless) and smart wrist watches/glasses, pen with image capturing capabilities and pen with erasable ink.</li>
-                                                    <li>Any unauthorised reference materials or notes. All stationery/belongings taken into the examination venue (e.g. pencil case, calculator cover, cover for ruler, entry proof) must not have any unauthorised notes/information written on them. You must also ensure you do not have any information or notes written on any parts of your body (e.g. hands and thighs).</li>
-                                                    <li>Students must not commit or attempt any acts of dishonesty, or the support of such acts (e.g. Taking the exam on someone else’s behalf, using unauthorised devices to gain an advantage, copying of answers).</li>
-                                                    <li>Students must not communicate or attempt to communicate with any other students inside or outside the examination room during the examination or any other occasion when communication is strictly prohibited (e.g. during group movement to the quarantine area).</li>
-                                                    <li>Students must not turn around and should also only face the front during the examination.</li>
-                                                    <li>Students must not write any offensive or obscene materials in their answer script.</li>
-                                                    <li>You must not exhibit improper conduct or misbehaviour during the examination. For example, disrupting other candidates, leaving examination area without approval or unescorted, not obeying instructions from examination personnel.</li>
-                                                    <li>You must not leave the examination room/hall, quarantine and holding room without permission from the examination personnel.</li>
-                                                    <li>You must not remove any answer booklet, writing paper, storage devices and other used or unused exam stationery from the examination venue.</li>
-                                                </ol>
-                                            </section>
-                                            <footer>
-                                                <p>Any student caught cheating or attempting to cheat will be severely dealt with.<br><strong>A zero mark will be awarded for the paper if investigations by the school confirm that cheating or an attempt to cheat has taken place.</strong></p>
-                                            </footer>
-                                        </div>
+    <div class="regular-flow">
+        <header>
+            <h3>YIO CHU KANG SECONDARY SCHOOL EXAMINATION RULES AND REGULATIONS</h3>
+        </header>
+        <section>
+            <h4>General</h4>
+            <ol>
+                <li>All students must report in full school uniform for the flag-raising and / or pledge-taking ceremony during the examination period by 7.30 am. No student is allowed to leave school before the end of the last paper for the day.</li>
+                <li>Students who have papers later in the morning are required to report in the morning by 7.30 am. Only students who do not have any papers on that day are not required to report to school.</li>
+                <li>Students are to be present in the examination room/hall at least 10 minutes before the start of the examination. Students will not be given any additional time if they report late for examination.</li>
+                <li>Absenteeism from any examination paper must be supported with a valid medical certificate. Otherwise, a zero mark will be awarded for the paper. If a student is unable to sit for any examination paper due to adverse conditions (e.g. bereavement), the student must first seek approval from the school with the relevant supporting documents (e.g. death certificate).</li>
+                <li>Students are to use only black or blue ink pens when answering the questions. They are to bring their own stationery and materials required for the examination. No borrowing is permitted.</li>
+                <li>Students are encouraged not to use correction type/fluid during the examination.</li>
+                <li>Students should be seated according to their register number.</li>
+                <li>Students are to ensure that their name, register number and class are written clearly on all answer sheets.</li>
+                <li>Students are advised to: <ul>
+                        <li>read instructions carefully</li>
+                        <li>write legibly</li>
+                        <li>number the question papers correctly</li>
+                    </ul>
+                </li>
+                <li>Students are not allowed to carry mobile phones with them throughout the entire examination. Otherwise, they will be heavily penalised.</li>
+                <li>Students are only allowed to go to the toilet accompanied by a teacher.</li>
+            </ol>
+        </section>
+        <section>
+            <h4>In the Examination Room</h4>
+            <ol>
+                <li>Students should wait outside the examination room and only enter the room when the invigilator gives the permission to do so.</li>
+                <li>All bags, books and related materials must be placed in front of the room before the start of the paper.</li>
+                <li>Silence is to be observed at ALL times. Instructions given by the invigilators should be complied with.</li>
+                <li>Students must notify the invigilator by raising their hands with regards to the following: <ul>
+                        <li>where there is a blank or missing page</li>
+                        <li>where the printing is unclear</li>
+                        <li>where the wrong paper has been given</li>
+                        <li>where materials to be provided by the school have not been received e.g. maps, grid paper, etc.</li>
+                    </ul>
+                </li>
+                <li>Students must not open the question and answer booklets or start reading and writing unless they are told to do so by the invigilator.</li>
+                <li>Students are reminded to be extra vigilant in ensuring that all their answer scripts are handed up. Under NO circumstances will any answer script be accepted by the invigilator after the examination is over.</li>
+                <li>Students must not eat in the examination room/hall. However, they are allowed to drink water and the water bottle must be placed on the floor next to their seat.</li>
+                <li>Students must not leave the examination room during or before the paper ends, unless with the permission of the invigilator.</li>
+                <li>Students are not allowed to go for toilet visit during the last fifteen minutes of the exam.</li>
+            </ol>
+        </section>
+        <section>
+            <h4>After the Examination</h4>
+            <ol>
+                <li>Students are not allowed to bring unused writing paper out of the examination room.</li>
+                <li>On leaving the examination room, students are to ensure that the room is kept clean and tidy.</li>
+                <li>Dismissal should be in an orderly manner so as to minimise disturbance to the other students who may still be sitting for a paper. Students are not allowed to loiter outside the examination rooms after dismissal.</li>
+            </ol>
+        </section>
+        <section class="warning-section">
+            <h4>Warning</h4>
+            <p>A student may be prohibited from taking the examination, expelled from the examination room, refused entry for subsequent papers, have his/her results nullified or suffer a grade penalty if he/she does not comply with the following:</p>
+            <ol>
+                <li>Any unauthorised electronic, communication, entertainment or gaming devices capable of capturing, storing, displaying and/or transmitting or receiving visual, audio or verbal information within the examination premises (e.g. Examination Room, Quarantine Room, Waiting Room). Examples of prohibited items include (but not limited to) mobile phones, cameras, tablets, earphones/earpieces (wired or wireless) and smart wrist watches/glasses, pen with image capturing capabilities and pen with erasable ink.</li>
+                <li>Any unauthorised reference materials or notes. All stationery/belongings taken into the examination venue (e.g. pencil case, calculator cover, cover for ruler, entry proof) must not have any unauthorised notes/information written on them. You must also ensure you do not have any information or notes written on any parts of your body (e.g. hands and thighs).</li>
+                <li>Students must not commit or attempt any acts of dishonesty, or the support of such acts (e.g. Taking the exam on someone else’s behalf, using unauthorised devices to gain an advantage, copying of answers).</li>
+                <li>Students must not communicate or attempt to communicate with any other students inside or outside the examination room during the examination or any other occasion when communication is strictly prohibited (e.g. during group movement to the quarantine area).</li>
+                <li>Students must not turn around and should also only face the front during the examination.</li>
+                <li>Students must not write any offensive or obscene materials in their answer script.</li>
+                <li>You must not exhibit improper conduct or misbehaviour during the examination. For example, disrupting other candidates, leaving examination area without approval or unescorted, not obeying instructions from examination personnel.</li>
+                <li>You must not leave the examination room/hall, quarantine and holding room without permission from the examination personnel.</li>
+                <li>You must not remove any answer booklet, writing paper, storage devices and other used or unused exam stationery from the examination venue.</li>
+            </ol>
+        </section>
+        <footer>
+            <p>Any student caught cheating or attempting to cheat will be severely dealt with.<br><strong>A zero mark will be awarded for the paper if investigations by the school confirm that cheating or an attempt to cheat has taken place.</strong></p>
+        </footer>
+    </div>
+</div>
                                         
 
 <div class="yck-component">
@@ -828,4 +827,4 @@ variant: markdown
         color: #dc2626;
         font-weight: 700;
     }
-    </style>a</div>
+    </style>a
