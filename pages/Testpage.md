@@ -6,6 +6,7 @@ variant: markdown
 ---
 <div class="yck-component">
 	<div class="regular-flow">
+	<iframe loading="lazy" frameborder="0" name="YCKSSAlumniRegForm" title="YCKSS Alumni Registration Form on form.gov.sg" height="4000px" width="100%" src="https://form.gov.sg/68ca489fd0a59f37d0f4199b"></iframe>
 		<div style="display: none;" class="isomer-card">
 			<div class="isomer-card-body">
 				<div class="isomer-card-image">
@@ -14,7 +15,7 @@ variant: markdown
 </div>
 </div>
 
-<div class="yck-component">
+<div style="display: none;" class="yck-component">
 	<div class="regular-class">
 	<div class="tabs">
   <input checked="checked" id="tabone" name="tabs" type="radio">
@@ -50,7 +51,7 @@ variant: markdown
 </div>
 	</div>
 </div>
-	<div class="yck-component">
+	<div style="display: none;" class="yck-component">
         <div class="regular-flow">
         <figure class="quote">
 		<blockquote>
@@ -63,7 +64,7 @@ variant: markdown
 	</div>
 	</div>
 
-<div class="yck-component">
+<div style="display: none;" class="yck-component">
 	<figure class="quote">
 		<blockquote>
 			<p>What an astonishing thing a book is. It's a flat object made from a tree with flexible parts on which are imprinted lots of funny dark squiggles. But one glance at it and you're inside the mind of another person, maybe somebody dead for thousands of years.</p> <p>Across the millennia, an author is speaking clearly and silently inside your head, directly to you. Writing is perhaps the greatest of human inventions, binding together people who never knew each other, citizens of distant epochs. Books break the shackles of time.</p> <p>A book is proof that humans are capable of working magic.</p>
