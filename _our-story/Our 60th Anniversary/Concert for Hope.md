@@ -6,7 +6,17 @@ description: ""
 image: /images/YCKLogo.svg
 third_nav_title: Our 60th Anniversary
 ---
-![](/images/60th%20Anniversary/Concert_for_Hope.jpg)
+<div class="yck-component">
+	<article class="regular-flow">
+		<h2>Concert for Hope - 60th Anniversary</h2>
+		<ul>
+		<li>Date: 21 November 2025, Friday</li>
+		<li>Time: 3 PM to 5 PM</li>
+			<li>Venue: The Performing Art Theatre@YCKSS</li>
+		</ul>
+<img alt="Poster for the Concert of Hope" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/60th%20Anniversary/Concert_for_Hope.jpg">
+	</article>
+	</div>
 
 <style>
 	/*
