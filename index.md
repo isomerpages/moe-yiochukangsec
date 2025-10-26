@@ -34,6 +34,16 @@ sections:
       image: /images/openhouse.jpg
       alt: YCKSS e-Open House
   - infopic:
+      title: Concert for Hope
+      subtitle: Celebrating Home, Heart & Hope
+      id: infopic
+      description: Experience a heartfelt evening of music and dance with our
+        Performing Art Groups. Let the Home, Heart, and Hope inspire us all!
+      button: Join Us ...
+      url: https://www.yiochukangsec.moe.edu.sg/our-story/our-60th-anniversary/concert-for-hope/
+      image: /images/60th Anniversary/Concert_for_Hope.jpg
+      alt: Celebrating Home, Heart & Hope
+  - infopic:
       title: 60th Anniversary Celebration
       subtitle: YIO CHU KANG SECONDARY SCHOOL
       id: infopic
