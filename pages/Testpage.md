@@ -8,7 +8,7 @@ variant: markdown
                                         <div class="regular-flow">
                                             <p>Students’ overall results (except those of graduating classes) are based on both Weighted Assessments and End-Of-Year Exams.</p>
                                             <hr>
-                                            <details>
+                                            <details id="top">
                                                 <summary class="yck-h3">Academic&nbsp;Matters</summary>
                                                 <div>
                                                     <h4>Assessment Structure</h4>
