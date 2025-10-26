@@ -269,6 +269,15 @@ variant: markdown
     </div>
 </div>
 
+<div class="yck-component">
+	<div class="button-container">
+                                                    <a href="#top">
+                                                        <button class="buttontotop">
+                                                            <img class="svgIcon" alt="Back to Top" src="/images/Icons/svgiconwht.svg">
+                                                        </button>
+                                                    </a>
+                                                </div>
+
 <style>
     /* 
          * CSS Reset 
@@ -827,4 +836,57 @@ variant: markdown
         color: #dc2626;
         font-weight: 700;
     }
-    </style>
+	
+	.yck-component .buttontotop {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #e37f2a;
+    border: none;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 0px 0px 4px #fabe64;
+    cursor: pointer;
+    transition-duration: 0.3s;
+    overflow: hidden;
+    position: relative;
+}
+
+.yck-component .svgIcon {
+    width: 12px;
+    transition-duration: 0.3s;
+}
+
+.yck-component .buttontotop:hover {
+    width: 140px;
+    border-radius: 50px;
+    transition-duration: 0.3s;
+    background-color: #fabe64;
+    align-items: center;
+}
+
+.yck-component .buttontotop:hover .svgIcon {
+    /* width: 20px; */
+    transition-duration: 0.3s;
+    transform: translateY(-200%);
+}
+
+.yck-component .buttontotop::before {
+    position: absolute;
+    bottom: -20px;
+    content: "Back to Top";
+    color: white;
+    /* transition-duration: .3s; */
+    font-size: 0px;
+}
+
+.yck-component .buttontotop:hover::before {
+    font-size: var(--yck-step-0);
+    opacity: 1;
+    bottom: unset;
+    /* transform: translateY(-30px); */
+    transition-duration: 0.3s;
+}
+    </style></div>
