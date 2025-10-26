@@ -270,6 +270,8 @@ variant: markdown
 </div>
 
 <div class="yck-component">
+	<div class="deadctr-container">
+		<div class="deadctr-content">
 	<div class="button-container">
                                                     <a href="#top">
                                                         <button class="buttontotop">
@@ -277,6 +279,8 @@ variant: markdown
                                                         </button>
                                                     </a>
                                                 </div>
+		</div>
+	</div>
 
 <style>
     /* 
@@ -836,6 +840,22 @@ variant: markdown
         color: #dc2626;
         font-weight: 700;
     }
+	
+	.yck-component .deadctr-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*  display: grid;
+    place-items: center;
+    width: 100%;
+    height: auto; */
+}
+
+.yck-component .deadctr-content {
+    padding: var(--yck-spacing-unit);
+    margin: 0 auto;
+    text-align: center;
+}
 	
 	.yck-component .buttontotop {
     width: 50px;
