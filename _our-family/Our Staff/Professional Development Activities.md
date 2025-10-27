@@ -27,10 +27,12 @@ image: /images/YCKLogo.svg
             <summary>
                 <h2>Celebration of Learning</h2>
             </summary>
-            <div class="yck-flexbox-grid">
-                <blockquote>The purpose of staff development is not just to implement isolated instructional innovations; its central purpose is to build strong collaborative work cultures that will develop the long-term capacity for change.<cite>Michael Fullan. 2009</cite>
-                </blockquote>
+					<div>
+            <div class="quote">
+                <div class="blockquote">The purpose of staff development is not just to implement isolated instructional innovations; its central purpose is to build strong collaborative work cultures that will develop the long-term capacity for change.<cite>Michael Fullan. 2009</cite>
+                </div>
             </div>
+					</div>
             <p>We continue to celebrate and affirm the work done by our Professional Learning Teams (PLTs) during our annual Celebration of Learning Day. The teachers worked on improving their lesson designs and gathered feedback on how to refine their hybrid lessons to better engage the students.</p>
             <figure><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P2.png"></figure>
             <figure>
@@ -43,12 +45,15 @@ image: /images/YCKLogo.svg
             </summary>
             <h5>Quotes from participants:</h5>
             <div class="yck-flexbox-grid">
-                <blockquote>
-                    I have learnt strategies to support students with diverse learnina needs.
-                </blockquote>
-                <blockquote>
-                    I will make an effort to cater to the different learning needs of the students by incorporating some of the DI strategies.
-                </blockquote>
+							<div class="quote">
+                <div class="blockquote">
+                    I have learnt strategies to support students with diverse learning needs.
+                </div>
+							</div>
+							<div class="quote">
+								<div class="blockquote">
+                    I will make an effort to cater to the different learning needs of the students by incorporating some of the DI strategies.</div>
+							</div>
             </div>
             <h5>Knowledge with the staff by our Allied Educators:</h5>
             <figure><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P5.png"></figure>
@@ -228,7 +233,7 @@ img {
 .yck-component h1,
 .yck-component .yck-h1 {
     font-size: var(--yck-step-5);
-    font-weight: 800;
+    font-weight: 500;
     line-height: var(--yck-heading-line-height);
     margin-bottom: var(--yck-space-s-xl);
 }
@@ -236,7 +241,7 @@ img {
 .yck-component h2,
 .yck-component .yck-h2 {
     font-size: var(--yck-step-4);
-    font-weight: 600;
+    font-weight: 500;
     line-height: var(--yck-heading-line-height);
     margin-bottom: calc(var(--yck-space-s-xl) * 0.55);
 }
@@ -681,7 +686,48 @@ abbr:hover {
 }
 
 /* --- Blockquotes & Figures --- */
-.yck-component blockquote {
+	/* BLOCKQUOTES */
+.yck-component .quote {
+    margin: 4rem 1rem 1rem 8rem;
+    margin-block: calc(var(--yck-spacing-s-xl)*2);
+    padding: 1.125rem;
+    border-left: 5px solid #a63232;
+    border-radius: var(--yck-rounded-corners);
+}
+
+.yck-component .blockquote {
+    font-family: var(--font-old-style);
+    font-size: var(--yck-step-0);
+    font-weight: 300;
+    line-height: 1.6rem;
+    position: relative;
+    padding: 0;
+    margin: 0 auto;
+    min-width: 30ch;
+}
+
+.yck-component .blockquote::before {
+    font-weight: 900;
+    font-style: oblique;
+    text-shadow: var(--yck-box-shadow);
+    content: "\201C";
+    color: #a63232;
+    font-size: calc(var(--yck-step-5)*3.15);
+    position: absolute;
+    left: -10rem;
+    top: 3.5rem;
+}
+
+.yck-component cite {
+    display: block;
+    text-align: right;
+    font-weight: 500;
+    font-style: oblique;
+    margin-top: 1rem;
+    margin-right: var(--yck-space-s-xl);
+    font-size: var(--yck-step--1);
+}
+/* .yck-component blockquote {
     position: relative;
     padding: 25px 35px;
     background-color: white;
@@ -718,7 +764,7 @@ abbr:hover {
     font-style: italic;
     color: #555;
     text-align: right;
-}
+} */
 
 .yck-component figure,
 .yck-component .figure {
