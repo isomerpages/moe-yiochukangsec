@@ -30,11 +30,11 @@ image: /images/YCKLogo.svg
             <table class="yck-table">
                 <thead>
                     <tr>
-                        <th class="yck-th yck-h6">Topics or Lessons</th>
-                        <th class="yck-th yck-h6">
+                        <th class="yck-th">Topics or Lessons</th>
+                        <th class="yck-th">
                             Programme Learning Objectives
                         </th>
-                        <th class="yck-th yck-h6">Period</th>
+                        <th class="yck-th">Period</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -93,13 +93,13 @@ image: /images/YCKLogo.svg
                     <img alt="placeholder image" src="https://placehold.co/400x300/cccccc/969696.png?font=lato">
                 </div>
                 <div class="flex-grid-item">
-                    <img alt="placeholder image" src="https://placehold.co/400x300/cccccc/969696.png?font=lato">
+                    <img alt="placeholder image" src="https://placehold.co/1024x768/cccccc/969696.png?font=lato">
                 </div>
                 <div class="flex-grid-item">
-                    <img alt="placeholder image" src="https://placehold.co/400x300/cccccc/969696.png?font=lato">
+                    <img alt="placeholder image" src="https://placehold.co/640x480/cccccc/969696.png?font=lato">
                 </div>
                 <div class="flex-grid-item">
-                    <img alt="placeholder image" src="https://placehold.co/400x300/cccccc/969696.png?font=lato">
+                    <img alt="placeholder image" src="https://placehold.co/1280x720/cccccc/969696.png?font=lato">
                 </div>
                 <div class="flex-grid-item">
                     <img alt="placeholder image" src="https://placehold.co/400x300/cccccc/969696.png?font=lato">
@@ -495,7 +495,7 @@ body {
 .yck-component h1,
 .yck-component .yck-h1 {
     font-size: var(--yck-step-5);
-    font-weight: 800;
+    font-weight: 500;
     line-height: var(--yck-heading-line-height);
     margin-bottom: var(--yck-space-s-xl);
 }
@@ -503,7 +503,7 @@ body {
 .yck-component h2,
 .yck-component .yck-h2 {
     font-size: var(--yck-step-4);
-    font-weight: 600;
+    font-weight: 500;
     line-height: var(--yck-heading-line-height);
     margin-bottom: calc(var(--yck-space-s-xl) * 0.55);
 }
@@ -633,13 +633,12 @@ small {
     width: 100%;
     min-width: 360px;
     margin-bottom: var(--yck-space-s-xl);
-    font-size: var(--yck-step--1);
     border: 1px dotted lightgrey;
     margin-top: 1.5em;
     /* Increased top margin for more breathing room */
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
     /* Added a subtle shadow for depth */
-    border-radius: 8px;
+    border-radius: var(--yck-rounded-corners);
     /* Rounded corners for a modern look */
     overflow: hidden;
     /* Ensures box-shadow and border-radius clip correctly */
@@ -677,7 +676,6 @@ small {
 .yck-component .yck-td p,
 .yck-component .yck-td ul,
 .yck-component .yck-td ol {
-    margin-block: var(--yck-step--2);
 }
 
 .yck-component .yck-th:nth-child(1),
@@ -755,7 +753,7 @@ small {
     position: relative;
     padding: 0;
     margin: 0 auto;
-    min-width: 30ch;
+    min-width: 25ch;
 }
 
 .yck-component .blockquote::before {
