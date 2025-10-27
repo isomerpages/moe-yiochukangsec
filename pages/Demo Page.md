@@ -375,19 +375,19 @@ video {
     --yck-inset-shadow2: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
     --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
     --yck-rounded-corners: 10px;
-
+    
+/* @link https://utopia.fyi/type/calculator?c=320,12,1.2,1400,20,1.25,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
     --yck-step--2: clamp(0.5208rem, 0.4381rem + 0.4136vw, 0.8rem);
-  --yck-step--1: clamp(0.625rem, 0.5139rem + 0.5556vw, 1rem);
-  --yck-step-0: clamp(0.75rem, 0.6019rem + 0.7407vw, 1.25rem);
-  --yck-step-1: clamp(0.9rem, 0.7037rem + 0.9815vw, 1.5625rem);
-  --yck-step-2: clamp(1.08rem, 0.8213rem + 1.2935vw, 1.9531rem);
-  --yck-step-3: clamp(1.296rem, 0.9566rem + 1.6969vw, 2.4414rem);
-  --yck-step-4: clamp(1.5552rem, 1.1118rem + 2.2171vw, 3.0518rem);
-  --yck-step-5: clamp(1.8662rem, 1.2889rem + 2.8866vw, 3.8147rem);
+    --yck-step--1: clamp(0.625rem, 0.5139rem + 0.5556vw, 1rem);
+    --yck-step-0: clamp(0.75rem, 0.6019rem + 0.7407vw, 1.25rem);
+    --yck-step-1: clamp(0.9rem, 0.7037rem + 0.9815vw, 1.5625rem);
+    --yck-step-2: clamp(1.08rem, 0.8213rem + 1.2935vw, 1.9531rem);
+    --yck-step-3: clamp(1.296rem, 0.9566rem + 1.6969vw, 2.4414rem);
+    --yck-step-4: clamp(1.5552rem, 1.1118rem + 2.2171vw, 3.0518rem);
+    --yck-step-5: clamp(1.8662rem, 1.2889rem + 2.8866vw, 3.8147rem);
 
-    --yck-space-s-xl:
+    --yck-space-s-xl: clamp(1rem, -0.239rem + 4.32vw, 3rem);
         /* clamp(1.25rem, 0.1111rem + 4.4444vw, 4rem); */
-        clamp(1rem, -0.239rem + 4.32vw, 3rem);
     /* clamp(1.125em, 0.2143em + 3.9286vw, 3.5em); */
 
     --font-system-ui: system-ui, sans-serif;
@@ -425,6 +425,7 @@ body {
 ::selection {
     background: rgba(255, 255, 0, 0.35);
 }
+
 
 /* Component Wrapper */
 .yck-component {
