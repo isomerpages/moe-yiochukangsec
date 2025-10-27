@@ -103,17 +103,16 @@ image: /images/YCKLogo.svg
     --yck-inset-shadow2: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
     --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
 
-    --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
-    --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
-    --yck-step-0: clamp(1.125rem, 1.125rem + 0vw, 1.125rem);
-    --yck-step-1: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem);
-    --yck-step-2: clamp(1.4238rem, 1.3556rem + 0.3412vw, 1.62rem);
-    --yck-step-3: clamp(1.6018rem, 1.4828rem + 0.5951vw, 1.944rem);
-    --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
-    --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
-
-    --yck-space-s-xl: clamp(1em, 0.2143em + 3.9286vw, 3.5em);
-
+  --yck-step--2: clamp(0.5208rem, 0.4381rem + 0.4136vw, 0.8rem);
+  --yck-step--1: clamp(0.625rem, 0.5139rem + 0.5556vw, 1rem);
+  --yck-step-0: clamp(0.75rem, 0.6019rem + 0.7407vw, 1.25rem);
+  --yck-step-1: clamp(0.9rem, 0.7037rem + 0.9815vw, 1.5625rem);
+  --yck-step-2: clamp(1.08rem, 0.8213rem + 1.2935vw, 1.9531rem);
+  --yck-step-3: clamp(1.296rem, 0.9566rem + 1.6969vw, 2.4414rem);
+  --yck-step-4: clamp(1.5552rem, 1.1118rem + 2.2171vw, 3.0518rem);
+  --yck-step-5: clamp(1.8662rem, 1.2889rem + 2.8866vw, 3.8147rem);
+	
+    --yck-space-s-xl:  clamp(1rem, -0.239rem + 4.32vw, 3rem);
     --font-system-ui: system-ui, sans-serif;
     --font-transitional: Charter, Bitstream Charter, Sitka Text, Cambria, serif;
     --font-old-style: Iowan Old Style, Palatino Linotype, URW Palladio L, P052, serif;
@@ -161,15 +160,14 @@ img {
 /* ==========================================================================
    2. Base Typography
    ========================================================================== */
-
+/* Component Wrapper */
 .yck-component {
-    line-height: var(--yck-text-line-height);
-    letter-spacing: normal;
-    font-size: var(--yck-step-0);
+    width: 100%;
     margin-bottom: var(--yck-space-s-xl);
-    position: relative;
 }
 
+
+/* Headings */
 .yck-component h1,
 .yck-component h2,
 .yck-component h3,
@@ -189,82 +187,103 @@ img {
     text-wrap: balance;
 }
 
-.yck-component p,
-.yck-component ol,
-.yck-component ul {
+.yck-component *,
+.yck-component p {
+    margin: 0 auto;
+    padding: 0;
     text-wrap: pretty;
+    font-size: var(--yck-step-0);
+    letter-spacing: normal;
+    line-height: var(--yck-text-line-height);
+}
+
+.yck-component p {
+    padding: 0;
+    margin: 0 auto;
     margin-bottom: var(--yck-spacing-unit);
 }
 
-.yck-component p:last-child,
-.yck-component ul li:last-child,
-.yck-component ol li:last-child {
+.yck-component section p:last-child {
     margin-bottom: var(--yck-space-s-xl);
 }
 
-.yck-component .yck-h1,
-.yck-component h1 {
+.yck-component ol,
+.yck-component ul {
+    padding: 0;
+    margin-block: var(--yck-spacing-unit);
+}
+
+.yck-component ul li,
+.yck-component ol li {
+    line-height: 1.5em;
+    margin: 0 auto;
+    padding-left: 1em;
+}
+
+.yck-component section ul li:last-child,
+.yck-component section ol li:last-child {
+    margin-bottom: var(--yck-space-s-xl);
+}
+
+.yck-component h1,
+.yck-component .yck-h1 {
     font-size: var(--yck-step-5);
-    margin-bottom: var(--yck-spacing-unit);
+    font-weight: 800;
     line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
+    margin-bottom: var(--yck-space-s-xl);
 }
 
-.yck-component .yck-h2,
-.yck-component h2 {
+.yck-component h2,
+.yck-component .yck-h2 {
     font-size: var(--yck-step-4);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.85);
-    text-transform: capitalize;
+    font-weight: 600;
     line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
+    margin-bottom: calc(var(--yck-space-s-xl) * 0.55);
 }
 
-.yck-component .yck-h3,
-.yck-component h3 {
+.yck-component h3,
+.yck-component .yck-h3 {
     font-size: var(--yck-step-3);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.75);
-    text-transform: capitalize;
+    font-weight: 400;
     line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
+    margin-block: calc(var(--yck-space-s-xl) * 0.35);
 }
 
-.yck-component .yck-h4,
-.yck-component h4 {
+.yck-component h4,
+.yck-component .yck-h4 {
     font-size: var(--yck-step-2);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
-    text-transform: capitalize;
     line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
+    margin-bottom: calc(var(--yck-space-s-xl) * 0.2);
 }
 
-.yck-component .yck-h5,
-.yck-component h5 {
+.yck-component h5,
+.yck-component .yck-h5 {
     font-size: var(--yck-step-1);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.25);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
+    margin-bottom: calc(var(--yck-space-s-xl) * 0.1);
 }
 
-.yck-component .yck-h6,
-.yck-component h6 {
+.yck-component h6,
+.yck-component .yck-h6 {
     font-size: var(--yck-step-0);
-    margin-bottom: var(--yck-spacing-unit);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
+    margin-bottom: calc(var(--yck-space-s-xl) * 0.05);
 }
 
 .yck-component hr,
 hr {
     border: 1px dotted rgba(0, 0, 0, 0.25);
-    margin-block: clamp(1rem, 2vw, 2.5rem);
+    width: 90%;
+    margin: 1.5em auto;
 }
 
 .yck-component small,
+.yck-component .small,
 small {
     font-size: var(--yck-step--2);
-    line-height: var(--yck-spacing-unit);
+    line-height: calc(var(--yck-text-line-height) * 0.75);
 }
 
 .yck-component a {
