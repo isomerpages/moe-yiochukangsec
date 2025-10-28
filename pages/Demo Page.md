@@ -279,7 +279,7 @@ image: /images/YCKLogo.svg
 </div>
 
 <style>
-	/*
+/*
  * CSS Reset
  * Based on best practices and recommendations
  */
@@ -375,8 +375,18 @@ video {
     --yck-inset-shadow2: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
     --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
     --yck-rounded-corners: 10px;
-    
-/* @link https://utopia.fyi/type/calculator?c=320,12,1.2,1400,20,1.25,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
+
+    /*--yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
+    --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
+    --yck-step-0: clamp(1.125rem, 1.125rem + 0vw, 1.125rem);
+    --yck-step-1: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem);
+    --yck-step-2: clamp(1.4238rem, 1.3556rem + 0.3412vw, 1.62rem);
+    --yck-step-3: clamp(1.6018rem, 1.4828rem + 0.5951vw, 1.944rem);
+    --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
+    --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);*/
+    /* @link https://utopia.fyi/type/calculator?c=320,16,1.2,1400,22,1.25,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
+
+    /* @link https://utopia.fyi/type/calculator?c=320,12,1.2,1400,20,1.25,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
     --yck-step--2: clamp(0.5208rem, 0.4381rem + 0.4136vw, 0.8rem);
     --yck-step--1: clamp(0.625rem, 0.5139rem + 0.5556vw, 1rem);
     --yck-step-0: clamp(0.75rem, 0.6019rem + 0.7407vw, 1.25rem);
@@ -387,7 +397,8 @@ video {
     --yck-step-5: clamp(1.8662rem, 1.2889rem + 2.8866vw, 3.8147rem);
 
     --yck-space-s-xl: clamp(1rem, -0.239rem + 4.32vw, 3rem);
-        /* clamp(1.25rem, 0.1111rem + 4.4444vw, 4rem); */
+    /* clamp(1.25rem, 0.1111rem + 4.4444vw, 4rem); */
+    /*   clamp(1rem, -0.239rem + 4.32vw, 3rem);
     /* clamp(1.125em, 0.2143em + 3.9286vw, 3.5em); */
 
     --font-system-ui: system-ui, sans-serif;
@@ -425,7 +436,6 @@ body {
 ::selection {
     background: rgba(255, 255, 0, 0.35);
 }
-
 
 /* Component Wrapper */
 .yck-component {
@@ -495,7 +505,7 @@ body {
 .yck-component h1,
 .yck-component .yck-h1 {
     font-size: var(--yck-step-5);
-    font-weight: 500;
+    font-weight: 800;
     line-height: var(--yck-heading-line-height);
     margin-bottom: var(--yck-space-s-xl);
 }
@@ -503,7 +513,7 @@ body {
 .yck-component h2,
 .yck-component .yck-h2 {
     font-size: var(--yck-step-4);
-    font-weight: 500;
+    font-weight: 600;
     line-height: var(--yck-heading-line-height);
     margin-bottom: calc(var(--yck-space-s-xl) * 0.55);
 }
@@ -559,8 +569,13 @@ small {
     transition: color 0.8s ease;
 }
 
-.yck-component a:hover {
+.yck-component a:hover,
+.yck-component a:active {
     color: #b85e1f;
+}
+
+.yck-component a:focus {
+    color: blue;
 }
 
 .yck-component a.text-link {
@@ -580,7 +595,9 @@ small {
     transition: width 1s cubic-bezier(0.25, 1, 0.5, 1);
 }
 
-.yck-component a.text-link:hover::after {
+.yck-component a.text-link:hover::after,
+.yck-component a.text-link:active::after,
+.yck-component a.text-link:focus::after {
     width: 100%;
 }
 
@@ -600,7 +617,9 @@ small {
     transition: color 0.5 ease;
 }
 
-.yck-component abbr:hover {
+.yck-component abbr:hover,
+.yck-component abbr:active,
+.yck-component abbr:focus {
     color: #4fb568;
 }
 
@@ -633,12 +652,13 @@ small {
     width: 100%;
     min-width: 360px;
     margin-bottom: var(--yck-space-s-xl);
+    font-size: var(--yck-step--1);
     border: 1px dotted lightgrey;
     margin-top: 1.5em;
     /* Increased top margin for more breathing room */
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
     /* Added a subtle shadow for depth */
-    border-radius: var(--yck-rounded-corners);
+    border-radius: 8px;
     /* Rounded corners for a modern look */
     overflow: hidden;
     /* Ensures box-shadow and border-radius clip correctly */
@@ -676,6 +696,7 @@ small {
 .yck-component .yck-td p,
 .yck-component .yck-td ul,
 .yck-component .yck-td ol {
+    margin-block: var(--yck-step--2);
 }
 
 .yck-component .yck-th:nth-child(1),
@@ -749,11 +770,11 @@ small {
     font-family: var(--font-transitional);
     font-size: var(--yck-step-0);
     font-weight: 300;
-    line-height: 1.6rem;
+    line-height: 1.5rem;
     position: relative;
     padding: 0;
     margin: 0 auto;
-    min-width: 25ch;
+    min-width: 30ch;
 }
 
 .yck-component .blockquote::before {
@@ -762,19 +783,38 @@ small {
     text-shadow: var(--yck-box-shadow);
     content: "\201C";
     color: #a63232;
-    font-size: calc(var(--yck-step-5)*3.15);
+    font-size: calc(var(--yck-step-5)*3.13);
     position: absolute;
-    left: -0.8em;
-    top: 0.25em;
+    left: -0.9em;
+    top: 1.5rem;
 }
 
-.yck-component cite {
+.yck-component .blockquote cite {
     display: block;
     text-align: right;
     font-weight: 500;
     font-style: oblique;
     margin-top: 1rem;
     margin-right: var(--yck-space-s-xl);
+    font-size: var(--yck-step--1);
+}
+
+.yck-component figure {
+    display: block;
+    border-radius: var(--yck-rounded-corners);
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.yck-component figcaption {
+    display: block;
+    text-align: center;
+    font-weight: 300;
+    font-style: oblique;
+    margin: 0 auto;
+    padding: 0;
     font-size: var(--yck-step--1);
 }
 
@@ -800,58 +840,63 @@ small {
 }
 
 .yck-component .flex-grid-item {
-    flex: 1 0 calc(25% - var(--yck-spacing-unit));
-    min-width: 160px;
-    aspect-ratio: 4/3;
+    flex: 1 0 calc(33% - var(--yck-spacing-unit));
+    min-width: 150px;
     display: flex;
     justify-content: center;
     align-items: center;
     background: linear-gradient(135deg, #fff 0%, #fff 100%);
     color: #ccc;
-    border-radius: var(--yck-rounded-corners);
     font-size: var(--yck-step-0);
+}
+
+.yck-component .flex-grid-item img {
+    width: 100%;
+    border-radius: var(--yck-rounded-corners);
+    background-size: cover;
 }
 
 /* Layout - Equal Height Cards with sticky footer */
 .yck-component .equal-cards {
     display: flex;
     gap: var(--yck-spacing-unit);
-    margin-block: var(--yck-spacing-unit);
+    margin-bottom: var(--yck-spacing-unit);
 }
 
 .yck-component .card {
     flex: 1;
-    min-width: 120px;
+    min-width: 150px;
     display: flex;
     flex-direction: column;
-    background: linear-gradient(135deg, #fff 0%, #fff 100%);
+    background: linear-gradient(135deg, #ddd 0%, #fff 100%);
     color: #ccc;
     border-radius: var(--yck-rounded-corners);
     font-size: var(--yck-step-0);
     overflow: hidden;
-    outline: 1px solid lightgrey;
 }
 
 .yck-component .card-header {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
-    padding: 15px;
+    background: rgba(255, 255, 255, 0.01);
+    color: #555;
+    padding: var(--yck-spacing-unit);
     font-weight: bold;
 }
 
 .yck-component .card-body {
-    padding: 15px;
+    padding: var(--yck-spacing-unit);
     flex: 1;
     color: #333;
 }
 
 .yck-component .card-footer {
-    background: #f0f0f0;
-    padding: 10px 15px;
+    background: rgba(255, 255, 255, 0.01);
+    padding: 5px;
     margin-top: auto;
     text-align: center;
-    color: #667eea;
-    font-weight: bold;
+    color: #666;
+    font-size: var(--yck-step--1);
+    font-style: oblique;
+    font-weight: 300;
 }
 
 /* 2. Auto-Fit Responsive Grid */
@@ -914,10 +959,12 @@ small {
 
 .yck-component .isomer-card:has(img) {
     filter: brightness(100%);
-    transition: filter 0.5s ease;
+    transition: filter 0.8s var(--yck-transition-timing);
 }
 
-.yck-component .isomer-card:has(img):hover {
+.yck-component .isomer-card:has(img):hover,
+.yck-component .isomer-card:has(img):active,
+.yck-component .isomer-card:has(img):focus {
     filter: brightness(110%) saturate(110%);
 }
 
@@ -968,9 +1015,7 @@ small {
     padding: 0;
     break-inside: avoid;
     page-break-inside: avoid;
-    column-width: 35ch;
     column-fill: balance;
-    column-gap: var(--yck-spacing-unit);
     margin-bottom: var(--yck-space-s-xl);
 
 }
@@ -980,18 +1025,19 @@ small {
     font-size: var(--yck-step-0);
 }
 
-.yck-component .col-container ul li:last-child,
+/* .yck-component .col-container ul li:last-child,
 .yck-component .col-container ol li:last-child {
     border-bottom: 1px dotted rgba(0, 0, 0, 0.05);
-}
+} */
 
 .yck-component .col-container>.columns2 {
-    columns: 2;
+    column-count: 2;
     column-rule: 1px dotted lightgrey;
+    column-gap: 1.5em;
 }
 
 .yck-component .col-container>.columns3 {
-    columns: 3;
+    column-count: 3;
     column-rule: 1px dotted lightgrey;
     column-gap: 1.5em;
 }
@@ -1040,7 +1086,9 @@ small {
     transition-duration: 0.3s;
 }
 
-.yck-component .buttontotop:hover {
+.yck-component .buttontotop:hover,
+.yck-component .buttontotop:active,
+.yck-component .buttontotop:focus {
     width: 140px;
     border-radius: 50px;
     transition-duration: 0.3s;
@@ -1048,7 +1096,9 @@ small {
     align-items: center;
 }
 
-.yck-component .buttontotop:hover .svgIcon {
+.yck-component .buttontotop:hover .svgIcon,
+.yck-component .buttontotop:active .svgIcon,
+.yck-component .buttontotop:focus .svgIcon {
     /* width: 20px; */
     transition-duration: 0.3s;
     transform: translateY(-200%);
@@ -1063,12 +1113,111 @@ small {
     font-size: 0px;
 }
 
-.yck-component .buttontotop:hover::before {
+.yck-component .buttontotop:hover::before,
+.yck-component .buttontotop:active::before,
+.yck-component .buttontotop:focus::before {
     font-size: var(--yck-step-0);
     opacity: 1;
     bottom: unset;
     /* transform: translateY(-30px); */
     transition-duration: 0.3s;
 }
-	
+
+/*** Animation classes ***/
+/* Forward */
+.yck-component .hvr-forward {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+}
+
+.yck-component .hvr-forward:hover,
+.hvr-forward:focus,
+.hvr-forward:active {
+    -webkit-transform: translateX(8px);
+    transform: translateX(8px);
+}
+
+/* Backward */
+.yck-component .hvr-backward {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+}
+
+.yck-component .hvr-backward:hover,
+.hvr-backward:focus,
+.hvr-backward:active {
+    -webkit-transform: translateX(-8px);
+    transform: translateX(-8px);
+}
+
+/*** Misc items of interest ... ***/
+.bg-1 {
+    background: url("https://c.stocksy.com/a/YY3500/z0/1205314.jpg") no-repeat left 50%;
+    -webkit-background-size: cover;
+    background-size: cover
+}
+
+.bg-2 {
+    background: url("https://c.stocksy.com/a/FY3500/z0/1205295.jpg") no-repeat left 50%;
+    -webkit-background-size: cover;
+    background-size: cover
+}
+
+.bg-3 {
+    background: url("https://c.stocksy.com/a/L1o500/z0/1383923.jpg") no-repeat left 50%;
+    -webkit-background-size: cover;
+    background-size: cover
+}
+
+.bg-4 {
+    background: url("https://c.stocksy.com/a/Z22000/z0/7847.jpg") no-repeat left 50%;
+    -webkit-background-size: cover;
+    background-size: cover
+}
+
+.bg-gradient {
+    background: #b41e8e;
+    background: -moz-linear-gradient(45deg, #b41e8e 0%, #5c3f9e 50%, #0061af 100%);
+    background: -webkit-linear-gradient(45deg, #b41e8e 0%, #5c3f9e 50%, #0061af 100%);
+    background: linear-gradient(45deg, #b41e8e 0%, #5c3f9e 50%, #0061af 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#b41e8e', endColorstr='#0061af', GradientType=1)
+}
+
+.bg-singpass {
+    background: #be2e7d;
+    background: -moz-linear-gradient(45deg, #be2e7d 0%, #d64e54 100%);
+    background: -webkit-linear-gradient(45deg, #be2e7d 0%, #d64e54 100%);
+    background: linear-gradient(45deg, #be2e7d 0%, #d64e54 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#be2e7d', endColorstr='#d64e54', GradientType=1)
+}
+
+.bg-beeline {
+    background: #009d62;
+    background: -moz-linear-gradient(45deg, #009d62 0%, #18510f 100%);
+    background: -webkit-linear-gradient(45deg, #009d62 0%, #18510f 100%);
+    background: linear-gradient(45deg, #009d62 0%, #18510f 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#009d62', endColorstr='#18510f', GradientType=1)
+}
+
+.bg-parkingsg {
+    background: #0164b6;
+    background: -moz-linear-gradient(45deg, #0164b6 0%, #04a4e3 100%);
+    background: -webkit-linear-gradient(45deg, #0164b6 0%, #04a4e3 100%);
+    background: linear-gradient(45deg, #0164b6 0%, #04a4e3 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0164b6', endColorstr='#04a4e3', GradientType=1)
+}
 </style>
