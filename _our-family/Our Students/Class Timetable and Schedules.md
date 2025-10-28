@@ -51,8 +51,12 @@ variant: tiptap
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="/files/Students/Class Timetable Schedules/2025/2025_cca_schedule_sem_1.pdf" rel="noopener nofollow" target="_blank">2025 CCA Schedule for Semester 1</a></strong>
+<p><a href="/files/Students/Class Timetable Schedules/2025/2025_cca_schedule_sem_1.pdf" rel="noopener nofollow" target="_blank">2025 CCA Schedule for Semester 1</a>
 <br>(Uploaded on 07 Jan 2025)</p>
+</li>
+<li>
+<p><strong><a href="/files/Students/Class Timetable Schedules/2025/2025_Semester_2_CCA_Schedule__Nov_Dec_.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCA Schedule for Semester 2</a></strong>
+<br>(Uploaded on 30 Oct 2025)</p>
 </li>
 </ul>
 <hr>
