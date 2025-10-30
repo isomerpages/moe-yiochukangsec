@@ -30,11 +30,11 @@ image: /images/YCKLogo.svg
             <table class="yck-table">
                 <thead>
                     <tr>
-                        <th class="yck-th">Topics or Lessons</th>
-                        <th class="yck-th">
+                        <th class="yck-th yck-h6">Topics or Lessons</th>
+                        <th class="yck-th yck-h6">
                             Programme Learning Objectives
                         </th>
-                        <th class="yck-th">Period</th>
+                        <th class="yck-th yck-h6">Period</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -90,19 +90,19 @@ image: /images/YCKLogo.svg
             </p>
             <div class="flex-grid">
                 <div class="flex-grid-item">
-                    <img alt="placeholder image" src="https://placehold.co/400x300/cccccc/969696.png?font=lato">
+                    <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec2.jpg">
                 </div>
                 <div class="flex-grid-item">
-                    <img alt="placeholder image" src="https://placehold.co/1024x768/cccccc/969696.png?font=lato">
+                    <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec3.jpg">
                 </div>
                 <div class="flex-grid-item">
-                    <img alt="placeholder image" src="https://placehold.co/640x480/cccccc/969696.png?font=lato">
+                    <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec4.jpg">
                 </div>
                 <div class="flex-grid-item">
-                    <img alt="placeholder image" src="https://placehold.co/1280x720/cccccc/969696.png?font=lato">
+                    <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182">
                 </div>
                 <div class="flex-grid-item">
-                    <img alt="placeholder image" src="https://placehold.co/400x300/cccccc/969696.png?font=lato">
+                    <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec1.jpg">
                 </div>
                 <div class="flex-grid-item">
                     <img alt="placeholder image" src="https://placehold.co/400x300/cccccc/969696.png?font=lato">
@@ -156,9 +156,13 @@ image: /images/YCKLogo.svg
             </div>
         </section>
         <section>
-            <h4>Heading Level Four</h4>
+            <h4 class="yck-h4">Heading Level Four</h4>
             <div class="col-container">
                 <div class="columns2">
+                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse
+                        cillum dolore eu fugiat nulla pariatur.
+                    </p>
+                    <img alt="placeholder image" src="https://placehold.co/400x300/cccccc/969696.png?font=lato">
                     <ol>
                         <li>Lorem ipsum dolor sit amet.</li>
                         <li>Consectetur adipiscing elit.</li>
@@ -169,11 +173,24 @@ image: /images/YCKLogo.svg
                         <li>Consectetur adipiscing elit.</li>
                         <li>Integer nec odio. Praesent libero.</li>
                     </ul>
+                    <p>Excepteur sint occaecat cupidatat non
+                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    <ol>
+                        <li>Lorem ipsum dolor sit amet.
+                            <ul>
+                                <li>Lorem ipsum dolor sit amet.</li>
+                                <li>Consectetur adipiscing elit.</li>
+                                <li>Integer nec odio. Praesent libero.</li>
+                            </ul>
+                        </li>
+                        <li>Consectetur adipiscing elit.</li>
+                        <li>Integer nec odio. Praesent libero.</li>
+                    </ol>
                 </div>
             </div>
         </section>
         <section>
-            <h5>Heading Level Five</h5>
+            <h5 class="yck-h5">Heading Level Five</h5>
             <p class="small">
                 Etiam porta sem malesuada magna mollis euismod. Nulla vitae elit
                 libero, a pharetra augue.
@@ -184,7 +201,7 @@ image: /images/YCKLogo.svg
             <div class="isomer-card-grid">
                 <div class="isomer-card">
                     <div class="isomer-card-body">
-                        <div class="isomer-card-title">CARD 1</div>
+                        <div class="isomer-card-title yck-h5">CARD 1</div>
                         <div class="isomer-card-description truncate">
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                             tempor incididunt ut labore et dolore magna aliqua.
@@ -277,7 +294,7 @@ image: /images/YCKLogo.svg
         </div>
     </div>
 </div>
-
+	
 <style>
 /*
  * CSS Reset
@@ -368,23 +385,13 @@ video {
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
-    --yck-spacing-unit: 1em;
+    --yck-spacing-unit: 1rem;
     --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
     --yck-box-shadow1: 0 1px 2px rgba(0, 0, 0, 0.15);
     --yck-inset-shadow1: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
     --yck-inset-shadow2: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
     --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
     --yck-rounded-corners: 10px;
-
-    /*--yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
-    --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
-    --yck-step-0: clamp(1.125rem, 1.125rem + 0vw, 1.125rem);
-    --yck-step-1: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem);
-    --yck-step-2: clamp(1.4238rem, 1.3556rem + 0.3412vw, 1.62rem);
-    --yck-step-3: clamp(1.6018rem, 1.4828rem + 0.5951vw, 1.944rem);
-    --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
-    --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);*/
-    /* @link https://utopia.fyi/type/calculator?c=320,16,1.2,1400,22,1.25,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
 
     /* @link https://utopia.fyi/type/calculator?c=320,12,1.2,1400,20,1.25,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
     --yck-step--2: clamp(0.5208rem, 0.4381rem + 0.4136vw, 0.8rem);
@@ -446,27 +453,39 @@ body {
 
 /* Headings */
 .yck-component h1,
+.yck-component .yck-h1,
 .yck-component h2,
+.yck-component .yck-h2,
 .yck-component h3,
+.yck-component .yck-h3,
 .yck-component h4,
+.yck-component .yck-h4,
 .yck-component h5,
+.yck-component .yck-h5,
 .yck-component h6,
+.yck-component .yck-h6,
 .yck-component p {
     overflow-wrap: break-word;
 }
 
 .yck-component h1,
+.yck-component .yck-h1,
 .yck-component h2,
+.yck-component .yck-h2,
 .yck-component h3,
+.yck-component .yck-h3,
 .yck-component h4,
+.yck-component .yck-h4,
 .yck-component h5,
-.yck-component h6 {
+.yck-component .yck-h5,
+.yck-component h6,
+.yck-component .yck-h6 {
     text-wrap: balance;
 }
 
 .yck-component *,
 .yck-component p {
-    margin: 0 auto;
+    margin: 0;
     padding: 0;
     text-wrap: pretty;
     font-size: var(--yck-step-0);
@@ -475,32 +494,44 @@ body {
 }
 
 .yck-component p {
-    padding: 0;
-    margin: 0 auto;
     margin-bottom: var(--yck-spacing-unit);
 }
 
-.yck-component section p:last-child {
+.yck-component div p:last-child,
+.yck-component section p:last-child,
+.yck-component article p:last-child {
     margin-bottom: var(--yck-space-s-xl);
 }
 
 .yck-component ol,
 .yck-component ul {
     padding: 0;
-    margin-block: var(--yck-spacing-unit);
+    margin: 0;
+    padding-left: 1.5em;
 }
 
 .yck-component ul li,
 .yck-component ol li {
-    line-height: 1.5em;
-    margin: 0 auto;
-    padding-left: 1em;
+    line-height: 1.5;
+    margin: 0;
 }
 
-.yck-component section ul li:last-child,
-.yck-component section ol li:last-child {
-    margin-bottom: var(--yck-space-s-xl);
+.yck-component ul li:last-child,
+.yck-component ol li:last-child {
+    margin-bottom: var(--yck-step-3);
 }
+
+.yck-component li ul,
+.yck-component li ol {
+    margin-top: 0;
+}
+
+.yck-component li ul li:last-child,
+.yck-component li ol li:last-child {
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+
 
 .yck-component h1,
 .yck-component .yck-h1 {
@@ -552,8 +583,8 @@ body {
 .yck-component hr,
 hr {
     border: 1px dotted rgba(0, 0, 0, 0.25);
-    width: 90%;
-    margin: 1.5em auto;
+    width: 95%;
+    margin: 1em;
 }
 
 .yck-component small,
@@ -808,7 +839,8 @@ small {
     overflow: hidden;
 }
 
-.yck-component figcaption {
+.yck-component figcaption,
+.yck-component .caption {
     display: block;
     text-align: center;
     font-weight: 300;
@@ -854,6 +886,7 @@ small {
     width: 100%;
     border-radius: var(--yck-rounded-corners);
     background-size: cover;
+    object-fit: cover;
 }
 
 /* Layout - Equal Height Cards with sticky footer */
@@ -904,6 +937,8 @@ small {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 2fr));
     gap: var(--yck-spacing-unit);
+    background: linear-gradient(45deg, #fef7e0 0%, #fbdf83;
+    50%, #f7bf08 100%);
 }
 
 .yck-component .grid-item {
@@ -1021,14 +1056,15 @@ small {
 }
 
 .yck-component .col-container ul li,
-.yck-component .col-container ol li {
+.yck-component .col-container ol li,
+.yck-component .col-container p {
     font-size: var(--yck-step-0);
 }
 
-/* .yck-component .col-container ul li:last-child,
+.yck-component .col-container ul li:last-child,
 .yck-component .col-container ol li:last-child {
-    border-bottom: 1px dotted rgba(0, 0, 0, 0.05);
-} */
+    margin-bottom: var(--yck-step-0);
+}
 
 .yck-component .col-container>.columns2 {
     column-count: 2;
@@ -1126,8 +1162,8 @@ small {
 /*** Animation classes ***/
 /* Forward */
 .yck-component .hvr-forward {
-    display: inline-block;
-    vertical-align: middle;
+    /* display: inline-block;
+    vertical-align: middle; */
     -webkit-transform: perspective(1px) translateZ(0);
     transform: perspective(1px) translateZ(0);
     box-shadow: 0 0 1px rgba(0, 0, 0, 0);
@@ -1138,16 +1174,16 @@ small {
 }
 
 .yck-component .hvr-forward:hover,
-.hvr-forward:focus,
-.hvr-forward:active {
+.yck-component .hvr-forward:focus,
+.yck-component .hvr-forward:active {
     -webkit-transform: translateX(8px);
     transform: translateX(8px);
 }
 
 /* Backward */
 .yck-component .hvr-backward {
-    display: inline-block;
-    vertical-align: middle;
+    /* display: inline-block;
+    vertical-align: middle; */
     -webkit-transform: perspective(1px) translateZ(0);
     transform: perspective(1px) translateZ(0);
     box-shadow: 0 0 1px rgba(0, 0, 0, 0);
@@ -1158,8 +1194,8 @@ small {
 }
 
 .yck-component .hvr-backward:hover,
-.hvr-backward:focus,
-.hvr-backward:active {
+.yck-component .hvr-backward:focus,
+.yck-component .hvr-backward:active {
     -webkit-transform: translateX(-8px);
     transform: translateX(-8px);
 }
@@ -1189,12 +1225,14 @@ small {
     background-size: cover
 }
 
-.bg-gradient {
-    background: #b41e8e;
-    background: -moz-linear-gradient(45deg, #b41e8e 0%, #5c3f9e 50%, #0061af 100%);
-    background: -webkit-linear-gradient(45deg, #b41e8e 0%, #5c3f9e 50%, #0061af 100%);
-    background: linear-gradient(45deg, #b41e8e 0%, #5c3f9e 50%, #0061af 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#b41e8e', endColorstr='#0061af', GradientType=1)
+.bg-yckorange {
+    background: #fef7e0;
+    background: -moz-linear-gradient(45deg, #fef7e0 0%, #fbdf83;
+    50%, #f7bf08 100%);
+    background: -webkit-linear-gradient(45deg, #fef7e0 0%, #fbdf83;
+    50%, #f7bf08 100%);
+    background: linear-gradient(45deg, #fef7e0 0%, #fbdf83;
+    50%, #f7bf08 100%);
 }
 
 .bg-singpass {
@@ -1205,7 +1243,7 @@ small {
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#be2e7d', endColorstr='#d64e54', GradientType=1)
 }
 
-.bg-beeline {
+.bg-yckgreen {
     background: #009d62;
     background: -moz-linear-gradient(45deg, #009d62 0%, #18510f 100%);
     background: -webkit-linear-gradient(45deg, #009d62 0%, #18510f 100%);
@@ -1213,7 +1251,7 @@ small {
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#009d62', endColorstr='#18510f', GradientType=1)
 }
 
-.bg-parkingsg {
+.bg-gradientblue {
     background: #0164b6;
     background: -moz-linear-gradient(45deg, #0164b6 0%, #04a4e3 100%);
     background: -webkit-linear-gradient(45deg, #0164b6 0%, #04a4e3 100%);
