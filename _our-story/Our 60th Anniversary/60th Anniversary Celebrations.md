@@ -9,7 +9,7 @@ third_nav_title: Our 60th Anniversary
 <div class="yck-component">
 	<article class="regular-flow">
 		<section>
-<p class="dropcap-title">Our school is celebrating her 60th Anniversary this year with a series of exciting events: the <strong><a class="text-link" href="/our-story/our-60th-anniversary/homecoming-carnival/">Homecoming Carnival</a></strong> in May, the <strong><a class="text-link" href="/our-story/our-60th-anniversary/60th-anniversary-dinner/">Alumni Dinner</a></strong> in July, and the <strong>Concert for Hope</strong> in November.</p>
+<p class="dropcap-title">Our school is celebrating her 60th Anniversary this year with a series of exciting events: the <strong><a class="text-link" href="/our-story/our-60th-anniversary/homecoming-carnival/">Homecoming Carnival</a></strong> in May, the <strong><a class="text-link" href="/our-story/our-60th-anniversary/60th-anniversary-dinner/">Alumni Dinner</a></strong> in July, and the <strong><a class="tet-link" href="/our-story/our-60th-anniversary/concert-for-hope/">Concert for Hope</a></strong> in November.</p>
 		</section>
 			<section>
 				<p>Stay tuned for more updates, and join us in making this milestone celebration unforgettable! Gather your friends and family to be part of the celebrations!</p>
