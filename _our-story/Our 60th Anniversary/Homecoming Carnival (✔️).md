@@ -450,4 +450,20 @@ small {
     width: 100%;
     height: 100%;
 }
+
+.yck-component figure,
+.yck-component .figure {
+    display: flex;
+    flex-flow: column;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.yck-component figure img,
+.yck-component .figure img {
+   margin-bottom: var(--yck-spacing-unit); 
+	border-radius: var(--yck-rounded-corners);
+}
 </style>
