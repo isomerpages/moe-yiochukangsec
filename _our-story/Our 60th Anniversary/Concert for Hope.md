@@ -176,61 +176,97 @@ body {
 }
 
 /* Component Wrapper */
+/* Component Wrapper */
 .yck-component {
-    line-height: var(--yck-text-line-height);
-    letter-spacing: normal;
     width: 100%;
-    font-size: var(--yck-step-0);
     margin-bottom: var(--yck-space-s-xl);
+}
+
+.yck-component .regular-flow>*+* {
+    margin-top: 1.125em;
 }
 
 /* Headings */
 .yck-component h1,
+.yck-component .yck-h1,
 .yck-component h2,
+.yck-component .yck-h2,
 .yck-component h3,
+.yck-component .yck-h3,
 .yck-component h4,
+.yck-component .yck-h4,
 .yck-component h5,
+.yck-component .yck-h5,
 .yck-component h6,
+.yck-component .yck-h6,
 .yck-component p {
     overflow-wrap: break-word;
 }
 
 .yck-component h1,
+.yck-component .yck-h1,
 .yck-component h2,
+.yck-component .yck-h2,
 .yck-component h3,
+.yck-component .yck-h3,
 .yck-component h4,
+.yck-component .yck-h4,
 .yck-component h5,
-.yck-component h6 {
+.yck-component .yck-h5,
+.yck-component h6,
+.yck-component .yck-h6 {
     text-wrap: balance;
 }
 
-.yck-component p,
-.yck-component ol,
-.yck-component ul {
+.yck-component *,
+.yck-component p {
+    margin: 0;
     padding: 0;
     text-wrap: pretty;
     font-size: var(--yck-step-0);
-}
-
-.yck-component ul,
-.yck-component ol {
-    margin-block: var(--yck-spacing-unit);
-}
-
-.yck-component section ul li:last-child,
-.yck-component section ol li:last-child {
-    margin-bottom: var(--yck-space-s-xl);
+    letter-spacing: normal;
+    line-height: var(--yck-text-line-height);
 }
 
 .yck-component p {
-    padding: 0;
-    margin: 0 auto;
     margin-bottom: var(--yck-spacing-unit);
 }
 
-.yck-component section p:last-child {
+.yck-component div p:last-child,
+.yck-component section p:last-child,
+.yck-component article p:last-child {
     margin-bottom: var(--yck-space-s-xl);
 }
+
+.yck-component ol,
+.yck-component ul {
+    padding: 0;
+    margin: 0;
+    padding-left: 1.5em;
+}
+
+.yck-component ul li,
+.yck-component ol li {
+    line-height: 1.5;
+    margin: 0;
+}
+
+.yck-component ul li:last-child,
+.yck-component ol li:last-child {
+    margin-bottom: var(--yck-step-3);
+}
+
+.yck-component li ul,
+.yck-component li ol {
+    margin-top: 0;
+}
+
+.yck-component li ul li:last-child,
+.yck-component li ol li:last-child {
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+
 
 .yck-component h1,
 .yck-component .yck-h1 {
@@ -245,7 +281,7 @@ body {
     font-size: var(--yck-step-4);
     font-weight: 600;
     line-height: var(--yck-heading-line-height);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.55);
+    /* margin-bottom: calc(var(--yck-space-s-xl) * 0.55); */
 }
 
 .yck-component h3,
@@ -253,14 +289,14 @@ body {
     font-size: var(--yck-step-3);
     font-weight: 400;
     line-height: var(--yck-heading-line-height);
-    margin-block: calc(var(--yck-space-s-xl) * 0.35);
+    /*  margin-block: calc(var(--yck-space-s-xl) * 0.35); */
 }
 
 .yck-component h4,
 .yck-component .yck-h4 {
     font-size: var(--yck-step-2);
     line-height: var(--yck-heading-line-height);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.2);
+    /*  margin-bottom: calc(var(--yck-space-s-xl) * 0.2); */
 }
 
 .yck-component h5,
@@ -268,7 +304,7 @@ body {
     font-size: var(--yck-step-1);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.1);
+    /* margin-bottom: calc(var(--yck-space-s-xl) * 0.1); */
 }
 
 .yck-component h6,
@@ -276,14 +312,14 @@ body {
     font-size: var(--yck-step-0);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.05);
+    /* margin-bottom: calc(var(--yck-space-s-xl) * 0.05); */
 }
 
 .yck-component hr,
 hr {
     border: 1px dotted rgba(0, 0, 0, 0.25);
-    width: 90%;
-    margin: 1.5em auto;
+    width: 95%;
+    margin: 1.5em;
 }
 
 .yck-component small,
@@ -292,7 +328,6 @@ small {
     font-size: var(--yck-step--2);
     line-height: calc(var(--yck-text-line-height) * 0.75);
 }
-
 .yck-component a {
     color: #e37f2a;
     text-decoration: none;
