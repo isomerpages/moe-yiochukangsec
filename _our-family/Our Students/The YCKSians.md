@@ -282,43 +282,37 @@ small {
     padding: 0;
 }
 
-.yck-component abbr,
-abbr {
+.yck-component abbr {
     text-decoration: underline dotted #2c6139;
     text-decoration-thickness: 2px;
     text-underline-offset: 3px;
     color: #2c6139;
     font-weight: 600;
     cursor: help;
+    transition: color 0.5 ease;
 }
 
 .yck-component abbr:hover,
-abbr:hover {
-    color: #4e835b;
+.yck-component abbr:active,
+.yck-component abbr:focus {
+    color: #4fb568;
 }
 
 .yck-component .dropcap-title {
-    font-size: var(--yck-step-1);
-    /* Base font size for the heading */
-    font-weight: normal;
+    font-weight: 500;
     margin-bottom: 0.5em;
     color: #555;
 }
 
-/* This is the core magic for the dropcap */
 .yck-component .dropcap-title::first-letter {
     float: left;
-    font-size: calc(var(--yck-step-5)*1.65);
-    /* The size of the dropcap relative to the heading's font size */
+    font-size: calc(var(--yck-step-5) * 1.55);
     font-weight: bold;
     font-style: oblique;
-    font-family: var(--font-antique);
+    font-family: Georgia, serif;
     line-height: 0.9;
-    /* Pulls the rest of the text up vertically */
-    padding-right: 0.18em;
-    /* Adds a little space next to the letter */
+    padding-right: 0.15em;
     color: #4e835b;
-    /* A distinct color for the dropcap */
 }
 
 /* ==========================================================================
