@@ -266,8 +266,6 @@ body {
     margin-bottom: var(--yck-spacing-unit);
 }
 
-
-
 .yck-component h1,
 .yck-component .yck-h1 {
     font-size: var(--yck-step-5);
