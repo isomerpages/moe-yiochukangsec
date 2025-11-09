@@ -6,12 +6,21 @@ variant: markdown
 third_nav_title: Performing Arts
 ---
 <div class="yck-component">
-    <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M1_2025.png">
+	<div class="regular-flow">
+		<article>
+			<section>
+				<figure class="ken-burns-container">
+    <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M1_2025.png" class="ken-burns-image">
+				</figure>
 
 <h3>Overview</h3>
 <p>The Malay Dance Performing Arts CCA offers a vibrant platform for our dancers to immerse themselves in the beauty and cultural richness of Malay dance. Our program is designed to instill discipline, confidence, perseverance, and teamwork in every dancer. We believe in nurturing not only technical skills but also emotional depth, allowing dancers to convey their inner selves through movement.</p>
+			</section>
+			<section>
 <h3>Vision &amp; Values</h3>
 <p>At the heart of our CCA is the spirit of <i>PERTAME NALURI SENI</i>, where dancers are encouraged to touch their inner soul and express their creativity with grace and authenticity. We aim to inspire a deep connection between the dancers and the cultural heritage of Malay dance, embracing both traditional and contemporary styles.</p>
+			</section>
+			<section>
 <h3>Training &amp; Exposure</h3>
 <p>Our dancers are exposed to a wide range of Malay dance genres, blending traditional movements with modern elements. We emphasize technique, coordination, and expression, ensuring that each dancer hones their skills while preserving the cultural essence of the art form.</p>
 <p>Throughout the year, our dancers have opportunities to perform at school functions and prestigious public events. They have proudly represented the school at national platforms such as:</p>
@@ -22,21 +31,29 @@ third_nav_title: Performing Arts
             <li>Cantabile Concert</li>
         </ul>
         <p>These performances not only showcase the talents of our dancers but also provide them with valuable experiences, cultivating their confidence and enhancing their stage presence.</p>
-</div>
-<div class="yck-component">
+			</section>
+			<section>
         <h3>Achievements &amp; Highlights</h3>
         <p>Our CCA has garnered recognition for its artistic achievements, with performances that celebrate the elegance and energy of Malay dance. Through dedication and passion, our dancers consistently push the boundaries of creativity, delivering performances that captivate audiences.</p>
+			</section>
 <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M2.jpg">
-</div>
-<div class="yck-component">
+		</article>
+		<article>
+			<section>
         <blockquote class="yck-blockquote">
             <p>We are really proud of our Malay Dancers for showing resilience and determination in the face of the numerous challenges. The extra practices and sacrifices we have had to make were worthwhile. I hope this experience has taught them to persevere and never give up no matter what challenges may come their way in the future.</p>
             <cite>Mdm Sutinah<br>Teacher in charge (Malay Dance)</cite>
             <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M4_2025.png">
         </blockquote>
+			</section>
+		</article>
+	</div>
 	</div>
 <div class="yck-component">
-            <h4>Training Schedule</h4>
+	<div class="regular-flow">
+		<article>
+			<section>
+            <h3>Training Schedule</h3>
             <table class="yck-table">
                 <thead>
                     <tr>
@@ -54,11 +71,11 @@ third_nav_title: Performing Arts
             <table class="yck-table">
                 <tbody>
                     <tr>
-                        <th class="yck-th h5">Dance Instructor</th>
+                        <th class="yck-th">Dance Instructor</th>
                     </tr>
                     <tr>
                         <td class="yck-td"><strong> Mr Osman Abdul Hamid</strong>
-                            <ul class="yck-custom-list">
+                            <ul>
                                 <li>ERA DANCE THEATRE, Co-Founder, Director and Choreographer</li>
                                 <li>Cultural Medallion 2023</li>
                             </ul>
@@ -66,11 +83,14 @@ third_nav_title: Performing Arts
                     </tr>
                 </tbody>
             </table>
-        </div>
-<div class="yck-component">
-  <div class="col-container">
-    <div class="column">
-        <h4 class="yck-h4">Proudest Moments</h4>
+			</section>
+		</article>
+		<article>
+			<section>
+        <h4 class="yck-h4">Events/Competitions &amp; Proudest Moments</h4>
+			<ul>
+            <li><b>2025</b><br>Muara Festival @ Esplanade<br>Cantabile 2025 - Concert for Hope (YCKSS 60<sup>th</sup> Anniversary)</li>
+        </ul>
         <ul>
             <li><b>2024</b><br>National Day Observance Ceremony<br>Muara Festival @ Esplanade – Inang : Terendak Ria<br>Cantabile Concert</li>
         </ul>
@@ -101,220 +121,498 @@ third_nav_title: Performing Arts
         <ul>
             <li><b>2011</b><br>'Rindu' (SYF Central Judging - Gold Award)</li>
         </ul>
-    </div>
-    <div class="column">
-        <h4 class="yck-h4">Events/Competitions</h4>
-        <ul>
-            <li>Singapore Youth Festival – Arts Presentation</li>
-            <li>School Speech Day</li>
-            <li>Muara Festival @Esplanade</li>
-            <li>National Day Parade Celebration</li>
-            <li>National Day Observance Ceremony</li>
-            <li>Cantabile Concert</li>
-            <li>Chinese New Year Celebration</li>
-        </ul>
-    </div>
-</div>
-</div>
-<div class="yck-component">
+	</section>
+	</article>
+<article>
+	<section>
 			<h4>GALLERY</h4>
 			<div class="video-container">
 					 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Y0GbggmgiHM?si=jUXb6_t78UseHnXY" height="315" width="560"></iframe></div>
 				<div class="video-container">
 					<iframe src="https://www.youtube.com/embed/rq9OGwsQ_VM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 				</div>
-	</div>
-<div class="yck-component">
-        <details class="yck-details">
-    <summary class="yck-details__summary">
-        <h5 class="yck-h4">Photos Gallery</h5>
+	</section>
+	<section>
+        <details>
+    <summary>
+        <h5>Photos Gallery</h5>
     </summary>
-    <div class="yck-details__content">
-        <div class="yck-gallery-container">
-            <div class="yck-image-row">
-							<ul class="yck-flexbox-grid">
-							<li><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M1.jpg"></li>
-							<li><img alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M3plus.jpg"></li>
-								<li><img alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M2_2025.png"></li><li><img alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M3_2025.png"></li>
-							</ul>
+    <div><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M1.jpg"><img alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M3plus.jpg"><img alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M2_2025.png"><img alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M3_2025.png">
               <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M4.png">
               <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M5.png">
               <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M6.png">
-            </div>
-        </div>
     </div>
 </details>
-</div>    
-
+		</section>
+		</article>
+	</div>
+</div>
 
 <style>
+/* Root Variables */
 :root {
+  /* @link https://utopia.fyi/type/calculator?c=320,12,1.2,1400,20,1.25,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
+  --yck-step--2: clamp(0.5208rem, 0.4381rem + 0.4136vw, 0.8rem);
+  --yck-step--1: clamp(0.625rem, 0.5139rem + 0.5556vw, 1rem);
+  --yck-step-0: clamp(0.75rem, 0.6019rem + 0.7407vw, 1.25rem);
+  --yck-step-1: clamp(0.9rem, 0.7037rem + 0.9815vw, 1.5625rem);
+  --yck-step-2: clamp(1.08rem, 0.8213rem + 1.2935vw, 1.9531rem);
+  --yck-step-3: clamp(1.296rem, 0.9566rem + 1.6969vw, 2.4414rem);
+  --yck-step-4: clamp(1.5552rem, 1.1118rem + 2.2171vw, 3.0518rem);
+  --yck-step-5: clamp(1.8662rem, 1.2889rem + 2.8866vw, 3.8147rem);
+
+    /* Fluid spacing */
+    --yck-space-s-xl: clamp(1rem, -0.239rem + 4.32vw, 3rem); 
+    --yck-space-xs: calc(var(--yck-space-s-xl) * 0.25);
+    --yck-space-sm: calc(var(--yck-space-s-xl) * 0.5);
+    --yck-space-md: calc(var(--yck-space-s-xl) * 0.75);
+    --yck-space-lg: calc(var(--yck-space-s-xl) * 1.25);
+    --yck-space-xl: calc(var(--yck-space-s-xl) * 1.5);
+    
+    /* YCK Orange: Chaat Masala */
+    --yck-orange-100: #FFFBF2;
+    --yck-orange-200: #FFE9C1;
+    --yck-orange-300: #FBCE8F;
+    --yck-orange-400: #F3AC5C;
+    --yck-orange-500: #E3812B;
+    --yck-orange-600: #B4520E;
+    --yck-orange-700: #853003;
+    --yck-orange-800: #551900;
+    --yck-orange-900: #260900;
+
+    /* YCK Greens: Algal Fuel */
+    --yck-green100: #F2FFFB;
+    --yck-green200: #BCFEE6;
+    --yck-green300: #83F8C7;
+    --yck-green400: #4AE79D;
+    --yck-green500: #16C768;
+    --yck-green600: #079F45;
+    --yck-green700: #02772B;
+    --yck-green800: #004E17;
+    --yck-green900: #002609;
+
+    /* Neutral */
+    --neutral-100: #FCFCFA;
+    --neutral-200: #EAE8E4;
+    --neutral-300: #D7D3CE;
+    --neutral-400: #C5BFB9;
+    --neutral-500: #B3ABA4;
+    --neutral-600: #8F8883;
+    --neutral-700: #6C6663;
+    --neutral-800: #494442;
+    --neutral-900: #262322;
+
+    --yck-color-text-primary: var(--neutral-800);
+    --yck-color-text-secondary: var(--neutral-700);
+    --yck-color-background: #fff;
+    --yck-color-textlink: #e37f2a;
+    --yck-color-accent: #e37f2a;
+    --yck-color-border: #cbd5e1;
+    --yck-color-card-bg: #f8fafc;
+    --yck-color-hover: #f9cc99;
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
-    --yck-spacing-unit: 1em;
-    --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
-    --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
+    --yck-spacing-unit: 1rem;
+    --yck-rounded-corners: 10px;
 
-    --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
-    --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
-    --yck-step-0: clamp(1.125rem, 1.125rem + 0vw, 1.125rem);
-    --yck-step-1: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem);
-    --yck-step-2: clamp(1.4238rem, 1.3556rem + 0.3412vw, 1.62rem);
-    --yck-step-3: clamp(1.6018rem, 1.4828rem + 0.5951vw, 1.944rem);
-    --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
-    --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
+/* Shadows */
+  --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+  --yck-box-shadow1: 0 1px 2px rgba(0, 0, 0, 0.15);
+  --yck-inset-shadow1: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+  --yck-inset-shadow2: rgb(204, 219, 232) 3px 3px 6px 0px inset,
+    rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+  --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
 
-    --yck-space-s-xl: clamp(0.75rem, 0.2143rem + 3.9286vw, 3.75rem);
-    interpolate-size: allow-keywords;
+  --font-system-ui: system-ui, sans-serif;
+  --font-transitional: Charter, Bitstream Charter, Sitka Text, Cambria, serif;
+  --font-old-style: Iowan Old Style, Palatino Linotype, URW Palladio L, P052,
+    serif;
+  --font-humanist: Seravek, Gill Sans Nova, Ubuntu, Calibri, DejaVu Sans,
+    source-sans-pro, sans-serif;
+  --font-geometric-humanist: Avenir, Montserrat, Corbel, URW Gothic,
+    source-sans-pro, sans-serif;
+  --font-classical-humanist: Optima, Candara, Noto Sans, source-sans-pro,
+    sans-serif;
+  --font-neo-grotesque: Inter, Roboto, Helvetica Neue, Arial Nova, Nimbus Sans,
+    Arial, sans-serif;
+  --font-monospace-slab-serif: Nimbus Mono PS, Courier New, monospace;
+  --font-monospace-code: Dank Mono, Operator Mono, Inconsolata, Fira Mono,
+    ui-monospace, SF Mono, Monaco, Droid Sans Mono, Source Code Pro,
+    Cascadia Code, Menlo, Consolas, DejaVu Sans Mono, monospace;
+  --font-industrial: Bahnschrift, DIN Alternate, Franklin Gothic Medium,
+    Nimbus Sans Narrow, sans-serif-condensed, sans-serif;
+  --font-rounded-sans: ui-rounded, Hiragino Maru Gothic ProN, Quicksand,
+    Comfortaa, Manjari, Arial Rounded MT, Arial Rounded MT Bold, Calibri,
+    source-sans-pro, sans-serif;
+  --font-slab-serif: Rockwell, Rockwell Nova, Roboto Slab, DejaVu Serif,
+    Sitka Small, serif;
+  --font-antique: Superclarendon, Bookman Old Style, URW Bookman, URW Bookman L,
+    Georgia Pro, Georgia, serif;
+  --font-didone: Didot, Bodoni MT, Noto Serif Display, URW Palladio L, P052,
+    Sylfaen, serif;
+  --font-handwritten: Segoe Print, Bradley Hand, Chilanka, TSCu_Comic, casual,
+    cursive;
+
+  interpolate-size: allow-keywords;
+  scroll-behavior: smooth;
+  text-rendering: optimizeSpeed;
+}
+	
+/* Box Sizing */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
-.yck-component {
-    line-height: var(--yck-text-line-height);
-    letter-spacing: normal;
+html {
+  font-size: 100%;
+  /* [3] Define base font size in percentage for accessibility. */
+}
+
+a {
+  text-decoration: none;
+  /* [4] Remove default underline for a cleaner look. */
+  color: inherit;
+  /* [7] Inherit color from parent for consistency. */
+}
+
+
+button,
+a.button {
+  border: none;
+  /* [4] Remove default border. */
+  background-color: transparent;
+  /* [4] Remove default background color. */
+  font-family: inherit;
+  /* [4] Inherit font family from parent for consistency. */
+  padding: 0;
+  /* [4] Remove default padding. */
+  cursor: pointer;
+  /* [4] Provide visual feedback to users that the element is interactive. */
+
+  /* Accessibility - Windows High Contrast Mode */
+  @media screen and (-ms-high-contrast: active) {
+    border: 2px solid currentcolor;
+    /* [4] Ensure a perceivable button border for improved accessibility. */
+  }
+}
+
+
+ol,
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  /* [8] Remove default list styles for greater styling control. */
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+  vertical-align: middle;
+}
+
+main,
+header,
+footer,
+nav,
+article,
+section,
+aside,
+div,
+p {
+  margin: 0 auto;
+  padding: 0;
+}
+
+body {
+    min-height: 100dvh;
+    font-family: inherit;
     font-size: var(--yck-step-0);
+    color: var(--yck-color-text-primary);
+    line-height: var(--yck-text-line-height);
+    word-break: break-word;
+    overflow-wrap: break-word;
+}
+
+::selection {
+    background: rgba(255, 255, 0, 0.35);
+}
+/* Component Wrappers - div, article, main, section */
+.yck-component {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.yck-component .regular-flow>*+* {
+    margin-top: 1.125em;
+}
+
+
+.yck-component p {
+    text-wrap: pretty;
+    font-size: var(--yck-step-0);
+    letter-spacing: normal;
+    line-height: var(--yck-text-line-height);
+}
+
+
+.yck-component div p:last-of-type,
+main p:last-child,
+.yck-component section p:last-of-type,
+article p:last-child {
     margin-bottom: var(--yck-space-s-xl);
 }
 
+/* Headings */
 .yck-component h1,
+.yck-component .yck-h1,
 .yck-component h2,
+.yck-component .yck-h2,
 .yck-component h3,
+.yck-component .yck-h3,
 .yck-component h4,
+.yck-component .yck-h4,
 .yck-component h5,
+.yck-component .yck-h5,
 .yck-component h6,
+.yck-component .yck-h6,
 .yck-component p {
     overflow-wrap: break-word;
 }
 
 .yck-component h1,
+.yck-component .yck-h1,
 .yck-component h2,
+.yck-component .yck-h2,
 .yck-component h3,
+.yck-component .yck-h3,
 .yck-component h4,
+.yck-component .yck-h4,
 .yck-component h5,
-.yck-component h6 {
+.yck-component .yck-h5,
+.yck-component h6,
+.yck-component .yck-h6 {
     text-wrap: balance;
 }
 
-.yck-component a,
-.yck-component a:hover {
-    text-decoration: none;
+.yck-component h1,
+.yck-component .yck-h1 {
+    font-size: var(--yck-step-5);
+    font-weight: 800;
+    line-height: var(--yck-heading-line-height);
 }
 
-.yck-component p,
-.yck-component ol,
-.yck-component ul {
-    text-wrap: pretty;
-    margin-bottom: var(--yck-space-s-xl);
+.yck-component h2,
+.yck-component .yck-h2 {
+    font-size: var(--yck-step-4);
+    font-weight: 600;
+    line-height: var(--yck-heading-line-height);
 }
 
-.yck-component p:last-child,
+.yck-component h3,
+.yck-component .yck-h3 {
+    font-size: var(--yck-step-3);
+    font-weight: 400;
+    line-height: var(--yck-heading-line-height);
+}
+
+.yck-component h4,
+.yck-component .yck-h4 {
+    font-size: var(--yck-step-2);
+    line-height: var(--yck-heading-line-height);
+}
+
+.yck-component h5,
+.yck-component .yck-h5 {
+    font-size: var(--yck-step-1);
+    text-transform: uppercase;
+    line-height: var(--yck-heading-line-height);
+}
+
+.yck-component h6,
+.yck-component .yck-h6 {
+    font-size: var(--yck-step-0);
+    text-transform: uppercase;
+    line-height: var(--yck-heading-line-height);
+}
+
+.yck-component small,
+.yck-component .small,
+small {
+    font-size: var(--yck-step--2);
+    line-height: calc(var(--yck-text-line-height) * 0.75);
+}
+/* Ordered and Unordered Lists */
+.yck-component * ol,
+.yck-component * ul {
+    padding: 0;
+    margin: 0;
+    padding-left: 1.5em;
+}
+
+.yck-component * li {
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+
+.yck-component ul li,
+.yck-component ol li {
+    line-height: 1.5;
+    margin: 0;
+}
+
 .yck-component ul li:last-child,
 .yck-component ol li:last-child {
-    margin-bottom: calc(var(--yck-spacing-unit) * 2);
+    margin-bottom: var(--yck-step-3);
 }
 
-.yck-component .yck-h1,
-.yck-component h1 {
-    font-size: var(--yck-step-5);
-    margin-bottom: var(--yck-space-s-xl);
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
+.yck-component li ul,
+.yck-component li ol {
+    margin-top: 0;
 }
 
-.yck-component .yck-h2,
-.yck-component h2 {
-    font-size: var(--yck-step-4);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.6);
-    text-transform: capitalize;
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
-}
-
-.yck-component .yck-h3,
-.yck-component h3 {
-    font-size: var(--yck-step-3);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
-    text-transform: capitalize;
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
-}
-
-.yck-component .yck-h4,
-.yck-component h4 {
-    font-size: var(--yck-step-2);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.3);
-    text-transform: capitalize;
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
-}
-
-.yck-component .yck-h5,
-.yck-component h5 {
-    font-size: var(--yck-step-1);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.1);
-    text-transform: uppercase;
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
-}
-
-.yck-component .yck-h6,
-.yck-component h6 {
-    font-size: var(--yck-step-0);
+.yck-component li ul li:last-child,
+.yck-component li ol li:last-child {
     margin-bottom: var(--yck-spacing-unit);
-    text-transform: uppercase;
-    line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.yck-component hr,
-hr {
-    border: 1px dotted slategrey;
-    margin-block: clamp(1rem, 2vw, 2.5rem);
-}
-
-.yck-component .yck-table {
+/* --- Tables --- */
+.yck-component .yck-table,
+.yck-component table {
+    display: table;
     border-collapse: collapse;
-    max-width: 100%;
-    margin-top: 0.5em;
-    margin-bottom: var(--yck-spacing-unit);
+    width: 100%;
+    min-width: 360px;
+    margin-bottom: var(--yck-space-s-xl);
+    font-size: var(--yck-step--1);
+    border: 1px dotted lightgrey;
+    margin-top: 1.5em;
+    /* Increased top margin for more breathing room */
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    /* Added a subtle shadow for depth */
+    border-radius: 8px;
+    /* Rounded corners for a modern look */
+    overflow: hidden;
+    /* Ensures box-shadow and border-radius clip correctly */
 }
 
-.yck-component .yck-th {
-    background-color: #f2f2f2;
-    text-align: left;
+.yck-component .yck-th,
+.yck-component th,
+.yck-component .yck-td,
+.yck-component td {
+    display: table-cell;
+    font-size: var(--yck-step-0);
+    min-width: 120px;
+    vertical-align: top;
+    padding: var(--yck-spacing-unit);
+}
+
+.yck-component .yck-th,
+.yck-component th {
+    background-color: #cfcfcf;
     border-bottom: 1px dotted #ddd;
     text-transform: uppercase;
+    font-weight: bold;
+    line-height: 1.3;
+    letter-spacing: 0.05em;
+    text-wrap: balance;
 }
 
-.yck-component .yck-th h4,
-.yck-component .yck-th h5,
-.yck-component .yck-th h6 {
-    margin: 0 0 0.5em;
-}
-
-.yck-component .yck-td {
+.yck-component .yck-td,
+.yck-component td {
     border-bottom: 1px dotted #ddd;
-    min-width: 120px;
-    max-width: 100%;
     word-wrap: break-word;
     text-wrap: pretty;
-    padding-top: 0.5em;
-    padding-bottom: 0.5em;
+    line-height: 1.4;
 }
 
-.yck-component .yck-table tbody .yck-td,
-.yck-component .yck-table tbody .yck-td p {
-    margin-top: 0;
+.yck-component .yck-td *,
+.yck-component .yck-td p,
+.yck-component .yck-td ul,
+.yck-component .yck-td ol {
+    margin-block: var(--yck-step--2);
+}
+
+.yck-component .yck-th:nth-child(1),
+.yck-component .yck-td:nth-child(1) {
+    font-weight: 700;
+}
+
+.yck-component .yck-td:nth-child(n+2) {
+    text-align: left;
+}
+
+.yck-component .yck-td li {
     margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
-    line-height: 1.5rem;
-    padding-bottom: 0.25em;
-    font-size: var(--yck-step-0);
+    line-height: 1.4;
 }
 
-/* Apply margin-bottom only when it is the last table-date in the row or contains the last paragraph */
-.yck-component .yck-table tbody tr:last-child .yck-td:last-child,
-.yck-component .yck-table tbody tr:last-child .yck-td:last-child p:last-child {
+.yck-component .yck-td>*:last-child,
+.yck-component .yck-td>p:last-child,
+.yck-component .yck-td>ul:last-child,
+.yck-component .yck-td>ol:last-child {
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+}
+
+.yck-component .yck-td ul:last-child li:last-child,
+.yck-component .yck-td ol:last-child li:last-child {
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+}
+
+.yck-component .yck-table tbody tr:last-child .yck-td>*:last-child {
     margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component .yck-table tr {
+    background-color: inherit;
+    transition: background-color 0.8s ease;
+}
+
+.yck-component .yck-table tr:hover,
+.yck-component .yck-table tr:nth-child(even):hover {
+    background-color: #fef7e0;
+    transition: background-color 0.8s ease;
+}
+
+.yck-component .yck-table tbody tr:nth-child(even) {
+    background-color: #f3f3f3;
+    transition: background-color 0.8s ease;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+
+    .yck-component .yck-table,
+    .yck-component table {
+        font-size: calc(var(--yck-step--1) * 0.9);
+    }
+
+    .yck-component .yck-th,
+    .yck-component th,
+    .yck-component .yck-td,
+    .yck-component td {
+        padding: calc(var(--yck-spacing-unit) * 0.5);
+    }
 }
 
 .yck-component .video-container {
@@ -335,119 +633,7 @@ hr {
     height: 100%;
 }
 
-.yck-component .col-container {
-    width: 100%;
-    max-width: 1000px;
-    margin: 0 auto;
 
-    /* CSS Multi-column Layout properties */
-    column-count: 2;
-    column-width: 360px;
-    column-gap: 1.5em;
-}
-
-.yck-component .isomer-card,
-.yck-component .column {
-    break-inside: avoid;
-    /* Prevents content from breaking across columns */
-    page-break-inside: avoid;
-    /* For older browsers */
-    padding: 20px;
-    /*     margin-block:  calc(var(--yck-spacing-unit)*0.5); */
-    border-radius: 5px;
-    box-shadow: var(--yck-box-shadow);
-}
-
-.yck-component .column {
-    margin-bottom: var(--yck-spacing-unit) !important;
-}
-
-.yck-component .column ul,
-.yck-component .column ol {
-    list-style: none;
-    line-height: 1.5em;
-    margin: 0;
-    padding: 0;
-}
-
-.yck-component .column ul li {
-    margin-left: 1rem;
-}
-
-/* Apply the animation on hover */
-.yck-component .column ul li:hover {
-    animation: fadeIn 1.25s forwards;
-}
-
-/* Revert the animation when not hovering */
-.yck-component .column ul li:not(:hover) {
-    animation: fadeOut 1.25s forwards;
-}
-
-
-
-.yck-component .yck-flexbox-grid {
-    --yck-min: minmax(25ch 100%);
-    --yck-gap: 1.5em;
-    display: flex;
-    flex-wrap: wrap;
-    list-style: none;
-    gap: var(--yck-gap);
-}
-
-.yck-component .yck-flexbox-grid>* {
-    flex: 1 1 var(--yck-min);
-    list-style: none;
-}
-
-.yck-component .yck-flexbox-grid .isomer-card {
-    text-decoration: none;
-    margin: 0 auto;
-    padding: 0;
-}
-
-.yck-component .yck-flexbox-grid .isomer-card:hover .isomer-card-body .isomer-card-link {
-    color: #3a79ff;
-}
-
-.yck-component .yck-flexbox-grid .isomer-card .isomer-card-image {
-    width: 100%;
-    object-fit: cover;
-}
-
-
-.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body {
-    padding: var(--yck-spacing-unit);
-}
-
-.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title {
-    color: #4a4a4a;
-    font-weight: 700;
-    font-size: var(--yck-step-1);
-    overflow-wrap: break-word;
-    text-wrap: balance;
-}
-
-.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-description {
-    color: #484848;
-/*     font-size: 1rem; */
-    font-size: var(--yck-step-0);
-}
-
-.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-link {
-    font-size: var(--yck-step-0);
-    text-decoration: underline;
-    color: #4372d6
-}
-
-.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-description) {
-    margin-bottom: 0.75rem
-}
-
-.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-link),
-.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-description:has(+.isomer-card-link) {
-    margin-bottom: 1.5rem
-}
 
 
 .yck-component .bqcontainer {
@@ -493,26 +679,30 @@ hr {
     text-align: right;
 }
 
-.yck-component figure {
-    /*   border: thin #c0c0c0 solid; */
-    display: flex !important;
-    flex-flow: column !important;
-    /*   padding: 5px; */
+.yck-component figure,
+.yck-component .figure {
+    display: block;
+    border-radius: var(--yck-rounded-corners);
     max-width: 100%;
-    margin: auto !important;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
 }
 
-.yck-component figure img {
-    border-radius: 8px;
-    box-shadow: var(--yck-box-shadow);
+.yck-component figure img,
+.yck-component .figure img {
+    border-radius: var(--yck-rounded-corners);
 }
 
-.yck-component figcaption {
-    background-color: rgba(255, 255, 255, 0.75);
-    color: #333;
-    font: italic var(--yck-step--1) sans-serif;
-    padding: 5px;
+.yck-component figcaption,
+.yck-component .caption {
+    display: block;
     text-align: center;
+    font-weight: 300;
+    font-style: oblique;
+    margin: 0 auto;
+    padding: 0;
+    font-size: var(--yck-step--1);
 }
 
 .ken-burns-container {
