@@ -10,7 +10,7 @@ third_nav_title: Performing Arts
 		<article>
 			<section>
 				<figure class="ken-burns-container">
-    <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M1_2025.png" class="ken-burns-image">
+    <img alt="" src="/images/Our%20ccas/Malay%20Dance/2026_MalayDance01.jpg" class="ken-burns-image">
 				</figure>
 
 <h3>Overview</h3>
