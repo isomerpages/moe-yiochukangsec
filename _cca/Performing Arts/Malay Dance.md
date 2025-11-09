@@ -137,11 +137,11 @@ third_nav_title: Performing Arts
     <summary>
         <h5>Photos Gallery</h5>
     </summary>
-    <div><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M1.jpg"><img alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M3plus.jpg"><img alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M2_2025.png"><img alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M3_2025.png">
-              <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M4.png">
-              <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M5.png">
+    <figure><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M1.jpg"></figure><figure><img alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M3plus.jpg"></figure><figure><img alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M2_2025.png"></figure><figure><img alt="" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M3_2025.png"></figure><figure>
+              <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M4.png"></figure><figure>
+              <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M5.png"></figure><figure>
               <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Malay%20Dance/M6.png">
-    </div>
+    </figure>
 </details>
 		</section>
 		</article>
@@ -728,256 +728,80 @@ small {
     }
 }
 
-details {
+/* --- Details Summary --- */
+.yck-component details {
     overflow: hidden;
+    border-radius: 10px;
+    background-color: #fff;
+    transition: box-shadow .5s ease-out;
 }
 
-details * {
+.yck-component details[open] {
+    /* Shadow applied to the whole container when open */
+    box-shadow: var(--yck-inset-shadow2);
+}
+
+.yck-component details * {
     margin: 0 !important;
+    padding: 0;
 }
 
-details > p,
-details ul li {
-    margin-inline-start: 1.5rem !important;
-    padding-block: calc(var(--yck-spacing-unit) * 0.5);
+.yck-component details>ul {
+    /* list-style: none; */
 }
 
-summary {
-    margin-inline-start: 1.5rem !important;
+.yck-component summary {
+    position: relative;
+    padding: 1rem 3rem 1rem 1.5rem;
     list-style-position: outside;
     cursor: pointer;
+    user-select: none;
+    outline: none;
     font-size: var(--yck-step-1);
+    font-weight: 500;
+    transition: background-color .5s ease-in;
 }
 
-summary::marker {
-    font-size: var(--yck-step-1);
+.yck-component summary:hover {
+    background-color: rgba(0, 0, 0, .03);
+    box-shadow: var(--yck-box-shadow1);
 }
 
-details::details-content {
-    font-size: var(--yck-step-0);
-    block-size: 0;
-    transition:
-        block-size 1s,
-        content-visibility 1s;
-    transition-behavior: allow-discrete;
+.yck-component summary::marker {
+    content: "";
 }
 
-details[open]::details-content {
-    block-size: auto;
-    -webkit-animation: fade-in 1.6s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
-    animation: fade-in 1.6s ease-in both;
+.yck-component summary::after {
+    content: "+";
+    position: absolute;
+    font-size: var(--yck-step-2);
+    line-height: 1;
+    right: 1rem;
+    top: 50%;
+    transform: translateY(-50%) rotate(0deg);
+    transition: transform .65s cubic-bezier(.25, 1, .5, 1);
 }
 
-
-/* Define the keyframes for the fadeIn effect */
-@keyframes fadeIn {
-    from {
-        border-bottom: 1px solid #eee;
-    }
-
-    to {
-        border-bottom: 1px solid #e37f2a;
-    }
+.yck-component details[open]>summary::after {
+    transform: translateY(-50%) rotate(135deg);
 }
 
-/* Define the keyframes for the fadeOut effect */
-@keyframes fadeOut {
-    from {
-        border-bottom: 1px solid #e37f2a;
-    }
-
-    to {
-        border-bottom: 1px solid #eee;
-    }
-}
-
-.fade-in {
-    -webkit-animation: fade-in 1.2s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
-    animation: fade-in 1.2s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
-}
-
-/**
- * ----------------------------------------
- * animation fade-in
- * ----------------------------------------
- */
-@-webkit-keyframes fade-in {
-    0% {
-        opacity: 0;
-    }
-
-    100% {
-        opacity: 1;
-    }
+.yck-component details>*:not(summary) {
+    padding: 1rem 1.5rem 1.5rem 1.5rem;
+    animation: fade-in .5s ease .5s;
+    animation-fill-mode: both;
 }
 
 @keyframes fade-in {
-    0% {
+    from {
         opacity: 0;
+        transform: translateY(-10px);
     }
 
-    100% {
+    to {
         opacity: 1;
+        transform: translateY(0);
     }
 }
-
-/**
- * ----------------------------------------
- * animation kenburns-right
- * ----------------------------------------
- */
-@-webkit-keyframes kenburns-right {
-    0% {
-        -webkit-transform: scale(1) translate(0, 0);
-        transform: scale(1) translate(0, 0);
-        -webkit-transform-origin: 84% 50%;
-        transform-origin: 84% 50%;
-    }
-
-    100% {
-        -webkit-transform: scale(1.25) translateX(20px);
-        transform: scale(1.25) translateX(20px);
-        -webkit-transform-origin: right;
-        transform-origin: right;
-    }
-}
-
-@keyframes kenburns-right {
-    0% {
-        -webkit-transform: scale(1) translate(0, 0);
-        transform: scale(1) translate(0, 0);
-        -webkit-transform-origin: 84% 50%;
-        transform-origin: 84% 50%;
-    }
-
-    100% {
-        -webkit-transform: scale(1.25) translateX(20px);
-        transform: scale(1.25) translateX(20px);
-        -webkit-transform-origin: right;
-        transform-origin: right;
-    }
-}
-
-/**
- * ----------------------------------------
- * animation kenburns-bottom
- * ----------------------------------------
- */
-@-webkit-keyframes kenburns-bottom {
-    0% {
-        -webkit-transform: scale(1) translateY(0);
-        transform: scale(1) translateY(0);
-        -webkit-transform-origin: 50% 84%;
-        transform-origin: 50% 84%;
-    }
-
-    100% {
-        -webkit-transform: scale(1.25) translateY(15px);
-        transform: scale(1.25) translateY(15px);
-        -webkit-transform-origin: bottom;
-        transform-origin: bottom;
-    }
-}
-
-@keyframes kenburns-bottom {
-    0% {
-        -webkit-transform: scale(1) translateY(0);
-        transform: scale(1) translateY(0);
-        -webkit-transform-origin: 50% 84%;
-        transform-origin: 50% 84%;
-    }
-
-    100% {
-        -webkit-transform: scale(1.25) translateY(15px);
-        transform: scale(1.25) translateY(15px);
-        -webkit-transform-origin: bottom;
-        transform-origin: bottom;
-    }
-}
-
-/**
- * ----------------------------------------
- * animation kenburns-top
- * ----------------------------------------
- */
-@-webkit-keyframes kenburns-top {
-    0% {
-        -webkit-transform: scale(1) translateY(0);
-        transform: scale(1) translateY(0);
-        -webkit-transform-origin: 50% 16%;
-        transform-origin: 50% 16%;
-    }
-
-    100% {
-        -webkit-transform: scale(1.25) translateY(-15px);
-        transform: scale(1.25) translateY(-15px);
-        -webkit-transform-origin: top;
-        transform-origin: top;
-    }
-}
-
-@keyframes kenburns-top {
-    0% {
-        -webkit-transform: scale(1) translateY(0);
-        transform: scale(1) translateY(0);
-        -webkit-transform-origin: 50% 16%;
-        transform-origin: 50% 16%;
-    }
-
-    100% {
-        -webkit-transform: scale(1.25) translateY(-15px);
-        transform: scale(1.25) translateY(-15px);
-        -webkit-transform-origin: top;
-        transform-origin: top;
-    }
-}
-
-/**
- * ----------------------------------------
- * animation kenburns-left
- * ----------------------------------------
- */
-@-webkit-keyframes kenburns-left {
-    0% {
-        -webkit-transform: scale(1) translate(0, 0);
-        transform: scale(1) translate(0, 0);
-        -webkit-transform-origin: 16% 50%;
-        transform-origin: 16% 50%;
-    }
-
-    100% {
-        -webkit-transform: scale(1.25) translate(-20px, 15px);
-        transform: scale(1.25) translate(-20px, 15px);
-        -webkit-transform-origin: left;
-        transform-origin: left;
-    }
-}
-
-@keyframes kenburns-left {
-    0% {
-        -webkit-transform: scale(1) translate(0, 0);
-        transform: scale(1) translate(0, 0);
-        -webkit-transform-origin: 16% 50%;
-        transform-origin: 16% 50%;
-    }
-
-    100% {
-        -webkit-transform: scale(1.25) translate(-20px, 15px);
-        transform: scale(1.25) translate(-20px, 15px);
-        -webkit-transform-origin: left;
-        transform-origin: left;
-    }
-}
-
-@media (prefers-reduced-motion: reduce) {
-    * {
-        animation-duration: 0.01ms !important;
-        animation-iteration-count: 1 !important;
-        transition-duration: 0.01ms !important;
-        scroll-behavior: auto !important;
-    }
-}
-
-
 
   </style>
