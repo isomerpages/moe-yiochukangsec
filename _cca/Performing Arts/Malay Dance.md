@@ -361,6 +361,10 @@ body {
     max-width: 1200px;
     margin: 0 auto;
 }
+	
+.yck-component section {
+	margin-block: var(--yck-space-s-xl);
+}
 
 .yck-component .regular-flow>*+* {
     margin-top: 1.125em;
