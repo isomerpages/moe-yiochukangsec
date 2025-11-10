@@ -346,8 +346,8 @@ body {
     margin-top: 1.125em;
 }
 
-
-.yck-component p {
+.yck-component p,
+.yck-component li {
     text-wrap: pretty;
     font-size: var(--yck-step-0);
     letter-spacing: normal;
