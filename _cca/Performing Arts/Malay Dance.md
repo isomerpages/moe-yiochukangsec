@@ -427,16 +427,29 @@ body {
 .yck-component .regular-flow>*+* {
     margin-top: 1.125em;
 }
-
-
-.yck-component p {
+.yck-component p,
+.yck-component li {
     text-wrap: pretty;
     font-size: var(--yck-step-0);
     letter-spacing: normal;
     line-height: var(--yck-text-line-height);
 }
+	
+.yck-component abbr {
+    text-decoration: underline dotted #2c6139;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+    color: #2c6139;
+    font-weight: 600;
+    cursor: help;
+    transition: color 0.5 ease;
+}
 
-
+.yck-component abbr:hover,
+.yck-component abbr:active,
+.yck-component abbr:focus {
+    color: #4fb568;
+}
 .yck-component div p:last-of-type,
 main p:last-child,
 .yck-component section p:last-of-type,
