@@ -6,9 +6,10 @@ third_nav_title: Non Academic Programmes
 variant: markdown
 ---
 <div class="yck-component" id="top">
+	<div class="regular-flow">
+							<article>
+							<section>
     <p>The CCA Programme provides our students with a platform to discover their interests and talents. Students will progressively develop CCA-specific knowledge, skills, values and attitudes through sustained participation CCA.&nbsp; Explore the following tabs to learn more.</p>
-</div>
-<div class="yck-component">
     <div class="yck-flexbox-grid">
             <details name="ccas">
                 <summary>Clubs</summary>
@@ -46,13 +47,11 @@ variant: markdown
                 </ul>
             </details>
         </div>
-    </div>
-
-<hr>
-<div class="yck-component">
+    </section></article></div>
+    
+		<hr>
+    <section>
     <h2 class="yck-h2">CCA Learning Outcomes and Policy</h2>
-</div>
-<div class="yck-component">
     <h3 class="yck-h3">CCA Learning Outcomes</h3>
     <p>Through participating in the CCAs, we help students develop and demonstrate the following:</p>
     <ul>
@@ -70,8 +69,8 @@ variant: markdown
 			<li>The <a class="text-link" href="/cca/all-ccas/#uniform">Uniformed Groups</a> develop students into good citizens by inculcating in them self-reliance, resilience, discipline and a spirit of service to others.</li>
 			<li>The <a class="text-link" href="/cca/all-ccas/#clubs">Clubs</a> allow students to explore and extend their interests in wide-ranging and specialised areas which may be knowledge-based or skills-based.</li>
     </ul>
-</div>
-<div class="yck-component">
+    </section>
+    <section>
     <h3 class="yck-h3">CCA Policy</h3>
     <ul>
         <li>CCA participation in school is <strong>compulsory</strong> for all students in secondary schools. Students are required to be <strong>active in at least one CCA</strong>. As we strive to meet the diverse needs of the students, there is a quota in the number of members a CCA can offer due to constraint in facilities and/or manpower.</li>
@@ -85,15 +84,12 @@ variant: markdown
             </ul>
         </li>
     </ul>
-</div>
-<div class="yck-component">
-                            <div class="button-container">
-                                <a href="#top" class="button">Back to Top</a>
-                            </div>
-                        </div>
-<div class="yck-component">
+    </section>
+    <section>
     <h4 class="yck-h4">CCA Stand Down for Exams</h4>
     <p>In general, CCAs will stand down 2 weeks before the start of examinations. If there are CCAs still in competitions or completing badge work in UGs, they will stand down immediately after the last day of competition. CCAs will resume after the last day of exams.</p>
+			    </section>
+    <section>
     <h4 class="yck-h4">Recognition of Students’ Level of Attainment</h4>
     <p>At the end of the graduating year, students’ co-curricular attainment will be recognised according to Excellent/Good/Fair.</p>
     <p>The level of attainment will be converted to a bonus point(s) which can be used for admission to Junior Colleges/ Polytechnics/ Institutes of Technical Education (JC/Poly/ITE).</p>
@@ -123,15 +119,16 @@ variant: markdown
             </tr>
         </tbody>
     </table>
-</div>
-<div class="yck-component">
+    </section>
+    <section>
     <p>For more information on <abbr title="Leadership, Enrichment, Achievement, Participation and Service">LEAPS 2.0</abbr>, please refer to the following website: <a class="text-link" target="_blank" href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0">LEAPS 2.0</a></p>
-</div>
-<div class="yck-component">
                             <div class="button-container">
                                 <a href="#top" class="button">Back to Top</a>
                             </div>
-                        </div>
+		</section>
+		
+	</div>
+	
 
 
 
