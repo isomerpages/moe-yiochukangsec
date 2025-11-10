@@ -89,38 +89,96 @@ third_nav_title: Performing Arts
 			<section>
         <h4 class="yck-h4">Events/Competitions &amp; Proudest Moments</h4>
 			<ul>
-            <li><b>2025</b><br>Muara Festival @ Esplanade<br>Cantabile 2025 - Concert for Hope (YCKSS 60<sup>th</sup> Anniversary)</li>
+				<li><h5>2025</h5><ul><li>Muara Festival @ Esplanade</li><li>Cantabile 2025 - Concert for Hope (YCKSS 60<sup>th</sup> Anniversary)</li>
         </ul>
+				</li></ul>
         <ul>
-            <li><b>2024</b><br>National Day Observance Ceremony<br>Muara Festival @ Esplanade – Inang : Terendak Ria<br>Cantabile Concert</li>
-        </ul>
+    <li>
+        <h5>2024</h5>
         <ul>
-            <li><b>2023</b><br>National Day Parade Performance<br>Muara Festival @ Esplanade<br>Cantabile Concert</li>
+            <li>National Day Observance Ceremony</li>
+            <li>Muara Festival @ Esplanade – Inang : Terendak Ria</li>
+            <li>Cantabile Concert</li>
         </ul>
+    </li>
+</ul>
+<ul>
+    <li>
+        <h5>2023</h5>
         <ul>
-            <li><b>2022</b><br>Hari Raya Celebrations @ Singapore Police Force F Division Ang Mo Kio Headquarters</li>
+            <li>National Day Parade Performance</li>
+            <li>Muara Festival @ Esplanade</li>
+            <li>Cantabile Concert</li>
         </ul>
+    </li>
+</ul>
+<ul>
+    <li>
+        <h5>2022</h5>
         <ul>
-            <li><b>2021</b><br>'Perlindungan' SYF Arts Presentation - Certificate of Accomplishment</li>
+            <li>Hari Raya Celebrations @ Singapore Police Force F Division Ang Mo Kio Headquarters</li>
         </ul>
+    </li>
+</ul>
+<ul>
+    <li>
+        <h5>2021</h5>
         <ul>
-            <li><b>2019</b><br>'Tampi' SYF Arts Presentation - Certificate of Accomplishment</li>
+            <li>'Perlindungan' SYF Arts Presentation - Certificate of Accomplishment</li>
         </ul>
+    </li>
+</ul>
+<ul>
+    <li>
+        <h5>2019</h5>
         <ul>
-            <li><b>2017</b><br>National Day Parade Performance (Thriving Together)</li>
+            <li>'Tampi' SYF Arts Presentation - Certificate of Accomplishment</li>
         </ul>
+    </li>
+</ul>
+<ul>
+    <li>
+        <h5>2017</h5>
         <ul>
-            <li><b>2016</b><br>Participate in Chinese New Year Celebrations<br>Chingay Parade 2016<br>Muara Festival in 2016</li>
+            <li>National Day Parade Performance (Thriving Together)</li>
         </ul>
+    </li>
+</ul>
+<ul>
+    <li>
+        <h5>2016</h5>
         <ul>
-            <li><b>2015</b><br>Participation in Youth Celebrate<br>Muara Festival in 2015</li>
+            <li>Participate in Chinese New Year Celebrations</li>
+            <li>Chingay Parade 2016</li>
+            <li>Muara Festival in 2016</li>
         </ul>
+    </li>
+</ul>
+<ul>
+    <li>
+        <h5>2015</h5>
         <ul>
-            <li><b>2013</b><br>'Topeng' SYF Arts Presentation - Certificate of Distinction</li>
+            <li>Participation in Youth Celebrate</li>
+            <li>Muara Festival in 2015</li>
         </ul>
+    </li>
+</ul>
+<ul>
+    <li>
+        <h5>2013</h5>
         <ul>
-            <li><b>2011</b><br>'Rindu' (SYF Central Judging - Gold Award)</li>
+            <li>'Topeng' SYF Arts Presentation - Certificate of Distinction</li>
         </ul>
+    </li>
+</ul>
+<ul>
+    <li>
+        <h5>2011</h5>
+        <ul>
+            <li>'Rindu' (SYF Central Judging - Gold Award)</li>
+        </ul>
+    </li>
+</ul>
 	</section>
 	</article>
 <article>
