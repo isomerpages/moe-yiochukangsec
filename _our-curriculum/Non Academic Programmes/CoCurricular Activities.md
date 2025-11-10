@@ -47,9 +47,8 @@ variant: markdown
                 </ul>
             </details>
         </div>
-    </section></article></div>
-    
-		<hr>
+    </section>
+    	<hr>
     <section>
     <h2 class="yck-h2">CCA Learning Outcomes and Policy</h2>
     <h3 class="yck-h3">CCA Learning Outcomes</h3>
@@ -126,7 +125,8 @@ variant: markdown
                                 <a href="#top" class="button">Back to Top</a>
                             </div>
 		</section>
-		
+		</article>
+	</div>
 	</div>
 	
 
