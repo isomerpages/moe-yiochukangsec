@@ -16,20 +16,6 @@ third_nav_title: Our Achievements
                     <table class="yck-table">
                         <thead>
                             <tr>
-                                <th class="yck-th">Environment</th>
-                                <th class="yck-th"></th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td class="yck-td"> </td>
-                                <td class="yck-td"> </td>
-                            </tr>
-                        </tbody>
-                    </table>
-                    <table class="yck-table">
-                        <thead>
-                            <tr>
                                 <th class="yck-th">Innovations &amp; Enterprise</th>
                                 <th class="yck-th"></th>
                             </tr>
@@ -555,7 +541,7 @@ third_nav_title: Our Achievements
                     <table class="yck-table">
                         <thead>
                             <tr>
-                                <th class="yck-th">Aesthetics</th>
+                                <th class="yck-th">Aesthetics&nbsp;</th>
                                 <th class="yck-th"></th>
                             </tr>
                         </thead>
@@ -1598,7 +1584,7 @@ small {
     border: 1px dotted lightgrey;
     margin-top: 1.5em;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
-    border-radius: 8px;
+    border-radius: var(--yck-rounded-corners);
     overflow: hidden;
 }
 
@@ -1608,7 +1594,7 @@ small {
 .yck-component td {
     display: table-cell;
     font-size: var(--yck-step-0);
-    min-width: 120px;
+    min-width: 20ch;
     vertical-align: top;
     padding: var(--yck-spacing-unit);
 }
