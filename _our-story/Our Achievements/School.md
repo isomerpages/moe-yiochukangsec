@@ -16,6 +16,20 @@ third_nav_title: Our Achievements
                     <table class="yck-table">
                         <thead>
                             <tr>
+                                <th class="yck-th">Environment</th>
+                                <th class="yck-th"></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="yck-td"> </td>
+                                <td class="yck-td"> </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table class="yck-table">
+                        <thead>
+                            <tr>
                                 <th class="yck-th">Innovations &amp; Enterprise</th>
                                 <th class="yck-th"></th>
                             </tr>
@@ -445,7 +459,7 @@ third_nav_title: Our Achievements
                     <div class="deadctr-container">
                         <div class="deadctr-content">
                             <div class="button-container">
-                                <a href="#top">
+                                <a href="#achieve2023">
                                     <button class="buttontotop">
                                         <img class="svgIcon" alt="Back to Top" src="https://www.yiochukangsec.moe.edu.sg/images/Icons/svgiconwht.svg">
                                     </button>
@@ -707,11 +721,11 @@ third_nav_title: Our Achievements
                             </tr>
                         </tbody>
                     </table>
-                    <p>You can <a class="text-link" href="/files/Achievements/2022/YCKSS%202022%20Achievements%20updated%203%20Feb%202023.pdf">DOWNLOAD THE PDF</a> version of the Achievements 2022.</p>
+                    <p>You can <a href="/files/Achievements/2022/YCKSS%202022%20Achievements%20updated%203%20Feb%202023.pdf">DOWNLOAD THE PDF</a> version of the Achievements 2022.</p>
                     <div class="deadctr-container">
                         <div class="deadctr-content">
                             <div class="button-container">
-                                <a href="#top">
+                                <a href="#achieve2022">
                                     <button class="buttontotop">
                                         <img class="svgIcon" alt="Back to Top" src="https://www.yiochukangsec.moe.edu.sg/images/Icons/svgiconwht.svg">
                                     </button>
@@ -821,7 +835,7 @@ third_nav_title: Our Achievements
                     <div class="deadctr-container">
                         <div class="deadctr-content">
                             <div class="button-container">
-                                <a href="#top">
+                                <a href="#achieve2021">
                                     <button class="buttontotop">
                                         <img class="svgIcon" alt="Back to Top" src="https://www.yiochukangsec.moe.edu.sg/images/Icons/svgiconwht.svg">
                                     </button>
@@ -832,7 +846,7 @@ third_nav_title: Our Achievements
                     <table class="yck-table">
                         <thead>
                             <tr>
-                                <th class="yck-th">Aesthetics&nbsp;</th>
+                                <th class="yck-th">Aesthetics</th>
                                 <th class="yck-th"></th>
                             </tr>
                         </thead>
@@ -929,7 +943,7 @@ third_nav_title: Our Achievements
                     <div class="deadctr-container">
                         <div class="deadctr-content">
                             <div class="button-container">
-                                <a href="#top">
+                                <a href="#achieve2021">
                                     <button class="buttontotop">
                                         <img class="svgIcon" alt="Back to Top" src="https://www.yiochukangsec.moe.edu.sg/images/Icons/svgiconwht.svg">
                                     </button>
@@ -1024,16 +1038,8 @@ third_nav_title: Our Achievements
                             </tr>
                         </tbody>
                     </table>
-                    <div class="deadctr-container">
-                        <div class="deadctr-content">
-                            <div class="button-container">
-                                <a href="#top">
-                                    <button class="buttontotop">
-                                        <img class="svgIcon" alt="Back to Top" src="https://www.yiochukangsec.moe.edu.sg/images/Icons/svgiconwht.svg">
-                                    </button>
-                                </a>
-                            </div>
-                        </div>
+                    <div class="button-container">
+                        <a aria-label="Back to top" class="button" href="#achieve2020">Back to top</a>
                     </div>
                     <table class="yck-table">
                         <thead>
