@@ -28,11 +28,21 @@ sections:
       subtitle: A Unique Way to Experience
       id: infopic
       description: Join us for an immersive 360° virtual tour and explore our vibrant
-        campus from anywhere.
+        campus from anywhere ... Or Explore, Experience and Meet with a Guided
+        Tour below ...
       button: Start Your Tour! 👉🏻
       url: https://4d.silvrcraft.com/yckss360vt/index.htm
       image: /images/openhouse.jpg
       alt: YCKSS e-Open House
+  - infobar:
+      title: Guided School Tour in Yio Chu Kang Secondary School
+      subtitle: Explore, Experience & Meet
+      id: infobar
+      description: Join our guided tour on 26-27 November. Explore our innovative
+        facilities, experience our learning community first hand and meet our
+        passionate educators.
+      button: Limited Spots! Book Now!
+      url: https://go.gov.sg/guidedtourforyiochukangsecsch
   - infopic:
       title: Concert for Hope
       subtitle: Celebrating Home, Heart & Hope
