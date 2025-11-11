@@ -10,7 +10,7 @@ image: /images/YCKLogo.svg
 ---
 <div class="yck-component">
     <div class="ken-burns-container">
-        <img class="ken-burns-image" alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Media%20Club/M1.jpg">
+        <img class="ken-burns-image" alt="" src="/images/Our%20ccas/Media%20club/MediaClub2026_03.jpg">
     </div>
     <p>
         The Media Club aim to excite students about infocomm in a fun and meaningful way

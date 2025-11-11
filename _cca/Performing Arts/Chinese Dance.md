@@ -6,361 +6,711 @@ variant: markdown
 third_nav_title: Performing Arts
 ---
 <div class="yck-component">
-    <div class="ken-burns-container">
-        <figure>
-            <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C1.jpg" class="ken-burns-image"></figure>
+    <div class="regular-flow">
+        <article>
+            <section>
+                <figure class="ken-burns-container">
+                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C1.jpg" class="ken-burns-image"></figure>
+                <p>The Chinese Dance Club aims to engage the dancers in fun and interesting ways. We provide a platform for students to showcase their talents and creativity in Chinese dance through collaboration with external organisations.</p>
+                <p>Through the various public performances, the club aims to progressively nurture the dancers to be young and confident adults. We have a comprehensive and structured programme to expose students to Chinese culture and learn the skills and techniques of Chinese Dance.</p>
+                <p>Through dance, we also hope to instil self-discipline, perseverance and teamwork.</p>
+            </section>
+            <section>
+                <blockquote>
+                    <p>We are definitely proud of our girls in Chinese Dance as they demonstrated perseverance, teamwork and care for their peers during the training sessions. They spent many hours trying to improve on their technique and encouraged one another to persevere.</p>
+                    <figure class="ken-burns-container">
+                        <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C3quoteimg.jpg" class="ken-burns-image">
+                    </figure>
+                    <p>We hope the girls have enjoyed this journey and have grown into more confident individuals.</p>
+                    <cite>MS TAN CHUN BUEI &amp; MS TEO HWEE HONG,
+                        TEACHERS IN-CHARGE</cite>
+                </blockquote>
+            </section>
+            <section>
+                <h4 class="yck-h4">Training Schedule</h4>
+                <table class="yck-table">
+                    <thead>
+                        <tr>
+                            <th class="yck-th">
+                                <h5 class="yck-h5">DAY &amp; TIME:</h5>
+                            </th>
+                            <th class="yck-th">
+                                <h5 class="yck-h5">TEACHERS IN-CHARGE:</h5>
+                            </th>
+                            <th class="yck-th">
+                                <h5 class="yck-h5">VENUE:</h5>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="yck-td">
+                                <p>Every Tuesday, 3:00PM to 5:30PM</p>
+                            </td>
+                            <td class="yck-td">
+                                <p>Ms Tan Chun Buei (OIC) (ext 172)</p>
+                                <p>Ms Teo Hwee Hong (ext 123)</p>
+                            </td>
+                            <td class="yck-td">
+                                <p>Dance Rm 1. <i>(Blk B #03-01)</i></p>
+                                <p>Hall. <i>(One level above the canteen.)</i></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="yck-td">
+                                <p>Every Thursday, 3:00PM to 5:30PM</p>
+                            </td>
+                            <td class="yck-td">
+                                <p>Mdm Ye Yuluan (ext 197)</p>
+                            </td>
+                            <td class="yck-td">
+                                <p>Dance Rm 1. <i>(Blk B #03-01)</i></p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </section>
+            <section>
+                <h4 class="yck-h4">Events and Competitions</h4>
+                <div class="col-container">
+                    <ul>
+                        <li>
+                            <h5>2021</h5>
+                            <ul>
+                                <li>SYF Arts Presentation - Certificate of Accomplishment</li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <h5>2020</h5>
+                            <ul>
+                                <li>YCKSS Lunar New Year Celebrations</li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <h5>2019</h5>
+                            <ul>
+                                <li>SYF Arts Presentation - Certificate of Distinction</li>
+                                <li>Performance @ Yio Chu Kang National Day Observance Ceremony</li>
+                                <li>YCKSS National Day Celebration</li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <h5>2018</h5>
+                            <ul>
+                                <li>Performance @ SYF Celebrations at Esplanade</li>
+                                <li>Performance @ YCKSS National Day Celebration</li>
+                                <li>Performance @ Yio Chu Kang National Day Observance Ceremony</li>
+                                <li>Performance @ Yio Chu Kang Community Day</li>
+                                <li>YCKSS 53d Speech Day</li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <h5>2017</h5>
+                            <ul>
+                                <li>SYF Arts Presentation: Certificate of Distinction</li>
+                                <li>National Day Parade Mass Display 2017</li>
+                                <li>52nd Speech Day</li>
+                                <li>Bonding - Archry Session</li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <h5>2016</h5>
+                            <ul>
+                                <li>Chingay Parade 2016</li>
+                                <li>Lunar New Year Celebration</li>
+                                <li>51st Speech Day</li>
+                                <li>Bonding &amp; celebration</li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <h5>2015</h5>
+                            <ul>
+                                <li>SYF Arts Presentation: Certificate of Distinction</li>
+                                <li>Fusion Dance @ Public Service Leadership Dinner Performance 2015</li>
+                                <li>Youth Celebrate! 2015 (SG 50)</li>
+                                <li>YCKSS 50th Speech Day</li>
+                                <li>YCKSS 50th Anniversary Dinner Performance</li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <h5>2013</h5>
+                            <ul>
+                                <li>SYF Arts Presentation: Certificate of Distinction</li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <h5>2011</h5>
+                            <ul>
+                                <li>SYF: Silver Award</li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <h5>2009</h5>
+                            <ul>
+                                <li>SYF: Gold Award</li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <h5>2007</h5>
+                            <ul>
+                                <li>SYF: Gold with Honours Award</li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <h5>2005</h5>
+                            <ul>
+                                <li>SYF: Gold Award</li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <h5>2003</h5>
+                            <ul>
+                                <li>SYF: Gold Award</li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <h5>2001</h5>
+                            <ul>
+                                <li>SYF: Gold Award</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </section>
+            <section>
+                <h4>GALLERY</h4>
+                <div class="video-container">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/MGZ82cclYXk?si=tbUqZjYrztZ8vHFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+                <div class="video-container"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/PKtc-skdeVM"></iframe>
+                </div>
+                <figure>
+                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C4.png" alt="Highlights from events in 2020">
+                    <figcaption>Highlights from events in 2020;</figcaption>
+                </figure>
+                <figure>
+                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C5.png" alt="Highlights from previous years events">
+                    <figcaption>Highlights from previous years events</figcaption>
+                </figure>
+                <figure>
+                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C6.png" alt="Our way-back events ...">
+                    <figcaption>"Our "way-back" events ...</figcaption>
+                </figure>
+            </section>
+        </article>
     </div>
-    <p>The Chinese Dance Club aims to engage the dancers in fun and interesting ways. We provide a platform for students to showcase their talents and creativity in Chinese dance through collaboration with external organisations.</p>
-    <p>Through the various public performances, the club aims to progressively nurture the dancers to be young and confident adults. We have a comprehensive and structured programme to expose students to Chinese culture and learn the skills and techniques of Chinese Dance.</p>
-    <p>Through dance, we also hope to instil self-discipline, perseverance and teamwork.</p>
 </div>
-<div class="yck-component">
-    <blockquote>
-        <p>We are definitely proud of our girls in Chinese Dance as they demonstrated perseverance, teamwork and care for their peers during the training sessions. They spent many hours trying to improve on their technique and encouraged one another to persevere.</p>
-			<div class="ken-burns-container">
-			<figure>
-			<img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C3quoteimg.jpg" class="ken-burns-image">
-			</figure>
-				</div>
-        <p>We hope the girls have enjoyed this journey and have grown into more confident individuals.</p>
-        <cite>MS TAN CHUN BUEI &amp; MS TEO HWEE HONG,
-            TEACHERS IN-CHARGE</cite>
-    </blockquote>
-</div>
-<div class="yck-component">
-    <h4 class="yck-h4">Training Schedule</h4>
-    <table class="yck-table">
-        <thead>
-            <tr>
-                <th class="yck-th">
-                    <h5 class="yck-h5">DAY &amp; TIME:</h5>
-                </th>
-                <th class="yck-th">
-                    <h5 class="yck-h5">TEACHERS IN-CHARGE:</h5>
-                </th>
-                <th class="yck-th">
-                    <h5 class="yck-h5">VENUE:</h5>
-                </th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td class="yck-td">
-                    <p>Every Tuesday, 3:00PM to 5:30PM<br>Dance Rm 1 or Hall</p>
-									<hr>
-                    <p>Every Thursday, 3:00PM to 5:30PM<br>Dance Rm 1</p>
-                </td>
-                <td class="yck-td">
-                    <p>Ms Tan Chun Buei (OIC) (ext 172)</p>
-                    <p>Ms Teo Hwee Hong (ext 123)</p>
-                    <p>Mdm Ye Yuluan (ext 197)</p>
-                </td>
-                <td class="yck-td">
-                    <details name="venue"><summary>Dance Rm 1 (Level 3)</summary><p>Blk B, #03-01</p></details><hr>
-                    <details name="venue"><summary>Hall (Level 2)</summary><p>Blk A, #02-01 <br><i>(above the canteen)</i></p></details>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-<div class="yck-component">
-    <h4 class="yck-h4">Events and Competitions</h4>
-    <div class="col-container">
-        <div class="isomer-card">
-            <div class="isomer-card-body">
-                <h5 class="isomer-card-title">2021</h5>
-                <div class="isomer-card-description">
-                    <ul>
-                        <li>SYF Arts Presentation - Certificate of Accomplishment</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="isomer-card">
-            <div class="isomer-card-body">
-                <h5 class="isomer-card-title">2020</h5>
-                <div class="isomer-card-description">
-                    <ul>
-                        <li>YCKSS Lunar New Year Celebrations</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="isomer-card">
-            <div class="isomer-card-body">
-                <h5 class="isomer-card-title">2019</h5>
-                <div class="isomer-card-description">
-                    <ul>
-                        <li>SYF Arts Presentation - Certificate of Distinction</li>
-                        <li>Performance @ Yio Chu Kang National Day Observance Ceremony</li>
-                        <li>YCKSS National Day Celebration</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="isomer-card">
-            <div class="isomer-card-body">
-                <h5 class="isomer-card-title">2018</h5>
-                <div class="isomer-card-description">
-                    <ul>
-                        <li>Performance @ SYF Celebrations at Esplanade</li>
-                        <li>Performance @ YCKSS National Day Celebration</li>
-                        <li>Performance @ Yio Chu Kang National Day Observance Ceremony</li>
-                        <li>Performance @ Yio Chu Kang Community Day</li>
-                        <li>YCKSS 53d Speech Day</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="isomer-card">
-            <div class="isomer-card-body">
-                <h5 class="isomer-card-title">2017</h5>
-                <div class="isomer-card-description">
-                    <ul>
-                        <li>SYF Arts Presentation: Certificate of Distinction</li>
-                        <li>National Day Parade Mass Display 2017</li>
-                        <li>52nd Speech Day</li>
-                        <li>Bonding - Archery Session</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="isomer-card">
-            <div class="isomer-card-body">
-                <h5 class="isomer-card-title">2016</h5>
-                <div class="isomer-card-description">
-                    <ul>
-                        <li>Chingay Parade 2016</li>
-                        <li>Lunar New Year Celebration</li>
-                        <li>51st Speech Day</li>
-                        <li>Bonding &amp; celebration</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="isomer-card">
-            <div class="isomer-card-body">
-                <h5 class="isomer-card-title">2015</h5>
-                <div class="isomer-card-description">
-                    <ul>
-                        <li>SYF Arts Presentation: Certificate of Distinction</li>
-                        <li>Fusion Dance @ Public Service Leadership Dinner Performance 2015</li>
-                        <li>Youth Celebrate! 2015 (SG 50)</li>
-                        <li>YCKSS 50th Speech Day</li>
-                        <li>YCKSS 50th Anniversary Dinner Performance</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="isomer-card">
-            <div class="isomer-card-body">
-                <h5 class="isomer-card-title">2013</h5>
-                <div class="isomer-card-description">
-                    <ul>
-                        <li>SYF Arts Presentation: Certificate of Distinction</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="isomer-card">
-            <div class="isomer-card-body">
-                <h5 class="isomer-card-title">2011</h5>
-                <div class="isomer-card-description">
-                    <ul>
-                        <li>SYF: Silver Award</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="isomer-card">
-            <div class="isomer-card-body">
-                <h5 class="isomer-card-title">2009</h5>
-                <div class="isomer-card-description">
-                    <ul>
-                        <li>SYF: Gold Award</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="isomer-card">
-            <div class="isomer-card-body">
-                <h5 class="isomer-card-title">2007</h5>
-                <div class="isomer-card-description">
-                    <ul>
-                        <li>SYF: Gold with Honours Award</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="isomer-card">
-            <div class="isomer-card-body">
-                <h5 class="isomer-card-title">2005</h5>
-                <div class="isomer-card-description">
-                    <ul>
-                        <li>SYF: Gold Award</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="isomer-card">
-            <div class="isomer-card-body">
-                <h5 class="isomer-card-title">2003</h5>
-                <div class="isomer-card-description">
-                    <ul>
-                        <li>SYF: Gold Award</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="isomer-card">
-            <div class="isomer-card-body">
-                <h5 class="isomer-card-title">2001</h5>
-                <div class="isomer-card-description">
-                    <ul>
-                        <li>SYF: Gold Award</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="yck-component">
-    <h4>GALLERY</h4>
-    <div class="video-container">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/MGZ82cclYXk?si=tbUqZjYrztZ8vHFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-    <div class="video-container"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/PKtc-skdeVM"></iframe>
-    </div>
-    <figure>
-        <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C4.png" alt="Highlights from events in 2020">
-        <figcaption>Highlights from events in 2020;</figcaption>
-    </figure>
-    <figure>
-        <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C5.png" alt="Highlights from previous years events">
-        <figcaption>Highlights from previous years events</figcaption>
-    </figure>
-    <figure>
-        <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Chinese%20Dance/C6.png" alt="Our way-back events ...">
-        <figcaption>"Our "way-back" events ...</figcaption>
-    </figure>
-</div>
-
 
 <style>
-	:root {
+/* Root Variables */
+:root {
+  /* @link https://utopia.fyi/type/calculator?c=320,12,1.2,1400,20,1.25,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
+  --yck-step--2: clamp(0.5208rem, 0.4381rem + 0.4136vw, 0.8rem);
+  --yck-step--1: clamp(0.625rem, 0.5139rem + 0.5556vw, 1rem);
+  --yck-step-0: clamp(0.75rem, 0.6019rem + 0.7407vw, 1.25rem);
+  --yck-step-1: clamp(0.9rem, 0.7037rem + 0.9815vw, 1.5625rem);
+  --yck-step-2: clamp(1.08rem, 0.8213rem + 1.2935vw, 1.9531rem);
+  --yck-step-3: clamp(1.296rem, 0.9566rem + 1.6969vw, 2.4414rem);
+  --yck-step-4: clamp(1.5552rem, 1.1118rem + 2.2171vw, 3.0518rem);
+  --yck-step-5: clamp(1.8662rem, 1.2889rem + 2.8866vw, 3.8147rem);
+
+    /* Fluid spacing */
+    --yck-space-s-xl: clamp(1rem, -0.239rem + 4.32vw, 3rem); 
+    --yck-space-xs: calc(var(--yck-space-s-xl) * 0.25);
+    --yck-space-sm: calc(var(--yck-space-s-xl) * 0.5);
+    --yck-space-md: calc(var(--yck-space-s-xl) * 0.75);
+    --yck-space-lg: calc(var(--yck-space-s-xl) * 1.25);
+    --yck-space-xl: calc(var(--yck-space-s-xl) * 1.5);
+    
+    /* YCK Orange: Chaat Masala */
+    --yck-orange-100: #FFFBF2;
+    --yck-orange-200: #FFE9C1;
+    --yck-orange-300: #FBCE8F;
+    --yck-orange-400: #F3AC5C;
+    --yck-orange-500: #E3812B;
+    --yck-orange-600: #B4520E;
+    --yck-orange-700: #853003;
+    --yck-orange-800: #551900;
+    --yck-orange-900: #260900;
+
+    /* YCK Greens: Algal Fuel */
+    --yck-green100: #F2FFFB;
+    --yck-green200: #BCFEE6;
+    --yck-green300: #83F8C7;
+    --yck-green400: #4AE79D;
+    --yck-green500: #16C768;
+    --yck-green600: #079F45;
+    --yck-green700: #02772B;
+    --yck-green800: #004E17;
+    --yck-green900: #002609;
+
+    /* Neutral */
+    --neutral-100: #FCFCFA;
+    --neutral-200: #EAE8E4;
+    --neutral-300: #D7D3CE;
+    --neutral-400: #C5BFB9;
+    --neutral-500: #B3ABA4;
+    --neutral-600: #8F8883;
+    --neutral-700: #6C6663;
+    --neutral-800: #494442;
+    --neutral-900: #262322;
+
+    --yck-color-text-primary: var(--neutral-800);
+    --yck-color-text-secondary: var(--neutral-700);
+    --yck-color-background: #fff;
+    --yck-color-textlink: #e37f2a;
+    --yck-color-accent: #e37f2a;
+    --yck-color-border: #cbd5e1;
+    --yck-color-card-bg: #f8fafc;
+    --yck-color-hover: #f9cc99;
     --yck-text-line-height: 1.6em;
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
-    --yck-spacing-unit: 1em;
-    --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
-    --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
+    --yck-spacing-unit: 1rem;
+    --yck-rounded-corners: 10px;
 
-    --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
-    --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
-    --yck-step-0: clamp(1.125rem, 1.125rem + 0vw, 1.125rem);
-    --yck-step-1: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem);
-    --yck-step-2: clamp(1.4238rem, 1.3556rem + 0.3412vw, 1.62rem);
-    --yck-step-3: clamp(1.6018rem, 1.4828rem + 0.5951vw, 1.944rem);
-    --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
-    --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
+/* Shadows */
+  --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+  --yck-box-shadow1: 0 1px 2px rgba(0, 0, 0, 0.15);
+  --yck-inset-shadow1: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+  --yck-inset-shadow2: rgb(204, 219, 232) 3px 3px 6px 0px inset,
+    rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+  --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
 
-    --yck-space-s-xl: clamp(0.75rem, 0.2143rem + 3.9286vw, 3.75rem);
-    interpolate-size: allow-keywords;
+  --font-system-ui: system-ui, sans-serif;
+  --font-transitional: Charter, Bitstream Charter, Sitka Text, Cambria, serif;
+  --font-old-style: Iowan Old Style, Palatino Linotype, URW Palladio L, P052,
+    serif;
+  --font-humanist: Seravek, Gill Sans Nova, Ubuntu, Calibri, DejaVu Sans,
+    source-sans-pro, sans-serif;
+  --font-geometric-humanist: Avenir, Montserrat, Corbel, URW Gothic,
+    source-sans-pro, sans-serif;
+  --font-classical-humanist: Optima, Candara, Noto Sans, source-sans-pro,
+    sans-serif;
+  --font-neo-grotesque: Inter, Roboto, Helvetica Neue, Arial Nova, Nimbus Sans,
+    Arial, sans-serif;
+  --font-monospace-slab-serif: Nimbus Mono PS, Courier New, monospace;
+  --font-monospace-code: Dank Mono, Operator Mono, Inconsolata, Fira Mono,
+    ui-monospace, SF Mono, Monaco, Droid Sans Mono, Source Code Pro,
+    Cascadia Code, Menlo, Consolas, DejaVu Sans Mono, monospace;
+  --font-industrial: Bahnschrift, DIN Alternate, Franklin Gothic Medium,
+    Nimbus Sans Narrow, sans-serif-condensed, sans-serif;
+  --font-rounded-sans: ui-rounded, Hiragino Maru Gothic ProN, Quicksand,
+    Comfortaa, Manjari, Arial Rounded MT, Arial Rounded MT Bold, Calibri,
+    source-sans-pro, sans-serif;
+  --font-slab-serif: Rockwell, Rockwell Nova, Roboto Slab, DejaVu Serif,
+    Sitka Small, serif;
+  --font-antique: Superclarendon, Bookman Old Style, URW Bookman, URW Bookman L,
+    Georgia Pro, Georgia, serif;
+  --font-didone: Didot, Bodoni MT, Noto Serif Display, URW Palladio L, P052,
+    Sylfaen, serif;
+  --font-handwritten: Segoe Print, Bradley Hand, Chilanka, TSCu_Comic, casual,
+    cursive;
+
+  interpolate-size: allow-keywords;
+  scroll-behavior: smooth;
+  text-rendering: optimizeSpeed;
+}
+	
+/* Box Sizing */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
-.yck-component {
-    line-height: var(--yck-text-line-height);
-    letter-spacing: normal;
+html {
+  font-size: 100%;
+  /* [3] Define base font size in percentage for accessibility. */
+}
+
+a {
+  text-decoration: none;
+  /* [4] Remove default underline for a cleaner look. */
+  color: inherit;
+  /* [7] Inherit color from parent for consistency. */
+}
+
+
+button,
+a.button {
+  border: none;
+  /* [4] Remove default border. */
+  background-color: transparent;
+  /* [4] Remove default background color. */
+  font-family: inherit;
+  /* [4] Inherit font family from parent for consistency. */
+  padding: 0;
+  /* [4] Remove default padding. */
+  cursor: pointer;
+  /* [4] Provide visual feedback to users that the element is interactive. */
+
+  /* Accessibility - Windows High Contrast Mode */
+  @media screen and (-ms-high-contrast: active) {
+    border: 2px solid currentcolor;
+    /* [4] Ensure a perceivable button border for improved accessibility. */
+  }
+}
+
+
+ol,
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  /* [8] Remove default list styles for greater styling control. */
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+  vertical-align: middle;
+}
+
+main,
+header,
+footer,
+nav,
+article,
+section,
+aside,
+div,
+p {
+  margin: 0 auto;
+  padding: 0;
+}
+
+body {
+    min-height: 100dvh;
+    font-family: inherit;
     font-size: var(--yck-step-0);
+    color: var(--yck-color-text-primary);
+    line-height: var(--yck-text-line-height);
+    word-break: break-word;
+    overflow-wrap: break-word;
+}
+
+::selection {
+    background: rgba(255, 255, 0, 0.35);
+}
+/* Component Wrappers - div, article, main, section */
+.yck-component {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+	
+.yck-component section {
+	margin-block: var(--yck-space-s-xl);
+}
+
+.yck-component .regular-flow>*+* {
+    margin-top: 1.125em;
+}
+
+.yck-component p,
+.yck-component li {
+    text-wrap: pretty;
+    font-size: var(--yck-step-0);
+    letter-spacing: normal;
+    line-height: var(--yck-text-line-height);
+}
+	
+.yck-component abbr {
+    text-decoration: underline dotted #2c6139;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+    color: #2c6139;
+    font-weight: 600;
+    cursor: help;
+    transition: color 0.5 ease;
+}
+
+.yck-component abbr:hover,
+.yck-component abbr:active,
+.yck-component abbr:focus {
+    color: #4fb568;
+}
+
+
+.yck-component div p:last-of-type,
+main p:last-child,
+.yck-component section p:last-of-type,
+article p:last-child {
     margin-bottom: var(--yck-space-s-xl);
 }
 
+/* Headings */
+.yck-component h1,
+.yck-component .yck-h1,
+.yck-component h2,
+.yck-component .yck-h2,
+.yck-component h3,
+.yck-component .yck-h3,
 .yck-component h4,
+.yck-component .yck-h4,
 .yck-component h5,
+.yck-component .yck-h5,
+.yck-component h6,
+.yck-component .yck-h6,
 .yck-component p {
     overflow-wrap: break-word;
 }
 
+.yck-component h1,
+.yck-component .yck-h1,
+.yck-component h2,
+.yck-component .yck-h2,
+.yck-component h3,
+.yck-component .yck-h3,
 .yck-component h4,
-.yck-component h5 {
+.yck-component .yck-h4,
+.yck-component h5,
+.yck-component .yck-h5,
+.yck-component h6,
+.yck-component .yck-h6 {
     text-wrap: balance;
 }
 
-.yck-component p,
-.yck-component ul {
-    text-wrap: pretty;
-    margin-bottom: var(--yck-space-s-xl);
-}
-
-.yck-component p:last-child,
-.yck-component ul li:last-child {
-    margin-bottom: calc(var(--yck-spacing-unit) * 2);
-}
-
-.yck-component .yck-h4,
-.yck-component h4 {
-    font-size: var(--yck-step-2);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.3);
-    text-transform: capitalize;
+.yck-component h1,
+.yck-component .yck-h1 {
+    font-size: var(--yck-step-5);
+    font-weight: 800;
     line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.yck-component .yck-h5,
-.yck-component h5 {
+.yck-component h2,
+.yck-component .yck-h2 {
+    font-size: var(--yck-step-4);
+    font-weight: 600;
+    line-height: var(--yck-heading-line-height);
+}
+
+.yck-component h3,
+.yck-component .yck-h3 {
+    font-size: var(--yck-step-3);
+    font-weight: 400;
+    line-height: var(--yck-heading-line-height);
+}
+
+.yck-component h4,
+.yck-component .yck-h4 {
+    font-size: var(--yck-step-2);
+    line-height: var(--yck-heading-line-height);
+}
+
+.yck-component h5,
+.yck-component .yck-h5 {
     font-size: var(--yck-step-1);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.1);
     text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.yck-component hr,
-hr {
-    border: 0.5px solid rgba(200, 200, 200, 0.5);
-    margin-block: clamp(0.5rem, 2vw, 2.5rem);
+.yck-component h6,
+.yck-component .yck-h6 {
+    font-size: var(--yck-step-0);
+    text-transform: uppercase;
+    line-height: var(--yck-heading-line-height);
 }
 
-.yck-component .yck-table {
-    border-collapse: collapse;
-    max-width: 100%;
-    margin-top: 0.5em;
+.yck-component small,
+.yck-component .small,
+small {
+    font-size: var(--yck-step--2);
+    line-height: calc(var(--yck-text-line-height) * 0.75);
+}
+/* Ordered and Unordered Lists */
+.yck-component * ol,
+.yck-component * ul {
+    padding: 0;
+    margin: 0;
+    padding-left: 1.5em;
+}
+
+.yck-component * li {
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+
+.yck-component ul li,
+.yck-component ol li {
+    line-height: 1.5;
+    margin: 0;
+}
+
+.yck-component ul li:last-child,
+.yck-component ol li:last-child {
+    margin-bottom: var(--yck-step-3);
+}
+
+.yck-component li ul,
+.yck-component li ol {
+    margin-top: 0;
+}
+
+.yck-component li ul li:last-child,
+.yck-component li ol li:last-child {
     margin-bottom: var(--yck-spacing-unit);
 }
 
-.yck-component .yck-th {
-    background-color: #f2f2f2;
-    text-align: left;
+/* --- Tables --- */
+.yck-component .yck-table,
+.yck-component table {
+    display: table;
+    border-collapse: collapse;
+    width: 100%;
+    min-width: 360px;
+    margin-bottom: var(--yck-space-s-xl);
+    font-size: var(--yck-step--1);
+    border: 1px dotted lightgrey;
+    margin-top: 1.5em;
+    /* Increased top margin for more breathing room */
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    /* Added a subtle shadow for depth */
+    border-radius: 8px;
+    /* Rounded corners for a modern look */
+    overflow: hidden;
+    /* Ensures box-shadow and border-radius clip correctly */
+}
+
+.yck-component .yck-th,
+.yck-component th,
+.yck-component .yck-td,
+.yck-component td {
+    display: table-cell;
+    font-size: var(--yck-step-0);
+    min-width: 120px;
+    vertical-align: top;
+    padding: var(--yck-spacing-unit);
+}
+
+.yck-component .yck-th,
+.yck-component th {
+    background-color: #cfcfcf;
     border-bottom: 1px dotted #ddd;
     text-transform: uppercase;
+    font-weight: bold;
+    line-height: 1.3;
+    letter-spacing: 0.05em;
+    text-wrap: balance;
 }
 
-.yck-component .yck-th h5 {
-    margin: 0 0 0.5em;
-}
-
-.yck-component .yck-td {
+.yck-component .yck-td,
+.yck-component td {
     border-bottom: 1px dotted #ddd;
-    min-width: 120px;
-    max-width: 100%;
     word-wrap: break-word;
     text-wrap: pretty;
-    padding-top: 0.5em;
-    padding-bottom: 0.5em;
+    line-height: 1.4;
 }
 
-.yck-component .yck-table tbody .yck-td,
-.yck-component .yck-table tbody .yck-td p {
-    margin-top: 0;
+.yck-component .yck-td *,
+.yck-component .yck-td p,
+.yck-component .yck-td ul,
+.yck-component .yck-td ol {
+    margin-block: var(--yck-step--2);
+}
+
+.yck-component .yck-th:nth-child(1),
+.yck-component .yck-td:nth-child(1) {
+    font-weight: 700;
+}
+
+.yck-component .yck-td:nth-child(n+2) {
+    text-align: left;
+}
+
+.yck-component .yck-td li {
     margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
-    line-height: 1.5rem;
-    padding-bottom: 0.25em;
-    font-size: var(--yck-step-0);
+    line-height: 1.4;
 }
 
-/* Apply margin-bottom only when it is the last table-date in the row or contains the last paragraph */
-.yck-component .yck-table tbody tr:last-child .yck-td:last-child,
-.yck-component .yck-table tbody tr:last-child .yck-td:last-child p:last-child {
+.yck-component .yck-td>*:last-child,
+.yck-component .yck-td>p:last-child,
+.yck-component .yck-td>ul:last-child,
+.yck-component .yck-td>ol:last-child {
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+}
+
+.yck-component .yck-td ul:last-child li:last-child,
+.yck-component .yck-td ol:last-child li:last-child {
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+}
+
+.yck-component .yck-table tbody tr:last-child .yck-td>*:last-child {
     margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component .yck-table tr {
+    background-color: inherit;
+    transition: background-color 0.8s ease;
+}
+
+.yck-component .yck-table tr:hover,
+.yck-component .yck-table tr:nth-child(even):hover {
+    background-color: #fef7e0;
+    transition: background-color 0.8s ease;
+}
+
+.yck-component .yck-table tbody tr:nth-child(even) {
+    background-color: #f3f3f3;
+    transition: background-color 0.8s ease;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+
+    .yck-component .yck-table,
+    .yck-component table {
+        font-size: calc(var(--yck-step--1) * 0.9);
+    }
+
+    .yck-component .yck-th,
+    .yck-component th,
+    .yck-component .yck-td,
+    .yck-component td {
+        padding: calc(var(--yck-spacing-unit) * 0.5);
+    }
 }
 
 .yck-component .video-container {
@@ -381,42 +731,14 @@ hr {
     height: 100%;
 }
 
-.yck-component .col-container {
-    width: 100%;
-    max-width: 1000px;
+
+
+
+.yck-component .bqcontainer {
     margin: 0 auto;
-
-    /* CSS Multi-column Layout properties */
-    column-count: 2;
-    column-width: 360px;
-    column-gap: 1.5em;
-}
-
-.yck-component .isomer-card {
-    break-inside: avoid;
-    /* Prevents content from breaking across columns */
-    page-break-inside: avoid;
-    /* For older browsers */
-    padding: 20px;
-    /*     margin-block:  calc(var(--yck-spacing-unit)*0.5); */
-    border-radius: 5px;
-    box-shadow: var(--yck-box-shadow);
-}
-
-/* Apply the animation on hover */
-
-/* Revert the animation when not hovering */
-.yck-component .column ul li:not(:hover) {
-    animation: fadeOut 1.25s forwards;
-}
-
-.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-description) {
-    margin-bottom: 0.75rem
-}
-
-.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-title:has(+.isomer-card-link),
-.yck-component .yck-flexbox-grid .isomer-card .isomer-card-body .isomer-card-description:has(+.isomer-card-link) {
-    margin-bottom: 1.5rem
+    padding: 0;
+    margin-bottom: var(--yck-space-s-xl) !important;
+    /*     width: min(900px, calc(70% + 160px)); */
 }
 
 .yck-component blockquote {
@@ -430,7 +752,7 @@ hr {
 .yck-component blockquote p {
     color: #ff6b6b !important;
     font-style: italic !important;
-    font-size: var(--yck-step--1) !important;
+    font-size: var(--yck-step-1) !important;
     line-height: 1.5;
     margin: 0;
 }
@@ -449,74 +771,37 @@ hr {
 .yck-component cite {
     display: block;
     margin-top: var(--yck-spacing-unit);
-    font-size: var(--yck-step--2);
+    font-size: var(--yck-step--1);
     font-style: italic;
     color: #555;
     text-align: right;
 }
 
-.yck-component figure {
-    /*   border: thin #c0c0c0 solid; */
-    display: flex !important;
-    flex-flow: column !important;
-    /*   padding: 5px; */
+.yck-component figure,
+.yck-component .figure {
+    display: block;
+    border-radius: var(--yck-rounded-corners);
     max-width: 100%;
-    margin: auto !important;
-}
-
-.yck-component figure img {
-    border-radius: 8px;
-    box-shadow: var(--yck-box-shadow);
-}
-
-.yck-component figcaption {
-    background-color: rgba(255, 255, 255, 0.75);
-    color: #888;
-    font: italic var(--yck-step--2) sans-serif;
-    padding: calc(var(--yck-spacing-unit)*0.5);
-    text-align: center;
-}
-	
-details {
+    margin: 0;
+    padding: 0;
     overflow: hidden;
 }
 
-details * {
-    margin: 0 !important;
+.yck-component figure img,
+.yck-component .figure img {
+    border-radius: var(--yck-rounded-corners);
 }
 
-details > p,
-details ul li {
-    margin-inline-start: 1.5rem !important;
-    padding-block: calc(var(--yck-spacing-unit) * 0.5);
+.yck-component figcaption,
+.yck-component .caption {
+    display: block;
+    text-align: center;
+    font-weight: 300;
+    font-style: oblique;
+    margin: 0 auto;
+    padding: 0;
+    font-size: var(--yck-step--1);
 }
-
-summary {
-    margin-inline-start: 1.5rem !important;
-    list-style-position: outside;
-    cursor: pointer;
-    font-size: var(--yck-step-0);
-}
-
-summary::marker {
-    font-size: var(--yck-step-0);
-}
-
-details::details-content {
-    font-size: var(--yck-step-0);
-    block-size: 0;
-    transition:
-        block-size 1s,
-        content-visibility 1s;
-    transition-behavior: allow-discrete;
-}
-
-details[open]::details-content {
-    block-size: auto;
-    -webkit-animation: fade-in 1.6s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
-    animation: fade-in 1.6s ease-out both;
-}
-
 
 .ken-burns-container {
     max-width: 100%;
@@ -541,4 +826,80 @@ details[open]::details-content {
     }
 }
 
-</style>
+/* --- Details Summary --- */
+.yck-component details {
+    overflow: hidden;
+    border-radius: 10px;
+    background-color: #fff;
+    transition: box-shadow .5s ease-out;
+}
+
+.yck-component details[open] {
+    /* Shadow applied to the whole container when open */
+    box-shadow: var(--yck-inset-shadow2);
+}
+
+.yck-component details * {
+    margin: 0 !important;
+    padding: 0;
+}
+
+.yck-component details>ul {
+    /* list-style: none; */
+}
+
+.yck-component summary {
+    position: relative;
+    padding: 1rem 3rem 1rem 1.5rem;
+    list-style-position: outside;
+    cursor: pointer;
+    user-select: none;
+    outline: none;
+    font-size: var(--yck-step-1);
+    font-weight: 500;
+    transition: background-color .5s ease-in;
+}
+
+.yck-component summary:hover {
+    background-color: rgba(0, 0, 0, .03);
+    box-shadow: var(--yck-box-shadow1);
+}
+
+.yck-component summary::marker {
+    content: "";
+}
+
+.yck-component summary::after {
+    content: "+";
+    position: absolute;
+    font-size: var(--yck-step-2);
+    line-height: 1;
+    right: 1rem;
+    top: 50%;
+    transform: translateY(-50%) rotate(0deg);
+    transition: transform .65s cubic-bezier(.25, 1, .5, 1);
+}
+
+.yck-component details[open]>summary::after {
+    transform: translateY(-50%) rotate(135deg);
+}
+
+.yck-component details>*:not(summary) {
+    padding: 1rem 1.5rem 1.5rem 1.5rem;
+    animation: fade-in .5s ease .5s;
+    animation-fill-mode: both;
+}
+
+@keyframes fade-in {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+  </style>
