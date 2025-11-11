@@ -142,6 +142,7 @@ image: /images/YCKLogo.svg
             <div class="equal-cards">
                 <div class="card">
                     <div class="card-header">Card 1</div>
+									 <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182">
                     <div class="card-body">Short content</div>
                     <div class="card-footer">Button</div>
                 </div>
@@ -152,7 +153,7 @@ image: /images/YCKLogo.svg
                 </div>
                 <div class="card">
                     <div class="card-header">Card 3</div>
-                    <div class="card-body">Medium amount of text here.</div>
+                    <div class="card-body"><figure><img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182"></figure>Medium amount of text here.</div>
                     <div class="card-footer">Button</div>
                 </div>
             </div>
