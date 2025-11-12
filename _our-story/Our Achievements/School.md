@@ -16,20 +16,6 @@ third_nav_title: Our Achievements
                     <table class="yck-table">
                         <thead>
                             <tr>
-                                <th class="yck-th">Environment</th>
-                                <th class="yck-th"></th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td class="yck-td"> </td>
-                                <td class="yck-td"> </td>
-                            </tr>
-                        </tbody>
-                    </table>
-                    <table class="yck-table">
-                        <thead>
-                            <tr>
                                 <th class="yck-th">Innovations &amp; Enterprise</th>
                                 <th class="yck-th"></th>
                             </tr>
