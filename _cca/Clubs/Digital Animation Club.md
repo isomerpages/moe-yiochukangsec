@@ -10,14 +10,23 @@ image: /images/YCKLogo.svg
     <div class="regular-flow">
         <article>
             <section>
+							<h3>Bringing Creativity to Life</h3>
                 <figure class="ken-burns-container">
                     <img alt="Digital Animation Club members" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/DigitalAnimateClub.png" class="ken-burns-image">
                 </figure>
             </section>
             <section>
-                <p>Students will learn animation programs such as Crazytalk Animator, Flip-A-Clip, Capcut and Apple's Keynote on their iPad as well as the technical and creative aspects of a 2D animated film to create their own animation.</p>
-                <p>The structured programme aims to prepare our students for infocomm-related courses in the Institutes of Higher Learning. Students participate in external competitions such as N.E.mation! and other related competitions.</p>
-                <p>They will use their skills to produce a short, animated video clip with 2D characters and impressive 2D creations before finalising the video in Adobe Premiere Pro and in Capcut. Students will learn values such as teamwork and gratitude while completing their team submission.</p>
+                <p>Yio Chu Kang Secondary School’s Digital Animation Club CCA enables students to dive into the exciting world
+of 2D animation, using programmes such as CrazyTalk Animator, Flipaclip, CapCut, and Keynote on their
+iPads. They learn both the technical and creative aspects of animation, developing the skills needed to create
+									their own animated films.</p> 
+							<p>Our structured programme equips students with foundational knowledge and
+								experience to prepare them for infocom-related courses in Institutes of Higher Learning.</p> <p>Members have the
+opportunity to participate in prestigious competitions, including N.E.mation! and other animation challenges,
+showcasing their talent and creativity. Students work collaboratively to produce short, animated video clips
+featuring dynamic 2D characters and creations. Final editing is completed using Adobe Premiere Pro and
+							CapCut, culminating in polished, professional projects.</p> <p>Throughout their animation journey, students cultivate
+important values like teamwork, perseverance and gratitude, making this a truly enriching experience.</p>
             </section>
             <section>
                 <h4 class="yck-h4">Training Schedule</h4>
@@ -25,13 +34,13 @@ image: /images/YCKLogo.svg
                     <thead>
                         <tr>
                             <th class="yck-th">
-                                <h5 class="yck-h5">DAY &amp; TIME:</h5>
+                                <h5 class="yck-h5">DAY &amp; TIME</h5>
                             </th>
                             <th class="yck-th">
                                 <h5 class="yck-h5">TEACHERS IN-CHARGE</h5>
                             </th>
                             <th class="yck-th">
-                                <h5 class="yck-h5">VENUE:</h5>
+                                <h5 class="yck-h5">VENUE</h5>
                             </th>
                         </tr>
                     </thead>
@@ -46,7 +55,7 @@ image: /images/YCKLogo.svg
                                 <p>Mr Christopher Tan (ext 172)</p>
                             </td>
                             <td class="yck-td">
-                                <p>Digital Learning Lab 1 (C4-01)<br> Block C, Level 4, Room 1</p>
+                                <p>Digital Learning Lab 1 (Level 4)</p>
                             </td>
                         </tr>
                     </tbody>
@@ -54,6 +63,17 @@ image: /images/YCKLogo.svg
             </section>
             <section>
                 <h4>Events &amp; Competitions</h4>
+							<ul>
+                    <li>
+                        <h5>2025</h5>
+                        <ul>
+													<li>YCKSS Chinese New Year Video Creation</li>
+													<li>Drugs Free SG video competition</li>
+<li>YCKSS 60 th Annual Speech &amp; Prize Giving Day Video,
+	Video Competition</li>
+                        </ul>
+                    </li>
+                </ul>
                 <ul>
                     <li>
                         <h5>2024</h5>
