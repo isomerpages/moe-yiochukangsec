@@ -16,13 +16,27 @@ third_nav_title: Our Achievements
                     <table class="yck-table">
                         <thead>
                             <tr>
+                                <th class="yck-th">Environment</th>
+                                <th class="yck-th"></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="yck-td"> </td>
+                                <td class="yck-td"> </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table class="yck-table">
+                        <thead>
+                            <tr>
                                 <th class="yck-th">Innovations &amp; Enterprise</th>
                                 <th class="yck-th"></th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td class="yck-td"><strong>MOE Innergy Award (Schools) 2025 (embargoed)</strong></td>
+                                <td class="yck-td"><strong>MOE Innergy Award (Schools) 2025</strong></td>
                                 <td class="yck-td">Silver: Data-Driven Automated Relief Management System<br>Commendation: Authentic Learning of English Language @YCKSS</td>
                             </tr>
                         </tbody>
@@ -66,7 +80,7 @@ third_nav_title: Our Achievements
                                 <td class="yck-td">Ms Alicia Lock</td>
                             </tr>
                             <tr>
-                                <td class="yck-td"><strong>Associate of Academy of Singapore Teachers Award (embargoed)</strong></td>
+                                <td class="yck-td"><strong>Associate of Academy of Singapore Teachers Award</strong></td>
                                 <td class="yck-td">Ms Adeline Tan Teck Lin<br>Mdm Sarasvathy D/O Sivalingam S<br>Mdm Ye Yuluan</td>
                             </tr>
                         </tbody>
@@ -541,7 +555,7 @@ third_nav_title: Our Achievements
                     <table class="yck-table">
                         <thead>
                             <tr>
-                                <th class="yck-th">Aesthetics&nbsp;</th>
+                                <th class="yck-th">Aesthetics</th>
                                 <th class="yck-th"></th>
                             </tr>
                         </thead>
@@ -1584,7 +1598,7 @@ small {
     border: 1px dotted lightgrey;
     margin-top: 1.5em;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
-    border-radius: var(--yck-rounded-corners);
+    border-radius: 8px;
     overflow: hidden;
 }
 
@@ -1594,7 +1608,7 @@ small {
 .yck-component td {
     display: table-cell;
     font-size: var(--yck-step-0);
-    min-width: 20ch;
+    min-width: 120px;
     vertical-align: top;
     padding: var(--yck-spacing-unit);
 }
