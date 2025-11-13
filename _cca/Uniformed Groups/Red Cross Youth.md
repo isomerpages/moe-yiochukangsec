@@ -31,7 +31,7 @@ third_nav_title: Uniformed Groups
             <tbody>
                 <tr>
 									<td class="yck-td"><p>Every Tuesday<br>3.00pm to 5.30pm</p>
-									<p>Additional Involvement for HQ activities on OTHER DAYS</p></td>
+									<p>Additional Involvement<br> for HQ activities on OTHER DAYS</p></td>
                     <td class="yck-td">
                         <strong><p>Mrs Heng Lai Khar (ext. 138) - OIC</p></strong>
                         <p>Ms Foo Ger Maine (ext. 137)</p>
@@ -39,7 +39,7 @@ third_nav_title: Uniformed Groups
                         <p>Mr Mark Tan (ext. 150)</p>
                         <p>Mdm Liu Xuefang (ext. 172)</p>
                     </td>
-									<td class="yck-td"><p>Reporting Venue: <strong>Block G</strong></p><p>Training Venues: <strong>Blk E, Level 1 Classrooms</strong></p></td>
+									<td class="yck-td"><p>Reporting Venue: <br><strong>Block G</strong></p><p>Training Venues: <br><strong>Blk E, Level 1 Classrooms</strong></p></td>
                 </tr>
             </tbody>
         </table>
@@ -55,12 +55,17 @@ third_nav_title: Uniformed Groups
           </tr>
         </thead>
         <tbody>
-          <tr>
-            <td class="yck-td yck-strong">2024</td>
-            <td class="yck-td">2024 First Aid Championships (Junior) - Bronze<br> 2024 First Aid Championships (Senior) - Bronze<br> Director's Award - Warrant Officer Karen Koh Sze Yee </td>
+					<tr>
+						<td class="yck-td"><strong>2025</strong></td>
+						<td class="yck-td">2025 First Aid Championships (Junior) - Bronze<br>
+2025 First Aid Championships (Senior) - Gold<br>
+							Director's Award - Staff Sergeant Vishnu Adtya</td>
+          </tr><tr>
+						<td class="yck-td"><strong>2024</strong></td>
+            <td class="yck-td">2024 Excellent Unit Award - Gold <br>2024 First Aid Championships (Junior) - Bronze<br> 2024 First Aid Championships (Senior) - Bronze<br> Director's Award - Warrant Officer Karen Koh Sze Yee </td>
           </tr>
           <tr>
-            <td class="yck-td yck-strong">2023</td>
+						<td class="yck-td"><strong>2023</strong></td>
             <td class="yck-td">2023 Excellent Unit Award - Gold<br> 2023 First Aid Championships (Junior) - Silver<br> 2023 First Aid Championships (Senior) - Bronze </td>
           </tr>
         </tbody>
