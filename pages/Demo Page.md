@@ -134,7 +134,16 @@ image: /images/YCKLogo.svg
                     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
                     consequat. <cite>By Annonymous</cite>
                 </div>
-        </div></section>
+        </div>
+				<div class="quote">
+                                                    <div class="blockquote">
+                                                        Learn to negotiate their way out of a risky
+                                                        situation by applying skills of assertiveness and
+                                                        responsible decision-making
+                                                        <cite>Says Teacher</cite>
+                                                    </div>
+                                                </div>
+				</section>
         <section>
             <h3>Heading Level Three</h3>
             <p>
