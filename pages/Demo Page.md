@@ -319,6 +319,7 @@ image: /images/YCKLogo.svg
             </p>
         </section>
     </article>
+	</div>
 </div>
 <hr>
 <div class="yck-component">
@@ -1530,4 +1531,4 @@ body {
     background: linear-gradient(45deg, #0164b6 0%, #04a4e3 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0164b6', endColorstr='#04a4e3', GradientType=1)
 }
-</style></div>
+</style>
