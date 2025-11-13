@@ -83,19 +83,22 @@ third_nav_title: Uniformed Groups
               <li>First Aid Coverage for school events like Sports Carnival, Health Fiesta, etc</li>
               <li>Annual Home Visit</li>
               <li>Fund raising for Singapore Red Cross</li>
-              <li>Unit Camp</li>
             </ul> 
 		</div>
 		<div class="column">
 			<h4>HQ Programmes</h4>
-                <ul>
-                  <li>Gold Modular Workshops <br><span>(First Aid, Red Cross Knowledge, Youth Ambassador Blood Programme &amp; Disaster Management)</span></li>
-                  <li>World Red Cross Day</li>
-                  <li>Central District Orientation</li>
-                  <li>Red Cross Flag Day</li>
-                  <li>Warrant Officers Programme</li>
-                  <li>Central District Leadership Workshop</li>
-                </ul>
+               <ul>
+    <li>First Aid Championships (Junior/Senior Category)</li>
+    <li>Gold Modular Workshops (First Aid, Disaster Management)</li>
+    <li>Enrichment Workshops (Casualty Transportation, Mental Wellness, Drone, Foot Drill)</li>
+    <li>Unit Leader Programme</li>
+    <li>Overseas Humanitarian Programme</li>
+    <li>National Camp</li>
+    <li>Unit Specialist Programme</li>
+    <li>Volunteer Instructor Programme</li>
+    <li>Red Cross Youth Challenge</li>
+    <li>World Red Cross Day Celebration</li>
+</ul>
 		</div>
 	</div>	
 </div>
@@ -105,6 +108,8 @@ third_nav_title: Uniformed Groups
 	<div class="video-container">
 	<iframe allowfullscreen="true" height="1109" width="1920" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTGfHnkn10FIWSpX56HUqzm5dtdoCdFtZ1U7c37JgWnU3xVTzlrTsXLfb6WhZSjWQ/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 	</div>
+	<p>Follow us on <a target="_blank" href="https://www.instagram.com/yckssrcy/">Instagram</a> for updates and highlights!</p>
+
        
  </div>
     
