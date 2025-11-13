@@ -97,7 +97,7 @@ image: /images/YCKLogo.svg
                     </tr>
                 </tbody>
             </table>
-        
+				
 			<section>
 		<table class="rwd-table">
   <tbody><tr>
@@ -706,12 +706,12 @@ body {
 .yck-component a {
     transition: color .8s ease;
     text-decoration: none;
-    color: var(--yck-orange-500);
+    color: var(--yck-orange-600);
 }
 
 .yck-component a:hover,
 .yck-component a:active {
-    color: var(--yck-orange-400);
+    color: var(--yck-orange-500);
 }
 
 .yck-component a:focus {
@@ -792,13 +792,10 @@ body {
     /* Abbreviations */
     .yck-component abbr {
         font-weight: 600;
-
         cursor: help;
         transition: color .5 ease-in-out;
         text-decoration: underline dotted;
-
         color: var(--yck-green-800);
-
         text-decoration-thickness: 2px;
         text-underline-offset: 3px;
     }
@@ -807,7 +804,6 @@ body {
     .yck-component abbr:active,
     .yck-component abbr:focus {
         transition: color .5 ease-in-out;
-
         color: var(--yck-green-600);
     }
 
@@ -829,7 +825,6 @@ body {
         color: var(--yck-green700);
     }
 /* Responsive Tables Style */
-
 .yck-component .rwd-table {
     margin: 1em 0;
     min-width: 300px;
@@ -878,11 +873,10 @@ body {
 .yck-component .rwd-table th {
     background-color: #cfcfcf;
     color: var(--neutral-800);
-    font-size: var(--yck-step-1);
+    font-size: var(--yck-step-0);
 }
 
 @media (min-width: 480px) {
-
     .yck-component .rwd-table th,
     .yck-component .rwd-table td {
         display: table-cell;
@@ -916,7 +910,6 @@ body {
     }
 
     @media (min-width: 480px) {
-
         .yck-component .rwd-table th,
         .yck-component .rwd-table td {
             padding: 1em !important;
@@ -927,7 +920,6 @@ body {
     .yck-component .rwd-table td:before {
         color: var(--neutral-800);
     }
-
 
     /* --- Tables --- */
     .yck-component .yck-table,
