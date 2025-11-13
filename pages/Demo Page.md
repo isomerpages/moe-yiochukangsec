@@ -6,7 +6,8 @@ description: ""
 image: /images/YCKLogo.svg
 ---
 <div class="yck-component">
-    <article class="regular-flow">
+    <div class="regular-flow">
+			<article>
         <section id="top">
             <h1>Typography Showcase</h1>
             <p>
@@ -327,77 +328,152 @@ image: /images/YCKLogo.svg
 </div>
 	
 <style>
-/*
- * CSS Reset
- * Based on best practices and recommendations
- */
+/* Global and Root Variables */
+:root {
+    --font-antique: Superclarendon, Bookman Old Style, URW Bookman, URW Bookman L,
+        Georgia Pro, Georgia, serif;
+    --font-classical-humanist: Optima, Candara, Noto Sans, source-sans-pro,
+        sans-serif;
+    --font-didone: Didot, Bodoni MT, Noto Serif Display, URW Palladio L, P052,
+        Sylfaen, serif;
+    --font-geometric-humanist: Avenir, Montserrat, Corbel, URW Gothic,
+        source-sans-pro, sans-serif;
+    --font-handwritten: Segoe Print, Bradley Hand, Chilanka, TSCu_Comic, casual,
+        cursive;
+    --font-humanist: Seravek, Gill Sans Nova, Ubuntu, Calibri, DejaVu Sans,
+        source-sans-pro, sans-serif;
+    --font-industrial: Bahnschrift, DIN Alternate, Franklin Gothic Medium,
+        Nimbus Sans Narrow, sans-serif-condensed, sans-serif;
+    --font-monospace-code: Dank Mono, Operator Mono, Inconsolata, Fira Mono,
+        ui-monospace, SF Mono, Monaco, Droid Sans Mono, Source Code Pro,
+        Cascadia Code, Menlo, Consolas, DejaVu Sans Mono, monospace;
+    --font-monospace-slab-serif: Nimbus Mono PS, Courier New, monospace;
+    --font-neo-grotesque: Inter, Roboto, Helvetica Neue, Arial Nova, Nimbus Sans,
+        Arial, sans-serif;
+    --font-old-style: Iowan Old Style, Palatino Linotype, URW Palladio L, P052,
+        serif;
+    --font-rounded-sans: ui-rounded, Hiragino Maru Gothic ProN, Quicksand,
+        Comfortaa, Manjari, Arial Rounded MT, Arial Rounded MT Bold, Calibri,
+        source-sans-pro, sans-serif;
+    --font-slab-serif: Rockwell, Rockwell Nova, Roboto Slab, DejaVu Serif,
+        Sitka Small, serif;
+    --font-system-ui: system-ui, sans-serif;
+    --font-transitional: Charter, Bitstream Charter, Sitka Text, Cambria, serif;
+    /* Neutral */
+    --neutral-100: #fcfcfa;
+    --neutral-200: #eae8e4;
+    --neutral-300: #d7d3ce;
+    --neutral-400: #c5bfb9;
+    --neutral-500: #b3aba4;
+    --neutral-600: #8f8883;
+    --neutral-700: #6c6663;
+    --neutral-800: #494442;
+    --neutral-900: #262322;
+    /* Accent: Algal Fuel */
+    --yck-green100: #f2fffb;
+    --yck-green200: #bcfee6;
+    --yck-green300: #83f8c7;
+    --yck-green400: #4ae79d;
+    --yck-green500: #16c768;
+    --yck-green600: #079f45;
+    --yck-green700: #02772b;
+    --yck-green800: #004e17;
+    --yck-green900: #002609;
+    /* Primary: Chaat Masala */
+    --yck-orange-100: #fffbf2;
+    --yck-orange-200: #ffe9c1;
+    --yck-orange-300: #fbce8f;
+    --yck-orange-400: #f3ac5c;
+    --yck-orange-500: #e3812b;
+    --yck-orange-600: #b4520e;
+    --yck-orange-700: #853003;
+    --yck-orange-800: #551900;
+    --yck-orange-900: #260900;
+
+
+    /* Fluid Typography & Spacing */
+    /* @link https://utopia.fyi/type/calculator?c=320,12,1.2,1400,20,1.25,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
+    --yck-step--1: clamp(.625rem, .5139rem + .5556vw, 1rem);
+    --yck-step--2: clamp(.5208rem, .4381rem + .4136vw, .8rem);
+    --yck-step-0: clamp(.75rem, .6019rem + .7407vw, 1.25rem);
+    --yck-step-1: clamp(.9rem, .7037rem + .9815vw, 1.5625rem);
+    --yck-step-2: clamp(1.08rem, .8213rem + 1.2935vw, 1.9531rem);
+    --yck-step-3: clamp(1.296rem, .9566rem + 1.6969vw, 2.4414rem);
+    --yck-step-4: clamp(1.5552rem, 1.1118rem + 2.2171vw, 3.0518rem);
+    --yck-step-5: clamp(1.8662rem, 1.2889rem + 2.8866vw, 3.8147rem);
+
+    --yck-space-s-xl: clamp(1rem, -.239rem + 4.32vw, 3rem);
+
+    --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, .25);
+    --yck-box-shadow1: 0 1px 2px rgba(0, 0, 0, .15);
+    --yck-inset-shadow1: rgba(50, 50, 93, .25) 0 30px 60px -12px inset,
+        rgba(0, 0, 0, .3) 0 18px 36px -18px inset;
+    --yck-inset-shadow2: rgb(204, 219, 232) 3px 3px 6px 0 inset,
+        rgba(255, 255, 255, .5) -3px -3px 6px 1px inset;
+    --yck-rounded-corners: 10px;
+    --yck-heading-letter-spacing: -.02em;
+    --yck-heading-line-height: 1.2em;
+    --yck-text-line-height: 1.6em;
+    --yck-transition-timing: cubic-bezier(.4, 0, .2, 1);
+    --yck-spacing-unit: 1rem;
+
+    interpolate-size: allow-keywords;
+    scroll-behavior: smooth;
+    text-rendering: optimizeSpeed;
+}
+
+:where(html) {
+    --ratio-golden: 1.6180/1;
+    --ratio-landscape: 4/3;
+    --ratio-portrait: 3/4;
+    --ratio-square: 1;
+    --ratio-ultrawide: 18/5;
+    --ratio-widescreen: 16/9;
+}
 
 /* Box Sizing */
 *,
 *::before,
 *::after {
+    padding: 0;
+    margin: 0;
     box-sizing: border-box;
 }
 
-/* Reset Margins and Padding */
-* {
-    margin: 0;
-    padding: 0;
-}
-
-/* Typography */
-
 html {
     font-size: 100%;
-    /* [3] Define base font size in percentage for accessibility. */
 }
-
-/* Links */
 
 a {
     text-decoration: none;
-    /* [4] Remove default underline for a cleaner look. */
     color: inherit;
-    /* [7] Inherit color from parent for consistency. */
 }
-
-/* Buttons */
 
 button,
 a.button {
-    border: none;
-    /* [4] Remove default border. */
-    background-color: transparent;
-    /* [4] Remove default background color. */
-    font-family: inherit;
-    /* [4] Inherit font family from parent for consistency. */
     padding: 0;
-    /* [4] Remove default padding. */
+    font-family: inherit;
     cursor: pointer;
-    /* [4] Provide visual feedback to users that the element is interactive. */
+    border: none;
+    background-color: transparent;
 
-    /* Accessibility - Windows High Contrast Mode */
     @media screen and (-ms-high-contrast: active) {
         border: 2px solid currentcolor;
-        /* [4] Ensure a perceivable button border for improved accessibility. */
     }
 }
 
-/* Lists */
-
 ol,
 ul {
-    margin: 0 auto;
     padding: 0;
-    /* [8] Remove default list styles for greater styling control. */
+    margin: 0;
+    list-style: none;
 }
 
 /* Images */
-
 img {
-    max-width: 100%;
-    height: auto;
     display: block;
+    height: auto;
+    max-width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -411,56 +487,37 @@ video {
     vertical-align: middle;
 }
 
-/* Root Variables */
-:root {
-    --yck-text-line-height: 1.6em;
-    --yck-heading-line-height: 1.2em;
-    --yck-heading-letter-spacing: -0.02em;
-    --yck-spacing-unit: 1rem;
-    --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
-    --yck-box-shadow1: 0 1px 2px rgba(0, 0, 0, 0.15);
-    --yck-inset-shadow1: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
-    --yck-inset-shadow2: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
-    --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
-    --yck-rounded-corners: 10px;
-
-    /* @link https://utopia.fyi/type/calculator?c=320,12,1.2,1400,20,1.25,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
-    --yck-step--2: clamp(0.5208rem, 0.4381rem + 0.4136vw, 0.8rem);
-    --yck-step--1: clamp(0.625rem, 0.5139rem + 0.5556vw, 1rem);
-    --yck-step-0: clamp(0.75rem, 0.6019rem + 0.7407vw, 1.25rem);
-    --yck-step-1: clamp(0.9rem, 0.7037rem + 0.9815vw, 1.5625rem);
-    --yck-step-2: clamp(1.08rem, 0.8213rem + 1.2935vw, 1.9531rem);
-    --yck-step-3: clamp(1.296rem, 0.9566rem + 1.6969vw, 2.4414rem);
-    --yck-step-4: clamp(1.5552rem, 1.1118rem + 2.2171vw, 3.0518rem);
-    --yck-step-5: clamp(1.8662rem, 1.2889rem + 2.8866vw, 3.8147rem);
-
-    --yck-space-s-xl: clamp(1rem, -0.239rem + 4.32vw, 3rem);
-    /* clamp(1.25rem, 0.1111rem + 4.4444vw, 4rem); */
-    /*   clamp(1rem, -0.239rem + 4.32vw, 3rem);
-    /* clamp(1.125em, 0.2143em + 3.9286vw, 3.5em); */
-
-    --font-system-ui: system-ui, sans-serif;
-    --font-transitional: Charter, Bitstream Charter, Sitka Text, Cambria, serif;
-    --font-old-style: Iowan Old Style, Palatino Linotype, URW Palladio L, P052, serif;
-    --font-humanist: Seravek, Gill Sans Nova, Ubuntu, Calibri, DejaVu Sans, source-sans-pro, sans-serif;
-    --font-geometric-humanist: Avenir, Montserrat, Corbel, URW Gothic, source-sans-pro, sans-serif;
-    --font-classical-humanist: Optima, Candara, Noto Sans, source-sans-pro, sans-serif;
-    --font-neo-grotesque: Inter, Roboto, Helvetica Neue, Arial Nova, Nimbus Sans, Arial, sans-serif;
-    --font-monospace-slab-serif: Nimbus Mono PS, Courier New, monospace;
-    --font-monospace-code: Dank Mono, Operator Mono, Inconsolata, Fira Mono, ui-monospace, SF Mono, Monaco,
-        Droid Sans Mono, Source Code Pro, Cascadia Code, Menlo, Consolas, DejaVu Sans Mono, monospace;
-    --font-industrial: Bahnschrift, DIN Alternate, Franklin Gothic Medium, Nimbus Sans Narrow, sans-serif-condensed,
-        sans-serif;
-    --font-rounded-sans: ui-rounded, Hiragino Maru Gothic ProN, Quicksand, Comfortaa, Manjari, Arial Rounded MT,
-        Arial Rounded MT Bold, Calibri, source-sans-pro, sans-serif;
-    --font-slab-serif: Rockwell, Rockwell Nova, Roboto Slab, DejaVu Serif, Sitka Small, serif;
-    --font-antique: Superclarendon, Bookman Old Style, URW Bookman, URW Bookman L, Georgia Pro, Georgia, serif;
-    --font-didone: Didot, Bodoni MT, Noto Serif Display, URW Palladio L, P052, Sylfaen, serif;
-    --font-handwritten: Segoe Print, Bradley Hand, Chilanka, TSCu_Comic, casual, cursive;
-
-    interpolate-size: allow-keywords;
-    scroll-behavior: smooth;
-    text-rendering: optimizeSpeed;
+html,
+body,
+p,
+ol,
+ul,
+li,
+dl,
+dt,
+dd,
+blockquote,
+figure,
+fieldset,
+legend,
+textarea,
+pre,
+iframe,
+hr,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+article,
+section,
+main,
+header,
+footer,
+nav {
+    padding: 0;
+    margin: 0;
 }
 
 body {
@@ -472,7 +529,7 @@ body {
 }
 
 ::selection {
-    background: rgba(255, 255, 0, 0.35);
+    background: rgba(255, 255, 0, .35);
 }
 
 /* Component Wrapper */
@@ -1359,4 +1416,4 @@ small {
     background: linear-gradient(45deg, #0164b6 0%, #04a4e3 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0164b6', endColorstr='#04a4e3', GradientType=1)
 }
-</style>
+</style></div>
