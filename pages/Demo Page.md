@@ -1112,31 +1112,35 @@ body {
     text-align: center;
 }
 
-/* Layouts - Responsive Grid with Flex-Wrap */
-.yck-component .flex-grid {
-    display: flex;
-    flex-wrap: wrap;
-    gap: var(--yck-spacing-unit);
-    margin-block: var(--yck-spacing-unit);
-}
+    /* Layouts - Responsive Grid with Flex-Wrap */
+    .yck-component .yck-flexitems {
+        display: flex;
 
-.yck-component .flex-grid-item {
-    flex: 1 0 calc(33% - var(--yck-spacing-unit));
-    min-width: 150px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background: linear-gradient(135deg, #fff 0%, #fff 100%);
-    color: #ccc;
-    font-size: var(--yck-step-0);
-}
+        flex-wrap: wrap;
+        gap: var(--yck-spacing-unit);
+        margin-block: var(--yck-spacing-unit);
+    }
 
-.yck-component .flex-grid-item img {
-    width: 100%;
-    border-radius: var(--yck-rounded-corners);
-    background-size: cover;
-    object-fit: cover;
-}
+    .yck-component .yck-flexitem {
+        display: flex;
+        min-width: 150px;
+
+        color: #ccc;
+        background: linear-gradient(135deg, #fff 0%, #fff 100%);
+
+        align-items: center;
+        flex: 1 0 calc(33% - var(--yck-spacing-unit));
+        justify-content: center;
+    }
+
+    .yck-component .yck-flexitem img {
+        width: 100%;
+
+        border-radius: var(--yck-rounded-corners);
+        background-size: cover;
+
+        object-fit: cover;
+    }
 
 /* Layout - Equal Height Cards with sticky footer */
 .yck-component .equal-cards {
