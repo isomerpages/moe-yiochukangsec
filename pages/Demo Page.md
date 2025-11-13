@@ -774,44 +774,85 @@ body {
     margin: 0;
 }
 
-	/* BLOCKQUOTES */
+	    /* BLOCKQUOTES */
     .yck-component .quote {
-        margin: 2em 2em 2em 6em;
         padding: 1.125rem;
+        margin: 4em 1em 1em 8em;
+        margin-bottom: var(--yck-step-5);
+
         border-left: 5px solid #a63232;
         border-radius: var(--yck-rounded-corners);
     }
 
     .yck-component .blockquote {
+        position: relative;
+
+        min-width: 25ch;
+        padding: 0;
+        margin: 0;
+
         font-family: var(--font-transitional);
         font-size: var(--yck-step-0);
         font-weight: 300;
-        line-height: 1.6em;
-        position: relative;
-        min-width: 30ch;
+        line-height: 1.4em;
     }
 
     .yck-component .blockquote::before {
-        font-weight: 900;
-        font-style: oblique;
-        text-shadow: var(--yck-box-shadow);
-        content: "\201C";
-        color: #a63232;
-        font-size: calc(var(--yck-step-5)*3.15);
         position: absolute;
-        left: -0.9em;
-        top: 0.25em;
+        top: 1.5rem;
+        left: -.9em;
+
+        font-size: calc(var(--yck-step-5) * 3.13);
+        font-style: oblique;
+        font-weight: 900;
+
+        content: "\201C";
+
+        color: #a63232;
+        text-shadow: var(--yck-box-shadow);
     }
 
-    .yck-component cite {
+    .yck-component .blockquote cite {
         display: block;
-        text-align: right;
-        font-weight: 500;
-        font-style: oblique;
         margin-top: 1rem;
         margin-right: var(--yck-space-s-xl);
+
         font-size: var(--yck-step--1);
+        font-style: oblique;
+        font-weight: 500;
+
+        text-align: right;
     }
+	
+	    .yck-component figure,
+    .yck-component .figure {
+        display: block;
+        max-width: 100%;
+        padding: 0;
+        margin: 0;
+        overflow: hidden;
+
+        border-radius: var(--yck-rounded-corners);
+    }
+
+    .yck-component figure img,
+    .yck-component .figure img {
+        border-radius: var(--yck-rounded-corners);
+    }
+
+    .yck-component figcaption,
+    .yck-component .caption {
+        display: block;
+        padding: 0;
+        margin: 0 auto;
+
+        font-size: var(--yck-step--1);
+        font-style: oblique;
+        font-weight: 300;
+
+        text-align: center;
+    }
+
 
     /* Abbreviations */
     .yck-component abbr {
@@ -1057,25 +1098,6 @@ body {
             padding: calc(var(--yck-spacing-unit) * 0.25);
         }
     }
-.yck-component figure {
-    display: block;
-    border-radius: var(--yck-rounded-corners);
-    width: 100%;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-}
-
-.yck-component figcaption,
-.yck-component .caption {
-    display: block;
-    text-align: center;
-    font-weight: 300;
-    font-style: oblique;
-    margin: 0 auto;
-    padding: 0;
-    font-size: var(--yck-step--1);
-}
 
 /* Layouts */
 .yck-component .deadctr-container {
