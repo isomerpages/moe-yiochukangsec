@@ -52,8 +52,7 @@ image: /images/YCKLogo.svg
                                         <li>Consectetur adipiscing elit.</li>
                                         <li>Integer nec odio. Praesent libero.</li>
                                     </ol>
-                                </section>
-            <table class="yck-table">
+																	<table class="yck-table">
                 <thead>
                     <tr>
                         <th class="yck-th yck-h6">Topics or Lessons</th>
@@ -97,7 +96,7 @@ image: /images/YCKLogo.svg
                     </tr>
                 </tbody>
             </table>
-				
+				</section>			
 			<section>
 		<table class="rwd-table">
   <tbody><tr>
