@@ -9,25 +9,50 @@ image: /images/YCKLogo.svg
     <div class="regular-flow">
 			<article>
         <section id="top">
-            <h1>Typography Showcase</h1>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Curabitur at odio et metus volutpat condimentum quis nec enim.
-                Donec id dictum ligula, ut tempus orci.
-            </p>
-        </section>
-        <section>
-            <h2>Heading Level Two</h2>
-            <p>
-                Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
-                posuere cubilia curae; Sed nec <a href="#">nunc suscipit</a>,
-                viverra mi nec, tristique nunc. Ut vehicula
-                <a class="text-link" href="#">bibendum</a> justo, a accumsan
-                elit rhoncus sit amet.
-            </p>
-            <p>
-                Curabitur at odio et metus volutpat condimentum quis nec enim.
-            </p>
+                                    <h1>Typography Showcase</h1>
+                                    <p>
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                                        Curabitur at odio et metus volutpat condimentum quis nec
+                                        enim. Donec id dictum ligula, ut tempus orci.
+                                    </p>
+                                </section>
+                                <section>
+                                    <h2>Heading Level Two - Responsive Table</h2>
+                                    <p>
+                                        Vestibulum ante ipsum primis in faucibus orci luctus et
+                                        ultrices posuere cubilia curae; Sed nec
+                                        <a href="#">nunc suscipit</a>, viverra mi nec, tristique
+                                        nunc. Ut vehicula
+                                        <a class="text-link" href="#">bibendum</a> justo, a accumsan
+                                        elit rhoncus sit amet.
+                                    </p>
+                                    <ol>
+                                        <li>Lorem ipsum dolor sit amet.</li>
+                                        <li>Consectetur adipiscing elit.</li>
+                                        <li>Integer nec odio. Praesent libero.</li>
+                                    </ol>
+                                    <ul>
+                                        <li>Lorem ipsum dolor sit amet.</li>
+                                        <li>Consectetur adipiscing elit.</li>
+                                        <li>Integer nec odio. Praesent libero.</li>
+                                    </ul>
+                                    <p>
+                                        Excepteur sint occaecat cupidatat non proident, sunt in culpa
+                                        qui officia deserunt mollit anim id est laborum.
+                                    </p>
+                                    <ol start="4">
+                                        <li>
+                                            Lorem ipsum dolor sit amet.
+                                            <ul>
+                                                <li>Lorem ipsum dolor sit amet.</li>
+                                                <li>Consectetur adipiscing elit.</li>
+                                                <li>Integer nec odio. Praesent libero.</li>
+                                            </ul>
+                                        </li>
+                                        <li>Consectetur adipiscing elit.</li>
+                                        <li>Integer nec odio. Praesent libero.</li>
+                                    </ol>
+                                </section>
             <table class="yck-table">
                 <thead>
                     <tr>
@@ -72,7 +97,7 @@ image: /images/YCKLogo.svg
                     </tr>
                 </tbody>
             </table>
-        </section>
+        
 			<section>
 		<table class="rwd-table">
   <tbody><tr>
