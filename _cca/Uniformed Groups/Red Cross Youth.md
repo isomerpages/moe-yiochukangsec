@@ -35,12 +35,11 @@ third_nav_title: Uniformed Groups
                     <td class="yck-td">
                         <strong><p>Mrs Heng Lai Khar (ext. 138) - OIC</p></strong>
                         <p>Ms Foo Ger Maine (ext. 137)</p>
-                        <p>Mr Lim Chee Wee (ext. 126)</p>
                         <p>Mdm Alvina Loganathan (ext. 134)</p>
                         <p>Mr Mark Tan (ext. 150)</p>
                         <p>Mdm Liu Xuefang (ext. 172)</p>
                     </td>
-									<td class="yck-td"><p>RED CROSS Room &amp; Blk E, Level 1 Classrooms</p></td>
+									<td class="yck-td"><p>Reporting Venue: <strong>Block G</strong></p><p>Training Venues: <strong>Blk E, Level 1 Classrooms</strong></p></td>
                 </tr>
             </tbody>
         </table>
