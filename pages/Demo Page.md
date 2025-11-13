@@ -532,12 +532,40 @@ body {
     background: rgba(255, 255, 0, .35);
 }
 
-/* Component Wrapper */
+/* Component Wrappers - div, article, main, section */
 .yck-component {
     width: 100%;
-    margin-bottom: var(--yck-space-s-xl);
+    max-width: 1200px;
 }
 
+.yck-component * {
+    padding: 0;
+    margin: 0;
+    font-size: var(--yck-step-0);
+}
+
+.yck-component section {
+    margin-block: var(--yck-space-s-xl);
+}
+
+.yck-component .regular-flow>*+* {
+    margin-top: 1.125em;
+}
+
+.yck-component div,
+.yck-component p {
+    padding: 0;
+    margin: 0;
+    text-wrap: pretty;
+    font-size: inherit;
+    letter-spacing: normal;
+    line-height: var(--yck-text-line-height);
+}
+
+.yck-component section p:last-of-type,
+.yck-component article p:last-of-type {
+    margin-bottom: 1em;
+}
 
 /* Headings */
 .yck-component h1,
@@ -571,44 +599,74 @@ body {
     text-wrap: balance;
 }
 
-.yck-component *,
-.yck-component p {
-    margin: 0;
-    padding: 0;
-    text-wrap: pretty;
+.yck-component h1,
+.yck-component .yck-h1 {
+    font-size: var(--yck-step-5);
+    font-weight: 800;
+    line-height: var(--yck-heading-line-height);
+}
+
+.yck-component h2,
+.yck-component .yck-h2 {
+    font-size: var(--yck-step-4);
+    font-weight: 600;
+    line-height: var(--yck-heading-line-height);
+}
+
+.yck-component h3,
+.yck-component .yck-h3 {
+    font-size: var(--yck-step-3);
+    font-weight: 400;
+    line-height: var(--yck-heading-line-height);
+}
+
+.yck-component h4,
+.yck-component .yck-h4 {
+    font-size: var(--yck-step-2);
+    line-height: var(--yck-heading-line-height);
+}
+
+.yck-component h5,
+.yck-component .yck-h5 {
+    font-size: var(--yck-step-1);
+    line-height: var(--yck-heading-line-height);
+    text-transform: uppercase;
+}
+
+.yck-component h6,
+.yck-component .yck-h6 {
     font-size: var(--yck-step-0);
-    letter-spacing: normal;
-    line-height: var(--yck-text-line-height);
+    line-height: var(--yck-heading-line-height);
+    text-transform: uppercase;
 }
 
-.yck-component p {
-    margin-bottom: var(--yck-spacing-unit);
+.yck-component .small,
+.yck-component .yck-small,
+.yck-component small {
+    font-size: var(--yck-step--2);
+    line-height: calc(var(--yck-text-line-height) * .75);
 }
 
-.yck-component div p:last-child,
-.yck-component section p:last-child,
-.yck-component article p:last-child {
-    margin-bottom: var(--yck-space-s-xl);
-}
-
+/* Ordered and Unordered Lists */
 .yck-component ol,
 .yck-component ul {
     padding: 0;
-    margin: 0;
-    padding-left: 1.5em;
+    margin-left: 1.5em;
 }
 
 .yck-component ul li,
 .yck-component ol li {
-    line-height: 1.5;
+    padding-left: .5em;
     margin: 0;
+    line-height: 1.5;
 }
 
 .yck-component ul li:last-child,
 .yck-component ol li:last-child {
-    margin-bottom: var(--yck-step-3);
+    margin-bottom: var(--yck-step-2);
 }
 
+/* Removes the gap between nested lists (list within a list). */
 .yck-component li ul,
 .yck-component li ol {
     margin-top: 0;
@@ -619,78 +677,16 @@ body {
     margin-bottom: var(--yck-spacing-unit);
 }
 
-
-
-.yck-component h1,
-.yck-component .yck-h1 {
-    font-size: var(--yck-step-5);
-    font-weight: 800;
-    line-height: var(--yck-heading-line-height);
-    margin-bottom: var(--yck-space-s-xl);
-}
-
-.yck-component h2,
-.yck-component .yck-h2 {
-    font-size: var(--yck-step-4);
-    font-weight: 600;
-    line-height: var(--yck-heading-line-height);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.55);
-}
-
-.yck-component h3,
-.yck-component .yck-h3 {
-    font-size: var(--yck-step-3);
-    font-weight: 400;
-    line-height: var(--yck-heading-line-height);
-    margin-block: calc(var(--yck-space-s-xl) * 0.35);
-}
-
-.yck-component h4,
-.yck-component .yck-h4 {
-    font-size: var(--yck-step-2);
-    line-height: var(--yck-heading-line-height);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.2);
-}
-
-.yck-component h5,
-.yck-component .yck-h5 {
-    font-size: var(--yck-step-1);
-    text-transform: uppercase;
-    line-height: var(--yck-heading-line-height);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.1);
-}
-
-.yck-component h6,
-.yck-component .yck-h6 {
-    font-size: var(--yck-step-0);
-    text-transform: uppercase;
-    line-height: var(--yck-heading-line-height);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.05);
-}
-
-.yck-component hr,
-hr {
-    border: 1px dotted rgba(0, 0, 0, 0.25);
-    width: 95%;
-    margin: 1em;
-}
-
-.yck-component small,
-.yck-component .small,
-small {
-    font-size: var(--yck-step--2);
-    line-height: calc(var(--yck-text-line-height) * 0.75);
-}
-
+/* HREF links */
 .yck-component a {
-    color: #e37f2a;
+    transition: color .8s ease;
     text-decoration: none;
-    transition: color 0.8s ease;
+    color: var(--yck-orange-500);
 }
 
 .yck-component a:hover,
 .yck-component a:active {
-    color: #b85e1f;
+    color: var(--yck-orange-400);
 }
 
 .yck-component a:focus {
@@ -704,14 +700,14 @@ small {
 }
 
 .yck-component a.text-link::after {
-    content: "";
     position: absolute;
-    width: 0;
-    height: 2px;
     bottom: 0;
     left: 0;
+    width: 0;
+    height: 2px;
+    content: "";
+    transition: width 1s cubic-bezier(.25, 1, .5, 1);
     background-color: currentColor;
-    transition: width 1s cubic-bezier(0.25, 1, 0.5, 1);
 }
 
 .yck-component a.text-link:hover::after,
@@ -720,50 +716,17 @@ small {
     width: 100%;
 }
 
-.yck-component a[target="_blank"]:not(.text-link):after {
+.yck-component a[target="_blank"]:not(.text-link):after,
+.yck-component a[target="_blank"]:not(.text-link):before,
+.yck-component a:not(.text-link):after,
+.yck-component a:not(.text-link):before {
     display: none;
-    margin: 0;
     padding: 0;
+    margin: 0;
 }
 
-.yck-component abbr {
-    text-decoration: underline dotted #2c6139;
-    text-decoration-thickness: 2px;
-    text-underline-offset: 3px;
-    color: #2c6139;
-    font-weight: 600;
-    cursor: help;
-    transition: color 0.5 ease;
-}
-
-.yck-component abbr:hover,
-.yck-component abbr:active,
-.yck-component abbr:focus {
-    color: #4fb568;
-}
-
-.yck-component .dropcap-title {
-    font-weight: 500;
-    margin-bottom: 0.5em;
-    color: #555;
-}
-
-.yck-component .dropcap-title::first-letter {
-    float: left;
-    font-size: calc(var(--yck-step-5) * 1.65);
-    font-weight: bold;
-    font-style: oblique;
-    font-family: Georgia, serif;
-    line-height: 0.9;
-    padding-right: 0.1em;
-    color: #4e835b;
-}
-
-.yck-component .regular-flow>*+* {
-    margin-top: 1.125em;
-}
-
-/* --- Tables --- */
+	
+	/* --- Tables --- */
 .yck-component .yck-table,
 .yck-component table {
     display: table;
