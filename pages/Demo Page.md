@@ -145,34 +145,49 @@ image: /images/YCKLogo.svg
                                                 </div>
 				</section>
         <section>
-            <h3>Heading Level Three</h3>
-            <p>
-                Phasellus elementum sapien sed justo
-                <abbr title="Cascading Style Sheets">CSS</abbr> tincidunt
-                gravida. Suspendisse vel eros id neque feugiat pretium. Aenean a
-                neque eget lorem feugiat bibendum.
-            </p>
-            <div class="flex-grid">
-                <div class="flex-grid-item">
-                    <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec2.jpg">
-                </div>
-                <div class="flex-grid-item">
-                    <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec3.jpg">
-                </div>
-                <div class="flex-grid-item">
-                    <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec4.jpg">
-                </div>
-                <div class="flex-grid-item">
-                    <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182">
-                </div>
-                <div class="flex-grid-item">
-                    <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec1.jpg">
-                </div>
-                <div class="flex-grid-item">
-                    <img alt="placeholder image" src="https://placehold.co/400x300/cccccc/969696.png?font=lato">
-                </div>
-            </div>
+                                                <h3>Heading Level Three</h3>
+                                                <p>
+                                                    Phasellus elementum sapien sed justo
+                                                    <abbr title="Cascading Style Sheets">CSS</abbr> tincidunt
+                                                    gravida. Suspendisse vel eros id neque feugiat pretium. Aenean a
+                                                    neque eget lorem feugiat bibendum.
+                                                </p>
+                                                <div class="yck-flexitems">
+                                                    <div class="yck-flexitem">
+                                                        <figure>
+                                                            <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec2.jpg">
+                                                            <figcaption>ViA in action with the Sec 1s</figcaption>
+                                                        </figure>
+                                                    </div>
+                                                    <div class="yck-flexitem">
+                                                        <figure>
+                                                            <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec3.jpg">
+                                                        </figure>
+                                                    </div>
+                                                    <div class="yck-flexitem">
+                                                        <figure>
+                                                            <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec4.jpg">
+                                                        </figure>
+                                                    </div>
+                                                    <div class="yck-flexitem">
+                                                        <figure>
+                                                            <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182">
+                                                        </figure>
+                                                    </div>
+                                                    <div class="yck-flexitem">
+                                                        <figure>
+                                                            <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec1.jpg">
+                                                        </figure>
+                                                    </div>
+                                                    <div class="yck-flexitem">
+                                                        <figure>
+                                                            <img alt="placeholder image" src="https://placehold.co/400x300/cccccc/969696.png?font=lato">
+                                                        </figure>
+                                                    </div>
+                                                </div>
+				</section>
             <hr>
+				<section>
             <div class="equal-cards">
                 <div class="card">
                     <div class="card-header">Card 1</div>
