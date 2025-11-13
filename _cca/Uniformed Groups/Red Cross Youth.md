@@ -58,7 +58,7 @@ third_nav_title: Uniformed Groups
 					<tr>
 						<td class="yck-td"><strong>2025</strong></td>
 						<td class="yck-td">2025 First Aid Championships (Junior) - Bronze<br>
-2025 First Aid Championships (Senior) - Gold<br>
+2025 First Aid Championships (Senior) - Gold<br>SAC-YCKSS Sportsmanship Award - Staff Sergeant Chen Ruohan<br>
 							Director's Award - Staff Sergeant Vishnu Adtya</td>
           </tr><tr>
 						<td class="yck-td"><strong>2024</strong></td>
