@@ -1295,61 +1295,63 @@ body {
     margin-bottom: 1rem;
 }
 
-/* Layouts - Columns */
-.yck-component .col-container {
-    width: 100%;
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0;
-    break-inside: avoid;
-    page-break-inside: avoid;
-    column-fill: balance;
-    margin-bottom: var(--yck-space-s-xl);
+    /* Layouts - Columns */
+    .yck-component .col-container {
+        width: 100%;
+        max-width: 1200px;
+        padding: 0;
+        margin: 0 auto;
+        margin-bottom: var(--yck-space-s-xl);
 
-}
+        break-inside: avoid;
+        column-fill: balance;
+        page-break-inside: avoid;
+    }
 
-.yck-component .col-container ul li,
-.yck-component .col-container ol li,
-.yck-component .col-container p {
-    font-size: var(--yck-step-0);
-}
+    .yck-component .col-container ul li,
+    .yck-component .col-container ol li,
+    .yck-component .col-container p {
+        font-size: var(--yck-step-0);
+    }
 
-.yck-component .col-container ul li:last-child,
-.yck-component .col-container ol li:last-child {
-    margin-bottom: var(--yck-step-0);
-}
+    .yck-component .col-container ul li:last-child,
+    .yck-component .col-container ol li:last-child {
+        margin-bottom: var(--yck-step-0);
+    }
 
-.yck-component .col-container>.columns2 {
-    column-count: 2;
-    column-rule: 1px dotted lightgrey;
-    column-gap: 1.5em;
-}
+    .yck-component .col-container>.columns2 {
+        column-count: 2;
+        column-gap: 1.5em;
+        column-rule: 1px dotted lightgrey;
+    }
 
-.yck-component .col-container>.columns3 {
-    column-count: 3;
-    column-rule: 1px dotted lightgrey;
-    column-gap: 1.5em;
-}
+    .yck-component .col-container>.columns3 {
+        column-count: 3;
+        column-gap: 1.5em;
+        column-rule: 1px dotted lightgrey;
+    }
 
-/* --- LAyouts - Video Containers --- */
-.yck-component .video-container {
-    position: relative;
-    width: 100%;
-    padding-bottom: 56.25%;
-    height: 0;
-    overflow: hidden;
-    margin-bottom: var(--yck-spacing-unit);
-}
+    /* --- LAyouts - Video Containers --- */
+    .yck-component .video-container {
+        position: relative;
 
-.yck-component .video-container iframe,
-.yck-component .video-container object,
-.yck-component .video-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
+        width: 100%;
+        height: 0;
+        padding-bottom: 56.25%;
+        margin-bottom: var(--yck-spacing-unit);
+        overflow: hidden;
+    }
+
+    .yck-component .video-container iframe,
+    .yck-component .video-container object,
+    .yck-component .video-container embed {
+        position: absolute;
+        top: 0;
+        left: 0;
+
+        width: 100%;
+        height: 100%;
+    }
 
 /* Buttons */
 /* From Uiverse.io by vinodjangid07 */
