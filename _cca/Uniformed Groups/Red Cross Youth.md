@@ -31,16 +31,15 @@ third_nav_title: Uniformed Groups
             <tbody>
                 <tr>
 									<td class="yck-td"><p>Every Tuesday<br>3.00pm to 5.30pm</p>
-									<p>Additional Involvement for HQ activities on OTHER DAYS</p></td>
+									<p>Additional Involvement<br> for HQ activities on OTHER DAYS</p></td>
                     <td class="yck-td">
                         <strong><p>Mrs Heng Lai Khar (ext. 138) - OIC</p></strong>
                         <p>Ms Foo Ger Maine (ext. 137)</p>
-                        <p>Mr Lim Chee Wee (ext. 126)</p>
                         <p>Mdm Alvina Loganathan (ext. 134)</p>
                         <p>Mr Mark Tan (ext. 150)</p>
                         <p>Mdm Liu Xuefang (ext. 172)</p>
                     </td>
-									<td class="yck-td"><p>RED CROSS Room &amp; Blk E, Level 1 Classrooms</p></td>
+									<td class="yck-td"><p>Reporting Venue: <br><strong>Block G</strong></p><p>Training Venues: <br><strong>Blk E, Level 1 Classrooms</strong></p></td>
                 </tr>
             </tbody>
         </table>
@@ -56,12 +55,17 @@ third_nav_title: Uniformed Groups
           </tr>
         </thead>
         <tbody>
-          <tr>
-            <td class="yck-td yck-strong">2024</td>
-            <td class="yck-td">2024 First Aid Championships (Junior) - Bronze<br> 2024 First Aid Championships (Senior) - Bronze<br> Director's Award - Warrant Officer Karen Koh Sze Yee </td>
+					<tr>
+						<td class="yck-td"><strong>2025</strong></td>
+						<td class="yck-td">2025 First Aid Championships (Junior) - Bronze<br>
+2025 First Aid Championships (Senior) - Gold<br>SAC-YCKSS Sportsmanship Award - Staff Sergeant Chen Ruohan<br>
+							Director's Award - Staff Sergeant Vishnu Adtya</td>
+          </tr><tr>
+						<td class="yck-td"><strong>2024</strong></td>
+            <td class="yck-td">2024 Excellent Unit Award - Gold <br>2024 First Aid Championships (Junior) - Bronze<br> 2024 First Aid Championships (Senior) - Bronze<br> Director's Award - Warrant Officer Karen Koh Sze Yee </td>
           </tr>
           <tr>
-            <td class="yck-td yck-strong">2023</td>
+						<td class="yck-td"><strong>2023</strong></td>
             <td class="yck-td">2023 Excellent Unit Award - Gold<br> 2023 First Aid Championships (Junior) - Silver<br> 2023 First Aid Championships (Senior) - Bronze </td>
           </tr>
         </tbody>
@@ -79,19 +83,22 @@ third_nav_title: Uniformed Groups
               <li>First Aid Coverage for school events like Sports Carnival, Health Fiesta, etc</li>
               <li>Annual Home Visit</li>
               <li>Fund raising for Singapore Red Cross</li>
-              <li>Unit Camp</li>
             </ul> 
 		</div>
 		<div class="column">
 			<h4>HQ Programmes</h4>
-                <ul>
-                  <li>Gold Modular Workshops <br><span>(First Aid, Red Cross Knowledge, Youth Ambassador Blood Programme &amp; Disaster Management)</span></li>
-                  <li>World Red Cross Day</li>
-                  <li>Central District Orientation</li>
-                  <li>Red Cross Flag Day</li>
-                  <li>Warrant Officers Programme</li>
-                  <li>Central District Leadership Workshop</li>
-                </ul>
+               <ul>
+    <li>First Aid Championships (Junior/Senior Category)</li>
+    <li>Gold Modular Workshops (First Aid, Disaster Management)</li>
+    <li>Enrichment Workshops (Casualty Transportation, Mental Wellness, Drone, Foot Drill)</li>
+    <li>Unit Leader Programme</li>
+    <li>Overseas Humanitarian Programme</li>
+    <li>National Camp</li>
+    <li>Unit Specialist Programme</li>
+    <li>Volunteer Instructor Programme</li>
+    <li>Red Cross Youth Challenge</li>
+    <li>World Red Cross Day Celebration</li>
+</ul>
 		</div>
 	</div>	
 </div>
@@ -101,6 +108,8 @@ third_nav_title: Uniformed Groups
 	<div class="video-container">
 	<iframe allowfullscreen="true" height="1109" width="1920" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTGfHnkn10FIWSpX56HUqzm5dtdoCdFtZ1U7c37JgWnU3xVTzlrTsXLfb6WhZSjWQ/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 	</div>
+	<p>Follow us on <a target="_blank" href="https://www.instagram.com/yckssrcy/">Instagram</a> for updates and highlights!</p>
+
        
  </div>
     
