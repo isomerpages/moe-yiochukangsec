@@ -7,347 +7,464 @@ image: /images/YCKLogo.svg
 ---
 <div class="yck-component">
     <div class="regular-flow">
-			<article>
-        <section id="top">
-                                    <h1>Typography Showcase</h1>
-                                    <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                        Curabitur at odio et metus volutpat condimentum quis nec
-                                        enim. Donec id dictum ligula, ut tempus orci.
-                                    </p>
-                                </section>
-                                <section>
-                                    <h2>Heading Level Two - Responsive Table</h2>
-                                    <p>
-                                        Vestibulum ante ipsum primis in faucibus orci luctus et
-                                        ultrices posuere cubilia curae; Sed nec
-                                        <a href="#">nunc suscipit</a>, viverra mi nec, tristique
-                                        nunc. Ut vehicula
-                                        <a class="text-link" href="#">bibendum</a> justo, a accumsan
-                                        elit rhoncus sit amet.
-                                    </p>
-                                    <ol>
-                                        <li>Lorem ipsum dolor sit amet.</li>
-                                        <li>Consectetur adipiscing elit.</li>
-                                        <li>Integer nec odio. Praesent libero.</li>
-                                    </ol>
-                                    <ul>
-                                        <li>Lorem ipsum dolor sit amet.</li>
-                                        <li>Consectetur adipiscing elit.</li>
-                                        <li>Integer nec odio. Praesent libero.</li>
-                                    </ul>
-                                    <p>
-                                        Excepteur sint occaecat cupidatat non proident, sunt in culpa
-                                        qui officia deserunt mollit anim id est laborum.
-                                    </p>
-                                    <ol start="4">
-                                        <li>
-                                            Lorem ipsum dolor sit amet.
-                                            <ul>
-                                                <li>Lorem ipsum dolor sit amet.</li>
-                                                <li>Consectetur adipiscing elit.</li>
-                                                <li>Integer nec odio. Praesent libero.</li>
-                                            </ul>
-                                        </li>
-                                        <li>Consectetur adipiscing elit.</li>
-                                        <li>Integer nec odio. Praesent libero.</li>
-                                    </ol>
-																	<table class="yck-table">
-                <thead>
-                    <tr>
-                        <th class="yck-th yck-h6">Topics or Lessons</th>
-                        <th class="yck-th yck-h6">
-                            Programme Learning Objectives
-                        </th>
-                        <th class="yck-th yck-h6">Period</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td class="yck-td">
-                            Mass Talk delivered through a pre-recorded video
-                        </td>
-                        <td class="yck-td">
-                            Raise awareness and provide knowledge on:
-                            <ul style="list-style-type: lower-alpha">
-                                <li>
-                                    Infectious diseases (STIs and HIV): what it
-                                    is, how it spreads, how to prevent infection
-                                    mainly through ABC (abstinence, being
-                                    faithful, correct, and consistent condom
-                                    use).
-                                </li>
-                                <li>
-                                    Managing relationships and risky situations
-                                    in a healthy way.
-                                </li>
-                            </ul>
-                        </td>
-                        <td class="yck-td">Term 3 Week 2</td>
-                    </tr>
-                    <tr>
-                        <td class="yck-td">Classroom-based Lesson</td>
-                        <td class="yck-td">
-                            Learn to negotiate their way out of a risky
-                            situation by applying skills of assertiveness and
-                            responsible decision-making
-                        </td>
-                        <td class="yck-td">Term 3 Week 3</td>
-                    </tr>
-                </tbody>
-            </table>
-				</section>			
-			<section>
-		<table class="rwd-table">
-  <tbody><tr>
-    <th>Movie Title</th>
-    <th>Genre</th>
-    <th>Year</th>
-    <th>Gross</th>
-  </tr>
-  <tr>
-    <td data-th="Movie Title">Star Wars</td>
-    <td data-th="Genre">Adventure, Sci-fi</td>
-    <td data-th="Year">1977</td>
-    <td data-th="Gross">$460,935,665</td>
-  </tr>
-  <tr>
-    <td data-th="Movie Title">Howard The Duck</td>
-    <td data-th="Genre">"Comedy"</td>
-    <td data-th="Year">1986</td>
-    <td data-th="Gross">$16,295,774</td>
-  </tr>
-  <tr>
-    <td data-th="Movie Title">American Graffiti</td>
-    <td data-th="Genre">Comedy, Drama</td>
-    <td data-th="Year">1973</td>
-    <td data-th="Gross">$115,000,000</td>
-  </tr>
-</tbody></table>
-
-<p>← Drag window (in editor or full page view) to see the effect. →</p>		
-		</section>
-        <section>
-            <div class="quote">
-                <div class="blockquote">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                    consequat. <cite>By Annonymous</cite>
+<article>
+    <section id="top">
+        <h1 id="top">Typography Showcase</h1>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            Curabitur at odio et metus volutpat condimentum quis nec enim.
+            Donec id dictum ligula, ut tempus orci.
+        </p>
+    </section>
+    <section>
+        <h2>Heading Level Two</h2>
+        <p>
+            Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
+            posuere cubilia curae; Sed nec <a href="#">nunc suscipit</a>,
+            viverra mi nec, tristique nunc. Ut vehicula
+            <a class="text-link" href="#">bibendum</a> justo, a accumsan
+            elit rhoncus sit amet.
+        </p>
+        <ol>
+            <li>Lorem ipsum dolor sit amet.</li>
+            <li>Consectetur adipiscing elit.</li>
+            <li>Integer nec odio. Praesent libero.</li>
+        </ol>
+        <ul>
+            <li>Lorem ipsum dolor sit amet.</li>
+            <li>Consectetur adipiscing elit.
+                <ol>
+                    <li>Lorem ipsum dolor sit amet.</li>
+                    <li>Consectetur adipiscing elit.</li>
+                    <li>Integer nec odio. Praesent libero.</li>
+                </ol>
+            </li>
+            <li>Integer nec odio. Praesent libero.</li>
+        </ul>
+        <p>
+            Excepteur sint occaecat cupidatat non proident, sunt in culpa
+            qui officia deserunt mollit anim id est laborum.
+        </p>
+        <ol start="4">
+            <li>
+                Lorem ipsum dolor sit amet.
+                <ul>
+                    <li>Lorem ipsum dolor sit amet.</li>
+                    <li>Consectetur adipiscing elit.</li>
+                    <li>Integer nec odio. Praesent libero.</li>
+                </ul>
+            </li>
+            <li>Consectetur adipiscing elit.</li>
+            <li>Integer nec odio. Praesent libero.</li>
+        </ol>
+        <p>
+            Curabitur at odio et metus volutpat condimentum quis nec enim.
+        </p>
+    </section>
+    <section>
+        <h3>RWD List to Table</h3>
+        <table class="rwd-table">
+            <thead>
+                <tr>
+                    <th>How is it conducted</th>
+                    <th>Programme Learning Objectives</th>
+                    <th>When will it be</th>
+                    <th>Need to pay</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td data-th="How is it conducted">Mass Talk delivered through a pre-recorded video</td>
+                    <td data-th="Programme Learning Objectives">Raise awareness and provide knowledge on:
+                        <ul style="list-style-type: lower-alpha">
+                            <li>
+                                Infectious diseases (STIs and HIV): what it
+                                is, how it spreads, how to prevent infection
+                                mainly through ABC (abstinence, being
+                                faithful, correct, and consistent condom
+                                use).
+                            </li>
+                            <li>
+                                Managing relationships and risky situations
+                                in a healthy way.
+                            </li>
+                        </ul>
+                    </td>
+                    <td data-th="When will it be">Term 3 Week 2</td>
+                    <td data-th="Need to pay">No,</td>
+                </tr>
+                <tr>
+                    <td data-th="How is it conducted">Classroom-based Lesson</td>
+                    <td data-th="Programme Learning Objectives">Learn to negotiate their way out of a risky
+                        situation by applying skills of assertiveness and
+                        responsible decision-making</td>
+                    <td data-th="When will it be">Term 3 Week 3</td>
+                    <td data-th="Need to pay">SGD$16,29</td>
+                </tr>
+                <tr>
+                    <td data-th="How is it conducted">Asynchronous E-learning</td>
+                    <td data-th="Programme Learning Objectives">Revision and Re-cap of what had been learnt over the past few sessions</td>
+                    <td data-th="When will it be">Term 3 Week 4</td>
+                    <td data-th="Need to pay">No.</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+    <section>
+        <table class="yck-table">
+            <thead>
+                <tr>
+                    <th class="yck-th yck-h5">Topics or Lessons</th>
+                    <th class="yck-th yck-h5">
+                        Programme Learning Objectives
+                    </th>
+                    <th class="yck-th yck-h5">Period</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="yck-td">
+                        Mass Talk delivered through a pre-recorded video
+                    </td>
+                    <td class="yck-td">
+                        Raise awareness and provide knowledge on:
+                        <ul style="list-style-type: lower-alpha">
+                            <li>
+                                Infectious diseases (STIs and HIV): what it
+                                is, how it spreads, how to prevent infection
+                                mainly through ABC (abstinence, being
+                                faithful, correct, and consistent condom
+                                use).
+                            </li>
+                            <li>
+                                Managing relationships and risky situations
+                                in a healthy way.
+                            </li>
+                        </ul>
+                    </td>
+                    <td class="yck-td">Term 3 Week 2</td>
+                </tr>
+                <tr>
+                    <td class="yck-td">Classroom-based Lesson</td>
+                    <td class="yck-td">
+                        Learn to negotiate their way out of a risky
+                        situation by applying skills of assertiveness and
+                        responsible decision-making
+                    </td>
+                    <td class="yck-td">Term 3 Week 3</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+    <section>
+        <div class="autofit-grid">
+            <div class="grid-item">
+                <div class="blockquote">
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+                    sed do eiusmod tempor incididunt ut labore et dolore magna
+                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                    <cite>By Annonymous</cite>
                 </div>
+            </div>
+            <div class="grid-item">
+                <div class="blockquote">
+                    Phasellus elementum sapien sed justo
+                    CSS tincidunt
+                    gravida. Suspendisse vel eros id neque feugiat pretium. Aenean a
+                    neque eget lorem feugiat bibendum.
+                    <cite>By Annonymous</cite>
+                </div>
+            </div>
         </div>
-				<div class="quote">
-                                                    <div class="blockquote">
-                                                        Learn to negotiate their way out of a risky
-                                                        situation by applying skills of assertiveness and
-                                                        responsible decision-making
-                                                        <cite>Says Teacher</cite>
-                                                    </div>
-                                                </div>
-				</section>
-        <section>
-                                                <h3>Heading Level Three</h3>
-                                                <p>
-                                                    Phasellus elementum sapien sed justo
-                                                    <abbr title="Cascading Style Sheets">CSS</abbr> tincidunt
-                                                    gravida. Suspendisse vel eros id neque feugiat pretium. Aenean a
-                                                    neque eget lorem feugiat bibendum.
-                                                </p>
-                                                <div class="yck-flexitems">
-                                                    <div class="yck-flexitem">
-                                                        <figure>
-                                                            <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec2.jpg">
-                                                            <figcaption>ViA in action with the Sec 1s</figcaption>
-                                                        </figure>
-                                                    </div>
-                                                    <div class="yck-flexitem">
-                                                        <figure>
-                                                            <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec3.jpg">
-                                                        </figure>
-                                                    </div>
-                                                    <div class="yck-flexitem">
-                                                        <figure>
-                                                            <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec4.jpg">
-                                                        </figure>
-                                                    </div>
-                                                    <div class="yck-flexitem">
-                                                        <figure>
-                                                            <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182">
-                                                        </figure>
-                                                    </div>
-                                                    <div class="yck-flexitem">
-                                                        <figure>
-                                                            <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec1.jpg">
-                                                        </figure>
-                                                    </div>
-                                                    <div class="yck-flexitem">
-                                                        <figure>
-                                                            <img alt="placeholder image" src="https://placehold.co/400x300/cccccc/969696.png?font=lato">
-                                                        </figure>
-                                                    </div>
-                                                </div>
-				</section>
-            <hr>
-				<section>
-            <div class="equal-cards">
-                <div class="card">
-                    <div class="card-header">Card 1</div>
-									 <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182">
-                    <div class="card-body">Short content</div>
-                    <div class="card-footer">Button</div>
-                </div>
-                <div class="card">
-                    <div class="card-header">Card 2</div>
-                    <div class="card-body">This card has much more content to demonstrate how all cards stretch to match the tallest one.</div>
-                    <div class="card-footer">Button</div>
-                </div>
-                <div class="card">
-                    <div class="card-header">Card 3</div>
-                    <div class="card-body"><figure><img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182"></figure>Medium amount of text here.</div>
-                    <div class="card-footer">Button</div>
-                </div>
+        <div class="quote">
+            <div class="blockquote">
+                Learn to negotiate their way out of a risky
+                situation by applying skills of assertiveness and
+                responsible decision-making
+                <cite>Says Teacher</cite>
             </div>
-            <hr>
-            <div class="autofit-grid">
-                <div class="grid-item">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                    tempor incididunt ut labore et dolore magna aliqua.</div>
-                <div class="grid-item">Ut enim ad minim veniam,
-                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                    consequat.</div>
-                <div class="grid-item">Duis aute irure dolor in reprehenderit in voluptate velit esse
-                    cillum dolore eu fugiat nulla pariatur.</div>
-                <div class="grid-item">Excepteur sint occaecat cupidatat non
-                    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
-                <div class="grid-item">SMedium amount of text here.</div>
-                <div class="grid-item">This card has much more content to demonstrate how all cards stretch to match the tallest one.</div>
+        </div>
+    </section>
+    <section>
+        <h3>Heading Level Three</h3>
+        <p>
+            Phasellus elementum sapien sed justo
+            <abbr title="Cascading Style Sheets">CSS</abbr> tincidunt
+            gravida. Suspendisse vel eros id neque feugiat pretium. Aenean a
+            neque eget lorem feugiat bibendum.
+        </p>
+        <div class="yck-flexitems">
+            <div class="yck-flexitem">
+                <figure>
+                    <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec2.jpg">
+                    <figcaption>ViA in action with the Sec 1s</figcaption>
+                </figure>
             </div>
-            <hr>
-            <div class="col-container">
-                <div class="columns3">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                        consequat.</p>
-                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur.
-                    </p>
-                    <p>Excepteur sint occaecat cupidatat non
-                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                </div>
+            <div class="yck-flexitem">
+                <figure>
+                    <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec3.jpg">
+                </figure>
             </div>
-        </section>
-        <section>
-            <h4 class="yck-h4">Heading Level Four</h4>
-            <div class="col-container">
-                <div class="columns2">
-                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur.
-                    </p>
+            <div class="yck-flexitem">
+                <figure>
+                    <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec4.jpg">
+                </figure>
+            </div>
+            <div class="yck-flexitem">
+                <figure>
+                    <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182">
+                </figure>
+            </div>
+            <div class="yck-flexitem">
+                <figure>
+                    <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec1.jpg">
+                </figure>
+            </div>
+            <div class="yck-flexitem">
+                <figure>
                     <img alt="placeholder image" src="https://placehold.co/400x300/cccccc/969696.png?font=lato">
-                    <ol>
-                        <li>Lorem ipsum dolor sit amet.</li>
-                        <li>Consectetur adipiscing elit.</li>
-                        <li>Integer nec odio. Praesent libero.</li>
-                    </ol>
-                    <ul>
-                        <li>Lorem ipsum dolor sit amet.</li>
-                        <li>Consectetur adipiscing elit.</li>
-                        <li>Integer nec odio. Praesent libero.</li>
-                    </ul>
-                    <p>Excepteur sint occaecat cupidatat non
-                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                    <ol>
-                        <li>Lorem ipsum dolor sit amet.
-                            <ul>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Consectetur adipiscing elit.</li>
-                                <li>Integer nec odio. Praesent libero.</li>
-                            </ul>
-                        </li>
-                        <li>Consectetur adipiscing elit.</li>
-                        <li>Integer nec odio. Praesent libero.</li>
-                    </ol>
+                </figure>
+            </div>
+        </div>
+        <hr>
+        <div class="yck-cards">
+            <div class="yck-card">
+                <div class="yck-card-header">
+                    Card 1
+                </div>
+                <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182">
+                <div class="yck-card-body">
+                    Short content
+                </div>
+                <div class="yck-card-footer">
+                    Button
                 </div>
             </div>
-        </section>
-        <section>
-            <h5 class="yck-h5">Heading Level Five</h5>
-            <p class="small">
-                Etiam porta sem malesuada magna mollis euismod. Nulla vitae elit
-                libero, a pharetra augue.
-            </p>
-            <p>
-                Curabitur at odio et metus volutpat condimentum quis nec enim.
-            </p>
-            <div class="isomer-card-grid">
-                <div class="isomer-card">
-                    <div class="isomer-card-body">
-                        <div class="isomer-card-title yck-h5">CARD 1</div>
-                        <div class="isomer-card-description truncate">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                            tempor incididunt ut labore et dolore magna aliqua.
-                            <p>Ut enim ad minim veniam,
-                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat. </p>
-                            <ul>
-                                <li>Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                    <a class="isomer-card-link" href="#">cillum dolore eu fugiat</a> nulla pariatur.</li>
-                                <li>Excepteur sint occaecat cupidatat non
-                                    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</li>
-                            </ul>
-                        </div>
-                    </div>
+            <div class="yck-card">
+                <div class="yck-card-header">
+                    Card 2
                 </div>
-                <div class="isomer-card">
-                    <div class="isomer-card-image">
-                        <img alt="placeholder image" src="https://placehold.co/400x300/cccccc/969696.png?font=lato">
-                    </div>
-                    <div class="isomer-card-body">
-                        <div class="isomer-card-title">CARD 2</div>
-                        <div class="isomer-card-description">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore magna aliqua.</p>
-                            <p>Ut enim ad minim veniam.</p>
-                            <p>Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat. </p>
-                        </div>
-                    </div>
+                <div class="yck-card-body">
+                    This card has much more content to demonstrate how all
+                    cards stretch to match the tallest one.
                 </div>
-                <div class="isomer-card">
-                    <div class="isomer-card-image">
-                        <img alt="placeholder image" src="https://placehold.co/600x320/cccccc/969696.png?font=raleway">
+                <div class="yck-card-footer">
+                    Button
+                </div>
+            </div>
+            <div class="yck-card">
+                <div class="yck-card-header">
+                    Card 3
+                </div>
+                <div class="yck-card-body">
+                    This is a medium content with a picture.
+                    <figure>
+                        <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182">
+                    </figure>
+                </div>
+                <div class="yck-card-footer">
+                    Button
+                </div>
+            </div>
+        </div>
+        <hr>
+        <div class="autofit-grid">
+            <div class="grid-item">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+                sed do eiusmod tempor incididunt ut labore et dolore magna
+                aliqua.
+            </div>
+            <div class="grid-item">
+                Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                laboris nisi ut aliquip ex ea commodo consequat.
+            </div>
+            <div class="grid-item">
+                Duis aute irure dolor in reprehenderit in voluptate velit
+                esse cillum dolore eu fugiat nulla pariatur.
+            </div>
+            <div class="grid-item">
+                Excepteur sint occaecat cupidatat non proident, sunt in
+                culpa qui officia deserunt mollit anim id est laborum.
+            </div>
+            <div class="grid-item">
+                <figure>
+                    <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182">
+                </figure>
+            </div>
+            <div class="grid-item">
+                This card has much more content to demonstrate how all cards
+                stretch to match the tallest one.
+            </div>
+        </div>
+        <hr>
+        <div class="col-container">
+            <div class="columns3">
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing
+                    elit, sed do eiusmod tempor incididunt ut labore et
+                    dolore magna aliqua. Ut enim ad minim veniam, quis
+                    nostrud exercitation ullamco laboris nisi ut aliquip ex
+                    ea commodo consequat.
+                </p>
+                <p>
+                    Duis aute irure dolor in reprehenderit in voluptate
+                    velit esse cillum dolore eu fugiat nulla pariatur.
+                </p>
+                <p>
+                    Excepteur sint occaecat cupidatat non proident, sunt in
+                    culpa qui officia deserunt mollit anim id est laborum.
+                </p>
+            </div>
+        </div>
+    </section>
+    <section>
+        <h4 class="yck-h4">Heading Level Four</h4>
+        <div class="col-container">
+            <div class="columns2">
+                <p>
+                    Duis aute irure dolor in reprehenderit in voluptate
+                    velit esse cillum dolore eu fugiat nulla pariatur.
+                </p>
+                <figure>
+                    <img alt="placeholder image" src="https://placehold.co/400x300/cccccc/969696.png?font=lato">
+                    <figcaption>Caption only ...</figcaption>
+                </figure>
+                <ol>
+                    <li>Lorem ipsum dolor sit amet.</li>
+                    <li>Consectetur adipiscing elit.</li>
+                    <li>Integer nec odio. Praesent libero.</li>
+                </ol>
+                <ul>
+                    <li>Lorem ipsum dolor sit amet.</li>
+                    <li>Consectetur adipiscing elit.</li>
+                    <li>Integer nec odio. Praesent libero.</li>
+                </ul>
+                <p>
+                    Excepteur sint occaecat cupidatat non proident, sunt in
+                    culpa qui officia deserunt mollit anim id est laborum.
+                </p>
+                <ol start="4">
+                    <li>
+                        Lorem ipsum dolor sit amet.
+                        <ul>
+                            <li>Lorem ipsum dolor sit amet.</li>
+                            <li>Consectetur adipiscing elit.</li>
+                            <li>Integer nec odio. Praesent libero.</li>
+                        </ul>
+                    </li>
+                    <li>Consectetur adipiscing elit.</li>
+                    <li>Integer nec odio. Praesent libero.</li>
+                </ol>
+            </div>
+        </div>
+    </section>
+    <section>
+        <h5 class="yck-h5">Heading Level Five</h5>
+        <p class="small">
+            Etiam porta sem malesuada magna mollis euismod. Nulla vitae elit
+            libero, a pharetra augue.
+        </p>
+        <p>
+            Curabitur at odio et metus volutpat condimentum quis nec enim.
+        </p>
+        <div class="isomer-card-grid">
+            <div class="isomer-card">
+                <div class="isomer-card-body">
+                    <div class="isomer-card-title yck-h5">
+                        CARD 1
                     </div>
-                    <div class="isomer-card-body">
-                        <div class="isomer-card-title">CARD 3</div>
-                        <div class="isomer-card-description">
-                            <p><a class="text-link isomer-card-link" href="#">cillum dolore eu fugiat</a></p>
-                            <p><a class="text-link" href="#">cillum dolore eu fugiat</a>
-                            </p>
-                        </div>
+                    <div class="isomer-card-description truncate">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing
+                        elit, sed do eiusmod tempor incididunt ut labore et
+                        dolore magna aliqua.
+                        <p>
+                            Ut enim ad minim veniam, quis nostrud
+                            exercitation ullamco laboris nisi ut aliquip ex
+                            ea commodo consequat.
+                        </p>
+                        <ul>
+                            <li>
+                                Duis aute irure dolor in reprehenderit in
+                                voluptate velit esse
+                                <a class="isomer-card-link" href="#">cillum dolore eu fugiat</a>
+                                nulla pariatur.
+                            </li>
+                            <li>
+                                Excepteur sint occaecat cupidatat non
+                                proident, sunt in culpa qui officia deserunt
+                                mollit anim id est laborum.
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>
-        </section>
-        <section>
-            <h6>Heading Level Six</h6>
-            <p>
-                Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
-                posuere cubilia curae; Sed nec <a href="#">nunc suscipit</a>,
-                viverra mi nec, tristique nunc. Ut vehicula
-                <a class="text-link" href="#">bibendum</a> justo, a accumsan
-                elit rhoncus sit amet.
-            </p>
-            <p class="small">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Curabitur at odio et metus volutpat condimentum quis nec enim.
-                Donec id dictum ligula, ut tempus orci.
-            </p>
-        </section>
-    </article>
+            <div class="isomer-card">
+                <div class="isomer-card-image">
+                    <img alt="placeholder image" src="https://placehold.co/400x300/cccccc/969696.png?font=lato">
+                </div>
+                <div class="isomer-card-body">
+                    <div class="isomer-card-title">
+                        CARD 2
+                    </div>
+                    <div class="isomer-card-description">
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur
+                            adipisicing elit, sed do eiusmod tempor
+                            incididunt ut labore et dolore magna aliqua.
+                        </p>
+                        <p>
+                            Ut enim ad minim veniam.
+                        </p>
+                        <p>
+                            Quis nostrud exercitation ullamco laboris nisi
+                            ut aliquip ex ea commodo consequat.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="isomer-card">
+                <div class="isomer-card-image">
+                    <img alt="placeholder image" src="https://placehold.co/600x320/cccccc/969696.png?font=raleway">
+                </div>
+                <div class="isomer-card-body">
+                    <div class="isomer-card-title">
+                        CARD 3
+                    </div>
+                    <div class="isomer-card-description">
+                        <p>
+                            <a class="text-link isomer-card-link" href="#">cillum dolore eu fugiat</a>
+                        </p>
+                        <p>
+                            <a class="text-link" href="#">cillum dolore eu fugiat</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <h6>Heading Level Six</h6>
+        <p>
+            Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
+            posuere cubilia curae; Sed nec <a href="#">nunc suscipit</a>,
+            viverra mi nec, tristique nunc. Ut vehicula
+            <a class="text-link" href="#">bibendum</a> justo, a accumsan
+            elit rhoncus sit amet.
+        </p>
+        <p class="small">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            Curabitur at odio et metus volutpat condimentum quis nec enim.
+            Donec id dictum ligula, ut tempus orci.
+        </p>
+    </section>
+</article>
 	</div>
 </div>
 <hr>
 <div class="yck-component">
-    <article class="regular-flow">
+    <div class="regular-flow">
+    <article>
         <section>
             <h2 class="dropcap-title">Elegant Dropcap Heading</h2>
             <p>
@@ -362,18 +479,67 @@ image: /images/YCKLogo.svg
                 facilisis in, egestas eget quam.
             </p>
         </section>
-    </article>
-    <div class="deadctr-container">
-        <div class="deadctr-content">
-            <div class="button-container">
-                <a href="#top">
-                    <button class="buttontotop">
-                        <img class="svgIcon" alt="Back to Top" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Icons/svgiconwht.svg">
-                    </button>
-                </a>
+        <section>
+            <details>
+                <summary>First Accordion ...</summary>
+                <p>
+                    Donec ullamcorper nulla non metus auctor fringilla. Sed
+                    posuere consectetur est at lobortis.
+                </p>
+                <ul>
+                    <li>Item 1 ...</li>
+                    <li>Item 2 ...</li>
+                    <li>Item 3 ...</li>
+                </ul>
+                <ol>
+                    <li>Item 1 ...</li>
+                    <li>Item 2 ...</li>
+                    <li>Item 3 ...</li>
+                </ol>
+                <p>
+                    This is within the paragraph. Donec ullamcorper nulla non
+                    metus auctor fringilla.
+                </p>
+                This is without paragraph.
+            </details>
+            <details>
+                <summary>Second Accordion ...</summary>
+                <p>
+                    Donec ullamcorper nulla non metus auctor fringilla. Sed
+                    posuere consectetur est at lobortis.
+                </p>
+                <div class="col-container">
+                    <div class="columns2">
+                        <ul>
+                            <li>Item 1 ...</li>
+                            <li>Item 2 ...</li>
+                            <li>Item 3 ...</li>
+                        </ul>
+                        <ol>
+                            <li>Item 1 ...</li>
+                            <li>Item 2 ...</li>
+                            <li>Item 3 ...</li>
+                        </ol>
+                        <p>
+                            This is within the paragraph. Donec ullamcorper
+                            nulla non metus auctor fringilla.
+                        </p>
+                    </div>
+                </div>
+            </details>
+        </section>
+        <div class="deadctr-container">
+            <div class="deadctr-content">
+                <div class="button-container">
+                    <a href="#top">
+                        <button class="buttontotop">
+                            <img class="svgIcon" alt="Back to Top" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Icons/svgiconwht.svg">
+                        </button>
+                    </a>
+                </div>
             </div>
         </div>
-    </div>
+    </article>
 </div>
 	
 <style>
@@ -1352,7 +1518,83 @@ body {
         width: 100%;
         height: 100%;
     }
+    /* --- Details Summary --- */
+    .yck-component details {
+        overflow: hidden;
+        transition: box-shadow .5s ease-out;
+        border-radius: var(--yck-rounded-corners);
+        background-color: #fff;
+        margin-bottom: 1em;
+    }
 
+    .yck-component details[open] {
+        box-shadow: var(--yck-inset-shadow2);
+    }
+
+    .yck-component details p,
+    .yck-component details div {
+        margin-inline: .5em;
+    }
+
+    .yck-component details summary {
+        position: relative;
+        padding: .5em;
+        font-size: var(--yck-step-1);
+        font-weight: 500;
+        list-style-position: outside;
+        cursor: pointer;
+        user-select: none;
+        transition: background-color .5s ease-in;
+        outline: none;
+    }
+
+    .yck-component details summary:hover {
+        background-color: rgba(0, 0, 0, .05);
+        box-shadow: var(--yck-box-shadow1);
+    }
+
+    .yck-component details summary::marker {
+        content: "";
+    }
+
+    .yck-component details summary::after {
+        position: absolute;
+        top: 50%;
+        right: 1em;
+
+        font-size: var(--yck-step-2);
+        line-height: 1;
+
+        content: "+";
+        transition: transform .65s cubic-bezier(.25, 1, .5, 1);
+        transform: translateY(-50%) rotate(0deg);
+    }
+
+    .yck-component details[open]>summary::after {
+        transform: translateY(-50%) rotate(135deg);
+    }
+
+    .yck-component details>*:not(summary) {
+        padding: 0;
+
+        animation: fade-in .5s ease .5s;
+
+        animation-fill-mode: both;
+    }
+
+    @keyframes fade-in {
+        from {
+            transform: translateY(-10px);
+
+            opacity: 0;
+        }
+
+        to {
+            transform: translateY(0);
+
+            opacity: 1;
+        }
+    }
 /* Buttons */
 /* From Uiverse.io by vinodjangid07 */
 .yck-component .buttontotop {
@@ -1583,4 +1825,4 @@ body {
     background: linear-gradient(45deg, #0164b6 0%, #04a4e3 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0164b6', endColorstr='#04a4e3', GradientType=1)
 }
-</style>
+</style></div>
