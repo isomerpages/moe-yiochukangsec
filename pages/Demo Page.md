@@ -159,6 +159,7 @@ image: /images/YCKLogo.svg
     <section>
         <div class="autofit-grid">
             <div class="grid-item">
+							<div class="quote">
                 <div class="blockquote">
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit,
                     sed do eiusmod tempor incididunt ut labore et dolore magna
@@ -167,16 +168,7 @@ image: /images/YCKLogo.svg
                     <cite>By Annonymous</cite>
                 </div>
             </div>
-            <div class="grid-item">
-                <div class="blockquote">
-                    Phasellus elementum sapien sed justo
-                    CSS tincidunt
-                    gravida. Suspendisse vel eros id neque feugiat pretium. Aenean a
-                    neque eget lorem feugiat bibendum.
-                    <cite>By Annonymous</cite>
-                </div>
-            </div>
-        </div>
+			</div>
         <div class="quote">
             <div class="blockquote">
                 Learn to negotiate their way out of a risky
@@ -185,7 +177,7 @@ image: /images/YCKLogo.svg
                 <cite>Says Teacher</cite>
             </div>
         </div>
-    </section>
+    </div></section>
     <section>
         <h3>Heading Level Three</h3>
         <p>
