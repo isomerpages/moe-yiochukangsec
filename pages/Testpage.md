@@ -9,7 +9,7 @@ variant: markdown
     <table class="yck-table">
     <thead>
       <tr>
-            <th class="yck-th"></th>
+        <th class="yck-th">&nbsp;</th>
         <th class="yck-th"><span class="font-bolder">TERM 1</span></th>
         <th class="yck-th"><span class="font-bolder">TERM 2</span></th>
        <th class="yck-th"><span class="font-bolder">TERM 3</span></th>
@@ -18,7 +18,7 @@ variant: markdown
     </thead>
     <tbody>
       <tr>
-        <td class="yck-td"></td>
+         <th class="yck-td">&nbsp;</th>
         <td class="yck-td">Weighted<br>Assessment</td>
         <td class="yck-td">Weighted<br>Assessment</td>
         <td class="yck-td">Mid-Year Examination</td>
@@ -1662,7 +1662,7 @@ variant: markdown
     width: 100%;
     min-width: 360px;
     margin-bottom: 2em;
-    font-size: 1.125em;
+    font-size: 1em;
     border: 1px solid #ddd;
     margin-top: 1.5em;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
@@ -1675,12 +1675,13 @@ variant: markdown
 .yck-th,
 .yck-td {
     display: table-cell;
-    font-size: 1.15em;
+    font-size: clamp(.75rem, .6019rem + .7407vw, 1.25rem);
     vertical-align: top;
     padding: 1rem;
     border-bottom: 1px solid #ddd;
     word-wrap: break-word;
-    text-wrap: pretty;
+    text-wrap: pretty;	
+	text-align: center !important;
 }
 
 .yck-th {
@@ -1689,14 +1690,12 @@ variant: markdown
     font-weight: bold;
     line-height: 1.3;
     letter-spacing: 0.05em;
-    text-align: center;
     border-bottom: 2px solid #ddd;
 }
 
 .yck-td {
-	min-width: 120px;
+	min-width: 13ch;
     line-height: 1.4;
-    text-align: center;
     color: #222;
     background-color: transparent;
 }
@@ -1705,7 +1704,7 @@ variant: markdown
 .yck-th:first-child,
 .yck-td:first-child {
     font-weight: 700;
-    text-align: left;
+    text-align: left !important;
 }
 
 /* Bold text styling */
@@ -1744,7 +1743,7 @@ variant: markdown
 
 /* Footnote styling */
 .small {
-    font-size: 1em;
+    font-size: clamp(.5208rem, .4381rem + .4136vw, .8rem);
     line-height: 1.2;
     color: #666;
     margin-top: 1rem;
@@ -1763,7 +1762,7 @@ sup a:hover {
 /* Responsive adjustments */
 @media (max-width: 768px) {
     .yck-table {
-        font-size: 1em;
+        font-size: .9em;
     }
     
     .yck-th,
