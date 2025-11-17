@@ -143,8 +143,8 @@ image: /images/YCKLogo.svg
             </section>
             <section>
                 <h3>Heading Level 3 - Blockquotes</h3>
-                <div class="yck-flexitems">
-                    <div class="yck-flexitem">
+                <div class="autofit-grid">
+                    <div class="grid-item">
                         <div class="quote">
                             <div class="blockquote">
                                 Phasellus elementum sapien sed justo
@@ -154,6 +154,8 @@ image: /images/YCKLogo.svg
                                 <cite>By Annonymous</cite>
                             </div>
                         </div>
+									</div>
+									<div class="grid-item">
                         <div class="quote">
                             <div class="blockquote">
                                 Lorem ipsum dolor sit amet, consectetur adipisicing elit,
@@ -164,8 +166,9 @@ image: /images/YCKLogo.svg
                             </div>
                         </div>
                     </div>
-                </div>
-            </section>
+							</div>
+                </section></article></div>
+            
             <section>
                 <h4>Heading Level Four - Flex items using Flexbox</h4>
                 <p>
@@ -333,7 +336,7 @@ image: /images/YCKLogo.svg
                         </p>
                     </div>
                 </div>
-    </section></article></div>
+    </section></div>
     <h4 class="yck-h5">Heading Level Four - 2 columns</h4>
     <div class="col-container">
         <div class="columns2">
@@ -469,7 +472,7 @@ image: /images/YCKLogo.svg
         </p>
     </section>
     
-</div>
+
 <hr>
 <div class="yck-component">
     <article class="regular-flow">
