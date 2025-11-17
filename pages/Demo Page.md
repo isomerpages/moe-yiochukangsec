@@ -761,12 +761,11 @@ body {
 .yck-component {
     width: 100%;
     max-width: 1200px;
-
+  margin: 0 auto;
+	padding: 0;
 }
 
 .yck-component * {
-    padding: 0;
-    margin: 0;
     font-size: var(--yck-step-0);
 }
 
