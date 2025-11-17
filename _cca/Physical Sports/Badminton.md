@@ -59,8 +59,9 @@ third_nav_title: Physical Sports
                         </tr>
                         <tr>
                             <td colspan="3">
-                                <small>Note: This is an all-girls CCA. Recruitment is open
-                                    only to female students.</small>
+                                <p class="small">Note: This is an all-girls CCA. Recruitment is open
+																	only to female students.</p>
+															<p class="small">You can download a copy of Semester 2's CCA schedule here.</p>
                             </td>
                         </tr>
                     </tbody>
