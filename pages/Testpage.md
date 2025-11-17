@@ -9,7 +9,7 @@ variant: markdown
     <table class="yck-table">
     <thead>
       <tr>
-        <th class="yck-th">&nbsp;</th>
+        <th class="yck-th"></th>
         <th class="yck-th"><span class="font-bolder">TERM 1</span></th>
         <th class="yck-th"><span class="font-bolder">TERM 2</span></th>
        <th class="yck-th"><span class="font-bolder">TERM 3</span></th>
@@ -18,11 +18,11 @@ variant: markdown
     </thead>
     <tbody>
       <tr>
-         <th class="yck-td">&nbsp;</th>
-        <td class="yck-td">Weighted<br>Assessment</td>
-        <td class="yck-td">Weighted<br>Assessment</td>
+         <th class="yck-td"></th>
+        <td class="yck-td">Weighted Assessment</td>
+        <td class="yck-td">Weighted Assessment</td>
         <td class="yck-td">Mid-Year Examination</td>
-        <td class="yck-td">Weighted<br>Assessment</td>
+        <td class="yck-td">Weighted Assessment</td>
         <td class="yck-td">End-Of-Year Examination</td>
       </tr>
       <tr>
@@ -1705,6 +1705,7 @@ variant: markdown
 .yck-td:first-child {
     font-weight: 700;
     text-align: left !important;
+	min-width: 9ch;
 }
 
 /* Bold text styling */
