@@ -374,7 +374,7 @@ image: /images/YCKLogo.svg
         </div>
     </div>
     
-    <section>
+   <section>
         <h5 class="yck-h5">Heading Level Five</h5>
         <p>
             Curabitur at odio et metus volutpat condimentum quis nec
@@ -1522,7 +1522,7 @@ body {
 
     .yck-component .isomer-card .isomer-card-image {
         width: 100%;
-        aspect-ratio: var(--ratio-portrait);
+        aspect-ratio: var(--ratio-landscape);
         object-fit: cover;
     }
 
