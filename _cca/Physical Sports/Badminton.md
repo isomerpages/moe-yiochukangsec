@@ -66,6 +66,7 @@ third_nav_title: Physical Sports
 					<section>
 							<div class="yck-cards">
 									 <div class="yck-card yck-card-body"><p>Download a copy of <a class="text-link" target="_blank" href="/files/Students/Class%20Timetable%20Schedules/2025/2025_Semester_2_CCA_Schedule__Nov_Dec_.pdf">Semester 2's CCA schedule here</a></p></div></div></section>
+					<section>
                 <table class="yck-table">
                     <thead>
                         <tr>
@@ -98,7 +99,7 @@ third_nav_title: Physical Sports
                         </tr>
                     </tbody>
                 </table>
-            
+					</section>  
             <section>
                 <h4 class="yck-h4">Achievements</h4>
                 <ul>
