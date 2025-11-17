@@ -5,6 +5,110 @@ description: ""
 variant: markdown
 ---
 <div class="yck-component">
+    <p><b>Assessment Structure</b><br>
+    <table class="yck-table">
+    <thead>
+      <tr>
+            <th class="yck-th"></th>
+        <th class="yck-th"><span class="font-bolder">TERM 1</span></th>
+        <th class="yck-th"><span class="font-bolder">TERM 2</span></th>
+       <th class="yck-th"><span class="font-bolder">TERM 3</span></th>
+       <th colspan="2" class="yck-th"><span class="font-bolder">TERM 4</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="yck-td"></td>
+        <td class="yck-td">Weighted<br>Assessment</td>
+        <td class="yck-td">Weighted<br>Assessment</td>
+        <td class="yck-td">Mid-Year Examination</td>
+        <td class="yck-td">Weighted<br>Assessment</td>
+        <td class="yck-td">End-Of-Year Examination</td>
+      </tr>
+      <tr>
+        <td class="yck-td">Sec 1</td>
+        <td class="yck-td">15%</td>
+        <td class="yck-td">15%</td>
+        <td class="yck-td">-</td>
+        <td class="yck-td">15%</td>
+        <td class="yck-td">55%</td>
+      </tr>
+      <tr>
+        <td class="yck-td">Sec 2</td>
+        <td class="yck-td">15%</td>
+        <td class="yck-td">15%</td>
+        <td class="yck-td">-</td>
+        <td class="yck-td">15%</td>
+        <td class="yck-td">55%</td>
+      </tr>
+      <tr>
+        <td class="yck-td">Sec 3</td>
+        <td class="yck-td">15%</td>
+        <td class="yck-td">15%</td>
+        <td class="yck-td">-</td>
+        <td class="yck-td">15%</td>
+        <td class="yck-td">55%</td>
+      </tr>
+      <tr>
+        <td class="yck-td">Sec 4/5</td>
+        <td class="yck-td">100%</td>
+        <td class="yck-td">-</td>
+        <td class="yck-td">100%</td>
+        <td class="yck-td">100% (Prelim Exams)</td>
+        <td class="yck-td">-</td>
+      </tr>
+    </tbody>
+    </table>
+    </p>
+    <p>For Lower Secondary D&amp;T and FCE which are conducted in alternate semesters, the SBA structure &amp; weighting distribution are as follows:</p>
+    
+   <table class="yck-table">
+    <thead>
+      <tr>
+        <th class="yck-th"></th>
+        <th class="yck-th">Term 1</th>
+        <th class="yck-th">Term 2</th>
+        <th class="yck-th">Term 3</th>
+        <th class="yck-th">Term 4</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="yck-td"></td>
+        <td class="yck-td">Weighted Assessment</td>
+        <td class="yck-td">End-Of-Course Assessment<sup><a href="#note1">(1)</a></sup></td>
+        <td class="yck-td">End-Of-Course Assessment<sup><a href="#note1">(1)</a></sup></td>
+        <td class="yck-td">End-Of-Year Examination<br></td>
+      </tr>
+      <tr class="font-bold">
+        <td class="yck-td">Sec 1</td>
+        <td class="yck-td" colspan="2">D&amp;T</td>
+        <td class="yck-td" colspan="2">FCE</td>
+      </tr>
+      <tr>
+        <td class="yck-td"></td>
+        <td class="yck-td">15%</td>
+        <td class="yck-td">85%</td>
+        <td class="yck-td">15%</td>
+        <td class="yck-td">85%</td>
+      </tr>
+     <tr class="font-bold">
+        <td class="yck-td">Sec 2</td>
+        <td class="yck-td" colspan="2">D&amp;T</td>
+        <td class="yck-td" colspan="2">FCE</td>
+      </tr>
+      <tr>
+        <td class="yck-td"></td>
+        <td class="yck-td">15%</td>
+        <td class="yck-td">85%</td>
+        <td class="yck-td">15%</td>
+        <td class="yck-td">85%</td>
+      </tr>
+    </tbody>
+    </table>
+     <div class="small" id="note1"><sup>(1)</sup>End-Of-Course Assessment comprises: (i) a <strong>Coursework component</strong>; and (ii) a <strong>Theory component</strong>.</div>
+</div>
+<div style="display: none;" class="yck-component">
     <div class="regular-flow">
         <article>
             <section>
@@ -1552,120 +1656,126 @@ variant: markdown
         }
     }
 	
-	       /* --- Tables --- */
-        .yck-component .yck-table,
-        .yck-component table {
-            display: table;
-            border-collapse: collapse;
-            width: 100%;
-            min-width: 360px;
-            margin-bottom: var(--yck-space-s-xl);
-            font-size: var(--yck-step--1);
-            border: 1px dotted lightgrey;
-            margin-top: 1.5em;
-            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
-            border-radius: 8px;
-            overflow: hidden;
-        }
+.yck-table {
+    display: table;
+    border-collapse: collapse;
+    width: 100%;
+    min-width: 360px;
+    margin-bottom: 2em;
+    font-size: 1.125em;
+    border: 1px solid #ddd;
+    margin-top: 1.5em;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+    overflow: hidden;
+    word-wrap: break-word;
+    text-wrap: pretty;
+}
 
-        .yck-component .yck-th,
-        .yck-component th,
-        .yck-component .yck-td,
-        .yck-component td {
-            display: table-cell;
-            font-size: var(--yck-step-0);
-            min-width: 120px;
-            vertical-align: top;
-            padding: var(--yck-spacing-unit);
-        }
+.yck-th,
+.yck-td {
+    display: table-cell;
+    font-size: 1.15em;
+    vertical-align: top;
+    padding: 1rem;
+    border-bottom: 1px solid #ddd;
+    word-wrap: break-word;
+    text-wrap: pretty;
+}
 
-        .yck-component .yck-th,
-        .yck-component th {
-            background-color: #cfcfcf;
-            border-bottom: 1px dotted #ddd;
-            text-transform: uppercase;
-            font-weight: bold;
-            line-height: 1.3;
-            letter-spacing: 0.05em;
-            text-wrap: balance;
-        }
+.yck-th {
+    background-color: #f5f5f5;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 1.3;
+    letter-spacing: 0.05em;
+    text-align: center;
+    border-bottom: 2px solid #ddd;
+}
 
-        .yck-component .yck-td,
-        .yck-component td {
-            border-bottom: 1px dotted #ddd;
-            word-wrap: break-word;
-            text-wrap: pretty;
-            line-height: 1.4;
-        }
+.yck-td {
+	min-width: 120px;
+    line-height: 1.4;
+    text-align: center;
+    color: #222;
+    background-color: transparent;
+}
 
-        .yck-component .yck-td *,
-        .yck-component .yck-td p,
-        .yck-component .yck-td ul,
-        .yck-component .yck-td ol {
-            margin-block: var(--yck-step--2);
-        }
+/* First column styling */
+.yck-th:first-child,
+.yck-td:first-child {
+    font-weight: 700;
+    text-align: left;
+}
 
-        .yck-component .yck-th:nth-child(1),
-        .yck-component .yck-td:nth-child(1) {
-            font-weight: 700;
-        }
+/* Bold text styling */
+.yck-th .font-bolder,
+.yck-td .font-bolder {
+    font-weight: bolder;
+}
 
-        .yck-component .yck-td:nth-child(n+2) {
-            text-align: left;
-        }
+/* Row styling for bold rows */
+.yck-table tbody tr.font-bold {
+    font-weight: 700;
+}
 
-        .yck-component .yck-td li {
-            margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
-            line-height: 1.4;
-        }
+/* Row hover effects */
+.yck-table tbody tr {
+    background-color: inherit;
+    transition: background-color 0.3s ease;
+}
 
-        .yck-component .yck-td>*:last-child,
-        .yck-component .yck-td>p:last-child,
-        .yck-component .yck-td>ul:last-child,
-        .yck-component .yck-td>ol:last-child {
-            margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
-        }
+.yck-table tbody tr:hover {
+    background-color: #f9f9f9;
+}
 
-        .yck-component .yck-td ul:last-child li:last-child,
-        .yck-component .yck-td ol:last-child li:last-child {
-            margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
-        }
+.yck-table tbody tr:nth-child(even) {
+    background-color: #fafafa;
+}
 
-        .yck-component .yck-table tbody tr:last-child .yck-td>*:last-child {
-            margin-bottom: var(--yck-spacing-unit);
-        }
+.yck-table tbody tr:nth-child(even):hover {
+    background-color: #f0f0f0;
+}
 
-        .yck-component .yck-table tr {
-            background-color: inherit;
-            transition: background-color 0.8s ease;
-        }
+/* Remove bottom border from last row */
+.yck-table tbody tr:last-child .yck-td {
+    border-bottom: none;
+}
 
-        .yck-component .yck-table tr:hover,
-        .yck-component .yck-table tr:nth-child(even):hover {
-            background-color: #fef7e0;
-            transition: background-color 0.8s ease;
-        }
+/* Footnote styling */
+.small {
+    font-size: 1em;
+    line-height: 1.2;
+    color: #666;
+    margin-top: 1rem;
+}
 
-        .yck-component .yck-table tbody tr:nth-child(even) {
-            background-color: #f3f3f3;
-            transition: background-color 0.8s ease;
-        }
+/* Superscript links */
+sup a {
+    text-decoration: none;
+    color: #0066cc;
+}
 
-        /* Responsive adjustments */
-        @media (max-width: 768px) {
+sup a:hover {
+    text-decoration: underline;
+}
 
-            .yck-component .yck-table,
-            .yck-component table {
-                font-size: calc(var(--yck-step--1) * 0.9);
-            }
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .yck-table {
+        font-size: 1em;
+    }
+    
+    .yck-th,
+    .yck-td {
+        padding: 0.5rem;
+        min-width: 100px;
+    }
 
-            .yck-component .yck-th,
-            .yck-component th,
-            .yck-component .yck-td,
-            .yck-component td {
-                padding: calc(var(--yck-spacing-unit) * 0.5);
-            }
-        }
+    .small {
+        font-size: 0.8em;
+    }
+}
 
 
  /*   .yck-component .yck-table {
