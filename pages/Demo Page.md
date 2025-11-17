@@ -751,7 +751,6 @@ body {
     line-height: var(--yck-text-line-height);
     word-break: break-word;
     overflow-wrap: break-word;
-    background-color: var(--yck-orange-100);
 }
 
 ::selection {
