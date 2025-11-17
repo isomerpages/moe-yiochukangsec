@@ -167,8 +167,7 @@ image: /images/YCKLogo.svg
                         </div>
                     </div>
 							</div>
-                </section></article></div>
-            
+                </section>
             <section>
                 <h4>Heading Level Four - Flex items using Flexbox</h4>
                 <p>
@@ -336,7 +335,7 @@ image: /images/YCKLogo.svg
                         </p>
                     </div>
                 </div>
-    </section></div>
+    </section></article></div>
     <h4 class="yck-h5">Heading Level Four - 2 columns</h4>
     <div class="col-container">
         <div class="columns2">
@@ -1687,4 +1686,4 @@ body {
     .yck-component .hvr-backward:active {
         -webkit-transform: translateX(-8px);
         transform: translateX(-8px);
-    }</style>
+    }</style></div>
