@@ -1676,6 +1676,7 @@ variant: markdown
 .yck-td {
     display: table-cell;
     font-size: clamp(.75rem, .6019rem + .7407vw, 1.25rem);
+	  min-width: 120px;
     vertical-align: top;
     padding: 1rem;
     border-bottom: 1px solid #ddd;
@@ -1705,7 +1706,7 @@ variant: markdown
 .yck-td:first-child {
     font-weight: 700;
     text-align: left !important;
-	min-width: 9ch;
+	  min-width: 9ch;
 }
 
 /* Bold text styling */
@@ -1763,7 +1764,7 @@ sup a:hover {
 /* Responsive adjustments */
 @media (max-width: 768px) {
     .yck-table {
-        font-size: .9em;
+        font-size: clamp(.625rem, .5139rem + .5556vw, 1rem);
     }
     
     .yck-th,
@@ -1773,7 +1774,7 @@ sup a:hover {
     }
 
     .small {
-        font-size: 0.8em;
+        font-size: clamp(.5208rem, .4381rem + .4136vw, .8rem);
     }
 }
 
