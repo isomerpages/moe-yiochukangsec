@@ -16,7 +16,7 @@ image: /images/YCKLogo.svg
                     enim. Donec id dictum ligula, ut tempus orci.
                 </p>
                 <div class="video-container">
-                    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/vBynw9Isr28?si=Rm2FxlODlWn-R2mT" height="315" width="560"></iframe>
+                    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/z8gPUctnAF4?si=ZVVVVjbeDJriaFkU" height="315" width="560"></iframe>
                 </div>
             </section>
             <section>
@@ -28,7 +28,7 @@ image: /images/YCKLogo.svg
                             ultrices posuere cubilia curae.
                         </p>
                         <div class="video-container">
-                            <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/vBynw9Isr28?si=Rm2FxlODlWn-R2mT" height="315" width="560"></iframe>
+                            <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/B2z8hvt8LxU?si=WST6qLcLFYkMcvY8" height="315" width="560"></iframe>
                         </div>
                         <p>Sed nec
                             <a href="#">nunc suscipit</a>, viverra mi nec, tristique
@@ -154,8 +154,8 @@ image: /images/YCKLogo.svg
                                 <cite>By Annonymous</cite>
                             </div>
                         </div>
-									</div>
-									<div class="grid-item">
+                    </div>
+                    <div class="grid-item">
                         <div class="quote">
                             <div class="blockquote">
                                 Lorem ipsum dolor sit amet, consectetur adipisicing elit,
@@ -166,8 +166,8 @@ image: /images/YCKLogo.svg
                             </div>
                         </div>
                     </div>
-							</div>
-                </section>
+                </div>
+            </section>
             <section>
                 <h4>Heading Level Four - Flex items using Flexbox</h4>
                 <p>
@@ -243,21 +243,21 @@ image: /images/YCKLogo.svg
                 <h4>Heading Level Four - GRID items using autofit</h4>
                 <div class="autofit-grid">
                     <div class="grid-item">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                        sed do eiusmod tempor incididunt ut labore et dolore magna
-                        aliqua.
+                        <div class="video-container">
+                            <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/ah2W7WOl6CY?si=dDFHMCa00Ii0T_ZI" height="315" width="560"></iframe>
+                        </div>
                     </div>
                     <div class="grid-item">
-                        Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                        laboris nisi ut aliquip ex ea commodo consequat.
+                        <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                            laboris nisi ut aliquip ex ea commodo consequat.</p>
                         <figure>
                             <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182">
                             <figcaption>A Colorful Row of Shophouses</figcaption>
                         </figure>
                     </div>
                     <div class="grid-item">
-                        Duis aute irure dolor in reprehenderit in voluptate velit
-                        esse cillum dolore eu fugiat nulla pariatur.
+                        <p>Duis aute irure dolor in reprehenderit in voluptate velit
+                            esse cillum dolore eu fugiat nulla pariatur.</p>
                     </div>
                     <div class="grid-item">
                         Excepteur sint occaecat cupidatat non proident, sunt in
@@ -376,7 +376,7 @@ image: /images/YCKLogo.svg
         </div>
     </div>
     
-   <section>
+    <section>
         <h5 class="yck-h5">Heading Level Five</h5>
         <p>
             Curabitur at odio et metus volutpat condimentum quis nec
@@ -389,7 +389,7 @@ image: /images/YCKLogo.svg
         <div class="isomer-card-grid">
             <div class="isomer-card">
                 <div class="isomer-card-body">
-                    <div class="isomer-card-title yck-h5">CARD 1</div>
+                    <div class="isomer-card-title">CARD 1</div>
                     <div class="isomer-card-description">
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing
                             elit, sed do eiusmod tempor incididunt ut labore et
@@ -471,89 +471,91 @@ image: /images/YCKLogo.svg
         </p>
     </section>
     
-
+</div>
 <hr>
 <div class="yck-component">
-    <article class="regular-flow">
-        <section>
-            <h2 class="dropcap-title">Elegant Dropcap Heading</h2>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Praesent commodo cursus magna, vel scelerisque nisl
-                consectetur et. Nulla vitae elit libero, a pharetra augue.
-                Maecenas faucibus mollis interdum. Donec sed odio dui.
-            </p>
-            <p>
-                Donec ullamcorper nulla non metus auctor fringilla. Sed
-                posuere consectetur est at lobortis. Cras justo odio,
-                dapibus ac facilisis in, egestas eget quam.
-            </p>
-        </section>
-        <section>
-            <details>
-                <summary>First Accordion ...</summary>
+    <div class="regular-flow">
+        <article>
+            <section>
+                <h2 class="dropcap-title">Elegant Dropcap Heading</h2>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    Praesent commodo cursus magna, vel scelerisque nisl
+                    consectetur et. Nulla vitae elit libero, a pharetra augue.
+                    Maecenas faucibus mollis interdum. Donec sed odio dui.
+                </p>
                 <p>
                     Donec ullamcorper nulla non metus auctor fringilla. Sed
-                    posuere consectetur est at lobortis.
+                    posuere consectetur est at lobortis. Cras justo odio,
+                    dapibus ac facilisis in, egestas eget quam.
                 </p>
-                <ul>
-                    <li>Item 1 ...</li>
-                    <li>Item 2 ...</li>
-                    <li>Item 3 ...</li>
-                </ul>
-                <ol>
-                    <li>Item 1 ...</li>
-                    <li>Item 2 ...</li>
-                    <li>Item 3 ...</li>
-                </ol>
-                <p>
-                    This is within the paragraph. Donec ullamcorper nulla non
-                    metus auctor fringilla.
-                </p>
-                This is without paragraph.
-            </details>
-            <details>
-                <summary>Second Accordion ...</summary>
-                <p>
-                    Donec ullamcorper nulla non metus auctor fringilla. Sed
-                    posuere consectetur est at lobortis.
-                </p>
-                <div class="col-container">
-                    <div class="columns2">
-                        <ul>
-                            <li>Item 1 ...</li>
-                            <li>Item 2 ...</li>
-                            <li>Item 3 ...</li>
-                        </ul>
-                        <ol>
-                            <li>Item 1 ...</li>
-                            <li>Item 2 ...</li>
-                            <li>Item 3 ...</li>
-                        </ol>
-                        <p>
-                            This is within the paragraph. Donec ullamcorper nulla
-                            non metus auctor fringilla.
-                        </p>
+            </section>
+            <section>
+                <details>
+                    <summary>First Accordion ...</summary>
+                    <p>
+                        Donec ullamcorper nulla non metus auctor fringilla. Sed
+                        posuere consectetur est at lobortis.
+                    </p>
+                    <ul>
+                        <li>Item 1 ...</li>
+                        <li>Item 2 ...</li>
+                        <li>Item 3 ...</li>
+                    </ul>
+                    <ol>
+                        <li>Item 1 ...</li>
+                        <li>Item 2 ...</li>
+                        <li>Item 3 ...</li>
+                    </ol>
+                    <p>
+                        This is within the paragraph. Donec ullamcorper nulla non
+                        metus auctor fringilla.
+                    </p>
+                    This is without paragraph.
+                </details>
+                <details>
+                    <summary>Second Accordion ...</summary>
+                    <p>
+                        Donec ullamcorper nulla non metus auctor fringilla. Sed
+                        posuere consectetur est at lobortis.
+                    </p>
+                    <div class="col-container">
+                        <div class="columns2">
+                            <ul>
+                                <li>Item 1 ...</li>
+                                <li>Item 2 ...</li>
+                                <li>Item 3 ...</li>
+                            </ul>
+                            <ol>
+                                <li>Item 1 ...</li>
+                                <li>Item 2 ...</li>
+                                <li>Item 3 ...</li>
+                            </ol>
+                            <p>
+                                This is within the paragraph. Donec ullamcorper nulla
+                                non metus auctor fringilla.
+                            </p>
+                        </div>
+                    </div>
+                </details>
+            </section>
+            <div class="deadctr-container">
+                <div class="deadctr-content">
+                    <div class="button-container">
+                        <a href="#top">
+                            <button class="buttontotop">
+                                <img class="svgIcon" alt="Back to Top" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Icons/svgiconwht.svg">
+                            </button>
+                        </a>
                     </div>
                 </div>
-            </details>
-        </section>
-        <div class="deadctr-container">
-            <div class="deadctr-content">
-                <div class="button-container">
-                    <a href="#top">
-                        <button class="buttontotop">
-                            <img class="svgIcon" alt="Back to Top" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Icons/svgiconwht.svg">
-                        </button>
-                    </a>
-                </div>
             </div>
-        </div>
-    </article>
+        </article>
+    </div>
 </div>
 
 <style>
-	/* Global and Root Variables */
+/* Global and Root Variables */
 :root {
     --font-antique: Superclarendon, Bookman Old Style, URW Bookman, URW Bookman L,
         Georgia Pro, Georgia, serif;
@@ -751,6 +753,7 @@ body {
     line-height: var(--yck-text-line-height);
     word-break: break-word;
     overflow-wrap: break-word;
+    background-color: #fff;
 }
 
 ::selection {
@@ -761,11 +764,12 @@ body {
 .yck-component {
     width: 100%;
     max-width: 1200px;
-  margin: 0 auto;
-	padding: 0;
+
 }
 
 .yck-component * {
+    padding: 0;
+    margin: 0;
     font-size: var(--yck-step-0);
 }
 
@@ -1418,17 +1422,18 @@ body {
         min-width: 150px;
         overflow: hidden;
         flex-direction: column;
-        color: #555;
+        color: var(--neutral-800);
         border-radius: var(--yck-rounded-corners);
-        background: linear-gradient(345deg, rgba(255, 255, 255, 0) 0%, rgba(221, 221, 221, 1) 100%);
+        background: linear-gradient(145deg, rgba(255, 255, 255, 0) 0%, rgb(255, 233, 193, 1) 100%);
         flex: 1;
-        backdrop-filter: blur(10%);
+        border: 1px solid #f3812b;
+        backdrop-filter: blur(50px) brightness(1.7) saturate(1.4);
     }
 
     .yck-component .yck-card-header {
         padding: var(--yck-step--1);
         font-weight: bold;
-        color: var(--neutral-600);
+        color: var(--neutral-900);
     }
 
     .yck-component .yck-card-body {
@@ -1444,8 +1449,7 @@ body {
         font-style: oblique;
         font-weight: 300;
         text-align: center;
-        color: #666;
-        background: rgba(255, 255, 255, .01);
+        color: var(--neutral-700);
     }
 
     /* 2. Auto-Fit Responsive Grid */
@@ -1453,7 +1457,7 @@ body {
         display: grid;
 
         gap: var(--yck-spacing-unit);
-        grid-template-columns: repeat(auto-fit, minmax(360px, 2fr));
+        grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
     }
 
     .yck-component .grid-item {
@@ -1470,7 +1474,7 @@ body {
         color: var(--neutral-700);
         border-radius: var(--yck-rounded-corners);
         outline: 1px solid #ccc;
-        background: linear-gradient(135deg, #ddd 0%, #fff 100%);
+        background: linear-gradient(135deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
         box-shadow: 0 4px 6px rgba(0, 0, 0, .1);
 
         align-items: flex-start;
@@ -1483,16 +1487,19 @@ body {
 
     /*Layouts - Cards, Columns */
     /* --- Isomer Cards --- */
-    .yck-component .isomer-card {
+    .yck-component .isomer-card-grid {
+        padding: 0;
+        margin: 0 auto;
+        overflow: hidden;
         padding: var(--yck-spacing-unit);
         border-radius: var(--yck-rounded-corners);
-        box-shadow: var(--yck-box-shadow1);
     }
 
     .yck-component .isomer-card {
         padding: 0;
         margin: 0 auto;
         overflow: hidden;
+        box-shadow: var(--yck-box-shadow1);
         transition: transform .8s var(--yck-transition-timing),
             box-shadow .8s var(--yck-transition-timing);
         text-decoration: none;
@@ -1550,7 +1557,7 @@ body {
     .yck-component .isomer-card .isomer-card-body .isomer-card-link {
         display: inline-block;
         margin-top: .5rem;
-        /* font-size: var(--yck-step-0); */
+        font-size: var(--yck-step-0);
         text-decoration: underline;
         color: #e37f2a;
     }
@@ -1651,7 +1658,7 @@ body {
         -webkit-transition-property: transform;
         transition-property: transform;
         /* display: inline-block;
-    vertical-align: middle; */
+        vertical-align: middle; */
         -webkit-transform: perspective(1px) translateZ(0);
         transform: perspective(1px) translateZ(0);
 
@@ -1672,7 +1679,7 @@ body {
         -webkit-transition-property: transform;
         transition-property: transform;
         /* display: inline-block;
-    vertical-align: middle; */
+        vertical-align: middle; */
         -webkit-transform: perspective(1px) translateZ(0);
         transform: perspective(1px) translateZ(0);
 
@@ -1684,4 +1691,6 @@ body {
     .yck-component .hvr-backward:active {
         -webkit-transform: translateX(-8px);
         transform: translateX(-8px);
-    }</style></div>
+    }
+}
+</style>
