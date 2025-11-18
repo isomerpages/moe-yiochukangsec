@@ -5,7 +5,8 @@ description: ""
 variant: markdown
 ---
 <div class="yck-component">
-    <p><b>Assessment Structure</b><br>
+	<details>
+		<summary><h2>Assessment Structure</h2></summary>
     <table class="yck-table">
     <thead>
       <tr>
@@ -59,7 +60,7 @@ variant: markdown
       </tr>
     </tbody>
     </table>
-    </p>
+    <p></p>
     <p>For Lower Secondary D&amp;T and FCE which are conducted in alternate semesters, the SBA structure &amp; weighting distribution are as follows:</p>
     
    <table class="yck-table">
@@ -106,8 +107,10 @@ variant: markdown
       </tr>
     </tbody>
     </table>
-     <div class="small" id="note1"><sup>(1)</sup>End-Of-Course Assessment comprises: (i) a <strong>Coursework component</strong>; and (ii) a <strong>Theory component</strong>.</div>
+     <div class="small" id="note1"><sup>(1)</sup>End-Of-Course Assessment comprises: (i) a <strong>Coursework component</strong>; and (ii) a <strong>Theory component</strong>.
+			 </div></details>
 </div>
+
 <div style="display: none;" class="yck-component">
     <div class="regular-flow">
         <article>
