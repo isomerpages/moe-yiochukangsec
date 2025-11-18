@@ -1020,7 +1020,7 @@ variant: markdown
     </div>
 </div>
 
-<article style="display: none;">
+<article>
 <div class="yck-component">
                                         <div class="regular-flow">
                                             <p>Students’ overall results (except those of graduating classes) are based on both Weighted Assessments and End-Of-Year Exams.</p>
