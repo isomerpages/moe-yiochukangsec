@@ -66,41 +66,8 @@ third_nav_title: Physical Sports
 					<section>
 							<div class="yck-cards">
 									 <div class="yck-card yck-card-body"><p>Download a copy of <a class="text-link" target="_blank" href="/files/Students/Class%20Timetable%20Schedules/2025/2025_Semester_2_CCA_Schedule__Nov_Dec_.pdf">Semester 2's CCA schedule here</a></p></div></div></section>
-					<section>
-                <table class="yck-table">
-                    <thead>
-                        <tr>
-                            <th class="yck-th">DAY &amp; TIME</th>
-                            <th class="yck-th">TEACHERS-IN-CHARGE</th>
-                            <th class="yck-th">VENUE</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td class="yck-td">
-                                <p>Every Monday and <wbr>Wednesday 3.00pm to 5.30pm</p>
-                            </td>
-                            <td class="yck-td">
-                                <p>Mr Patrick Wee (OIC) <wbr>(ext 127)</p>
-                                <p>Mdm Ng Hui Yin <wbr>(ext 146)</p>
-                                <p>Ms Rohini <wbr>(ext 141)</p>
-                                <p>Ms Goh Yu Fan <wbr>(ext 174)</p>
-                            </td>
-                            <td class="yck-td">
-                                <p>School hall</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td colspan="3">
-                                <p class="small">Note: This is an all-girls CCA. Recruitment is open
-																	only to female students.</p>
-															<p class="small">You can download a copy of <a class="text-link small" target="_blank" href="/files/Students/Class%20Timetable%20Schedules/2025/2025_Semester_2_CCA_Schedule__Nov_Dec_.pdf">Semester 2's CCA schedule here</a>.</p>
-                            </td>
-                        </tr>
-                    </tbody>
-                </table>
-					</section>  
-            <section>
+					
+ <section>
                 <h4 class="yck-h4">Achievements</h4>
                 <ul>
                     <li>
