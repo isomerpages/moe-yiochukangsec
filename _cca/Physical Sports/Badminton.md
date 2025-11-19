@@ -628,7 +628,6 @@ body {
 }
 
 @media (min-width: 480px) {
-
     .yck-component .rwd-table th,
     .yck-component .rwd-table td {
         display: table-cell;
@@ -660,9 +659,9 @@ body {
     .yck-component .rwd-table td {
         margin: .5em 1em;
     }
+	}
 
-    @media (min-width: 480px) {
-
+   @media (min-width: 480px) {
         .yck-component .rwd-table th,
         .yck-component .rwd-table td {
             padding: 1em !important;
@@ -681,7 +680,7 @@ body {
         display: table;
         border-collapse: collapse;
         width: 100%;
-        min-width: 360px;
+        min-width: 480px;
         padding: 0;
         margin-bottom: var(--yck-space-s-xl);
         border: 1px dotted lightgrey;
@@ -779,7 +778,6 @@ body {
 
     /* Responsive adjustments */
     @media (max-width: 768px) {
-
         .yck-component .yck-th,
         .yck-component th,
         .yck-component .yck-td,
@@ -879,7 +877,6 @@ body {
         padding: 0;
         margin: 0;
         overflow: hidden;
-        border-radius: var(--yck-rounded-corners);
     }
 
     .yck-component figure img,
@@ -901,7 +898,7 @@ body {
     /* Layouts - Columns */
     .yck-component .col-container {
         width: 100%;
-        max-width: 1200px;
+        max-width: 1000px;
         padding: 0;
         margin-top: 1em;
         margin-bottom: var(--yck-space-s-xl);
@@ -940,7 +937,7 @@ body {
         min-width: 150px;
         color: var(--neutral-700);
         font-size: var(--yck-step--2);
-        background: linear-gradient(135deg, #fff 0%, #fff 100%);
+        background: linear-gradient(345deg, rgba(255,255,255,1) 0%, rgba(0,0,0,0.5) 100%);
         align-items: flex-start;
         flex: 1 0 calc(33% - var(--yck-spacing-unit));
         justify-content: center;
@@ -967,7 +964,7 @@ body {
         flex-direction: column;
         color: #555;
         border-radius: var(--yck-rounded-corners);
-        background: linear-gradient(345deg, rgba(255, 255, 255, 0) 0%, rgba(221, 221, 221, 1) 100%);
+        background: linear-gradient(245deg, rgba(255, 255, 255, 0) 0%, rgba(221, 221, 221, 1) 100%);
         flex: 1;
         backdrop-filter: blur(10%);
     }
