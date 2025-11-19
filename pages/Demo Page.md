@@ -81,7 +81,8 @@ image: /images/YCKLogo.svg
                                 <ul class="nolist-style">
                                     <li>Every Monday &amp; Tuesday</li>
                                     <li>3.00pm to 5.30pm</li>
-                            </ul></td>
+                                </ul>
+                            </td>
                             <td data-th="Teachers in-charge">
                                 <ul class="nolist-style">
                                     <li>Mrs Audrey Yip (ext 140)</li>
@@ -179,7 +180,7 @@ image: /images/YCKLogo.svg
                 <div class="yck-flexitems">
                     <div class="yck-flexitem">
                         <figure>
-                            <img alt="placeholder image" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec2.jpg">
+                            <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec2.jpg">
                             <figcaption>ViA in action with the Sec 1s</figcaption>
                         </figure>
                     </div>
@@ -211,7 +212,8 @@ image: /images/YCKLogo.svg
                         </figure>
                     </div>
                 </div>
-                <hr>
+            </section>
+            <section>
                 <h4>Heading Level Four - Equal Height Cards</h4>
                 <div class="yck-cards">
                     <div class="yck-card">
@@ -239,7 +241,8 @@ image: /images/YCKLogo.svg
                         <div class="yck-card-footer">Button</div>
                     </div>
                 </div>
-                <hr>
+            </section>
+            <section>
                 <h4>Heading Level Four - GRID items using autofit</h4>
                 <div class="autofit-grid">
                     <div class="grid-item">
@@ -275,7 +278,6 @@ image: /images/YCKLogo.svg
                     </div>
                 </div>
             </section>
-            <hr>
             <section>
                 <h4 class="yck-h4">Heading Level Four - 3 columns</h4>
                 <div class="col-container">
@@ -335,128 +337,144 @@ image: /images/YCKLogo.svg
                         </p>
                     </div>
                 </div>
-    </section>
-		<section>
-    <h4 class="yck-h5">Heading Level Four - 2 columns</h4>
-    <div class="col-container">
-        <div class="columns2">
-            <p>
-                Duis aute irure dolor in reprehenderit in voluptate
-                velit esse cillum dolore eu fugiat nulla pariatur.
-            </p>
-            <figure>
-                <img alt="placeholder image" src="https://placehold.co/400x300/cccccc/969696.png?font=lato">
-                <figcaption>Caption only ...</figcaption>
-            </figure>
-            <ol>
-                <li>Lorem ipsum dolor sit amet.</li>
-                <li>Consectetur adipiscing elit.</li>
-                <li>Integer nec odio. Praesent libero.</li>
-            </ol>
-            <ul>
-                <li>Lorem ipsum dolor sit amet.</li>
-                <li>Consectetur adipiscing elit.</li>
-                <li>Integer nec odio. Praesent libero.</li>
-            </ul>
-            <p>
-                Excepteur sint occaecat cupidatat non proident, sunt in
-                culpa qui officia deserunt mollit anim id est laborum.
-            </p>
-            <ol start="4">
-                <li>
-                    Lorem ipsum dolor sit amet.
-                    <ul>
-                        <li>Lorem ipsum dolor sit amet.</li>
-                        <li>Consectetur adipiscing elit.</li>
-                        <li>Integer nec odio. Praesent libero.</li>
-                    </ul>
-                </li>
-                <li>Consectetur adipiscing elit.</li>
-                <li>Integer nec odio. Praesent libero.</li>
-            </ol>
-        </div>
-    </div>
-			
-    <section>
-        <h5 class="yck-h5">Heading Level Five</h5>
-        <p>
-            Curabitur at odio et metus volutpat condimentum quis nec
-            enim.
-        </p>
-        <p class="small">
-            Etiam porta sem malesuada magna mollis euismod. Nulla vitae
-            elit libero, a pharetra augue.
-        </p>
-        <div class="isomer-card-grid">
-            <div class="isomer-card">
-                <div class="isomer-card-body">
-                    <div class="isomer-card-title">CARD 1</div>
-                    <div class="isomer-card-description">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing
-                            elit, sed do eiusmod tempor incididunt ut labore et
-                            dolore magna aliqua.
-                        </p>
+            </section>
+            <section>
+                <h4 class="yck-h5">Heading Level Four - 2 columns</h4>
+                <div class="col-container">
+                    <div class="columns2">
                         <p>
-                            Ut enim ad minim veniam, quis nostrud exercitation
-                            ullamco laboris nisi ut aliquip ex ea commodo
-                            consequat.
+                            Duis aute irure dolor in reprehenderit in voluptate
+                            velit esse cillum dolore eu fugiat nulla pariatur.
                         </p>
+                        <figure>
+                            <img alt="placeholder image" src="https://placehold.co/400x300/cccccc/969696.png?font=lato">
+                            <figcaption>Caption only ...</figcaption>
+                        </figure>
+                        <ol>
+                            <li>Lorem ipsum dolor sit amet.</li>
+                            <li>Consectetur adipiscing elit.</li>
+                            <li>Integer nec odio. Praesent libero.</li>
+                        </ol>
                         <ul>
-                            <li>
-                                Duis aute irure dolor in reprehenderit in
-                                voluptate velit esse
-                                <a class="isomer-card-link" href="#">cillum dolore eu fugiat</a>
-                                nulla pariatur.
-                            </li>
-                            <li>
-                                Excepteur sint occaecat cupidatat non proident,
-                                sunt in culpa qui officia deserunt mollit anim id
-                                est laborum.
-                            </li>
+                            <li>Lorem ipsum dolor sit amet.</li>
+                            <li>Consectetur adipiscing elit.</li>
+                            <li>Integer nec odio. Praesent libero.</li>
                         </ul>
+                        <p>
+                            Excepteur sint occaecat cupidatat non proident, sunt in
+                            culpa qui officia deserunt mollit anim id est laborum.
+                        </p>
+                        <ol start="4">
+                            <li>
+                                Lorem ipsum dolor sit amet.
+                                <ul>
+                                    <li>Lorem ipsum dolor sit amet.</li>
+                                    <li>Consectetur adipiscing elit.</li>
+                                    <li>Integer nec odio. Praesent libero.</li>
+                                </ul>
+                            </li>
+                            <li>Consectetur adipiscing elit.</li>
+                            <li>Integer nec odio. Praesent libero.</li>
+                        </ol>
                     </div>
                 </div>
-            </div>
-            <div class="isomer-card">
-                <div class="isomer-card-image">
-                    <img alt="placeholder image" src="https://placehold.co/400x300/cccccc/969696.png?font=lato">
-                </div>
-                <div class="isomer-card-body">
-                    <div class="isomer-card-title">CARD 2</div>
-                    <div class="isomer-card-description">
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing
-                            elit, sed do eiusmod tempor incididunt ut labore et
-                            dolore magna aliqua.
-                        </p>
-                        <p>Ut enim ad minim veniam.</p>
-                        <p>
-                            Quis nostrud exercitation ullamco laboris nisi ut
-                            aliquip ex ea commodo consequat.
-                        </p>
+            </section>
+            <section>
+                <h5 class="yck-h5">Heading Level Five</h5>
+                <p>
+                    Curabitur at odio et metus volutpat condimentum quis nec
+                    enim.
+                </p>
+                <p class="small">
+                    Etiam porta sem malesuada magna mollis euismod. Nulla vitae
+                    elit libero, a pharetra augue.
+                </p>
+                <div class="isomer-card-grid">
+                    <div class="isomer-card">
+                        <div class="isomer-card-body">
+                            <div class="isomer-card-title">CARD 1</div>
+                            <div class="isomer-card-description">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing
+                                    elit, sed do eiusmod tempor incididunt ut labore et
+                                    dolore magna aliqua.
+                                </p>
+                                <p>
+                                    Ut enim ad minim veniam, quis nostrud exercitation
+                                    ullamco laboris nisi ut aliquip ex ea commodo
+                                    consequat.
+                                </p>
+                                <ul>
+                                    <li>
+                                        Duis aute irure dolor in reprehenderit in
+                                        voluptate velit esse
+                                        <a class="isomer-card-link" href="#">cillum dolore eu fugiat</a>
+                                        nulla pariatur.
+                                    </li>
+                                    <li>
+                                        Excepteur sint occaecat cupidatat non proident,
+                                        sunt in culpa qui officia deserunt mollit anim id
+                                        est laborum.
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="isomer-card">
+                        <div class="isomer-card-image">
+                            <img alt="placeholder image" src="https://placehold.co/400x300/cccccc/969696.png?font=lato">
+                        </div>
+                        <div class="isomer-card-body">
+                            <div class="isomer-card-title">CARD 2</div>
+                            <div class="isomer-card-description">
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing
+                                    elit, sed do eiusmod tempor incididunt ut labore et
+                                    dolore magna aliqua.
+                                </p>
+                                <p>Ut enim ad minim veniam.</p>
+                                <p>
+                                    Quis nostrud exercitation ullamco laboris nisi ut
+                                    aliquip ex ea commodo consequat.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="isomer-card">
+                        <div class="isomer-card-image">
+                            <img alt="placeholder image" src="https://placehold.co/600x320/cccccc/969696.png?font=raleway">
+                        </div>
+                        <div class="isomer-card-body">
+                            <div class="isomer-card-title">CARD 3</div>
+                            <div class="isomer-card-description">
+                                <p>
+                                    <a href="#">cillum dolore eu fugiat</a>
+                                </p>
+                                <p>
+                                    <a class="text-link" href="#">cillum dolore eu fugiat</a>
+                                </p>
+                            </div>
+                        </div>
                     </div>
                 </div>
-            </div>
-        </div>
-    </section>
-    <section>
-        <h6>Heading Level Six</h6>
-        <p>
-            Vestibulum ante ipsum primis in faucibus orci luctus et
-            ultrices posuere cubilia curae; Sed nec
-            <a href="#">nunc suscipit</a>, viverra mi nec, tristique
-            nunc. Ut vehicula
-            <a class="text-link" href="#">bibendum</a> justo, a accumsan
-            elit rhoncus sit amet.
-        </p>
-        <p class="small">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Curabitur at odio et metus volutpat condimentum quis nec
-            enim. Donec id dictum ligula, ut tempus orci.
-        </p>
-    </section>
-			</section></article>
-	</div>
+            </section>
+            <section>
+                <h6>Heading Level Six</h6>
+                <p>
+                    Vestibulum ante ipsum primis in faucibus orci luctus et
+                    ultrices posuere cubilia curae; Sed nec
+                    <a href="#">nunc suscipit</a>, viverra mi nec, tristique
+                    nunc. Ut vehicula
+                    <a class="text-link" href="#">bibendum</a> justo, a accumsan
+                    elit rhoncus sit amet.
+                </p>
+                <p class="small">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    Curabitur at odio et metus volutpat condimentum quis nec
+                    enim. Donec id dictum ligula, ut tempus orci.
+                </p>
+            </section>
+        </article>
+    </div>
 </div>
 <div class="yck-component">
     <div class="regular-flow">
@@ -525,14 +543,12 @@ image: /images/YCKLogo.svg
                 </details>
             </section>
             <div class="deadctr-container">
-                <div class="deadctr-content">
-                    <div class="button-container">
-                        <a href="#top">
-                            <button class="buttontotop">
-                                <img class="svgIcon" alt="Back to Top" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Icons/svgiconwht.svg">
-                            </button>
-                        </a>
-                    </div>
+                <div class="button-container">
+                    <a href="#top">
+                        <button class="buttontotop">
+                            <img class="svgIcon" alt="Back to Top" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Icons/svgiconwht.svg">
+                        </button>
+                    </a>
                 </div>
             </div>
         </article>
@@ -769,8 +785,6 @@ body {
 /* Typography */
 .yck-component div,
 .yck-component p {
-    padding: 0;
-    margin: 0;
     text-wrap: pretty;
     font-size: inherit;
     letter-spacing: normal;
@@ -1049,7 +1063,6 @@ h5, .yck-h5, h6, .yck-h6) {
 }
 
 @media (min-width: 480px) {
-
     .yck-component .rwd-table th,
     .yck-component .rwd-table td {
         display: table-cell;
@@ -1081,9 +1094,8 @@ h5, .yck-h5, h6, .yck-h6) {
     .yck-component .rwd-table td {
         margin: .5em 1em;
     }
-
+}
     @media (min-width: 480px) {
-
         .yck-component .rwd-table th,
         .yck-component .rwd-table td {
             padding: 1em !important;
@@ -1200,7 +1212,6 @@ h5, .yck-h5, h6, .yck-h6) {
 
     /* Responsive adjustments */
     @media (max-width: 768px) {
-
         .yck-component .yck-th,
         .yck-component th,
         .yck-component .yck-td,
@@ -1419,7 +1430,6 @@ h5, .yck-h5, h6, .yck-h6) {
     /* 2. Auto-Fit Responsive Grid */
     .yck-component .autofit-grid {
         display: grid;
-
         gap: var(--yck-spacing-unit);
         grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
     }
@@ -1428,19 +1438,15 @@ h5, .yck-h5, h6, .yck-h6) {
         display: flex;
         padding: var(--yck-spacing-unit);
         margin-bottom: var(--yck-spacing-unit);
-
         font-size: var(--yck-step-0);
         font-weight: bold;
-
         transition: transform .2s;
         text-align: left;
-
         color: var(--neutral-700);
         border-radius: var(--yck-rounded-corners);
         outline: 1px solid #ccc;
         background: linear-gradient(135deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
         box-shadow: 0 4px 6px rgba(0, 0, 0, .1);
-
         align-items: flex-start;
         justify-content: left;
     }
@@ -1625,7 +1631,6 @@ h5, .yck-h5, h6, .yck-h6) {
         vertical-align: middle; */
         -webkit-transform: perspective(1px) translateZ(0);
         transform: perspective(1px) translateZ(0);
-
         box-shadow: 0 0 1px rgba(0, 0, 0, 0);
     }
 
@@ -1646,7 +1651,6 @@ h5, .yck-h5, h6, .yck-h6) {
         vertical-align: middle; */
         -webkit-transform: perspective(1px) translateZ(0);
         transform: perspective(1px) translateZ(0);
-
         box-shadow: 0 0 1px rgba(0, 0, 0, 0);
     }
 
