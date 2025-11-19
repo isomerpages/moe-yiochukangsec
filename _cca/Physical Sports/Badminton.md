@@ -97,7 +97,7 @@ third_nav_title: Physical Sports
     </div>
 </div>
 
-   <style>
+<style>
 /* Global and Root Variables */
 :root {
     --font-antique: Superclarendon, Bookman Old Style, URW Bookman, URW Bookman L,
@@ -341,34 +341,13 @@ body {
 }
 
 /* Headings */
-.yck-component h1,
-.yck-component .yck-h1,
-.yck-component h2,
-.yck-component .yck-h2,
-.yck-component h3,
-.yck-component .yck-h3,
-.yck-component h4,
-.yck-component .yck-h4,
-.yck-component h5,
-.yck-component .yck-h5,
-.yck-component h6,
-.yck-component .yck-h6,
-.yck-component p {
+.yck-component :is(h1, .yck-h1, h2, .yck-h2, h3, .yck-h3, h4, .yck-h4,
+h5, .yck-h5, h6, .yck-h6, p) {
     overflow-wrap: break-word;
 }
 
-.yck-component h1,
-.yck-component .yck-h1,
-.yck-component h2,
-.yck-component .yck-h2,
-.yck-component h3,
-.yck-component .yck-h3,
-.yck-component h4,
-.yck-component .yck-h4,
-.yck-component h5,
-.yck-component .yck-h5,
-.yck-component h6,
-.yck-component .yck-h6 {
+.yck-component :is(h1, yck-h1, h2, .yck-h2, h3, .yck-h3, h4, .yck-h4,
+h5, .yck-h5, h6, .yck-h6) {
     text-wrap: balance;
 }
 
@@ -628,6 +607,7 @@ body {
 }
 
 @media (min-width: 480px) {
+
     .yck-component .rwd-table th,
     .yck-component .rwd-table td {
         display: table-cell;
@@ -659,9 +639,9 @@ body {
     .yck-component .rwd-table td {
         margin: .5em 1em;
     }
-	}
 
-   @media (min-width: 480px) {
+    @media (min-width: 480px) {
+
         .yck-component .rwd-table th,
         .yck-component .rwd-table td {
             padding: 1em !important;
@@ -680,7 +660,7 @@ body {
         display: table;
         border-collapse: collapse;
         width: 100%;
-        min-width: 480px;
+        min-width: 360px;
         padding: 0;
         margin-bottom: var(--yck-space-s-xl);
         border: 1px dotted lightgrey;
@@ -778,6 +758,7 @@ body {
 
     /* Responsive adjustments */
     @media (max-width: 768px) {
+
         .yck-component .yck-th,
         .yck-component th,
         .yck-component .yck-td,
@@ -877,6 +858,7 @@ body {
         padding: 0;
         margin: 0;
         overflow: hidden;
+        border-radius: var(--yck-rounded-corners);
     }
 
     .yck-component figure img,
@@ -898,7 +880,7 @@ body {
     /* Layouts - Columns */
     .yck-component .col-container {
         width: 100%;
-        max-width: 1000px;
+        max-width: 1200px;
         padding: 0;
         margin-top: 1em;
         margin-bottom: var(--yck-space-s-xl);
@@ -937,7 +919,7 @@ body {
         min-width: 150px;
         color: var(--neutral-700);
         font-size: var(--yck-step--2);
-        background: linear-gradient(345deg, rgba(255,255,255,1) 0%, rgba(0,0,0,0.5) 100%);
+        background: linear-gradient(135deg, #fff 0%, #fff 100%);
         align-items: flex-start;
         flex: 1 0 calc(33% - var(--yck-spacing-unit));
         justify-content: center;
@@ -962,17 +944,18 @@ body {
         min-width: 150px;
         overflow: hidden;
         flex-direction: column;
-        color: #555;
+        color: var(--neutral-800);
         border-radius: var(--yck-rounded-corners);
-        background: linear-gradient(245deg, rgba(255, 255, 255, 0) 0%, rgba(221, 221, 221, 1) 100%);
+        background: linear-gradient(145deg, rgba(255, 255, 255, 0) 0%, rgb(255, 233, 193, 1) 100%);
         flex: 1;
-        backdrop-filter: blur(10%);
+        border: 1px solid #f3812b;
+        backdrop-filter: blur(50px) brightness(1.7) saturate(1.4);
     }
 
     .yck-component .yck-card-header {
         padding: var(--yck-step--1);
         font-weight: bold;
-        color: var(--neutral-600);
+        color: var(--neutral-900);
     }
 
     .yck-component .yck-card-body {
@@ -988,8 +971,7 @@ body {
         font-style: oblique;
         font-weight: 300;
         text-align: center;
-        color: #666;
-        background: rgba(255, 255, 255, .01);
+        color: var(--neutral-700);
     }
 
     /* 2. Auto-Fit Responsive Grid */
@@ -1014,7 +996,7 @@ body {
         color: var(--neutral-700);
         border-radius: var(--yck-rounded-corners);
         outline: 1px solid #ccc;
-        background: linear-gradient(135deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+        background: linear-gradient(135deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
         box-shadow: 0 4px 6px rgba(0, 0, 0, .1);
 
         align-items: flex-start;
@@ -1027,16 +1009,19 @@ body {
 
     /*Layouts - Cards, Columns */
     /* --- Isomer Cards --- */
-    .yck-component .isomer-card {
+    .yck-component .isomer-card-grid {
+        padding: 0;
+        margin: 0 auto;
+        overflow: hidden;
         padding: var(--yck-spacing-unit);
         border-radius: var(--yck-rounded-corners);
-        box-shadow: var(--yck-box-shadow1);
     }
 
     .yck-component .isomer-card {
         padding: 0;
         margin: 0 auto;
         overflow: hidden;
+        box-shadow: var(--yck-box-shadow1);
         transition: transform .8s var(--yck-transition-timing),
             box-shadow .8s var(--yck-transition-timing);
         text-decoration: none;
@@ -1195,10 +1180,9 @@ body {
         -webkit-transition-property: transform;
         transition-property: transform;
         /* display: inline-block;
-    vertical-align: middle; */
+        vertical-align: middle; */
         -webkit-transform: perspective(1px) translateZ(0);
         transform: perspective(1px) translateZ(0);
-
         box-shadow: 0 0 1px rgba(0, 0, 0, 0);
     }
 
@@ -1216,10 +1200,9 @@ body {
         -webkit-transition-property: transform;
         transition-property: transform;
         /* display: inline-block;
-    vertical-align: middle; */
+        vertical-align: middle; */
         -webkit-transform: perspective(1px) translateZ(0);
         transform: perspective(1px) translateZ(0);
-
         box-shadow: 0 0 1px rgba(0, 0, 0, 0);
     }
 
@@ -1229,4 +1212,5 @@ body {
         -webkit-transform: translateX(-8px);
         transform: translateX(-8px);
     }
-   </style>
+}
+</style>
