@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - Our Alumni.md
       - Our Students/.keep
       - Our Students/The YCKSians.md
       - Our Students/School Uniform.md
