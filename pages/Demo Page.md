@@ -179,7 +179,7 @@ image: /images/YCKLogo.svg
                 <div class="yck-flexitems">
                     <div class="yck-flexitem">
                         <figure>
-                            <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec2.jpg">
+                            <img alt="placeholder image" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec2.jpg">
                             <figcaption>ViA in action with the Sec 1s</figcaption>
                         </figure>
                     </div>
@@ -335,7 +335,8 @@ image: /images/YCKLogo.svg
                         </p>
                     </div>
                 </div>
-    </section></article></div>
+    </section>
+		<section>
     <h4 class="yck-h5">Heading Level Four - 2 columns</h4>
     <div class="col-container">
         <div class="columns2">
@@ -375,7 +376,7 @@ image: /images/YCKLogo.svg
             </ol>
         </div>
     </div>
-    
+			
     <section>
         <h5 class="yck-h5">Heading Level Five</h5>
         <p>
@@ -436,22 +437,6 @@ image: /images/YCKLogo.svg
                     </div>
                 </div>
             </div>
-            <div class="isomer-card">
-                <div class="isomer-card-image">
-                    <img alt="placeholder image" src="https://placehold.co/600x320/cccccc/969696.png?font=raleway">
-                </div>
-                <div class="isomer-card-body">
-                    <div class="isomer-card-title">CARD 3</div>
-                    <div class="isomer-card-description">
-                        <p>
-                            <a href="#">cillum dolore eu fugiat</a>
-                        </p>
-                        <p>
-                            <a class="text-link" href="#">cillum dolore eu fugiat</a>
-                        </p>
-                    </div>
-                </div>
-            </div>
         </div>
     </section>
     <section>
@@ -470,9 +455,9 @@ image: /images/YCKLogo.svg
             enim. Donec id dictum ligula, ut tempus orci.
         </p>
     </section>
-    
+			</section></article>
+	</div>
 </div>
-<hr>
 <div class="yck-component">
     <div class="regular-flow">
         <article>
@@ -798,34 +783,13 @@ body {
 }
 
 /* Headings */
-.yck-component h1,
-.yck-component .yck-h1,
-.yck-component h2,
-.yck-component .yck-h2,
-.yck-component h3,
-.yck-component .yck-h3,
-.yck-component h4,
-.yck-component .yck-h4,
-.yck-component h5,
-.yck-component .yck-h5,
-.yck-component h6,
-.yck-component .yck-h6,
-.yck-component p {
+.yck-component :is(h1, .yck-h1, h2, .yck-h2, h3, .yck-h3, h4, .yck-h4,
+h5, .yck-h5, h6, .yck-h6, p) {
     overflow-wrap: break-word;
 }
 
-.yck-component h1,
-.yck-component .yck-h1,
-.yck-component h2,
-.yck-component .yck-h2,
-.yck-component h3,
-.yck-component .yck-h3,
-.yck-component h4,
-.yck-component .yck-h4,
-.yck-component h5,
-.yck-component .yck-h5,
-.yck-component h6,
-.yck-component .yck-h6 {
+.yck-component :is(h1, yck-h1, h2, .yck-h2, h3, .yck-h3, h4, .yck-h4,
+h5, .yck-h5, h6, .yck-h6) {
     text-wrap: balance;
 }
 
