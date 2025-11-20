@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - Alumni.md
+      - Our Family/Alumni.md
+      - Our Family/.keep
       - Our School/School.md
       - Our School/E Open House.md
       - Our School/School Advisory Committee.md

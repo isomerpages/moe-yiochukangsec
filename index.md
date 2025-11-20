@@ -54,6 +54,16 @@ sections:
       image: /images/60th Anniversary/Concert_for_Hope.jpg
       alt: Celebrating Home, Heart & Hope
   - infopic:
+      title: Alumni Reunion Invitation
+      subtitle: Connecting Home, Heart & Hope
+      id: infopic
+      description: We hope your presence will make this moment more memorable. Let's
+        make this reunion a new unforgettable story!
+      button: See you soon 😍
+      url: https://www.yiochukangsec.moe.edu.sg/our-family/our-alumni/index.html#reunion
+      image: /images/Our Family/Alumni/alumni_reunion_invite_2026_sm.png
+      alt: Image alt text
+  - infopic:
       title: 60th Anniversary Celebration
       subtitle: YIO CHU KANG SECONDARY SCHOOL
       id: infopic

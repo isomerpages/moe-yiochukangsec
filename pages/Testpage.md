@@ -5,6 +5,113 @@ description: ""
 variant: markdown
 ---
 <div class="yck-component">
+	<details>
+		<summary><h2>Assessment Structure</h2></summary>
+    <table class="yck-table">
+    <thead>
+      <tr>
+        <th class="yck-th"></th>
+        <th class="yck-th"><span class="font-bolder">TERM 1</span></th>
+        <th class="yck-th"><span class="font-bolder">TERM 2</span></th>
+       <th class="yck-th"><span class="font-bolder">TERM 3</span></th>
+       <th colspan="2" class="yck-th"><span class="font-bolder">TERM 4</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+         <th class="yck-td"></th>
+        <td class="yck-td">Weighted Assessment</td>
+        <td class="yck-td">Weighted Assessment</td>
+        <td class="yck-td">Mid-Year Examination</td>
+        <td class="yck-td">Weighted Assessment</td>
+        <td class="yck-td">End-Of-Year Examination</td>
+      </tr>
+      <tr>
+        <td class="yck-td">Sec 1</td>
+        <td class="yck-td">15%</td>
+        <td class="yck-td">15%</td>
+        <td class="yck-td">-</td>
+        <td class="yck-td">15%</td>
+        <td class="yck-td">55%</td>
+      </tr>
+      <tr>
+        <td class="yck-td">Sec 2</td>
+        <td class="yck-td">15%</td>
+        <td class="yck-td">15%</td>
+        <td class="yck-td">-</td>
+        <td class="yck-td">15%</td>
+        <td class="yck-td">55%</td>
+      </tr>
+      <tr>
+        <td class="yck-td">Sec 3</td>
+        <td class="yck-td">15%</td>
+        <td class="yck-td">15%</td>
+        <td class="yck-td">-</td>
+        <td class="yck-td">15%</td>
+        <td class="yck-td">55%</td>
+      </tr>
+      <tr>
+        <td class="yck-td">Sec 4/5</td>
+        <td class="yck-td">100%</td>
+        <td class="yck-td">-</td>
+        <td class="yck-td">100%</td>
+        <td class="yck-td">100% (Prelim Exams)</td>
+        <td class="yck-td">-</td>
+      </tr>
+    </tbody>
+    </table>
+    <p></p>
+    <p>For Lower Secondary D&amp;T and FCE which are conducted in alternate semesters, the SBA structure &amp; weighting distribution are as follows:</p>
+    
+   <table class="yck-table">
+    <thead>
+      <tr>
+        <th class="yck-th"></th>
+        <th class="yck-th">Term 1</th>
+        <th class="yck-th">Term 2</th>
+        <th class="yck-th">Term 3</th>
+        <th class="yck-th">Term 4</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="yck-td"></td>
+        <td class="yck-td">Weighted Assessment</td>
+        <td class="yck-td">End-Of-Course Assessment<sup><a href="#note1">(1)</a></sup></td>
+        <td class="yck-td">End-Of-Course Assessment<sup><a href="#note1">(1)</a></sup></td>
+        <td class="yck-td">End-Of-Year Examination<br></td>
+      </tr>
+      <tr class="font-bold">
+        <td class="yck-td">Sec 1</td>
+        <td class="yck-td" colspan="2">D&amp;T</td>
+        <td class="yck-td" colspan="2">FCE</td>
+      </tr>
+      <tr>
+        <td class="yck-td"></td>
+        <td class="yck-td">15%</td>
+        <td class="yck-td">85%</td>
+        <td class="yck-td">15%</td>
+        <td class="yck-td">85%</td>
+      </tr>
+     <tr class="font-bold">
+        <td class="yck-td">Sec 2</td>
+        <td class="yck-td" colspan="2">D&amp;T</td>
+        <td class="yck-td" colspan="2">FCE</td>
+      </tr>
+      <tr>
+        <td class="yck-td"></td>
+        <td class="yck-td">15%</td>
+        <td class="yck-td">85%</td>
+        <td class="yck-td">15%</td>
+        <td class="yck-td">85%</td>
+      </tr>
+    </tbody>
+    </table>
+     <div class="small" id="note1"><sup>(1)</sup>End-Of-Course Assessment comprises: (i) a <strong>Coursework component</strong>; and (ii) a <strong>Theory component</strong>.
+			 </div></details>
+</div>
+
+<div style="display: none;" class="yck-component">
     <div class="regular-flow">
         <article>
             <section>
@@ -913,7 +1020,7 @@ variant: markdown
     </div>
 </div>
 
-<article style="display: none;">
+<article>
 <div class="yck-component">
                                         <div class="regular-flow">
                                             <p>Students’ overall results (except those of graduating classes) are based on both Weighted Assessments and End-Of-Year Exams.</p>
@@ -1552,217 +1659,132 @@ variant: markdown
         }
     }
 	
-	       /* --- Tables --- */
-        .yck-component .yck-table,
-        .yck-component table {
-            display: table;
-            border-collapse: collapse;
-            width: 100%;
-            min-width: 360px;
-            margin-bottom: var(--yck-space-s-xl);
-            font-size: var(--yck-step--1);
-            border: 1px dotted lightgrey;
-            margin-top: 1.5em;
-            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
-            border-radius: 8px;
-            overflow: hidden;
-        }
+/* Table Styles */
+.yck-container {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: auto;
+}
+.yck-table {
+    display: table;
+    border-collapse: collapse;
+    width: 100%;
+    min-width: 480px;
+    margin-bottom: 2em;
+    font-size: clamp(.75rem, .6019rem + .7407vw, 1.25rem);
+    border: 1px solid #ddd;
+    margin-top: 1.5em;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+	 overflow: hidden;
+    word-wrap: break-word;
+    text-wrap: pretty;
+}
 
-        .yck-component .yck-th,
-        .yck-component th,
-        .yck-component .yck-td,
-        .yck-component td {
-            display: table-cell;
-            font-size: var(--yck-step-0);
-            min-width: 120px;
-            vertical-align: top;
-            padding: var(--yck-spacing-unit);
-        }
+.yck-th,
+.yck-td {
+    display: table-cell;
+    font-size: clamp(.75rem, .6019rem + .7407vw, 1.25rem);
+    min-width: 100px;
+    vertical-align: top;
+    padding: 1rem;
+    border-bottom: 1px solid #ddd;
+    word-wrap: break-word;
+    text-wrap: pretty;
+    text-align: center !important;
+}
 
-        .yck-component .yck-th,
-        .yck-component th {
-            background-color: #cfcfcf;
-            border-bottom: 1px dotted #ddd;
-            text-transform: uppercase;
-            font-weight: bold;
-            line-height: 1.3;
-            letter-spacing: 0.05em;
-            text-wrap: balance;
-        }
+.yck-th {
+    background-color: #f5f5f5;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 1.3;
+    letter-spacing: 0.05em;
+    border-bottom: 2px solid #ddd;
+}
 
-        .yck-component .yck-td,
-        .yck-component td {
-            border-bottom: 1px dotted #ddd;
-            word-wrap: break-word;
-            text-wrap: pretty;
-            line-height: 1.4;
-        }
+.yck-td {
+    line-height: 1.4;
+    color: #222;
+    background-color: transparent;
+}
 
-        .yck-component .yck-td *,
-        .yck-component .yck-td p,
-        .yck-component .yck-td ul,
-        .yck-component .yck-td ol {
-            margin-block: var(--yck-step--2);
-        }
+/* First column styling */
+.yck-th:first-child,
+.yck-td:first-child {
+    font-weight: 700;
+    text-align: left !important;
+    min-width: 9ch;
+}
 
-        .yck-component .yck-th:nth-child(1),
-        .yck-component .yck-td:nth-child(1) {
-            font-weight: 700;
-        }
+/* Bold text styling */
+.yck-th .font-bolder,
+.yck-td .font-bolder {
+    font-weight: bolder;
+}
 
-        .yck-component .yck-td:nth-child(n+2) {
-            text-align: left;
-        }
+/* Row styling for bold rows */
+.yck-table tbody tr.font-bold {
+    font-weight: 700;
+}
 
-        .yck-component .yck-td li {
-            margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
-            line-height: 1.4;
-        }
+/* Row hover effects */
+.yck-table tbody tr {
+    background-color: inherit;
+    transition: background-color 0.3s ease;
+}
 
-        .yck-component .yck-td>*:last-child,
-        .yck-component .yck-td>p:last-child,
-        .yck-component .yck-td>ul:last-child,
-        .yck-component .yck-td>ol:last-child {
-            margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
-        }
+.yck-table tbody tr:hover {
+    background-color: #ffe9c1;
+}
 
-        .yck-component .yck-td ul:last-child li:last-child,
-        .yck-component .yck-td ol:last-child li:last-child {
-            margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
-        }
+.yck-table tbody tr:nth-child(even) {
+    background-color: #fafafa;
+}
 
-        .yck-component .yck-table tbody tr:last-child .yck-td>*:last-child {
-            margin-bottom: var(--yck-spacing-unit);
-        }
+.yck-table tbody tr:nth-child(even):hover {
+    background-color: #f0f0f0;
+}
 
-        .yck-component .yck-table tr {
-            background-color: inherit;
-            transition: background-color 0.8s ease;
-        }
+/* Remove bottom border from last row */
+.yck-table tbody tr:last-child .yck-td {
+    border-bottom: none;
+}
 
-        .yck-component .yck-table tr:hover,
-        .yck-component .yck-table tr:nth-child(even):hover {
-            background-color: #fef7e0;
-            transition: background-color 0.8s ease;
-        }
+/* Footnote styling */
+.small {
+    font-size: clamp(.625rem, .5139rem + .5556vw, 1rem);
+    line-height: 1.2;
+    color: #666;
+    margin-top: 1rem;
+}
 
-        .yck-component .yck-table tbody tr:nth-child(even) {
-            background-color: #f3f3f3;
-            transition: background-color 0.8s ease;
-        }
+/* Superscript links */
+sup a {
+    text-decoration: none;
+    color: #0066cc;
+}
 
-        /* Responsive adjustments */
-        @media (max-width: 768px) {
+sup a:hover {
+    text-decoration: underline;
+}
 
-            .yck-component .yck-table,
-            .yck-component table {
-                font-size: calc(var(--yck-step--1) * 0.9);
-            }
-
-            .yck-component .yck-th,
-            .yck-component th,
-            .yck-component .yck-td,
-            .yck-component td {
-                padding: calc(var(--yck-spacing-unit) * 0.5);
-            }
-        }
-
-
- /*   .yck-component .yck-table {
-        border-collapse: collapse;
-        width: 100%;
-        min-width: 360px;
-        margin-bottom: var(--yck-space-s-xl);
-        font-size: var(--yck-step--1);
-        border: 1px dotted lightgrey;
-        margin-top: 1.5em;
-        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
-        border-radius: 8px;
-        overflow: hidden;
+/* Responsive adjustments */
+@media (max-width: 640px) {
+    .yck-table {
+        font-size: clamp(.625rem, .5139rem + .5556vw, 1rem);
     }
 
-    .yck-component thead,
-    .yck-component .yck-th {
-        background-color: #cfcfcf;
-        text-align: center;
-        border-bottom: 1px dotted #ddd;
-        text-transform: uppercase;
-        padding: var(--yck-spacing-unit);
-        font-weight: bold;
-        font-size: var(--yck-step--1);
-        line-height: 1.3;
-        letter-spacing: 0.05em;
-        vertical-align: top;
-        text-wrap: balance;
+    .yck-th,
+    .yck-td {
+        padding: 0.5rem;
+        min-width: 100px;
     }
 
-    .yck-component .yck-td {
-        border-bottom: 1px dotted #ddd;
-        min-width: 120px;
-        max-width: 100%;
-        font-size: var(--yck-step--1);
-        word-wrap: break-word;
-        text-wrap: pretty;
-        padding: var(--yck-spacing-unit);
-        vertical-align: top;
-        line-height: 1.4;
-        min-width: 13ch;
+    .small {
+        font-size: clamp(.5208rem, .4381rem + .4136vw, .8rem);
     }
-
-    .yck-component .yck-td *,
-    .yck-component .yck-td p,
-    .yck-component .yck-td ul,
-    .yck-component .yck-td ol {
-        margin-top: 0;
-    }
-
-    .yck-component .yck-th:nth-child(1),
-    .yck-component .yck-td:nth-child(1) {
-        min-width: 10ch;
-        font-weight: 700;
-    }
-
-    .yck-component .yck-td:nth-child(n+2) {
-        text-align: center;
-        min-width: 14ch;
-    }
-
-    .yck-component .yck-td li {
-        margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
-        line-height: 1.4;
-    }
-
-    .yck-component .yck-td>*:last-child,
-    .yck-component .yck-td>p:last-child,
-    .yck-component .yck-td>ul:last-child,
-    .yck-component .yck-td>ol:last-child {
-        margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
-    }
-
-    .yck-component .yck-td ul:last-child li:last-child,
-    .yck-component .yck-td ol:last-child li:last-child {
-        margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
-    }
-
-    .yck-component .yck-table tbody tr:last-child .yck-td>*:last-child {
-        margin-bottom: var(--yck-spacing-unit);
-    }
-
-    .yck-component .yck-table tbody tr:nth-child(even) {
-        background-color: #f6f6f6;
-    }
-
-    @media (max-width: 768px) {
-        .yck-component .yck-table {
-            font-size: calc(var(--yck-step--1) * 0.9);
-        }
-
-        .yck-component .yck-th,
-        .yck-component .yck-td {
-            padding: calc(var(--yck-spacing-unit) * 0.5);
-        }
-    } */
-
     #note1 {
         padding: calc(var(--yck-spacing-unit)*0.75);
         margin: calc(var(--yck-spacing-unit)*0.75);
