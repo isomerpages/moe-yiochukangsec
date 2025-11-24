@@ -512,7 +512,6 @@ image: /images/YCKLogo.svg
                         Donec ullamcorper nulla non metus auctor fringilla. Sed
                         posuere consectetur est at lobortis.
                     </p>
-                    <div class="col-container">
                         <div class="columns2">
                             <ul>
                                 <li>Item 1 ...</li>
@@ -529,7 +528,6 @@ image: /images/YCKLogo.svg
                                 non metus auctor fringilla.
                             </p>
                         </div>
-                    </div>
                 </details>
             </section>
             <div class="deadctr-container">
