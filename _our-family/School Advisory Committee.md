@@ -441,11 +441,11 @@ h5, .yck-h5, h6, .yck-h6) {
 .yck-component a {
     transition: color .8s ease;
     text-decoration: none;
-    color: var(--yck-orange-600);
+    color: var(--yck-orange600);
 }
 .yck-component a:hover,
 .yck-component a:active {
-    color: var(--yck-orange-500);
+    color: var(--yck-orange500);
 }
 .yck-component a:focus {
     color: currentColor;
