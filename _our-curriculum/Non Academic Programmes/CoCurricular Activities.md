@@ -10,7 +10,7 @@ variant: markdown
 							<article>
 							<section>
     <p>The CCA Programme provides our students with a platform to discover their interests and talents. Students will progressively develop CCA-specific knowledge, skills, values and attitudes through sustained participation CCA.&nbsp; Explore the following tabs to learn more.</p>
-    <div class="yck-flexbox-grid">
+    <div class="columns2">
             <details name="ccas">
                 <summary>Clubs</summary>
                 <ul class="nolist-style">
@@ -28,6 +28,8 @@ variant: markdown
                     <li><a class="text-link" href="/cca/Physical-Sports/Netball/">Netball</a></li>
                 </ul>
             </details>
+				</div>
+    <div class="columns2">
 			<details name="ccas">
                 <summary>Performing Arts</summary>
                 <ul class="nolist-style">
@@ -197,9 +199,7 @@ variant: markdown
         --yck-orange-700: #853003;
         --yck-orange-800: #551900;
         --yck-orange-900: #260900;
-
-
-        /* Fluid Typography & Spacing */
+	/* Fluid Typography & Spacing */
         /* @link https://utopia.fyi/type/calculator?c=320,12,1.2,1400,20,1.25,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
         --yck-step--1: clamp(.625rem, .5139rem + .5556vw, 1rem);
         --yck-step--2: clamp(.5208rem, .4381rem + .4136vw, .8rem);
@@ -209,9 +209,7 @@ variant: markdown
         --yck-step-3: clamp(1.296rem, .9566rem + 1.6969vw, 2.4414rem);
         --yck-step-4: clamp(1.5552rem, 1.1118rem + 2.2171vw, 3.0518rem);
         --yck-step-5: clamp(1.8662rem, 1.2889rem + 2.8866vw, 3.8147rem);
-
         --yck-space-s-xl: clamp(1rem, -.239rem + 4.32vw, 3rem);
-
         --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, .25);
         --yck-box-shadow1: 0 1px 2px rgba(0, 0, 0, .15);
         --yck-inset-shadow1: rgba(50, 50, 93, .25) 0 30px 60px -12px inset,
@@ -224,7 +222,6 @@ variant: markdown
         --yck-text-line-height: 1.6em;
         --yck-transition-timing: cubic-bezier(.4, 0, .2, 1);
         --yck-spacing-unit: 1rem;
-
         interpolate-size: allow-keywords;
         scroll-behavior: smooth;
         text-rendering: optimizeSpeed;
@@ -918,22 +915,16 @@ variant: markdown
         column-fill: balance;
         page-break-inside: avoid;
     }
-
-    .yck-component .col-container li,
-    .yck-component .col-container p {
-        font-size: var(--yck-step-0);
-    }
-
-    .yck-component .col-container .columns2 {
+    .yck-component .columns2 {
         column-count: 2;
         column-gap: 1.5em;
-        column-rule: 1px dotted grey;
+        column-rule: 1px dotted lightgrey;
     }
 
-    .yck-component .col-container .columns3 {
+    .yck-component .columns3 {
         column-count: 3;
         column-gap: 1.5em;
-        column-rule: 1px dotted grey;
+        column-rule: 1px dotted lightgrey;
     }
 
     /* Layouts - Flexitems using flexbox */
