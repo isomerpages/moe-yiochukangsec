@@ -510,7 +510,7 @@ image: /images/YCKLogo.svg
                     This is without paragraph.
                 </details>
                 <details>
-                    <summary>Second Accordion ...</summary>
+                    <summary class="bg-yckorange">Second Accordion ...</summary>
                     <p>
                         Donec ullamcorper nulla non metus auctor fringilla. Sed
                         posuere consectetur est at lobortis.
