@@ -653,6 +653,7 @@ a.button {
     cursor: pointer;
     border: none;
     background-color: transparent;
+
     @media screen and (-ms-high-contrast: active) {
         border: 2px solid currentcolor;
     }
@@ -1094,7 +1095,7 @@ h5, .yck-h5, h6, .yck-h6) {
 .yck-component .rwd-table {
     margin-top: 1.5em;
     margin-bottom: var(--yck-space-s-xl);
-    min-width: 500px;
+    min-width: 360px;
 }
 
 .yck-component .rwd-table tr {
@@ -1231,7 +1232,7 @@ h5, .yck-h5, h6, .yck-h6) {
     display: flex;
     flex-wrap: wrap;
     gap: var(--yck-spacing-unit);
-    margin-block: var(--yck-spacing-unit);
+    margin-block: 1em;
 }
 
 .yck-component .yck-flexitem {
@@ -1255,6 +1256,7 @@ h5, .yck-h5, h6, .yck-h6) {
 /* Layout - Equal Height Cards with sticky footer */
 .yck-component .yck-cards {
     display: flex;
+    flex-wrap: wrap;
     width: 100%;
     margin-bottom: var(--yck-space-s-xl);
     gap: var(--yck-spacing-unit);
@@ -1262,7 +1264,7 @@ h5, .yck-h5, h6, .yck-h6) {
 
 .yck-component .yck-card {
     display: flex;
-    min-width: 120px;
+    min-width: 150px;
     overflow: hidden;
     flex-direction: column;
     color: var(--neutral-800);
@@ -1304,6 +1306,7 @@ h5, .yck-h5, h6, .yck-h6) {
 
 .yck-component .grid-item {
     display: flex;
+    gap: .5em;
     padding: var(--yck-spacing-unit);
     font-size: var(--yck-step-0);
     font-weight: bold;
@@ -1314,13 +1317,13 @@ h5, .yck-h5, h6, .yck-h6) {
     border-radius: var(--yck-rounded-corners);
     outline: 1px solid #ccc;
     background: linear-gradient(135deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
-    box-shadow: 0 4px 6px rgba(0, 0, 0, .1);
     align-items: flex-start;
     justify-content: left;
 }
 
 .yck-component .grid-item:hover {
     transform: scale(1.025);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, .1);
 }
 
 /*Layouts - Cards, Columns */
@@ -1694,6 +1697,62 @@ button.cta-button:hover::before {
     animation-timing-function: linear;
     -webkit-animation-iteration-count: infinite;
     animation-iteration-count: infinite;
+}
+
+/*** Misc items of interest ... ***/
+.bg-1 {
+    background: url("https://c.stocksy.com/a/YY3500/z0/1205314.jpg") no-repeat left 50%;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.bg-2 {
+    background: url("https://c.stocksy.com/a/FY3500/z0/1205295.jpg") no-repeat left 50%;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.bg-3 {
+    background: url("https://c.stocksy.com/a/L1o500/z0/1383923.jpg") no-repeat left 50%;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.bg-4 {
+    background: url("https://c.stocksy.com/a/Z22000/z0/7847.jpg") no-repeat left 50%;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.bg-yckorange {
+    background: #fef7e0;
+    background: -moz-linear-gradient(45deg, #fef7e0 0%, #fbdf83 50%, #f7bf08 100%);
+    background: -webkit-linear-gradient(45deg, #fef7e0 0%, #fbdf83 50%, #f7bf08 100%);
+    background: linear-gradient(45deg, #fef7e0 0%, #fbdf83 50%, #f7bf08 100%);
+}
+
+.bg-singpass {
+    background: #be2e7d;
+    background: -moz-linear-gradient(45deg, #be2e7d 0%, #d64e54 100%);
+    background: -webkit-linear-gradient(45deg, #be2e7d 0%, #d64e54 100%);
+    background: linear-gradient(45deg, #be2e7d 0%, #d64e54 100%);
+    filter: progid:dximagetransform.Microsoft.gradient(startColorstr="#be2e7d", endColorstr="#d64e54", GradientType=1);
+}
+
+.bg-yckgreen {
+    background: #009d62;
+    background: -moz-linear-gradient(45deg, #009d62 0%, #18510f 100%);
+    background: -webkit-linear-gradient(45deg, #009d62 0%, #18510f 100%);
+    background: linear-gradient(45deg, #009d62 0%, #18510f 100%);
+    filter: progid:dximagetransform.Microsoft.gradient(startColorstr="#009d62", endColorstr="#18510f", GradientType=1);
+}
+
+.bg-gradientblue {
+    background: #0164b6;
+    background: -moz-linear-gradient(45deg, #0164b6 0%, #04a4e3 100%);
+    background: -webkit-linear-gradient(45deg, #0164b6 0%, #04a4e3 100%);
+    background: linear-gradient(45deg, #0164b6 0%, #04a4e3 100%);
+    filter: progid:dximagetransform.Microsoft.gradient(startColorstr="#0164b6", endColorstr="#04a4e3", GradientType=1);
 }
 
 </style>
