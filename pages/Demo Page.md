@@ -21,7 +21,6 @@ image: /images/YCKLogo.svg
             </section>
             <section>
                 <h2>Heading Level Two - Responsive Table</h2>
-                <div class="col-container">
                     <div class="columns2">
                         <p>
                             Vestibulum ante ipsum primis in faucibus orci luctus et
@@ -63,7 +62,6 @@ image: /images/YCKLogo.svg
                             <li>Integer nec odio. Praesent libero.</li>
                         </ol>
                     </div>
-                </div>
             </section>
             <section>
                 <h3>Heading Level 3 - Responsive Width Table to List</h3>
