@@ -281,7 +281,6 @@ image: /images/YCKLogo.svg
             </section>
             <section>
                 <h4 class="yck-h4">Heading Level Four - 3 columns</h4>
-                <div class="col-container">
                     <div class="columns3">
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipisicing
@@ -299,8 +298,6 @@ image: /images/YCKLogo.svg
                             culpa qui officia deserunt mollit anim id est laborum.
                         </p>
                     </div>
-                </div>
-                <div class="col-container">
                     <div class="columns2">
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipisicing
@@ -318,8 +315,6 @@ image: /images/YCKLogo.svg
                             culpa qui officia deserunt mollit anim id est laborum.
                         </p>
                     </div>
-                </div>
-                <div class="col-container">
                     <div class="columns3">
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipisicing
@@ -337,11 +332,9 @@ image: /images/YCKLogo.svg
                             culpa qui officia deserunt mollit anim id est laborum.
                         </p>
                     </div>
-                </div>
             </section>
             <section>
                 <h4 class="yck-h5">Heading Level Four - 2 columns</h4>
-                <div class="col-container">
                     <div class="columns2">
                         <p>
                             Duis aute irure dolor in reprehenderit in voluptate
@@ -378,7 +371,6 @@ image: /images/YCKLogo.svg
                             <li>Integer nec odio. Praesent libero.</li>
                         </ol>
                     </div>
-                </div>
             </section>
             <section>
                 <h5 class="yck-h5">Heading Level Five</h5>
@@ -523,7 +515,6 @@ image: /images/YCKLogo.svg
                         Donec ullamcorper nulla non metus auctor fringilla. Sed
                         posuere consectetur est at lobortis.
                     </p>
-                    <div class="col-container">
                         <div class="columns2">
                             <ul>
                                 <li>Item 1 ...</li>
@@ -540,7 +531,6 @@ image: /images/YCKLogo.svg
                                 non metus auctor fringilla.
                             </p>
                         </div>
-                    </div>
                 </details>
             </section>
             <div class="deadctr-container">
