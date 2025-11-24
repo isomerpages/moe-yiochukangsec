@@ -1690,75 +1690,62 @@ small {
 /* --- Details Summary --- */
 .yck-component details {
     overflow: hidden;
-    border-radius: 10px;
+    border-radius: var(--yck-rounded-corners);
     background-color: #fff;
-    transition: box-shadow 0.5s ease-out;
+    margin-bottom: 1em;
 }
-
 .yck-component details[open] {
-    /* Shadow applied to the whole container when open */
     box-shadow: var(--yck-inset-shadow2);
 }
-
-.yck-component details * {
-    margin: 0 !important;
+.yck-component details p,
+.yck-component details div {
+    margin-inline: .8em;
 }
-
-.yck-component details>ul {
-    list-style: none;
-}
-
-.yck-component summary {
+.yck-component details summary {
     position: relative;
-    padding: 1rem 3rem 1rem 1.5rem;
+    padding: .75em;
+    font-size: var(--yck-step-1);
+    font-weight: 500;
     list-style-position: outside;
     cursor: pointer;
     user-select: none;
+    transition: background-color .7s ease-in-out, box-shadow .7s ease-in-out;
     outline: none;
-    font-size: var(--yck-step-1);
-    font-weight: 500;
-    transition: background-color 0.5s ease-in;
+    box-shadow: var(--yck-inset-shadow2);
 }
-
-.yck-component summary:hover {
-    background-color: rgba(0, 0, 0, 0.03);
+.yck-component details summary:hover {
+    background-color: rgba(0, 0, 0, .1);
     box-shadow: var(--yck-box-shadow1);
 }
-
-.yck-component summary::marker {
+.yck-component details summary::marker {
     content: "";
 }
-
-.yck-component summary::after {
-    content: "+";
+.yck-component details summary::after {
     position: absolute;
+    top: 50%;
+    right: 1.5em;
     font-size: var(--yck-step-2);
     line-height: 1;
-    right: 1rem;
-    top: 50%;
+    content: "+";
+    transition: transform .75s cubic-bezier(.25, 1, .5, 1);
     transform: translateY(-50%) rotate(0deg);
-    transition: transform 0.65s cubic-bezier(0.25, 1, 0.5, 1);
 }
-
 .yck-component details[open]>summary::after {
     transform: translateY(-50%) rotate(135deg);
 }
-
 .yck-component details>*:not(summary) {
-    padding: 1rem 1.5rem 1.5rem 1.5rem;
-    animation: fade-in 0.5s ease 0.5s;
+    padding: 0;
+    animation: fade-in .5s ease .5s;
     animation-fill-mode: both;
 }
-
 @keyframes fade-in {
     from {
-        opacity: 0;
         transform: translateY(-10px);
+        opacity: 0;
     }
-
     to {
-        opacity: 1;
         transform: translateY(0);
+        opacity: 1;
     }
 }
 
