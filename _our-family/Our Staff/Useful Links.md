@@ -10,9 +10,7 @@ image: /images/YCKLogo.svg
     <section>
         <div class="yck-component">
             <div class="regular-flow">
-                <div class="yck-flexitems">
-                    
-                    <div class="yck-flexitem">
+                <div class="yck-flexitems"><div class="yck-flexitem">
                         <div class="isomer-card">
                             <div class="isomer-card-image">
                                 <a title="iCONs. Teach, Learn and Collaborate" href="https://icon.moe.edu.sg/" target="_blank">
@@ -20,9 +18,7 @@ image: /images/YCKLogo.svg
                                 </a>
                             </div>
                         </div>
-                    </div>
-                    
-                    <div class="yck-flexitem">
+                    </div><div class="yck-flexitem">
                         <div class="isomer-card">
                             <div class="isomer-card-image">
                                 <a title="School Cockpit Plus. In Touch, In Time" href="https://schoolcockpit.moe.gov.sg/CP/scapp/security" target="_blank">
@@ -31,7 +27,6 @@ image: /images/YCKLogo.svg
                             </div>
                         </div>
                     </div>
-                    
                     <div class="yck-flexitem">
                         <div class="isomer-card">
                             <div class="isomer-card-image">
@@ -40,8 +35,7 @@ image: /images/YCKLogo.svg
                                 </a>
                             </div>
                         </div>
-                    </div>
-                    
+                    </div>                   
                     <div class="yck-flexitem">
                         <div class="isomer-card">
                             <div class="isomer-card-image">
@@ -51,7 +45,6 @@ image: /images/YCKLogo.svg
                             </div>
                         </div>
                     </div>
-                    
                     <div class="yck-flexitem">
                         <div class="isomer-card">
                             <div class="isomer-card-image">
@@ -61,7 +54,6 @@ image: /images/YCKLogo.svg
                             </div>
                         </div>
                     </div>
-                    
                     <div class="yck-flexitem">
                         <div class="isomer-card">
                             <div class="isomer-card-image">
@@ -71,7 +63,6 @@ image: /images/YCKLogo.svg
                             </div>
                         </div>
                     </div>
-                    
                     <div class="yck-flexitem">
                         <div class="isomer-card">
                             <div class="isomer-card-image">
@@ -81,7 +72,6 @@ image: /images/YCKLogo.svg
                             </div>
                         </div>
                     </div>
-                    
                     <div class="yck-flexitem">
                         <div class="isomer-card">
                             <div class="isomer-card-image">
@@ -91,7 +81,6 @@ image: /images/YCKLogo.svg
                             </div>
                         </div>
                     </div>
-                    
                     <div class="yck-flexitem">
                         <div class="isomer-card">
                             <div class="isomer-card-image">
@@ -101,7 +90,6 @@ image: /images/YCKLogo.svg
                             </div>
                         </div>
                     </div>
-                    
                     <div class="yck-flexitem">
                         <div class="isomer-card">
                             <div class="isomer-card-image">
@@ -111,7 +99,6 @@ image: /images/YCKLogo.svg
                             </div>
                         </div>
                     </div>
-                    
                     <div class="yck-flexitem">
                         <div class="isomer-card">
                             <div class="isomer-card-image">
@@ -121,7 +108,6 @@ image: /images/YCKLogo.svg
                             </div>
                         </div>
                     </div>
-                    
                     <div class="yck-flexitem">
                         <div class="isomer-card">
                             <div class="isomer-card-image">
