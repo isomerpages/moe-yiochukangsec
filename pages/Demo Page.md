@@ -21,47 +21,45 @@ image: /images/YCKLogo.svg
             </section>
             <section>
                 <h2>Heading Level Two - Responsive Table</h2>
-                    <div class="columns2">
-                        <p>
-                            Vestibulum ante ipsum primis in faucibus orci luctus et
-                            ultrices posuere cubilia curae.
-                        </p>
-                        <div class="video-container">
-                            <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/B2z8hvt8LxU?si=WST6qLcLFYkMcvY8" height="315" width="560"></iframe>
-                        </div>
-                        <p>Sed nec
-                            <a href="#">nunc suscipit</a>, viverra mi nec, tristique
-                            nunc. Ut vehicula
-                            <a class="text-link" href="#">bibendum</a> justo, a accumsan
-                            elit rhoncus sit amet.
-                        </p>
-                        <ol>
-                            <li>Lorem ipsum dolor sit amet.</li>
-                            <li>Consectetur adipiscing elit.</li>
-                            <li>Integer nec odio. Praesent libero.</li>
-                        </ol>
+                <p>
+                    Vestibulum ante ipsum primis in faucibus orci luctus et
+                    ultrices posuere cubilia curae.
+                </p>
+                <div class="video-container">
+                    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/B2z8hvt8LxU?si=WST6qLcLFYkMcvY8" height="315" width="560"></iframe>
+                </div>
+                <p>Sed nec
+                    <a href="#">nunc suscipit</a>, viverra mi nec, tristique
+                    nunc. Ut vehicula
+                    <a class="text-link" href="#">bibendum</a> justo, a accumsan
+                    elit rhoncus sit amet.
+                </p>
+                <ol>
+                    <li>Lorem ipsum dolor sit amet.</li>
+                    <li>Consectetur adipiscing elit.</li>
+                    <li>Integer nec odio. Praesent libero.</li>
+                </ol>
+                <ul>
+                    <li>Lorem ipsum dolor sit amet.</li>
+                    <li>Consectetur adipiscing elit.</li>
+                    <li>Integer nec odio. Praesent libero.</li>
+                </ul>
+                <p>
+                    Excepteur sint occaecat cupidatat non proident, sunt in culpa
+                    qui officia deserunt mollit anim id est laborum.
+                </p>
+                <ol start="4">
+                    <li>
+                        Lorem ipsum dolor sit amet.
                         <ul>
                             <li>Lorem ipsum dolor sit amet.</li>
                             <li>Consectetur adipiscing elit.</li>
                             <li>Integer nec odio. Praesent libero.</li>
                         </ul>
-                        <p>
-                            Excepteur sint occaecat cupidatat non proident, sunt in culpa
-                            qui officia deserunt mollit anim id est laborum.
-                        </p>
-                        <ol start="4">
-                            <li>
-                                Lorem ipsum dolor sit amet.
-                                <ul>
-                                    <li>Lorem ipsum dolor sit amet.</li>
-                                    <li>Consectetur adipiscing elit.</li>
-                                    <li>Integer nec odio. Praesent libero.</li>
-                                </ul>
-                            </li>
-                            <li>Consectetur adipiscing elit.</li>
-                            <li>Integer nec odio. Praesent libero.</li>
-                        </ol>
-                    </div>
+                    </li>
+                    <li>Consectetur adipiscing elit.</li>
+                    <li>Integer nec odio. Praesent libero.</li>
+                </ol>
             </section>
             <section>
                 <h3>Heading Level 3 - Responsive Width Table to List</h3>
@@ -142,28 +140,33 @@ image: /images/YCKLogo.svg
             </section>
             <section>
                 <h3>Heading Level 3 - Blockquotes</h3>
-                <div class="autofit-grid">
-                    <div class="grid-item">
-                        <div class="quote">
+                <div class="yck-flexitems">
+                    <div class="yck-flexitem">
+                        <div class="quote bg-yckorange">
                             <div class="blockquote">
                                 Phasellus elementum sapien sed justo
                                 <abbr title="Cascading Style Sheets">CSS</abbr> tincidunt
-                                gravida. Suspendisse vel eros id neque feugiat pretium.
+                                gravida.
+                                <cite>By Annonymous</cite>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="yck-flexitem">
+                        <div class="quote mk-shadow">
+                            <div class="blockquote">
+                                Suspendisse vel eros id neque feugiat pretium.
                                 Aenean a neque eget lorem feugiat bibendum.
                                 <cite>By Annonymous</cite>
                             </div>
                         </div>
                     </div>
-                    <div class="grid-item">
-                        <div class="quote">
-                            <div class="blockquote">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                                sed do eiusmod tempor incididunt ut labore et dolore magna
-                                aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                                ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                                <cite>By Annonymous</cite>
-                            </div>
-                        </div>
+                </div>
+                <div class="quote">
+                    <div class="blockquote">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+                        sed do eiusmod tempor incididunt ut labore et dolore magna
+                        aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                        ullamco laboris nisi ut aliquip ex ea commodo consequat.<cite>By Another Partt</cite>
                     </div>
                 </div>
             </section>
@@ -179,7 +182,7 @@ image: /images/YCKLogo.svg
                     <div class="yck-flexitem">
                         <figure>
                             <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec2.jpg">
-                            <figcaption>ViA in action with the Sec 1s</figcaption>
+                            <figcaption class="small">ViA in action with the Sec 1s</figcaption>
                         </figure>
                     </div>
                     <div class="yck-flexitem">
@@ -195,7 +198,7 @@ image: /images/YCKLogo.svg
                     <div class="yck-flexitem">
                         <figure>
                             <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182">
-                            <figcaption>A row of colorful shophouses.</figcaption>
+                            <figcaption class="small">A row of colorful shophouses.</figcaption>
                         </figure>
                     </div>
                     <div class="yck-flexitem">
@@ -206,7 +209,7 @@ image: /images/YCKLogo.svg
                     <div class="yck-flexitem">
                         <figure>
                             <img alt="placeholder image" src="https://placehold.co/400x300/cccccc/969696.png?font=lato">
-                            <figcaption>This is just a placeholder image.</figcaption>
+                            <figcaption class="small">This is just a placeholder image.</figcaption>
                         </figure>
                     </div>
                 </div>
@@ -250,10 +253,10 @@ image: /images/YCKLogo.svg
                     </div>
                     <div class="grid-item">
                         Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                            laboris nisi ut aliquip ex ea commodo consequat.
+                        laboris nisi ut aliquip ex ea commodo consequat.
                         <figure>
                             <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182">
-                            <figcaption>A Colorful Row of Shophouses</figcaption>
+                            <figcaption class="small">A Colorful Row of Shophouses</figcaption>
                         </figure>
                     </div>
                     <div class="grid-item">
@@ -278,6 +281,7 @@ image: /images/YCKLogo.svg
             </section>
             <section>
                 <h4 class="yck-h4">Heading Level Four - 3 columns</h4>
+                <div class="col-container">
                     <div class="columns3">
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipisicing
@@ -295,6 +299,8 @@ image: /images/YCKLogo.svg
                             culpa qui officia deserunt mollit anim id est laborum.
                         </p>
                     </div>
+                </div>
+                <div class="col-container">
                     <div class="columns2">
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipisicing
@@ -312,6 +318,8 @@ image: /images/YCKLogo.svg
                             culpa qui officia deserunt mollit anim id est laborum.
                         </p>
                     </div>
+                </div>
+                <div class="col-container">
                     <div class="columns3">
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipisicing
@@ -329,9 +337,11 @@ image: /images/YCKLogo.svg
                             culpa qui officia deserunt mollit anim id est laborum.
                         </p>
                     </div>
+                </div>
             </section>
             <section>
                 <h4 class="yck-h5">Heading Level Four - 2 columns</h4>
+                <div class="col-container">
                     <div class="columns2">
                         <p>
                             Duis aute irure dolor in reprehenderit in voluptate
@@ -368,6 +378,7 @@ image: /images/YCKLogo.svg
                             <li>Integer nec odio. Praesent libero.</li>
                         </ol>
                     </div>
+                </div>
             </section>
             <section>
                 <h5 class="yck-h5">Heading Level Five</h5>
@@ -512,6 +523,7 @@ image: /images/YCKLogo.svg
                         Donec ullamcorper nulla non metus auctor fringilla. Sed
                         posuere consectetur est at lobortis.
                     </p>
+                    <div class="col-container">
                         <div class="columns2">
                             <ul>
                                 <li>Item 1 ...</li>
@@ -528,6 +540,7 @@ image: /images/YCKLogo.svg
                                 non metus auctor fringilla.
                             </p>
                         </div>
+                    </div>
                 </details>
             </section>
             <div class="deadctr-container">
@@ -544,8 +557,6 @@ image: /images/YCKLogo.svg
 </div>
 
 <style>
-
-/* test-yckss.css */
 /* Global and Root Variables */
 :root {
     --font-antique: Superclarendon, Bookman Old Style, URW Bookman, URW Bookman L, Georgia Pro, Georgia, serif;
@@ -1754,5 +1765,4 @@ button.cta-button:hover::before {
     background: linear-gradient(45deg, #0164b6 0%, #04a4e3 100%);
     filter: progid:dximagetransform.Microsoft.gradient(startColorstr="#0164b6", endColorstr="#04a4e3", GradientType=1);
 }
-
 </style>
