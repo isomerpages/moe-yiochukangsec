@@ -547,8 +547,6 @@ image: /images/YCKLogo.svg
 </div>
 
 <style>
-/* Copied from ISOMER CCA Activities */
-/* Global and Root Variables */
 :root {
     --font-antique: Superclarendon, Bookman Old Style, URW Bookman, URW Bookman L, Georgia Pro, Georgia, serif;
     --font-classical-humanist: Optima, Candara, Noto Sans, source-sans-pro, sans-serif;
@@ -1214,7 +1212,7 @@ h5, .yck-h5, h6, .yck-h6) {
 .yck-component .autofit-grid {
     display: grid;
     gap: var(--yck-spacing-unit);
-    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
 }
 .yck-component .grid-item {
     display: flex;
@@ -1359,11 +1357,11 @@ h5, .yck-h5, h6, .yck-h6) {
     box-shadow: var(--yck-insetopp-shadow);
 }
 .yck-component details summary:hover {
-    background-color: rgba(255, 233, 193, .5);
+    background-color: rgba(255, 233, 193, .4);
     box-shadow: var(--yck-insetopp-shadow);
 }
 .yck-component details[open]:hover {
-    background-color: rgba(255, 233, 193, .1);
+    background-color: rgba(255, 233, 193, .3);
     box-shadow: var(--yck-inset-shadow);
 }
 .yck-component details summary::marker {
