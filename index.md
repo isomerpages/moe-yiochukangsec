@@ -44,16 +44,6 @@ sections:
       button: Limited Spots! Book Now!
       url: https://go.gov.sg/guidedtourforyiochukangsecsch
   - infopic:
-      title: Concert for Hope
-      subtitle: Celebrating Home, Heart & Hope
-      id: infopic
-      description: Experience a heartfelt evening of music and dance with our
-        Performing Art Groups. Let the Home, Heart, and Hope inspire us all!
-      button: Join Us ...
-      url: https://www.yiochukangsec.moe.edu.sg/our-story/our-60th-anniversary/concert-for-hope/
-      image: /images/60th Anniversary/Concert_for_Hope.jpg
-      alt: Celebrating Home, Heart & Hope
-  - infopic:
       title: Alumni Reunion Invitation
       subtitle: Connecting Home, Heart & Hope
       id: infopic
@@ -64,13 +54,26 @@ sections:
       image: /images/Our Family/Alumni/alumni_reunion_invite_2026_sm.png
       alt: Image alt text
   - infopic:
-      title: 60th Anniversary Celebration
+      title: 60th Anniversary Celebrations
       subtitle: YIO CHU KANG SECONDARY SCHOOL
       id: infopic
-      button: Come and join us
+      button: Connect, Explore, Experience
       url: https://www.yiochukangsec.moe.edu.sg/our-story/our-60th-anniversary/60th-anniversary-celebrations/
       image: /images/60th_Anniversary_Celebration.gif
       alt: 60th Celebration GIF
+      description: We celebrated our Home; with Heart, Bearing Hope (2025). Now, 2026
+        is for honoring our bonds, opening new paths, and discovering the heart
+        of our school.
+  - infopic:
+      title: Concert for Hope
+      subtitle: Celebrating Home, Heart & Hope
+      id: infopic
+      description: Experience a heartfelt evening of music and dance with our
+        Performing Art Groups. Let the Home, Heart, and Hope inspire us all!
+      button: Join Us ...
+      url: https://www.yiochukangsec.moe.edu.sg/our-story/our-60th-anniversary/concert-for-hope/
+      image: /images/60th Anniversary/Concert_for_Hope.jpg
+      alt: Celebrating Home, Heart & Hope
   - infopic:
       title: 60th Anniversary Dinner
       subtitle: You don’t want to miss this!
