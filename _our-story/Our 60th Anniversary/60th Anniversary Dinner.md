@@ -804,7 +804,6 @@ h5, .yck-h5, h6, .yck-h6) {
 }
 /* --- LAyouts - Video Containers --- */
 .yck-component .video-container {
-    position: relative;
     aspect-ratio: var(--ratio-widescreen);
     width: 100%;
     margin-bottom: var(--yck-space-s-xl);
@@ -813,9 +812,6 @@ h5, .yck-h5, h6, .yck-h6) {
 .yck-component .video-container iframe,
 .yck-component .video-container object,
 .yck-component .video-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
     width: 100%;
     height: 100%;
 }
