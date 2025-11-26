@@ -1146,8 +1146,8 @@ button.cta-button:hover::before {
 /* Utilities */
 .yck-component .nolist-style {
     list-style: none;
-    margin: 0 auto;
-    padding: 0;
+    margin: 1.25em
+    padding: 1em;
 }
 .yck-component .mk-shadow {
     box-shadow: var(--yck-box-shadow1);
