@@ -804,14 +804,15 @@ h5, .yck-h5, h6, .yck-h6) {
 }
 /* --- LAyouts - Video Containers --- */
 .yck-component .video-container {
-    aspect-ratio: var(--ratio-widescreen);
+    aspect-ratio: var(--ratio-widescreen) !important;
     width: 100%;
     margin-bottom: var(--yck-space-s-xl);
 }
 .yck-component .video-container iframe,
 .yck-component .video-container object,
 .yck-component .video-container embed {
-    aspect-ratio: var(--ratio-widescreen);
+    aspect-ratio: var(--ratio-widescreen) !important;
+	  display: block;
     width: 100%;
     height: 100%;
 }
