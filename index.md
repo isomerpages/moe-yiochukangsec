@@ -53,49 +53,6 @@ sections:
       url: https://www.yiochukangsec.moe.edu.sg/our-family/our-alumni/index.html#reunion
       image: /images/Our Family/Alumni/alumni_reunion_invite_2026_sm.png
       alt: Image alt text
-  - infopic:
-      title: 60th Anniversary Celebrations
-      subtitle: YIO CHU KANG SECONDARY SCHOOL
-      id: infopic
-      button: Connect, Explore, Experience
-      url: https://www.yiochukangsec.moe.edu.sg/our-story/our-60th-anniversary/60th-anniversary-celebrations/
-      image: /images/60th_Anniversary_Celebration.gif
-      alt: 60th Celebration GIF
-      description: We celebrated our Home; with Heart, Bearing Hope (2025). Now, 2026
-        is for honoring our bonds, opening new paths, and discovering the heart
-        of our school.
-  - infopic:
-      title: Concert for Hope
-      subtitle: Celebrating Home, Heart & Hope
-      id: infopic
-      description: Experience a heartfelt evening of music and dance with our
-        Performing Art Groups. Let the Home, Heart, and Hope inspire us all!
-      button: Join Us ...
-      url: https://www.yiochukangsec.moe.edu.sg/our-story/our-60th-anniversary/concert-for-hope/
-      image: /images/60th Anniversary/Concert_for_Hope.jpg
-      alt: Celebrating Home, Heart & Hope
-  - infopic:
-      title: 60th Anniversary Dinner
-      subtitle: You don’t want to miss this!
-      id: infopic
-      description: Let’s reconnect with old friends, relive cherished moments, and
-        honour those who shaped our journey at the dinner. Don’t miss the fun!
-        Reserve your seat today!
-      button: Come have dinner with us on 4 July!
-      url: https://www.yiochukangsec.moe.edu.sg/our-story/our-60th-anniversary/60th-anniversary-dinner/
-      image: /images/60th_Anniversary_Dinner.gif
-      alt: 60th Anniversary Dinner GIF
-  - infopic:
-      title: (✔️) Homecoming Carnival
-      subtitle: Don’t miss this milestone
-      id: infopic
-      description: Come celebrate 60 amazing years with us at YCKSS! Bring your family
-        and friends for a day of fun, games, and heartwarming memories at our
-        Homecoming Carnival.
-      button: let’s make it unforgettable!
-      url: https://www.yiochukangsec.moe.edu.sg/our-story/our-60th-anniversary/homecoming-carnival/
-      image: /images/60th Anniversary/Homecoming_Carnival_EDM.png
-      alt: The Homecoming Carnival
   - textcards:
       title: Our 60th Anniversary Celebrations
       subtitle: Our Home, Our Heart, Our Hope
