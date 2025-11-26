@@ -806,6 +806,7 @@ h5, .yck-h5, h6, .yck-h6) {
 .yck-component .video-container {
     aspect-ratio: var(--ratio-widescreen) !important;
     width: 100%;
+	 height: auto;
     margin-bottom: var(--yck-space-s-xl);
 }
 .yck-component .video-container iframe,
