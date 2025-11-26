@@ -17,7 +17,7 @@ image: /images/YCKLogo.svg
                     <li>To foster continued relationships between Chong Boon Secondary School and Yio Chu Kang Secondary School alumni and the school; and </li>
                     <li>To support alumni in social and professional networking. </li>
                 </ol>
-                <p><span class="hvr-backward">Drop us an <a class="text-link" href="mailto:yckss@moe.edu.sg?subject=Interest%20in%20Alumni%20involvement.">email at yckss@moe.edu.sg</a></span> if <i>you have any enquiries and will like to find out more from the school</i> or simply ... <span class="hvr-forward yck-h5"><a class="text-link hvr-pulse" href="https://tinyurl.com/YCKalumniform">Sign up now! 😀</a></span></p>
+                <p><span class="hvr-backward">Drop us an <a class="text-link" href="mailto:yckss@moe.edu.sg?subject=Interest%20in%20Alumni%20involvement.">email at yckss@moe.edu.sg</a></span> if <i>you have any enquiries and will like to find out more from the school</i> or simply ... <span class="hvr-forward yck-h5"><a class="hvr-pulse" href="https://tinyurl.com/YCKalumniform"><button class="cta-button">Sign up now! 😀</button></a></span></p>
             </div></section>
             <section>
                 <details open="" name="alumni" id="reunion">
