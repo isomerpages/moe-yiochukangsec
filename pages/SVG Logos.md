@@ -5,6 +5,9 @@ description: ""
 variant: markdown
 image: /images/YCKLogo.svg
 ---
+<div class="yck-component">
+
+
 <details>
 	<summary>YCKSS Logo and Text in SVG</summary>
 <div class="yck-component">	
@@ -3027,4 +3030,4 @@ button.cta-button:hover::before {
                animate-svg-fill-2 0.7s cubic-bezier(0.6, 0.04, 0.98, 0.335) 0.8s both;
 }
 
-</style>
+</style></div>
