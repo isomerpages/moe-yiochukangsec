@@ -804,16 +804,20 @@ h5, .yck-h5, h6, .yck-h6) {
 }
 /* --- LAyouts - Video Containers --- */
 .yck-component .video-container {
-    aspect-ratio: var(--ratio-widescreen) !important;
+    position: relative;
     width: 100%;
-	 height: auto;
-    margin-bottom: var(--yck-space-s-xl);
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    margin-bottom: var(--yck-spacing-unit);
 }
+
 .yck-component .video-container iframe,
 .yck-component .video-container object,
 .yck-component .video-container embed {
-    aspect-ratio: var(--ratio-widescreen) !important;
-	  display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 100%;
     height: 100%;
 }
