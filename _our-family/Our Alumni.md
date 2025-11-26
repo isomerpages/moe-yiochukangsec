@@ -9,14 +9,16 @@ image: /images/YCKLogo.svg
     <div class="regular-flow">
         <article>
             <section>
+							<h2>Connecting Home, Heart and Hope</h2>
                 <p>Yio Chu Kang Secondary school values the relationship with our alumni and would like to continuously add value to this ongoing relationship. The School encourages you to stay connected with us.</p>
                 <p>The goals of Alumni are as follows:</p>
+							<div class="columns2">
                 <ol>
                     <li>To foster continued relationships between Chong Boon Secondary School and Yio Chu Kang Secondary School alumni and the school; and </li>
                     <li>To support alumni in social and professional networking. </li>
                 </ol>
                 <p><span class="hvr-backward">Drop us an <a class="text-link" href="mailto:yckss@moe.edu.sg?subject=Interest%20in%20Alumni%20involvement.">email at yckss@moe.edu.sg</a></span> if <i>you have any enquiries and will like to find out more from the school</i> or simply ... <span class="hvr-forward yck-h5"><a class="text-link hvr-pulse" href="https://tinyurl.com/YCKalumniform">Sign up now! 😀</a></span></p>
-            </section>
+            </div></section>
             <section>
                 <details open="" name="alumni" id="reunion">
                     <summary>Alumni Reunion Invitation</summary>
