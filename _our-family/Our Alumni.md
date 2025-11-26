@@ -28,7 +28,7 @@ image: /images/YCKLogo.svg
                 </details>
                 <details name="alumni">
                     <summary>Alumni Engagement Session 2020</summary>
-                    <p>(ECG) to equip our students with the necessary knowledge, skills and values to make important life choices at each key education stage for the successful transition from school to further education or work, the school invited our alumni to share their life experiences in secondary and post-sec institutions.</p>
+                    <p>ECG equip our students with the necessary knowledge, skills and values to make important life choices at each key education stage for the successful transition from school to further education or work.</p> <p>During this session, the school invited our alumni to share their life experiences in secondary and post-sec institutions.</p>
                     <table class="yck-table">
                         <thead>
                             <tr>
