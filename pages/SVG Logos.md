@@ -5,9 +5,16 @@ description: ""
 variant: markdown
 image: /images/YCKLogo.svg
 ---
+<div class="yck-component">
+
+
+<details>
+	<summary>YCKSS Logo and Text in SVG</summary>
 <div class="yck-component">	
+	<div class="regular-flow">
+		<article>
+			<section>
 			<h4>YCKSS Logo with School Name</h4>
-			<div class="bqcontainer">
         <svg version="1.0" preserveAspectRatio="xMidYMid meet" height="225" viewBox="0 0 960 225" zoomAndPan="magnify" width="100%" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
             <defs>
                 <g></g>
@@ -219,61 +226,1089 @@ image: /images/YCKLogo.svg
             </g>
             <path class="svg-elem-33" stroke-miterlimit="4" stroke-opacity="1" stroke-width="2.458234" stroke="#000000" d="M 39.021201 159.001077 L 39.021201 116.06204 L 1.424107 49.192377 L 28.152894 49.192377 L 51.771907 92.939064 L 52.083521 92.939064 L 74.742257 49.192377 L 100.669752 49.192377 L 63.066298 115.903054 L 63.066298 159.001077 Z M 109.967275 159.001077 L 109.967275 139.948151 L 124.104342 139.948151 L 124.104342 68.238943 L 109.967275 68.238943 L 109.967275 49.192377 L 162.203834 49.192377 L 162.203834 68.238943 L 148.034969 68.238943 L 148.034969 139.948151 L 162.203834 139.948151 L 162.203834 159.001077 Z M 226.205383 160.883475 C 218.987402 160.883475 212.379929 159.681538 206.389323 157.271305 C 200.424155 154.867431 195.342951 151.280699 191.139351 146.517468 C 186.942111 141.728799 183.69243 135.801787 181.383948 128.736433 C 179.081826 121.639282 177.930764 113.422867 177.930764 104.074469 C 177.930764 94.757868 179.081826 86.560531 181.383948 79.495178 C 183.69243 72.404386 186.942111 66.477374 191.139351 61.714143 C 195.342951 56.925474 200.424155 53.326023 206.389323 50.922149 C 212.379929 48.511916 218.987402 47.309979 226.205383 47.309979 C 233.455161 47.309979 240.062634 48.511916 246.027802 50.922149 C 252.018408 53.326023 257.112331 56.925474 261.309571 61.714143 C 265.513171 66.477374 268.762852 72.404386 271.071334 79.495178 C 273.373456 86.560531 274.524518 94.757868 274.524518 104.074469 C 274.524518 113.422867 273.373456 121.639282 271.071334 128.736433 C 268.762852 135.801787 265.513171 141.728799 261.309571 146.517468 C 257.112331 151.280699 252.018408 154.867431 246.027802 157.271305 C 240.062634 159.681538 233.455161 160.883475 226.205383 160.883475 Z M 226.205383 139.642898 C 233.455161 139.642898 239.089638 137.28354 243.108813 132.577544 C 247.153426 127.865188 249.175732 121.092369 249.175732 112.259087 L 249.175732 95.934367 C 249.175732 87.101085 247.153426 80.328266 243.108813 75.61591 C 239.089638 70.903555 233.455161 68.550556 226.205383 68.550556 C 218.987402 68.550556 213.352926 70.903555 209.308312 75.61591 C 205.263699 80.328266 203.241393 87.101085 203.241393 95.934367 L 203.241393 112.259087 C 203.241393 121.092369 205.263699 127.865188 209.308312 132.577544 C 213.352926 137.28354 218.987402 139.642898 226.205383 139.642898 Z M 375.964175 160.883475 C 368.536332 160.883475 361.827108 159.706976 355.836502 157.347619 C 349.871334 154.994621 344.78377 151.484202 340.58653 146.822722 C 336.38929 142.135804 333.13325 136.310543 330.831127 129.346941 C 328.529005 122.383338 327.377943 114.230518 327.377943 104.88212 C 327.377943 95.66727 328.529005 87.457214 330.831127 80.264672 C 333.13325 73.065769 336.38929 67.037006 340.58653 62.172024 C 344.78377 57.281603 349.871334 53.580401 355.836502 51.074776 C 361.827108 48.562791 368.536332 47.309979 375.964175 47.309979 C 386.152021 47.309979 394.552861 49.383161 401.160334 53.529525 C 407.761447 57.650452 413.065232 64.181611 417.05897 73.116645 L 396.435259 83.794169 C 394.972585 79.189924 392.6959 75.50144 389.598846 72.735077 C 386.495432 69.943277 381.954781 68.550556 375.964175 68.550556 C 368.943338 68.550556 363.31522 70.827241 359.060745 75.38697 C 354.81263 79.940339 352.688572 86.57325 352.688572 95.279343 L 352.688572 112.907751 C 352.688572 121.613844 354.81263 128.246755 359.060745 132.806484 C 363.31522 137.366213 368.943338 139.642898 375.964175 139.642898 C 381.85303 139.642898 386.546307 138.040315 390.056726 134.841509 C 393.567145 131.642704 396.161802 127.788874 397.853417 123.280021 L 417.364224 134.612569 C 413.268735 143.007049 407.888636 149.487333 401.236647 154.047062 C 394.578298 158.600431 386.152021 160.883475 375.964175 160.883475 Z M 499.801831 114.027015 L 457.937543 114.027015 L 457.937543 159.001077 L 434.013275 159.001077 L 434.013275 49.192377 L 457.937543 49.192377 L 457.937543 92.939064 L 499.801831 92.939064 L 499.801831 49.192377 L 523.694302 49.192377 L 523.694302 159.001077 L 499.801831 159.001077 Z M 570.563481 49.192377 L 570.563481 116.519921 C 570.563481 124.278456 572.08975 130.078278 575.135928 133.919389 C 578.182107 137.735061 583.263311 139.642898 590.3859 139.642898 C 597.527568 139.642898 602.608772 137.735061 605.629512 133.919389 C 608.682051 130.078278 610.20196 124.278456 610.20196 116.519921 L 610.20196 49.192377 L 633.51572 49.192377 L 633.51572 114.027015 C 633.51572 122.090803 632.746226 129.092563 631.213598 135.032293 C 629.700047 140.946586 627.207141 145.824287 623.72216 149.665398 C 620.262617 153.48107 615.810999 156.311028 610.354587 158.155269 C 604.929972 159.974073 598.271624 160.883475 590.3859 160.883475 C 582.525615 160.883475 575.867266 159.974073 570.410854 158.155269 C 564.960801 156.311028 560.502824 153.48107 557.043281 149.665398 C 553.590097 145.824287 551.090831 140.946586 549.558203 135.032293 C 548.044653 129.092563 547.287878 122.090803 547.287878 114.027015 L 547.287878 49.192377 Z M 732.462472 111.184339 L 718.134621 128.462977 L 718.134621 159.001077 L 694.203994 159.001077 L 694.203994 49.192377 L 718.134621 49.192377 L 718.134621 101.428936 L 719.094898 101.428936 L 734.650124 80.188358 L 759.343885 49.192377 L 786.422442 49.192377 L 749.435855 94.357223 L 789.729359 159.001077 L 761.537897 159.001077 Z M 871.372035 159.001077 L 863.49903 132.882797 L 826.855854 132.882797 L 818.982849 159.001077 L 794.746968 159.001077 L 830.925904 49.192377 L 860.497368 49.192377 L 896.218423 159.001077 Z M 845.406382 70.890836 L 844.598731 70.890836 L 832.503049 112.602497 L 857.661051 112.602497 Z M 944.98272 107.069772 L 934.419666 85.06606 L 933.961785 85.06606 L 933.961785 159.001077 L 911.455676 159.001077 L 911.455676 49.192377 L 937.573955 49.192377 L 967.647815 101.117323 L 978.166353 123.127394 L 978.630593 123.127394 L 978.630593 49.192377 L 1001.136702 49.192377 L 1001.136702 159.001077 L 975.018423 159.001077 Z M 1095.059485 141.525296 L 1094.251834 141.525296 C 1093.431464 147.083459 1090.601507 151.700423 1085.761962 155.388907 C 1080.947855 159.051952 1074.397617 160.883475 1066.098529 160.883475 C 1059.802669 160.883475 1053.926533 159.681538 1048.470122 157.271305 C 1043.039147 154.867431 1038.275916 151.306137 1034.180427 146.593781 C 1030.084939 141.855988 1026.886133 135.979852 1024.577651 128.965374 C 1022.275529 121.925457 1021.124468 113.791715 1021.124468 104.576866 C 1021.124468 95.330219 1022.326404 87.151961 1024.730278 80.035731 C 1027.140511 72.887704 1030.517382 66.909817 1034.873608 62.09571 C 1039.223475 57.256165 1044.438227 53.580401 1050.505147 51.074776 C 1056.597504 48.562791 1063.370323 47.309979 1070.823604 47.309979 C 1080.680758 47.309979 1089.17063 49.434036 1096.286859 53.682152 C 1103.428527 57.936627 1109.050284 64.296081 1113.145773 72.773234 L 1093.634967 83.953155 C 1091.975149 79.647804 1089.348695 76.010197 1085.761962 73.040331 C 1082.207027 70.045028 1077.221215 68.550556 1070.823604 68.550556 C 1063.370323 68.550556 1057.443312 70.700052 1053.042569 74.999043 C 1048.635467 79.304394 1046.435096 86.064494 1046.435096 95.279343 L 1046.435096 112.907751 C 1046.435096 122.027209 1048.635467 128.761871 1053.042569 133.111738 C 1057.443312 137.467964 1063.370323 139.642898 1070.823604 139.642898 C 1073.768031 139.642898 1076.547113 139.312206 1079.154489 138.644463 C 1081.793663 137.951283 1084.102145 136.901973 1086.073576 135.496533 C 1088.070444 134.059297 1089.615792 132.354963 1090.715977 130.383532 C 1091.822522 128.386663 1092.369435 126.020946 1092.369435 123.280021 L 1092.369435 117.785453 L 1071.936508 117.785453 L 1071.936508 97.816766 L 1115.187158 97.816766 L 1115.187158 159.001077 L 1095.059485 159.001077 Z M 1095.059485 141.525296" stroke-linejoin="miter" fill="none" transform="matrix(0.614243, 0, 0, 0.614243, 250.347909, 21.045648)" stroke-linecap="butt"></path>
         </svg>
-	</div>
-
-<div class="bqcontainer">
+			</section>
+			<section>
 		<h4 class="yck-h4">YCKSS Logo</h4>
+				<div class="deadctr-container">
 		<svg height="200" width="200" viewBox="0 0 320 320" xmlns="http://www.w3.org/2000/svg"><path class="svg-elem-1" d="M141.5 1.627c-38.103 5.732-67.723 20.123-93 45.183-73.581 72.95-58.562 195.228 30.5 248.31 80.255 47.833 186.074 15.091 224.996-69.617 25.499-55.495 15.905-125.478-23.169-169.003-2.469-2.75-5.353-6.053-6.408-7.339-11.057-13.478-42.119-32.952-64.846-40.654-16.797-5.692-52.192-9.269-68.073-6.88m7 7.995c-47.736 5.069-88.128 28.541-112.709 65.496-59.755 89.835-10.585 208.656 95.605 231.033 14.488 3.053 42.72 3.053 57.208 0 130.858-27.576 165.402-195.486 55.724-270.863C217.733 17.011 178.324 6.456 148.5 9.622m-6 11.881c-22.038 4.165-41.817 16.775-57.572 36.708l-3.848 4.867 4.519 7.643c18.005 30.455 42.885 45.619 74.901 45.651 32.294.033 56.791-16.779 72.67-49.871l4.141-8.629-5.906-6.031c-18.582-18.98-37.882-28.502-63.502-31.329l-5.596-.618-.654 9.207c-.359 5.063-.66 17.125-.668 26.803-.02 22.499-1.467 25.226-2.34 4.406-.364-8.695-.949-21.323-1.3-28.06L156.708 20l-3.604.09c-1.982.05-6.754.686-10.604 1.413m84 83.975c-44.127 31.67-89.27 32.025-135.523 1.067-4.564-3.056-8.381-5.441-8.48-5.3-2.938 4.149-9.708 19.135-8.792 19.462 9.938 3.544 41.372 26.251 54.319 39.239 17.932 17.988 24.913 40.31 24.958 79.804L153 256h20.854l-.568-12.777c-1.009-22.7 2.715-49.422 9.069-65.058 4.879-12.008 17.505-27.296 33.151-40.142 6.795-5.579 29.562-21.546 31.773-22.283 1.027-.342-9.961-16.751-11.204-16.731-.316.005-4.625 2.916-9.575 6.469m32.211 30.063c-38.363 6.058-66.834 33.441-71.786 69.043-2.613 18.786 3.537 40.163 17.296 60.122 6.795 9.856 6.49 9.683 13.724 7.808 24.475-6.342 48.373-23.49 59.431-42.643l2.672-4.629-23.774-13.29c-34.151-19.091-33.823-19.342 2.654-2.03 17.529 8.319 23.635 10.799 24.246 9.848.449-.698 1.756-3.745 2.904-6.77 8.603-22.675 7.639-46.551-2.903-71.941l-2.724-6.559-6.476-.173c-3.561-.096-10.43.451-15.264 1.214m-216.578 5.892c-11.453 25.891-12.797 51.28-3.907 73.817 1.681 4.262 3.472 7.75 3.979 7.75.987 0 4.418-1.548 23.295-10.51 24.266-11.52 26.706-12.617 27.127-12.197.236.237-2.621 2.07-6.349 4.075C82.55 206.373 74.775 210.707 69 214c-5.775 3.293-13.538 7.621-17.25 9.617-7.87 4.233-7.87 4.234-3.082 11.396 8.885 13.291 21.775 24.562 36.153 31.612 9.641 4.728 22.838 9.375 26.622 9.375 4.696 0 17.843-21.187 23.269-37.5 3.809-11.447 4.003-32.442.398-43-11.956-35.021-40.912-56.152-79.75-58.199l-11.14-.587-2.087 4.719" stroke="#ef562d" fill-rule="evenodd" fill="#ef562d"></path><path class="svg-elem-2" d="M146 1.639c-1.375.202-5.875.85-10 1.44C74.501 11.873 22.194 59.024 7.001 119.364-22.719 237.394 83.148 341.963 201.5 311.48c47.887-12.334 89.058-49.977 106.894-97.736 12.003-32.141 12.69-69.897 1.897-104.244-15.469-49.224-59.939-90.655-111.07-103.481C182.902 1.926 158.006-.123 146 1.639m-9.382 9.006C76.747 19.299 28.384 64.782 12.894 127c-3.209 12.89-3.523 48.631-.54 61.5 17.294 74.607 78.177 122.586 152.522 120.196 70.472-2.266 126.335-49.296 142.77-120.196 3.152-13.601 2.691-48.675-.823-62.51C286.86 47.379 215.772-.796 136.618 10.645m94.882 91.7c-5.649 4.669-20.567 13.567-30 17.894-35.487 16.278-71.525 12.082-109.789-12.783-4.834-3.141-8.922-5.541-9.085-5.334-.163.208-2.397 4.274-4.963 9.035l-4.667 8.657 6.752 3.709c27.986 15.371 54.784 38.916 62.623 55.024 7.334 15.069 10.942 35.2 11.059 61.703l.07 15.75 10-.002 10-.001.019-22.248c.041-48.343 9.151-69.124 42.34-96.583 6.429-5.319 21.503-15.776 28.385-19.69l3.744-2.129-5.744-8.157c-6.675-9.478-5.681-9.03-10.744-4.845" stroke-width="3" stroke="#0a532c" fill-rule="evenodd" fill="#0a532c"></path></svg>
 	</div>
-</div>
+			</section>
+		</article>
+	</div>
+	</div>
+</details>
 
 <style>
 :root {
-    --yck-text-line-height: 1.6em;
+    --font-antique: Superclarendon, Bookman Old Style, URW Bookman, URW Bookman L, Georgia Pro, Georgia, serif;
+    --font-classical-humanist: Optima, Candara, Noto Sans, source-sans-pro, sans-serif;
+    --font-didone: Didot, Bodoni MT, Noto Serif Display, URW Palladio L, P052, Sylfaen, serif;
+    --font-geometric-humanist: Avenir, Montserrat, Corbel, URW Gothic, source-sans-pro, sans-serif;
+    --font-handwritten: Segoe Print, Bradley Hand, Chilanka, TSCu_Comic, casual, cursive;
+    --font-humanist: Seravek, Gill Sans Nova, Ubuntu, Calibri, DejaVu Sans, source-sans-pro, sans-serif;
+    --font-industrial: Bahnschrift, DIN Alternate, Franklin Gothic Medium, Nimbus Sans Narrow, sans-serif-condensed, sans-serif;
+    --font-monospace-code: Dank Mono, Operator Mono, Inconsolata, Fira Mono, ui-monospace, SF Mono, Monaco, Droid Sans Mono, Source Code Pro, Cascadia Code, Menlo, Consolas, DejaVu Sans Mono, monospace;
+    --font-monospace-slab-serif: Nimbus Mono PS, Courier New, monospace;
+    --font-neo-grotesque: Inter, Roboto, Helvetica Neue, Arial Nova, Nimbus Sans, Arial, sans-serif;
+    --font-old-style: Iowan Old Style, Palatino Linotype, URW Palladio L, P052, serif;
+    --font-rounded-sans: ui-rounded, Hiragino Maru Gothic ProN, Quicksand, Comfortaa, Manjari, Arial Rounded MT, Arial Rounded MT Bold, Calibri, source-sans-pro, sans-serif;
+    --font-slab-serif: Rockwell, Rockwell Nova, Roboto Slab, DejaVu Serif, Sitka Small, serif;
+    --font-system-ui: system-ui, sans-serif;
+    --font-transitional: Charter, Bitstream Charter, Sitka Text, Cambria, serif;
+    /* Neutral */
+    --neutral-100: #fcfcfa;
+    --neutral-200: #eae8e4;
+    --neutral-300: #d7d3ce;
+    --neutral-400: #c5bfb9;
+    --neutral-500: #b3aba4;
+    --neutral-600: #8f8883;
+    --neutral-700: #6c6663;
+    --neutral-800: #494442;
+    --neutral-900: #262322;
+    /* Accent: Algal Fuel */
+    --yck-green100: #f2fffb;
+    --yck-green200: #bcfee6;
+    --yck-green300: #83f8c7;
+    --yck-green400: #4ae79d;
+    --yck-green500: #16c768;
+    --yck-green600: #079f45;
+    --yck-green700: #02772b;
+    --yck-green800: #004e17;
+    --yck-green900: #002609;
+    /* Primary: Chaat Masala */
+    --yck-orange100: #fffbf2;
+    --yck-orange200: #ffe9c1;
+    --yck-orange300: #fbce8f;
+    --yck-orange400: #f3ac5c;
+    --yck-orange500: #e3812b;
+    --yck-orange600: #b4520e;
+    --yck-orange700: #853003;
+    --yck-orange800: #551900;
+    --yck-orange900: #260900;
+    /* Fluid Typography & Spacing */
+    /* @link https://utopia.fyi/type/calculator?c=320,12,1.2,1400,20,1.25,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
+    --yck-step--1: clamp(.625rem, .5139rem + .5556vw, 1rem);
+    --yck-step--2: clamp(.5208rem, .4381rem + .4136vw, .8rem);
+    --yck-step-0: clamp(.75rem, .6019rem + .7407vw, 1.25rem);
+    --yck-step-1: clamp(.9rem, .7037rem + .9815vw, 1.5625rem);
+    --yck-step-2: clamp(1.08rem, .8213rem + 1.2935vw, 1.9531rem);
+    --yck-step-3: clamp(1.296rem, .9566rem + 1.6969vw, 2.4414rem);
+    --yck-step-4: clamp(1.5552rem, 1.1118rem + 2.2171vw, 3.0518rem);
+    --yck-step-5: clamp(1.8662rem, 1.2889rem + 2.8866vw, 3.8147rem);
+    /* Fluid spacing */
+    --yck-space-s-xl: clamp(1rem, -.239rem + 4.32vw, 3rem);
+    --yck-orange-shadow: 0 2px 4px rgba(255, 233, 193, 1);
+    --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, .25);
+    --yck-box-shadow1: 0 1px 2px rgba(0, 0, 0, .15);
+    --yck-inset-shadow: rgba(251, 206, 143, 1) 0 30px 60px -12px inset, rgba(255, 233, 193, .1) 0 18px 36px -18px inset;
+    --yck-insetopp-shadow: rgba(255, 233, 193, .1) 0 30px 60px -12px inset, rgba(251, 206, 143, 1) 0 18px 36px -18px inset;
+    --yck-inset-shadow1: rgba(50, 50, 93, .25) 0 30px 60px -12px inset, rgba(0, 0, 0, .5) 0 18px 36px -18px inset;
+    --yck-inset-shadow2: rgb(204, 219, 232) 3px 3px 6px 0 inset, rgba(255, 255, 255, .5) -3px -3px 6px 1px inset;
+    --yck-rounded-corners: 10px;
+    --yck-heading-letter-spacing: -.02em;
     --yck-heading-line-height: 1.2em;
-    --yck-heading-letter-spacing: -0.02em;
-    --yck-spacing-unit: 1em;
-    --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
-    --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
-
-    --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
-    --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
-    --yck-step-0: clamp(1.125rem, 1.125rem + 0vw, 1.125rem);
-    --yck-step-1: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem);
-    --yck-step-2: clamp(1.4238rem, 1.3556rem + 0.3412vw, 1.62rem);
-    --yck-step-3: clamp(1.6018rem, 1.4828rem + 0.5951vw, 1.944rem);
-    --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
-    --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
-
-    --yck-space-s-xl: clamp(0.75rem, 0.2143rem + 3.9286vw, 3.75rem);
+    --yck-text-line-height: 1.6em;
+    --yck-transition-timing: cubic-bezier(.4, 0, .2, 1);
+    --yck-spacing-unit: 1rem;
     interpolate-size: allow-keywords;
+    scroll-behavior: smooth;
+    text-rendering: optimizeSpeed;
 }
-	
-
-
+:where(html) {
+    --ratio-golden: 1.6180/1;
+    --ratio-landscape: 4/3;
+    --ratio-portrait: 3/4;
+    --ratio-square: 1;
+    --ratio-ultrawide: 18/5;
+    --ratio-widescreen: 16/9;
+}
+/* Box Sizing */
+*,
+*::before,
+*::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html {
+    font-size: 100%;
+}
+a {
+    color: inherit;
+}
+button,
+a.button {
+    padding: 0;
+    font-family: inherit;
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+    @media screen and (-ms-high-contrast: active) {
+        border: 2px solid currentcolor;
+    }
+}
+ol,
+ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+/* Images */
+img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+    vertical-align: middle;
+}
+html,
+body,
+p,
+ol,
+ul,
+li,
+dl,
+dt,
+dd,
+blockquote,
+figure,
+fieldset,
+legend,
+textarea,
+pre,
+iframe,
+hr,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+article,
+section,
+main,
+header,
+footer,
+nav {
+    padding: 0;
+    margin: 0;
+}
+body {
+    min-height: 100dvh;
+    font-family: inherit;
+    line-height: var(--yck-text-line-height);
+    word-break: break-word;
+    overflow-wrap: break-word;
+    background-color: inherit;
+}
+::selection {
+    background: rgba(255, 255, 0, .35);
+}
+/* Component Wrappers - div, article, main, section */
 .yck-component {
+    width: 100%;
+    max-width: 1000px;
+}
+.yck-component * {
+    padding: 0;
+    margin: 0;
+    font-size: var(--yck-step-0);
+}
+.yck-component article {
+    width: 100%;
+    margin-block: 1em;
+}
+.yck-component section {
+    width: 100%;
+    margin-block: var(--yck-space-s-xl);
+}
+.yck-component .regular-flow>*+* {
+    margin-top: 1.125em;
+}
+/* Typography */
+.yck-component div,
+.yck-component p,
+.yck-component li {
+    padding: 0;
+    margin: 0;
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
+    text-wrap: pretty;
+}
+/* Headings */
+.yck-component :is(h1, .yck-h1, h2, .yck-h2, h3, .yck-h3, h4, .yck-h4,
+h5, .yck-h5, h6, .yck-h6, p) {
+    overflow-wrap: break-word;
+}
+.yck-component :is(heading, nav, h1, .yck-h1, h2, .yck-h2, h3, .yck-h3, h4, .yck-h4,
+h5, .yck-h5, h6, .yck-h6) {
+    text-wrap: balance;
+}
+.yck-component h1,
+.yck-component .yck-h1 {
+    font-size: var(--yck-step-5);
+    font-weight: 800;
+    line-height: var(--yck-heading-line-height);
+}
+.yck-component h2,
+.yck-component .yck-h2 {
+    font-size: var(--yck-step-4);
+    font-weight: 700;
+    line-height: var(--yck-heading-line-height);
+}
+.yck-component h3,
+.yck-component .yck-h3 {
+    font-size: var(--yck-step-3);
+    font-weight: 600;
+    line-height: var(--yck-heading-line-height);
+}
+.yck-component h4,
+.yck-component .yck-h4 {
+    font-size: var(--yck-step-2);
+    font-weight: 500;
+    line-height: var(--yck-heading-line-height);
+}
+.yck-component h5,
+.yck-component .yck-h5 {
+    font-size: var(--yck-step-1);
+    font-weight: 500;
+    line-height: var(--yck-heading-line-height);
+    text-transform: uppercase;
+}
+.yck-component h6,
+.yck-component .yck-h6 {
     font-size: var(--yck-step-0);
-    margin-bottom: var(--yck-space-s-xl);
+    line-height: var(--yck-heading-line-height);
+    text-transform: uppercase;
 }
-
-/* Apply margin-bottom only when it is the last table-date in the row or contains the last paragraph */
-
-.yck-component .col-container {
+.yck-component .small,
+.yck-component .yck-small,
+.yck-component small {
+    font-size: var(--yck-step--2);
+    line-height: calc(var(--yck-text-line-height) * .75);
+}
+/* Ordered and Unordered Lists */
+.yck-component ol,
+.yck-component ul {
+    padding: 0;
+    margin-left: 1.5em;
+}
+.yck-component ul li,
+.yck-component ol li {
+    padding-left: .25em;
+    margin: 0;
+    line-height: 1.5;
+}
+.yck-component ul li:last-child,
+.yck-component ol li:last-child {
+    margin-bottom: var(--yck-step-2);
+}
+/* Removes the gap between nested lists (list within a list). */
+.yck-component li ul,
+.yck-component li ol {
+    margin-top: 0;
+}
+.yck-component li ul li:last-child,
+.yck-component li ol li:last-child {
+    margin-bottom: var(--yck-spacing-unit);
+}
+/* BLOCKQUOTES */
+.yck-component .quote {
+    margin: 1em 2em 1em 6em;
+    padding: 1.1rem;
+    border-left: 5px solid rgba(166, 50, 50, 1);
+    border-radius: var(--yck-rounded-corners);
+    border-bottom: 1px dotted rgba(166, 50, 50, .7);
+    box-shadow: var(--yck-inset-shadow1);
+}
+.yck-component .blockquote {
+    font-family: var(--font-transitional);
+    font-size: var(--yck-step-0);
+    font-weight: 400;
+    line-height: 1.5em;
+    position: relative;
+}
+.yck-component .blockquote::before {
+    font-weight: 800;
+    font-style: oblique;
+    text-shadow: var(--yck-box-shadow);
+    content: "\201C";
+    color: rgba(166, 50, 50, 1);
+    font-size: calc(var(--yck-step-5)*3.12);
+    position: absolute;
+    left: -0.85em;
+    top: 0.24em;
+}
+.yck-component cite {
+    display: block;
+    text-align: right;
+    font-weight: 500;
+    font-style: oblique;
+    margin-top: 1rem;
+    margin-right: var(--yck-space-s-xl);
+    font-size: var(--yck-step--1);
+}
+/* Abbreviations */
+.yck-component abbr {
+    font-family: var(--font-transitional);
+    font-weight: 600;
+    cursor: help;
+    transition: color .7s ease-out;
+    text-decoration: underline dotted;
+    color: var(--yck-green800);
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+}
+.yck-component abbr:hover,
+.yck-component abbr:active,
+.yck-component abbr:focus {
+    transition: color .7s ease-in;
+    color: var(--yck-green600);
+}
+/* Dropcaps First Letter */
+.yck-component .dropcap-title {
+    margin-bottom: .5em;
+    font-weight: 500;
+    font-size: var(--yck-step-1);
+    font-family: var(--font-antique), serif;
+    color: var(--yck-color-text-primary);
+}
+.yck-component .dropcap-title::first-letter {
+    float: left;
+    padding-right: .1em;
+    font-family: var(--font-antique), serif;
+    font-size: calc(var(--yck-step-5) * 1.65);
+    font-style: oblique;
+    font-weight: bold;
+    line-height: .9;
+    color: var(--yck-green700);
+}
+/* HREF links */
+.yck-component a {
+    transition: color .8s ease;
+    text-decoration: none;
+    color: var(--yck-orange600);
+}
+.yck-component a:hover,
+.yck-component a:active {
+    color: var(--yck-orange500);
+}
+.yck-component a:focus {
+    color: currentColor;
+}
+.yck-component a.text-link {
+    position: relative;
+    padding-bottom: 2px;
+    text-decoration: none;
+}
+.yck-component a.text-link::after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    content: "";
+    transition: width 1s cubic-bezier(.25, 1, .5, 1);
+    background-color: currentColor;
+}
+.yck-component a.text-link:hover::after,
+.yck-component a.text-link:active::after,
+.yck-component a.text-link:focus::after {
     width: 100%;
-    margin: 0 auto;
-
-    /* CSS Multi-column Layout properties */
-    column-count: 2;
-    column-gap: 2.5em;
 }
-	
-	.yck-component .bqcontainer {
+.yck-component a[target="_blank"]:not(.text-link):after,
+.yck-component a[target="_blank"]:not(.text-link):before,
+.yck-component a:not(.text-link):after,
+.yck-component a:not(.text-link):before {
+    display: none;
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+}
+/* --- Tables --- */
+.yck-component .yck-table,
+.yck-component table {
+    display: table;
+    border-collapse: collapse;
+    width: 100%;
+    min-width: 500px;
+    margin-top: 1.5em;
+    margin-bottom: var(--yck-space-s-xl);
+    overflow: hidden;
+    border: 1px dotted lightgrey;
+    border-radius: var(--yck-rounded-corners);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, .15);
+}
+.yck-component .yck-table .yck-th,
+.yck-component table th,
+.yck-component .yck-table .yck-td,
+.yck-component table td {
+    display: table-cell;
+    min-width: 150px;
+    padding: 1em;
+    vertical-align: top;
+}
+.yck-component .yck-table .yck-th,
+.yck-component .yck-table th {
+    background-color: #cfcfcf;
+    border-bottom: 1px dotted #ddd;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 1.3;
+    letter-spacing: .05em;
+    text-wrap: balance;
+}
+.yck-component .yck-td :is(p, li),
+.yck-component td :is(p, li) {
+    line-height: 1.4;
+    text-wrap: pretty;
+    word-wrap: break-word;
+}
+.yck-component .yck-td *,
+.yck-component .yck-td p,
+.yck-component .yck-td ul,
+.yck-component .yck-td ol {
+    margin-block: var(--yck-step--2);
+}
+.yck-component .yck-th:nth-child(1),
+.yck-component .yck-td:nth-child(1) {
+    font-weight: 700;
+}
+.yck-component .yck-td:nth-child(n + 2) {
+    text-align: left;
+}
+.yck-component .yck-td li {
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+    line-height: 1.4;
+}
+.yck-component .yck-td>*:last-child,
+.yck-component .yck-td>p:last-child,
+.yck-component .yck-td>ul:last-child,
+.yck-component .yck-td>ol:last-child {
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+}
+.yck-component .yck-td ul:last-child li:last-child,
+.yck-component .yck-td ol:last-child li:last-child {
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+}
+.yck-component .yck-table tbody tr:last-child .yck-td>*:last-child {
+    margin-bottom: var(--yck-spacing-unit);
+}
+.yck-component .yck-table tr {
+    transition: background-color 0.8s ease;
+    background-color: inherit;
+}
+.yck-component .yck-table tr:hover,
+.yck-component .yck-table tr:nth-child(even):hover {
+    background-color: #FFFBF2;
+    transition: background-color 0.8s ease;
+}
+.yck-component .yck-table tbody tr:nth-child(even) {
+    transition: background-color 0.8s ease;
+    background-color: #f3f3f3;
+}
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .yck-component .yck-th,
+    .yck-component th,
+    .yck-component .yck-td,
+    .yck-component td {
+        min-width: 7ch;
+        padding: calc(var(--yck-spacing-unit) * 0.25);
+        line-height: 1.3em;
+    }
+}
+/* Responsive Tables Style */
+.yck-component .rwd-table {
+    margin-top: 1.5em;
+    margin-bottom: var(--yck-space-s-xl);
+    min-width: 360px;
+}
+.yck-component .rwd-table tr {
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+.yck-component .rwd-table th {
+    display: none;
+}
+.yck-component .rwd-table td {
+    display: block;
+}
+.yck-component .rwd-table td:first-child {
+    padding-top: .5em;
+}
+.yck-component .rwd-table td:last-child {
+    padding-bottom: .5em;
+}
+.yck-component .rwd-table td:before {
+    content: attr(data-th) ": ";
+    font-weight: bold;
+    width: 7.5em;
+    display: inline-block;
+}
+@media (min-width: 500px) {
+    .yck-component .rwd-table td:before {
+        display: none;
+    }
+}
+.yck-component .rwd-table th,
+.yck-component .rwd-table td {
+    text-align: left;
+    min-width: 150px;
+}
+.yck-component .rwd-table th {
+    background-color: #cfcfcf;
+    color: var(--neutral-800);
+    font-size: var(--yck-step-0);
+}
+@media (min-width: 500px) {
+    .yck-component .rwd-table th,
+    .yck-component .rwd-table td {
+        display: table-cell;
+        padding: .25em .5em;
+    }
+    .yck-component .rwd-table th:first-child,
+    .yck-component .rwd-table td:first-child {
+        padding-left: 0;
+    }
+    .yck-component .rwd-table th:last-child,
+    .yck-component .rwd-table td:last-child {
+        padding-right: 0;
+    }
+    .yck-component .rwd-table {
+        background: #fff;
+        color: var(--neutral-800);
+        border-radius: var(--yck-rounded-corners);
+        overflow: hidden;
+    }
+    .yck-component .rwd-table tr {
+        border-color: ;
+    }
+    .yck-component .rwd-table th,
+    .yck-component .rwd-table td {
+        margin: .5em 1em;
+    }
+    @media (min-width: 500px) {
+        .yck-component .rwd-table th,
+        .yck-component .rwd-table td {
+            padding: 1em !important;
+        }
+    }
+    .yck-component .rwd-table th,
+    .yck-component .rwd-table td:before {
+        color: var(--neutral-800);
+    }
+}
+/* Layouts */
+/* Centering */
+.yck-component .deadctr-container {
     margin: 0 auto;
     padding: 0;
-    margin-bottom: var(--yck-space-s-xl) !important;
-    width: min(900px, calc(70% + 160px)); 
+    display: grid;
+    height: auto;
+    place-items: center;
+}
+.yck-component figure,
+.yck-component .figure {
+    display: block;
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+.yck-component figure img,
+.yck-component .figure img {
+    border-radius: var(--yck-rounded-corners);
+}
+.yck-component figcaption,
+.yck-component .caption {
+    display: block;
+    padding: 0;
+    margin: 0 auto;
+    font-size: var(--yck-step--1);
+    font-style: oblique;
+    font-weight: 300;
+    text-align: center;
+}
+/* Layouts - Flexitems using flexbox */
+.yck-component .yck-flexitems {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--yck-spacing-unit);
+    margin-block: 1em;
+}
+.yck-component .yck-flexitem {
+    display: flex;
+    min-width: 150px;
+    color: var(--neutral-700);
+    font-size: var(--yck-step--2);
+    background: linear-gradient(135deg, #fff 0%, #fff 100%);
+    align-items: flex-start;
+    flex: 1 0 calc(33% - var(--yck-spacing-unit));
+    justify-content: center;
+}
+.yck-component .yck-flexitem img {
+    width: 100%;
+    border-radius: var(--yck-rounded-corners);
+    background-size: cover;
+    object-fit: cover;
+}
+/* Layout - Equal Height Cards with sticky footer */
+.yck-component .yck-cards {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: var(--yck-space-s-xl);
+    gap: var(--yck-spacing-unit);
+}
+.yck-component .yck-card {
+    display: flex;
+    min-width: 150px;
+    overflow: hidden;
+    flex-direction: column;
+    color: var(--neutral-800);
+    border-radius: var(--yck-rounded-corners);
+    background: linear-gradient(145deg, rgba(255, 255, 255, 0) 0%, rgb(255, 233, 193, 1) 100%);
+    flex: 1 0 calc(33% - var(--yck-spacing-unit));
+    border: 1px solid #f3812b;
+    backdrop-filter: blur(50px) brightness(1.7) saturate(1.4);
+}
+.yck-component .yck-card-header {
+    padding: var(--yck-step--1);
+    font-weight: bold;
+    color: var(--neutral-900);
+}
+.yck-component .yck-card-body {
+    padding: var(--yck-step--1);
+    color: #333;
+    flex: 1;
+}
+.yck-component .yck-card-footer {
+    padding: 5px;
+    margin-top: auto;
+    font-size: var(--yck-step--1);
+    font-style: oblique;
+    font-weight: 300;
+    text-align: center;
+    color: var(--neutral-700);
+}
+/* 2. Auto-Fit Responsive Grid */
+.yck-component .autofit-grid {
+    display: grid;
+    gap: var(--yck-spacing-unit);
+    grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+}
+.yck-component .grid-item {
+    display: flex;
+    gap: .5em;
+    padding: var(--yck-spacing-unit);
+    font-size: var(--yck-step-0);
+    font-weight: bold;
+    transition: transform .2s,
+        box-shadow .8s var(--yck-transition-timing);
+    text-align: left;
+    color: var(--neutral-700);
+    border-radius: var(--yck-rounded-corners);
+    outline: 1px solid #ccc;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
+    align-items: flex-start;
+    justify-content: left;
+}
+.yck-component .grid-item:hover {
+    transform: scale(1.025);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, .1);
+}
+/*Layouts - Cards, Columns */
+/* --- Isomer Cards --- */
+.yck-component .isomer-card-grid {
+    padding: 0;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: var(--yck-spacing-unit);
+    border-radius: var(--yck-rounded-corners);
+}
+.yck-component .isomer-card {
+    padding: 0;
+    margin: 0 auto;
+    overflow: hidden;
+    box-shadow: var(--yck-box-shadow1);
+    transition: transform .8s var(--yck-transition-timing),
+        box-shadow .8s var(--yck-transition-timing);
+    text-decoration: none;
+    border: 1px solid rgba(224, 224, 224, .15);
+    border-radius: var(--yck-rounded-corners);
+}
+.yck-component .isomer-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--yck-box-shadow);
+}
+.yck-component .isomer-card:hover .isomer-card-body .isomer-card-link {
+    color: #e37f2a;
+}
+.yck-component .isomer-card:has(img) {
+    transition: filter .8s var(--yck-transition-timing);
+    filter: brightness(100%);
+}
+.yck-component .isomer-card:has(img):hover,
+.yck-component .isomer-card:has(img):active,
+.yck-component .isomer-card:has(img):focus {
+    filter: brightness(110%) saturate(110%);
+}
+.yck-component .isomer-card .isomer-card-image {
+    width: 100%;
+    object-fit: cover;
+}
+.yck-component .isomer-card .isomer-card-body {
+    padding: var(--yck-spacing-unit);
+}
+.yck-component .isomer-card .isomer-card-body .isomer-card-title {
+    font-size: var(--yck-step-1);
+    font-weight: 700;
+    text-wrap: balance;
+    color: #4a4a4a;
+    overflow-wrap: break-word;
+}
+.yck-component .isomer-card .isomer-card-body .isomer-card-description {
+    font-size: var(--yck-step-0);
+}
+.yck-component .isomer-card .isomer-card-body .isomer-card-link {
+    display: inline-block;
+    font-size: var(--yck-step-0);
+    text-decoration: none;
+    color: #e37f2a;
+}
+.yck-component .isomer-card .isomer-card-body .isomer-card-title:has(+ .isomer-card-description) {
+    margin-bottom: .75rem;
+}
+/* Layouts - Columns */
+.yck-component .columns2 {
+    column-count: 2;
+    column-gap: 1.5em;
+    margin-top: 1em;
+    margin-bottom: var(--yck-space-s-xl);
+    column-rule: 1px dotted lightgrey;
+}
+.yck-component .columns3 {
+    column-count: 3;
+    column-gap: 1.5em;
+    margin-top: 1em;
+    margin-bottom: var(--yck-space-s-xl);
+    column-rule: 1px dotted lightgrey;
+}
+/* --- LAyouts - Video Containers --- */
+.yck-component .video-container {
+    position: relative;
+    aspect-ratio: var(--ratio-widescreen);
+    width: 100%;
+    margin-bottom: var(--yck-space-s-xl);
+    overflow: hidden;
+}
+.yck-component .video-container iframe,
+.yck-component .video-container object,
+.yck-component .video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+/* --- Details Summary --- */
+.yck-component details {
+    overflow: hidden;
+    transition: background-color .7s ease-in-out, box-shadow .7s ease-in-out;
+    border-radius: var(--yck-rounded-corners);
+    background-color: #fff;
+    margin-bottom: 1em;
+}
+.yck-component details[open] {
+    background-color: rgba(255, 233, 193, .3);
+    box-shadow: var(--yck-insetopp-shadow);
+}
+.yck-component details p,
+.yck-component details div {
+    margin-inline: 1em;
+}
+.yck-component details summary {
+    position: relative;
+    padding: .75em;
+    font-size: var(--yck-step-1);
+    font-weight: 500;
+    list-style-position: outside;
+    cursor: pointer;
+    user-select: none;
+    transition: background-color .7s ease-in-out, box-shadow .7s ease-in-out;
+    outline: none;
+    box-shadow: var(--yck-insetopp-shadow);
+}
+.yck-component details summary:hover {
+    background-color: rgba(255, 233, 193, .4);
+    box-shadow: var(--yck-insetopp-shadow);
+}
+.yck-component details[open]:hover {
+    background-color: rgba(255, 233, 193, .3);
+    box-shadow: var(--yck-inset-shadow);
+}
+.yck-component details summary::marker {
+    content: "";
+}
+.yck-component details summary::after {
+    position: absolute;
+    top: 50%;
+    right: 1.5em;
+    font-size: var(--yck-step-2);
+    line-height: 1;
+    content: "+";
+    transition: transform .7s ease-in-out;
+    transform: translateY(-50%) rotate(0deg);
+}
+.yck-component details[open]>summary::after {
+    transform: translateY(-50%) rotate(135deg);
+}
+.yck-component details>*:not(summary) {
+    padding: 0;
+    animation: fade-in .5s ease .5s;
+    animation-fill-mode: both;
+}
+@keyframes fade-in {
+    from {
+        transform: translateY(-10px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+/* Buttons */
+.buttontotop {
+    position: relative;
+    display: flex;
+    width: var(--yck-step-3);
+    height: var(--yck-step-3);
+    overflow: hidden;
+    font-weight: 600;
+    cursor: pointer;
+    transition-duration: .3s;
+    border: none;
+    border-radius: 50%;
+    background-color: #e37f2a;
+    box-shadow: 0 0 0 4px #fabe64;
+    align-items: center;
+    justify-content: center;
+}
+img.svgIcon {
+    width: var(--yck-step-0);
+    transition-duration: .3s;
+}
+.buttontotop:hover,
+.buttontotop:active,
+.buttontotop:focus {
+    width: 12ch;
+    transition-duration: .3s;
+    border-radius: 50px;
+    background-color: #fabe64;
+    align-items: center;
+}
+.buttontotop:hover .svgIcon,
+.buttontotop:active .svgIcon,
+.buttontotop:focus .svgIcon {
+    width: var(--yck-step-0);
+    transition-duration: .3s;
+    transform: translateY(-200%);
+}
+.buttontotop::before {
+    position: absolute;
+    bottom: -20px;
+    font-size: 0;
+    content: "Back to Top";
+    transition-duration: .3s;
+    color: white;
+}
+.buttontotop:hover::before,
+.buttontotop:active::before,
+.buttontotop:focus::before {
+    bottom: unset;
+    font-size: var(--yck-step-0);
+    /* transform: translateY(-30px); */
+    transition-duration: .3s;
+    opacity: 1;
+}
+/* From Uiverse.io by biswacpcode */
+button.cta-button {
+    text-decoration: none;
+    font-size: var(--yck-step-0);
+    border: none;
+    background: none;
+    font-weight: 600;
+    font-family: var(--font-humanist);
+}
+button.cta-button::before {
+    margin: 0 auto;
+}
+button.cta-button::after,
+button.cta-button::before {
+    content: '';
+    width: 0%;
+    height: 5px;
+    background: var(--yck-orange400);
+    display: block;
+    transition: 0.5s cubic-bezier(.9, 0, .1, 1);
+}
+button.cta-button:hover::after,
+button.cta-button:hover::before {
+    width: 100%;
+}
+/*** Animation classes ***/
+/* Forward */
+.yck-component .hvr-forward {
+    -webkit-transition-duration: .3s;
+    transition-duration: .3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    display: inline-block;
+    vertical-align: baseline;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+.yck-component .hvr-forward:hover,
+.yck-component .hvr-forward:focus,
+.yck-component .hvr-forward:active {
+    -webkit-transform: translateX(8px);
+    transform: translateX(8px);
+}
+/* Backward */
+.yck-component .hvr-backward {
+    -webkit-transition-duration: .3s;
+    transition-duration: .3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    display: inline-block;
+    vertical-align: baseline;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+.yck-component .hvr-backward:hover,
+.yck-component .hvr-backward:focus,
+.yck-component .hvr-backward:active {
+    -webkit-transform: translateX(-8px);
+    transform: translateX(-8px);
+}
+/* Pulse */
+@-webkit-keyframes hvr-pulse {
+    25% {
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+    }
+    75% {
+        -webkit-transform: scale(0.9);
+        transform: scale(0.9);
+    }
+}
+@keyframes hvr-pulse {
+    25% {
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+    }
+    75% {
+        -webkit-transform: scale(0.9);
+        transform: scale(0.9);
+    }
+}
+.yck-component .hvr-pulse {
+    display: inline-block;
+    vertical-align: baseline;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+.yck-component .hvr-pulse:hover,
+.yck-component .hvr-pulse:focus,
+.yck-component .hvr-pulse:active {
+    -webkit-animation-name: hvr-pulse;
+    animation-name: hvr-pulse;
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-timing-function: linear;
+    animation-timing-function: linear;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+}
+/*** Misc items of interest ... ***/
+/* Utilities */
+.yck-component .nolist-style {
+    list-style: none;
+    margin: 0 auto;
+    padding: 0;
+}
+.yck-component .mk-shadow {
+    box-shadow: var(--yck-box-shadow1);
+}
+.bg-1 {
+    background: url("https://c.stocksy.com/a/YY3500/z0/1205314.jpg") no-repeat left 50%;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+.bg-2 {
+    background: url("https://c.stocksy.com/a/FY3500/z0/1205295.jpg") no-repeat left 50%;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+.bg-3 {
+    background: url("https://c.stocksy.com/a/L1o500/z0/1383923.jpg") no-repeat left 50%;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+.bg-4 {
+    background: url("https://c.stocksy.com/a/Z22000/z0/7847.jpg") no-repeat left 50%;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+.bg-yckorange {
+    background: #fef7e0;
+    background: -moz-linear-gradient(45deg, #fef7e0 0%, #fbdf83 50%, #f7bf08 100%);
+    background: -webkit-linear-gradient(45deg, #fef7e0 0%, #fbdf83 50%, #f7bf08 100%);
+    background: linear-gradient(45deg, #fef7e0 0%, #fbdf83 50%, #f7bf08 100%);
+}
+.bg-singpass {
+    background: #be2e7d;
+    background: -moz-linear-gradient(45deg, #be2e7d 0%, #d64e54 100%);
+    background: -webkit-linear-gradient(45deg, #be2e7d 0%, #d64e54 100%);
+    background: linear-gradient(45deg, #be2e7d 0%, #d64e54 100%);
+}
+.bg-yckgreen {
+    background: #009d62;
+    background: -moz-linear-gradient(45deg, #009d62 0%, #18510f 100%);
+    background: -webkit-linear-gradient(45deg, #009d62 0%, #18510f 100%);
+    background: linear-gradient(45deg, #009d62 0%, #18510f 100%);
+}
+.bg-gradientblue {
+    background: #0164b6;
+    background: -moz-linear-gradient(45deg, #0164b6 0%, #04a4e3 100%);
+    background: -webkit-linear-gradient(45deg, #0164b6 0%, #04a4e3 100%);
+    background: linear-gradient(45deg, #0164b6 0%, #04a4e3 100%);
+}
+@supports (content-visibility: auto) {
+    details {
+        content-visibility: auto;
+    }
+}
+@supports (animation-timeline: view()) {
+    .yck-component .yck-flexitem,
+    .yck-component .yck-card {
+        animation: fade-in-bottom ease both;
+        animation-timeline: view();
+        animation-range: entry 25% cover 50%;
+    }
 }
 
 
@@ -1995,4 +3030,4 @@ image: /images/YCKLogo.svg
                animate-svg-fill-2 0.7s cubic-bezier(0.6, 0.04, 0.98, 0.335) 0.8s both;
 }
 
-</style>
+</style></div>
