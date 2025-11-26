@@ -6,6 +6,7 @@ variant: markdown
 ---
 <div class="yck-component">
 	<div class="regular-flow">
+		<div class="deadctr-container">
 		<div class="yck-flexitems">
 		<figure>
 		<a href="/our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/" target="_blank"> <img src="/images/Our%20Curriculum/Non%20Academic%20Programmes/NonAcademic%20Programmes/N1.png"></a></figure>
@@ -1096,4 +1097,4 @@ button.cta-button:hover::before {
         animation-range: entry 25% cover 50%;
     }
 }
-</style></div>
+</style></div></div>
