@@ -790,16 +790,24 @@ h5, .yck-h5, h6, .yck-h6) {
 }
 /* --- LAyouts - Video Containers --- */
 .yck-component .video-container {
-    aspect-ratio: var(--ratio-widescreen);
+    position: relative;
     width: 100%;
-    margin-bottom: var(--yck-space-s-xl);
+    padding-bottom: 56.25%;
+    height: 0;
     overflow: hidden;
+    margin-bottom: var(--yck-spacing-unit);
+    aspect-ratio: var(—ratio-widescreen);
 }
+
 .yck-component .video-container iframe,
 .yck-component .video-container object,
 .yck-component .video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 100%;
     height: 100%;
+    aspect-ratio: var(—ratio-widescreen);
 }
 /* --- Details Summary --- */
 .yck-component details {
