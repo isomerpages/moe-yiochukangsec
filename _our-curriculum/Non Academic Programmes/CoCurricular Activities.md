@@ -22,7 +22,7 @@ variant: markdown
             <details name="ccas">
                 <summary>Physical Sports</summary>
                 <ul class="nolist-style">
-                    <li><a class="text-link" href="/cca/physical-sports/badminton/">Badminton</a></li>
+                    <li><a class="text-link" href="/cca/physical-sports/badminton/">Badminton (Girls)</a></li>
                     <li><a class="text-link" href="/cca/Physical-Sports/Basketball-Boys/">Basketball (Boys)</a></li>
                     <li><a class="text-link" href="/cca/Physical-Sports/Floorball-Boys/">Floorball (Boys)</a></li>
                     <li><a class="text-link" href="/cca/Physical-Sports/Netball/">Netball</a></li>
