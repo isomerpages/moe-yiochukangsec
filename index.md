@@ -96,4 +96,27 @@ sections:
       url: https://www.yiochukangsec.moe.edu.sg/our-story/our-60th-anniversary/homecoming-carnival/
       image: /images/60th Anniversary/Homecoming_Carnival_EDM.png
       alt: The Homecoming Carnival
+  - textcards:
+      title: Our 60th Anniversary Celebrations
+      subtitle: Our Home, Our Heart, Our Hope
+      id: textcards
+      description: From 2025's warm memories and celebrations of our Home; we bring
+        with Heart and Bearing Hope as 2026 beckons! Let us RECONNECT, EXPLORE
+        new paths and EXPERIENCE the Heart of the School!
+      cards:
+        - title: On 10 May 2025 ...
+          description: We celebrated 60 amazing years at YCKSS with family & friends at
+            the ...
+          linktext: (✔️) Homecoming Carnival
+          url: https://www.yiochukangsec.moe.edu.sg/our-story/our-60th-anniversary/homecoming-carnival/
+        - title: 4 July 2025 Evening ...
+          description: We reconnected, relive moments & honored those who shaped our
+            journey in ...
+          linktext: 60th Anniversary Dinner
+          url: https://www.yiochukangsec.moe.edu.sg/our-story/our-60th-anniversary/60th-anniversary-dinner/
+        - title: During 21 November 2025 ...
+          description: "Our Performing Art Groups inspired us all: Home, Heart & Hope in
+            Celebration."
+          linktext: Concert For Hope (Cantabile 2025)
+          url: https://www.yiochukangsec.moe.edu.sg/our-story/our-60th-anniversary/concert-for-hope/
 ---
