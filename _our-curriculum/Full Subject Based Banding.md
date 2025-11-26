@@ -82,9 +82,19 @@ image: /images/YCKLogo.svg
 <p>
     For more information on how YCKSS will be implementing FSBB, you can contact us at <a href="mailto:yckss@moe.edu.sg">yckss@moe.edu.sg</a>.
 </p>
+	<div class="deadctr-container">
+                                                    <div class="button-container">
+                                                        <a href="#top">
+                                                            <button class="buttontotop">
+                                                                <img class="svgIcon" alt="Back to Top" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Icons/svgiconwht.svg">
+                                                            </button>
+                                                        </a>
+                                                    </div>
+                                                </div>
 		</section>
 		
 	</div>
+	
 	
 	
 <style>
