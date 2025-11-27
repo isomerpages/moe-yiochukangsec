@@ -36,40 +36,44 @@ third_nav_title: Physical Sports
             </section>
             <section>
                 <h4 class="yck-h4">Training Schedule</h4>
-							<table class="rwd-table">
-                                        <thead>
-                                            <tr>
-                                                <th>Day &amp; Time</th>
-                                                <th>Teachers in-charge</th>
-                                                <th>Venue</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <tr>
-                                                <td data-th="Day &amp; Time">
-                                                    <ul class="nolist-style">
-                                                        <li>Every Monday &amp; Wednesday</li>
-                                                        <li>3.00pm to 5.30pm</li>
-                                                </ul></td>
-                                                <td data-th="Teachers in-charge">
-                                                    <ul class="nolist-style">
-                                                        <li>Mr Patrick Wee (OIC)&nbsp;(ext 127)</li>
-                                                        <li>Mdm Ng Hui Yin&nbsp;(ext 146)</li>
-                                                        <li>Ms Rohini <wbr>(ext 141)</li>
-																											<li>Ms Goh Yu Fan <wbr>(ext 174)</li>
-                                                    </ul>
-                                                </td>
-                                                <td data-th="Venue">School Hall</td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-							<figcaption><strong><i>Note: This is an all-girls CCA.</i></strong> <b>Recruitment is open only to female students.</b></figcaption>
-					</section>
-					<section>
-							<div class="yck-cards">
-									 <div class="yck-card yck-card-body"><p>Download a copy of <a class="text-link" target="_blank" href="/files/Students/Class%20Timetable%20Schedules/2025/2025_Semester_2_CCA_Schedule__Nov_Dec_.pdf">Semester 2's CCA schedule here</a></p></div></div></section>
-					
- <section>
+                <table class="rwd-table">
+                    <thead>
+                        <tr>
+                            <th>Day &amp; Time</th>
+                            <th>Teachers in-charge</th>
+                            <th>Venue</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td data-th="Day &amp; Time">
+                                <ul class="nolist-style">
+                                    <li>Every Monday &amp; Wednesday</li>
+                                    <li>3.00pm to 5.30pm</li>
+                                </ul>
+                            </td>
+                            <td data-th="Teachers in-charge">
+                                <ul class="nolist-style">
+                                    <li>Mr Patrick Wee (OIC)&nbsp;(ext 127)</li>
+                                    <li>Mdm Ng Hui Yin&nbsp;(ext 146)</li>
+                                    <li>Ms Rohini <wbr>(ext 141)</li>
+                                    <li>Ms Goh Yu Fan <wbr>(ext 174)</li>
+                                </ul>
+                            </td>
+                            <td data-th="Venue">School Hall</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <div class="warning">Note: This is an all-girls CCA. Recruitment is open only to female students.</div>
+            </section>
+            <section>
+                <div class="yck-cards">
+                    <div class="yck-card yck-card-body">
+                        <p>Download a copy of <a class="text-link" target="_blank" href="/files/Students/Class%20Timetable%20Schedules/2025/2025_Semester_2_CCA_Schedule__Nov_Dec_.pdf">Semester 2's CCA schedule here</a></p>
+                    </div>
+                </div>
+            </section>
+            <section>
                 <h4 class="yck-h4">Achievements</h4>
                 <ul>
                     <li>
@@ -99,7 +103,13 @@ third_nav_title: Physical Sports
     </div>
 </div>
 
-<style>
+<style> 
+/* Copied from ISOMER CCA Activities */
+/* Global and Root Variables */
+@import 'props.animations.css';
+@import 'props.easing.css';
+@import 'props.shadows.css';
+
 :root {
     --font-antique: Superclarendon, Bookman Old Style, URW Bookman, URW Bookman L, Georgia Pro, Georgia, serif;
     --font-classical-humanist: Optima, Candara, Noto Sans, source-sans-pro, sans-serif;
@@ -872,7 +882,132 @@ h5, .yck-h5, h6, .yck-h6) {
     text-align: center;
     color: var(--neutral-700);
 }
-	
+
+/* 2. Auto-Fit Responsive Grid */
+.yck-component .autofit-grid {
+    display: grid;
+    gap: var(--yck-spacing-unit);
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
+
+.yck-component .grid-item {
+    display: flex;
+    gap: .5em;
+    padding: var(--yck-spacing-unit);
+    font-size: var(--yck-step-0);
+    font-weight: bold;
+    transition: transform .2s,
+        box-shadow .8s var(--yck-transition-timing);
+    text-align: left;
+    color: var(--neutral-700);
+    border-radius: var(--yck-rounded-corners);
+    outline: 1px solid #ccc;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
+    align-items: flex-start;
+    justify-content: left;
+}
+
+.yck-component .grid-item:hover {
+    transform: scale(1.025);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, .1);
+}
+
+/*Layouts - Cards, Columns */
+/* --- Isomer Cards --- */
+.yck-component .isomer-card-grid {
+    padding: 0;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: var(--yck-spacing-unit);
+    border-radius: var(--yck-rounded-corners);
+}
+
+.yck-component .isomer-card {
+    padding: 0;
+    margin: 0 auto;
+    overflow: hidden;
+    box-shadow: var(--yck-box-shadow1);
+    transition: transform .8s var(--yck-transition-timing),
+        box-shadow .8s var(--yck-transition-timing);
+    text-decoration: none;
+    border: 1px solid rgba(224, 224, 224, .15);
+    border-radius: var(--yck-rounded-corners);
+}
+
+.yck-component .isomer-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--yck-box-shadow);
+}
+
+.yck-component .isomer-card:hover .isomer-card-body .isomer-card-link {
+    color: #e37f2a;
+}
+
+.yck-component .isomer-card:has(img) {
+    transition: filter .8s var(--yck-transition-timing);
+    filter: brightness(100%);
+}
+
+.yck-component .isomer-card:has(img):hover,
+.yck-component .isomer-card:has(img):active,
+.yck-component .isomer-card:has(img):focus {
+    filter: brightness(110%) saturate(110%);
+}
+
+.yck-component .isomer-card .isomer-card-image {
+    width: 100%;
+    object-fit: cover;
+}
+
+.yck-component .isomer-card .isomer-card-body {
+    padding: var(--yck-spacing-unit);
+}
+
+.yck-component .isomer-card .isomer-card-body .isomer-card-title {
+    font-size: var(--yck-step-1);
+    font-weight: 700;
+    text-wrap: balance;
+    color: #4a4a4a;
+    overflow-wrap: break-word;
+}
+
+.yck-component .isomer-card .isomer-card-body .isomer-card-description {
+    font-size: var(--yck-step-0);
+}
+
+.yck-component .isomer-card .isomer-card-body .isomer-card-link {
+    display: inline-block;
+    font-size: var(--yck-step-0);
+    text-decoration: none;
+    color: #e37f2a;
+}
+
+.yck-component .isomer-card .isomer-card-body .isomer-card-title:has(+ .isomer-card-description) {
+    margin-bottom: .75rem;
+}
+
+/* Layouts - Columns */
+.yck-component .columns2 {
+    column-count: 2;
+    column-gap: 1.5em;
+    margin-top: 1em;
+    margin-bottom: var(--yck-space-s-xl);
+    column-rule: 1px dotted lightgrey;
+}
+
+.yck-component .columns3 {
+    column-count: 3;
+    column-gap: 1.5em;
+    margin-top: 1em;
+    margin-bottom: var(--yck-space-s-xl);
+    column-rule: 1px dotted lightgrey;
+}
+
+.yck-component .masonry {
+    column-width: 200px;
+    column-gap: 1.5em;
+}
+
 /* --- LAyouts - Video Containers --- */
 .yck-component .video-container {
     position: relative;
@@ -970,13 +1105,361 @@ h5, .yck-h5, h6, .yck-h6) {
         opacity: 1;
     }
 }
-	
+
+/* Buttons */
+.buttontotop {
+    position: relative;
+    display: flex;
+    width: var(--yck-step-3);
+    height: var(--yck-step-3);
+    overflow: hidden;
+    font-weight: 600;
+    cursor: pointer;
+    transition-duration: .3s;
+    border: none;
+    border-radius: 50%;
+    background-color: #e37f2a;
+    box-shadow: 0 0 0 4px #fabe64;
+    align-items: center;
+    justify-content: center;
+}
+
+img.svgIcon {
+    width: var(--yck-step-0);
+    transition-duration: .3s;
+}
+
+.buttontotop:hover,
+.buttontotop:active,
+.buttontotop:focus {
+    width: 12ch;
+    transition-duration: .3s;
+    border-radius: 50px;
+    background-color: #fabe64;
+    align-items: center;
+}
+
+.buttontotop:hover .svgIcon,
+.buttontotop:active .svgIcon,
+.buttontotop:focus .svgIcon {
+    width: var(--yck-step-0);
+    transition-duration: .3s;
+    transform: translateY(-200%);
+}
+
+.buttontotop::before {
+    position: absolute;
+    bottom: -20px;
+    font-size: 0;
+    content: "Back to Top";
+    transition-duration: .3s;
+    color: white;
+}
+
+.buttontotop:hover::before,
+.buttontotop:active::before,
+.buttontotop:focus::before {
+    bottom: unset;
+    font-size: var(--yck-step-0);
+    /* transform: translateY(-30px); */
+    transition-duration: .3s;
+    opacity: 1;
+}
+
+/* From Uiverse.io by biswacpcode */
+button.cta-button {
+    text-decoration: none;
+    font-size: var(--yck-step-0);
+    border: none;
+    background: none;
+    font-weight: 600;
+    font-family: var(--font-humanist);
+}
+
+button.cta-button::before {
+    margin: 0 auto;
+}
+
+button.cta-button::after,
+button.cta-button::before {
+    content: '';
+    width: 0%;
+    height: 5px;
+    background: var(--yck-orange400);
+    display: block;
+    transition: 0.5s cubic-bezier(.9, 0, .1, 1);
+}
+
+button.cta-button:hover::after,
+button.cta-button:hover::before {
+    width: 100%;
+}
+
+/*** Animation classes ***/
+/* Forward */
+.yck-component .hvr-forward {
+    -webkit-transition-duration: .3s;
+    transition-duration: .3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    display: inline-block;
+    vertical-align: baseline;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+
+.yck-component .hvr-forward:hover,
+.yck-component .hvr-forward:focus,
+.yck-component .hvr-forward:active {
+    -webkit-transform: translateX(8px);
+    transform: translateX(8px);
+}
+
+/* Backward */
+.yck-component .hvr-backward {
+    -webkit-transition-duration: .3s;
+    transition-duration: .3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    display: inline-block;
+    vertical-align: baseline;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+
+.yck-component .hvr-backward:hover,
+.yck-component .hvr-backward:focus,
+.yck-component .hvr-backward:active {
+    -webkit-transform: translateX(-8px);
+    transform: translateX(-8px);
+}
+
+/* Pulse */
+@-webkit-keyframes hvr-pulse {
+    25% {
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+    }
+
+    75% {
+        -webkit-transform: scale(0.9);
+        transform: scale(0.9);
+    }
+}
+
+@keyframes hvr-pulse {
+    25% {
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+    }
+
+    75% {
+        -webkit-transform: scale(0.9);
+        transform: scale(0.9);
+    }
+}
+
+.yck-component .hvr-pulse {
+    display: inline-block;
+    vertical-align: baseline;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+
+.yck-component .hvr-pulse:hover,
+.yck-component .hvr-pulse:focus,
+.yck-component .hvr-pulse:active {
+    -webkit-animation-name: hvr-pulse;
+    animation-name: hvr-pulse;
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-timing-function: linear;
+    animation-timing-function: linear;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+}
+
+/*** Misc items of interest ... ***/
+/* Utilities */
 .yck-component .nolist-style {
     list-style: none;
     margin: 0 auto;
     padding: 0;
 }
-	
+
+.yck-component .:is(.visually-hidden, .sr-only) {
+    inline-size: 0;
+    block-size: 0;
+    overflow: hidden;
+}
+
+.yck-component .truncate {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.yck-component .ultrawide {
+    aspect-ratio: var(--ratio-ultrawide);
+}
+.yck-component .widescreen {
+    aspect-ratio: var(--ratio-widescreen);
+}
+.yck-component .landscape {
+    aspect-ratio: var(--ratio-landscape);
+}
+.yck-component .portrait {
+    aspect-ratio: var(--ratio-portrait);
+}
+.yck-component .square {
+    aspect-ratio: var(--ratio-square);
+}
+
+.yck-component .warning {
+    font-size: var(--yck-step-1);
+    color: red;
+    font-weight: 700;
+    text-shadow: var(--yck-box-shadow);
+}
+.yck-component .notice {
+    color: var(--yck-orange700);
+    font-weight: 400;
+    font-style: oblique;
+    text-shadow: var(--yck-box-shadow);
+}
+
+.fade-up-and-in {
+    opacity: 0;
+    animation:
+        var(--animation-fade-in) forwards,
+        var(--animation-slide-in-up) forwards;
+    animation-delay: .3s, 0s;
+    animation-duration: .7s, 1s;
+}
+
+.bg-1 {
+    background: url("https://c.stocksy.com/a/YY3500/z0/1205314.jpg") no-repeat left 50%;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.bg-2 {
+    background: url("https://c.stocksy.com/a/FY3500/z0/1205295.jpg") no-repeat left 50%;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.bg-3 {
+    background: url("https://c.stocksy.com/a/L1o500/z0/1383923.jpg") no-repeat left 50%;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.bg-4 {
+    background: url("https://c.stocksy.com/a/Z22000/z0/7847.jpg") no-repeat left 50%;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.bg-yckorange {
+    background: #fef7e0;
+    background: -moz-linear-gradient(45deg, #fef7e0 0%, #fbdf83 50%, #f7bf08 100%);
+    background: -webkit-linear-gradient(45deg, #fef7e0 0%, #fbdf83 50%, #f7bf08 100%);
+    background: linear-gradient(45deg, #fef7e0 0%, #fbdf83 50%, #f7bf08 100%);
+}
+
+.bg-singpass {
+    background: #be2e7d;
+    background: -moz-linear-gradient(45deg, #be2e7d 0%, #d64e54 100%);
+    background: -webkit-linear-gradient(45deg, #be2e7d 0%, #d64e54 100%);
+    background: linear-gradient(45deg, #be2e7d 0%, #d64e54 100%);
+}
+
+.bg-yckgreen {
+    background: #009d62;
+    background: -moz-linear-gradient(45deg, #009d62 0%, #18510f 100%);
+    background: -webkit-linear-gradient(45deg, #009d62 0%, #18510f 100%);
+    background: linear-gradient(45deg, #009d62 0%, #18510f 100%);
+}
+
+.bg-gradientblue {
+    background: #0164b6;
+    background: -moz-linear-gradient(45deg, #0164b6 0%, #04a4e3 100%);
+    background: -webkit-linear-gradient(45deg, #0164b6 0%, #04a4e3 100%);
+    background: linear-gradient(45deg, #0164b6 0%, #04a4e3 100%);
+}
+
+.fade-in-bottom {
+    -webkit-animation: fade-in-bottom 0.6s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    animation: fade-in-bottom 2s ease-out both;
+}
+
+@keyframes fade-in-bottom {
+    0% {
+        -webkit-transform: translateY(50px);
+        transform: translateY(50px);
+        opacity: 0;
+    }
+
+    100% {
+        -webkit-transform: translateY(0);
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.fade-in {
+    animation: fade-in 1s ease-in-out both;
+}
+
+@keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.fade-out {
+    -webkit-animation: fade-out 1s ease-out both;
+    animation: fade-out 1s ease-out both;
+}
+
+@keyframes fade-out {
+    0% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+.kenburns-right {
+    animation: kenburns-right 40s ease-in-out infinite alternate;
+}
+
+@keyframes kenburns-right {
+    0% {
+        -webkit-transform: scale(1) translate(0, 0);
+        transform: scale(1) translate(0, 0);
+        -webkit-transform-origin: 84% 50%;
+        transform-origin: 84% 50%;
+    }
+
+    100% {
+        -webkit-transform: scale(1.25) translateX(20px);
+        transform: scale(1.25) translateX(20px);
+        -webkit-transform-origin: right;
+        transform-origin: right;
+    }
+}
+
 .kenburns-container {
     max-width: 100%;
     overflow: hidden;
