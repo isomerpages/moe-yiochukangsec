@@ -44,7 +44,7 @@ image: /images/YCKLogo.svg
                     <li>Consectetur adipiscing elit.</li>
                     <li>Integer nec odio. Praesent libero.</li>
                 </ul>
-                <p>
+                <p class="isoblique">
                     Excepteur sint occaecat cupidatat non proident, sunt in culpa
                     qui officia deserunt mollit anim id est laborum.
                 </p>
@@ -86,7 +86,7 @@ image: /images/YCKLogo.svg
                                     <li>Mr Christopher Tan (ext 172)</li>
                                 </ul>
                             </td>
-                            <td data-th="Venue">Digital Learning Lab 1 (Level 4)</td>
+													<td data-th="Venue"><p>Digital Learning Lab 1 (Level 4)</p></td>
                         </tr>
                     </tbody>
                 </table>
@@ -106,10 +106,10 @@ image: /images/YCKLogo.svg
                     <tbody>
                         <tr>
                             <td class="yck-td">
-                                Mass Talk delivered through a pre-recorded video
+															<p>Mass Talk delivered through a pre-recorded video</p>
                             </td>
                             <td class="yck-td">
-                                Raise awareness and provide knowledge on:
+															<p>Raise awareness and provide knowledge on:</p>
                                 <ul style="list-style-type: lower-alpha">
                                     <li>
                                         Infectious diseases (STIs and HIV): what it
@@ -127,13 +127,13 @@ image: /images/YCKLogo.svg
                             <td class="yck-td">Term 3 Week 2</td>
                         </tr>
                         <tr>
-                            <td class="yck-td">Classroom-based Lesson</td>
+													<td class="yck-td"><p>Classroom-based Lesson</p></td>
                             <td class="yck-td">
-                                Learn to negotiate their way out of a risky
+                                <p>Learn to negotiate their way out of a risky
                                 situation by applying skills of assertiveness and
-                                responsible decision-making
+																	responsible decision-making</p>
                             </td>
-                            <td class="yck-td">Term 3 Week 3</td>
+													<td class="yck-td"><p>Term 3 Week 3</p></td>
                         </tr>
                     </tbody>
                 </table>
@@ -144,15 +144,15 @@ image: /images/YCKLogo.svg
                     <div class="yck-flexitem">
                         <div class="quote bg-yckorange">
                             <div class="blockquote">
-                                Phasellus elementum sapien sed justo
+                                <p>Phasellus elementum sapien sed justo
                                 <abbr title="Cascading Style Sheets">CSS</abbr> tincidunt
-                                gravida.
+																	gravida.</p>
                                 <cite>By Annonymous</cite>
                             </div>
                         </div>
                     </div>
                     <div class="yck-flexitem">
-                        <div class="quote mk-shadow">
+                        <div class="quote">
                             <div class="blockquote">
                                 Suspendisse vel eros id neque feugiat pretium.
                                 Aenean a neque eget lorem feugiat bibendum.
@@ -220,21 +220,21 @@ image: /images/YCKLogo.svg
                     <div class="yck-card">
                         <div class="yck-card-header">Card 1</div>
                         <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182">
-                        <div class="yck-card-body">Short content</div>
+											<div class="yck-card-body"><p>Short content</p></div>
                         <div class="yck-card-footer">Button</div>
                     </div>
                     <div class="yck-card">
                         <div class="yck-card-header">Card 2</div>
                         <div class="yck-card-body">
-                            This card has much more content to demonstrate how all
-                            cards stretch to match the tallest one.
+                            <p>This card has much more content to demonstrate how all
+															cards stretch to match the tallest one.</p>
                         </div>
                         <div class="yck-card-footer">Button</div>
                     </div>
                     <div class="yck-card">
                         <div class="yck-card-header">Card 3</div>
                         <div class="yck-card-body">
-                            This is a medium content with a picture.
+													<p>This is a medium content with a picture.</p>
                             <figure>
                                 <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182">
                             </figure>
@@ -252,8 +252,8 @@ image: /images/YCKLogo.svg
                         </div>
                     </div>
                     <div class="grid-item">
-                        Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                        laboris nisi ut aliquip ex ea commodo consequat.
+                        <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco
+													laboris nisi ut aliquip ex ea commodo consequat.</p>
                         <figure>
                             <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182">
                             <figcaption class="small">A Colorful Row of Shophouses</figcaption>
@@ -264,8 +264,8 @@ image: /images/YCKLogo.svg
                             esse cillum dolore eu fugiat nulla pariatur.</p>
                     </div>
                     <div class="grid-item">
-                        Excepteur sint occaecat cupidatat non proident, sunt in
-                        culpa qui officia deserunt mollit anim id est laborum.
+                        <p>Excepteur sint occaecat cupidatat non proident, sunt in
+													culpa qui officia deserunt mollit anim id est laborum.</p>
                     </div>
                     <div class="grid-item">
                         <figure>
