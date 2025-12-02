@@ -533,6 +533,9 @@ image: /images/YCKLogo.svg
                         </div>
                 </details>
             </section>
+					<section>
+						<iframe height="100vh" width="100%" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/education-career-guidance/index.html"></iframe>
+					</section>
             <div class="deadctr-container">
                 <div class="button-container">
                     <a href="#top">
