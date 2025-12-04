@@ -34,15 +34,6 @@ sections:
       url: https://4d.silvrcraft.com/yckss360vt/index.htm
       image: /images/openhouse.jpg
       alt: YCKSS e-Open House
-  - infobar:
-      title: Guided School Tour in Yio Chu Kang Secondary School
-      subtitle: Explore, Experience & Meet
-      id: infobar
-      description: Join our guided tour on 26-27 November. Explore our innovative
-        facilities, experience our learning community first hand and meet our
-        passionate educators.
-      button: Limited Spots! Book Now!
-      url: https://go.gov.sg/guidedtourforyiochukangsecsch
   - infopic:
       title: Alumni Reunion Invitation
       subtitle: Connecting Home, Heart & Hope
