@@ -18,15 +18,28 @@ image: /images/YCKLogo.svg
                 <div class="video-container">
                     <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/z8gPUctnAF4?si=ZVVVVjbeDJriaFkU" height="315" width="560"></iframe>
                 </div>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                    consequat.
+                </p>
+                <p>
+                    Duis aute irure dolor in reprehenderit in voluptate velit esse
+                    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                </p>
             </section>
             <section>
-                <h2>Heading Level Two - Ordered &amp; Unordered Lists</h2>
+                <h2>Heading Level Two - Responsive Table</h2>
                 <p>
                     Vestibulum ante ipsum primis in faucibus orci luctus et
                     ultrices posuere cubilia curae.
                 </p>
                 <div class="video-container">
-                    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/B2z8hvt8LxU?si=WST6qLcLFYkMcvY8" height="315" width="560"></iframe>
+                    <figure>
+                        <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/B2z8hvt8LxU?si=WST6qLcLFYkMcvY8" height="315" width="560"></iframe>
+                    </figure>
                 </div>
                 <p>Sed nec
                     <a href="#">nunc suscipit</a>, viverra mi nec, tristique
@@ -44,7 +57,7 @@ image: /images/YCKLogo.svg
                     <li>Consectetur adipiscing elit.</li>
                     <li>Integer nec odio. Praesent libero.</li>
                 </ul>
-                <p class="isoblique">
+                <p>
                     Excepteur sint occaecat cupidatat non proident, sunt in culpa
                     qui officia deserunt mollit anim id est laborum.
                 </p>
@@ -62,7 +75,7 @@ image: /images/YCKLogo.svg
                 </ol>
             </section>
             <section>
-                <h3>Heading Level 3 - Responsive Width Table to List - Training Schedule</h3>
+                <h3>Heading Level 3 - Responsive Width Table to List<br>Training Schedule</h3>
                 <table class="rwd-table">
                     <thead>
                         <tr>
@@ -86,7 +99,9 @@ image: /images/YCKLogo.svg
                                     <li>Mr Christopher Tan (ext 172)</li>
                                 </ul>
                             </td>
-													<td data-th="Venue"><p>Digital Learning Lab 1 (Level 4)</p></td>
+                            <td data-th="Venue">
+                                <p>Digital Learning Lab 1 (Level 4)</p>
+                            </td>
                         </tr>
                     </tbody>
                 </table>
@@ -106,10 +121,10 @@ image: /images/YCKLogo.svg
                     <tbody>
                         <tr>
                             <td class="yck-td">
-															<p>Mass Talk delivered through a pre-recorded video</p>
+                                <p>Mass Talk delivered through a pre-recorded video</p>
                             </td>
                             <td class="yck-td">
-															<p>Raise awareness and provide knowledge on:</p>
+                                <p>Raise awareness and provide knowledge on:</p>
                                 <ul style="list-style-type: lower-alpha">
                                     <li>
                                         Infectious diseases (STIs and HIV): what it
@@ -124,16 +139,22 @@ image: /images/YCKLogo.svg
                                     </li>
                                 </ul>
                             </td>
-                            <td class="yck-td">Term 3 Week 2</td>
+                            <td class="yck-td">
+                                <p>Term 3 Week 2</p>
+                            </td>
                         </tr>
                         <tr>
-													<td class="yck-td"><p>Classroom-based Lesson</p></td>
+                            <td class="yck-td">
+                                <p>Classroom-based Lesson</p>
+                            </td>
                             <td class="yck-td">
                                 <p>Learn to negotiate their way out of a risky
-                                situation by applying skills of assertiveness and
-																	responsible decision-making</p>
+                                    situation by applying skills of assertiveness and
+                                    responsible decision-making</p>
                             </td>
-													<td class="yck-td"><p>Term 3 Week 3</p></td>
+                            <td class="yck-td">
+                                <p>Term 3 Week 3</p>
+                            </td>
                         </tr>
                     </tbody>
                 </table>
@@ -142,17 +163,17 @@ image: /images/YCKLogo.svg
                 <h3>Heading Level 3 - Blockquotes</h3>
                 <div class="yck-flexitems">
                     <div class="yck-flexitem">
-                        <div class="quote bg-yckorange">
+                        <div class="quote">
                             <div class="blockquote">
-                                <p>Phasellus elementum sapien sed justo
+                                Phasellus elementum sapien sed justo
                                 <abbr title="Cascading Style Sheets">CSS</abbr> tincidunt
-																	gravida.</p>
+                                gravida.
                                 <cite>By Annonymous</cite>
                             </div>
                         </div>
                     </div>
                     <div class="yck-flexitem">
-                        <div class="quote">
+                        <div class="quote yck-mk-shadow1">
                             <div class="blockquote">
                                 Suspendisse vel eros id neque feugiat pretium.
                                 Aenean a neque eget lorem feugiat bibendum.
@@ -202,8 +223,10 @@ image: /images/YCKLogo.svg
                         </figure>
                     </div>
                     <div class="yck-flexitem">
-											<div class="kenburns-container">
-                        <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182" class="kenburns-right">
+                        <div class="video-container">
+                            <figure>
+                                <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/AMt2pIRrzOM?si=OOqgETxxJlRra58J" height="315" width="560"></iframe>
+                            </figure>
                         </div>
                     </div>
                     <div class="yck-flexitem">
@@ -219,24 +242,28 @@ image: /images/YCKLogo.svg
                 <div class="yck-cards">
                     <div class="yck-card">
                         <div class="yck-card-header">Card 1</div>
-                        <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182">
-											<div class="yck-card-body"><p>Short content</p></div>
+                        <div class="kenburns-container">
+                            <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182" class="kenburns-scale"></div>
+                        <div class="yck-card-body">
+                            <p>Short content</p>
+                        </div>
                         <div class="yck-card-footer">Button</div>
                     </div>
                     <div class="yck-card">
                         <div class="yck-card-header">Card 2</div>
                         <div class="yck-card-body">
                             <p>This card has much more content to demonstrate how all
-															cards stretch to match the tallest one.</p>
+                                cards stretch to match the tallest one.</p>
                         </div>
                         <div class="yck-card-footer">Button</div>
                     </div>
                     <div class="yck-card">
                         <div class="yck-card-header">Card 3</div>
                         <div class="yck-card-body">
-													<p>This is a medium content with a picture.</p>
+                            <p>This is a medium content with a picture.</p>
                             <figure>
-                                <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182">
+                                <div class="kenburns-container">
+                                    <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182" class="kenburns-right"></div>
                             </figure>
                         </div>
                         <div class="yck-card-footer">Button</div>
@@ -252,10 +279,11 @@ image: /images/YCKLogo.svg
                         </div>
                     </div>
                     <div class="grid-item">
-                        <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco
-													laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                        laboris nisi ut aliquip ex ea commodo consequat.
                         <figure>
-                            <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182">
+                            <div class="kenburns-container">
+                                <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182" class="ultrawide kenburns-right"></div>
                             <figcaption class="small">A Colorful Row of Shophouses</figcaption>
                         </figure>
                     </div>
@@ -264,8 +292,8 @@ image: /images/YCKLogo.svg
                             esse cillum dolore eu fugiat nulla pariatur.</p>
                     </div>
                     <div class="grid-item">
-                        <p>Excepteur sint occaecat cupidatat non proident, sunt in
-													culpa qui officia deserunt mollit anim id est laborum.</p>
+                        Excepteur sint occaecat cupidatat non proident, sunt in
+                        culpa qui officia deserunt mollit anim id est laborum.
                     </div>
                     <div class="grid-item">
                         <figure>
@@ -281,96 +309,95 @@ image: /images/YCKLogo.svg
             </section>
             <section>
                 <h4 class="yck-h4">Heading Level Four - 3 columns</h4>
-                    <div class="columns3">
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing
-                            elit, sed do eiusmod tempor incididunt ut labore et
-                            dolore magna aliqua. Ut enim ad minim veniam, quis
-                            nostrud exercitation ullamco laboris nisi ut aliquip ex
-                            ea commodo consequat.
-                        </p>
-                        <p>
-                            Duis aute irure dolor in reprehenderit in voluptate
-                            velit esse cillum dolore eu fugiat nulla pariatur.
-                        </p>
-                        <p>
-                            Excepteur sint occaecat cupidatat non proident, sunt in
-                            culpa qui officia deserunt mollit anim id est laborum.
-                        </p>
-                    </div>
-                    <div class="columns2">
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing
-                            elit, sed do eiusmod tempor incididunt ut labore et
-                            dolore magna aliqua. Ut enim ad minim veniam, quis
-                            nostrud exercitation ullamco laboris nisi ut aliquip ex
-                            ea commodo consequat.
-                        </p>
-                        <p>
-                            Duis aute irure dolor in reprehenderit in voluptate
-                            velit esse cillum dolore eu fugiat nulla pariatur.
-                        </p>
-                        <p>
-                            Excepteur sint occaecat cupidatat non proident, sunt in
-                            culpa qui officia deserunt mollit anim id est laborum.
-                        </p>
-                    </div>
-                    <div class="columns3">
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing
-                            elit, sed do eiusmod tempor incididunt ut labore et
-                            dolore magna aliqua. Ut enim ad minim veniam, quis
-                            nostrud exercitation ullamco laboris nisi ut aliquip ex
-                            ea commodo consequat.
-                        </p>
-                        <p>
-                            Duis aute irure dolor in reprehenderit in voluptate
-                            velit esse cillum dolore eu fugiat nulla pariatur.
-                        </p>
-                        <p>
-                            Excepteur sint occaecat cupidatat non proident, sunt in
-                            culpa qui officia deserunt mollit anim id est laborum.
-                        </p>
-                    </div>
+                <div class="columns3">
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing
+                        elit, sed do eiusmod tempor incididunt ut labore et
+                        dolore magna aliqua. Ut enim ad minim veniam, quis
+                        nostrud exercitation ullamco laboris nisi ut aliquip ex
+                        ea commodo consequat.
+                    </p>
+                    <p>
+                        Duis aute irure dolor in reprehenderit in voluptate
+                        velit esse cillum dolore eu fugiat nulla pariatur.
+                    </p>
+                    <p>
+                        Excepteur sint occaecat cupidatat non proident, sunt in
+                        culpa qui officia deserunt mollit anim id est laborum.
+                    </p>
+                </div>
+                <div class="columns2">
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing
+                        elit, sed do eiusmod tempor incididunt ut labore et
+                        dolore magna aliqua. Ut enim ad minim veniam, quis
+                        nostrud exercitation ullamco laboris nisi ut aliquip ex
+                        ea commodo consequat.
+                    </p>
+                    <p>
+                        Duis aute irure dolor in reprehenderit in voluptate
+                        velit esse cillum dolore eu fugiat nulla pariatur.
+                    </p>
+                    <p>
+                        Excepteur sint occaecat cupidatat non proident, sunt in
+                        culpa qui officia deserunt mollit anim id est laborum.
+                    </p>
+                </div>
+                <div class="masonry">"
+                    <img alt="placeholder image" src="https://placehold.co/400x300/cccccc/969696.png?font=lato">
+                    <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec4.jpg">
+                    <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182">
+                    <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec2.jpg">
+                    <img alt="placeholder image" src="https://placehold.co/768x1024/cccccc/969696.png?font=lato">
+                    <img alt="placeholder image" src="https://placehold.co/400x1200/cccccc/969696.png?font=lato">
+                    <p>
+                        Duis aute irure dolor in reprehenderit in voluptate
+                        velit esse cillum dolore eu fugiat nulla pariatur.
+                    </p>
+                    <p>
+                        Excepteur sint occaecat cupidatat non proident, sunt in
+                        culpa qui officia deserunt mollit anim id est laborum.
+                    </p>
+                </div>
             </section>
             <section>
                 <h4 class="yck-h5">Heading Level Four - 2 columns</h4>
-                    <div class="columns2">
-                        <p>
-                            Duis aute irure dolor in reprehenderit in voluptate
-                            velit esse cillum dolore eu fugiat nulla pariatur.
-                        </p>
-                        <figure>
-                            <img alt="placeholder image" src="https://placehold.co/400x300/cccccc/969696.png?font=lato">
-                            <figcaption>Caption only ...</figcaption>
-                        </figure>
-                        <ol>
-                            <li>Lorem ipsum dolor sit amet.</li>
-                            <li>Consectetur adipiscing elit.</li>
-                            <li>Integer nec odio. Praesent libero.</li>
-                        </ol>
-                        <ul>
-                            <li>Lorem ipsum dolor sit amet.</li>
-                            <li>Consectetur adipiscing elit.</li>
-                            <li>Integer nec odio. Praesent libero.</li>
-                        </ul>
-                        <p>
-                            Excepteur sint occaecat cupidatat non proident, sunt in
-                            culpa qui officia deserunt mollit anim id est laborum.
-                        </p>
-                        <ol start="4">
-                            <li>
-                                Lorem ipsum dolor sit amet.
-                                <ul>
-                                    <li>Lorem ipsum dolor sit amet.</li>
-                                    <li>Consectetur adipiscing elit.</li>
-                                    <li>Integer nec odio. Praesent libero.</li>
-                                </ul>
-                            </li>
-                            <li>Consectetur adipiscing elit.</li>
-                            <li>Integer nec odio. Praesent libero.</li>
-                        </ol>
-                    </div>
+                <div class="columns2">
+                    <p>
+                        Duis aute irure dolor in reprehenderit in voluptate
+                        velit esse cillum dolore eu fugiat nulla pariatur.
+                    </p>
+                    <figure>
+                        <img alt="placeholder image" src="https://placehold.co/400x300/cccccc/969696.png?font=lato">
+                        <figcaption>Caption only ...</figcaption>
+                    </figure>
+                    <ol>
+                        <li>Lorem ipsum dolor sit amet.</li>
+                        <li>Consectetur adipiscing elit.</li>
+                        <li>Integer nec odio. Praesent libero.</li>
+                    </ol>
+                    <ul>
+                        <li>Lorem ipsum dolor sit amet.</li>
+                        <li>Consectetur adipiscing elit.</li>
+                        <li>Integer nec odio. Praesent libero.</li>
+                    </ul>
+                    <p>
+                        Excepteur sint occaecat cupidatat non proident, sunt in
+                        culpa qui officia deserunt mollit anim id est laborum.
+                    </p>
+                    <ol start="4">
+                        <li>
+                            Lorem ipsum dolor sit amet.
+                            <ul>
+                                <li>Lorem ipsum dolor sit amet.</li>
+                                <li>Consectetur adipiscing elit.</li>
+                                <li>Integer nec odio. Praesent libero.</li>
+                            </ul>
+                        </li>
+                        <li>Consectetur adipiscing elit.</li>
+                        <li>Integer nec odio. Praesent libero.</li>
+                    </ol>
+                </div>
             </section>
             <section>
                 <h5 class="yck-h5">Heading Level Five</h5>
@@ -452,19 +479,21 @@ image: /images/YCKLogo.svg
             </section>
             <section>
                 <h6>Heading Level Six</h6>
-                <p>
-                    Vestibulum ante ipsum primis in faucibus orci luctus et
-                    ultrices posuere cubilia curae; Sed nec
-                    <a href="#">nunc suscipit</a>, viverra mi nec, tristique
-                    nunc. Ut vehicula
-                    <a class="text-link" href="#">bibendum</a> justo, a accumsan
-                    elit rhoncus sit amet.
-                </p>
-                <p class="small">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Curabitur at odio et metus volutpat condimentum quis nec
-                    enim. Donec id dictum ligula, ut tempus orci.
-                </p>
+                <div>
+                    <p>
+                        Vestibulum ante ipsum primis in faucibus orci luctus et
+                        ultrices posuere cubilia curae; Sed nec
+                        <a href="#">nunc suscipit</a>, viverra mi nec, tristique
+                        nunc. Ut vehicula
+                        <a class="text-link" href="#">bibendum</a> justo, a accumsan
+                        elit rhoncus sit amet.
+                    </p>
+                    <p class="small">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                        Curabitur at odio et metus volutpat condimentum quis nec
+                        enim. Donec id dictum ligula, ut tempus orci.
+                    </p>
+                </div>
             </section>
         </article>
     </div>
@@ -472,7 +501,7 @@ image: /images/YCKLogo.svg
 <div class="yck-component">
     <div class="regular-flow">
         <article>
-            <section>
+            <section id="section2">
                 <h2 class="dropcap-title">Elegant Dropcap Heading</h2>
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -489,32 +518,35 @@ image: /images/YCKLogo.svg
             <section>
                 <details>
                     <summary>First Accordion ...</summary>
-                    <p>
-                        Donec ullamcorper nulla non metus auctor fringilla. Sed
-                        posuere consectetur est at lobortis.
-                    </p>
-                    <ul>
-                        <li>Item 1 ...</li>
-                        <li>Item 2 ...</li>
-                        <li>Item 3 ...</li>
-                    </ul>
-                    <ol>
-                        <li>Item 1 ...</li>
-                        <li>Item 2 ...</li>
-                        <li>Item 3 ...</li>
-                    </ol>
-                    <p>
-                        This is within the paragraph. Donec ullamcorper nulla non
-                        metus auctor fringilla.
-                    </p>
-                    This is without paragraph.
+                    <div>
+                        <p>
+                            Donec ullamcorper nulla non metus auctor fringilla. Sed
+                            posuere consectetur est at lobortis.
+                        </p>
+                        <ul>
+                            <li>Item 1 ...</li>
+                            <li>Item 2 ...</li>
+                            <li>Item 3 ...</li>
+                        </ul>
+                        <ol>
+                            <li>Item 1 ...</li>
+                            <li>Item 2 ...</li>
+                            <li>Item 3 ...</li>
+                        </ol>
+                        <p>
+                            This is within the paragraph. Donec ullamcorper nulla non
+                            metus auctor fringilla.
+                        </p>
+                        This is without paragraph.
+                    </div>
                 </details>
                 <details>
-                    <summary class="bg-yckorange">Second Accordion ...</summary>
-                    <p>
-                        Donec ullamcorper nulla non metus auctor fringilla. Sed
-                        posuere consectetur est at lobortis.
-                    </p>
+                    <summary>Second Accordion ...</summary>
+                    <div>
+                        <p>
+                            Donec ullamcorper nulla non metus auctor fringilla. Sed
+                            posuere consectetur est at lobortis.
+                        </p>
                         <div class="columns2">
                             <ul>
                                 <li>Item 1 ...</li>
@@ -531,21 +563,16 @@ image: /images/YCKLogo.svg
                                 non metus auctor fringilla.
                             </p>
                         </div>
+                    </div>
                 </details>
             </section>
-					<section>
-						<iframe height="100vh" width="100%" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/education-career-guidance/index.html"></iframe>
-					</section>
             <div class="deadctr-container">
-                <div class="button-container">
-                    <a href="#top">
-                        <button class="buttontotop">
-                            <img class="svgIcon" alt="Back to Top" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Icons/svgiconwht.svg">
-                        </button>
-                    </a>
-                </div>
-            </div>
-        </article>
+                <a href="#top">
+                    <button class="buttontotop">
+                        <img class="svgIcon" alt="Back to Top" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Icons/svgiconwht.svg">
+                    </button>
+                </a>
+        </div></article>
     </div>
 </div>
 
