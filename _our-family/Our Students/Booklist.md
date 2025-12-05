@@ -573,7 +573,8 @@ h6,
     text-decoration: none;
 }
 	
-.yck-component a.text-link img[src*="file_pdf.svg"] {
+.yck-component a.text-link img {
+	display: inline-block;
   width: var(--yck-step-0);
   height: var(--yck-step-0);
   object-fit: contain;
@@ -601,7 +602,7 @@ h6,
 .yck-component a[target="_blank"]:not(.text-link)::after,
 .yck-component a:not(.text-link)::before,
 .yck-component a:not(.text-link)::after {
-    display: none;
+    display: none !important;
 }
 
 /* --- Tables --- */
