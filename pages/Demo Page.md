@@ -578,21 +578,41 @@ image: /images/YCKLogo.svg
 
 <style>
 /* Global and Root Variables */
+@import "props.animations.css";
+
 :root {
-    --font-antique: Superclarendon, Bookman Old Style, URW Bookman, URW Bookman L, Georgia Pro,
+    --font-antique:
+        Superclarendon, Bookman Old Style, URW Bookman, URW Bookman L, Georgia Pro,
         Georgia, serif;
-    --font-classical-humanist: Optima, Candara, Noto Sans, source-sans-pro, sans-serif;
-    --font-didone: Didot, Bodoni MT, Noto Serif Display, URW Palladio L, P052, Sylfaen, serif;
-    --font-geometric-humanist: Avenir, Montserrat, Corbel, URW Gothic, source-sans-pro, sans-serif;
-    --font-handwritten: Segoe Print, Bradley Hand, Chilanka, TSCu_Comic, casual, cursive;
-    --font-humanist: Seravek, Gill Sans Nova, Ubuntu, Calibri, DejaVu Sans, source-sans-pro, sans-serif;
-    --font-industrial: Bahnschrift, DIN Alternate, Franklin Gothic Medium, Nimbus Sans Narrow, sans-serif-condensed, sans-serif;
-    --font-monospace-code: Dank Mono, Operator Mono, Inconsolata, Fira Mono, ui-monospace, SF Mono, Monaco, Droid Sans Mono, Source Code Pro, Cascadia Code, Menlo, Consolas, DejaVu Sans Mono, monospace;
+    --font-classical-humanist:
+        Optima, Candara, Noto Sans, source-sans-pro, sans-serif;
+    --font-didone:
+        Didot, Bodoni MT, Noto Serif Display, URW Palladio L, P052, Sylfaen, serif;
+    --font-geometric-humanist:
+        Avenir, Montserrat, Corbel, URW Gothic, source-sans-pro, sans-serif;
+    --font-handwritten:
+        Segoe Print, Bradley Hand, Chilanka, TSCu_Comic, casual, cursive;
+    --font-humanist:
+        Seravek, Gill Sans Nova, Ubuntu, Calibri, DejaVu Sans, source-sans-pro,
+        sans-serif;
+    --font-industrial:
+        Bahnschrift, DIN Alternate, Franklin Gothic Medium, Nimbus Sans Narrow,
+        sans-serif-condensed, sans-serif;
+    --font-monospace-code:
+        Dank Mono, Operator Mono, Inconsolata, Fira Mono, ui-monospace, SF Mono,
+        Monaco, Droid Sans Mono, Source Code Pro, Cascadia Code, Menlo, Consolas,
+        DejaVu Sans Mono, monospace;
     --font-monospace-slab-serif: Nimbus Mono PS, Courier New, monospace;
-    --font-neo-grotesque: Inter, Roboto, Helvetica Neue, Arial Nova, Nimbus Sans, Arial, sans-serif;
-    --font-old-style: Iowan Old Style, Palatino Linotype, URW Palladio L, P052, serif;
-    --font-rounded-sans: ui-rounded, Hiragino Maru Gothic ProN, Quicksand, Comfortaa, Manjari, Arial Rounded MT, Arial Rounded MT Bold, Calibri, source-sans-pro, sans-serif;
-    --font-slab-serif: Rockwell, Rockwell Nova, Roboto Slab, DejaVu Serif, Sitka Small, serif;
+    --font-neo-grotesque:
+        Inter, Roboto, Helvetica Neue, Arial Nova, Nimbus Sans, Arial, sans-serif;
+    --font-old-style:
+        Iowan Old Style, Palatino Linotype, URW Palladio L, P052, serif;
+    --font-rounded-sans:
+        ui-rounded, Hiragino Maru Gothic ProN, Quicksand, Comfortaa, Manjari,
+        Arial Rounded MT, Arial Rounded MT Bold, Calibri, source-sans-pro,
+        sans-serif;
+    --font-slab-serif:
+        Rockwell, Rockwell Nova, Roboto Slab, DejaVu Serif, Sitka Small, serif;
     --font-system-ui: system-ui, sans-serif;
     --font-transitional: Charter, Bitstream Charter, Sitka Text, Cambria, serif;
     /* Neutral */
@@ -681,7 +701,187 @@ image: /images/YCKLogo.svg
     --ratio-square: 1;
     --ratio-ultrawide: 18/5;
     --ratio-widescreen: 16/9;
+
+    --ease-1: cubic-bezier(.25, 0, .5, 1);
+    --ease-2: cubic-bezier(.25, 0, .4, 1);
+    --ease-3: cubic-bezier(.25, 0, .3, 1);
+    --ease-4: cubic-bezier(.25, 0, .2, 1);
+    --ease-5: cubic-bezier(.25, 0, .1, 1);
+    --ease-in-1: cubic-bezier(.25, 0, 1, 1);
+    --ease-in-2: cubic-bezier(.50, 0, 1, 1);
+    --ease-in-3: cubic-bezier(.70, 0, 1, 1);
+    --ease-in-4: cubic-bezier(.90, 0, 1, 1);
+    --ease-in-5: cubic-bezier(1, 0, 1, 1);
+    --ease-out-1: cubic-bezier(0, 0, .75, 1);
+    --ease-out-2: cubic-bezier(0, 0, .50, 1);
+    --ease-out-3: cubic-bezier(0, 0, .3, 1);
+    --ease-out-4: cubic-bezier(0, 0, .1, 1);
+    --ease-out-5: cubic-bezier(0, 0, 0, 1);
+    --ease-in-out-1: cubic-bezier(.1, 0, .9, 1);
+    --ease-in-out-2: cubic-bezier(.3, 0, .7, 1);
+    --ease-in-out-3: cubic-bezier(.5, 0, .5, 1);
+    --ease-in-out-4: cubic-bezier(.7, 0, .3, 1);
+    --ease-in-out-5: cubic-bezier(.9, 0, .1, 1);
+    --ease-elastic-out-1: cubic-bezier(.5, .75, .75, 1.25);
+    --ease-elastic-out-2: cubic-bezier(.5, 1, .75, 1.25);
+    --ease-elastic-out-3: cubic-bezier(.5, 1.25, .75, 1.25);
+    --ease-elastic-out-4: cubic-bezier(.5, 1.5, .75, 1.25);
+    --ease-elastic-out-5: cubic-bezier(.5, 1.75, .75, 1.25);
+    --ease-elastic-in-1: cubic-bezier(.5, -0.25, .75, 1);
+    --ease-elastic-in-2: cubic-bezier(.5, -0.50, .75, 1);
+    --ease-elastic-in-3: cubic-bezier(.5, -0.75, .75, 1);
+    --ease-elastic-in-4: cubic-bezier(.5, -1.00, .75, 1);
+    --ease-elastic-in-5: cubic-bezier(.5, -1.25, .75, 1);
+    --ease-elastic-in-out-1: cubic-bezier(.5, -.1, .1, 1.5);
+    --ease-elastic-in-out-2: cubic-bezier(.5, -.3, .1, 1.5);
+    --ease-elastic-in-out-3: cubic-bezier(.5, -.5, .1, 1.5);
+    --ease-elastic-in-out-4: cubic-bezier(.5, -.7, .1, 1.5);
+    --ease-elastic-in-out-5: cubic-bezier(.5, -.9, .1, 1.5);
+    --ease-step-1: steps(2);
+    --ease-step-2: steps(3);
+    --ease-step-3: steps(4);
+    --ease-step-4: steps(7);
+    --ease-step-5: steps(10);
+    --ease-elastic-1: var(--ease-elastic-out-1);
+    --ease-elastic-2: var(--ease-elastic-out-2);
+    --ease-elastic-3: var(--ease-elastic-out-3);
+    --ease-elastic-4: var(--ease-elastic-out-4);
+    --ease-elastic-5: var(--ease-elastic-out-5);
+    --ease-squish-1: var(--ease-elastic-in-out-1);
+    --ease-squish-2: var(--ease-elastic-in-out-2);
+    --ease-squish-3: var(--ease-elastic-in-out-3);
+    --ease-squish-4: var(--ease-elastic-in-out-4);
+    --ease-squish-5: var(--ease-elastic-in-out-5);
+    --ease-spring-1: linear(
+      0, 0.006, 0.025 2.8%, 0.101 6.1%, 0.539 18.9%, 0.721 25.3%, 0.849 31.5%,
+      0.937 38.1%, 0.968 41.8%, 0.991 45.7%, 1.006 50.1%, 1.015 55%, 1.017 63.9%,
+      1.001);
+    --ease-spring-2: linear(
+      0, 0.007, 0.029 2.2%, 0.118 4.7%, 0.625 14.4%, 0.826 19%, 0.902, 0.962,
+      1.008 26.1%, 1.041 28.7%, 1.064 32.1%, 1.07 36%, 1.061 40.5%, 1.015 53.4%,
+      0.999 61.6%, 0.995 71.2%, 1
+    );
+    --ease-spring-3: linear(
+      0, 0.009, 0.035 2.1%, 0.141 4.4%, 0.723 12.9%, 0.938 16.7%, 1.017, 1.077,
+      1.121, 1.149 24.3%, 1.159, 1.163, 1.161, 1.154 29.9%, 1.129 32.8%,
+      1.051 39.6%, 1.017 43.1%, 0.991, 0.977 51%, 0.974 53.8%, 0.975 57.1%,
+      0.997 69.8%, 1.003 76.9%, 1
+    );
+    --ease-spring-4: linear(
+      0, 0.009, 0.037 1.7%, 0.153 3.6%, 0.776 10.3%, 1.001, 1.142 16%, 1.185,
+      1.209 19%, 1.215 19.9% 20.8%, 1.199, 1.165 25%, 1.056 30.3%, 1.008 33%, 0.973,
+      0.955 39.2%, 0.953 41.1%, 0.957 43.3%, 0.998 53.3%, 1.009 59.1% 63.7%,
+      0.998 78.9%, 1
+    );
+    --ease-spring-5: linear(
+      0, 0.01, 0.04 1.6%, 0.161 3.3%, 0.816 9.4%, 1.046, 1.189 14.4%, 1.231,
+      1.254 17%, 1.259, 1.257 18.6%, 1.236, 1.194 22.3%, 1.057 27%, 0.999 29.4%,
+      0.955 32.1%, 0.942, 0.935 34.9%, 0.933, 0.939 38.4%, 1 47.3%, 1.011,
+      1.017 52.6%, 1.016 56.4%, 1 65.2%, 0.996 70.2%, 1.001 87.2%, 1
+    );
+    --ease-bounce-1: linear(
+      0, 0.004, 0.016, 0.035, 0.063, 0.098, 0.141, 0.191, 0.25, 0.316, 0.391 36.8%,
+      0.563, 0.766, 1 58.8%, 0.946, 0.908 69.1%, 0.895, 0.885, 0.879, 0.878, 0.879,
+      0.885, 0.895, 0.908 89.7%, 0.946, 1
+    );
+    --ease-bounce-2: linear(
+      0, 0.004, 0.016, 0.035, 0.063, 0.098, 0.141 15.1%, 0.25, 0.391, 0.562, 0.765,
+      1, 0.892 45.2%, 0.849, 0.815, 0.788, 0.769, 0.757, 0.753, 0.757, 0.769, 0.788,
+      0.815, 0.85, 0.892 75.2%, 1 80.2%, 0.973, 0.954, 0.943, 0.939, 0.943, 0.954,
+      0.973, 1
+    );
+    --ease-bounce-3: linear(
+      0, 0.004, 0.016, 0.035, 0.062, 0.098, 0.141 11.4%, 0.25, 0.39, 0.562, 0.764,
+      1 30.3%, 0.847 34.8%, 0.787, 0.737, 0.699, 0.672, 0.655, 0.65, 0.656, 0.672,
+      0.699, 0.738, 0.787, 0.847 61.7%, 1 66.2%, 0.946, 0.908, 0.885 74.2%, 0.879,
+      0.878, 0.879, 0.885 79.5%, 0.908, 0.946, 1 87.4%, 0.981, 0.968, 0.96, 0.957,
+      0.96, 0.968, 0.981, 1
+    );
+    --ease-bounce-4: linear(
+      0, 0.004, 0.016 3%, 0.062, 0.141, 0.25, 0.391, 0.562 18.2%, 1 24.3%, 0.81,
+      0.676 32.3%, 0.629, 0.595, 0.575, 0.568, 0.575, 0.595, 0.629, 0.676 48.2%,
+      0.811, 1 56.2%, 0.918, 0.86, 0.825, 0.814, 0.825, 0.86, 0.918, 1 77.2%,
+      0.94 80.6%, 0.925, 0.92, 0.925, 0.94 87.5%, 1 90.9%, 0.974, 0.965, 0.974, 1
+    );
+    --ease-bounce-5: linear(
+      0, 0.004, 0.016 2.5%, 0.063, 0.141, 0.25 10.1%, 0.562, 1 20.2%, 0.783, 0.627,
+      0.534 30.9%, 0.511, 0.503, 0.511, 0.534 38%, 0.627, 0.782, 1 48.7%, 0.892,
+      0.815, 0.769 56.3%, 0.757, 0.753, 0.757, 0.769 61.3%, 0.815, 0.892, 1 68.8%,
+      0.908 72.4%, 0.885, 0.878, 0.885, 0.908 79.4%, 1 83%, 0.954 85.5%, 0.943,
+      0.939, 0.943, 0.954 90.5%, 1 93%, 0.977, 0.97, 0.977, 1
+    );
+    --ease-circ-in: cubic-bezier(.6,.04,.98,.335);
+    --ease-circ-in-out: cubic-bezier(.785,.135,.15,.86);
+    --ease-circ-out: cubic-bezier(.075,.82,.165,1);
+    --ease-cubic-in: cubic-bezier(.55,.055,.675,.19);
+    --ease-cubic-in-out: cubic-bezier(.645,.045,.355,1);
+    --ease-cubic-out: cubic-bezier(.215,.61,.355,1);
+    --ease-expo-in: cubic-bezier(.95,.05,.795,.035);
+    --ease-expo-in-out: cubic-bezier(1,0,0,1);
+    --ease-expo-out: cubic-bezier(.19,1,.22,1);
+    --ease-quad-in: cubic-bezier(.55,.085,.68,.53);
+    --ease-quad-in-out: cubic-bezier(.455,.03,.515,.955);
+    --ease-quad-out: cubic-bezier(.25,.46,.45,.94);
+    --ease-quart-in: cubic-bezier(.895,.03,.685,.22);
+    --ease-quart-in-out: cubic-bezier(.77,0,.175,1);
+    --ease-quart-out: cubic-bezier(.165,.84,.44,1);
+    --ease-quint-in: cubic-bezier(.755,.05,.855,.06);
+    --ease-quint-in-out: cubic-bezier(.86,0,.07,1);
+    --ease-quint-out: cubic-bezier(.23,1,.32,1);
+    --ease-sine-in: cubic-bezier(.47,0,.745,.715);
+    --ease-sine-in-out: cubic-bezier(.445,.05,.55,.95);
+    --ease-sine-out: cubic-bezier(.39,.575,.565,1);
+
+    --shadow-color: 220 3% 15%;
+    --shadow-strength: 1%;
+    --inner-shadow-highlight: inset 0 -.5px 0 0 #fff, inset 0 .5px 0 0 #0001;
+  --shadow-1: 0 1px 2px -1px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 9%));
+  --shadow-2:
+    0 3px 5px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 3%)),
+    0 7px 14px -5px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 5%));
+  --shadow-3:
+    0 -1px 3px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 2%)),
+    0 1px 2px -5px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 2%)),
+    0 2px 5px -5px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 4%)),
+    0 4px 12px -5px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 5%)),
+    0 12px 15px -5px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 7%));
+  --shadow-4:
+    0 -2px 5px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 2%)),
+    0 1px 1px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 3%)),
+    0 2px 2px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 3%)),
+    0 5px 5px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 4%)),
+    0 9px 9px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 5%)),
+    0 16px 16px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 6%));
+  --shadow-5:
+    0 -1px 2px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 2%)),
+    0 2px 1px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 3%)),
+    0 5px 5px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 3%)),
+    0 10px 10px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 4%)),
+    0 20px 20px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 5%)),
+    0 40px 40px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 7%));
+  --shadow-6:
+    0 -1px 2px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 2%)),
+    0 3px 2px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 3%)),
+    0 7px 5px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 3%)),
+    0 12px 10px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 4%)),
+    0 22px 18px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 5%)),
+    0 41px 33px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 6%)),
+    0 100px 80px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 7%));
+  --inner-shadow-0: inset 0 0 0 1px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 9%));
+  --inner-shadow-1: inset 0 1px 2px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 9%)), var(--inner-shadow-highlight);
+  --inner-shadow-2: inset 0 1px 4px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 9%)), var(--inner-shadow-highlight);
+  --inner-shadow-3: inset 0 2px 8px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 9%)), var(--inner-shadow-highlight);
+  --inner-shadow-4: inset 0 2px 14px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 9%)), var(--inner-shadow-highlight);
 }
+
+@media (--OSdark) {
+  :where(html) {
+    --shadow-color: 220 40% 2%;
+    --shadow-strength: 25%;
+    --inner-shadow-highlight: inset 0 -.5px 0 0 #fff1, inset 0 .5px 0 0 #0007;
+  }
+}
+
 
 /* Box Sizing */
 *,
@@ -913,17 +1113,17 @@ h6,
         font-weight: 400;
         line-height: 1.4em;
         position: relative;
+    }
 
-        cite {
-            display: block;
-            text-align: right;
-            font-family: var(--font-transitional);
-            font-weight: 500;
-            font-style: oblique;
-            margin-top: 1rem;
-            margin-right: var(--yck-space-s-xl);
-            font-size: var(--yck-step--1);
-        }
+    cite {
+        display: block;
+        text-align: right;
+        font-family: var(--font-transitional);
+        font-weight: 500;
+        font-style: oblique;
+        margin-top: 1rem;
+        margin-right: var(--yck-space-s-xl);
+        font-size: var(--yck-step--1);
     }
 
     .blockquote::before {
@@ -955,9 +1155,7 @@ h6,
     text-decoration-thickness: 2px;
     text-underline-offset: 3px;
 
-    &:hover,
-    &:active,
-    &:focus {
+    &:hover, &:active, &:focus {
         transition: color 0.7s ease-in;
         color: var(--yck-green600);
     }
@@ -1002,11 +1200,23 @@ h6,
 .yck-component a:focus {
     color: currentColor;
 }
+    
+.yck-component a:visited {
+      color: var(--yck-green500);
+    }
 
 .yck-component a.text-link {
     position: relative;
     padding-bottom: 2px;
     text-decoration: none;
+}
+    
+.yck-component a.text-link img {
+    display: inline-block;
+  width: var(--yck-step-0);
+  height: var(--yck-step-0);
+  object-fit: contain;
+  vertical-align: middle;
 }
 
 .yck-component a.text-link::after {
@@ -1026,10 +1236,10 @@ h6,
     width: 100%;
 }
 
-.yck-component a[target="_blank"]:not(.text-link):after,
-.yck-component a[target="_blank"]:not(.text-link):before,
-.yck-component a:not(.text-link):after,
-.yck-component a:not(.text-link):before {
+.yck-component a[target="_blank"]:not(.text-link)::before,
+.yck-component a[target="_blank"]:not(.text-link)::after,
+.yck-component a:not(.text-link)::before,
+.yck-component a:not(.text-link)::after {
     display: none !important;
 }
 
@@ -1158,7 +1368,7 @@ h6,
 
 /* ✅ INSERT NEW RULES HERE: Row striping & hover */
 .yck-component .rwd-table tbody tr:nth-child(odd) {
-    background-color: var(--neutral-200);
+    background-color: var(--neutral-100);
     /* #fcfcfa */
     transition: background-color 0.7s ease-in-out;
 }
@@ -1178,15 +1388,15 @@ h6,
     border-color: transparent;
 }
 
-.yck-component .rwd-table td:before {
+.yck-component .rwd-table td::before {
     content: attr(data-th) ": ";
-    font-size: var(--yck-step-1);
+    font-size: var(--yck-step-0);
     font-weight: bold;
     display: inline-block;
 }
 
 @media (min-width: 480px) {
-    .yck-component .rwd-table td:before {
+    .yck-component .rwd-table td::before {
         display: none;
     }
 }
@@ -1223,7 +1433,6 @@ h6,
     }
 
     .yck-component .rwd-table {
-        display: table;
         background: transparent;
         color: var(--neutral-800);
         border-radius: var(--yck-rounded-corners);
@@ -1245,7 +1454,7 @@ h6,
     }
 
     .yck-component .rwd-table th,
-    .yck-component .rwd-table td:before {
+    .yck-component .rwd-table td::before {
         color: var(--neutral-700);
     }
 }
@@ -1253,11 +1462,14 @@ h6,
 /* Layouts */
 /* Centering */
 .yck-component .deadctr-container {
+    display: flex;
     margin: 0 auto;
     padding: 0;
     display: grid;
     height: auto;
-    place-items: center;
+    justify-items: center;
+    align-content: space-around;
+    /* place-items: center; */
 }
 
 .yck-component figure,
@@ -1293,9 +1505,9 @@ h6,
     display: flex;
     flex-wrap: wrap;
     gap: var(--yck-spacing-unit);
-    margin-left: auto;
-    margin-right: auto;
-    margin-block: 1em;
+    margin-inline: auto;
+    margin-top: 1.5em;
+    margin-bottom: var(--yck-space-s-xl);
 }
 
 .yck-component .yck-flexitem {
@@ -1328,8 +1540,11 @@ h6,
     display: flex;
     flex-wrap: wrap;
     width: 100%;
+    margin-inline: auto;
+    margin-top: 1.5em;
     margin-bottom: var(--yck-space-s-xl);
     gap: var(--yck-spacing-unit);
+    justify-content: space-between;
 }
 
 .yck-component .yck-card {
@@ -1340,7 +1555,7 @@ h6,
     color: var(--neutral-800);
     border-radius: var(--yck-rounded-corners);
     background: linear-gradient(145deg, rgba(255, 255, 255, 0) 0%, rgb(255, 233, 193, 0.8) 100%);
-    flex: 1 0 calc(22% - var(--yck-spacing-unit));
+    flex: 1 0 calc(10% - var(--yck-spacing-unit));
     border: 1px solid var(--yck-orange300);
     -webkit-backdrop-filter: blur(50px) brightness(1.7) saturate(1.4);
     backdrop-filter: blur(50px) brightness(1.7) saturate(1.4);
@@ -1357,7 +1572,7 @@ h6,
 
 .yck-component .yck-card-body {
     padding-inline: 1em;
-    color: #333;
+    color: var(--neutral-800);
     flex: 1;
 }
 
@@ -1374,6 +1589,9 @@ h6,
 .yck-component .autofit-grid {
     display: grid;
     gap: var(--yck-spacing-unit);
+    margin-inline: auto;
+    margin-top: 1.5em;
+    margin-bottom: var(--yck-space-s-xl);
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
 }
 
@@ -1602,68 +1820,64 @@ h6,
 }
 
 /* Buttons */
+.yck-component 
 .buttontotop {
-    position: relative;
-    display: flex;
-    width: var(--yck-step-3);
-    height: var(--yck-step-3);
-    overflow: hidden;
-    font-weight: 600;
-    cursor: pointer;
-    transition-duration: 0.3s;
-    border: none;
-    border-radius: 50%;
-    background-color: #e37f2a;
-    box-shadow: 0 0 0 4px #fabe64;
-    align-items: center;
-    justify-content: center;
-}
+  position: relative;
+  display: flex;
+  width: var(--yck-step-3);
+  height: var(--yck-step-3);
+  overflow: hidden;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s var(--ease-elastic-5);
+  border: none;
+  border-radius: 50%;
+  background-color: var(--yck-orange500);
+  box-shadow: 0 0 0 4px var(--yck-orange200);
+  align-items: center;
+  justify-content: center;
 
-img.svgIcon {
-    width: var(--yck-step-0);
-    transition-duration: 0.3s;
-}
-
-.buttontotop:hover,
-.buttontotop:active,
-.buttontotop:focus {
+  &:hover,
+  &:active,
+  &:focus {
     width: 12ch;
-    transition-duration: 0.3s;
+    transition: all 0.3s var(--ease-elastic-5);
     border-radius: 50px;
-    background-color: #fabe64;
+    background-color: var(--yck-orange700);
     align-items: center;
-}
 
-.buttontotop:hover .svgIcon,
-.buttontotop:active .svgIcon,
-.buttontotop:focus .svgIcon {
-    width: var(--yck-step-0);
-    transition-duration: 0.3s;
-    transform: translateY(-200%);
-}
+    .svgIcon {
+      width: var(--yck-step-0);
+      transition: all 0.3s var(--ease-elastic-5);
+      transform: translateY(-200%);
+    }
 
-.buttontotop::before {
+    &::before {
+      bottom: unset;
+      font-size: var(--yck-step-0);
+      /* transform: translateY(-30px); */
+      transition: all 0.3s var(--ease-elastic-5);
+      opacity: 1;
+    }
+  }
+
+  &::before {
     position: absolute;
     bottom: -20px;
     font-size: 0;
     content: "Back to Top";
-    transition-duration: 0.3s;
+    transition: all 0.3s var(--ease-elastic-5);
     color: white;
+  }
 }
 
-.buttontotop:hover::before,
-.buttontotop:active::before,
-.buttontotop:focus::before {
-    bottom: unset;
-    font-size: var(--yck-step-0);
-    /* transform: translateY(-30px); */
-    transition-duration: 0.3s;
-    opacity: 1;
+.yck-component img.svgIcon {
+  width: var(--yck-step-0);
+  transition: all 0.3s var(--ease-elastic-5);
 }
 
 /* From Uiverse.io by biswacpcode */
 button.cta-button {
-    text-decoration: none;
     font-size: var(--yck-step-0);
     border: none;
     background: none;
@@ -1677,18 +1891,206 @@ button.cta-button::before {
 
 button.cta-button::after,
 button.cta-button::before {
+    text-decoration: none;
     content: "";
     width: 0%;
     height: 5px;
     background: var(--yck-orange400);
     display: block;
-    transition: 0.5s cubic-bezier(0.9, 0, 0.1, 1);
+    transition: width 0.7s var(--ease-elastic-4);
 }
 
 button.cta-button:hover::after,
 button.cta-button:hover::before {
     width: 100%;
 }
+
+/* From Uiverse.io by Tsiangana */ 
+.botao {
+  width: 125px;
+  height: 45px;
+  border-radius: 20px;
+  border: none;
+  box-shadow: 1px 1px rgba(107, 221, 215, 0.37);
+  padding: 5px 10px;
+  background: rgb(47,93,197);
+  background: linear-gradient(160deg, rgba(47,93,197,1) 0%, rgba(46,86,194,1) 5%, rgba(47,93,197,1) 11%, rgba(59,190,230,1) 57%, rgba(0,212,255,1) 71%);
+  color: #fff;
+  font-family: Roboto, sans-serif;
+  font-weight: 505;
+  font-size: 16px;
+  line-height: 1;
+  cursor: pointer;
+  filter: drop-shadow(0 0 10px rgba(59, 190, 230, 0.568));
+  transition: .5s linear;
+}
+
+.botao .mysvg {
+  display: none;
+}
+
+.botao:hover {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  transition: .5s linear;
+}
+
+.botao:hover .texto {
+  display: none;
+}
+
+.botao:hover .mysvg {
+  display: inline;
+}
+
+.botao:hover::before {
+  content: '';
+  position: absolute;
+  top: -3px;
+  left: -3px;
+  width: 100%;
+  height: 100%;
+  border: 3.5px solid transparent;
+  border-top: 3.5px solid #fff;
+  border-right: 3.5px solid #fff;
+  border-radius: 50%;
+  animation: animateC 2s linear infinite;
+}
+
+@keyframes animateC {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* From Uiverse.io by mrhyddenn */ 
+.dwn-button {
+  width: fit-content;
+  display: inline-block;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+  border: none;
+  background: none;
+  color: var(--neutral-500);
+  cursor: pointer;
+  position: relative;
+  padding: 10px;
+  margin: 0;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: var(--yck-step-0);
+  transition: all .5s ease;
+}
+
+.dwn-button::before,
+.dwn-button::after {
+  content: '';
+  display: block;
+  position: absolute;
+  right: 0;
+  left: 0;
+  height: calc(50% - 5px);
+  border: 1px solid var(--neutral-400);
+  transition: all .5s ease;
+}
+
+.dwn-button::before {
+  top: 0;
+  border-bottom-width: 0;
+}
+
+.dwn-button::after {
+  bottom: 0;
+  border-top-width: 0;
+}
+
+.dwn-button:active,
+.dwn-button:focus {
+  outline: none;
+}
+
+.dwn-button:active::before,
+.dwn-button:active::after {
+  right: 3px;
+  left: 3px;
+}
+
+.dwn-button:active::before {
+  top: 3px;
+}
+
+.dwn-button:active::after {
+  bottom: 3px;
+}
+
+.dwn-button_lg {
+  position: relative;
+  display: block;
+  padding: 1em;
+  color: #fff;
+  background-color: var(--yck-green800);
+  overflow: hidden;
+  box-shadow: inset 0px 0px 0px 1px transparent;
+   border-radius: var(--yck-rounded-corners);
+}
+
+.dwn-button_lg::before {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2px;
+  height: 2px;
+  background-color: #0f1923;
+}
+
+.dwn-button_lg::after {
+  content: '';
+  display: block;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 4px;
+  height: 4px;
+  background-color: #0f1923;
+  transition: all 1.5s var(--ease-elastic-4);
+}
+
+.dwn-button_sl {
+  display: block;
+  position: absolute;
+  top: 0;
+  bottom: -1px;
+  left: -8px;
+  width: 0;
+  background-color: var(--yck-orange400);
+  transform: skew(-15deg);
+  transition: all .7s var(--ease-elastic-in-out-4);
+}
+
+.dwn-button_text {
+  position: relative;
+}
+
+.dwn-button:hover {
+  color: #0f1923;
+}
+
+.dwn-button:hover .dwn-button_sl {
+  width: calc(100% + 15px);
+}
+
+.dwn-button:hover .dwn-button_lg::after {
+  background-color: var(--yck-orange400);
+}
+
 
 /*** Animation classes ***/
 /* Forward */
@@ -2010,56 +2412,4 @@ button.cta-button:hover::before {
         animation-range: entry 25% cover 50%;
     }
 }
-
-:where(html) {
-  --shadow-color: 220 3% 15%;
-  --shadow-strength: 1%;
-  --inner-shadow-highlight: inset 0 -.5px 0 0 #fff, inset 0 .5px 0 0 #0001;
-  --shadow-1: 0 1px 2px -1px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 9%));
-  --shadow-2: 
-    0 3px 5px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 3%)),
-    0 7px 14px -5px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 5%));
-  --shadow-3: 
-    0 -1px 3px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 2%)),
-    0 1px 2px -5px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 2%)),
-    0 2px 5px -5px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 4%)),
-    0 4px 12px -5px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 5%)),
-    0 12px 15px -5px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 7%));
-  --shadow-4: 
-    0 -2px 5px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 2%)),
-    0 1px 1px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 3%)),
-    0 2px 2px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 3%)),
-    0 5px 5px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 4%)),
-    0 9px 9px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 5%)),
-    0 16px 16px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 6%));
-  --shadow-5: 
-    0 -1px 2px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 2%)),
-    0 2px 1px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 3%)),
-    0 5px 5px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 3%)),
-    0 10px 10px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 4%)),
-    0 20px 20px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 5%)),
-    0 40px 40px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 7%));
-  --shadow-6: 
-    0 -1px 2px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 2%)),
-    0 3px 2px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 3%)),
-    0 7px 5px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 3%)),
-    0 12px 10px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 4%)),
-    0 22px 18px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 5%)),
-    0 41px 33px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 6%)),
-    0 100px 80px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 7%));
-  --inner-shadow-0: inset 0 0 0 1px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 9%));
-  --inner-shadow-1: inset 0 1px 2px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 9%)), var(--inner-shadow-highlight);
-  --inner-shadow-2: inset 0 1px 4px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 9%)), var(--inner-shadow-highlight);
-  --inner-shadow-3: inset 0 2px 8px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 9%)), var(--inner-shadow-highlight);
-  --inner-shadow-4: inset 0 2px 14px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 9%)), var(--inner-shadow-highlight);
-}
-
-@media (--OSdark) {
-  :where(html) {
-    --shadow-color: 220 40% 2%;
-    --shadow-strength: 25%;
-    --inner-shadow-highlight: inset 0 -.5px 0 0 #fff1, inset 0 .5px 0 0 #0007;
-  }
-}
-
 </style>
