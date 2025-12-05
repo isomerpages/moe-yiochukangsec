@@ -26,7 +26,7 @@ variant: markdown
         </tr>
     </tbody>
 </table>
-<table> <tbody> <tr> <th>Secondary One</th> <th>Secondary Two</th> <th>Secondary Three</th> <th>Secondary Four</th> <th>Secondary Five</th> </tr> <tr> <td><a class="text-link" href="#">Available Soon ...</a></td> <td><a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_2_booklist.pdf">Download PDF 226kb</a></td> <td><a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_3_booklist.pdf">Download PDF 256kb</a></td> <td><a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_4_booklist.pdf">Download PDF 281kb</a></td> <td><a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_5_booklist.pdf">Download PDF 200kb</a></td> </tr> </tbody> </table>
+<table style="display: none"> <tbody> <tr> <th>Secondary One</th> <th>Secondary Two</th> <th>Secondary Three</th> <th>Secondary Four</th> <th>Secondary Five</th> </tr> <tr> <td><a class="text-link" href="#">Available Soon ...</a></td> <td><a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_2_booklist.pdf">Download PDF 226kb</a></td> <td><a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_3_booklist.pdf">Download PDF 256kb</a></td> <td><a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_4_booklist.pdf">Download PDF 281kb</a></td> <td><a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_5_booklist.pdf">Download PDF 200kb</a></td> </tr> </tbody> </table>
 </div>
 </div>
 <div class="yck-component">
@@ -712,7 +712,7 @@ h6,
 .yck-component .rwd-table {
     margin-top: 1.5em;
     margin-bottom: var(--yck-space-s-xl);
-    min-width: 360px;
+    min-width: 480px;
 }
 
 .yck-component .rwd-table tr {
@@ -749,7 +749,7 @@ h6,
     display: inline-block;
 }
 
-@media (min-width: 480px) {
+@media (min-width: 520px) {
     .yck-component .rwd-table td::before {
         display: none;
     }
@@ -768,7 +768,7 @@ h6,
     font-size: var(--yck-step-0);
 }
 
-@media (min-width: 480px) {
+@media (min-width: 520px) {
 
     .yck-component .rwd-table th,
     .yck-component .rwd-table td {
@@ -799,7 +799,7 @@ h6,
         border-color: var(--neutral-200);
     }
 
-    @media (min-width: 480px) {
+    @media (min-width: 520px) {
 
         .yck-component .rwd-table th,
         .yck-component .rwd-table td {
