@@ -1030,10 +1030,7 @@ h6,
 .yck-component a[target="_blank"]:not(.text-link):before,
 .yck-component a:not(.text-link):after,
 .yck-component a:not(.text-link):before {
-    display: none;
-    text-decoration: none;
-    padding: 0;
-    margin: 0;
+    display: none !important;
 }
 
 /* --- Tables --- */
