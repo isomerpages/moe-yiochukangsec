@@ -929,10 +929,8 @@ third_nav_title: Our Achievements
                                                         </button>
                                                     </a>
                                                 </div>
-                    </details></section></article></div>
-                
-            
-            <section>
+                    </details></section>
+					<section>
                 <details name="achievements">
                     <summary id="achieve2020">Achievements 2020</summary>
                     <table class="yck-table">
@@ -1120,7 +1118,7 @@ third_nav_title: Our Achievements
                                                         </button>
                                                     </a>
                                                 </div>
-                    </details></section></div>
+                    </details></section></article></div>
                 
             
         
@@ -2961,4 +2959,4 @@ button.cta-button:hover::before {
         animation-range: entry 25% cover 50%;
     }
 }
-</style>
+</style></div>
