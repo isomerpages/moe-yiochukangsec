@@ -18,15 +18,15 @@ variant: markdown
             <th>Secondary Five</th>
         </tr>
         <tr>
-            <td data-th="Secondary One">&nbsp;<a class="text-link" href="#">Available Soon ...</a>&nbsp;</td>
-            <td data-th="Secondary Two">&nbsp;<a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_2_booklist.pdf">Download PDF 226kb</a>&nbsp;</td>
+            <td data-th="Secondary One">Available Soon ...</td>
+            <td data-th="Secondary Two"><a class="text-link" target="_blank" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_2_booklist.pdf">Download <img src="/images/Icons/file_pdf.svg"> PDF 226kb</a></td>
             <td data-th="Secondary Three">&nbsp;<a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_3_booklist.pdf">Download PDF 256kb</a>&nbsp;</td>
             <td data-th="Secondary Four">&nbsp;<a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_4_booklist.pdf">Download PDF 281kb</a>&nbsp;</td>
             <td data-th="Secondary Five">&nbsp;<a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_5_booklist.pdf">Download PDF 200kb</a>&nbsp;</td>
         </tr>
     </tbody>
 </table>
-<table style="display: none"> <tbody> <tr> <th>Secondary One</th> <th>Secondary Two</th> <th>Secondary Three</th> <th>Secondary Four</th> <th>Secondary Five</th> </tr> <tr> <td><a class="text-link" href="#">Available Soon ...</a></td> <td><a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_2_booklist.pdf">Download PDF 226kb</a></td> <td><a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_3_booklist.pdf">Download PDF 256kb</a></td> <td><a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_4_booklist.pdf">Download PDF 281kb</a></td> <td><a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_5_booklist.pdf">Download PDF 200kb</a></td> </tr> </tbody> </table>
+<table style="display: none"> <tbody> <tr> <th>Secondary One</th> <th>Secondary Two</th> <th>Secondary Three</th> <th>Secondary Four</th> <th>Secondary Five</th> </tr> <tr> <td>Available Soon ...</td> <td><a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_2_booklist.pdf">Download PDF 226kb</a></td> <td><a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_3_booklist.pdf">Download PDF 256kb</a></td> <td><a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_4_booklist.pdf">Download PDF 281kb</a></td> <td><a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_5_booklist.pdf">Download PDF 200kb</a></td> </tr> </tbody> </table>
 </div>
 </div>
 <div class="yck-component">
@@ -571,6 +571,13 @@ h6,
     position: relative;
     padding-bottom: 2px;
     text-decoration: none;
+}
+	
+.yck-component a.text-link img[src*="file_pdf.svg"] {
+  width: var(--yck-step-0);
+  height: var(--yck-step-0);
+  object-fit: contain;
+  vertical-align: middle;
 }
 
 .yck-component a.text-link::after {
