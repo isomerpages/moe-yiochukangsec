@@ -18,7 +18,7 @@ variant: markdown
             <th>Secondary Five</th>
         </tr>
         <tr>
-            <td data-th="Secondary One">Available Soon ...</td>
+            <td data-th="Secondary One"><a class="text-link" target="_blank" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_1_booklist.pdf">Download PDF 216kb</a></td>
             <td data-th="Secondary Two"><a class="text-link" target="_blank" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_2_booklist.pdf">Download PDF 226kb</a></td>
             <td data-th="Secondary Three">&nbsp;<a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_3_booklist.pdf">Download PDF 256kb</a>&nbsp;</td>
             <td data-th="Secondary Four">&nbsp;<a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_4_booklist.pdf">Download PDF 281kb</a>&nbsp;</td>
