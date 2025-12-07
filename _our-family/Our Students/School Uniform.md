@@ -8,7 +8,7 @@ image: /images/YCKLogo.svg
 ---
 <div class="yck-component">
 	<div class="regular-flow">
-		<h2>School Uniform Supplier
+		<h2>School Uniform Supplier</h2>
 <div class="isomer-card">
 			<div class="columns2">
 			<div class="isomer-card-body">
@@ -20,6 +20,7 @@ image: /images/YCKLogo.svg
 	<li style="margin: 0; padding: 0;">120 Hillview Avenue</li>
 	<li style="margin: 0; padding: 0;">#05-02 Kewalram Hillview</li>
 	<li style="margin: 0; padding: 0;">Singapore 669594</li>
+	<li>&nbsp;</li>
 	<li>&nbsp;</li>
 	<li>&nbsp;</li>
 </ul>
@@ -46,15 +47,13 @@ image: /images/YCKLogo.svg
 		</div>
 			</div>
 
-</h2><h3 class="yck-h3" id="sizing-guides">Sizing Guides</h3>
+<h3 class="yck-h3" id="sizing-guides">Sizing Guides</h3>
 <ul>
 <li><a class="text-link" target="_blank" href="/files/Students/School%20Uniform/Size%20selection%20photo%20guide.pdf">Size selection photo guide</a> (PDF)</li>
   <li><a class="text-link" target="_blank" href="/files/Students/School%20Uniform/Shoes%20secondary%20size%20guide.pdf">Shoes Secondary size Guide</a> (PDF)</li>
   <li><a class="text-link" target="_blank" href="/files/Students/School%20Uniform/Yio%20Chu%20Kang%20Sec%20size%20measurements.pdf">Yio Chu Kang Secondary school Uniform - Size Measurement Chart</a> (PDF)</li>
 			</ul>
-<figure>
 	<img src="/images/Our%20Family/Students/School%20Uniform/S1.jpg">
-	</figure>
 <hr>
 
 <h3 class="yck-h3">Level T-shirt</h3>
@@ -520,7 +519,7 @@ h6,
 
 .yck-component h2,
 .yck-component .yck-h2 {
-    font-size: var(--yck-step-4) !important;
+    font-size: var(--yck-step-4);
     font-weight: 700;
     line-height: var(--yck-heading-line-height);
 }
@@ -534,14 +533,14 @@ h6,
 
 .yck-component h4,
 .yck-component .yck-h4 {
-    font-size: var(--yck-step-2) !important;
+    font-size: var(--yck-step-2);
     font-weight: 500;
     line-height: var(--yck-heading-line-height);
 }
 
 .yck-component h5,
 .yck-component .yck-h5 {
-    font-size: var(--yck-step-1) !important;
+    font-size: var(--yck-step-1);
     font-weight: 500;
     line-height: var(--yck-heading-line-height);
     text-transform: uppercase;
@@ -549,7 +548,7 @@ h6,
 
 .yck-component h6,
 .yck-component .yck-h6 {
-    font-size: var(--yck-step-0) !important;
+    font-size: var(--yck-step-0);
     line-height: var(--yck-heading-line-height);
     text-transform: uppercase;
 }
@@ -557,7 +556,7 @@ h6,
 .yck-component .small,
 .yck-component .yck-small,
 .yck-component small {
-    font-size: var(--yck-step--2) !important;
+    font-size: var(--yck-step--2);
     line-height: calc(var(--yck-text-line-height) * 0.75);
 }
 
@@ -999,10 +998,10 @@ h6,
 .yck-component .cards {
   display: flex;
   flex-direction: column;
-  min-width: 150px;
+  background:transparent;
   overflow: hidden;
+  min-width: 180px;
   border-radius: var(--yck-rounded-corners);
-  color: var(--neutral-800);
   -webkit-backdrop-filter: blur(50px) brightness(1.7) saturate(1.4);
   backdrop-filter: blur(50px) brightness(1.7) saturate(1.4);
 }
@@ -1049,12 +1048,6 @@ h6,
   flex: 1 0 calc(22% - var(--yck-spacing-unit));
 }
 
-.yck-component .autofit-grid-layout {
-  display: grid;
-  gap: var(--yck-spacing-unit);
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-}
-
 .yck-component .center-text { text-align: center; }
 .yck-component .align-start { align-items: flex-start; }
 .yck-component .align-center { align-items: center; }
@@ -1071,32 +1064,57 @@ h6,
 .yck-component .cards.yck__flexitem {
   font-size: var(--yck-step--2);
   background: linear-gradient(135deg, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 100%);
-  align-items: flex-start;
   flex: 1 0 calc(33% - var(--yck-spacing-unit));
   justify-content: flex-start;
-  align-content: stretch;
+  align-content: flex-start;
+  transition: all 1s var(--ease-elastic-in-out-4);
 }
 
-.yck-component .cards.yck__griditem {
-  display: flex;
-  flex-direction: column;
-  gap: 0.5em;
-  box-shadow: var(--shadow-1);
-  font-size: var(--yck-step-0);
-  font-weight: bold;
-  color: var(--neutral-700);
-  padding: var(--yck-spacing-unit);
-  border: 1px solid  var(--neutral-500);
-  background: linear-gradient(135deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
-  align-items: flex-start;
-  justify-content: left;
-  transition: transform 0.2s, box-shadow 0.8s var(--yck-transition-timing);
+/* .yck-component .cards.yck__flexitem:hover {
+    filter: blur(2px) saturate(0.5) opacity(0.5);
+} */
+
+/* 2. Auto-Fit Responsive Grid */
+
+.yck-component .autofit-grid {
+    display: grid;
+    gap: var(--yck-spacing-unit);
+    margin-inline: auto;
+    margin-top: 1.5em;
+    margin-bottom: var(--yck-space-s-xl);
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
 }
 
-.yck-component .cards.yck__griditem:hover {
-  transform: scale(1.025);
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+.yck-component .grid-item {
+    display: flex;
+    flex-direction: row;
+    gap: 0.5em;
+    padding: var(--yck-spacing-unit);
+    font-size: var(--yck-step-0);
+    font-weight: bold;
+    box-shadow: var(--shadow-1);
+    transition:
+        transform 0.5s,
+        box-shadow 0.8s var(--ease-elastic-in-out-4);
+    text-align: left;
+    color: var(--neutral-700);
+    border-radius: var(--yck-rounded-corners);
+    outline: 1px solid #ccc;
+    background: linear-gradient(135deg,
+        rgba(255, 255, 255, 1) 0%,
+        rgba(255, 255, 255, 0) 100%);
+    align-items: flex-start;
+    justify-content: left;
 }
+
+.yck-component .grid-item:hover {
+    transform: scale(1.025);
+    box-shadow: var(--shadow-6);
+    /* box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); */
+}
+
+
+
 
 /* Layouts - Flexitems using flexbox */
 /*
@@ -2009,7 +2027,7 @@ button.cta-button:hover::before {
 }
 
 @supports (animation-timeline: view()) {
-    .yck-component :is(.yck-flexitem, .yck-card, .grid-item, .isomer-card) {
+    .yck-component :is(.cards, .yck__card, .grid-item, .isomer-card) {
         animation: fade-in-bottom ease both;
         animation-timeline: view();
         animation-range: entry 25% cover 50%;
