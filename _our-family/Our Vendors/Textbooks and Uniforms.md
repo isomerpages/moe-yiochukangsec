@@ -7,7 +7,6 @@ image: /images/YCKLogo.svg
 third_nav_title: Our Vendors
 ---
 <div class="yck-component">
-	<div class="regular-flow">
 		
 <p>Our Books, Stationery and School Uniform is provided by <strong>Asencio Pte Ltd</strong>.</p>
 	<div class="yck-cards">
@@ -39,24 +38,29 @@ third_nav_title: Our Vendors
 	<li style="margin: 0; padding: 0;">Fax: 67641032</li>
 	<li style="margin: 0; padding: 0;">Website: <a href="http://www.asencio.com.sg">www.asencio.com.sg</a></li>
 </ul>
-				<h6><strong>Sales of School uniform during school term:</strong></h6>
-
-<ul style="margin: 0; padding: 0; list-style: none;">
-	<li style="margin: 0; padding: 0;">Tuesday &amp; Thursday</li>
-	<li style="margin: 0; padding: 0;">9.00am to 3.00pm</li>
+				<h6 class="yck-h6"><strong>Sales of School Uniform</strong></h6>
+		<ul class="nolist-style">
+	<li>During School Terms
+		<ul>
+			<li>Mon – Fri, from 7.30am – 3.00pm</li>
+		</ul>
+			</li>
+			<li>During Nov/Dec School Holidays
+				<ul>
+					<li>Mon – Fri, from 9.00am – 3.00pm</li>
 				</ul>
+			</li>
+			<li><span class="warning">Closed</span> on HBL days, weekends and Public Holidays</li> 
+</ul>
+		</div>
 		</div>
 	</div>
-	</div>
-	<div class="yck-component">
-		<h6>Year-End Book Sale</h6>
+	<h6 class="yck-h6"><strong>Year-End Book Sale</strong></h6>
 <p>Online ordering is available at <a class="text-link" target="_blank" href="https://asenciobookshop.sg">asenciobookshop.sg</a> for their year-end book sales.</p>
-		<h6>Booklists (Academic Year 2026)</h6>
+	<h6 class="yck-h6"><strong>Booklists (Academic Year 2026)</strong></h6>
 	<p>More details such as in-person/online book sales can be found within the <a class="text-link" href="/our-family/Students/Booklist/#booklist">respective booklists</a>.</p>
 	<p>For enquiries, please email to    <a class="text-link" href="mailto:yckss@asencio.com.sg">yckss@asencio.com.sg</a></p>
-	</div>
-		<div class="yck-component">
-			<h6>Uniforms and Level-Ts'</h6>
+			<h6 class="yck-h6"><strong>Uniforms and Level-Ts'</strong></h6>
 <p>Please refer to the <a href="/our-family/Students/School-Uniform/#sizing-guides">Sizing Guides for Uniform</a> and<a href="/our-family/Students/School-Uniform/#levelt"> Level-Ts'</a> for the correct sizes before buying.
 
 <style>
@@ -1756,4 +1760,4 @@ button.cta-button:hover::before {
         animation-range: entry 25% cover 50%;
     }
 }
-</style></p></div></div></div>
+</style></p></div>
