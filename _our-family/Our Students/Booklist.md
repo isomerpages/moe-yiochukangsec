@@ -58,9 +58,11 @@ variant: markdown
 		</div>
 
 <div class="yck-component">
-<p>For year-end book sales, online ordering is available at <a class="text-link" target="_blank" href="https://asenciobookshop.sg">asenciobookshop.sg</a>.
-	<br>Please refer to <a href="/our-family/Students/Booklist/#booklist">respective booklists</a> for the periods of online and in-person book sales.
-	<br>Enquiry email:    <a class="text-link" href="mailto:yckss@asencio.com.sg">yckss@asencio.com.sg</a></p>
+<h6>Year-End Book Sale</h6>
+<p>Online ordering is available at <a class="text-link" target="_blank" href="https://asenciobookshop.sg">asenciobookshop.sg</a> for their year-end book sales.</p>
+		<h6>Booklists (Academic Year 2026)</h6>
+	<p>More details such as in-person/online book sales can be found within the <a class="text-link" href="/our-family/Students/Booklist/#booklist">respective booklists</a>.</p>
+	<p>For enquiries, please email to    <a class="text-link" href="mailto:yckss@asencio.com.sg">yckss@asencio.com.sg</a></p>
 	</div>
 
 
