@@ -66,7 +66,6 @@ variant: markdown
 
 <style>
 /* Global and Root Variables */
-@import "props.animations.css";
 
 :root {
     --font-antique:
