@@ -884,7 +884,7 @@ h6,
     display: inline-block;
 }
 
-@media (min-width: 640px) {
+@media (min-width: 768px) {
     .yck-component .rwd-table td::before {
         display: none;
     }
@@ -903,7 +903,7 @@ h6,
     font-size: var(--yck-step-0);
 }
 
-@media (min-width: 640px) {
+@media (min-width: 768px) {
 
     .yck-component .rwd-table th,
     .yck-component .rwd-table td {
@@ -934,7 +934,7 @@ h6,
         border-color: var(--neutral-200);
     }
 
-    @media (min-width: 640px) {
+    @media (min-width: 768px) {
 
         .yck-component .rwd-table th,
         .yck-component .rwd-table td {
