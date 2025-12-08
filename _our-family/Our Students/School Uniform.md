@@ -9,21 +9,15 @@ image: /images/YCKLogo.svg
 <div class="yck-component">
 	<div class="regular-flow">
 		<h2>School Uniform Supplier</h2>
-<div class="isomer-card">
 			<div class="columns2">
-				<h5 class="isomer-card-title yck-h5">
+				<h5 class="yck-h5">
 					Asencio Pte Ltd</h5>
 				<p class="small">Website: <a class="text-link small" href="http://www.asencio.com.sg">www.asencio.com.sg</a><br>Tel: 67643102<br>Fax: 67471032</p>
-		<div class="isomer-card-description">
 <ul class="nolist-style">
-	<li style="margin: 0; padding: 0;">120 Hillview Avenue</li>
-	<li style="margin: 0; padding: 0;">#05-02 Kewalram Hillview</li>
-	<li style="margin: 0; padding: 0;">Singapore 669594</li>
-	<li>&nbsp;</li>
-	<li>&nbsp;</li>
-	<li>&nbsp;</li>
+	<li>120 Hillview Avenue</li>
+	<li>#05-02 Kewalram Hillview</li>
+	<li>Singapore 669594</li>
 </ul>
-		</div>
 <div class="cards yck__flexitem">
 	<h5>Sales of School Uniform</h5>
 		<ul class="nolist-style">
@@ -40,7 +34,7 @@ image: /images/YCKLogo.svg
 			<li><span class="warning">Closed</span> on HBL days, weekends and Public Holidays</li> 
 </ul>
 </div>
-		</div>
+</div>
 
 <h3 class="yck-h3" id="sizing-guides">Sizing Guides</h3>
 <ul>
@@ -2028,4 +2022,4 @@ button.cta-button:hover::before {
         animation-range: entry 25% cover 50%;
     }
 }
-</style></div></div>
+</style></div>
