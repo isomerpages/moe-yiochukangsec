@@ -875,11 +875,12 @@ h6,
 .yck-component .rwd-table td {
     display: block;
     border-color: transparent;
+	font-size: var(--yck-step--1);
 }
 
 .yck-component .rwd-table td::before {
     content: attr(data-th) ": ";
-    font-size: var(--yck-step-0);
+    font-size: var(--yck-step--1);
     font-weight: bold;
     display: inline-block;
 }
@@ -893,6 +894,7 @@ h6,
 .yck-component .rwd-table th,
 .yck-component .rwd-table td {
     text-align: left;
+	 font-size: var(--yck-step--1);
     margin: 0;
     padding: 1em !important;
 }
@@ -900,7 +902,7 @@ h6,
 .yck-component .rwd-table th {
     background-color: var(--neutral-800);
     color: #fff !important;
-    font-size: var(--yck-step-0);
+     font-size: var(--yck-step--1);
 }
 
 @media (min-width: 768px) {
@@ -909,6 +911,7 @@ h6,
     .yck-component .rwd-table td {
         display: table-cell;
         border: 1px solid var(--neutral-600);
+	      font-size: var(--yck-step--1);
     }
 
     .yck-component .rwd-table th:first-child,
@@ -939,6 +942,7 @@ h6,
         .yck-component .rwd-table th,
         .yck-component .rwd-table td {
             padding: 1em !important;
+	           font-size: var(--yck-step--1);
         }
     }
 
