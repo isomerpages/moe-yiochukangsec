@@ -847,7 +847,7 @@ h6,
 .yck-component .rwd-table {
     margin-top: 1.5em;
     margin-bottom: var(--yck-space-s-xl);
-    min-width: 360px;
+    min-width: 480px;
 }
 
 .yck-component .rwd-table tr {
