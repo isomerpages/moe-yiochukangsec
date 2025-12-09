@@ -31,7 +31,7 @@ image: /images/YCKLogo.svg
                 </p>
             </section>
             <section>
-                <h2>Heading Level Two - Responsive Table</h2>
+                <h2 id="lists">Heading Level Two - Ordered &amp; Unordered Lists</h2>
                 <p>
                     Vestibulum ante ipsum primis in faucibus orci luctus et
                     ultrices posuere cubilia curae.
@@ -47,12 +47,12 @@ image: /images/YCKLogo.svg
                     <a class="text-link" href="#">bibendum</a> justo, a accumsan
                     elit rhoncus sit amet.
                 </p>
-                <ol>
+                <ol id="ordered-list">
                     <li>Lorem ipsum dolor sit amet.</li>
                     <li>Consectetur adipiscing elit.</li>
                     <li>Integer nec odio. Praesent libero.</li>
                 </ol>
-                <ul>
+                <ul id="unordered-list">
                     <li>Lorem ipsum dolor sit amet.</li>
                     <li>Consectetur adipiscing elit.</li>
                     <li>Integer nec odio. Praesent libero.</li>
@@ -106,7 +106,7 @@ image: /images/YCKLogo.svg
                     </tbody>
                 </table>
             </section>
-            <section>
+            <section id="yck-table">
                 <h3>Heading Level 3 - Normal Table</h3>
                 <table class="yck-table">
                     <thead>
@@ -160,9 +160,9 @@ image: /images/YCKLogo.svg
                 </table>
             </section>
             <section>
-                <h3>Heading Level 3 - Blockquotes</h3>
-                <div class="yck-flexitems">
-                    <div class="yck-flexitem">
+                <h3 id="blockquotes">Heading Level 3 - Blockquotes</h3>
+                <div class="flex-wrap">
+                    <div class="cards yck__flexitem">
                         <div class="quote">
                             <div class="blockquote">
                                 Phasellus elementum sapien sed justo
@@ -172,8 +172,8 @@ image: /images/YCKLogo.svg
                             </div>
                         </div>
                     </div>
-                    <div class="yck-flexitem">
-                        <div class="quote yck-mk-shadow1">
+                    <div class="cards yck__flexitem">
+                        <div class="quote">
                             <div class="blockquote">
                                 Suspendisse vel eros id neque feugiat pretium.
                                 Aenean a neque eget lorem feugiat bibendum.
@@ -192,44 +192,46 @@ image: /images/YCKLogo.svg
                 </div>
             </section>
             <section>
-                <h4>Heading Level Four - Flex items using Flexbox</h4>
+                <h4 id="cards-yck-flexitems">Heading Level Four - Flex items using Flexbox</h4>
                 <p>
                     Flex items with unequal height with images contained within using
                     <abbr title="Cascading Style Sheets">CSS</abbr>. Tincidunt
                     gravida. Suspendisse vel eros id neque feugiat pretium.
                     Aenean a neque eget lorem feugiat bibendum.
                 </p>
-                <div class="yck-flexitems">
-                    <div class="yck-flexitem">
-                        <figure>
-                            <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec2.jpg">
-                            <figcaption class="small">ViA in action with the Sec 1s</figcaption>
+                <div class="flex-wrap">
+                    <div class="cards yck__flexitem flex-grow">
+                        <div class="kenburns-container">
+                            <figure>
+                            <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec2.jpg" class="kenburns-right">
                         </figure>
+                            <div class="caption"><span class="small">ViA in action with the Sec 1s</span></div>
+                        </div>                       
                     </div>
-                    <div class="yck-flexitem">
+                    <div class="cards yck__flexitem flex-grow">
                         <figure>
                             <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec3.jpg">
                         </figure>
                     </div>
-                    <div class="yck-flexitem">
+                    <div class="cards yck__flexitem flex-grow">
                         <figure>
                             <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec4.jpg">
                         </figure>
                     </div>
-                    <div class="yck-flexitem">
+                    <div class="cards yck__flexitem flex-grow">
                         <figure>
                             <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182">
                             <figcaption class="small">A row of colorful shophouses.</figcaption>
                         </figure>
                     </div>
-                    <div class="yck-flexitem">
+                    <div class="cards yck__flexitem flex-grow">
                         <div class="video-container">
                             <figure>
                                 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/AMt2pIRrzOM?si=OOqgETxxJlRra58J" height="315" width="560"></iframe>
                             </figure>
                         </div>
                     </div>
-                    <div class="yck-flexitem">
+                    <div class="cards yck__flexitem flex-grow">
                         <figure>
                             <img alt="placeholder image" src="https://placehold.co/400x300/cccccc/969696.png?font=lato">
                             <figcaption class="small">This is just a placeholder image.</figcaption>
@@ -238,40 +240,49 @@ image: /images/YCKLogo.svg
                 </div>
             </section>
             <section>
-                <h4>Heading Level Four - Equal Height Cards</h4>
-                <div class="yck-cards">
-                    <div class="yck-card">
-                        <div class="yck-card-header">Card 1</div>
+                <h4 id="cards-yck-cards">Heading Level Four - Equal Height Cards</h4>
+                <div class="flex-wrap">
+                    <div class="cards yck__card flex-grow__tight">
+                        <div class="card__header">Card 1</div>
                         <div class="kenburns-container">
                             <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182" class="kenburns-scale"></div>
-                        <div class="yck-card-body">
+                        <div class="card__body">
                             <p>Short content</p>
                         </div>
-                        <div class="yck-card-footer">Button</div>
+                        <div class="card__footer">Button</div>
                     </div>
-                    <div class="yck-card">
-                        <div class="yck-card-header">Card 2</div>
-                        <div class="yck-card-body">
+                    <div class="cards yck__card flex-grow__tight">
+                        <div class="card__header">Card 2</div>
+                        <div class="card__body">
                             <p>This card has much more content to demonstrate how all
                                 cards stretch to match the tallest one.</p>
                         </div>
-                        <div class="yck-card-footer">Button</div>
+                        <div class="card__footer">Button</div>
                     </div>
-                    <div class="yck-card">
-                        <div class="yck-card-header">Card 3</div>
-                        <div class="yck-card-body">
+                    <div class="cards yck__card flex-grow__tight">
+                        <div class="card__header">Card 3</div>
+                        <div class="card__body">
                             <p>This is a medium content with a picture.</p>
                             <figure>
                                 <div class="kenburns-container">
                                     <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182" class="kenburns-right"></div>
                             </figure>
                         </div>
-                        <div class="yck-card-footer">Button</div>
+                        <div class="card__footer">Button
+                        </div>
+                    </div>
+                    <div class="cards yck__card flex-grow__tight">
+                        <div class="card__header">Card 4</div>
+                        <div class="card__body">
+                            <p>This card has much more content to demonstrate how all
+                                cards stretch to match the tallest one.</p>
+                        </div>
+                        <div class="card__footer">Button</div>
                     </div>
                 </div>
             </section>
             <section>
-                <h4>Heading Level Four - GRID items using autofit</h4>
+                <h4 id="cards-autofitgrid">Heading Level Four - GRID items using autofit</h4>
                 <div class="autofit-grid">
                     <div class="grid-item">
                         <div class="video-container">
@@ -283,7 +294,7 @@ image: /images/YCKLogo.svg
                         laboris nisi ut aliquip ex ea commodo consequat.
                         <figure>
                             <div class="kenburns-container">
-                                <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182" class="ultrawide kenburns-right"></div>
+                                <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182" class="landscape kenburns-right"></div>
                             <figcaption class="small">A Colorful Row of Shophouses</figcaption>
                         </figure>
                     </div>
@@ -292,8 +303,8 @@ image: /images/YCKLogo.svg
                             esse cillum dolore eu fugiat nulla pariatur.</p>
                     </div>
                     <div class="grid-item">
-                        Excepteur sint occaecat cupidatat non proident, sunt in
-                        culpa qui officia deserunt mollit anim id est laborum.
+                        <div class="yck-card__body">Excepteur sint occaecat cupidatat non proident, sunt in
+                            culpa qui officia deserunt mollit anim id est laborum.</div>
                     </div>
                     <div class="grid-item">
                         <figure>
@@ -301,7 +312,7 @@ image: /images/YCKLogo.svg
                             <figcaption>A Colorful Row of Shophouses</figcaption>
                         </figure>
                     </div>
-                    <div class="grid-item">
+                    <div class="grid-item yck-card__body">
                         This card has much more content to demonstrate how all
                         cards stretch to match the tallest one.
                     </div>
@@ -343,13 +354,25 @@ image: /images/YCKLogo.svg
                         culpa qui officia deserunt mollit anim id est laborum.
                     </p>
                 </div>
-                <div class="masonry">"
-                    <img alt="placeholder image" src="https://placehold.co/400x300/cccccc/969696.png?font=lato">
-                    <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec4.jpg">
-                    <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182">
-                    <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec2.jpg">
-                    <img alt="placeholder image" src="https://placehold.co/768x1024/cccccc/969696.png?font=lato">
-                    <img alt="placeholder image" src="https://placehold.co/400x1200/cccccc/969696.png?font=lato">
+                <div class="masonry">
+                    <figure>
+                        <img alt="placeholder image" src="https://placehold.co/400x300/cccccc/969696.png?font=lato">
+                    </figure>
+                    <figure>
+                        <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec4.jpg">
+                    </figure>
+                    <figure>
+                        <img src="https://plus.unsplash.com/premium_photo-1697729457411-cca8844c3b6b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1182">
+                    </figure>
+                    <figure>
+                        <img alt="placeholder image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/via_2025_sec2.jpg">
+                    </figure>
+                    <figure>
+                        <img alt="placeholder image" src="https://placehold.co/768x1024/cccccc/969696.png?font=lato">
+                    </figure>
+                    <figure>
+                        <img alt="placeholder image" src="https://placehold.co/400x1200/cccccc/969696.png?font=lato">
+                    </figure>
                     <p>
                         Duis aute irure dolor in reprehenderit in voluptate
                         velit esse cillum dolore eu fugiat nulla pariatur.
@@ -516,7 +539,7 @@ image: /images/YCKLogo.svg
                 </p>
             </section>
             <section>
-                <details>
+                <details name="accord">
                     <summary>First Accordion ...</summary>
                     <div>
                         <p>
@@ -540,7 +563,7 @@ image: /images/YCKLogo.svg
                         This is without paragraph.
                     </div>
                 </details>
-                <details>
+                <details name="accord">
                     <summary>Second Accordion ...</summary>
                     <div>
                         <p>
@@ -567,17 +590,18 @@ image: /images/YCKLogo.svg
                 </details>
             </section>
             <div class="deadctr-container">
-                <a href="#top">
-                    <button class="buttontotop">
-                        <img class="svgIcon" alt="Back to Top" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Icons/svgiconwht.svg">
-                    </button>
-                </a>
-        </div></article>
+                <button class="buttontotop" href="#top">
+                        <img alt="Back to Top" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Icons/svgiconwht.svg" class="svgIcon">
+                </button>
+            </div>
+        </article>
     </div>
 </div>
 
 <style>
 /* Global and Root Variables */
+@import "props.animations.css";
+
 :root {
     --font-antique:
         Superclarendon, Bookman Old Style, URW Bookman, URW Bookman L, Georgia Pro, Georgia, serif;
@@ -2366,7 +2390,7 @@ button.cta-button:hover::before {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    animation: kenBurns 35s ease-in-out infinite alternate;
+    animation: kenBurns 35s var(--ease-elastic-in-out-4) infinite alternate;
 }
 
 @keyframes kenBurns {
