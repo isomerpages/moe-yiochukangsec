@@ -1898,11 +1898,11 @@ button.cta-button:hover::before {
     }
 }
 
-@supports (animation-timeline: view()) {
+/* @supports (animation-timeline: view()) {
     .yck-component :is(.yck-flexitem, .yck-card, .grid-item, .isomer-card) {
         animation: fade-in-bottom ease both;
         animation-timeline: view();
         animation-range: entry 25% cover 50%;
     }
-}
+} */
 </style></div></div>
