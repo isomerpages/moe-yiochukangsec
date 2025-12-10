@@ -31,28 +31,34 @@ variant: markdown
 </div>
 <div class="yck-component">
 	<div class="regular-flow">
-<div class="isomer-card">
-			<div class="columns2">
-			<div class="isomer-card-body">
-				<div class="isomer-card-title yck-h6">
-					Asencio Pte Ltd</div>
-				<p class="small">Website: <a class="text-link small" href="http://www.asencio.com.sg">www.asencio.com.sg</a><br>Tel: 67643102</p>
-		<div class="isomer-card-description">
-<ul class="nolist-style">
-	<li style="margin: 0; padding: 0;">120 Hillview Avenue</li>
-	<li style="margin: 0; padding: 0;">#05-02 Kewalram Hillview</li>
-	<li style="margin: 0; padding: 0;">Singapore 669594</li>
-	<li>&nbsp;</li>
-</ul>
-		</div>
-			</div>
-			<div class="isomer-card-body">
-<div class="isomer-card-title">
-	School term operating hours:</div>
-<ul class="nolist-style">
-	<li style="margin: 0; padding: 0;">Monday to Friday</li> 
-	<li style="margin: 0; padding: 0;">7.30am to 3pm</li>
-</ul>
+<div class="columns2">
+    <h5 class="yck-h5">
+        Asencio Pte Ltd</h5>
+    <ul class="nolist-style">
+        <li>Website: <a class="text-link" href="http://www.asencio.com.sg">www.asencio.com.sg</a></li>
+        <li>Tel: 67643102</li>
+    </ul>
+    <ul class="nolist-style">
+        <li>120 Hillview Avenue</li>
+        <li>#05-02 Kewalram Hillview</li>
+        <li>Singapore 669594</li>
+    </ul>
+    <div class="cards yck__flexitem">
+        <h5>Sales of School Uniform</h5>
+        <ul class="nolist-style">
+            <li>During School Terms
+                <ul>
+                    <li>Mon to Fri, from 7.30am to 3.00pm</li>
+                </ul>
+            </li>
+            <li>During Nov/Dec School Holidays
+                <ul>
+                    <li>Mon to Fri, from 9.00am to 3.00pm</li>
+                </ul>
+            </li>
+            <li>Closed on HBL days, weekends and Public Holidays</li>
+        </ul>
+    </div>
 </div>
 		</div>
 		</div>
@@ -1905,4 +1911,4 @@ button.cta-button:hover::before {
         animation-range: entry 25% cover 50%;
     }
 } */
-</style></div></div>
+</style>
