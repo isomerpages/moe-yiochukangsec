@@ -12,7 +12,11 @@ image: /images/YCKLogo.svg
 			<div class="columns2">
 				<h5 class="yck-h5">
 					Asencio Pte Ltd</h5>
-				<p class="small">Website: <a class="text-link small" href="http://www.asencio.com.sg">www.asencio.com.sg</a><br>Tel: 67643102<br>Fax: 67471032</p>
+<ul class="nolist-style">
+	<li>Website: <a class="text-link" href="http://www.asencio.com.sg">www.asencio.com.sg</a></li>
+	<li>Tel: 67643102</li>
+	<li>Tel: 67643102</li>
+</ul>
 <ul class="nolist-style">
 	<li>120 Hillview Avenue</li>
 	<li>#05-02 Kewalram Hillview</li>
@@ -23,15 +27,15 @@ image: /images/YCKLogo.svg
 		<ul class="nolist-style">
 	<li>During School Terms
 		<ul>
-			<li>Mon – Fri, from 7.30am – 3.00pm</li>
+			<li>Mon to Fri, from 7.30am to 3.00pm</li>
 		</ul>
 			</li>
 			<li>During Nov/Dec School Holidays
 				<ul>
-					<li>Mon – Fri, from 9.00am – 3.00pm</li>
+					<li>Mon to Fri, from 9.00am to 3.00pm</li>
 				</ul>
 			</li>
-			<li><span class="warning">Closed</span> on HBL days, weekends and Public Holidays</li> 
+			<li>Closed on HBL days, weekends and Public Holidays</li> 
 </ul>
 </div>
 </div>
