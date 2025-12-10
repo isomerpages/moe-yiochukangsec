@@ -7,30 +7,48 @@ variant: markdown
 ---
 <div class="yck-component">
 	<div class="regular-flow">
+		<article>
+			<section>
 <h3 id="booklist">Booklist 2026</h3>
-<table class="rwd-table">
+<p></p><table class="rwd-table">
     <tbody>
         <tr>
-            <th>Secondary One</th>
-            <th>Secondary Two</th>
-            <th>Secondary Three</th>
-            <th>Secondary Four</th>
-            <th>Secondary Five</th>
+            <th scope="row">Secondary One</th>
+            <td data-th="Secondary 1">
+                <p><a class="text-link" target="_blank" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_1_booklist.pdf">Download PDF 216kb</a></p>
+            </td>
         </tr>
         <tr>
-            <td data-th="Secondary One"><a class="text-link" target="_blank" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_1_booklist.pdf">Download PDF 216kb</a></td>
-            <td data-th="Secondary Two"><a class="text-link" target="_blank" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_2_booklist.pdf">Download PDF 226kb</a></td>
-            <td data-th="Secondary Three">&nbsp;<a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_3_booklist.pdf">Download PDF 256kb</a>&nbsp;</td>
-            <td data-th="Secondary Four">&nbsp;<a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_4_booklist.pdf">Download PDF 281kb</a>&nbsp;</td>
-            <td data-th="Secondary Five">&nbsp;<a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_5_booklist.pdf">Download PDF 200kb</a>&nbsp;</td>
+            <th scope="row">Secondary Two</th>
+            <td data-th="Secondary 2">
+                <p><a class="text-link" target="_blank" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_2_booklist.pdf">Download PDF 226kb</a></p>
+            </td>
+        </tr>
+        <tr>
+            <th scope="row">Secondary Three</th>
+            <td data-th="Secondary 3">
+                <p><a class="text-link" target="_blank" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_3_booklist.pdf">Download PDF 256kb</a></p>
+            </td>
+        </tr>
+        <tr>
+            <th scope="row">Secondary Four</th>
+            <td data-th="Secondary 4">
+                <p><a class="text-link" target="_blank" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_4_booklist.pdf">Download PDF 281kb</a></p>
+            </td>
+        </tr>
+        
+        <tr>
+            <th scope="row">Secondary Five</th>
+            <td data-th="Secondary 5">
+                <p><a class="text-link" target="_blank" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_5_booklist.pdf">Download PDF 200kb</a></p>
+            </td>
         </tr>
     </tbody>
 </table>
+			</section>
 <table style="display: none"> <tbody> <tr> <th>Secondary One</th> <th>Secondary Two</th> <th>Secondary Three</th> <th>Secondary Four</th> <th>Secondary Five</th> </tr> <tr> <td>Available Soon ...</td> <td><a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_2_booklist.pdf">Download PDF 226kb</a></td> <td><a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_3_booklist.pdf">Download PDF 256kb</a></td> <td><a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_4_booklist.pdf">Download PDF 281kb</a></td> <td><a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_5_booklist.pdf">Download PDF 200kb</a></td> </tr> </tbody> </table>
-</div>
-</div>
-<div class="yck-component">
-	<div class="regular-flow">
+<hr>
+<section>
 <div class="columns2">
     <h5 class="yck-h5">
         Asencio Pte Ltd</h5>
@@ -60,15 +78,17 @@ variant: markdown
         </ul>
     </div>
 </div>
-		</div>
-		</div>
-
-<div class="yck-component">
-<h6>Year-End Book Sale</h6>
+			</section>
+			<hr>
+			<section>
+<h5>Year-End Book Sale</h5>
 <p>Online ordering is available at <a class="text-link" target="_blank" href="https://asenciobookshop.sg">asenciobookshop.sg</a> for their year-end book sales.</p>
-		<h6>Booklists (Academic Year 2026)</h6>
+		<h5>Booklists (Academic Year 2026)</h5>
 	<p>More details such as in-person/online book sales can be found within the <a class="text-link" href="/our-family/Students/Booklist/#booklist">respective booklists</a>.</p>
 	<p>For enquiries, please email to    <a class="text-link" href="mailto:yckss@asencio.com.sg">yckss@asencio.com.sg</a></p>
+			</section>
+		</article>
+	</div>
 	</div>
 
 
