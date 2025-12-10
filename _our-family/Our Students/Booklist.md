@@ -7,62 +7,87 @@ variant: markdown
 ---
 <div class="yck-component">
 	<div class="regular-flow">
+		<article>
+			<section>
 <h3 id="booklist">Booklist 2026</h3>
-<table class="rwd-table">
+<p></p><table class="rwd-table">
     <tbody>
         <tr>
-            <th>Secondary One</th>
-            <th>Secondary Two</th>
-            <th>Secondary Three</th>
-            <th>Secondary Four</th>
-            <th>Secondary Five</th>
+            <th scope="row">Secondary One</th>
+            <td data-th="Secondary 1">
+                <p><a class="text-link" target="_blank" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_1_booklist.pdf">Download PDF 216kb</a></p>
+            </td>
         </tr>
         <tr>
-            <td data-th="Secondary One"><a class="text-link" target="_blank" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_1_booklist.pdf">Download PDF 216kb</a></td>
-            <td data-th="Secondary Two"><a class="text-link" target="_blank" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_2_booklist.pdf">Download PDF 226kb</a></td>
-            <td data-th="Secondary Three">&nbsp;<a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_3_booklist.pdf">Download PDF 256kb</a>&nbsp;</td>
-            <td data-th="Secondary Four">&nbsp;<a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_4_booklist.pdf">Download PDF 281kb</a>&nbsp;</td>
-            <td data-th="Secondary Five">&nbsp;<a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_5_booklist.pdf">Download PDF 200kb</a>&nbsp;</td>
+            <th scope="row">Secondary Two</th>
+            <td data-th="Secondary 2">
+                <p><a class="text-link" target="_blank" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_2_booklist.pdf">Download PDF 226kb</a></p>
+            </td>
+        </tr>
+        <tr>
+            <th scope="row">Secondary Three</th>
+            <td data-th="Secondary 3">
+                <p><a class="text-link" target="_blank" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_3_booklist.pdf">Download PDF 256kb</a></p>
+            </td>
+        </tr>
+        <tr>
+            <th scope="row">Secondary Four</th>
+            <td data-th="Secondary 4">
+                <p><a class="text-link" target="_blank" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_4_booklist.pdf">Download PDF 281kb</a></p>
+            </td>
+        </tr>        
+        <tr>
+            <th scope="row">Secondary Five</th>
+            <td data-th="Secondary 5">
+                <p><a class="text-link" target="_blank" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_5_booklist.pdf">Download PDF 200kb</a></p>
+            </td>
         </tr>
     </tbody>
 </table>
+			</section>
 <table style="display: none"> <tbody> <tr> <th>Secondary One</th> <th>Secondary Two</th> <th>Secondary Three</th> <th>Secondary Four</th> <th>Secondary Five</th> </tr> <tr> <td>Available Soon ...</td> <td><a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_2_booklist.pdf">Download PDF 226kb</a></td> <td><a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_3_booklist.pdf">Download PDF 256kb</a></td> <td><a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_4_booklist.pdf">Download PDF 281kb</a></td> <td><a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_5_booklist.pdf">Download PDF 200kb</a></td> </tr> </tbody> </table>
+<hr>
+<section>
+<div class="columns2">
+    <h5 class="yck-h5">
+        Asencio Pte Ltd</h5>
+    <ul class="nolist-style">
+        <li>Website: <a class="text-link" href="http://www.asencio.com.sg">www.asencio.com.sg</a></li>
+        <li>Tel: 67643102</li>
+    </ul>
+    <ul class="nolist-style">
+        <li>120 Hillview Avenue</li>
+        <li>#05-02 Kewalram Hillview</li>
+        <li>Singapore 669594</li>
+    </ul>
+    <div class="cards yck__flexitem">
+        <h5>Sales of School Uniform</h5>
+        <ul class="nolist-style">
+            <li>During School Terms
+                <ul>
+                    <li>Mon to Fri, from 7.30am to 3.00pm</li>
+                </ul>
+            </li>
+            <li>During Nov/Dec School Holidays
+                <ul>
+                    <li>Mon to Fri, from 9.00am to 3.00pm</li>
+                </ul>
+            </li>
+            <li>Closed on HBL days, weekends and Public Holidays</li>
+        </ul>
+    </div>
 </div>
-</div>
-<div class="yck-component">
-	<div class="regular-flow">
-<div class="isomer-card">
-			<div class="columns2">
-			<div class="isomer-card-body">
-				<div class="isomer-card-title yck-h6">
-					Asencio Pte Ltd</div>
-				<p class="small">Website: <a class="text-link small" href="http://www.asencio.com.sg">www.asencio.com.sg</a><br>Tel: 67643102</p>
-		<div class="isomer-card-description">
-<ul class="nolist-style">
-	<li style="margin: 0; padding: 0;">120 Hillview Avenue</li>
-	<li style="margin: 0; padding: 0;">#05-02 Kewalram Hillview</li>
-	<li style="margin: 0; padding: 0;">Singapore 669594</li>
-	<li>&nbsp;</li>
-</ul>
-		</div>
-			</div>
-			<div class="isomer-card-body">
-<div class="isomer-card-title">
-	School term operating hours:</div>
-<ul class="nolist-style">
-	<li style="margin: 0; padding: 0;">Monday to Friday</li> 
-	<li style="margin: 0; padding: 0;">7.30am to 3pm</li>
-</ul>
-</div>
-		</div>
-		</div>
-
-<div class="yck-component">
-<h6>Year-End Book Sale</h6>
+			</section>
+			<hr>
+			<section>
+<h5>Year-End Book Sale</h5>
 <p>Online ordering is available at <a class="text-link" target="_blank" href="https://asenciobookshop.sg">asenciobookshop.sg</a> for their year-end book sales.</p>
-		<h6>Booklists (Academic Year 2026)</h6>
+		<h5>Booklists (Academic Year 2026)</h5>
 	<p>More details such as in-person/online book sales can be found within the <a class="text-link" href="/our-family/Students/Booklist/#booklist">respective booklists</a>.</p>
 	<p>For enquiries, please email to    <a class="text-link" href="mailto:yckss@asencio.com.sg">yckss@asencio.com.sg</a></p>
+			</section>
+		</article>
+	</div>
 	</div>
 
 
@@ -847,7 +872,6 @@ h6,
 .yck-component .rwd-table {
     margin-top: 1.5em;
     margin-bottom: var(--yck-space-s-xl);
-    min-width: 360px;
 }
 
 .yck-component .rwd-table tr {
@@ -875,6 +899,7 @@ h6,
 .yck-component .rwd-table td {
     display: block;
     border-color: transparent;
+	font-size: var(--yck-step-0);
 }
 
 .yck-component .rwd-table td::before {
@@ -884,7 +909,7 @@ h6,
     display: inline-block;
 }
 
-@media (min-width: 480px) {
+@media (min-width: 768px) {
     .yck-component .rwd-table td::before {
         display: none;
     }
@@ -893,6 +918,7 @@ h6,
 .yck-component .rwd-table th,
 .yck-component .rwd-table td {
     text-align: left;
+	 font-size: var(--yck-step-0);
     margin: 0;
     padding: 1em !important;
 }
@@ -900,15 +926,16 @@ h6,
 .yck-component .rwd-table th {
     background-color: var(--neutral-800);
     color: #fff !important;
-    font-size: var(--yck-step-0);
+     font-size: var(--yck-step-0);
 }
 
-@media (min-width: 480px) {
+@media (min-width: 768px) {
 
     .yck-component .rwd-table th,
     .yck-component .rwd-table td {
         display: table-cell;
         border: 1px solid var(--neutral-600);
+	      font-size: var(--yck-step-0);
     }
 
     .yck-component .rwd-table th:first-child,
@@ -934,11 +961,12 @@ h6,
         border-color: var(--neutral-200);
     }
 
-    @media (min-width: 480px) {
+    @media (min-width: 768px) {
 
         .yck-component .rwd-table th,
         .yck-component .rwd-table td {
             padding: 1em !important;
+	           font-size: var(--yck-step-0);
         }
     }
 
@@ -1894,11 +1922,11 @@ button.cta-button:hover::before {
     }
 }
 
-@supports (animation-timeline: view()) {
+/* @supports (animation-timeline: view()) {
     .yck-component :is(.yck-flexitem, .yck-card, .grid-item, .isomer-card) {
         animation: fade-in-bottom ease both;
         animation-timeline: view();
         animation-range: entry 25% cover 50%;
     }
-}
-</style></div></div>
+} */
+</style>
