@@ -26,15 +26,15 @@ variant: markdown
 		<ul class="nolist-style">
 	<li>During School Terms
 		<ul>
-			<li>Mon – Fri, from 7.00am – 6.30pm</li>
+			<li>Mon to Fri, from 7.00am to 6.30pm</li>
 		</ul>
 			</li>
 			<li>During Jun, Nov/Dec School Holidays
 				<ul>
-					<li>Mon – Fri, from 7.00am – 5.00pm</li>
+					<li>Mon to Fri, from 7.00am to 5.00pm</li>
 				</ul>
 			</li>
-			<li><span class="warning">Closed</span> on HBL days, weekends and Public Holidays</li> 
+			<li>Closed on HBL days, weekends and Public Holidays</li> 
 </ul>
 			</div>
 	</div>
