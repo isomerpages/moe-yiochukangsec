@@ -34,7 +34,7 @@ variant: markdown
 					<li>Mon to Fri, from 7.00am to 5.00pm</li>
 				</ul>
 			</li>
-			<li>Closed on HBL days, weekends and Public Holidays</li> 
+			<li>Closed on weekends and Public Holidays</li> 
 </ul>
 			</div>
 	</div>
