@@ -10,34 +10,33 @@ image: /images/YCKLogo.svg
 	<div class="regular-flow">
 		<h2>School Uniform Supplier</h2>
 			<div class="columns2">
-				<h5 class="yck-h5">
-					Asencio Pte Ltd</h5>
-<ul class="nolist-style">
-	<li>Website: <a class="text-link" href="http://www.asencio.com.sg">www.asencio.com.sg</a></li>
-	<li>Tel: 67643102</li>
-	<li>Tel: 67643102</li>
-</ul>
-<ul class="nolist-style">
-	<li>120 Hillview Avenue</li>
-	<li>#05-02 Kewalram Hillview</li>
-	<li>Singapore 669594</li>
-</ul>
-<div class="cards yck__flexitem">
-	<h5>Sales of School Uniform</h5>
-		<ul class="nolist-style">
-	<li>During School Terms
-		<ul>
-			<li>Mon to Fri, from 7.30am to 3.00pm</li>
-		</ul>
-			</li>
-			<li>During Nov/Dec School Holidays
-				<ul>
-					<li>Mon to Fri, from 9.00am to 3.00pm</li>
-				</ul>
-			</li>
-			<li>Closed on HBL days, weekends and Public Holidays</li> 
-</ul>
-</div>
+    <h5 class="yck-h5">
+        Asencio Pte Ltd</h5>
+    <ul class="nolist-style">
+        <li>Website: <a class="text-link" href="http://www.asencio.com.sg">www.asencio.com.sg</a></li>
+        <li>Tel: 67643102</li>
+    </ul>
+    <ul class="nolist-style">
+        <li>120 Hillview Avenue</li>
+        <li>#05-02 Kewalram Hillview</li>
+        <li>Singapore 669594</li>
+    </ul>
+    <div class="cards yck__flexitem">
+        <h5>Sales of School Uniform</h5>
+        <ul class="nolist-style">
+            <li>During School Terms
+                <ul>
+                    <li>Mon to Fri, from 7.30am to 3.00pm</li>
+                </ul>
+            </li>
+            <li>During Nov/Dec School Holidays
+                <ul>
+                    <li>Mon to Fri, from 9.00am to 3.00pm</li>
+                </ul>
+            </li>
+            <li>Closed on HBL days, weekends and Public Holidays</li>
+        </ul>
+    </div>
 </div>
 
 <h3 class="yck-h3" id="sizing-guides">Sizing Guides</h3>
