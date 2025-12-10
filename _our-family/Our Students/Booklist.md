@@ -35,8 +35,7 @@ variant: markdown
             <td data-th="Secondary 4">
                 <p><a class="text-link" target="_blank" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_4_booklist.pdf">Download PDF 281kb</a></p>
             </td>
-        </tr>
-        
+        </tr>        
         <tr>
             <th scope="row">Secondary Five</th>
             <td data-th="Secondary 5">
