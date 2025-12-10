@@ -21,7 +21,7 @@ third_nav_title: Our 60th Anniversary
         <article id="celebrate60">
             <section>
                 <p class="dropcap-title">Celebrating our 60<sup>th</sup> Anniversary</p>
-                <p>Our school is celebrating her 60th Anniversary in 2025 with a series of exciting events: the <strong><a class="text-link" href="/our-story/our-60th-anniversary/homecoming-carnival/">Homecoming Carnival</a></strong> in May, the <strong><a class="text-link" href="/our-story/our-60th-anniversary/60th-anniversary-dinner/">Alumni Dinner</a></strong> in July, and the <strong><a class="tet-link" href="/our-story/our-60th-anniversary/concert-for-hope/">Concert for Hope</a></strong> in November.</p>
+                <p>Our school is celebrating her 60th Anniversary in 2025 with a series of exciting events: the <strong><a class="text-link" href="/our-story/our-60th-anniversary/homecoming-carnival/">Homecoming Carnival</a></strong> in May, the <strong><a class="text-link" href="/our-story/our-60th-anniversary/60th-anniversary-dinner/">Alumni Dinner</a></strong> in July, and the <strong><a class="text-link" href="/our-story/our-60th-anniversary/concert-for-hope/">Concert for Hope</a></strong> in November.</p>
                 <p>Stay tuned for more updates, and join us in making this milestone celebration unforgettable! Gather your friends and family to be part of the celebrations!</p>
             </section>
             <section>
