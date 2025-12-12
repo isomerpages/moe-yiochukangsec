@@ -360,6 +360,8 @@ can be useful in everyday lives.
 <p></p>
 </div>
                         </details></div>
+				![](/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/digitaledu_framework.svg)
+				![](/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/digiedu_students.png)
 												
 <style>
 	/* Global and Root Variables */
@@ -2179,3 +2181,7 @@ button.cta-button:hover::before {
     }
 }
 </style></section></article></div></div>
+
+!\[\](/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/digitaledu\_framework.svg)
+
+!\[\](/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/digiedu\_students.png)
