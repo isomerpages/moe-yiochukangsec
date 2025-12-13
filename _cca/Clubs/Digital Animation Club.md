@@ -11,8 +11,8 @@ image: /images/YCKLogo.svg
         <article>
             <section>
 							<h3>Bringing Creativity to Life</h3>
-                <figure class="ken-burns-container">
-                    <img alt="Digital Animation Club members" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/DigitalAnimateClub.png" class="ken-burns-image">
+                <figure class="kenburns-container">
+                    <img alt="Digital Animation Club members" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Digital%20Animation%20Club/DigitalAnimateClub.png" class="kenburns-scale">
                 </figure>
             </section>
             <section>
