@@ -6,6 +6,9 @@ variant: markdown
 third_nav_title: Uniformed Groups
 ---
 <div class="yck-component">
+	<div class="regular-flow">
+		<article>
+			<section>
     <h2>Nurturing Leaders and Responsible Citizens</h2>
     <img alt="NPCC Cadets saluting" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/N1.jpg">
     <p>
@@ -23,58 +26,55 @@ third_nav_title: Uniformed Groups
         Investigation, First Aid, Police Procedures, and SG Secure. These experiences enrich their learning journey,
         shaping them into capable and community-conscious individuals.
     </p>
-</div>
-<div class="yck-component">
+			</section>
+			<section>
     <h3>Training Schedule</h3>
-    <table class="yck-table">
-        <thead>
-            <tr>
-                <th class="yck-th">
-                    <h4 class="yck-h5">DAY &amp; TIME:</h4>
-                </th>
-                <th class="yck-th">
-                    <h4 class="yck-h5">TEACHERS-IN-CHARGE</h4>
-                </th>
-                <th class="yck-th">
-                    <h4 class="yck-h5">VENUE:</h4>
-                </th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td class="yck-td">
-                    <p>Every Tuesday<br>3.00pm to 5.30pm</p>
-                </td>
-                <td class="yck-td">
-                    <p>
-                        Ms Goh Yu Fan (ext 174)
-                    </p>
-                    <p>
-                        Mr Wong Mingwei (ext 141)
-                    </p>
-                    <p>
-                        Mr Octave Goh (ext 136)
-                    </p>
-                    <p>
-                        Mr Joseph George (ext 148)
-                    </p>
-                    <p>
-                        Mdm Cindy Ong (ext 139)
-                    </p>
-                    <p>
-                        Ms Nadia Rachael (ext 218)
-                    </p>
-                </td>
-                <td class="yck-td">
-                    <p>
-                        NPCC Room (Level 2) &amp; <br>Blk D Classrooms (Level 1)
-                    </p>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-<div class="yck-component">
+  <table class="rwd-table">
+    <thead>
+        <tr>
+            <th>
+                <h5>DAY &amp; TIME:</h5>
+            </th>
+            <th>
+                <h5>TEACHERS-IN-CHARGE</h5>
+            </th>
+            <th>
+                <h5>VENUE:</h5>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td data-th="DAY &amp; TIME:">
+                <p>Every Tuesday<br>3.00pm to 5.30pm</p>
+            </td>
+            <td data-th="TEACHERS-IN-CHARGE">
+                <p>
+                    Ms Goh Yu Fan (ext 174)
+                </p>
+                <p>
+                    Mr Wong Mingwei (ext 141)
+                </p>
+                <p>
+                    Mr Octave Goh (ext 136)
+                </p>
+                <p>
+                    Mdm Cindy Ong (ext 139)
+                </p>
+                <p>
+                    Ms Nadia Rachael (ext 218)
+                </p>
+            </td>
+            <td data-th="VENUE:">
+                <p>
+                    NPCC Room (Level 2) &amp; <br>Blk D Classrooms (Level 1)
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+			</section>
+			<section>
     <table class="yck-table">
         <thead>
             <tr>
@@ -154,7 +154,7 @@ third_nav_title: Uniformed Groups
             </tr>
         </tbody>
     </table>
-</div>
+</section></article></div>
 <div class="yck-component">
     <div class="col-container">
         <div class="column">
@@ -246,6 +246,7 @@ third_nav_title: Uniformed Groups
     --yck-heading-line-height: 1.2em;
     --yck-heading-letter-spacing: -0.02em;
     --yck-spacing-unit: 1em;
+	--yck-rounded-corners: 10px;
 
     --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
     --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
@@ -255,17 +256,86 @@ third_nav_title: Uniformed Groups
     --yck-step-3: clamp(1.6018rem, 1.4828rem + 0.5951vw, 1.944rem);
     --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
     --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
-
     --yck-space-s-xl: clamp(0.75rem, 0.7337rem + 1.9565vw, 2.7994rem);
+	    /* Neutral */
+    --neutral-100: #fcfcfa;
+    --neutral-200: #eae8e4;
+    --neutral-300: #d7d3ce;
+    --neutral-400: #c5bfb9;
+    --neutral-500: #b3aba4;
+    --neutral-600: #8f8883;
+    --neutral-700: #6c6663;
+    --neutral-800: #494442;
+    --neutral-900: #262322;
+    /* Accent: Algal Fuel */
+    --yck-green100: #f2fffb;
+    --yck-green200: #bcfee6;
+    --yck-green300: #83f8c7;
+    --yck-green400: #4ae79d;
+    --yck-green500: #16c768;
+    --yck-green600: #079f45;
+    --yck-green700: #02772b;
+    --yck-green800: #004e17;
+    --yck-green900: #002609;
+    /* Primary: Chaat Masala */
+    --yck-orange000: #fff4e6;
+    --yck-orange100: #ffe8cc;
+    --yck-orange200: #ffd8a8;
+    --yck-orange300: #ffc078;
+    --yck-orange400: #ffa94d;
+    --yck-orange500: #ff922b;
+    --yck-orange600: #fd7e14;
+    --yck-orange700: #f76707;
+    --yck-orange800: #e8590c;
+    --yck-orange900: #d9480f;
+    --yck-orange110: #bf400d;
+    --yck-orange120: #99330b;
+    --yck-orange130: #802b09;
     interpolate-size: allow-keywords;
 }
-
-.yck-component {
-    line-height: var(--yck-text-line-height);
-    letter-spacing: normal;
-    font-size: var(--yck-step-0);
-    margin-bottom: var(--yck-spacing-unit);
+	
+html {
+    font-size: 100%;
 }
+
+body {
+    min-height: 100dvh;
+    font-family: inherit;
+    line-height: var(--yck-text-line-height);
+    word-break: break-word;
+    overflow-wrap: break-word;
+    background-color: inherit;
+}
+	
+::selection {
+    background: rgba(255, 255, 0, 0.35);
+}
+
+/* Component Wrappers - div, article, main, section */
+.yck-component {
+    width: 100%;
+    max-width: 1000px;
+}
+
+.yck-component * {
+    padding: 0;
+    margin: 0;
+    font-size: var(--yck-step-0);
+}
+
+.yck-component article {
+    width: 100%;
+    margin-block: 1em;
+}
+
+.yck-component section {
+    width: 100%;
+    margin-block: var(--yck-space-s-xl);
+}
+
+.yck-component .regular-flow>*+* {
+    margin-top: 1.125em;
+	}
 
 .yck-component h1,
 .yck-component h2,
@@ -286,68 +356,66 @@ third_nav_title: Uniformed Groups
     text-wrap: balance;
 }
 
+/* Typography */
+.yck-component div,
 .yck-component p,
-.yck-component ol,
-.yck-component ul {
+.yck-component li {
+    padding: 0;
+    margin: 0;
+    line-height: var(--yck-text-line-height);
+    letter-spacing: normal;
     text-wrap: pretty;
-    margin-bottom: var(--yck-spacing-unit);
 }
 
-.yck-component p:last-child,
-.yck-component ul li:last-child,
-.yck-component ol li:last-child {
-    margin-bottom: calc(var(--yck-space-s-xl)*1.2);
-}
 
-.yck-component .yck-h1,
-.yck-component h1 {
+.yck-component h1,
+.yck-component .yck-h1 {
     font-size: var(--yck-step-5);
-    margin-bottom: var(--yck-space-s-xl);
+    font-weight: 800;
     line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.yck-component .yck-h2,
-.yck-component h2 {
+.yck-component h2,
+.yck-component .yck-h2 {
     font-size: var(--yck-step-4);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.8);
+    font-weight: 700;
     line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.yck-component .yck-h3,
-.yck-component h3 {
+.yck-component h3,
+.yck-component .yck-h3 {
     font-size: var(--yck-step-3);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.6);
+    font-weight: 600;
     line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.yck-component .yck-h4,
-.yck-component h4 {
+.yck-component h4,
+.yck-component .yck-h4 {
     font-size: var(--yck-step-2);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.4);
-    text-transform: capitalize;
+    font-weight: 500;
     line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
 }
 
-.yck-component .yck-h5,
-.yck-component h5 {
+.yck-component h5,
+.yck-component .yck-h5 {
     font-size: var(--yck-step-1);
-    margin-bottom: calc(var(--yck-space-s-xl) * 0.3);
-    text-transform: uppercase;
+    font-weight: 500;
     line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
+    text-transform: uppercase;
 }
 
-.yck-component .yck-h6,
-.yck-component h6 {
+.yck-component h6,
+.yck-component .yck-h6 {
     font-size: var(--yck-step-0);
-    margin-bottom: calc(var(--yck-spacing-unit) * 0.2);
-    text-transform: uppercase;
     line-height: var(--yck-heading-line-height);
-    letter-spacing: var(--yck-heading-letter-spacing);
+    text-transform: uppercase;
+}
+
+.yck-component .small,
+.yck-component .yck-small,
+.yck-component small {
+    font-size: var(--yck-step--2);
+    line-height: calc(var(--yck-text-line-height) * 0.75);
 }
 
 .yck-component .yck-table {
@@ -744,4 +812,141 @@ third_nav_title: Uniformed Groups
     border: 10px solid #fff;
     box-shadow: -5px -5px 10px rgba(0, 0, 0, .1)
 }
-</style>
+	
+/* RWD TABLE - Responsive Table */
+/* Responsive Tables Style */
+.yck-component .rwd-table {
+    margin-top: 1.5em;
+    margin-bottom: var(--yck-space-s-xl);
+    min-width: 360px;
+}
+
+.yck-component .rwd-table tr {
+    border: 1px solid var(--neutral-600);
+    transition: background-color 0.7s ease-in-out;
+}
+
+/* ✅ INSERT NEW RULES HERE: Row striping & hover */
+.yck-component .rwd-table tbody tr:nth-child(odd) {
+    background-color: var(--neutral-100);
+    /* #fcfcfa */
+    transition: background-color 0.7s ease-in-out;
+}
+
+.yck-component .rwd-table tbody tr:hover {
+    background-color: var(--yck-orange000);
+    /* #fff4e6 */
+    transition: background-color 0.7s ease-in-out;
+}
+
+.yck-component .rwd-table th {
+    display: none;
+}
+
+.yck-component .rwd-table td {
+    display: block;
+    border-color: transparent;
+}
+
+.yck-component .rwd-table td::before {
+    content: attr(data-th) ": ";
+    font-size: var(--yck-step-0);
+    font-weight: bold;
+    display: inline-block;
+}
+
+@media (min-width: 480px) {
+    .yck-component .rwd-table td::before {
+        display: none;
+    }
+}
+
+.yck-component .rwd-table th,
+.yck-component .rwd-table td {
+    text-align: left;
+    margin: 0;
+    padding: 1em !important;
+}
+
+.yck-component .rwd-table th {
+    background-color: var(--neutral-400);
+    font-size: var(--yck-step-0);
+	color: #fff !important;
+}
+
+@media (min-width: 480px) {
+
+    .yck-component .rwd-table th,
+    .yck-component .rwd-table td {
+        display: table-cell;
+        border: 1px solid var(--neutral-600);
+    }
+
+    .yck-component .rwd-table th:first-child,
+    .yck-component .rwd-table td:first-child {
+        padding-left: 0;
+    }
+
+    .yck-component .rwd-table th:last-child,
+    .yck-component .rwd-table td:last-child {
+        padding-right: 0;
+    }
+
+    .yck-component .rwd-table {
+        background: transparent;
+        color: var(--neutral-800);
+        border-radius: var(--yck-rounded-corners);
+        overflow: hidden;
+        width: 100%;
+    }
+
+    .yck-component .rwd-table th,
+    .yck-component .rwd-table td {
+        border-color: var(--neutral-200);
+    }
+
+    @media (min-width: 480px) {
+
+        .yck-component .rwd-table th,
+        .yck-component .rwd-table td {
+            padding: 1em !important;
+        }
+    }
+
+    .yck-component .rwd-table th,
+    .yck-component .rwd-table td::before {
+        color: var(--neutral-700);
+    }
+}
+	
+	.yck-component figure,
+.yck-component .figure {
+    display: block;
+    border-radius: var(--yck-rounded-corners);
+    padding: 0 !important;
+    margin: 0 !important;
+    overflow: hidden;
+}
+
+.yck-component figure img,
+.yck-component .figure img {
+    width: 100%;
+    background-size: cover;
+    border-radius: var(--yck-rounded-corners);
+    object-fit: cover;
+    overflow: hidden;
+}
+
+.yck-component figcaption,
+.yck-component .caption {
+    display: block;
+    padding: 0.25em !important;
+    margin: 0 auto !important;
+    font-family: var(--font-old-style);
+    font-size: var(--yck-step--1);
+    font-style: oblique;
+    font-weight: 300;
+    text-align: center;
+}
+
+</style></div>
