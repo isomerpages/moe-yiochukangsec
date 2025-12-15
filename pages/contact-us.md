@@ -11,7 +11,7 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 7.30am - 5.00pm
-        description: Closed on Weekends and Public Holidays
+        description: Closed on HBL Days, Weekends and Public Holidays
     maps_link: https://maps.app.goo.gl/pvx421SCczbVorZj9
     title: General Office
 contacts:
