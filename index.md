@@ -24,6 +24,16 @@ sections:
       title: Home Heart Hope
       subtitle: asefas
   - infopic:
+      title: YCKSS SEC 1 INFORMATION
+      id: infopic
+      description: Dear Parents, Guardians and Secondary 1 YCKSians of 2026. Yio Chu
+        Kang Secondary School welcomes our Secondary 1 YCKSians to our YCKSS
+        Family!
+      button: Click for more info
+      url: https://sites.google.com/moe.edu.sg/yckss-sec-1-information-2026/
+      image: /images/Homepage/yckss_sec1_info_2026.png
+      alt: YCKSS Sec 1 Info Microsite
+  - infopic:
       title: YCKSS e-Open House
       subtitle: A Unique Way to Experience
       id: infopic
@@ -72,14 +82,4 @@ sections:
             Celebration."
           linktext: Concert For Hope (Cantabile 2025)
           url: https://www.yiochukangsec.moe.edu.sg/our-story/our-60th-anniversary/concert-for-hope/
-  - infopic:
-      title: YCKSS SEC 1 INFORMATION
-      id: infopic
-      description: Dear Parents, Guardians and Secondary 1 YCKSians of 2026. Yio Chu
-        Kang Secondary School welcomes our Secondary 1 YCKSians to our YCKSS
-        Family!
-      button: Click for more info
-      url: https://sites.google.com/moe.edu.sg/yckss-sec-1-information-2026/
-      image: /images/Homepage/yckss_sec1_info_2026.png
-      alt: YCKSS Sec 1 Info Microsite
 ---
