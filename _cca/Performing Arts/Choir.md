@@ -8,8 +8,8 @@ third_nav_title: Performing Arts
 <div class="yck-component">
 	<article>
 		<section>
-    <figure class="ken-burns-container">
-        <img alt="Choir performing" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Choir.jpg" class="ken-burns-image">
+    <figure class="kenburns-container">
+        <img alt="Choir performing" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Performing%20Arts/Choir.jpg" class="kenburns-scale">
     </figure>
 		</section>
 		<section>
