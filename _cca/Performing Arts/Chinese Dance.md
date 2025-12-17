@@ -28,48 +28,54 @@ third_nav_title: Performing Arts
             </section>
             <section>
                 <h4 class="yck-h4">Training Schedule</h4>
-                <table class="yck-table">
-                    <thead>
-                        <tr>
-                            <th class="yck-th">
-                                <h5 class="yck-h5">DAY &amp; TIME:</h5>
-                            </th>
-                            <th class="yck-th">
-                                <h5 class="yck-h5">TEACHERS IN-CHARGE:</h5>
-                            </th>
-                            <th class="yck-th">
-                                <h5 class="yck-h5">VENUE:</h5>
-                            </th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td class="yck-td">
-                                <p>Every Tuesday, 3:00PM to 5:30PM</p>
-                            </td>
-                            <td class="yck-td">
-                                <p>Ms Tan Chun Buei (OIC) (ext 172)</p>
-                                <p>Ms Teo Hwee Hong (ext 123)</p>
-                            </td>
-                            <td class="yck-td">
-                                <p>Dance Rm 1. <i>(Blk B #03-01)</i></p>
-                                <p>Hall. <i>(One level above the canteen.)</i></p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="yck-td">
-                                <p>Every Thursday, 3:00PM to 5:30PM</p>
-                            </td>
-                            <td class="yck-td">
-                                <p>Mdm Ye Yuluan (ext 197)</p>
-                            </td>
-                            <td class="yck-td">
-                                <p>Dance Rm 1. <i>(Blk B #03-01)</i></p>
-                            </td>
-                        </tr>
-                    </tbody>
-                </table>
-            </section>
+                <table class="rwd-table">
+  <thead>
+    <tr>
+      <th scope="col">
+        <h5>DAY &amp; TIME:</h5>
+      </th>
+      <th scope="col">
+        <h5>TEACHERS IN-CHARGE:</h5>
+      </th>
+      <th scope="col">
+        <h5>VENUE:</h5>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td data-th="DAY &amp; TIME">
+        <p>Every Tuesday, 3:00PM to 5:30PM</p>
+      </td>
+      <td data-th="TEACHERS IN-CHARGE">
+        <p>Ms Tan Chun Buei (OIC) (ext 172)</p>
+        <p>Ms Teo Hwee Hong (ext 123)</p>
+      </td>
+      <td data-th="VENUE">
+        <p>
+          Dance Rm 1. <i>(Blk B #03-01)</i>
+        </p>
+        <p>
+          Hall. <i>(One level above the canteen.)</i>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td data-th="DAY &amp; TIME">
+        <p>Every Thursday, 3:00PM to 5:30PM</p>
+      </td>
+      <td data-th="TEACHERS IN-CHARGE">
+        <p>Mdm Ye Yuluan (ext 197)</p>
+      </td>
+      <td data-th="VENUE">
+        <p>
+          Dance Rm 1. <i>(Blk B #03-01)</i>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</section>
             <section>
                 <h4 class="yck-h4">Events and Competitions</h4>
                 <div class="col-container">
@@ -710,6 +716,116 @@ small {
     .yck-component .yck-td,
     .yck-component td {
         padding: calc(var(--yck-spacing-unit) * 0.5);
+    }
+}
+	
+.yck-component .rwd-table {
+    margin-top: 1.5em;
+    margin-bottom: var(--yck-space-s-xl);
+    min-width: 360px;
+    width: 100%;
+    border-collapse: collapse;
+    background: transparent;
+    border-radius: var(--yck-rounded-corners);
+    overflow: hidden;
+}
+
+.yck-component .rwd-table caption {
+    text-align: left;
+    margin-bottom: 0.5em;
+    font-size: var(--yck-step-0);
+    font-weight: bold;
+}
+
+.yck-component .rwd-table thead th {
+    color: #fff !important;
+    font-size: var(--yck-step-0);
+    text-align: left;
+    padding: 1em;
+}
+
+.yck-component .rwd-table tbody tr {
+    border: 1px solid var(--neutral-600);
+    transition: background-color 0.7s ease-in-out;
+}
+
+.yck-component .rwd-table tbody tr:nth-child(odd) {
+    background-color: var(--neutral-100);
+    transition: background-color 0.7s ease-in-out;
+}
+
+.yck-component .rwd-table tbody tr:hover {
+    background-color: var(--yck-orange000);
+    transition: background-color 0.7s ease-in-out;
+}
+
+.yck-component .rwd-table th,
+.yck-component .rwd-table td {
+    padding: 1em;
+    text-align: left;
+    vertical-align: top;
+}
+
+/* Mobile-first responsive behavior */
+.yck-component .rwd-table th {
+    display: none;
+}
+
+.yck-component .rwd-table td {
+    display: block;
+    border: none;
+    border-bottom: 1px solid var(--neutral-600);
+    position: relative;
+    padding-left: calc(50% + 1em);
+}
+
+.yck-component .rwd-table td::before {
+    content: attr(data-th) ": ";
+    position: absolute;
+    left: 1em;
+    top: 1em;
+    font-weight: bold;
+    white-space: nowrap;
+    width: calc(50% - 2em);
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* Desktop view */
+@media (min-width: 480px) {
+    .yck-component .rwd-table {
+        display: table;
+    }
+
+    .yck-component .rwd-table th,
+    .yck-component .rwd-table td {
+        display: table-cell;
+        border: 1px solid var(--neutral-200);
+    }
+
+    .yck-component .rwd-table th {
+        display: table-cell;
+	     color: #fff !important;
+    }
+
+    .yck-component .rwd-table td {
+        display: table-cell;
+        border: 1px solid var(--neutral-200);
+        padding: 1em;
+    }
+
+    .yck-component .rwd-table td::before {
+        display: none;
+    }
+
+    .yck-component .rwd-table th:first-child,
+    .yck-component .rwd-table td:first-child {
+        padding-left: 1em;
+    }
+
+    .yck-component .rwd-table th:last-child,
+    .yck-component .rwd-table td:last-child {
+        padding-right: 1em;
     }
 }
 
