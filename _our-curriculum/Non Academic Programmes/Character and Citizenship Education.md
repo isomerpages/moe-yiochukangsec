@@ -286,13 +286,13 @@ on the following resources:</p>
 <p>What's Next after N-Levels 2025:</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-nlevel</a>
 </p>
-<p>JIE / JAE ITE Booklet for EXP 2025:</p>
-<p>Pending</p>
+<p>JIE / JAE ITE Booklet for EXP 2025: Pending</p>
+<p></p>
 <p>JAE Booklet for EXP 2025:</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/post-secondary/2026-jae/2026-jae-courses.pdf</a>
 </p>
-<p>What's Next after O-Levels 2025:</p>
-<p>Pending”</p>
+<p>What's Next after O-Levels 2025: Pending</p>
+<p></p>
 <p>&nbsp;</p>
 <h4><strong>National Education (NE)</strong></h4>
 <p></p>
