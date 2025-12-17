@@ -252,10 +252,10 @@ such that they can, in the future, contribute meaningfully to society through
 their future professions.
 <br>To make an appointment, please click here: <a href="https://go.gov.sg/yckssecg" rel="noopener noreferrer nofollow" target="_blank&quot;">https://go.gov.sg/yckssecg</a>
 <br>or scan the QR Code below.</p>
-<div class="isomer-image-wrapper">
-<img style="width:100%;height:50%" height="auto" width="100%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/NonAcademic%20Programmes/YCKSS_ECG_Poster_jpg_format__for_school_website_.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Non Academic Programmes/CCE/ECG/YCKSS_Booking_Poster_for_website.jpg">
+</div>
 </li>
 </ol>
 <p>To find out more about post-secondary education and pathways, please click
