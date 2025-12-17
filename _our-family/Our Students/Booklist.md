@@ -80,9 +80,7 @@ variant: markdown
         </ul>
     </div>
 </div>
-	</section></article></div>
-			
-			<hr>
+	</section><hr>
 			<section>
 <h5>Year-End Book Sale</h5>
 <p>Online ordering is available at <a class="text-link" target="_blank" href="https://asenciobookshop.sg">asenciobookshop.sg</a> for their year-end book sales.</p>
@@ -90,8 +88,7 @@ variant: markdown
 	<p>More details such as in-person/online book sales can be found within the <a class="text-link" href="/our-family/Students/Booklist/#booklist">respective booklists</a>.</p>
 	<p>For enquiries, please email to    <a class="text-link" href="mailto:yckss@asencio.com.sg">yckss@asencio.com.sg</a></p>
 			</section>
-		
-	</div>
+			</article></div>
 	
 
 
@@ -1924,4 +1921,4 @@ button.cta-button:hover::before {
         animation-range: entry 25% cover 50%;
     }
 } */
-</style>
+</style></div>
