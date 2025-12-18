@@ -15,7 +15,7 @@ third_nav_title: Our Students
     <li><a class="text-link" href="https://www.ace-learning.com/">Ace Learning</a></li>
     <li><a class="text-link" href="https://schoolibrary.moe.edu.sg/yiochukangsec">YCKSS Library OPAC System</a></li>
     <li><a class="text-link" href="https://www.seab.gov.sg/">Singapore Examination and Assessment Board</a></li>
-    <li><a class="text-link" href="http://tinyurl.com/yckss-alumin/">YCKSS Alumni Application</a></li>
+    <li><a class="text-link" href="https://tinyurl.com/YCKalumniform/">YCKSS Alumni Application</a></li>
     <li><a class="text-link" href="https://www.moe.gov.sg/">Ministry of Education</a></li>
     <li><a class="text-link" href="https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp">Early Admission Exercise</a></li>
     <li><a class="text-link" href="https://www.ite.edu.sg/">ITE Education</a></li>
