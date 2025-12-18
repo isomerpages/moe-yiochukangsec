@@ -219,15 +219,9 @@ camp
 </td>
 <td rowspan="1" colspan="4">
 <p>JIE Briefing during GCE N-level exam results release
-<br><a href="/files/ECG/1%202018%20N-level%20Pathways%20Briefing.pdf" rel="noopener noreferrer nofollow" target="_blank">2018 N-level Pathways Briefing</a>
-<br><a href="/files/ECG/2%202018%20N-level%20JIE%20Briefing.pdf" rel="noopener noreferrer nofollow" target="_blank">2018 N-level JIE Briefing</a>
-<br><a href="/files/ECG/JIE%20Booklet%202019.pdf" rel="noopener noreferrer nofollow" target="_blank">JIE Booklet 2019</a>
+<br><a href="/files/ECG/Choosing_JIE_Choices_for_2026_admissions__YCKSS_4MB.pdf" rel="noopener nofollow" target="_blank">Choosing JlE Choices for 2026 admissions (4MB)</a>
 <br>
-<br>JAE Briefing during O-level results release
 <br>
-<br><a href="/files/ECG/1%202018%20O-level%20Pathways%20Briefing.pdf" rel="noopener noreferrer nofollow" target="_blank">2018 O-level Pathways Briefing</a>
-<br><a href="/files/ECG/2%202018%20O-level%20JAE%20Briefing.pdf" rel="noopener noreferrer nofollow" target="_blank">2018 O-level JAE Briefing</a>
-<br><a href="/files/ECG/JAE%20Booklet%202019.pdf" rel="noopener noreferrer nofollow" target="_blank">JAE Booklet 2019</a>
 </p>
 </td>
 </tr>
