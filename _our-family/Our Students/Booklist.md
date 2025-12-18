@@ -48,7 +48,8 @@ variant: markdown
 <table style="display: none"> <tbody> <tr> <th>Secondary One</th> <th>Secondary Two</th> <th>Secondary Three</th> <th>Secondary Four</th> <th>Secondary Five</th> </tr> <tr> <td>Available Soon ...</td> <td><a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_2_booklist.pdf">Download PDF 226kb</a></td> <td><a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_3_booklist.pdf">Download PDF 256kb</a></td> <td><a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_4_booklist.pdf">Download PDF 281kb</a></td> <td><a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_5_booklist.pdf">Download PDF 200kb</a></td> </tr> </tbody> </table>
 <hr>
 <section>
-<div class="columns2">
+<div class="flex-wrap">
+<div class="cards yck__flexitem flex-grow">
     <h5 class="yck-h5">
         Asencio Pte Ltd</h5>
     <ul class="nolist-style">
@@ -60,8 +61,10 @@ variant: markdown
         <li>#05-02 Kewalram Hillview</li>
         <li>Singapore 669594</li>
     </ul>
+	</div>
+	<br>
     <div class="cards yck__flexitem">
-        <h5>Sales of School Uniform</h5>
+        <h5 class="yck-h5">Sales of School Uniform</h5>
         <ul class="nolist-style">
             <li>During School Terms
                 <ul>
@@ -77,8 +80,7 @@ variant: markdown
         </ul>
     </div>
 </div>
-			</section>
-			<hr>
+	</section><hr>
 			<section>
 <h5>Year-End Book Sale</h5>
 <p>Online ordering is available at <a class="text-link" target="_blank" href="https://asenciobookshop.sg">asenciobookshop.sg</a> for their year-end book sales.</p>
@@ -86,9 +88,8 @@ variant: markdown
 	<p>More details such as in-person/online book sales can be found within the <a class="text-link" href="/our-family/Students/Booklist/#booklist">respective booklists</a>.</p>
 	<p>For enquiries, please email to    <a class="text-link" href="mailto:yckss@asencio.com.sg">yckss@asencio.com.sg</a></p>
 			</section>
-		</article>
-	</div>
-	</div>
+			</article></div>
+	
 
 
 <style>
@@ -1017,89 +1018,80 @@ h6,
     text-align: center;
 }
 
-/* Layouts - Flexitems using flexbox */
-.yck-component .yck-flexitems {
-    display: flex;
-    flex-wrap: wrap;
-    gap: var(--yck-spacing-unit);
-    margin-inline: auto;
-    margin-top: 1.5em;
-    margin-bottom: var(--yck-space-s-xl);
+/* === BASE CARD FOUNDATION === */
+.yck-component .cards {
+  display: flex;
+  flex-direction: column;
+  background:transparent;
+  overflow: hidden;
+  min-width: 180px;
+  border-radius: var(--yck-rounded-corners);
+  -webkit-backdrop-filter: blur(50px) brightness(1.7) saturate(1.4);
+  backdrop-filter: blur(50px) brightness(1.7) saturate(1.4);
 }
 
-.yck-component .yck-flexitem {
-    display: flex;
-    flex-direction: column;
-    min-width: 150px;
-    color: var(--neutral-700);
-    border-radius: var(--yck-rounded-corners);
-    font-size: var(--yck-step--2);
-    background: linear-gradient(135deg,
-        rgba(255, 255, 255, 0) 0%,
-        rgba(255, 255, 255, 1) 100%);
-    align-items: flex-start;
-    flex: 1 0 calc(33% - var(--yck-spacing-unit));
-    justify-content: flex-start;
-    align-content: stretch;
-    overflow: hidden;
+.yck-component .card__header {
+  font-size: var(--yck-step-1);
+  font-weight: 900;
+  text-transform: uppercase;
+  padding-block: 0.5em;
+  padding-inline: 0.75em;
+  color: var(--neutral-900);
 }
 
-.yck-component .yck-flexitem img {
-    width: 100%;
-    border-radius: var(--yck-rounded-corners);
-    background-size: cover;
-    object-fit: cover;
-    overflow: hidden;
+.yck-component .card__body {
+  padding-inline: 1em;
+  color: #333;
+  flex: 1;
 }
 
-/* Layout - Equal Height Cards with sticky footer */
-.yck-component .yck-cards {
-    display: flex;
-    flex-wrap: wrap;
-    width: 100%;
-    margin-inline: auto;
-    margin-top: 1.5em;
-    margin-bottom: var(--yck-space-s-xl);
-    gap: var(--yck-spacing-unit);
-    justify-content: space-between;
+.yck-component .card__footer {
+  padding-bottom: 0.75em;
+  font-size: var(--yck-step--1);
+  font-style: oblique;
+  font-weight: 300;
+  text-align: center;
+  color: var(--neutral-700);
 }
 
-.yck-component .yck-card {
-    display: flex;
-    min-width: 180px;
-    overflow: hidden;
-    flex-direction: column;
-    color: var(--neutral-800);
-    border-radius: var(--yck-rounded-corners);
-    background: linear-gradient(145deg, rgba(255, 255, 255, 0) 0%, rgb(255, 233, 193, 0.8) 100%);
-    flex: 1 0 calc(10% - var(--yck-spacing-unit));
-    border: 1px solid var(--yck-orange300);
-    -webkit-backdrop-filter: blur(50px) brightness(1.7) saturate(1.4);
-    backdrop-filter: blur(50px) brightness(1.7) saturate(1.4);
+/* === UTILITY CLASSES FOR LAYOUT === */
+.yck-component .flex-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--yck-spacing-unit);
+  margin-left: auto;
+  margin-right: auto;
+  margin-block: 1em;
 }
 
-.yck-component .yck-card-header {
-    font-size: var(--yck-step-1);
-    text-transform: uppercase;
-    padding-block: 0.5em;
-    padding-inline: 0.75em;
-    font-weight: 900;
-    color: var(--neutral-900);
+.yck-component .flex-grow {
+  flex: 1 0 calc(33% - var(--yck-spacing-unit));
 }
 
-.yck-component .yck-card-body {
-    padding-inline: 1em;
-    color: var(--neutral-800);
-    flex: 1;
+.yck-component .flex-grow--tight {
+  flex: 1 0 calc(22% - var(--yck-spacing-unit));
 }
 
-.yck-component .yck-card-footer {
-    padding-bottom: 0.75em;
-    font-size: var(--yck-step--1);
-    font-style: oblique;
-    font-weight: 300;
-    text-align: center;
-    color: var(--neutral-700);
+.yck-component .center-text { text-align: center; }
+.yck-component .align-start { align-items: flex-start; }
+.yck-component .align-center { align-items: center; }
+.yck-component .justify-start { justify-content: flex-start; }
+.yck-component .justify-center { justify-content: center; }
+
+/* === CARD MODIFIERS (Replace Original Classes) === */
+.yck-component .cards.yck__card {
+  flex: 1 0 calc(22% - var(--yck-spacing-unit));
+  border: 1px solid var(--yck-orange300);
+  background: linear-gradient(145deg, rgba(255,255,255,0) 0%, rgba(255,233,193,0.8) 100%);
+}
+
+.yck-component .cards.yck__flexitem {
+  font-size: var(--yck-step--2);
+  background: linear-gradient(135deg, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 100%);
+  flex: 1 0 calc(33% - var(--yck-spacing-unit));
+  justify-content: flex-start;
+  align-content: flex-start;
+  transition: all 1s var(--ease-elastic-in-out-4);
 }
 
 /* 2. Auto-Fit Responsive Grid */
@@ -1929,4 +1921,4 @@ button.cta-button:hover::before {
         animation-range: entry 25% cover 50%;
     }
 } */
-</style>
+</style></div>
