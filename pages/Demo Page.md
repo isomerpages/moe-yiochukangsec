@@ -76,7 +76,7 @@ image: /images/YCKLogo.svg
             </section>
             <section>
                 <h3>Heading Level 3 - Responsive Width Table to List<br>Training Schedule</h3>
-							<p></p><table class="rwd-table">
+<table class="rwd-table">
     <tbody>
         <tr>
             <th scope="row">Secondary One</th>
@@ -102,8 +102,7 @@ image: /images/YCKLogo.svg
                 <p><a class="text-link" target="_blank" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_4_booklist.pdf">Download PDF 281kb</a></p>
             </td>
         </tr>
-        
-        <tr>
+			<tr>
             <th scope="row">Secondary Five</th>
             <td data-th="Secondary 5">
                 <p><a class="text-link" target="_blank" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Students/Booklist/2026_Sec_5_booklist.pdf">Download PDF 200kb</a></p>
