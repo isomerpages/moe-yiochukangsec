@@ -5,42 +5,42 @@ variant: markdown
 description: ""
 image: /images/YCKLogo.svg
 ---
-<a href="/our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/">
 <div class="yck-component">
+    <a href="/our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/">
         <figure>
             <div class="masthead" id="distinct-alp">
                 <h2>Applied Learning Programme</h2>
             </div>
         </figure>
+    </a>
 </div>
-</a>
-<a href="/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/">
-	<div class="yck-component">    
+<div class="yck-component">
+    <a href="/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/">
         <figure>
             <div class="masthead" id="distinct-llp">
                 <h2>Learning for Life Programme</h2>
             </div>
         </figure>
-    </div>
-	</a>
-<a href="/our-curriculum/Distinctive-Programmes/Service-Learning-through-Issue-Investigation/">	
+    </a>
+</div>
 <div class="yck-component">
+    <a href="/our-curriculum/Distinctive-Programmes/Service-Learning-through-Issue-Investigation/">
         <figure>
             <div class="masthead" id="distinct-slii">
                 <h2>Service Learning through Issue Investigation</h2>
             </div>
         </figure>
+    </a>
 </div>
-</a>
-<a href="/our-curriculum/distinctive-programmes/fita/">
 <div class="yck-component">
+    <a href="/our-curriculum/distinctive-programmes/fita/">
         <figure>
             <div class="masthead" id="distinct-fita">
                 <h2>From Ideas to Action (F.I.T.A.)</h2>
             </div>
         </figure>
+    </a>
 </div>
-</a>
 
 <style>
 :root {
