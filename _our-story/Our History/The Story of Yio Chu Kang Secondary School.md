@@ -20,7 +20,7 @@ third_nav_title: Our History
            11th milestone of Yio Chu Kang Road.
         </p>
 					<div class="flex-wrap">
-        <div class="cards yck__flexitem flex-grow">
+        <div class="cards yck__flexitem flex-grow-tight">
             <figure>
                 <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/img0042.jpg">
 							</figure>
@@ -1420,7 +1420,7 @@ abbr:hover {
 .yck-component figure,
 .yck-component .figure {
     display: block;
-    border-radius: var(--yck-rounded-corners);
+    border-radius: 10px;
     padding: 0 !important;
     margin: 0 !important;
     overflow: hidden;
@@ -1430,7 +1430,7 @@ abbr:hover {
 .yck-component .figure img {
     width: 100%;
     background-size: cover;
-    border-radius: var(--yck-rounded-corners);
+    border-radius:10px;
     object-fit: cover;
     overflow: hidden;
 }
@@ -1495,6 +1495,15 @@ abbr:hover {
 
 .yck-component .flex-grow {
     flex: 1 0 calc(33% - var(--yck-spacing-unit));
+}
+	
+.yck-component .cards.yck__flexitem {
+    font-size: var(--yck-step--2);
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
+    flex: 1 0 calc(33% - var(--yck-spacing-unit));
+    justify-content: flex-start;
+    align-content: flex-start;
+    transition: all 1s var(--ease-elastic-in-out-4);
 }
 
 	
