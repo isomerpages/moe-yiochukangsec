@@ -21,8 +21,7 @@ image: /images/YCKLogo.svg
                 <h2>Learning for Life Programme</h2>
             </div>
         </figure>
-    
-</div>
+    </div>
 	</a>
 <a href="/our-curriculum/Distinctive-Programmes/Service-Learning-through-Issue-Investigation/">	
 <div class="yck-component">
