@@ -8,6 +8,8 @@ third_nav_title: Our History
 ---
 <div class="yck-component">
     <div class="regular-flow">
+			<article>
+				<section>
         <h3>The Pioneer Spirit: The Story of Yio Chu Kang Secondary</h3>
 <p class="dropcap-title">
             Born from the aspirations of a new nation, Yio Chu Kang Secondary School was
@@ -17,19 +19,24 @@ third_nav_title: Our History
             for a school to serve their children. Its original campus stood at the
            11th milestone of Yio Chu Kang Road.
         </p>
-        <div class="yck-img-array">
+					<div class="flex-wrap">
+        <div class="cards yck__flexitem flex-grow-tight">
             <figure>
-                <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/img0042.jpg"><img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/img0022.jpg">
-            </figure>
-            <figure>
-                <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/img0028.jpg">
-                <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/img0059.jpg">
+                <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/img0042.jpg">
+							</figure>
+						</div>
+						<div class="cards yck__flexitem flex-grow">
+					<figure><img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/img0022.jpg">
+							</figure></div>
+            <div class="cards yck__flexitem flex-grow"><figure>
+                <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/img0028.jpg"></figure></div>
+                <div class="cards yck__flexitem flex-grow"><figure><img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20History/img0059.jpg">
             </figure>
         </div>
-    </div>
-</div>
-<div class="yck-component" id="chongboontreebg">
-    <div class="regular-flow">
+					</div>
+					</section>
+    <section>
+<div id="chongboontreebg">
         <p>
             Officially opened by then-Minister for Education Mr. Ong Pang Boon, the
             school began as an integrated English and Chinese-stream institution. This
@@ -70,7 +77,10 @@ third_nav_title: Our History
             programmes to meet the needs of every generation.
         </p>
     </div>
+				</section>
+			</article>
 </div>
+	</div>
 <hr>
 
 <style>
@@ -125,11 +135,6 @@ body {
     min-height: 100vh;
 }
 
-::selection {
-    text-shadow: none;
-    background: rgba(255, 255, 0, 0.35);
-}
-
 audio,
 canvas,
 iframe,
@@ -148,11 +153,26 @@ img {
    2. Base Typography
    ========================================================================== */
 
+/* Component Wrappers - div, article, main, section */
 .yck-component {
-    line-height: var(--yck-text-line-height);
-    letter-spacing: normal;
+    width: 100%;
+    max-width: 1023px;
+}
+
+.yck-component * {
+    padding: 0;
+    margin: 0;
     font-size: var(--yck-step-0);
-    margin-bottom: var(--yck-space-s-xl);
+}
+
+.yck-component article {
+    width: 100%;
+    margin-block: 1em;
+}
+
+.yck-component section {
+    width: 100%;
+    margin-block: var(--yck-space-s-xl);
 }
 
 .yck-component h1,
@@ -332,12 +352,6 @@ abbr:hover {
 
 .yck-component .regular-flow>*+* {
     margin-top: 1.125em;
-}
-
-.yck-component .deadctr-container {
-    display: grid;
-    place-items: center;
-    height: auto;
 }
 
 .yck-component .deadctr-content {
@@ -684,31 +698,6 @@ abbr:hover {
     font-style: italic;
     color: #555;
     text-align: right;
-}
-
-.yck-component figure,
-.yck-component .figure {
-    display: flex;
-    flex-flow: column;
-    max-width: 100%;
-    margin: 0;
-    padding: 0;
-}
-
-.yck-component figure img,
-.yck-component .figure img {
-    border-radius: 8px;
-    box-shadow: var(--yck-box-shadow);
-    margin-bottom: var(--yck-spacing-unit);
-}
-
-.yck-component figcaption {
-    background-color: rgba(255, 255, 255, 0.55);
-    color: #333;
-    font: italic var(--yck-step--1) sans-serif;
-    margin: 0;
-    padding: 5px;
-    text-align: center;
 }
 
 /* --- Integrated Navigation Bar Styles --- */
@@ -1062,7 +1051,6 @@ abbr:hover {
 
 @supports (animation-timeline: view()) {
 
-    .yck-component figure,
     .yck-component .carousel,
     .yck-component .masonry-container .masonry-item,
     .yck-component .yck-img-array,
@@ -1416,6 +1404,108 @@ abbr:hover {
         /* 1 card per row */
     }
 }
+	
+/* Layouts */
+/* Centering */
+.yck-component .deadctr-container {
+    display: grid;
+    margin: 0 auto;
+    padding: 0;
+    height: auto;
+    justify-items: center;
+    align-content: space-around;
+    place-items: center;
+}
+
+.yck-component figure,
+.yck-component .figure {
+    display: block;
+    border-radius: 10px;
+    padding: 0 !important;
+    margin: 0 !important;
+    overflow: hidden;
+}
+
+.yck-component figure img,
+.yck-component .figure img {
+    width: 100%;
+    background-size: cover;
+    border-radius:10px;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+.yck-component figcaption,
+.yck-component .caption {
+    display: block;
+    padding: 0.25em !important;
+    margin: 0 auto !important;
+    font-family: var(--font-old-style);
+    font-size: var(--yck-step--1);
+    font-style: oblique;
+    font-weight: 300;
+    text-align: center;
+}
+
+/* === BASE CARD FOUNDATION === */
+.yck-component .cards {
+    display: flex;
+    flex-direction: column;
+    background: transparent;
+    overflow: hidden;
+    min-width: 180px;
+    border-radius: var(--yck-rounded-corners);
+    -webkit-backdrop-filter: blur(50px) brightness(1.7) saturate(1.4);
+    backdrop-filter: blur(50px) brightness(1.7) saturate(1.4);
+}
+
+.yck-component .card__header {
+    font-size: var(--yck-step-1);
+    font-weight: 900;
+    text-transform: uppercase;
+    padding-block: 0.5em !important;
+    padding-inline: 0.75em !important;
+    color: var(--neutral-900);
+}
+
+.yck-component .card__body {
+    padding-inline: 1em !important;
+    color: #333;
+    flex: 1;
+}
+
+.yck-component .card__footer {
+    padding-bottom: 0.75em !important;
+    font-size: var(--yck-step--1);
+    font-style: oblique;
+    font-weight: 300;
+    text-align: center;
+    color: var(--neutral-700);
+}
+
+/* === UTILITY CLASSES FOR LAYOUT === */
+.yck-component .flex-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--yck-spacing-unit);
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-block: 1em !important;
+}
+
+.yck-component .flex-grow {
+    flex: 1 0 calc(33% - var(--yck-spacing-unit));
+}
+	
+.yck-component .cards.yck__flexitem {
+    font-size: var(--yck-step--2);
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
+    flex: 1 0 calc(33% - var(--yck-spacing-unit));
+    justify-content: flex-start;
+    align-content: flex-start;
+    transition: all 1s var(--ease-elastic-in-out-4);
+}
+
 	
 #chongboontreebg {
                                 background:
