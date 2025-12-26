@@ -830,8 +830,7 @@ third_nav_title: Our Staff
     </div>
   </div>
 </div>
-
-        <div class="section-title" id="Non-teaching-Staff">Non-Teaching Staff</div>
+<div class="section-title" id="Non-teaching-Staff">Non-Teaching Staff</div>
         <div class="non-teaching-staff-section">
             <div class="staff-group">
                 <div class="group-name">Student Support</div>
@@ -1049,7 +1048,7 @@ third_nav_title: Our Staff
             </div>
         </div>
     </div>
-    <div class="yck-component">
+		<div class="yck-component">
         <div class="deadctr-container">
             <a href="#top">
                 <button class="buttontotop">
