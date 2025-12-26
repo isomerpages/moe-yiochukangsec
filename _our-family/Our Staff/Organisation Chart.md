@@ -2397,4 +2397,15 @@ abbr:hover {
         /* 1 card per row */
     }
 }
+	
+details::details-content {
+  opacity: 0;
+  transition:
+    opacity 600ms,
+    content-visibility 600ms allow-discrete;
+}
+
+details[open]::details-content {
+  opacity: 1;
+}
 </style>
