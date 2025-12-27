@@ -11,36 +11,34 @@ image: /images/Gold.png
     </div>
 </div>
 <div class="yck-component">
+	<article>
+		<section>
     <div class="yck-flexbox-grid">
-        <div class="column">
+        <div class="columns2">
             <h2><strong>Vision</strong></h2>
             <p>Passionate learners who are agile and active contributors in the future economy</p>
         </div>
-        <div class="column">
+        <div class="columns2">
             <h2><strong>Mission</strong></h2>
             <p>To equip students with key skills, knowledge and attitude for successful careers in the technology and services sectors</p>
         </div>
     </div>
-</div>
-<div class="yck-component .regular-flow">
+		</section>
+		<section>
     <h3 class="yck-h3">Key Programmes</h3>
-    <div class="column">
+    <div class="columns3">
         <details name="keyprog">
             <summary class="yck-h4">Computer Applications (CPA)</summary>
             <p>CPA is offered to all students in the <em>Normal Technical</em> course from <i>Secondary one to four</i>. It promotes <mark>digital literacy</mark> in students, developing them to be responsible, confident and creative users of technology who can participate and thrive in a digital world. The subject engages students and prepares them for future studies through <mark>authentic tasks</mark> and <mark>hands-on activities</mark>.</p>
             <p>Students are equipped with a wide range of necessary ICT skills that prepare them to meet the demands of other subjects in secondary school and at post-secondary institutes. Through CPA, students acquire 21st century competencies such as critical thinking, information processing and effective communication.</p>
             <p>Students also learn basic computational thinking skills such as algorithmic thinking and decomposition through creating animations and games. </p>
         </details>
-    </div>
-    <div class="column">
         <details name="keyprog">
             <summary class="yck-h4">Smart Electrical Technology (SET)</summary>
             <p>SET is offered as an upper secondary <strong>elective subject</strong> in the <i>Normal Technical</i> course. It aims to provide students with training in the core, foundational concepts and principles of operation of all <strong>home automation systems</strong>, i.e. hardware and devices, software, combination and integration of the technologies involved, programming techniques, communication protocols and testing.</p>
             <p>At <i>Secondary three</i>, students are equipped with foundational knowledge of electrical circuits and systems.</p>
             <p>At <i>Secondary four</i>, students are trained to plan and design the smart home using home automation system. They will learn to perform the programming of the input devices, such as intelligent switches, sensors, scene master and touch screen in the control of lightings and blinds.</p>
         </details>
-    </div>
-    <div class="column">
         <details name="keyprog">
             <summary class="yck-h4">NT Learning Journeys (NTLJ)</summary>
             <div>
@@ -57,1359 +55,2289 @@ image: /images/Gold.png
             </div>
         </details>
     </div>
+		</section>
+	</article>
 	</div>
-	<hr>
-<div class="yck-component">
-    <nav id="top" class="yck-nav-bar">
-        <ul>
-            <li><a href="#School-Leaders">SCHOOL LEADERS</a></li>
-            <li><a href="#Key-Personnel">KEY PERSONNEL</a></li>
-            <li><a href="#Teaching-Staff">TEACHING STAFF</a></li>
-            <li><a href="#Non-teaching-Staff">NON-TEACHING STAFF</a></li>
-        </ul>
-    </nav>
-</div>
-<div class="wrapper">
-    <div class="org-chart">
-        <div id="School-Leaders" class="section-title">School Leaders</div>
-        <div class="person-container school-leaders">
-            <div class="person" id="mrschowbettychang">
-                <div class="person-name">Mdm Betty Chang</div>
-                <div class="person-title">PRINCIPAL</div>
-                <details name="schlead">
-                    <summary>Email Address:</summary>betty_chang<wbr>@moe.edu.sg
-                </details>
-            </div>
-            <div class="person" id="mrkevinlimhockchye">
-                <div class="person-name">Mr Kevin Lim Hock Chye</div>
-                <div class="person-title">VICE-PRINCIPAL</div>
-                <details name="schlead">
-                    <summary>Email Address:</summary>lim_hock_chye_kevin<wbr>@moe.edu.sg
-                </details>
-            </div>
-            <div class="person" id="mrpekxuhaoalvin">
-                <div class="person-name">Mr Pek Xu Hao Alvin</div>
-                <div class="person-title">VICE-PRINCIPAL</div>
-                <details name="schlead">
-                    <summary>Email Address:</summary>pek_xu_hao_alvin<wbr>@moe.edu.sg
-                </details>
-            </div>
-        </div>
-        <div id="Key-Personnel" class="section-title">Key Personnel</div>
-        <div class="person-container key-personnel">
-            <div class="person" id="mrpangtianguidesmond">
-                <div class="person-name">Mr Pang Tiangui Desmond</div>
-                <div class="person-title">Staff Developer</div>
-                <details name="key">
-                    <summary>Email Address:</summary>pang_tiangui<wbr>@moe.edu.sg
-                </details>
-            </div>
-            <div class="person" id="mslockhweehongalicia">
-                <div class="person-name">Ms Lock Hwee Hong Alicia</div>
-                <div class="person-title">HOD Science</div>
-                <details name="key">
-                    <summary>Email Address:</summary>lock_hwee_hong_alicia<wbr>@moe.edu.sg
-                </details>
-            </div>
-            <div class="person" id="mdmchenhuijun">
-                <div class="person-name">Mdm Chen Huijun</div>
-                <div class="person-title">HOD <abbr title="Humanities">Hum</abbr></div>
-                <details name="key">
-                    <summary>Email Address:</summary>chen_huijun<wbr>@moe.edu.sg
-                </details>
-            </div>
-            <div class="person" id="mschongfoongharn">
-                <div class="person-name">Ms Chong Foong Harn</div>
-                <div class="person-title">HOD EL</div>
-                <details name="key">
-                    <summary>Email Address:</summary>chong_foong_harn<wbr>@moe.edu.sg
-                </details>
-            </div>
-            <div class="person" id="mrgohchyepengdavid">
-                <div class="person-name">Mr Goh Chye Peng David</div>
-                <div class="person-title">HOD <abbr title="Student Management">SM</abbr></div>
-                <details name="key">
-                    <summary>Email Address:</summary>goh_chye_peng_david<wbr>@moe.edu.sg
-                </details>
-            </div>
-            <div class="person" id="mrchinpinchuenbrandon">
-                <div class="person-name">Mr Chin Pin Chuen Brandon</div>
-                <div class="person-title">HOD <abbr title="Information and Communications Technology">ICT</abbr></div>
-                <details>
-                    <summary>Email Address:</summary>chin_pin_chuen_brandon<wbr>@moe.edu.sg
-                </details>
-            </div>
-            <div class="person" id="mdmgohshwujun">
-                <div class="person-name">Mdm Goh Shwu Jun</div>
-                <div class="person-title">HOD Math</div>
-                <details name="key">
-                    <summary>Email Address:</summary>goh_shwu_jun<wbr>@moe.edu.sg
-                </details>
-            </div>
-            <div class="person" id="msgoyyapching">
-                <div class="person-name">Ms Goy Yap Ching</div>
-                <div class="person-title">HOD <abbr title="Mother Tongue Languages">MTL</abbr></div>
-                <details name="key">
-                    <summary>Email Address:</summary>goy_yap_ching<wbr>@moe.edu.sg
-                </details>
-            </div>
-            <div class="person" id="mshengsiewhoonirene">
-                <div class="person-name">Ms Heng Siew Hoon Irene</div>
-                <div class="person-title">HOD PE &amp; CCA</div>
-                <details name="key">
-                    <summary>Email Address:</summary>heng_siew_hoon<wbr>@moe.edu.sg
-                </details>
-            </div>
-            <div class="person" id="mshoonsiewhui">
-                <div class="person-name">Ms Hoon Siew Hui</div>
-                <div class="person-title">HOD Design &amp; Enterprise</div>
-                <details name="key">
-                    <summary>Email Address:</summary>hoon_siew_hui<wbr>@moe.edu.sg
-                </details>
-            </div>
-            <div class="person" id="mschoolinglingkelly">
-                <div class="person-name">Ms Cho Ling Ling Kelly</div>
-                <div class="person-title">Year Head <abbr title="Lower Secondary">(LS)</abbr></div>
-                <details name="key">
-                    <summary>Email Address:</summary>kelly_cho_ling_ling<wbr>@moe.edu.sg
-                </details>
-            </div>
-            <div class="person" id="mrmokboonfoong">
-                <div class="person-name">Mr Mok Boon Foong</div>
-                <div class="person-title">Year Head <abbr title="Upper Secondary">(US)</abbr></div>
-                <details>
-                    <summary>Email Address:</summary>mok_boon_foong<wbr>@moe.edu.sg
-                </details>
-            </div>
-            <div class="person" id="msperchingyee">
-                <div class="person-name">Mdm Per Ching Yee</div>
-                <div class="person-title">Administration Manager</div>
-                <details name="key">
-                    <summary>Email Address:</summary>per_ching_yee<wbr>@moe.edu.sg
-                </details>
-            </div>
-            <div class="person" id="mssinpuaysan">
-                <div class="person-name">Ms Sin Puay San</div>
-                <div class="person-title">HOD <abbr title="Character and Citizenship Education">CCE</abbr></div>
-                <details name="key">
-                    <summary>Email Address:</summary>sin_puay_san<wbr>@moe.edu.sg
-                </details>
-            </div>
-            <div class="person" id="mrwongfookwah">
-                <div class="person-name">Mr Wong Fook Wah</div>
-                <div class="person-title">Operations Manager</div>
-                <details name="key">
-                    <summary>Email Address:</summary>Wong_Fook_Wah<wbr>@moe.edu.sg
-                </details>
-            </div>
-            <div class="person" id="mrganhuikokmartin">
-                <div class="person-name">Mr Gan Hui Kok Martin</div>
-                <div class="person-title">Operations Manager</div>
-                <details name="key">
-                    <summary>Email Address:</summary>Gan_Hui_Kok<wbr>@moe.edu.sg
-                </details>
-            </div>
-            <div class="person" id="mslimbeiyimichelle">
-                <div class="person-name">Ms Lim Beiyi Michelle</div>
-                <div class="person-title">SH SL &amp; Student Well-Being</div>
-                <details name="key">
-                    <summary>Email Address:</summary>lim_bei-yi_michelle<wbr>@moe.edu.sg
-                </details>
-            </div>
-            <div class="person" id="msvidyapremapadmanabhan">
-                <div class="person-name">Ms Vidya Premapadmanabhan</div>
-                <div class="person-title">LH EL</div>
-                <details name="key">
-                    <summary>Email Address:</summary>vidya_premapadmanabhan<wbr>@moe.edu.sg
-                </details>
-            </div>
-            <div class="person" id="mrchenweiguojeremy">
-                <div class="person-name">Mr Chen Weiguo Jeremy</div>
-                <div class="person-title">LH MATH</div>
-                <details name="key">
-                    <summary>Email Address:</summary>chen_weiguo_jeremy<wbr>@moe.edu.sg
-                </details>
-            </div>
-            <div class="person" id="mrwongmingwei">
-                <div class="person-name">Mr Wong Mingwei</div>
-                <div class="person-title">LH SCIENCE</div>
-                <details name="key">
-                    <summary>Email Address:</summary>wong_mingwei<wbr>@moe.edu.sg
-                </details>
-            </div>
-            <div class="person" id="mdmnghuiyin">
-                <div class="person-name">Mdm Ng Hui Yin</div>
-                <div class="person-title">SH SM</div>
-                <details name="key">
-                    <summary>Email Address:</summary>ng_hui_yin<wbr>@moe.edu.sg
-                </details>
-            </div>
-            <div class="person" id="msnurulainbtekamaldin">
-                <div class="person-name">Ms Nurul Ain Bte Kamaldin</div>
-                <div class="person-title">SH PE &amp; CCA</div>
-                <details name="key">
-                    <summary>Email Address:</summary>nurul_ain_kamaldin<wbr>@moe.edu.sg
-                </details>
-            </div>
-            <div class="person" id="mdmalvinaloganathan">
-                <div class="person-name">Mdm Alvina Loganathan</div>
-                <div class="person-title">SH CCE</div>
-                <details name="key">
-                    <summary>Email Address:</summary>alvina_loganathan<wbr>@moe.edu.sg
-                </details>
-            </div>
-        </div>
-        <div class="yck-component">
-            <div class="button-container">
-                <a href="#top">
-                    <button class="buttontotop">
-                        <svg viewBox="0 0 384 512" class="svgIcon">
-                            <path d="M214.6 41.4c-12.5-12.5-32.8-12.5-45.3 0l-160 160c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L160 141.2V448c0 17.7 14.3 32 32 32s32-14.3 32-32V141.2L329.4 246.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3l-160-160z"></path>
-                        </svg>
-                    </button>
-                </a>
-            </div>
-        </div>
-        <hr>
-        <div class="section-title" id="Teaching-Staff">Teaching Staff
-        </div>
-        <div class="teaching-staff-section">
-            <div class="department">
-                <div class="department-name">Design and Enterprise Department</div>
-                <div class="people-grid">
-                    <div class="person" id="michaelwilliamcartwright">
-                        <div class="person-name">Mr Michael William Cartwright</div>
-                        <div class="person-title">Music</div>
-                        <details>
-                            <summary>Email Address:</summary>michael_william_cartwright<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="tanbockleongchristopherjimmy">
-                        <div class="person-name">Mr Tan Bock Leong Christopher Jimmy</div>
-                        <div class="person-title">Art</div>
-                        <details>
-                            <summary>Email Address:</summary>tan_bock_leong_christopher<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="thamhwijindarren">
-                        <div class="person-name">Mr Tham Hwi Jin Darren</div>
-                        <div class="person-title">Art</div>
-                        <details>
-                            <summary>Email Address:</summary>tham_hwi_jin_darren<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="yipsengyiam">
-                        <div class="person-name">Mr Yip Seng Yiam</div>
-                        <div class="person-title">Art</div>
-                        <details>
-                            <summary>Email Address:</summary>yip_seng_yiam<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="adelenair">
-                        <div class="person-name">Mrs Adele Nair</div>
-                        <div class="person-title">NFS</div>
-                        <details>
-                            <summary>Email Address:</summary>adele_louise_williams<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="sutinahbtesujaair">
-                        <div class="person-name">Mdm Sutinah Bte Sujaair</div>
-                        <div class="person-title">NFS</div>
-                        <details>
-                            <summary>Email Address:</summary>sutinah_sujaair<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="limliwhey">
-                        <div class="person-name">Ms Lim Li Whey</div>
-                        <div class="person-title">NFS</div>
-                        <details>
-                            <summary>Email Address:</summary>lim_li_whey<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="albertong">
-                        <div class="person-name">Mr Albert Ong</div>
-                        <div class="person-title">D&amp;T</div>
-                        <details>
-                            <summary>Email Address:</summary>ong_tiong_guan_albert<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="weesohyepatrick">
-                        <div class="person-name">Mr Wee Soh Ye Patrick</div>
-                        <div class="person-title">D&amp;T</div>
-                        <details>
-                            <summary>Email Address:</summary>wee_soh_ye_patrick<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="limcheewee">
-                        <div class="person-name">Mr Lim Chee Wee</div>
-                        <div class="person-title">D&amp;T</div>
-                        <details>
-                            <summary>Email Address:</summary>lim_chee_wee@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="liuxuefang">
-                        <div class="person-name">Mdm Liu Xue Fang</div>
-                        <div class="person-title">D&amp;T</div>
-                        <details>
-                            <summary>Email Address:</summary>liu_xuefang<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                </div>
-            </div>
-            <div class="department">
-                <div class="department-name">Humanities Department</div>
-                <div class="people-grid">
-                    <div class="person" id="ngwanhweedoreen">
-                        <div class="person-name">Mdm Ng Wan Hwee Doreen</div>
-                        <div class="person-title">ST Hist</div>
-                        <details>
-                            <summary>Email Address:</summary>ng_wan_hwee_doreen<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="nirmaladevis">
-                        <div class="person-name">Mdm Nirmala Devi S Tasiveran</div>
-                        <div class="person-title">ST SS</div>
-                        <details>
-                            <summary>Email Address:</summary>nirmala_devi_s_tasiveran<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="tewtjinlianamelia">
-                        <div class="person-name">Ms Tew Tjin Lian Amelia</div>
-                        <div class="person-title">SS</div>
-                        <details>
-                            <summary>Email Address:</summary>tew_tjin_lian_amelia<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="laujieruijezreel">
-                        <div class="person-name">Ms Lau Jie Rui Jezreel</div>
-                        <div class="person-title">Geog</div>
-                        <details>
-                            <summary>Email Address:</summary>lau_jie_rui_jezreel<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="rohinidoayavoo">
-                        <div class="person-name">Ms Rohini D/O Ayavoo</div>
-                        <div class="person-title">Geog</div>
-                        <details>
-                            <summary>Email Address:</summary>rohini_ayavoo<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="chuasockhuang">
-                        <div class="person-name">Mdm Chua Sock Huang</div>
-                        <div class="person-title">SS</div>
-                        <details>
-                            <summary>Email Address:</summary>chua_sock_huang<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="sivaroobinikalaimani">
-                        <div class="person-name">Ms Sivaroobini Kalaimani</div>
-                        <div class="person-title">SRE - History</div>
-                        <details>
-                            <summary>Email Address:</summary>SIVAROOBINI_KALAIMANI<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                </div>
-            </div>
-            <div class="department">
-                <div class="department-name">Mathematics and Principles of Accounts</div>
-                <div class="people-grid">
-                    <div class="person" id="gauwriskumar">
-                        <div class="person-name">Ms Gauwri S Kumar</div>
-                        <div class="person-title">Teacher</div>
-                        <details>
-                            <summary>Email Address:</summary>gauwri_s_kumar<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="foosiankoksimon">
-                        <div class="person-name">Mr Foo Sian Kok Simon</div>
-                        <div class="person-title">Teacher</div>
-                        <details>
-                            <summary>Email Address:</summary>foo_sian_kok_simon<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="leechingfong">
-                        <div class="person-name">Mdm Lee Ching Fong</div>
-                        <div class="person-title">Teacher</div>
-                        <details>
-                            <summary>Email Address:</summary>lee_ching_fong<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="tanthiamboon">
-                        <div class="person-name">Mr Tan Thiam Boon</div>
-                        <div class="person-title">Teacher</div>
-                        <details>
-                            <summary>Email Address:</summary>tan_thiam_boon<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="tanhanzhongmark">
-                        <div class="person-name">Mr Tan Han Zhong, Mark</div>
-                        <div class="person-title">Math, POA</div>
-                        <details>
-                            <summary>Email Address:</summary>tan_han_zhong_mark<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="angpengjujude">
-                        <div class="person-name">Mr Ang Pengju Jude</div>
-                        <div class="person-title">POA</div>
-                        <details>
-                            <summary>Email Address:</summary>ang_pengju_jude<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="anniematthews">
-                        <div class="person-name">Mdm Annie Matthews</div>
-                        <div class="person-title">Math</div>
-                        <details>
-                            <summary>Email Address:</summary>annie_matthews<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="annchiamchoonkwee">
-                        <div class="person-name">Mdm Ann Chiam Choon Kwee</div>
-                        <div class="person-title">CAJT - Math</div>
-                        <details>
-                            <summary>Email Address:</summary>Ann_Chiam_Choon_Kwee<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="chiayiying">
-                        <div class="person-name">Ms Chia Yi Ying</div>
-                        <div class="person-title">FAJT - Math</div>
-                        <details>
-                            <summary>Email Address:</summary>Chia_Yi_Ying_a<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="teoengkiatjulian">
-                        <div class="person-name">Mr Teo Eng Kiat Julian</div>
-                        <div class="person-title">FAJT - Math</div>
-                        <details>
-                            <summary>Email Address:</summary>Teo_Eng_Keat_Julian_A<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="ravichandransopalaniyandi">
-                        <div class="person-name">Mr Ravichandran S/O Palaniyandi</div>
-                        <div class="person-title">SRE - Math</div>
-                        <details>
-                            <summary>Email Address:</summary>RAVICHANDHRAN_S_O_S<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                </div>
-            </div>
-            <div class="department">
-                <div class="department-name">Mother Tongue Languages Department</div>
-                <div class="people-grid">
-                    <div class="person" id="sitiaishabteahmatyusop">
-                        <div class="person-name">Mdm Siti Aisha Bte Ahmat Yusop</div>
-                        <div class="person-title">ST ML</div>
-                        <details>
-                            <summary>Email Address:</summary>siti_aisha_ahmat_yusop<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="yeyuluan">
-                        <div class="person-name">Mdm Ye Yuluan</div>
-                        <div class="person-title">ST CL</div>
-                        <details>
-                            <summary>Email Address:</summary>ye_yuluan<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="gohyufan">
-                        <div class="person-name">Ms Goh Yu Fan</div>
-                        <div class="person-title">CL</div>
-                        <details>
-                            <summary>Email Address:</summary>goh_yu_fan<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="limlimay">
-                        <div class="person-name">Ms Lim Li May</div>
-                        <div class="person-title">CL</div>
-                        <details>
-                            <summary>Email Address:</summary>lim_li_may<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="tanchunbuei">
-                        <div class="person-name">Ms Tan Chun Buei</div>
-                        <div class="person-title">CL</div>
-                        <details>
-                            <summary>Email Address:</summary>tan_chun_buei<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="xuxiaohong">
-                        <div class="person-name">Ms Xu Xiaohong</div>
-                        <div class="person-title">CL</div>
-                        <details>
-                            <summary>Email Address:</summary>xu_xiaohong<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="limhuiqi">
-                        <div class="person-name">Mdm Lim Hui Qi</div>
-                        <div class="person-title">CL</div>
-                        <details>
-                            <summary>Email Address:</summary>lim_hui_qi<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="ammaniammalilango">
-                        <div class="person-name">Mrs Ammani Ammal Ilango</div>
-                        <div class="person-title">TL</div>
-                        <details>
-                            <summary>Email Address:</summary>ammani_ammal_ilango<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="nurrafizahbtesafiee">
-                        <div class="person-name">Mdm Nur Rafizah Bte Safiee</div>
-                        <div class="person-title">ML</div>
-                        <details>
-                            <summary>Email Address:</summary>nur_rafizah_safiee<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="muhammadfarhanbinzailani">
-                        <div class="person-name">Mr Muhammad Farhan Bin Zailani</div>
-                        <div class="person-title">ML</div>
-                        <details>
-                            <summary>Email Address:</summary>muhammad_farhan_zailani@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="rathidebishanmugam">
-                        <div class="person-name">Mdm Rathidevi Shanmugam</div>
-                        <div class="person-title">TL</div>
-                        <details>
-                            <summary>Email Address:</summary>rathidevi_shanmugam<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="malikadayalan">
-                        <div class="person-name">Mrs Malika Dayalan</div>
-                        <div class="person-title">FAJT - Tamil</div>
-                        <details>
-                            <summary>Email Address:</summary>Malika_A<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="weiyinping">
-                        <div class="person-name">Mdm Wei Yinping</div>
-                        <div class="person-title">FAJT - CL</div>
-                        <details>
-                            <summary>Email Address:</summary>Wei_Yinping_A<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                </div>
-            </div>
-            <div class="department">
-                <div class="department-name">Physical Education Department</div>
-                <div class="people-grid">
-                    <div class="person" id="weedaiqi">
-                        <div class="person-name">Mr Wee Daiqi</div>
-                        <div class="person-title">Teacher</div>
-                        <details>
-                            <summary>Email Address:</summary>wee_daiqi<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="leongngannyunanna">
-                        <div class="person-name">Ms Leong Ngan Nyun Anna</div>
-                        <div class="person-title">Teacher</div>
-                        <details>
-                            <summary>Email Address:</summary>leong_ngan_nyun_anna<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="emerylim">
-                        <div class="person-name">Mr Emery Lim</div>
-                        <div class="person-title">FAJT - PE</div>
-                        <details>
-                            <summary>Email Address:</summary>lim_tong_seng_emery<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                </div>
-            </div>
-            <div class="department">
-                <div class="department-name">Science Department</div>
-                <div class="people-grid">
-                    <div class="person" id="limmengchooemily">
-                        <div class="person-name">Mdm Lim Meng Choo Emily</div>
-                        <div class="person-title">ST Chem</div>
-                        <details>
-                            <summary>Email Address:</summary>lim_meng_choo_emily<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="sarasvathyd">
-                        <div class="person-name">Mdm Sarasvathy D/O Sivalingam S</div>
-                        <div class="person-title">Teacher</div>
-                        <details>
-                            <summary>Email Address:</summary>sarasvathy_sivalingam<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="teohweehong">
-                        <div class="person-name">Ms Teo Hwee Hong</div>
-                        <div class="person-title">Teacher</div>
-                        <details>
-                            <summary>Email Address:</summary>teo_hwee_hong<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="mvijeyaakumaran">
-                        <div class="person-name">Mr M Vijeyaa Kumaran</div>
-                        <div class="person-title">Teacher</div>
-                        <details>
-                            <summary>Email Address:</summary>m_vijeyaa_kumaran<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="foogermaine">
-                        <div class="person-name">Ms Foo Ger Maine</div>
-                        <div class="person-title">Teacher</div>
-                        <details>
-                            <summary>Email Address:</summary>foo_ger_maine<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="ongxiaoyun">
-                        <div class="person-name">Ms Ong Xiao Yun</div>
-                        <div class="person-title">Teacher</div>
-                        <details>
-                            <summary>Email Address:</summary>ong_xiao_yun<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="gohkokhoeoctave">
-                        <div class="person-name">Mr Goh Kok Hoe Octave</div>
-                        <div class="person-title">Teacher</div>
-                        <details>
-                            <summary>Email Address:</summary>goh_kok_hoe_octave<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="yeosailinconnie">
-                        <div class="person-name">Mdm Yeo Sai Lin Connie</div>
-                        <div class="person-title">Teacher</div>
-                        <details>
-                            <summary>Email Address:</summary>yeo_sai_lin_connie<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="teohweepeng">
-                        <div class="person-name">Mdm Teo Hwee Peng</div>
-                        <div class="person-title">Teacher</div>
-                        <details>
-                            <summary>Email Address:</summary>teo_hwee_peng<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="teohweeping">
-                        <div class="person-name">Mdm Teo Hwee Ping</div>
-                        <div class="person-title">CAJT-SCI</div>
-                        <details>
-                            <summary>Email Address:</summary>Teo_Hwee_Ping_A<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="simkokheng">
-                        <div class="person-name">Mr Sim Kok Heng</div>
-                        <div class="person-title">FAJT-Science</div>
-                        <details>
-                            <summary>Email Address:</summary>sim_kok_heng_a<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                </div>
-            </div>
-            <div class="department">
-                <div class="department-name">English Language Department</div>
-                <div class="people-grid">
-                    <div class="person" id="chongnyukfoong">
-                        <div class="person-name">Mdm Chong Nyuk Foong</div>
-                        <div class="person-title">ST EL</div>
-                        <details>
-                            <summary>Email Address:</summary>chong_nyuk_foong<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="chyeyenyenaudrey">
-                        <div class="person-name">Ms Chye Yen Yen Audrey</div>
-                        <div class="person-title">Teacher</div>
-                        <details>
-                            <summary>Email Address:</summary>chye_yen_yen_audrey<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="lohshihui">
-                        <div class="person-name">Ms Loh Shihui</div>
-                        <div class="person-title">Teacher</div>
-                        <details>
-                            <summary>Email Address:</summary>loh_shihui<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="eepohlam">
-                        <div class="person-name">Mr Ee Poh Lam</div>
-                        <div class="person-title">Teacher</div>
-                        <details>
-                            <summary>Email Address:</summary>ee_poh_lam<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="vijayadorajaratanam">
-                        <div class="person-name">Mdm Vijaya D/O Rajaratenam </div>
-                        <div class="person-title">Teacher</div>
-                        <details>
-                            <summary>Email Address:</summary>vijaya_rajaratenam<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="chonglaikhar">
-                        <div class="person-name">Mdm Chong Lai Khar</div>
-                        <div class="person-title">Teacher</div>
-                        <details>
-                            <summary>Email Address:</summary>chong_lai_khar<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="nadiarachaelkunalan">
-                        <div class="person-name">Ms Nadia Rachael Kunalan</div>
-                        <div class="person-title">Teacher</div>
-                        <details>
-                            <summary>Email Address:</summary>nadia_rachael_kunalan<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="cindyongkimleng">
-                        <div class="person-name">Mrs Cindy Ong Kim Leng</div>
-                        <div class="person-title">CAJT - EL</div>
-                        <details>
-                            <summary>Email Address:</summary>ong_joo_huay<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="eepohlameugene">
-                        <div class="person-name">Mr Ee Poh Lam Eugene</div>
-                        <div class="person-title">FAJT - EL</div>
-                        <details>
-                            <summary>Email Address:</summary>ee_poh_lam<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="harcharansingh">
-                        <div class="person-name">Mr Harcharan Singh</div>
-                        <div class="person-title">FAJT- EL</div>
-                        <details>
-                            <summary>Email Address:</summary>harcharan_singh<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="lawrencelauhocksoon">
-                        <div class="person-name">Mr Lawrence Lau Hock Soon</div>
-                        <div class="person-title">FAJT - EL</div>
-                        <details>
-                            <summary>Email Address:</summary>lau_hock_soon<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="yck-component">
-            <div class="button-container">
-                <a href="#top">
-                    <button class="buttontotop">
-                        <svg viewBox="0 0 384 512" class="svgIcon">
-                            <path d="M214.6 41.4c-12.5-12.5-32.8-12.5-45.3 0l-160 160c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L160 141.2V448c0 17.7 14.3 32 32 32s32-14.3 32-32V141.2L329.4 246.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3l-160-160z"></path>
-                        </svg>
-                    </button>
-                </a>
-            </div>
-        </div>
-        <div class="section-title" id="Non-teaching-Staff">Non-Teaching Staff</div>
-        <div class="non-teaching-staff-section">
-            <div class="staff-group">
-                <div class="group-name">Student Support</div>
-                <div class="people-grid">
-                    <div class="person" id="kohkwekchoong">
-                        <div class="person-name">Mr Koh Kwek Choong</div>
-                        <div class="person-title">Allied Educator (Counsellor)</div>
-                        <details name="ssc">
-                            <summary>Email Address:</summary>koh_kwek_choong<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="chowwonhow">
-                        <div class="person-name">Mr Chow Won How</div>
-                        <div class="person-title">Student Welfare Officer</div>
-                        <details name="ssc">
-                            <summary>Email Address:</summary>chow_won_how<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="pehyamkhim">
-                        <div class="person-name">Mr Peh Yam Khim</div>
-                        <div class="person-title">SEN Officer</div>
-                        <details name="ssc">
-                            <summary>Email Address:</summary>Peh_Yam_Khim<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="anbalaghid">
-                        <div class="person-name">Ms Anbalaghi D/O Saravanan</div>
-                        <div class="person-title">Uplift Support Staff</div>
-                        <details name="ssc">
-                            <summary>Email Address:</summary>anbalagi_saravanan<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="isaacling">
-                        <div class="person-name">Mr Isaac Ling</div>
-                        <div class="person-title">ECG Counsellor</div>
-                        <details name="ssc">
-                            <summary>Email Address:</summary>ling_liang_wei_isaac<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="nurhidayahbtemsaharudin">
-                        <div class="person-name">Ms Nur Hidayah Bte M Saharudin</div>
-                        <div class="person-title">SEN Officer</div>
-                        <details name="ssc">
-                            <summary>Email Address:</summary>nur_hidayah_m_saharudin<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="gomezdenieceedwine">
-                        <div class="person-name">Ms Gomez Deniece Edwine</div>
-                        <div class="person-title"></div>
-                        <details name="ssc">
-                            <summary>Email Address:</summary>Gomez_Deniece_Edwine<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                </div>
-            </div>
-            <div class="staff-group">
-                <div class="group-name">Administrative Support</div>
-                <div class="people-grid">
-                    <div class="person" id="aminahbtesalamon">
-                        <div class="person-name">Mdm Aminah Bte Salamon</div>
-                        <div class="person-title">Corporate Support Officer</div>
-                        <details name="admin">
-                            <summary>Email Address:</summary>aminah_salamon<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="zamabteadim">
-                        <div class="person-name">Ms Zama Bte Adim</div>
-                        <div class="person-title">Administrative Executive</div>
-                        <details name="admin">
-                            <summary>Email Address:</summary>zama_adim<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="nurkhalidah">
-                        <div class="person-name">Mdm Nur Khalidah</div>
-                        <div class="person-title">Administrative Executive</div>
-                        <details name="admin">
-                            <summary>Email Address:</summary>nur_khalidah_mohamed_khir<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="weekweelendoreen">
-                        <div class="person-name">Mdm Wee Kwee Len Doreen</div>
-                        <div class="person-title">Asst Support Officer</div>
-                        <details name="admin">
-                            <summary>Email Address:</summary>wee_kwee_len_doreen<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                </div>
-            </div>
-            <div class="staff-group">
-                <div class="group-name">Technical Support</div>
-                <div class="people-grid">
-                    <div class="person" id="kumkumvinodsingh">
-                        <div class="person-name">Mrs Kumkum Vinod Singh</div>
-                        <div class="person-title">ICT Manager</div>
-                        <details name="ts">
-                            <summary>Email Address:</summary>kumkum_vinod_singh<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="muhammadalhafizhbinnhron">
-                        <div class="person-name">Mr Muhammad Alhafizh Bin Nahron</div>
-                        <div class="person-title">STEM Instructor (Workshop)</div>
-                        <details name="ts">
-                            <summary>Email Address:</summary>Muhammad_Alhafizh_Nahron<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="zulkarnainbinmahfudz">
-                        <div class="person-name">Mr Zulkarnain Bin Mahfudz</div>
-                        <div class="person-title">STEM Instructor (Workshop)</div>
-                        <details name="ts">
-                            <summary>Email Address:</summary>zulkarnain_mahfudz<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="hamizahbintehassan">
-                        <div class="person-name">Ms Hamizah Binte Hassan</div>
-                        <div class="person-title">Science Lab</div>
-                        <details name="ts">
-                            <summary>Email Address:</summary>hamizah_hassan<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="tantecklinadeline">
-                        <div class="person-name">Mdm Tan Teck Lin Adeline</div>
-                        <div class="person-title">Science Lab</div>
-                        <details name="ts">
-                            <summary>Email Address:</summary>tan_teck_lin_adeline<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                </div>
-            </div>
-            <div class="staff-group">
-                <div class="group-name">Operations Support</div>
-                <div class="people-grid">
-                    <div class="person" id="suriatibtesuparthi">
-                        <div class="person-name">Mdm Suriati Bte Suparthi</div>
-                        <div class="person-title">OSO</div>
-                        <details name="os">
-                            <summary>Email Address:</summary>suriati_suparthi<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="krishnamoorthys">
-                        <div class="person-name">Mr Krishnamoorthy S/O Sauraju</div>
-                        <div class="person-title">OSO</div>
-                        <details name="os">
-                            <summary>Email Address:</summary>krishnamoorthy_saurajlu<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="wongaunteck">
-                        <div class="person-name">Mr Wong Aun Teck</div>
-                        <div class="person-title">OSO</div>
-                        <details name="os">
-                            <summary>Email Address:</summary>wong_aun_teck<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="faridahbtemisdi">
-                        <div class="person-name">Mdm Faridah Bte Misdi</div>
-                        <div class="person-title">OSO</div>
-                        <details name="os">
-                            <summary>Email Address:</summary>faridah_misdi<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="thamilselvichellappan">
-                        <div class="person-name">Mdm Thamil Selvi Chellappan</div>
-                        <div class="person-title">OSO (Adjunct)</div>
-                        <details name="os">
-                            <summary>Email Address:</summary>Thamil_Selvi_Chellappan<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="haslindabteharis">
-                        <div class="person-name">Mdm Haslinda Bte Haris</div>
-                        <div class="person-title">Librarian</div>
-                        <details name="os">
-                            <summary>Email Address:</summary>lin.Haris@staff.spydus.com.sg
-                        </details>
-                    </div>
-                    <div class="person" id="sitizawiah">
-                        <div class="person-name">Mdm Siti Zawiah</div>
-                        <div class="person-title">Temporary Operation Support Staff</div>
-                        <details name="os">
-                            <summary>Email Address:</summary>Siti_Zawiah_Musa<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                </div>
-            </div>
-            <div class="staff-group">
-                <div class="group-name">Non-MOE Staff</div>
-                <div class="people-grid">
-                    <div class="person" id="kohbakweikelvin">
-                        <div class="person-name">Mr Koh Bak Wei Kelvin</div>
-                        <div class="person-title">Desktop Engineer (NCS)</div>
-                        <details name="nonmoe">
-                            <summary>Email Address:</summary> ---
-                        </details>
-                    </div>
-                    <div class="person" id="mohamedfaris">
-                        <div class="person-name">Mr Mohamed Faris</div>
-                        <div class="person-title">Desktop Engineer (NCS)</div>
-                        <details name="nonmoe">
-                            <summary>Email Address:</summary> ---
-                        </details>
-                    </div>
-                    <div class="person" id="kwanyeowhweejeff">
-                        <div class="person-name">Mr Kwan Yeow Hwee Jeff</div>
-                        <div class="person-title">ICT/AV Executive</div>
-                        <summary>Email Address:</summary>Kwan_Yeow_Hwee@moe.edu.sg
-                        
-                    </div>
-                    <div class="person" id="yongchweeyock">
-                        <div class="person-name">Mdm Yong Chwee Yock</div>
-                        <div class="person-title">Kitchen Assistant</div>
-                        <details name="nonmoe">
-                            <summary>Email Address:</summary> ---
-                        </details>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="yck-component">
-        <div class="button-container">
-            <a href="#top">
-                <button class="buttontotop">
-                    <svg viewBox="0 0 384 512" class="svgIcon">
-                        <path d="M214.6 41.4c-12.5-12.5-32.8-12.5-45.3 0l-160 160c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L160 141.2V448c0 17.7 14.3 32 32 32s32-14.3 32-32V141.2L329.4 246.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3l-160-160z"></path>
-                    </svg>
-                </button>
-            </a>
-        </div>
-    </div>
-</div>
-    
+	
 <style>
-    :root {
-        --yck-text-line-height: 1.6em;
-        --yck-heading-line-height: 1.2em;
-        --yck-heading-letter-spacing: -0.02em;
-        --yck-spacing-unit: 1rem;
-        --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
-        --yck-box-shadow1: 0 1px 2px rgba(0, 0, 0, 0.15);
-        --yck-inset-shadow1: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
-        --yck-inset-shadow2: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
-        --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
-        --yck-step--2: clamp(0.7813rem, 0.9263rem + -0.1872vw, 0.8889rem);
-        --yck-step--1: clamp(0.9375rem, 1.0217rem + -0.1087vw, 1rem);
-        --yck-step-0: clamp(1.125rem, 1.125rem + 0vw, 1.125rem);
-        --yck-step-1: clamp(1.2656rem, 1.2363rem + 0.1467vw, 1.35rem);
-        --yck-step-2: clamp(1.4238rem, 1.3556rem + 0.3412vw, 1.62rem);
-        --yck-step-3: clamp(1.6018rem, 1.4828rem + 0.5951vw, 1.944rem);
-        --yck-step-4: clamp(1.802rem, 1.6174rem + 0.9231vw, 2.3328rem);
-        --yck-step-5: clamp(2.0273rem, 1.7587rem + 1.3427vw, 2.7994rem);
-        --yck-space-s-xl: clamp(1em, 0.2143em + 3.9286vw, 3.5em);
-        --font-system-ui: system-ui, sans-serif;
-        --font-transitional: Charter, Bitstream Charter, Sitka Text, Cambria, serif;
-        --font-old-style: Iowan Old Style, Palatino Linotype, URW Palladio L, P052, serif;
-        --font-humanist: Seravek, Gill Sans Nova, Ubuntu, Calibri, DejaVu Sans, source-sans-pro, sans-serif;
-        --font-geometric-humanist: Avenir, Montserrat, Corbel, URW Gothic, source-sans-pro, sans-serif;
-        --font-classical-humanist: Optima, Candara, Noto Sans, source-sans-pro, sans-serif;
-        --font-neo-grotesque: Inter, Roboto, Helvetica Neue, Arial Nova, Nimbus Sans, Arial, sans-serif;
-        --font-monospace-slab-serif: Nimbus Mono PS, Courier New, monospace;
-        --font-monospace-code: Dank Mono, Operator Mono, Inconsolata, Fira Mono, ui-monospace, SF Mono, Monaco, Droid Sans Mono, Source Code Pro, Cascadia Code, Menlo, Consolas, DejaVu Sans Mono, monospace;
-        --font-industrial: Bahnschrift, DIN Alternate, Franklin Gothic Medium, Nimbus Sans Narrow, sans-serif-condensed, sans-serif;
-        --font-rounded-sans: ui-rounded, Hiragino Maru Gothic ProN, Quicksand, Comfortaa, Manjari, Arial Rounded MT, Arial Rounded MT Bold, Calibri, source-sans-pro, sans-serif;
-        --font-slab-serif: Rockwell, Rockwell Nova, Roboto Slab, DejaVu Serif, Sitka Small, serif;
-        --font-antique: Superclarendon, Bookman Old Style, URW Bookman, URW Bookman L, Georgia Pro, Georgia, serif;
-        --font-didone: Didot, Bodoni MT, Noto Serif Display, URW Palladio L, P052, Sylfaen, serif;
-        --font-handwritten: Segoe Print, Bradley Hand, Chilanka, TSCu_Comic, casual, cursive;
-        interpolate-size: allow-keywords;
-        scroll-behavior: smooth;
-        text-rendering: optimizeSpeed
-    }
+	@import "props.animations.css";
 
-    body {
-        min-height: 100vh
-    }
+:root {
+    --font-antique:
+        Superclarendon, Bookman Old Style, URW Bookman, URW Bookman L, Georgia Pro, Georgia, serif;
+    --font-classical-humanist:
+        Optima, Candara, Noto Sans, source-sans-pro, sans-serif;
+    --font-didone:
+        Didot, Bodoni MT, Noto Serif Display, URW Palladio L, P052, Sylfaen, serif;
+    --font-geometric-humanist:
+        Avenir, Montserrat, Corbel, URW Gothic, source-sans-pro, sans-serif;
+    --font-handwritten:
+        Segoe Print, Bradley Hand, Chilanka, TSCu_Comic, casual, cursive;
+    --font-humanist:
+        Seravek, Gill Sans Nova, Ubuntu, Calibri, DejaVu Sans, source-sans-pro,
+        sans-serif;
+    --font-industrial:
+        Bahnschrift, DIN Alternate, Franklin Gothic Medium, Nimbus Sans Narrow,
+        sans-serif-condensed, sans-serif;
+    --font-monospace-code:
+        Dank Mono, Operator Mono, Inconsolata, Fira Mono, ui-monospace, SF Mono,
+        Monaco, Droid Sans Mono, Source Code Pro, Cascadia Code, Menlo, Consolas,
+        DejaVu Sans Mono, monospace;
+    --font-monospace-slab-serif: Nimbus Mono PS, Courier New, monospace;
+    --font-neo-grotesque:
+        Inter, Roboto, Helvetica Neue, Arial Nova, Nimbus Sans, Arial, sans-serif;
+    --font-old-style:
+        Iowan Old Style, Palatino Linotype, URW Palladio L, P052, serif;
+    --font-rounded-sans:
+        ui-rounded, Hiragino Maru Gothic ProN, Quicksand, Comfortaa, Manjari,
+        Arial Rounded MT, Arial Rounded MT Bold, Calibri, source-sans-pro,
+        sans-serif;
+    --font-slab-serif:
+        Rockwell, Rockwell Nova, Roboto Slab, DejaVu Serif, Sitka Small, serif;
+    --font-system-ui: system-ui, sans-serif;
+    --font-transitional: Charter, Bitstream Charter, Sitka Text, Cambria, serif;
+    /* Neutral */
+    --neutral-100: #fcfcfa;
+    --neutral-200: #eae8e4;
+    --neutral-300: #d7d3ce;
+    --neutral-400: #c5bfb9;
+    --neutral-500: #b3aba4;
+    --neutral-600: #8f8883;
+    --neutral-700: #6c6663;
+    --neutral-800: #494442;
+    --neutral-900: #262322;
+    /* Accent: Algal Fuel */
+    --yck-green100: #f2fffb;
+    --yck-green200: #bcfee6;
+    --yck-green300: #83f8c7;
+    --yck-green400: #4ae79d;
+    --yck-green500: #16c768;
+    --yck-green600: #079f45;
+    --yck-green700: #02772b;
+    --yck-green800: #004e17;
+    --yck-green900: #002609;
+    /* Primary: Chaat Masala */
+    --yck-orange000: #fff4e6;
+    --yck-orange100: #ffe8cc;
+    --yck-orange200: #ffd8a8;
+    --yck-orange300: #ffc078;
+    --yck-orange400: #ffa94d;
+    --yck-orange500: #ff922b;
+    --yck-orange600: #fd7e14;
+    --yck-orange700: #f76707;
+    --yck-orange800: #e8590c;
+    --yck-orange900: #d9480f;
+    --yck-orange110: #bf400d;
+    --yck-orange120: #99330b;
+    --yck-orange130: #802b09;
+    /* Fluid Typography & Spacing */
+    /* @link https://utopia.fyi/type/calculator?c=320,12,1.2,1400,20,1.25,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
+    --yck-step--1: clamp(0.625rem, 0.5139rem + 0.5556vw, 1rem);
+    --yck-step--2: clamp(0.5208rem, 0.4381rem + 0.4136vw, 0.8rem);
+    --yck-step-0: clamp(0.75rem, 0.6019rem + 0.7407vw, 1.25rem);
+    --yck-step-1: clamp(0.9rem, 0.7037rem + 0.9815vw, 1.5625rem);
+    --yck-step-2: clamp(1.08rem, 0.8213rem + 1.2935vw, 1.9531rem);
+    --yck-step-3: clamp(1.296rem, 0.9566rem + 1.6969vw, 2.4414rem);
+    --yck-step-4: clamp(1.5552rem, 1.1118rem + 2.2171vw, 3.0518rem);
+    --yck-step-5: clamp(1.8662rem, 1.2889rem + 2.8866vw, 3.8147rem);
+    /* Fluid spacing */
+    --yck-space-s-xl: clamp(1rem, -0.239rem + 4.32vw, 3rem);
+    --yck-orange-shadow: 0 2px 4px rgba(255, 233, 193, 1);
+    --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+    --yck-box-shadow1: 0 1px 2px rgba(0, 0, 0, 0.15);
+    --yck-inset-shadow:
+        rgba(251, 206, 143, 1) 0 30px 60px -12px inset,
+        rgba(255, 233, 193, 0.1) 0 18px 36px -18px inset;
+    --yck-inset1-shadow:
+        rgba(251, 206, 143, 0.6) 0 30px 60px -12px inset,
+        rgba(255, 233, 193, 0.1) 0 18px 36px -18px inset;
+    --yck-inset2-shadow:
+        rgba(251, 206, 143, 0.3) 0 30px 60px -12px inset,
+        rgba(255, 233, 193, 0.1) 0 18px 36px -18px inset;
+    --yck-insetopp-shadow:
+        rgba(255, 233, 193, 0.1) 0 30px 60px -12px inset,
+        rgba(251, 206, 143, 1) 0 18px 36px -18px inset;
+    --yck-inset-shadow1:
+        rgba(50, 50, 93, 0.25) 0 30px 60px -12px inset,
+        rgba(0, 0, 0, 0.5) 0 18px 36px -18px inset;
+    --yck-inset-shadow2:
+        rgb(204, 219, 232) 3px 3px 6px 0 inset,
+        rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+    --yck-rounded-corners: 10px;
+    --yck-heading-letter-spacing: -0.02em;
+    --yck-heading-line-height: 1.2em;
+    --yck-text-line-height: 1.6em;
+    --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
+    --yck-spacing-unit: 1rem;
+    interpolate-size: allow-keywords;
+    scroll-behavior: smooth;
+    text-rendering: optimizeSpeed;
+}
 
-    ::selection {
-        text-shadow: none;
-        background: #ff0
-    }
+/* ASPECT RATIOS */
+:where(html) {
+    --ratio-golden: 1.618/1;
+    --ratio-landscape: 4/3;
+    --ratio-portrait: 3/4;
+    --ratio-square: 1;
+    --ratio-ultrawide: 18/5;
+    --ratio-widescreen: 16/9;
 
-    .yck-component {
-        line-height: var(--yck-text-line-height);
-        letter-spacing: normal;
+    --ease-1: cubic-bezier(.25, 0, .5, 1);
+    --ease-2: cubic-bezier(.25, 0, .4, 1);
+    --ease-3: cubic-bezier(.25, 0, .3, 1);
+    --ease-4: cubic-bezier(.25, 0, .2, 1);
+    --ease-5: cubic-bezier(.25, 0, .1, 1);
+    --ease-in-1: cubic-bezier(.25, 0, 1, 1);
+    --ease-in-2: cubic-bezier(.50, 0, 1, 1);
+    --ease-in-3: cubic-bezier(.70, 0, 1, 1);
+    --ease-in-4: cubic-bezier(.90, 0, 1, 1);
+    --ease-in-5: cubic-bezier(1, 0, 1, 1);
+    --ease-out-1: cubic-bezier(0, 0, .75, 1);
+    --ease-out-2: cubic-bezier(0, 0, .50, 1);
+    --ease-out-3: cubic-bezier(0, 0, .3, 1);
+    --ease-out-4: cubic-bezier(0, 0, .1, 1);
+    --ease-out-5: cubic-bezier(0, 0, 0, 1);
+    --ease-in-out-1: cubic-bezier(.1, 0, .9, 1);
+    --ease-in-out-2: cubic-bezier(.3, 0, .7, 1);
+    --ease-in-out-3: cubic-bezier(.5, 0, .5, 1);
+    --ease-in-out-4: cubic-bezier(.7, 0, .3, 1);
+    --ease-in-out-5: cubic-bezier(.9, 0, .1, 1);
+    --ease-elastic-out-1: cubic-bezier(.5, .75, .75, 1.25);
+    --ease-elastic-out-2: cubic-bezier(.5, 1, .75, 1.25);
+    --ease-elastic-out-3: cubic-bezier(.5, 1.25, .75, 1.25);
+    --ease-elastic-out-4: cubic-bezier(.5, 1.5, .75, 1.25);
+    --ease-elastic-out-5: cubic-bezier(.5, 1.75, .75, 1.25);
+    --ease-elastic-in-1: cubic-bezier(.5, -0.25, .75, 1);
+    --ease-elastic-in-2: cubic-bezier(.5, -0.50, .75, 1);
+    --ease-elastic-in-3: cubic-bezier(.5, -0.75, .75, 1);
+    --ease-elastic-in-4: cubic-bezier(.5, -1.00, .75, 1);
+    --ease-elastic-in-5: cubic-bezier(.5, -1.25, .75, 1);
+    --ease-elastic-in-out-1: cubic-bezier(.5, -.1, .1, 1.5);
+    --ease-elastic-in-out-2: cubic-bezier(.5, -.3, .1, 1.5);
+    --ease-elastic-in-out-3: cubic-bezier(.5, -.5, .1, 1.5);
+    --ease-elastic-in-out-4: cubic-bezier(.5, -.7, .1, 1.5);
+    --ease-elastic-in-out-5: cubic-bezier(.5, -.9, .1, 1.5);
+    --ease-step-1: steps(2);
+    --ease-step-2: steps(3);
+    --ease-step-3: steps(4);
+    --ease-step-4: steps(7);
+    --ease-step-5: steps(10);
+    --ease-elastic-1: var(--ease-elastic-out-1);
+    --ease-elastic-2: var(--ease-elastic-out-2);
+    --ease-elastic-3: var(--ease-elastic-out-3);
+    --ease-elastic-4: var(--ease-elastic-out-4);
+    --ease-elastic-5: var(--ease-elastic-out-5);
+    --ease-squish-1: var(--ease-elastic-in-out-1);
+    --ease-squish-2: var(--ease-elastic-in-out-2);
+    --ease-squish-3: var(--ease-elastic-in-out-3);
+    --ease-squish-4: var(--ease-elastic-in-out-4);
+    --ease-squish-5: var(--ease-elastic-in-out-5);
+    --ease-spring-1: linear(0, 0.006, 0.025 2.8%, 0.101 6.1%, 0.539 18.9%, 0.721 25.3%, 0.849 31.5%,
+        0.937 38.1%, 0.968 41.8%, 0.991 45.7%, 1.006 50.1%, 1.015 55%, 1.017 63.9%,
+        1.001);
+    --ease-spring-2: linear(0, 0.007, 0.029 2.2%, 0.118 4.7%, 0.625 14.4%, 0.826 19%, 0.902, 0.962,
+        1.008 26.1%, 1.041 28.7%, 1.064 32.1%, 1.07 36%, 1.061 40.5%, 1.015 53.4%,
+        0.999 61.6%, 0.995 71.2%, 1);
+    --ease-spring-3: linear(0, 0.009, 0.035 2.1%, 0.141 4.4%, 0.723 12.9%, 0.938 16.7%, 1.017, 1.077,
+        1.121, 1.149 24.3%, 1.159, 1.163, 1.161, 1.154 29.9%, 1.129 32.8%,
+        1.051 39.6%, 1.017 43.1%, 0.991, 0.977 51%, 0.974 53.8%, 0.975 57.1%,
+        0.997 69.8%, 1.003 76.9%, 1);
+    --ease-spring-4: linear(0, 0.009, 0.037 1.7%, 0.153 3.6%, 0.776 10.3%, 1.001, 1.142 16%, 1.185,
+        1.209 19%, 1.215 19.9% 20.8%, 1.199, 1.165 25%, 1.056 30.3%, 1.008 33%, 0.973,
+        0.955 39.2%, 0.953 41.1%, 0.957 43.3%, 0.998 53.3%, 1.009 59.1% 63.7%,
+        0.998 78.9%, 1);
+    --ease-spring-5: linear(0, 0.01, 0.04 1.6%, 0.161 3.3%, 0.816 9.4%, 1.046, 1.189 14.4%, 1.231,
+        1.254 17%, 1.259, 1.257 18.6%, 1.236, 1.194 22.3%, 1.057 27%, 0.999 29.4%,
+        0.955 32.1%, 0.942, 0.935 34.9%, 0.933, 0.939 38.4%, 1 47.3%, 1.011,
+        1.017 52.6%, 1.016 56.4%, 1 65.2%, 0.996 70.2%, 1.001 87.2%, 1);
+    --ease-bounce-1: linear(0, 0.004, 0.016, 0.035, 0.063, 0.098, 0.141, 0.191, 0.25, 0.316, 0.391 36.8%,
+        0.563, 0.766, 1 58.8%, 0.946, 0.908 69.1%, 0.895, 0.885, 0.879, 0.878, 0.879,
+        0.885, 0.895, 0.908 89.7%, 0.946, 1);
+    --ease-bounce-2: linear(0, 0.004, 0.016, 0.035, 0.063, 0.098, 0.141 15.1%, 0.25, 0.391, 0.562, 0.765,
+        1, 0.892 45.2%, 0.849, 0.815, 0.788, 0.769, 0.757, 0.753, 0.757, 0.769, 0.788,
+        0.815, 0.85, 0.892 75.2%, 1 80.2%, 0.973, 0.954, 0.943, 0.939, 0.943, 0.954,
+        0.973, 1);
+    --ease-bounce-3: linear(0, 0.004, 0.016, 0.035, 0.062, 0.098, 0.141 11.4%, 0.25, 0.39, 0.562, 0.764,
+        1 30.3%, 0.847 34.8%, 0.787, 0.737, 0.699, 0.672, 0.655, 0.65, 0.656, 0.672,
+        0.699, 0.738, 0.787, 0.847 61.7%, 1 66.2%, 0.946, 0.908, 0.885 74.2%, 0.879,
+        0.878, 0.879, 0.885 79.5%, 0.908, 0.946, 1 87.4%, 0.981, 0.968, 0.96, 0.957,
+        0.96, 0.968, 0.981, 1);
+    --ease-bounce-4: linear(0, 0.004, 0.016 3%, 0.062, 0.141, 0.25, 0.391, 0.562 18.2%, 1 24.3%, 0.81,
+        0.676 32.3%, 0.629, 0.595, 0.575, 0.568, 0.575, 0.595, 0.629, 0.676 48.2%,
+        0.811, 1 56.2%, 0.918, 0.86, 0.825, 0.814, 0.825, 0.86, 0.918, 1 77.2%,
+        0.94 80.6%, 0.925, 0.92, 0.925, 0.94 87.5%, 1 90.9%, 0.974, 0.965, 0.974, 1);
+    --ease-bounce-5: linear(0, 0.004, 0.016 2.5%, 0.063, 0.141, 0.25 10.1%, 0.562, 1 20.2%, 0.783, 0.627,
+        0.534 30.9%, 0.511, 0.503, 0.511, 0.534 38%, 0.627, 0.782, 1 48.7%, 0.892,
+        0.815, 0.769 56.3%, 0.757, 0.753, 0.757, 0.769 61.3%, 0.815, 0.892, 1 68.8%,
+        0.908 72.4%, 0.885, 0.878, 0.885, 0.908 79.4%, 1 83%, 0.954 85.5%, 0.943,
+        0.939, 0.943, 0.954 90.5%, 1 93%, 0.977, 0.97, 0.977, 1);
+    --ease-circ-in: cubic-bezier(.6, .04, .98, .335);
+    --ease-circ-in-out: cubic-bezier(.785, .135, .15, .86);
+    --ease-circ-out: cubic-bezier(.075, .82, .165, 1);
+    --ease-cubic-in: cubic-bezier(.55, .055, .675, .19);
+    --ease-cubic-in-out: cubic-bezier(.645, .045, .355, 1);
+    --ease-cubic-out: cubic-bezier(.215, .61, .355, 1);
+    --ease-expo-in: cubic-bezier(.95, .05, .795, .035);
+    --ease-expo-in-out: cubic-bezier(1, 0, 0, 1);
+    --ease-expo-out: cubic-bezier(.19, 1, .22, 1);
+    --ease-quad-in: cubic-bezier(.55, .085, .68, .53);
+    --ease-quad-in-out: cubic-bezier(.455, .03, .515, .955);
+    --ease-quad-out: cubic-bezier(.25, .46, .45, .94);
+    --ease-quart-in: cubic-bezier(.895, .03, .685, .22);
+    --ease-quart-in-out: cubic-bezier(.77, 0, .175, 1);
+    --ease-quart-out: cubic-bezier(.165, .84, .44, 1);
+    --ease-quint-in: cubic-bezier(.755, .05, .855, .06);
+    --ease-quint-in-out: cubic-bezier(.86, 0, .07, 1);
+    --ease-quint-out: cubic-bezier(.23, 1, .32, 1);
+    --ease-sine-in: cubic-bezier(.47, 0, .745, .715);
+    --ease-sine-in-out: cubic-bezier(.445, .05, .55, .95);
+    --ease-sine-out: cubic-bezier(.39, .575, .565, 1);
+
+    --shadow-color: 220 3% 15%;
+    --shadow-strength: 1%;
+    --inner-shadow-highlight: inset 0 -.5px 0 0 #fff, inset 0 .5px 0 0 #0001;
+    --shadow-1: 0 1px 2px -1px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 9%));
+    --shadow-2:
+        0 3px 5px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 3%)),
+        0 7px 14px -5px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 5%));
+    --shadow-3:
+        0 -1px 3px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 2%)),
+        0 1px 2px -5px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 2%)),
+        0 2px 5px -5px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 4%)),
+        0 4px 12px -5px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 5%)),
+        0 12px 15px -5px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 7%));
+    --shadow-4:
+        0 -2px 5px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 2%)),
+        0 1px 1px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 3%)),
+        0 2px 2px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 3%)),
+        0 5px 5px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 4%)),
+        0 9px 9px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 5%)),
+        0 16px 16px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 6%));
+    --shadow-5:
+        0 -1px 2px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 2%)),
+        0 2px 1px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 3%)),
+        0 5px 5px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 3%)),
+        0 10px 10px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 4%)),
+        0 20px 20px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 5%)),
+        0 40px 40px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 7%));
+    --shadow-6:
+        0 -1px 2px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 2%)),
+        0 3px 2px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 3%)),
+        0 7px 5px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 3%)),
+        0 12px 10px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 4%)),
+        0 22px 18px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 5%)),
+        0 41px 33px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 6%)),
+        0 100px 80px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 7%));
+    --inner-shadow-0: inset 0 0 0 1px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 9%));
+    --inner-shadow-1: inset 0 1px 2px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 9%)), var(--inner-shadow-highlight);
+    --inner-shadow-2: inset 0 1px 4px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 9%)), var(--inner-shadow-highlight);
+    --inner-shadow-3: inset 0 2px 8px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 9%)), var(--inner-shadow-highlight);
+    --inner-shadow-4: inset 0 2px 14px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 9%)), var(--inner-shadow-highlight);
+}
+
+@media (--OSdark) {
+    :where(html) {
+        --shadow-color: 220 40% 2%;
+        --shadow-strength: 25%;
+        --inner-shadow-highlight: inset 0 -.5px 0 0 #fff1, inset 0 .5px 0 0 #0007;
+    }
+}
+
+
+/* Box Sizing */
+*,
+*::before,
+*::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 100%;
+}
+
+body {
+    min-height: 100dvh;
+    font-family: inherit;
+    line-height: var(--yck-text-line-height);
+    word-break: break-word;
+    overflow-wrap: break-word;
+    background-color: inherit;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+button,
+a.button {
+    padding: 0;
+    font-family: inherit;
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+/* Images */
+img,
+svg {
+    display: block;
+    height: auto;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+    vertical-align: middle;
+}
+
+::selection {
+    background: rgba(255, 255, 0, 0.35);
+}
+
+/* Component Wrappers - div, article, main, section */
+.yck-component {
+    width: 100%;
+    max-width: 1023px;
+    font-size: var(--yck-step-0);
+}
+
+/* .yck-component * {
+    padding: 0;
+    margin: 0;
+    font-size: var(--yck-step-0);
+} */
+ /* Global resets for all components */
+.yck-component > *:not(script):not(style) {
+    padding: 0;
+    margin: 0;
+}
+
+.yck-component article {
+    width: 100%;
+    margin-block: 1em;
+}
+
+.yck-component section {
+    width: 100%;
+    margin-block: var(--yck-space-s-xl);
+}
+
+.yck-component .regular-flow>*+* {
+    margin-top: 1.125em;
+}
+
+/* Typography */
+/* .yck-component div,
+.yck-component p,
+.yck-component li {
+    padding: 0;
+    margin: 0;
+} */
+
+/* Font size should only apply to text elements */
+.yck-component :where(p, div, span, li, td) {
+    font-size: var(--yck-step-0);
+    line-height: var(--yck-text-line-height);
+    letter-spacing: normal;
+    text-wrap: pretty;
+}
+
+/* Headings */
+.yck-component :is(h1,
+.yck-h1,
+h2,
+.yck-h2,
+h3,
+.yck-h3,
+h4,
+.yck-h4,
+h5,
+.yck-h5,
+h6,
+.yck-h6,
+p) {
+    overflow-wrap: break-word;
+}
+
+.yck-component :is(heading,
+nav,
+h1,
+.yck-h1,
+h2,
+.yck-h2,
+h3,
+.yck-h3,
+h4,
+.yck-h4,
+h5,
+.yck-h5,
+h6,
+.yck-h6) {
+    text-wrap: balance;
+}
+
+.yck-component h1,
+.yck-component .yck-h1 {
+    font-size: var(--yck-step-5);
+    font-weight: 800;
+    line-height: var(--yck-heading-line-height);
+}
+
+.yck-component h2,
+.yck-component .yck-h2 {
+    font-size: var(--yck-step-4);
+    font-weight: 700;
+    line-height: var(--yck-heading-line-height);
+}
+
+.yck-component h3,
+.yck-component .yck-h3 {
+    font-size: var(--yck-step-3);
+    font-weight: 600;
+    line-height: var(--yck-heading-line-height);
+}
+
+.yck-component h4,
+.yck-component .yck-h4 {
+    font-size: var(--yck-step-2);
+    font-weight: 500;
+    line-height: var(--yck-heading-line-height);
+}
+
+.yck-component h5,
+.yck-component .yck-h5 {
+    font-size: var(--yck-step-1);
+    font-weight: 500;
+    line-height: var(--yck-heading-line-height);
+    text-transform: uppercase;
+}
+
+.yck-component h6,
+.yck-component .yck-h6 {
+    font-size: var(--yck-step-0);
+    line-height: var(--yck-heading-line-height);
+    text-transform: uppercase;
+}
+
+.yck-component .small,
+.yck-component .yck-small,
+.yck-component small {
+    font-size: var(--yck-step--2);
+    line-height: calc(var(--yck-text-line-height) * 0.75);
+}
+
+/* Ordered and Unordered Lists */
+.yck-component ol,
+.yck-component ul {
+    padding: 0;
+    margin-left: 1.5em;
+}
+
+.yck-component ul li,
+.yck-component ol li {
+    padding-left: 0.25em;
+    margin: 0;
+    line-height: 1.5;
+}
+
+.yck-component ul li:last-child,
+.yck-component ol li:last-child {
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+/* Removes the gap between nested lists (list within a list). */
+.yck-component li ul,
+.yck-component li ol {
+    margin-top: 0;
+}
+
+/* BLOCKQUOTES */
+.yck-component .quote {
+    margin: 1em 1.4em 1em 5em;
+    padding: 1rem;
+    border-left: .35em solid rgba(166, 50, 50, 1);
+    border-radius: var(--yck-rounded-corners);
+    border-bottom: 2px dotted rgba(166, 50, 50, 0.7);
+    box-shadow: var(--inner-shadow-1);
+    transition: box-shadow .7s ease-in-out;
+
+    .blockquote {
+        font-family: var(--font-transitional);
         font-size: var(--yck-step-0);
-        margin-bottom: var(--yck-space-s-xl)
-    }
-
-    .yck-component h1,
-    .yck-component h2,
-    .yck-component h3,
-    .yck-component h4,
-    .yck-component h5,
-    .yck-component h6,
-    .yck-component p {
-        overflow-wrap: break-word
-    }
-
-    .yck-component h1,
-    .yck-component h2,
-    .yck-component h3,
-    .yck-component h4,
-    .yck-component h5,
-    .yck-component h6 {
-        text-wrap: balance
-    }
-
-    .yck-component p,
-    .yck-component ul {
-        text-wrap: pretty;
-        margin-bottom: var(--yck-spacing-unit)
-    }
-
-    .yck-component p:last-child,
-    .yck-component ul li:last-child {
-        margin-bottom: var(--yck-space-s-xl)
-    }
-
-    .yck-component .yck-h1,
-    .yck-component h1 {
-        font-size: var(--yck-step-5);
-        margin-bottom: var(--yck-spacing-unit);
-        line-height: var(--yck-heading-line-height);
-        letter-spacing: var(--yck-heading-letter-spacing)
-    }
-
-    .yck-component .yck-h2,
-    .yck-component h2 {
-        font-size: var(--yck-step-4);
-        margin-bottom: calc(var(--yck-spacing-unit) * .85);
-        text-transform: capitalize;
-        line-height: var(--yck-heading-line-height);
-        letter-spacing: var(--yck-heading-letter-spacing)
-    }
-
-    .yck-component .yck-h3,
-    .yck-component h3 {
-        font-size: var(--yck-step-3);
-        margin-bottom: calc(var(--yck-spacing-unit) * .75);
-        text-transform: capitalize;
-        line-height: var(--yck-heading-line-height);
-        letter-spacing: var(--yck-heading-letter-spacing)
-    }
-
-    .yck-component .yck-h4,
-    .yck-component h4 {
-        font-size: var(--yck-step-2);
-        margin-bottom: calc(var(--yck-spacing-unit) * .5);
-        text-transform: capitalize;
-        line-height: var(--yck-heading-line-height);
-        letter-spacing: var(--yck-heading-letter-spacing)
-    }
-
-    .yck-component .yck-h5,
-    .yck-component h5 {
-        font-size: var(--yck-step-1);
-        margin-bottom: calc(var(--yck-spacing-unit) * .25);
-        text-transform: uppercase;
-        line-height: var(--yck-heading-line-height);
-        letter-spacing: var(--yck-heading-letter-spacing)
-    }
-
-    .yck-component .yck-h6,
-    .yck-component h6 {
-        font-size: var(--yck-step-0);
-        margin-bottom: var(--yck-spacing-unit);
-        text-transform: uppercase;
-        line-height: var(--yck-heading-line-height);
-        letter-spacing: var(--yck-heading-letter-spacing)
-    }
-
-    .yck-component a {
-        text-decoration: none;
-        color: #e37f2a
-    }
-
-    .yck-component a[target="_blank"]:not(.text-link):after {
-        display: none;
-        margin: 0;
-        padding: 0
-    }
-
-    .yck-component .regular-flow>*+* {
-        margin-top: 1.125em
-    }
-
-    .yck-component .yck-flexbox-grid {
-        --yck-gap: 1em;
-        display: flex;
-        flex-wrap: wrap;
-        list-style: none;
-        gap: var(--yck-gap);
-        padding: 0;
-        margin-block: var(--yck-spacing-unit)
-    }
-
-    .yck-component .yck-flexbox-grid>* {
-        flex-grow: 1;
-        flex-shrink: 0;
-        flex-basis: calc((100% - var(--yck-gap))/ 4);
-        min-width: calc((100% - var(--yck-gap))/ 2);
-        list-style: none
-    }
-
-    .yck-component .column {
-        break-inside: avoid;
-        page-break-inside: avoid;
-        padding: 20px;
-        border-radius: 5px;
-        box-shadow: var(--yck-box-shadow1)
-    }
-
-    .yck-component .column {
-        margin-bottom: var(--yck-spacing-unit)
-    }
-
-    .yck-component .column ul {
-        list-style: none;
-        line-height: 1.5em;
-        margin: 0;
-        padding: 0
-    }
-
-    .yck-component .column ul li {
-        margin-inline: 1em;
-        padding-left: 1rem;
-        border-bottom: 1px dotted rgba(0, 0, 0, .05)
-    }
-
-    @keyframes kenBurns {
-        from {
-            transform: scale(1)
-        }
-
-        to {
-            transform: scale(1.35)
-        }
-    }
-
-    @-webkit-keyframes fade-in {
-        0% {
-            opacity: 0
-        }
-
-        100% {
-            opacity: 1
-        }
-    }
-
-    @keyframes fade-in {
-        0% {
-            opacity: 0
-        }
-
-        100% {
-            opacity: 1
-        }
-    }
-
-    @-webkit-keyframes fade-out {
-        0% {
-            opacity: 1
-        }
-
-        100% {
-            opacity: 0
-        }
-    }
-
-    @keyframes fade-out {
-        0% {
-            opacity: 1
-        }
-
-        100% {
-            opacity: 0
-        }
-    }
-
-    @keyframes fade-in-bottom {
-        from {
-            opacity: 0;
-            transform: translateY(10vh)
-        }
-
-        to {
-            opacity: 1;
-            transform: translateY(0)
-        }
-    }
-
-    @media (max-width:1000px) {
-        .yck-component .yck-flexbox-grid>* {
-            flex-basis: 100%
-        }
-    }
-
-    @media (max-width:600px) {
-        .yck-component .yck-flex-grid>* {
-            flex-basis: auto
-        }
-    }
-
-    @supports (content-visibility:auto) {
-        details {
-            content-visibility: auto
-        }
-    }
-
-    @supports (animation-timeline:view()) {
-
-        .yck-component .carousel,
-        .yck-component .isomer-card-grid,
-        .yck-component .masonry-container .masonry-item,
-        .yck-component .yck-img-array,
-        .yck-component figure {
-            animation: both fade-in-bottom;
-            animation-timeline: view();
-            animation-range: entry 25% cover 50%
-        }
-    }
-
-    @keyframes scroller {
-
-        0%,
-        25% {
-            transform: translate3d(0, 0, 0);
-            opacity: 1
-        }
-
-        25%,
-        50% {
-            transform: translate3d(-100%, 0, 0);
-            opacity: 1
-        }
-
-        50%,
-        75% {
-            transform: translate3d(-200%, 0, 0);
-            opacity: 1
-        }
-
-        100%,
-        75% {
-            transform: translate3d(-300%, 0, 0);
-            opacity: 1
-        }
-    }
-
-    .yck-component details {
-        overflow: hidden;
-        border-radius: 10px;
-        background-color: #fff;
-        transition: box-shadow .5s ease-out
-    }
-
-    .yck-component details[open] {
-        box-shadow: var(--yck-inset-shadow2)
-    }
-
-    .yck-component details * {
-        margin: 0 !important
-    }
-
-    .yck-component details>ul {
-        list-style: none
-    }
-
-    .yck-component summary {
+        font-weight: 400;
+        line-height: 1.4em;
         position: relative;
-        padding: 1rem 3rem 1rem 1.5rem;
-        list-style-position: outside;
-        cursor: pointer;
-        user-select: none;
-        outline: 0;
-        font-size: var(--yck-step-1);
+    }
+
+    cite {
+        display: block;
+        text-align: right;
+        font-family: var(--font-transitional);
         font-weight: 500;
-        transition: background-color .5s ease-in
+        font-style: oblique;
+        margin-top: 1rem;
+        margin-right: var(--yck-space-s-xl);
+        font-size: var(--yck-step--1);
     }
 
-    .yck-component summary:hover {
-        background-color: rgba(0, 0, 0, .03);
-        box-shadow: var(--yck-box-shadow1)
-    }
-
-    .yck-component summary::marker {
-        content: ''
-    }
-
-    .yck-component summary::after {
-        content: "+";
+    .blockquote::before {
+        font-weight: 800;
+        font-style: oblique;
+        text-shadow: 2px 2px 3px rgba(206, 60, 60, .5), 3px 3px 4px rgba(0, 0, 0, 0.35);
+        content: "\201C";
+        color: rgba(166, 50, 50, 1);
+        font-size: calc(var(--yck-step-4) * 3);
         position: absolute;
-        font-size: var(--yck-step-2);
-        line-height: 1;
-        right: 1rem;
-        top: 50%;
-        transform: translateY(-50%) rotate(0);
-        transition: transform .65s cubic-bezier(.25, 1, .5, 1)
+        left: -0.9em;
+        top: 0.2em;
     }
 
-    .yck-component details[open]>summary::after {
-        transform: translateY(-50%) rotate(135deg)
+    &:hover {
+        box-shadow: var(--inner-shadow-3);
+        transition: box-shadow .7s ease-in-out;
+    }
+}
+
+/* Abbreviations */
+.yck-component abbr[title] {
+    font-family: var(--font-transitional);
+    font-weight: 600;
+    cursor: help;
+    transition: color 0.7s ease-out;
+    text-decoration: underline dotted;
+    color: var(--yck-green800);
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+
+    &:hover,
+    &:active,
+    &:focus {
+        transition: color 0.7s ease-in;
+        color: var(--yck-green600);
+    }
+}
+
+/* Dropcaps First Letter */
+.yck-component .dropcap-title {
+    margin-bottom: 1em;
+    font-weight: 500;
+    font-size: var(--yck-step-1);
+    font-family: var(--font-antique), serif;
+    color: var(--yck-color-text-primary);
+
+    &::first-letter {
+        float: left;
+        padding-right: 0.1em;
+        font-family: var(--font-antique), serif;
+        font-size: calc(var(--yck-step-5) * 1.65);
+        font-style: oblique;
+        font-weight: bold;
+        line-height: 0.9;
+        color: var(--yck-green700);
+        text-shadow:
+            1px 1px 0 var(--yck-green600),
+            2px 2px 0 var(--yck-green500),
+            3px 3px 4px rgba(0, 0, 0, 0.35);
+    }
+}
+
+/* HREF links */
+.yck-component a {
+    transition: color 0.8s ease;
+    text-decoration: none;
+    color: var(--yck-orange600);
+}
+
+.yck-component a:hover,
+.yck-component a:active {
+    color: var(--yck-orange500);
+}
+
+.yck-component a:focus {
+    color: currentColor;
+}
+
+.yck-component a:visited {
+    color: var(--yck-green500);
+}
+
+.yck-component a.text-link {
+    position: relative;
+    padding-bottom: 2px;
+    text-decoration: none;
+}
+
+.yck-component a.text-link img {
+    display: inline-block;
+    width: var(--yck-step-0);
+    height: var(--yck-step-0);
+    object-fit: contain;
+    vertical-align: middle;
+}
+
+.yck-component a.text-link::after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    content: "";
+    transition: width 1s var(--ease-elastic-in-out-4);
+    background-color: currentColor;
+}
+
+.yck-component a.text-link:hover::after,
+.yck-component a.text-link:active::after,
+.yck-component a.text-link:focus::after {
+    width: 100%;
+}
+
+.yck-component a[target="_blank"]:not(.text-link)::before,
+.yck-component a[target="_blank"]:not(.text-link)::after,
+.yck-component a:not(.text-link)::before,
+.yck-component a:not(.text-link)::after {
+    display: none !important;
+}
+
+
+/* --- Integrated Navigation Bar Styles --- */
+.yck-component .yck-nav-bar>* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.yck-component .yck-nav-bar ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    list-style: none;
+    background-color: #ffffff;
+    border-radius: 0.75rem;
+    box-shadow: var(--yck-inset-shadow2);
+
+    justify-content: space-evenly;
+    align-content: start;
+    justify-items: center;
+    align-items: start;
+}
+
+.yck-component .yck-nav-bar a {
+    display: block;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: var(--yck-step-0);
+    transition: all 0.3s var(--yck-transition-timing);
+    margin: calc(var(--yck-spacing-unit) * 0.1);
+    padding: 1rem;
+    border-radius: 0.5rem;
+    text-align: center;
+    text-wrap: balance;
+    overflow-wrap: break-word;
+    color: #4a5568;
+    position: relative;
+}
+
+.yck-component .yck-nav-bar a::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #4299e1;
+    /* Added background-color to the transition for the color fade effect */
+    transition: width 0.7s var(--yck-transition-timing), background-color 0.7s var(--yck-transition-timing);
+}
+
+.yck-component .yck-nav-bar a.active {
+    color: #2b6cb0;
+}
+
+.yck-component .yck-nav-bar a.active::after {
+    width: 60%;
+    background-color: #4299e1;
+}
+
+.yck-component .yck-nav-bar a:hover {
+    color: #e37f2a;
+}
+
+.yck-component .yck-nav-bar a:hover::after {
+    background-color: #e37f2a;
+    width: 60%;
+}
+
+/* --- Tables --- */
+/* .yck-component .yck-table,
+.yck-component table {
+    display: table;
+    border-collapse: collapse;
+    table-layout: auto;
+    max-width: 100%;
+    min-width: 480px;
+    margin-top: 1.5em;
+    margin-bottom: var(--yck-space-s-xl);
+    overflow: hidden;
+    border: 1px dotted lightgrey;
+    border-radius: var(--yck-rounded-corners);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.yck-component .yck-table .yck-th,
+.yck-component table th,
+.yck-component .yck-table .yck-td,
+.yck-component table td {
+    display: table-cell;
+    min-width: 150px;
+    padding: 1em;
+    vertical-align: top;
+}
+
+.yck-component .yck-table .yck-th,
+.yck-component .yck-table th {
+    background-color: #cfcfcf;
+    border-bottom: 1px dotted #ddd;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 1.3;
+    letter-spacing: 0.05em;
+    text-wrap: balance;
+}
+
+.yck-component .yck-td :is(p, li),
+.yck-component td :is(p, li) {
+    line-height: 1.4;
+    text-wrap: pretty;
+    word-wrap: break-word;
+}
+
+.yck-component .yck-td *,
+.yck-component .yck-td p,
+.yck-component .yck-td ul,
+.yck-component .yck-td ol {
+    margin-block: var(--yck-step--2);
+}
+
+.yck-component .yck-th:nth-child(1),
+.yck-component .yck-td:nth-child(1) {
+    font-weight: 700;
+}
+
+.yck-component .yck-td:nth-child(n + 2) {
+    text-align: left;
+}
+
+.yck-component .yck-td li {
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+    line-height: 1.4;
+}
+
+.yck-component .yck-td>*:last-child,
+.yck-component .yck-td>p:last-child,
+.yck-component .yck-td>ul:last-child,
+.yck-component .yck-td>ol:last-child {
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+}
+
+.yck-component .yck-td ul:last-child li:last-child,
+.yck-component .yck-td ol:last-child li:last-child {
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+}
+
+.yck-component .yck-table tbody tr:last-child .yck-td>*:last-child {
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component .yck-table tr {
+    transition: background-color 0.8s ease;
+    background-color: inherit;
+}
+
+.yck-component .yck-table tr:hover,
+.yck-component .yck-table tr:nth-child(even):hover {
+    background-color: #fffbf2;
+    transition: background-color 0.8s ease;
+}
+
+.yck-component .yck-table tbody tr:nth-child(even) {
+    transition: background-color 0.8s ease;
+    background-color: #f3f3f3;
+} */
+
+/* Responsive adjustments */
+/* @media (max-width: 768px) {
+
+    .yck-component .yck-th,
+    .yck-component th,
+    .yck-component .yck-td,
+    .yck-component td {
+        min-width: 7ch;
+        padding: calc(var(--yck-spacing-unit) * 0.25);
+        line-height: 1.3em;
+    }
+} */
+
+/* === TABLES - REFACTORED === */
+/* Base table foundation */
+.yck-component .yck-table {
+    display: table;
+    border-collapse: collapse;
+    table-layout: auto;
+    max-width: 100%;
+    min-width: 480px;
+    margin-top: 1.5em;
+    margin-bottom: var(--yck-space-s-xl);
+    overflow: hidden;
+    border: 1px dotted lightgrey;
+    border-radius: var(--yck-rounded-corners);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+/* Standard table cells */
+.yck-component .yck-table th,
+.yck-component .yck-table td {
+    display: table-cell;
+    min-width: 150px;
+    padding: 1em;
+    vertical-align: top;
+}
+
+/* Table headers */
+.yck-component .yck-table th {
+    background-color: #cfcfcf;
+    border-bottom: 1px dotted #ddd;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 1.3;
+    letter-spacing: 0.05em;
+    text-wrap: balance;
+}
+
+/* Table data cells */
+.yck-component .yck-table td {
+    line-height: 1.4;
+    text-wrap: pretty;
+    word-wrap: break-word;
+}
+
+.yck-component .yck-table td > * {
+    margin-block: var(--yck-step--2);
+}
+
+.yck-component .yck-table th:first-child,
+.yck-component .yck-table td:first-child {
+    font-weight: 700;
+}
+
+.yck-component .yck-table td:nth-child(n + 2) {
+    text-align: left;
+}
+
+/* Table row interactions */
+.yck-component .yck-table tr {
+    transition: background-color 0.8s ease;
+    background-color: inherit;
+}
+
+.yck-component .yck-table tbody tr:nth-child(even) {
+    background-color: #f3f3f3;
+}
+
+.yck-component .yck-table tr:hover {
+    background-color: #fffbf2;
+}
+
+/* Responsive table variant */
+.yck-component .yck-table--responsive {
+    min-width: 360px;
+}
+
+.yck-component .yck-table--responsive tr {
+    border: 1px solid var(--neutral-600);
+}
+
+.yck-component .yck-table--responsive tbody tr:nth-child(odd) {
+    background-color: var(--neutral-100);
+}
+
+.yck-component .yck-table--responsive tbody tr:hover {
+    background-color: var(--yck-orange000);
+}
+
+.yck-component .yck-table--responsive th {
+    display: none;
+    background-color: var(--neutral-800);
+    color: #fff;
+}
+
+.yck-component .yck-table--responsive td {
+    display: block;
+    border-color: transparent;
+}
+
+.yck-component .yck-table--responsive td::before {
+    content: attr(data-th) ": ";
+    font-size: var(--yck-step-0);
+    font-weight: bold;
+    display: inline-block;
+}
+
+/* Responsive breakpoint */
+@media (min-width: 480px) {
+    .yck-component .yck-table--responsive th,
+    .yck-component .yck-table--responsive td {
+        display: table-cell;
+        border: 1px solid var(--neutral-600);
     }
 
-    .yck-component details>:not(summary) {
-        padding: 1rem 1.5rem 1.5rem;
-        animation: .5s .5s both fade-in
+    .yck-component .yck-table--responsive td::before {
+        display: none;
     }
 
-    @keyframes fade-in {
-        from {
-            opacity: 0;
-            transform: translateY(-10px)
+    .yck-component .yck-table--responsive th {
+        display: table-cell;
+    }
+}
+
+/* Mobile responsive adjustments */
+@media (max-width: 768px) {
+    .yck-component .yck-table th,
+    .yck-component .yck-table td {
+        min-width: 7ch;
+        padding: calc(var(--yck-spacing-unit) * 0.5);
+        line-height: 1.3em;
+    }
+}
+
+/* RWD TABLE - Responsive Table */
+/* Responsive Tables Style */
+.yck-component .rwd-table {
+    margin-top: 1.5em;
+    margin-bottom: var(--yck-space-s-xl);
+    min-width: 360px;
+}
+
+.yck-component .rwd-table tr {
+    border: 1px solid var(--neutral-600);
+    transition: background-color 0.7s ease-in-out;
+}
+
+/* Row striping & hover */
+.yck-component .rwd-table tbody tr:nth-child(odd) {
+    background-color: var(--neutral-100);
+    /* #fcfcfa */
+    transition: background-color 0.7s ease-in-out;
+}
+
+.yck-component .rwd-table tbody tr:hover {
+    background-color: var(--yck-orange000);
+    /* #fff4e6 */
+    transition: background-color 0.7s ease-in-out;
+}
+
+.yck-component .rwd-table th {
+    display: none;
+}
+
+.yck-component .rwd-table td {
+    display: block;
+    border-color: transparent;
+}
+
+.yck-component .rwd-table td::before {
+    content: attr(data-th) ": ";
+    font-size: var(--yck-step-0);
+    font-weight: bold;
+    display: inline-block;
+}
+
+@media (min-width: 480px) {
+    .yck-component .rwd-table td::before {
+        display: none;
+    }
+}
+
+.yck-component .rwd-table th,
+.yck-component .rwd-table td {
+    text-align: left;
+    margin: 0;
+    padding: 1em !important;
+}
+
+.yck-component .rwd-table th {
+    background-color: var(--neutral-800);
+    color: #fff !important;
+    font-size: var(--yck-step-0);
+}
+
+@media (min-width: 480px) {
+
+    .yck-component .rwd-table th,
+    .yck-component .rwd-table td {
+        display: table-cell;
+        border: 1px solid var(--neutral-600);
+    }
+
+    .yck-component .rwd-table th:first-child,
+    .yck-component .rwd-table td:first-child {
+        padding-left: 0;
+    }
+
+    .yck-component .rwd-table th:last-child,
+    .yck-component .rwd-table td:last-child {
+        padding-right: 0;
+    }
+
+    .yck-component .rwd-table {
+        background: transparent;
+        color: var(--neutral-800);
+        border-radius: var(--yck-rounded-corners);
+        overflow: hidden;
+        width: 100%;
+    }
+
+    .yck-component .rwd-table th,
+    .yck-component .rwd-table td {
+        border-color: var(--neutral-200);
+    }
+
+    @media (min-width: 480px) {
+
+        .yck-component .rwd-table th,
+        .yck-component .rwd-table td {
+            padding: 1em !important;
         }
-
-        to {
-            opacity: 1;
-            transform: translateY(0)
-        }
     }
 
-    .masthead {
+    .yck-component .rwd-table th,
+    .yck-component .rwd-table td::before {
+        color: var(--neutral-700);
+    }
+}
+
+/* Layouts */
+/* Centering */
+.yck-component .deadctr-container {
+    display: grid;
+    margin: 0 auto;
+    padding: 0;
+    height: auto;
+    /* justify-items: center;
+    align-content: space-around; */
+    place-items: center;
+}
+
+.yck-component figure,
+.yck-component .figure {
+    display: block;
+    border-radius: var(--yck-rounded-corners);
+    padding: 0 !important;
+    margin: 0 !important;
+    overflow: hidden;
+}
+
+.yck-component figure img,
+.yck-component .figure img {
+    width: 100%;
+    background-size: cover;
+    border-radius: var(--yck-rounded-corners);
+    object-fit: cover;
+    overflow: hidden;
+}
+
+.yck-component figcaption,
+.yck-component .caption {
+    display: block;
+    padding: 0.25em !important;
+    margin: 0 auto !important;
+    font-family: var(--font-old-style);
+    font-size: var(--yck-step--1);
+    font-style: oblique;
+    font-weight: 300;
+    text-align: center;
+}
+
+/* === NAME CARD FOUNDATION === */
+.yck-component .namecard {
+  width: 320px;
+  perspective: 2000px;
+  margin-top: 1em;
+  margin-bottom: var(--yck-space-s-xl);
+}
+
+.yck-component .namecard-inner {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform 0.999s;
+}
+
+.yck-component .namecard:hover .namecard-inner {
+  transform: rotateY(180deg);
+  cursor: pointer;
+}
+
+.yck-component .namecard-front,
+.yck-component .namecard-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+
+.yck-component .namecard-front {
+  background-color: var(--yck-green700);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  border: 1em solid var(--yck-green800);
+  border-radius: var(--yck-rounded-corners);
+  justify-content: center;
+  transform: rotateY(0deg);
+  padding: 1.5em;
+}
+
+.yck-component .namecard-back {
+  background-color: var(--yck-orange700);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  border: 1em solid var(--yck-orange800);
+  border-radius: var(--yck-rounded-corners);
+  justify-content: center;
+  transform: rotateY(180deg);
+  padding: 1.5em;
+}
+
+
+/* === BASE CARD FOUNDATION === */
+.yck-component .cards {
+    display: flex;
+    flex-direction: column;
+    background: transparent;
+    overflow: hidden;
+    min-width: 180px;
+    border-radius: var(--yck-rounded-corners);
+    -webkit-backdrop-filter: blur(50px) brightness(1.7) saturate(1.4);
+    backdrop-filter: blur(50px) brightness(1.7) saturate(1.4);
+}
+
+.yck-component .card__header {
+    font-size: var(--yck-step-1);
+    font-weight: 900;
+    text-transform: uppercase;
+    padding-block: 0.5em !important;
+    padding-inline: 0.75em !important;
+    color: var(--neutral-900);
+}
+
+.yck-component .card__body {
+    padding-inline: 1em !important;
+    color: #333;
+    flex: 1;
+}
+
+.yck-component .card__footer {
+    padding-bottom: 0.75em !important;
+    font-size: var(--yck-step--1);
+    font-style: oblique;
+    font-weight: 300;
+    text-align: center;
+    color: var(--neutral-700);
+}
+
+/* === UTILITY CLASSES FOR LAYOUT === */
+.yck-component .flex-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--yck-spacing-unit);
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-block: 1em !important;
+}
+
+.yck-component .flex-grow {
+    flex: 1 0 calc(33% - var(--yck-spacing-unit));
+}
+
+.yck-component .flex-grow--tight {
+    flex: 1 0 calc(22% - var(--yck-spacing-unit));
+}
+
+.yck-component .center-text {
+    text-align: center;
+}
+
+.yck-component .align-start {
+    align-items: flex-start;
+}
+
+.yck-component .align-center {
+    align-items: center;
+}
+
+.yck-component .justify-start {
+    justify-content: flex-start;
+}
+
+.yck-component .justify-center {
+    justify-content: center;
+}
+
+/* === CARD MODIFIERS (Replace Original Classes) === */
+.yck-component .cards.yck__card {
+    flex: 1 0 calc(22% - var(--yck-spacing-unit));
+    border: 1px solid var(--yck-orange300);
+    background: linear-gradient(145deg, rgba(255, 255, 255, 0) 0%, rgba(255, 233, 193, 0.8) 100%);
+}
+
+.yck-component .cards.yck__flexitem {
+    font-size: var(--yck-step--2);
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
+    flex: 1 0 calc(33% - var(--yck-spacing-unit));
+    justify-content: flex-start;
+    align-content: flex-start;
+    transition: all 1s var(--ease-elastic-in-out-4);
+}
+
+/* .yck-component .cards.yck__flexitem:hover {
+    filter: blur(2px) saturate(0.5) opacity(0.5);
+} */
+
+/* 2. Auto-Fit Responsive Grid */
+.yck-component .autofit-grid {
+    display: grid;
+    gap: var(--yck-spacing-unit);
+    margin-inline: auto;
+    margin-top: 1.5em;
+    margin-bottom: var(--yck-space-s-xl);
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    aspect-ratio: var(--ratio-landscape);
+}
+
+.yck-component .grid-item {
+    display: flex;
+    flex-direction: row;
+    gap: 0.75em;
+    padding: var(--yck-spacing-unit);
+    font-size: var(--yck-step-0);
+    font-weight: bold;
+    box-shadow: var(--shadow-1);
+    transition:
+        transform 0.5s,
+        box-shadow 0.8s var(--ease-elastic-in-out-4);
+    text-align: left;
+    color: var(--neutral-700);
+    border-radius: var(--yck-rounded-corners);
+    outline: 1px solid #ccc;
+    background: linear-gradient(135deg,
+        rgba(255, 255, 255, 1) 0%,
+        rgba(255, 255, 255, 0) 100%);
+    align-items: flex-start;
+    justify-content: left;
+
+    &:hover {
+        transform: scale(1.025);
+        box-shadow: var(--shadow-6);
+    }
+}
+
+/* --- Isomer Cards --- */
+.yck-component .isomer-card-grid {
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 1em;
+    border-radius: var(--yck-rounded-corners);
+}
+
+.yck-component .isomer-card {
+    padding: 0;
+    margin: 0 auto;
+    overflow: hidden;
+    box-shadow: var(--shadow-1);
+    transition:
+        transform 0.8s var(--yck-transition-timing),
+        box-shadow 0.8s var(--yck-transition-timing);
+    text-decoration: none;
+    border: 1px solid rgba(224, 224, 224, 0.15);
+    border-radius: var(--yck-rounded-corners);
+}
+
+.yck-component .isomer-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-3);
+}
+
+.yck-component .isomer-card:hover .isomer-card-body .isomer-card-link {
+    color: var(--yck-orange700);
+}
+
+.yck-component .isomer-card:has(img) {
+    transition: filter 0.8s var(--yck-transition-timing);
+    filter: brightness(100%);
+}
+
+.yck-component .isomer-card:has(img):hover,
+.yck-component .isomer-card:has(img):active,
+.yck-component .isomer-card:has(img):focus {
+    filter: brightness(110%) saturate(110%);
+}
+
+.yck-component .isomer-card .isomer-card-image {
+    width: 100%;
+    object-fit: cover;
+}
+
+.yck-component .isomer-card .isomer-card-body {
+    padding: var(--yck-spacing-unit);
+}
+
+.yck-component .isomer-card .isomer-card-body .isomer-card-title {
+    font-size: var(--yck-step-1);
+    font-weight: 700;
+    text-wrap: balance;
+    color: var(--neutral-900);
+    overflow-wrap: break-word;
+}
+
+.yck-component .isomer-card .isomer-card-body .isomer-card-description {
+    font-size: var(--yck-step-0);
+}
+
+.yck-component .isomer-card .isomer-card-body .isomer-card-link {
+    display: inline-block;
+    font-size: var(--yck-step-0);
+    text-decoration: none;
+    color: var(--yck-orange600);
+}
+
+.yck-component .isomer-card .isomer-card-body .isomer-card-title:has(+ .isomer-card-description) {
+    margin-bottom: 0.75rem;
+}
+
+/* Layouts - Columns */
+.yck-component :is(.columns2, .columns3, .columns) {
+    column-width: 30ch;
+    column-gap: 1.5em;
+    margin-top: 1em;
+    margin-bottom: var(--yck-space-s-xl);
+    column-rule: 1px dotted lightgrey;
+    column-fill: balance;
+    break-inside: avoid;
+    page-break-inside: avoid;
+}
+
+/* .yck-component .columns2 {
+    column-count: 2;
+    column-gap: 1.5em;
+    margin-top: 1em;
+    margin-bottom: var(--yck-space-s-xl);
+    column-rule: 1px dotted lightgrey;
+    break-inside: avoid;
+    page-break-inside: avoid;
+}
+
+.yck-component .columns3 {
+    column-count: 3;
+    column-gap: 1.5em;
+    margin-top: 1em;
+    margin-bottom: var(--yck-space-s-xl);
+    column-rule: 1px dotted lightgrey;
+    break-inside: avoid;
+    page-break-inside: avoid;
+}
+ */
+.yck-component .masonry {
+    column-width: 240px;
+    column-gap: .5em;
+    column-fill: balance;
+    break-after: avoid-column;
+    break-inside: avoid;
+
+    img {
+        margin-bottom: .5em;
+    }
+}
+
+/* --- LAyouts - Video Containers --- */
+.yck-component .video-container {
+    position: relative;
+    aspect-ratio: var(--ratio-widescreen);
+    padding-bottom: 56.25%;
+    width: 100%;
+    margin-bottom: var(--yck-space-s-xl);
+    overflow: hidden;
+}
+
+.yck-component .video-container iframe,
+.yck-component .video-container object,
+.yck-component .video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* --- Details Summary --- */
+.yck-component details {
+    overflow: hidden;
+    transition:
+        background-color 0.7s ease-in-out,
+        box-shadow 0.7s ease-in-out;
+    border-radius: var(--yck-rounded-corners);
+    background-color: #fff;
+    margin-bottom: 1em;
+}
+
+.yck-component details::details-content {
+    opacity: 0;
+
+}
+
+.yck-component details[open]::details-content {
+    opacity: 1;
+    transition:
+        opacity 1s ease,
+        content-visibility 1.5s allow-discrete;
+}
+
+.yck-component details[open] {
+    background-color: rgba(255, 233, 193, 0.3);
+    box-shadow: var(--yck-insetopp-shadow);
+}
+
+.yck-component details p,
+.yck-component details div {
+    margin-inline: 1em;
+}
+
+.yck-component details summary {
+    position: relative;
+    padding: 0.75em;
+    font-size: var(--yck-step-1);
+    font-weight: 500;
+    list-style-position: outside;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    outline: none;
+    transition:
+        background-color 0.7s ease-in-out,
+        box-shadow 0.7s ease-in-out;
+    box-shadow: var(--yck-insetopp-shadow);
+}
+
+.yck-component details summary:hover,
+.yck-component details summary:active {
+    background-color: rgba(255, 233, 193, 0.4);
+    box-shadow: var(--yck-insetopp-shadow);
+}
+
+.yck-component details[open]:hover {
+    background-color: rgba(255, 233, 193, 0.3);
+    box-shadow: var(--yck-inset-shadow);
+}
+
+.yck-component details summary::marker {
+    content: "";
+}
+
+.yck-component details summary::after {
+    position: absolute;
+    top: 50%;
+    right: 1.5em;
+    font-size: var(--yck-step-2);
+    line-height: 1;
+    content: "+";
+    transition: transform 0.7s var(--ease-elastic-in-out-5);
+    transform: translateY(-50%) rotate(0deg);
+}
+
+.yck-component details[open]>summary::after {
+    transform: translateY(-50%) rotate(135deg);
+}
+
+/*.yck-component details[open]>*:not(summary) {
+    animation: var(--animation-fade-out-bloom), var(--animation-slide-in-left);
+    animation-fill-mode: both;
+}*/
+
+@keyframes fade-in {
+    from {
+        transform: translateY(-10px);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+/* Buttons */
+/* From Uiverse.io by vinodjangid07 */
+.yck-component .buttontotop {
+    position: relative;
+    display: flex;
+    width: var(--yck-step-3);
+    height: var(--yck-step-3);
+    overflow: hidden;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all .5s var(--ease-elastic-in-out-4);
+    border: none;
+    border-radius: 50%;
+    background-color: var(--yck-orange500);
+    box-shadow: 0 0 0 4px var(--yck-orange200);
+    align-items: center;
+    justify-content: center;
+}
+
+.yck-component .svgIcon {
+    width: var(--yck-step--1);
+    transition: .5s var(--ease-elastic-in-out-4);
+}
+
+.yck-component .svgIcon path {
+    fill: white;
+}
+
+.yck-component .buttontotop:hover {
+    width: 13ch;
+    transition: .5s var(--ease-elastic-in-out-5);
+    border-radius: 60px;
+    background-color: var(--yck-orange600);
+    align-items: center;
+}
+
+.yck-component .buttontotop:hover .svgIcon {
+    width: var(--yck-step--1);
+    transition: .5s var(--ease-elastic-in-out-5);
+    transform: translateY(-200%);
+}
+
+.yck-component .buttontotop::before {
+    position: absolute;
+/*    bottom: -30px; */
+    font-size: 0;
+    content: "Back to Top";
+    transition: .5s var(--ease-elastic-in-out-4);
+    color: white;
+}
+
+.yck-component .buttontotop:hover::before {
+    bottom: unset;
+    font-size: var(--yck-step--1);
+    /* transform: translateY(30px); */
+    transition: .5s var(--ease-elastic-in-out-5);
+    opacity: 1;
+}
+
+/* From Uiverse.io by biswacpcode */
+button.cta-button {
+    font-size: var(--yck-step-0);
+    border: none;
+    background: none;
+    font-weight: 600;
+    font-family: var(--font-humanist);
+}
+
+button.cta-button::before {
+    margin: 0 auto;
+}
+
+button.cta-button::after,
+button.cta-button::before {
+    text-decoration: none;
+    content: "";
+    width: 0%;
+    height: 5px;
+    background: var(--yck-orange400);
+    display: block;
+    transition: width 0.7s var(--ease-elastic-4);
+}
+
+button.cta-button:hover::after,
+button.cta-button:hover::before {
+    width: 100%;
+}
+
+/* From Uiverse.io by mrhyddenn */
+.dwn-button {
+    width: fit-content;
+    display: inline-block;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    border: none;
+    background: none;
+    color: var(--neutral-500);
+    cursor: pointer;
+    position: relative;
+    padding: 10px;
+    margin: 0;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: var(--yck-step-0);
+    transition: all .5s ease;
+}
+
+.dwn-button::before,
+.dwn-button::after {
+    content: '';
+    display: block;
+    position: absolute;
+    right: 0;
+    left: 0;
+    height: calc(50% - 5px);
+    border: 1px solid var(--neutral-400);
+    transition: all .5s ease;
+}
+
+.dwn-button::before {
+    top: 0;
+    border-bottom-width: 0;
+}
+
+.dwn-button::after {
+    bottom: 0;
+    border-top-width: 0;
+}
+
+.dwn-button:active,
+.dwn-button:focus {
+    outline: none;
+}
+
+.dwn-button:active::before,
+.dwn-button:active::after {
+    right: 3px;
+    left: 3px;
+}
+
+.dwn-button:active::before {
+    top: 3px;
+}
+
+.dwn-button:active::after {
+    bottom: 3px;
+}
+
+.dwn-button_lg {
+    position: relative;
+    display: block;
+    padding: 1em;
+    color: #fff;
+    background-color: var(--yck-green800);
+    overflow: hidden;
+    box-shadow: inset 0 0 0 1px transparent;
+    border-radius: var(--yck-rounded-corners);
+}
+
+.dwn-button_lg::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 2px;
+    height: 2px;
+    background-color: #0f1923;
+}
+
+.dwn-button_lg::after {
+    content: '';
+    display: block;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 4px;
+    height: 4px;
+    background-color: #0f1923;
+    transition: all 1.5s var(--ease-elastic-4);
+}
+
+.dwn-button_sl {
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: -1px;
+    left: -8px;
+    width: 0;
+    background-color: var(--yck-orange400);
+    transform: skew(-15deg);
+    transition: all .7s var(--ease-elastic-in-out-4);
+}
+
+.dwn-button_text {
+    position: relative;
+}
+
+.dwn-button:hover {
+    color: #0f1923;
+}
+
+.dwn-button:hover .dwn-button_sl {
+    width: calc(100% + 15px);
+}
+
+.dwn-button:hover .dwn-button_lg::after {
+    background-color: var(--yck-orange400);
+}
+
+
+/*** Animation classes ***/
+/* Forward */
+.yck-component .hvr-forward {
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    display: inline-block;
+    vertical-align: baseline;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+
+.yck-component .hvr-forward:hover,
+.yck-component .hvr-forward:focus,
+.yck-component .hvr-forward:active {
+    -webkit-transform: translateX(8px);
+    transform: translateX(8px);
+}
+
+/* Backward */
+.yck-component .hvr-backward {
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    display: inline-block;
+    vertical-align: baseline;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+
+.yck-component .hvr-backward:hover,
+.yck-component .hvr-backward:focus,
+.yck-component .hvr-backward:active {
+    -webkit-transform: translateX(-8px);
+    transform: translateX(-8px);
+}
+
+/* Pulse */
+@-webkit-keyframes hvr-pulse {
+    25% {
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+    }
+
+    75% {
+        -webkit-transform: scale(0.9);
+        transform: scale(0.9);
+    }
+}
+
+@keyframes hvr-pulse {
+    25% {
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+    }
+
+    75% {
+        -webkit-transform: scale(0.9);
+        transform: scale(0.9);
+    }
+}
+
+.yck-component .hvr-pulse {
+    display: inline-block;
+    vertical-align: baseline;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+
+.yck-component .hvr-pulse:hover,
+.yck-component .hvr-pulse:focus,
+.yck-component .hvr-pulse:active {
+    -webkit-animation-name: hvr-pulse;
+    animation-name: hvr-pulse;
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-timing-function: linear;
+    animation-timing-function: linear;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+}
+
+/**
+ * ----------------------------------------
+ * animation fade-in-right
+ * ----------------------------------------
+ */
+@keyframes fade-in-right {
+    0% {
+        transform: translateX(50px);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+/*** Misc items of interest ... ***/
+/* Utilities */
+.yck-component .nolist-style {
+    list-style: none;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.yck-component .isoblique {
+    font-style: oblique;
+}
+
+.yck-component .isstrong {
+    font-weight: 900;
+}
+
+.yck-component :is(.visually-hidden, .sr-only) {
+    inline-size: 0;
+    block-size: 0;
+    overflow: hidden;
+}
+
+.yck-component .truncate {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.yck-component .golden {
+    aspect-ratio: var(--ratio-golden);
+}
+
+.yck-component .ultrawide {
+    aspect-ratio: var(--ratio-ultrawide);
+}
+
+.yck-component .widescreen {
+    aspect-ratio: var(--ratio-widescreen);
+}
+
+.yck-component .landscape {
+    aspect-ratio: var(--ratio-landscape);
+}
+
+.yck-component .portrait {
+    aspect-ratio: var(--ratio-portrait);
+}
+
+.yck-component .square {
+    aspect-ratio: var(--ratio-square);
+}
+
+.yck-component .warning {
+    font-size: var(--yck-step-1);
+    color: red;
+    font-weight: 700;
+    text-shadow: var(--yck-box-shadow);
+}
+
+.yck-component .notice {
+    color: var(--yck-orange700);
+    font-weight: 400;
+    font-style: oblique;
+    text-shadow: var(--yck-box-shadow);
+}
+
+.yck-component .fade-up-and-in {
+    animation:
+        var(--animation-fade-in) both,
+        var(--animation-slide-in-up) both;
+    animation-delay: 0.3s, 0s;
+    animation-duration: 0.7s, 1s;
+}
+
+.yck-component .fade-in-bottom {
+    animation: fade-in-bottom 1s ease-in-out both;
+}
+
+.bg-1 {
+    background: url("https://c.stocksy.com/a/YY3500/z0/1205314.jpg") no-repeat left 50%;
+    background-size: cover;
+}
+
+.bg-2 {
+    background: url("https://c.stocksy.com/a/FY3500/z0/1205295.jpg") no-repeat left 50%;
+    background-size: cover;
+}
+
+.bg-3 {
+    background: url("https://c.stocksy.com/a/L1o500/z0/1383923.jpg") no-repeat left 50%;
+    background-size: cover;
+}
+
+.bg-4 {
+    background: url("https://c.stocksy.com/a/Z22000/z0/7847.jpg") no-repeat left 50%;
+    background-size: cover;
+}
+
+.bg-yckorange {
+    background: #fef7e0;
+    background: -moz-linear-gradient(45deg,
+        #fef7e0 0%,
+        #fbdf83 50%,
+        #f7bf08 100%);
+    background: -webkit-linear-gradient(45deg,
+        #fef7e0 0%,
+        #fbdf83 50%,
+        #f7bf08 100%);
+    background: linear-gradient(45deg, #fef7e0 0%, #fbdf83 50%, #f7bf08 100%);
+}
+
+.bg-singpass {
+    background: #be2e7d;
+    background: -moz-linear-gradient(45deg, #be2e7d 0%, #d64e54 100%);
+    background: -webkit-linear-gradient(45deg, #be2e7d 0%, #d64e54 100%);
+    background: linear-gradient(45deg, #be2e7d 0%, #d64e54 100%);
+}
+
+.bg-yckgreen {
+    background: #009d62;
+    background: -moz-linear-gradient(45deg, #009d62 0%, #18510f 100%);
+    background: -webkit-linear-gradient(45deg, #009d62 0%, #18510f 100%);
+    background: linear-gradient(45deg, #009d62 0%, #18510f 100%);
+}
+
+.bg-gradientblue {
+    background: #0164b6;
+    background: -moz-linear-gradient(45deg, #0164b6 0%, #04a4e3 100%);
+    background: -webkit-linear-gradient(45deg, #0164b6 0%, #04a4e3 100%);
+    background: linear-gradient(45deg, #0164b6 0%, #04a4e3 100%);
+}
+
+@keyframes fade-in-bottom {
+    0% {
+        -webkit-transform: translateY(50px);
+        transform: translateY(50px);
+        opacity: 0;
+    }
+
+    100% {
+        -webkit-transform: translateY(0);
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.yck-component .fade-in {
+    animation: fade-in 1s ease-in-out both;
+}
+
+@keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.yck-component .fade-out {
+    -webkit-animation: fade-out 1s ease-out both;
+    animation: fade-out 1s ease-out both;
+}
+
+@keyframes fade-out {
+    0% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+.yck-component .kenburns-container {
+    max-width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.yck-component .kenburns-right {
+    animation: kenburns-right 40s ease-in-out infinite alternate;
+}
+
+@keyframes kenburns-right {
+    0% {
+        -webkit-transform: scale(1) translate(0, 0);
+        transform: scale(1) translate(0, 0);
+        -webkit-transform-origin: 84% 50%;
+        transform-origin: 84% 50%;
+    }
+
+    100% {
+        -webkit-transform: scale(1.25) translateX(20px);
+        transform: scale(1.25) translateX(20px);
+        -webkit-transform-origin: right;
+        transform-origin: right;
+    }
+}
+
+.yck-component .kenburns-scale {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    animation: kenBurns 35s var(--ease-elastic-in-out-4) infinite alternate;
+}
+
+@keyframes kenBurns {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.35);
+    }
+}
+
+@supports (content-visibility: auto) {
+    details {
+        content-visibility: auto;
+    }
+}
+
+@supports (animation-timeline: view()) {
+    .yck-component :is(.yck__flexitem, .yck__card, .grid-item, .isomer-card) {
+        animation: var(--animation-fade-in-bloom), var(--animation-slide-in-left);
+        animation-timeline: view();
+        animation-range: entry 10% cover 40%;
+    }
+}
+
+/* Main container for the entire organizational chart */
+.org-chart {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 1600px;
+    /* Allows for a wider chart */
+}
+
+/* Styling for major section titles like "School Leaders" */
+.section-title {
+    font-size: var(--yck-step-2);
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: #222;
+    border-bottom: 3px solid #555;
+    padding-bottom: 8px;
+    width: 100%;
+    text-align: center;
+}
+
+/* Container for a group of people, e.g., all school leaders */
+.person-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 25px;
+    position: relative;
+    /* Needed for the pseudo-element connector line */
+}
+
+/* A simple vertical line connecting a section title to its content below */
+.person-container::before {
+    content: '';
+    position: absolute;
+    top: -15px;
+    /* Positioned just below the title */
+    left: 50%;
+    transform: translateX(-50%);
+    width: 2px;
+    height: 15px;
+    background-color: #777;
+}
+
+/* Styling for department and staff group containers */
+.department,
+.staff-group {
+    width: 100%;
+    margin-bottom: 30px;
+    padding: 15px;
+    border: 1px solid #d0d0d0;
+    border-radius: 8px;
+    background-color: #fdfdfd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+/* Titles for individual departments or non-teaching staff groups */
+.department-name,
+.group-name {
+    font-size: var(--yck-step-1);
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 15px;
+    text-align: center;
+    border-bottom: 1px dashed #aaa;
+    padding-bottom: 10px;
+}
+
+/* Grid layout for displaying people within a department or group */
+.people-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    /* Provides spacing between individual person cards */
+}
+
+/* Individual card for each person */
+.person {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    padding: 10px 15px;
+    margin: 5px;
+    text-align: center;
+    min-width: 25ch;
+    max-width: 50ch;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+    flex-grow: 1;
+    /* Prevents cards from growing to fill space */
+    flex-shrink: 0;
+    /* Prevents cards from shrinking */
+    flex-basis: calc(20% - 10px);
+    /* Aims for 5 cards per row, adjusting for gap */
+}
+
+/* Name of the person */
+.person-name {
+    font-size: var(--yck-step-0);
+    font-weight: bold;
+    margin-bottom: 4px;
+    color: #333;
+}
+
+/* Title/role of the person */
+.person-title {
+    font-size: calc(var(--yck-step-0)*0.85);
+    color: #555;
+    margin-bottom: 8px;
+    /* Add some space before the details tag */
+}
+
+.person details {
+    font-size: calc(var(--yck-step-0)*0.8);
+    cursor: pointer;
+}
+
+/* --- Tier-Specific Styling --- */
+
+/* Special styling for school leader cards */
+.school-leaders .person {
+    background-color: #e0eafc;
+    border-color: #abc4ff;
+    flex-basis: calc(33% - 20px);
+    /* Aims for 3 leaders per row */
+}
+
+/* Special styling for key personnel cards */
+.key-personnel .person {
+    background-color: #dcf0dc;
+    border-color: #a0c0a0;
+    flex-basis: calc(33.33% - 10px);
+    /* Aims for 3 per row */
+}
+
+/* Styling for teaching staff cards within departments */
+.department .person {
+    background-color: #fff5e6;
+    border-color: #ffd5ab;
+    flex-basis: calc(25% - 10px);
+    /* Aims for 4 per row */
+}
+
+/* Styling for non-teaching staff cards within groups */
+.staff-group .person {
+    background-color: #e6f2ff;
+    border-color: #adccef;
+    flex-basis: calc(25% - 10px);
+    /* Aims for 4 per row */
+}
+
+/* --- Responsive Adjustments for Different Screen Sizes --- */
+
+@media (max-width: 1200px) {
+    .person {
+        flex-basis: calc(25% - 10px);
+        /* 4 cards per row */
+    }
+
+    .school-leaders .person {
+        flex-basis: calc(50% - 20px);
+        /* 2 leader cards per row */
+    }
+}
+
+@media (max-width: 900px) {
+    .person {
+        flex-basis: calc(33.33% - 10px);
+        /* 3 cards per row */
+    }
+}
+
+@media (max-width: 600px) {
+    .person {
+        flex-basis: calc(50% - 10px);
+        /* 2 cards per row */
+    }
+
+    .department-name,
+    .group-name {
+        font-size: var(--yck-step-0);
+    }
+
+    .section-title {
+        font-size: var(--yck-step-1);
+    }
+}
+
+@media (max-width: 400px) {
+    .person {
+        flex-basis: calc(100% - 10px);
+        /* 1 card per row */
+    }
+}
+
+.masthead {
         display: flex;
         justify-content: center;
         align-items: flex-start;
