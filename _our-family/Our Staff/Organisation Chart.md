@@ -92,7 +92,7 @@ third_nav_title: Our Staff
         HOD
         <abbr title="Information and Communications Technology">InfoComm Technology</abbr>
       </div>
-      <details>
+      <details name="key">
         <summary>Email Address:</summary>
         chin_pin_chuen_brandon<wbr>@moe.edu.sg
       </details>
@@ -259,8 +259,8 @@ third_nav_title: Our Staff
       <div class="people-grid">
         <div class="person" id="michaelwilliamcartwright">
           <div class="person-name">Mr Michael William Cartwright</div>
-          <div class="person-title">Music</div>
-          <details>
+          <div class="person-title">Senior Teacher, Music</div>
+          <details name="dnt">
             <summary>Email Address:</summary>
             michael_william_cartwright<wbr>@moe.edu.sg
           </details>
@@ -268,7 +268,7 @@ third_nav_title: Our Staff
         <div class="person" id="tanbockleongchristopherjimmy">
           <div class="person-name">Mr Tan Bock Leong Christopher Jimmy</div>
           <div class="person-title">Art</div>
-          <details>
+          <details name="dnt">
             <summary>Email Address:</summary>
             tan_bock_leong_christopher<wbr>@moe.edu.sg
           </details>
@@ -276,7 +276,7 @@ third_nav_title: Our Staff
         <div class="person" id="thamhwijindarren">
           <div class="person-name">Mr Tham Hwi Jin Darren</div>
           <div class="person-title">Art</div>
-          <details>
+          <details name="dnt">
             <summary>Email Address:</summary>
             tham_hwi_jin_darren<wbr>@moe.edu.sg
           </details>
@@ -284,7 +284,7 @@ third_nav_title: Our Staff
         <div class="person" id="yipsengyiam">
           <div class="person-name">Mr Yip Seng Yiam</div>
           <div class="person-title">Art</div>
-          <details>
+          <details name="dnt">
             <summary>Email Address:</summary>
             yip_seng_yiam<wbr>@moe.edu.sg
           </details>
@@ -292,7 +292,7 @@ third_nav_title: Our Staff
         <div class="person" id="adelenair">
           <div class="person-name">Mrs Adele Nair</div>
           <div class="person-title">Nutrition and Food Science</div>
-          <details>
+          <details name="dnt">
             <summary>Email Address:</summary>
             adele_louise_williams<wbr>@moe.edu.sg
           </details>
@@ -300,7 +300,7 @@ third_nav_title: Our Staff
         <div class="person" id="sutinahbtesujaair">
           <div class="person-name">Mdm Sutinah Bte Sujaair</div>
           <div class="person-title">Nutrition and Food Science</div>
-          <details>
+          <details name="dnt">
             <summary>Email Address:</summary>
             sutinah_sujaair<wbr>@moe.edu.sg
           </details>
@@ -308,7 +308,7 @@ third_nav_title: Our Staff
         <div class="person" id="limliwhey">
           <div class="person-name">Ms Lim Li Whey</div>
           <div class="person-title">Nutrition and Food Science</div>
-          <details>
+          <details name="dnt">
             <summary>Email Address:</summary>
             lim_li_whey<wbr>@moe.edu.sg
           </details>
@@ -316,7 +316,7 @@ third_nav_title: Our Staff
         <div class="person" id="albertong">
           <div class="person-name">Mr Albert Ong</div>
           <div class="person-title">Design and Enterprise</div>
-          <details>
+          <details name="dnt">
             <summary>Email Address:</summary>
             ong_tiong_guan_albert<wbr>@moe.edu.sg
           </details>
@@ -324,7 +324,7 @@ third_nav_title: Our Staff
         <div class="person" id="weesohyepatrick">
           <div class="person-name">Mr Wee Soh Ye Patrick</div>
           <div class="person-title">Design and Enterprise</div>
-          <details>
+          <details name="dnt">
             <summary>Email Address:</summary>
             wee_soh_ye_patrick<wbr>@moe.edu.sg
           </details>
@@ -332,7 +332,7 @@ third_nav_title: Our Staff
         <div class="person" id="limcheewee">
           <div class="person-name">Mr Lim Chee Wee</div>
           <div class="person-title">Design and Enterprise</div>
-          <details>
+          <details name="dnt">
             <summary>Email Address:</summary>
             lim_chee_wee@moe.edu.sg
           </details>
@@ -340,7 +340,7 @@ third_nav_title: Our Staff
         <div class="person" id="liuxuefang">
           <div class="person-name">Mdm Liu Xue Fang</div>
           <div class="person-title">Design and Enterprise</div>
-          <details>
+          <details name="dnt">
             <summary>Email Address:</summary>
             liu_xuefang<wbr>@moe.edu.sg
           </details>
