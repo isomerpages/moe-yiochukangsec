@@ -547,11 +547,11 @@ third_nav_title: Our Staff
           </details>
         </div>
         <div class="person" id="xuxiaohong">
-          <div class="person-name">Ms Xu Xiaohong</div>
+          <div class="person-name">Ms Xu Xiuhan</div>
           <div class="person-title">Chinese Language</div>
           <details>
             <summary>Email Address:</summary>
-            xu_xiaohong<wbr>@moe.edu.sg
+            xu_xiuhan<wbr>@moe.edu.sg
           </details>
         </div>
         <div class="person" id="limhuiqi">
@@ -743,14 +743,6 @@ third_nav_title: Our Staff
           <details>
             <summary>Email Address:</summary>
             chye_yen_yen_audrey<wbr>@moe.edu.sg
-          </details>
-        </div>
-        <div class="person" id="lohshihui">
-          <div class="person-name">Ms Loh Shihui</div>
-          <div class="person-title">Teacher</div>
-          <details>
-            <summary>Email Address:</summary>
-            loh_shihui<wbr>@moe.edu.sg
           </details>
         </div>
         <div class="person" id="eepohlam">
