@@ -2,12 +2,12 @@ collections:
   our-family:
     output: true
     order:
-      - Our Students/Student Handbook 2026.md
       - Our Students/.keep
       - Our Students/The YCKSians.md
       - Our Students/School Uniform.md
       - Our Students/Booklist.md
       - Our Students/Financial Assistance.md
+      - Our Students/Student Handbook 2026.md
       - Our Students/School Handbook 2025.md
       - Our Students/Class Timetable and Schedules.md
       - Our Students/Students Code of Conduct.md
