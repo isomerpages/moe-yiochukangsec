@@ -9,14 +9,14 @@ variant: markdown
 	<h2>Parent's Gateway App for iOS and Android</h2>
 	<div class="yck-img-array">
 		<div class="isomer-card-image"><a target="_blank" href="https://play.google.com/store/apps/details?id=com.moe.pgp">
-			<img src="/images/Our%20Family/Parents%20Gateway/PGonPlayStore.png"></a>
+			<img src="/images/Our%20Family/Parents%20Gateway/Android.png"></a>
 </div>
 
 <div class="isomer-card-image"><a target="_blank" href="https://appgallery.huawei.com/app/C101325885">
-	<img src="/images/Our%20Family/Parents%20Gateway/PGonAppGallery.png"></a>
+	<img src="/images/Our%20Family/Parents%20Gateway/Huawei.png"></a>
 </div>
 		<div class="isomer-card-image"><a target="_blank" href="https://itunes.apple.com/sg/app/parents-gateway/id1267198708">
-			<img src="/images/Our%20Family/Parents%20Gateway/PGoniOS.png"></a>
+			<img src="/images/Our%20Family/Parents%20Gateway/iOS.png"></a>
 </div>
 		<div class="isomer-card-image">
 		</div>
@@ -24,7 +24,7 @@ variant: markdown
 	<p>Download “Parents Gateway” from the official app stores (Google Play, App Store or Huawei AppGallery) and ensure that the app developer is “Ministry of Education (Singapore)”.</p>
 </div>
 <hr>
-<div class="yck-component">
+<div style="display: none;" class="yck-component">
     <h3>On-boarding Video For Parents</h3>
     <div class="video-container">
         <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQAvAZsUSFHMUAicdB52CIgXZiAcV8GCPKruUFuhmD6iOZFuZcYXiRM4awFX2nXYmGKsv7wHqFVOr75/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
