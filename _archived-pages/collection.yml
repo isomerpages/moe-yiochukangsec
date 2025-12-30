@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Alumni.md
+      - Our Family/School Handbook 2025.md
       - Our Family/Alumni.md
       - Our Family/.keep
       - Our School/School.md
