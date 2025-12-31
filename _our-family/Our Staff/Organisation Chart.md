@@ -294,7 +294,7 @@ third_nav_title: Our Staff
           <div class="person-title">Nutrition and Food Science</div>
           <details name="dnt">
             <summary>Email Address:</summary>
-            adele_louise_williams<wbr>@moe.edu.sg
+            fong_ya_yi<wbr>@moe.edu.sg
           </details>
         </div>
         <div class="person" id="sutinahbtesujaair">
@@ -318,7 +318,7 @@ third_nav_title: Our Staff
           <div class="person-title">Design and Enterprise</div>
           <details name="dnt">
             <summary>Email Address:</summary>
-            ong_tiong_guan_albert<wbr>@moe.edu.sg
+            albert_ong<wbr>@moe.edu.sg
           </details>
         </div>
         <div class="person" id="weesohyepatrick">
@@ -326,7 +326,7 @@ third_nav_title: Our Staff
           <div class="person-title">Design and Enterprise</div>
           <details name="dnt">
             <summary>Email Address:</summary>
-            wee_soh_ye_patrick<wbr>@moe.edu.sg
+            wee_soh_ye<wbr>@moe.edu.sg
           </details>
         </div>
         <div class="person" id="limcheewee">
