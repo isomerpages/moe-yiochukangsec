@@ -16,7 +16,7 @@ variant: tiptap
 the world, the YCKSS Digital Education is designed to nurture&nbsp;<strong>Responsible Digital Citizens</strong>&nbsp;who
 are able to safeguard the well-being of themselves and others when using
 digital tools and platforms.&nbsp;</p>
-<p><strong>Key Personnel IC: Mr Brandon Chin [HOD ICT] (ext: 110)</strong>
+<p><strong>Key Personnel IC: Mr Brandon Chin [HOD ICT] (ext: 207)</strong>
 </p>
 <p></p>
 <h4><strong>National&nbsp;Digital&nbsp;Literacy&nbsp;Programme (NDLP) @ YCKSS</strong></h4>
@@ -65,7 +65,7 @@ activities using the iPad.
 <p><strong>Warranty and Insurance</strong>
 </p>
 <p>
-<br>The&nbsp;device bundle&nbsp;will come with&nbsp;<strong>3-Year AppleCare+ Warranty and 3-Year Insurance.</strong>
+<br>From 2026, the&nbsp;device bundle&nbsp;will come with&nbsp;<strong>4-Year AppleCare+ Warranty &amp; Insurance.</strong>
 </p>
 <p></p>
 <table style="minWidth: 50px">
@@ -111,7 +111,7 @@ activities using the iPad.
 <p>Accidental Damage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(within the 3-year insurance coverage)</p>
+<p>(within the 4-year insurance coverage)</p>
 </td>
 </tr>
 <tr>
@@ -158,8 +158,9 @@ the year will automatically be subsidised for the PLD.</p>
 <p>
 <br>Students who are currently not under the MOE Financial Assistance Scheme
 may apply for additional subsidy if their&nbsp;<strong>Gross Household Income (GHI)</strong>&nbsp;is
-$4,000 or less, or&nbsp;<strong>Per Capita Income (PCI)</strong>&nbsp;is
-$1,000 or less.Please collect the application form at the General Office.</p>
+$5,500 or less, or&nbsp;<strong>Per Capita Income (PCI)</strong>&nbsp;is
+$1,375 or less. Please collect the application form at the General Office.</p>
+<p></p>
 <p><strong><em>“PCI”</em></strong><em> refers to the Gross Household Income divided by the total number of family members in the household.</em>
 </p>
 <hr>
@@ -221,7 +222,7 @@ additional information on learning with a PLD:
 <br><strong>For Programme Matters :</strong>
 </p>
 <p>Mr Brandon Chin (HOD ICT)
-<br>6456 0669 (ext. 110)
+<br>6456 0669 (ext. 207)
 <br>
 </p>
 <p><strong>For Finance &amp; Subsidy Matters</strong>
