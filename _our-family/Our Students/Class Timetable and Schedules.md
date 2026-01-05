@@ -30,8 +30,10 @@ variant: tiptap
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>2026 CCA Schedule for Semester 1
-<br>(Will be released in early Term 1)</p>
+<p><strong><a href="/files/CCA Schedule/2026_CCA_Schedule____Sem_1.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 CCA Schedule for Semester 1 </a></strong>
+<br><em>(uploaded 6 Jan 2026, Tuesday)</em>
+<br>
+</p>
 </li>
 </ul>
 <hr>
