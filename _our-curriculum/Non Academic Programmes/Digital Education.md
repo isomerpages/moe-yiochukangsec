@@ -183,14 +183,14 @@ your child.&nbsp;Parents could refer to the school's&nbsp;<strong>Digital Wellne
 helping to manage your child’s use of digital devices and platforms. The
 policy will help your child to understand digital wellness matters and
 to enable a conducive learning environment. The DWP can be found in the
-<a href="https://www.yiochukangsec.moe.edu.sg/our-family/students/permalink/" rel="noopener nofollow" target="_blank">YCKSS Digital Student Handbook.</a><a href="/files/YCKSS_STUDENT_HANDBOOK_2024__PDF_.pdf" rel="noopener noreferrer nofollow" target="_blank"><br></a>
+<a href="https://www.yiochukangsec.moe.edu.sg/our-family/our-students/student-handbook-2026/" rel="noopener nofollow" target="_blank">YCKSS Digital Student Handbook.</a><a href="https://www.yiochukangsec.moe.edu.sg/our-family/our-students/student-handbook-2026/" rel="noopener noreferrer nofollow" target="_blank"><br></a>
 </p>
 <p>
 <br>The&nbsp;<strong>Acceptable Use Policy (AUP)</strong>&nbsp;sets out the
 rules and regulations that govern the use of PLD by students. This policy
 will serve to ensure the safe and secure use of the device, and facilitate
 effective learning with technology. The AUP can be found in the&nbsp;
-<a href="https://www.yiochukangsec.moe.edu.sg/our-family/students/permalink/" rel="noopener nofollow" target="_blank">YCKSS Digital Student Handbook.</a><a href="/files/YCKSS_STUDENT_HANDBOOK_2024__PDF_.pdf" rel="noopener noreferrer nofollow" target="_blank"><br></a>
+<a href="https://www.yiochukangsec.moe.edu.sg/our-family/our-students/student-handbook-2026/" rel="noopener nofollow" target="_blank">YCKSS Digital Student Handbook.</a><a href="https://www.yiochukangsec.moe.edu.sg/our-family/our-students/student-handbook-2026/" rel="noopener noreferrer nofollow" target="_blank"><br></a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:100%;height:50%" height="auto" width="100%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/NDLP%20@%20YCKSS/N6.jpg">
