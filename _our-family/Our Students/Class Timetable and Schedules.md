@@ -31,9 +31,8 @@ variant: tiptap
 <p>(Uploaded on 6 January 2026)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="/files/CCA Schedule/2026_CCA_Schedule_Sem_1__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 CCA Schedule for Semester 1</a><a href="/files/CCA Schedule/2026_CCA_Schedule____Sem_1.pdf" rel="noopener noreferrer nofollow" target="_blank"> </a></strong>
+<p><strong><a href="/files/CCA Schedule/2026_CCA_Schedule_Sem_1__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 CCA Schedule for Semester 1</a></strong> 
 <br><em>(updated 8 Jan 2026, Thursday)</em>
-<br>
 </p>
 </li>
 </ul>
