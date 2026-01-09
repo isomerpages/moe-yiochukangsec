@@ -219,9 +219,19 @@ camp
 </td>
 <td rowspan="1" colspan="4">
 <p>JIE Briefing during GCE N-level exam results release
-<br><a href="/files/ECG/Choosing_JIE_Choices_for_2026_admissions__YCKSS_4MB.pdf" rel="noopener nofollow" target="_blank">Choosing JlE Choices for 2026 admissions (4MB)</a>
+<br><a href="/files/ECG/Choosing_JIE_Choices_for_2026_admissions__YCKSS_4MB.pdf" rel="noopener nofollow" target="_blank">Choosing JIE Choices for 2026 admissions</a>
 <br>
 <br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="4">
+<p>JAE Briefing during GCE O-level exam results release</p>
+<p><a href="/files/ECG/Choosing_JAE_Choices_2026__YCKSS_.pdf" rel="noopener nofollow" target="_blank">Choosing JAE Choices for 2026 admissions</a>
 </p>
 </td>
 </tr>
@@ -284,13 +294,18 @@ on the following resources:</p>
 <p>What's Next after N-Levels 2025:</p>
 <p><a href="https://go.gov.sg/whats-next-nlevel" rel="noopener nofollow" target="_blank">https://go.gov.sg/whats-next-nlevel</a>
 </p>
-<p>JIE / JAE ITE Booklet for EXP 2025: Pending</p>
+<p></p>
+<p>JIE / JAE ITE Booklet for EXP 2025:</p>
+<p><a href="https://isomer-user-content.by.gov.sg/145/ff6ade19-0d2d-4996-b513-1abf839ea910/25110056_ITE25_7516%20ITE%20GCE%20O-Level-c2.pdf" rel="noopener nofollow" target="_blank">https://isomer-user-content.by.gov.sg/145/ff6ade19-0d2d-4996-b513-1abf839ea910/25110056_ITE25_7516%20ITE%20GCE%20O-Level-c2.pdf</a>
+</p>
 <p></p>
 <p>JAE Booklet for EXP 2025:</p>
 <p><a href="https://www.moe.gov.sg/-/media/files/post-secondary/2026-jae/2026-jae-courses.pdf" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/post-secondary/2026-jae/2026-jae-courses.pdf</a>
 </p>
-<p>What's Next after O-Levels 2025: Pending</p>
 <p></p>
+<p>What's Next after O-Levels 2025:</p>
+<p><a href="https://go.gov.sg/whats-next-olevel" rel="noopener nofollow" target="_blank">https://go.gov.sg/whats-next-olevel</a>
+</p>
 <p>&nbsp;</p>
 <h4><strong>National Education (NE)</strong></h4>
 <p></p>
