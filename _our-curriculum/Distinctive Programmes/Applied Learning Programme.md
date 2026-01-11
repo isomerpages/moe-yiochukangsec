@@ -9,16 +9,18 @@ variant: markdown
     <div class="regular-flow">
         <article>
             <section>
-                <div class="ken-burns-container">
-                    <figure>
-                        <img alt="Applied Learning Programme Introduction" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Distinctive%20Programmes/Applied%20Learning%20Programme/A1.jpg">
+                <div class="kenburns-container">
+                    <figure class="figure">
+                        <img alt="Applied Learning Programme Introduction" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Distinctive%20Programmes/Applied%20Learning%20Programme/A1.jpg" class="kenburns-scale">
                     </figure>
                 </div>
             </section>
             <section id="alpprogramme">
-                <p>The school offers an Applied Learning Programme (ALP)&nbsp;&nbsp;<strong>to nurture inquiring minds and inventive thinkers through technology</strong>. It is in alignment to our school vision of ‘A Community of Learners, Leaders and Innovators’.&nbsp;&nbsp;</p>
-                <p>In this programme, students are introduced to the world of Science, Technology, Engineering and Mathematics (STEM) with a focus on Technological Sustainability and learn to develop innovative ideas and integrated solutions for real-life problems in the community. The ALP gives students opportunities to explore the connections between problem-solving skills needed in the real world and academic knowledge related to STEM.</p>
-                <p>The progressive ALP curriculum equips all students with coding and computational thinking skills using an inquiry-based learning approach. Importantly, the ALP encourages students to stay curious and learn about how technology can be applied in new ways to improve the quality of life around us. In this way, the ALP hopes to nurture students capable of adapting to change.</p>
+                <div class="columns">
+                    <p>The school offers an Applied Learning Programme (ALP)&nbsp;&nbsp;<strong>to nurture inquiring minds and inventive thinkers through technology</strong>. It is in alignment to our school vision of ‘A Community of Learners, Leaders and Innovators’.&nbsp;&nbsp;</p>
+                    <p>In this programme, students are introduced to the world of Science, Technology, Engineering and Mathematics (STEM) with a focus on Technological Sustainability and learn to develop innovative ideas and integrated solutions for real-life problems in the community. The ALP gives students opportunities to explore the connections between problem-solving skills needed in the real world and academic knowledge related to STEM.</p>
+                    <p>The progressive ALP curriculum equips all students with coding and computational thinking skills using an inquiry-based learning approach. Importantly, the ALP encourages students to stay curious and learn about how technology can be applied in new ways to improve the quality of life around us. In this way, the ALP hopes to nurture students capable of adapting to change.</p>
+                </div>
             </section>
             <section id="alpobjectives">
                 <h2>Objectives of the programme</h2>
