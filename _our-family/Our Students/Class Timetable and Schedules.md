@@ -5,7 +5,14 @@ description: ""
 third_nav_title: Our Students
 variant: tiptap
 ---
-<p></p>
+<h4><strong>2026 Class Timetable (Semester 1)</strong></h4>
+<p>(Uploaded on 15 Jan 2026)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="/files/Students/Class Timetable Schedules/Class_TimeTable_2026_Sem_1_Final_T1W3_.pdf" rel="noopener nofollow" target="_blank">Class Timetable 2026 Semester 1</a></strong>
+</p>
+</li>
+</ul>
 <h4><strong>2026 Class Timetable (Semester 1)</strong></h4>
 <p>(Uploaded on 30 Dec 2025)</p>
 <ul data-tight="true" class="tight">
