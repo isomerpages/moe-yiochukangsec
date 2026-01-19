@@ -51,13 +51,8 @@ activities using the iPad.
 <div class="isomer-image-wrapper">
 <img style="width:100%;height:50%" height="auto" width="100%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/NDLP%20@%20YCKSS/N2.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%;height:50%" height="auto" width="100%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/NDLP%20@%20YCKSS/N3.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:100%;height:50%" height="auto" width="100%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/NDLP%20@%20YCKSS/N4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Non Academic Programmes/Digital Education/Digital Education/DigitalEdPLD1.png">
 </div>
 <p>
 <br>
@@ -153,8 +148,8 @@ financial assistance to purchase a PLD.</p>
 Financial Assistance Scheme to use their Edusave to pay for the PLD, after
 subsidies have been granted.</p>
 <p>
-<br>Students under the MOE Financial Assistance&nbsp; (FAS) &nbsp;Scheme for
-the year will automatically be subsidised for the PLD.</p>
+<br>Students under the MOE Financial Assistance&nbsp; (FAS) Scheme for the
+year will automatically be subsidised for the PLD.</p>
 <p>
 <br>Students who are currently not under the MOE Financial Assistance Scheme
 may apply for additional subsidy if their&nbsp;<strong>Gross Household Income (GHI)</strong>&nbsp;is
@@ -200,16 +195,15 @@ effective learning with technology. The AUP can be found in the&nbsp;
 <br>
 </p>
 <p>Parents/Guardians can refer to the following materials listed below for
-additional information on learning with a PLD:
-<br>
-</p>
+additional information on learning with a PLD:</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/NDLP%20@%20YCKSS/Parent_Handbook__I__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook I (Learning with a Personal Learning Device)</a>
+<p><a href="/files/IP2___Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook I (Learning with a Personal Learning Device)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/NDLP%20@%20YCKSS/Parent_Handbook__II__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook II (Learning with a Personal Learning Device)</a>
+<p><a href="/files/IP3___Parent_Handbook__II__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook II (Learning with a Personal Learning Device)</a>
 </p>
 </li>
 </ul>
@@ -239,20 +233,19 @@ additional information on learning with a PLD:
 </details>
 </div>
 <p></p>
-<h4><strong>G-Suite for Education Workshop</strong></h4>
+<h4><strong>Digital Literacy Training</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>More details</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The workshop seeks to equip students with the knowledge and skills in
-using G-suite for Education to communicate and collaborate with their peers,
-as well as to co-create digital products.
+<p>The training seeks to equip students with digital literacy and technological
+skills (e.g. G-suite for Education) to communicate and collaborate with
+their peers, as well as to co-create digital products.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:100%;height:50%" height="auto" width="100%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/GSuite%20for%20Education%20Workshop/G1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Non Academic Programmes/Digital Education/GSuite for Education Workshop/DigitalEdPLD2.png">
 </div>
-<p></p>
 </div>
 </details>
 </div>
@@ -325,7 +318,7 @@ and quizzes;</p>
 <p>
 <br>
 </p>
-<p><strong>Cyberwellness Week Photos</strong>
+<p><strong>Cyber Wellness Week Photos</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:100%;height:50%" height="auto" width="100%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/Digital%20Education/Digital%20Wellness/D1.png">
