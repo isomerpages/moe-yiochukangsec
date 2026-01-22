@@ -899,7 +899,7 @@ third_nav_title: Our Staff
                         <div class="person-name">Mdm Nur Khalidah</div>
                         <div class="person-title">Administrative Executive</div>
                         <details name="admin">
-                            <summary>Email Address:</summary>nur_khalidah_mohamed_khir<wbr>@moe.edu.sg
+													<summary>Email Address:</summary>nur_khalidah_jasmani<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="weekweelendoreen">
