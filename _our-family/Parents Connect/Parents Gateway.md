@@ -24,10 +24,10 @@ variant: markdown
 	<p>Download “Parents Gateway” from the official app stores (Google Play, App Store or Huawei AppGallery) and ensure that the app developer is “Ministry of Education (Singapore)”.</p>
 </div>
 <hr>
-<div style="display: none;" class="yck-component">
+<div class="yck-component">
     <h3>On-boarding Video For Parents</h3>
     <div class="video-container">
-        <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQAvAZsUSFHMUAicdB52CIgXZiAcV8GCPKruUFuhmD6iOZFuZcYXiRM4awFX2nXYmGKsv7wHqFVOr75/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+        <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/S13EyVMPlag?si=T0aLA58s2Mdxu-aO" height="315" width="560"></iframe>
     </div>
 </div>
 <div class="yck-component">
