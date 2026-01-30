@@ -19,6 +19,8 @@ GROWTH
 <br>Wholeheartedness
 <br>Teamwork
 <br>Honesty</p>
+<hr>
+<p></p>
 <p>The goal of Character and Citizenship Education (CCE) is to inculcate
 values and build competencies in our students to help them grow to be good
 individuals and useful citizens. In Yio Chu Kang Secondary School, every
@@ -376,7 +378,7 @@ pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<p><strong>Overview of Yio Chu Kang Secondary School’s Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of Yio Chu Kang Secondary School’s Sexuality Education Programme for 2026</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
@@ -409,8 +411,8 @@ lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p>Please click <a href="/files/Sexuality Education (SEd)/2025_Info_on_SEd_for_YCKSS_website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-view the 2025 YCKSS Sexuality Education Programme.</p>
+<p>Please <strong><a href="/files/Sexuality Education (SEd)/2026_Info_on_SEd_for_schs_website__YCKSS_.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a></strong> to
+download the <em>2026 YCKSS Sexuality Education Programme</em>.</p>
 <p><strong>&nbsp;<em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme developed
 by Health Promotion Board, in collaboration with the Ministry of Education,
