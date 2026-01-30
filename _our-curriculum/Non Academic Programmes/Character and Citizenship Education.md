@@ -411,7 +411,7 @@ lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p>Please <strong><a href="/files/Sexuality Education (SEd)/2026_Info_on_SEd_for_schs_website__YCKSS_.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a></strong> to
+<p>Please <strong><a href="/files/Sexuality Education (SEd)/2026_Info_on_SEd_for_schs_website__YCKSS__new.pdf" rel="noopener nofollow" target="_blank">click here </a></strong>to
 download the <em>2026 YCKSS Sexuality Education Programme</em>.</p>
 <p><strong>&nbsp;<em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; eTeens is a programme that was
@@ -460,14 +460,16 @@ are the key messages.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Raise awareness and provide knowledge on:</p>
-<p>a)&nbsp;&nbsp;&nbsp; Infectious diseases (STIs and HIV): what it is, how
-it spreads, how to prevent infection mainly through ABC (abstinence, being
-faithful, correct, and consistent condom use).</p>
-<p>b)&nbsp;&nbsp;&nbsp; Managing relationships and risky situations in a
-healthy way.</p>
+<p>a) Sexually transmitted infectious diseases (STIs and HIV): what it is,
+how it spreads, how to prevent infection mainly through ABC (abstinence,
+being faithful, correct, and consistent condom use), consequences and impact</p>
+<p>b) Skills for respecting boundaries (e.g. decision-making, assertiveness,
+negotiation to say ‘no’ to peer pressure)</p>
+<p>c) Managing relationships and risky situations in a healthy way, including
+avenues for help-seeking.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -480,7 +482,7 @@ of assertiveness and responsible decision-making</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 3</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 </tbody>
