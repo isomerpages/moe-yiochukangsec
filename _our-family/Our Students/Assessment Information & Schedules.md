@@ -12,9 +12,9 @@ students with subject information to guide their preparation for the assessments
 and level.</p>
 <p>Click the links below for details. This will be refreshed for each term.</p>
 <h3><strong>Assessment Rules &amp; Regulations</strong></h3>
-<p><a href="/files/Students/Assessment Information Sche/YCKSS_Weighted_Assessment_Rules_and_Regulations.pdf" rel="noopener nofollow" target="_blank">Weighted Assessment Rules and Regulations </a> (updated
+<p><a href="/files/Students/Assessment Information Sche/YCKSS_Weighted_Assessment_Rules_and_Regulations.pdf" rel="noopener nofollow" target="_blank">Weighted Assessment Rules and Regulations </a>(updated
 on 30 Jan 2026)</p>
-<h4><strong>Weighted Assessment 2025 (Term 1)</strong></h4>
+<h4><strong>Weighted Assessment 2026 (Term 1)</strong></h4>
 <p>(updated on 30 Jan, 2026)</p>
 <ul data-tight="true" class="tight">
 <li>
