@@ -19,6 +19,8 @@ GROWTH
 <br>Wholeheartedness
 <br>Teamwork
 <br>Honesty</p>
+<hr>
+<p></p>
 <p>The goal of Character and Citizenship Education (CCE) is to inculcate
 values and build competencies in our students to help them grow to be good
 individuals and useful citizens. In Yio Chu Kang Secondary School, every
@@ -376,7 +378,7 @@ pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<p><strong>Overview of Yio Chu Kang Secondary School’s Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of Yio Chu Kang Secondary School’s Sexuality Education Programme for 2026</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
@@ -409,23 +411,27 @@ lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p>Please click <a href="/files/Sexuality Education (SEd)/2025_Info_on_SEd_for_YCKSS_website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-view the 2025 YCKSS Sexuality Education Programme.</p>
+<p>Please <strong><a href="/files/Sexuality Education (SEd)/2026_Info_on_SEd_for_schs_website__YCKSS_.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a></strong> to
+download the <em>2026 YCKSS Sexuality Education Programme</em>.</p>
 <p><strong>&nbsp;<em><u>eTeens</u></em><u> Programme</u></strong>:</p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme developed
-by Health Promotion Board, in collaboration with the Ministry of Education,
-to provide Secondary 3 students with accurate information on STIs, HIV
-and protection from a health perspective. <em>eTeens</em> is conducted in
-two segments – a mass talk segment and a classroom-based programme. The
-desired outcome of the <em>eTeens</em> programme is that students are empowered
-to make wise, informed and sensible decisions.</p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; eTeens is a programme that was
+developed by Health Promotion Board, in collaboration with the Ministry
+of Education, to provide Secondary 3 students with accurate information
+on STIs, HIV and protection from a health perspective. With the formation
+of the Communicable Diseases Agency (CDA) on 1 April 2025, the programme
+would now be managed by CDA’s Training and Education Division instead of
+HPB. eTeens is conducted in two segments – a mass talk segment and a classroom-based
+programme. The desired outcome of the eTeens programme is that students
+are empowered to make wise, informed and sensible decisions to protect
+themselves from sexually transmitted infectious diseases.</p>
+<p></p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught skills such
 as decision-making, assertiveness and negotiation to say “no” to sex and
 negative peer pressure. They also learn that the impact of STIs/HIV extends
 beyond themselves and involves their family, and the importance of responsible
 decision-making and seeking help. Abstinence and upholding family values
 are the key messages.</p>
-<p><strong>At Yio Chu Kang Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
+<p><strong>At Yio Chu Kang Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -485,15 +491,14 @@ of assertiveness and responsible decision-making</p>
 the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
 education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
-out of the <strong>Sexuality Education lessons</strong> need to complete
-an opt-out form. This form will be communicated to parents at the start
-of the year and is also downloadable <a href="https://go.gov.sg/yckss-sed-2025" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed form is
-to be submitted by 07/02/2025.</p>
+out of the Sexuality Education lessons need to complete an opt-out form.
+This form will be communicated to parents at the start of the year and
+is also available <a href="https://go.gov.sg/yckss-sed-2026" rel="noopener nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 06/02/2026.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
-out of the <strong><em>eTeens</em> programme</strong> need to complete an
-opt-out form. This form will be communicated to parents at the start of
-the year and is also downloadable <a href="https://go.gov.sg/yckss-eteens-2025" rel="noopener noreferrer nofollow" target="_blank">here</a>. &nbsp;The completed
-form is to be submitted by 07/02/2025.</p>
+out of the eTeens programme need to complete an opt-out form. This form
+will be communicated to parents at the start of the year and is also available
+<a href="https://go.gov.sg/yckss-eteens-2026" rel="noopener nofollow" target="_blank">here</a>. The completed form is to be submitted by 06/02/2026.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 64560669
 or email the school,&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">yckss@moe.edu.sg</a>&nbsp;for
 discussion or to seek clarification about the school’s Sexuality Education
