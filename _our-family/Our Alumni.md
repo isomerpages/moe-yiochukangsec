@@ -364,72 +364,62 @@ body {
     background-color: inherit;
 }
 
-a {
-    color: inherit;
-}
-
-button,
-a.button {
-    padding: 0;
-    font-family: inherit;
-    cursor: pointer;
-    border: none;
-    background-color: transparent;
-}
-
-ol,
-ul {
-    list-style: none;
-}
-
-/* Images */
-img {
-    display: block;
-    height: auto;
-    max-width: 100%;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-audio,
-canvas,
-iframe,
-img,
-svg,
-video {
-    vertical-align: middle;
-}
-
 ::selection {
     background: rgba(255, 255, 0, 0.35);
 }
 
-/* Component Wrappers - div, article, main, section */
+
+/* Containers & Wrappers - div, article, main, section */
 .yck-component {
+    padding: 0;
+    margin: 0;
     width: 100%;
-    max-width: 1000px;
+    max-width: 1023px;
 }
 
 .yck-component * {
-    padding: 0;
-    margin: 0;
     font-size: var(--yck-step-0);
 }
 
-.yck-component article {
+.yck-component :is(article, section) {
     width: 100%;
+}
+
+.yck-component article {
     margin-block: 1em;
 }
 
 .yck-component section {
-    width: 100%;
     margin-block: var(--yck-space-s-xl);
+}
+
+/* Centering GRID */
+.yck-component .deadctr-container {
+    display: grid;
+    margin: 0 auto;
+    padding: 0;
+    height: auto;
+    justify-items: center;
+    align-content: space-around;
+    place-items: center;
+}
+
+/* QRCode Container */
+.yck-component .qr-container {
+    display: flex;
+    gap: var(--yck-space-s-xl);
+    height: 350px;
+
+    .qr-img {
+        max-width: 60%;
+        min-width: 100px;
+    }
 }
 
 .yck-component .regular-flow>*+* {
     margin-top: 1.125em;
 }
-
+	
 /* Typography */
 .yck-component div,
 .yck-component p,
@@ -529,19 +519,20 @@ h6,
 .yck-component ol,
 .yck-component ul {
     padding: 0;
+    margin-block: 0;
     margin-left: 1.5em;
 }
 
 .yck-component ul li,
 .yck-component ol li {
     padding-left: 0.25em;
-    margin: 0;
+    margin-block: 0.5em;
     line-height: 1.5;
 }
 
 .yck-component ul li:last-child,
 .yck-component ol li:last-child {
-    margin-bottom: var(--yck-spacing-unit);
+    margin-bottom: 1.5em;
 }
 
 /* Removes the gap between nested lists (list within a list). */
@@ -549,11 +540,6 @@ h6,
 .yck-component li ol {
     margin-top: 0;
 }
-
-/* .yck-component li ul li:last-child,
-.yck-component li ol li:last-child {
-    margin-bottom: var(--yck-spacing-unit);
-} */
 
 /* BLOCKQUOTES */
 .yck-component .quote {
@@ -917,18 +903,6 @@ h6,
     .yck-component .rwd-table td::before {
         color: var(--neutral-700);
     }
-}
-
-/* Layouts */
-/* Centering */
-.yck-component .deadctr-container {
-    display: grid;
-    margin: 0 auto;
-    padding: 0;
-    height: auto;
-    /* justify-items: center;
-    align-content: space-around; */
-    place-items: center;
 }
 
 .yck-component figure,
