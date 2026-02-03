@@ -22,12 +22,15 @@ image: /images/YCKLogo.svg
             <section>
                 <details open="" name="alumni" id="reunion">
                     <summary>Alumni Reunion Invitation</summary>
+									<div class="content">
                     <figure>
                         <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Alumni/alumni_reunion_invite_2026.png">
                     </figure>
+									</div>
                 </details>
                 <details name="alumni">
                     <summary>Alumni Engagement Session 2020</summary>
+									<div class="content">
                     <p><a class="text-link" href="/our-curriculum/Non-Academic-Programmes/Character-and-Citizenship-Education/index.html#ecg">ECG</a> equip our students with the necessary knowledge, skills and values to make important life choices at each key education stage for the successful transition from school to further education or work.</p> <p>During this session, the school invited our alumni to share their life experiences in secondary and post-sec institutions.</p>
                     <table class="yck-table">
                         <thead>
@@ -68,6 +71,7 @@ image: /images/YCKLogo.svg
                     <figure>
                         <img src="https://yiochukangsec.moe.edu.sg/images/Our%20Family/Alumni/Alumni%20Engagement%20Se%202020/A1.png"></figure>
                     <figure><img src="https://yiochukangsec.moe.edu.sg/images/Our%20Family/Alumni/Alumni%20Engagement%20Se%202020/A2.png"></figure>
+									</div>
                 </details>
             </section>
         </article>
@@ -75,7 +79,6 @@ image: /images/YCKLogo.svg
 </div>
 
 <style>
-/* Global and Root Variables */
 :root {
     --font-antique:
         Superclarendon, Bookman Old Style, URW Bookman, URW Bookman L, Georgia Pro, Georgia, serif;
@@ -159,24 +162,6 @@ image: /images/YCKLogo.svg
     --yck-orange-shadow: 0 2px 4px rgba(255, 233, 193, 1);
     --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
     --yck-box-shadow1: 0 1px 2px rgba(0, 0, 0, 0.15);
-    --yck-inset-shadow:
-        rgba(251, 206, 143, 1) 0 30px 60px -12px inset,
-        rgba(255, 233, 193, 0.1) 0 18px 36px -18px inset;
-    --yck-inset1-shadow:
-        rgba(251, 206, 143, 0.6) 0 30px 60px -12px inset,
-        rgba(255, 233, 193, 0.1) 0 18px 36px -18px inset;
-    --yck-inset2-shadow:
-        rgba(251, 206, 143, 0.3) 0 30px 60px -12px inset,
-        rgba(255, 233, 193, 0.1) 0 18px 36px -18px inset;
-    --yck-insetopp-shadow:
-        rgba(255, 233, 193, 0.1) 0 30px 60px -12px inset,
-        rgba(251, 206, 143, 1) 0 18px 36px -18px inset;
-    --yck-inset-shadow1:
-        rgba(50, 50, 93, 0.25) 0 30px 60px -12px inset,
-        rgba(0, 0, 0, 0.5) 0 18px 36px -18px inset;
-    --yck-inset-shadow2:
-        rgb(204, 219, 232) 3px 3px 6px 0 inset,
-        rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
     --yck-rounded-corners: 10px;
     --yck-heading-letter-spacing: -0.02em;
     --yck-heading-line-height: 1.2em;
@@ -357,8 +342,6 @@ image: /images/YCKLogo.svg
         --inner-shadow-highlight: inset 0 -.5px 0 0 #fff1, inset 0 .5px 0 0 #0007;
     }
 }
-
-
 /* Box Sizing */
 *,
 *::before,
@@ -1237,8 +1220,6 @@ h6,
     border-radius: var(--yck-rounded-corners);
     background-color: #fff;
     margin-bottom: 1em;
-    animation: fade-in-right 0.8s var(--ease-elastic-in-out-5);
-    animation-fill-mode: both;
 }
 
 .yck-component details::details-content {
@@ -1253,20 +1234,20 @@ h6,
 }
 
 .yck-component details[open] {
-    background-color: rgba(255, 233, 193, 0.3);
-    box-shadow: var(--yck-insetopp-shadow);
+    background-color: rgb(250, 250, 250, 0.3);
+    box-shadow: var(--inner-shadow-4);
 }
 
-.yck-component details p,
-.yck-component details div {
-    margin-inline: 1em;
+.yck-component details .content {
+    margin-inline: 1.5em;
+    padding-block: 1em;
 }
 
 .yck-component details summary {
     position: relative;
     padding: 0.75em;
-    font-size: var(--yck-step-1);
-    font-weight: 500;
+    font-size: var(--yck-step-2);
+    font-weight: 600;
     list-style-position: outside;
     cursor: pointer;
     -webkit-user-select: none;
@@ -1275,18 +1256,18 @@ h6,
     transition:
         background-color 0.7s ease-in-out,
         box-shadow 0.7s ease-in-out;
-    box-shadow: var(--yck-insetopp-shadow);
+    box-shadow: var(--inner-shadow-4);
 }
 
 .yck-component details summary:hover,
 .yck-component details summary:active {
     background-color: rgba(255, 233, 193, 0.4);
-    box-shadow: var(--yck-insetopp-shadow);
+    box-shadow: var(--inner-shadow-1);
 }
 
 .yck-component details[open]:hover {
     background-color: rgba(255, 233, 193, 0.3);
-    box-shadow: var(--yck-inset-shadow);
+    box-shadow: var(--inner-shadow-1);
 }
 
 .yck-component details summary::marker {
@@ -1296,11 +1277,11 @@ h6,
 .yck-component details summary::after {
     position: absolute;
     top: 50%;
-    right: 1.5em;
+    right: 1em;
     font-size: var(--yck-step-2);
     line-height: 1;
     content: "+";
-    transition: transform 0.7s var(--ease-elastic-in-out-5);
+    transition: transform 0.7s ease-in-out;
     transform: translateY(-50%) rotate(0deg);
 }
 
@@ -1309,7 +1290,7 @@ h6,
 }
 
 .yck-component details[open]>*:not(summary) {
-    animation: fade-up-and-in 0.8s var(--ease-elastic-in-out-5);
+    animation: fade-in-bloom 0.8s ease-in-out;
     animation-fill-mode: both;
 }
 
