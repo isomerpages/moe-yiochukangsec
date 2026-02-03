@@ -1140,20 +1140,15 @@ h6,
 }
 
 /* Layouts - Columns */
-.yck-component .columns2 {
-    column-count: 2;
+.yck-component :is(.columns2, .columns3, .columns) {
+    column-width: 30ch;
     column-gap: 1.5em;
     margin-top: 1em;
     margin-bottom: var(--yck-space-s-xl);
     column-rule: 1px dotted lightgrey;
-}
-
-.yck-component .columns3 {
-    column-count: 3;
-    column-gap: 1.5em;
-    margin-top: 1em;
-    margin-bottom: var(--yck-space-s-xl);
-    column-rule: 1px dotted lightgrey;
+    column-fill: balance;
+    break-inside: avoid;
+    page-break-inside: avoid;
 }
 
 .yck-component .masonry {
@@ -1164,7 +1159,6 @@ h6,
         margin-bottom: .5em;
     }
 }
-
 /* --- LAyouts - Video Containers --- */
 .yck-component .video-container {
     position: relative;
