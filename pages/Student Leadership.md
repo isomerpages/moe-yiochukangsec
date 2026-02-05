@@ -1471,7 +1471,7 @@ h6,
 
 @supports (animation-timeline: view()) {
     .yck-component :is(.yck__flexitem, .yck__card, .grid-item, .isomer-card) {
-        animation: fade-in-right ease-in-out both;
+        animation: fade-in-bloom ease-in-out both;
         animation-timeline: view();
         animation-range: entry 10% cover 40%;
     }
