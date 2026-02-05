@@ -1462,5 +1462,17 @@ h6,
     transition: .5s var(--ease-elastic-in-out-4);
     opacity: 1;
 }
+@supports (content-visibility: auto) {
+    details {
+        content-visibility: auto;
+    }
+}
 
+@supports (animation-timeline: view()) {
+    .yck-component :is(.yck__flexitem, .yck__card, .grid-item, .isomer-card) {
+        animation: fade-in-right ease-in-out both;
+        animation-timeline: view();
+        animation-range: entry 10% cover 40%;
+    }
+}
 </style>
