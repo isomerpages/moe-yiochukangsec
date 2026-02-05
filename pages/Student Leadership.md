@@ -12,7 +12,7 @@ image: /images/YCKLogo.svg
                 <div class="autofit-grid">
                     <div class="grid-item">
                         <div class="card__body">
-                            <h3>Vision</h3>
+                            <h3 class="yck-h3">Vision</h3>
                             <p>Every YCKSian is a Confident Leader</p>
                         </div>
                     </div>
@@ -74,7 +74,7 @@ image: /images/YCKLogo.svg
                 <p>Students who are identified with the potential and suitability to take on official appointments within the class (i.e. Class Leaders), CCA (i.e. CCA Leaders) or at school-level (i.e. Student Councillors and Sports Leaders) will be given different opportunities and platforms to develop their leadership competencies.</p>
                 <p>The following outlines the key groups of Student Leaders in Yio Chu Kang Secondary School.</p>
                 <details name="studlead">
-                    <summary>Class Leaders</summary>
+                    <summary class="yck-h5">Class Leaders</summary>
                     <div class="content">
                         <p>Class Leaders play an integral role in forging a strong class spirit while assisting teachers with simple administrative duties. A Class Committee is established in every class and comprises a Class Chairperson, Vice-Chairpersons, as well as Subject Representatives for each subject the class is taking (including non-examinable areas as determined by the teachers).</p>
                         <p>Students will have opportunities to volunteer for an appointment in the Committee or be nominated by the teacher if they are deemed suitable for a specific role (e.g., Class Chairperson).</p>
