@@ -38,7 +38,7 @@ on 30 Jan 2026)</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Students/Assessment Information Sche/Secondary_1A_B_C_Weighted_Assessment_Term_1__Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1A 1B 1C WA schedule Term1</a>
+<p><a href="/files/Students/Assessment Information Sche/Secondary_1A_B_C_Weighted_Assessment_Term_1__Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1A 1B 1C WA schedule Term 1</a>
 </p>
 <p></p>
 </li>
