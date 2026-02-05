@@ -1462,6 +1462,7 @@ h6,
     transition: .5s var(--ease-elastic-in-out-4);
     opacity: 1;
 }
+	
 @supports (content-visibility: auto) {
     details {
         content-visibility: auto;
