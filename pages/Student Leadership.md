@@ -1198,7 +1198,7 @@ h6,
     margin-inline: auto;
     margin-top: 1.5em;
     margin-bottom: var(--yck-space-s-xl);
-    grid-template-columns: repeat(auto-fit, minmax(240px, 0.5fr));
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
 }
 
 .yck-component .grid-item {
@@ -1207,6 +1207,7 @@ h6,
     gap: 0.5em;
     padding: var(--yck-spacing-unit);
     font-size: var(--yck-step-0);
+	  font-weight: 300;
     box-shadow: var(--shadow-1);
     transition:
         transform 0.5s,
