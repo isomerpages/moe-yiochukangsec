@@ -21,6 +21,59 @@ variant: markdown
   </div>
 </div>
 			</section>
+			<section id="carousels">
+    <div style="--width: 240px;
+                                            --height: 320px;
+                                            --quantity: 9;" class="carousel slider">
+        <div class="carousel list">
+            <div style="--position: 1" class="carousel item">
+                <div class="carousel card">
+                    <img src="https://placehold.co/400x300/cccccc/969696.png?font=lato">
+                </div>
+            </div>
+            <div style="--position: 2" class="carousel item">
+                <div class="carousel card">
+                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA4.png">
+                </div>
+            </div>
+            <div style="--position: 3" class="carousel item">
+                <div class="carousel card">
+                    <img src="https://placehold.co/240x320/1DA1F2/ffffff.jpg?text=TwitPost&amp;font=nunito">
+                </div>
+            </div>
+            <div style="--position: 4" class="carousel item">
+                <div class="carousel card">
+                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/CA1.png">
+                </div>
+            </div>
+            <div style="--position: 5" class="carousel item">
+                <div class="carousel card">
+                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/CA2.png">
+                </div>
+            </div>
+            <div style="--position: 6" class="carousel item">
+                <div class="carousel card">
+                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/CA3.png">
+                </div>
+            </div>
+            <div style="--position: 7" class="carousel item">
+                <div class="carousel card">
+                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA1.png">
+                </div>
+            </div>
+            <div style="--position: 8" class="carousel item">
+                <div class="carousel card">
+                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA2.png">
+                </div>
+            </div>
+            <div style="--position: 9" class="carousel item">
+                <div class="carousel card">
+                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA3.png">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 		</article>
 	</div>
 </div>
