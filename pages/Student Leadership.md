@@ -1194,6 +1194,7 @@ h6,
 /* 2. Auto-Fit Responsive Grid */
 .yck-component .autofit-grid {
     display: grid;
+	  width: 100%;
     gap: var(--yck-spacing-unit);
     margin-inline: auto;
     margin-top: 1.5em;
@@ -1204,7 +1205,7 @@ h6,
 .yck-component .grid-item {
     display: flex;
     flex-direction: row;
-    gap: 0.5em;
+    gap: 0.75em;
     padding: var(--yck-spacing-unit);
     font-size: var(--yck-step-0);
 	  font-weight: 300;
@@ -1218,7 +1219,7 @@ h6,
     outline: 1px solid #ccc;
     background: linear-gradient(135deg,
         rgba(255, 255, 255, 1) 0%,
-        rgba(255, 255, 255, 0) 100%);
+        rgba(250, 250, 250, 0.8) 100%);
     align-items: flex-start;
     justify-content: left;
 }
