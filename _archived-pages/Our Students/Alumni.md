@@ -3,6 +3,7 @@ title: Alumni
 permalink: /our-family/Alumni/
 description: ""
 variant: markdown
+third_nav_title: Our Students
 ---
 <div class="yck-component">
 	<div class="regular-flow">

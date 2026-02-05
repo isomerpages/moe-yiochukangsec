@@ -5,6 +5,7 @@ description: ""
 image: /images/Our Experience/The Horizon
   (newsletter)/the_horizon_sem_2_2023_issue_10.jpg
 variant: markdown
+third_nav_title: Our School
 ---
 <div class="yck-component">
 <p>The Horizon is published twice a year, one for each semester. It features

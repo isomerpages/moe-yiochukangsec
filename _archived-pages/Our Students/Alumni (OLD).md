@@ -1,10 +1,10 @@
 ---
-title: Alumni
-permalink: /archived-pages/alumni/
+title: Alumni (OLD)
+permalink: /archived-pages/alumni-old/
 description: ""
 variant: markdown
 image: /images/Icons/archive.png
-third_nav_title: Our Family
+third_nav_title: Our Students
 ---
 <ul class="jekyllcodex_accordion">
 

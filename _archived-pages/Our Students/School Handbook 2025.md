@@ -3,7 +3,7 @@ title: School Handbook 2025
 permalink: /archived-pages/our-family/school-handbook-2025/
 variant: markdown
 description: ""
-third_nav_title: Our Family
+third_nav_title: Our Students
 image: /images/Our Family/Students/YCKSS_STUDENT_HANDBOOK_2025.jpg
 ---
 <div class="yck-component">

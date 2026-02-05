@@ -4,6 +4,7 @@ permalink: /archived-pages/principals-letters-to-parents/
 description: ""
 variant: markdown
 image: /images/60th Anniversary/YCKLogo.svg
+third_nav_title: Our School
 ---
 ### **2022 Term 1**
 

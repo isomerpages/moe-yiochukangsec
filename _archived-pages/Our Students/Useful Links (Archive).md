@@ -4,6 +4,7 @@ permalink: /archived-pages/useful-links/
 description: ""
 variant: markdown
 image: /images/Icons/archive.png
+third_nav_title: Our Students
 ---
 <div class="yck-component">
 	<div class="regular-flow">

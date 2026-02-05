@@ -4,6 +4,7 @@ permalink: /archived-pages/in-our-school/
 description: ""
 variant: markdown
 image: /images/Icons/archive.png
+third_nav_title: Our Experience (Archive)
 ---
 <div class="yck-component" id="top">
     <h1>In Our School</h1>

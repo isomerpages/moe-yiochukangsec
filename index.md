@@ -44,16 +44,6 @@ sections:
       url: https://4d.silvrcraft.com/yckss360vt/index.htm
       image: /images/openhouse.jpg
       alt: YCKSS e-Open House
-  - infopic:
-      title: Alumni Reunion Invitation
-      subtitle: Connecting Home, Heart & Hope
-      id: infopic
-      description: We hope your presence will make this moment more memorable. Let's
-        make this reunion a new unforgettable story!
-      button: See you soon 😍
-      url: https://www.yiochukangsec.moe.edu.sg/our-family/our-alumni/index.html#reunion
-      image: /images/Our Family/Alumni/alumni_reunion_invite_2026_sm.png
-      alt: Image alt text
   - textcards:
       title: Our 60th Anniversary Celebrations
       subtitle: Our Home, Our Heart, Our Hope

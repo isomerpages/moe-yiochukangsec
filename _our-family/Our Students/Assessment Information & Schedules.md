@@ -15,7 +15,7 @@ and level.</p>
 <p><a href="/files/Students/Assessment Information Sche/YCKSS_Weighted_Assessment_Rules_and_Regulations.pdf" rel="noopener nofollow" target="_blank">Weighted Assessment Rules and Regulations </a>(updated
 on 30 Jan 2026)</p>
 <h4><strong>Weighted Assessment 2026 (Term 1)</strong></h4>
-<p>(updated on 30 Jan, 2026)</p>
+<p>(updated on5 Feb, 2026)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Students/Assessment Information Sche/Secondary_4_Weighted_Assessment_Schedule__Term_1__2026.pdf" rel="noopener nofollow" target="_blank">Sec 4 WA schedule Term 1</a>
@@ -34,11 +34,11 @@ on 30 Jan 2026)</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Students/Assessment Information Sche/Secondary_1D_E_FWeighted_Assessment_Term_1__Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1A 1B 1C WA schedule Term 1</a>
+<p><a href="/files/Students/Assessment Information Sche/Secondary_1D_E_FWeighted_Assessment_Term_1__Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1D 1E 1F WA schedule Term 1</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Students/Assessment Information Sche/Secondary_1D_E_FWeighted_Assessment_Term_1__Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1D 1E 1F WA schedule Term 1</a>
+<p><a href="/files/Students/Assessment Information Sche/Secondary_1A_B_C_Weighted_Assessment_Term_1__Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1A 1B 1C WA schedule Term 1</a>
 </p>
 <p></p>
 </li>
