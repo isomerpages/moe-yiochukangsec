@@ -1230,18 +1230,15 @@ h6,
 
 .yck-component .card01 {
     width: fit-content;
-    height: auto;
     background-color: var(--yck-orange100);
-    background: linear-gradient(145deg, var(--yck-orange400) 0%, var(--yck-orange900) 100%);
-    background-size: cover;
+    background: linear-gradient(0deg, var(--yck-orange400) 5%, var(--yck-orange900) 50%);
     color: white;
     border-radius: var(--yck-rounded-corners);
     overflow: hidden;
     position: relative;
-    perspective: 2000px;
+    perspective: 1000px;
     transition: all 0.65s var(--ease-squish-1);
     cursor: pointer;
-    padding: 1.05em !important;
 }
 
 .yck-component .card01-content {
@@ -1251,7 +1248,7 @@ h6,
 }
 
 .yck-component .card01:hover {
-    transform: scale(1.05);
+    transform: scale(1.1);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.35);
 }
 
@@ -1273,9 +1270,9 @@ h6,
 }
 
 .yck-component .card01 .card01-title {
-    font-size: var(--yck-step-1);
+    font-size: var(--yck-step-2);
     font-weight: 700;
-    margin-bottom: 2.25em;
+    margin-bottom: 1.25em;
     text-transform: uppercase;
     text-shadow: 2px 2px 3px rgba(206, 60, 60, .5), 3px 3px 4px rgba(0, 0, 0, 0.35);
 }
@@ -1288,7 +1285,7 @@ h6,
 }
 
 .yck-component .card01-content {
-    transform: translateY(60%);
+    transform: translateY(50%);
     transition: all 0.65s var(--ease-squish-1);
 }
 
