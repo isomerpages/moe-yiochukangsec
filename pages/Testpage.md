@@ -74,9 +74,19 @@ variant: markdown
         </div>
     </div>
 </section>
-		</article>
-	</div>
+<section>
+<div class="card01">
+  <div class="card01-content">
+    <p class="card01-title">Key Personnel In-Charge
+    </p><p class="card01-para">Mr Chen Weiguo Jeremy (Ext: 149)<br>Subject Head
+Student Leadership &amp; Student Well-Being</p>
+  </div>
 </div>
+</section></article></div>
+
+
+</div>
+
 
 <style>
 	/* ==========================================================================
@@ -710,6 +720,70 @@ h6,
   to {
     left: 100%;
   }
+}
+	
+.card01 {
+  width: fit-content;
+  height: auto;
+  background-color: #FF3CAC;
+  background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
+  color: white;
+  border-radius: var(--yck-rounded-corners);
+  overflow: hidden;
+  position: relative;
+  perspective: 2000px;
+  transition: all 0.5s cubic-bezier(0.23, 1, 0.320, 1);
+  cursor: pointer;
+  padding: 1em !important;
+}
+
+.card01-content {
+  padding: 20px;
+  position: relative;
+  z-index: 1;
+}
+
+.card01:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.card01:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 50%;
+  background-color: rgba(0, 0, 0, 0.1);
+  opacity: 0;
+  transition: all 0.5s cubic-bezier(0.23, 1, 0.320, 1);
+  z-index: 1;
+}
+
+.card01:hover:before {
+  opacity: 1;
+}
+
+.card01 .card01-title {
+  font-size: var(--yck-step-2);;
+  font-weight: 700;
+  margin-bottom: ;
+  text-transform: capitalize;
+}
+
+.card01 .card01-para {
+  font-size: var(--yck-step-0);
+  opacity: 0.8;
+}
+
+.card01-content {
+  transform: translateY(60%);
+  transition: all 0.5s cubic-bezier(0.23, 1, 0.320, 1);
+}
+
+.card01:hover .card01-content {
+  transform: translateY(0%);
 }
 
 </style>
