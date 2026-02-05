@@ -1200,6 +1200,7 @@ h6,
     margin-top: 1.5em;
     margin-bottom: var(--yck-space-s-xl);
     grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  	grid-auto-flow: row dense;
 }
 
 .yck-component .grid-item {
@@ -1219,7 +1220,7 @@ h6,
     outline: 1px solid #ccc;
     background: linear-gradient(135deg,
         rgba(255, 255, 255, 1) 0%,
-        rgba(250, 250, 250, 0.8) 100%);
+        rgba(240, 240, 240, 0.6) 100%);
     align-items: flex-start;
     justify-content: left;
 }
