@@ -133,7 +133,7 @@ image: /images/YCKLogo.svg
             </section>
             <section id="recognize_leaders">
                 <h3>Recognising our Student Leaders</h3>
-                <p>The school recognises the contributions and commitment of our Student Leaders.&nbsp; One way is by awarding them leadership attainment levels through the LEAPS 2.0 scheme.</p>
+                <p>The school recognises the contributions and commitment of our Student Leaders.&nbsp; One way is by awarding them leadership attainment levels through the <a target="_blank" class="text-link" href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0">LEAPS 2.0 framework.</a></p>
                 <p>Student Leaders are also officially invested through the Student Leaders' Investiture, a formal ceremony which recognises the appointment of the various groups of Student Leaders such as the Class Leaders, CCA Leaders, Sports Leaders and Student Councillors.&nbsp; Letters of Appointment and collar pins or badges are presented to the Student Leaders during the Investiture.&nbsp;</p>
                 <p>Certificates of Appreciation are also presented to the outgoing Student Leaders during the Investiture, as a mark of the school's appreciation towards their effort and contribution to the school.</p>
             </section>
