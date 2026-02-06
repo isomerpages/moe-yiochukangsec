@@ -1,99 +1,80 @@
 ---
-title: Testpage
-permalink: /testpage/
-description: ""
+title: SWC Activities (SPICEy)
+permalink: /swc-activities-spicey/
 variant: markdown
+description: ""
+image: /images/YCKLogo.svg
 ---
 <div class="yck-component">
-	<div class="regular-flow">
+	<div class="regular-class">
 		<article>
 			<section>
-<div class="card">
-  <div class="gradient"></div>
-  <p class="title">Key Personnel In-Charge</p>
-  <p class="label">
-    Subject Head<br>Student Leadership &amp; Student Well-Being
-  </p>
-  <div class="ico">
-    <div>
-      Mr Chen Weiguo Jeremy (Ext: 149)
-    </div>
-  </div>
-</div>
+				<h2>SPICEy ACTIVITIES FROM THE STAFF WELL-BEING COMMITTEE (SWC)</h2>
+				<p>The Staff Well-being Committee&nbsp;(SWC)&nbsp;adopts the&nbsp;<strong>SPICEy</strong>&nbsp;approach; looking into the&nbsp;<strong>S</strong>ocial, <strong>P</strong>hysical, <strong>I</strong>ntellectual, <strong>C</strong>haracter, <strong>E</strong>motional of the staff. The school aims to develop an engaged staff who care for self and others.</p>
 			</section>
-			<section id="carousels">
-    <div style="--width: 240px;
-                                            --height: 320px;
-                                            --quantity: 9;" class="carousel slider">
-        <div class="carousel list">
-            <div style="--position: 1" class="carousel item">
-                <div class="carousel card">
-                    <img src="https://placehold.co/400x300/cccccc/969696.png?font=lato">
-                </div>
-            </div>
-            <div style="--position: 2" class="carousel item">
-                <div class="carousel card">
-                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA4.png">
-                </div>
-            </div>
-            <div style="--position: 3" class="carousel item">
-                <div class="carousel card">
-                    <img src="https://placehold.co/240x320/1DA1F2/ffffff.jpg?text=TwitPost&amp;font=nunito">
-                </div>
-            </div>
-            <div style="--position: 4" class="carousel item">
-                <div class="carousel card">
-                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/CA1.png">
-                </div>
-            </div>
-            <div style="--position: 5" class="carousel item">
-                <div class="carousel card">
-                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/CA2.png">
-                </div>
-            </div>
-            <div style="--position: 6" class="carousel item">
-                <div class="carousel card">
-                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/CA3.png">
-                </div>
-            </div>
-            <div style="--position: 7" class="carousel item">
-                <div class="carousel card">
-                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA1.png">
-                </div>
-            </div>
-            <div style="--position: 8" class="carousel item">
-                <div class="carousel card">
-                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA2.png">
-                </div>
-            </div>
-            <div style="--position: 9" class="carousel item">
-                <div class="carousel card">
-                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA3.png">
-                </div>
+			<section>
+				<a href="/our-family/our-staff/staff-wellbeing-committee-activities/social/"><div class="category-card social">
+            <div class="category-content">
+                <h2 class="category-title">Social</h2>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21" class="arrow">
+                    <g transform="translate(3 2)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill-rule="evenodd" fill="none">
+                        <circle r="8" cy="8.5" cx="8.5"></circle>
+                        <path d="m9.5 11.5 3-3-3-3"></path>
+                        <path transform="matrix(0 1 -1 0 17 0)" d="m8.5 4.5v8"></path>
+                    </g>
+                </svg>
             </div>
         </div>
-    </div>
-</section>
-<section>
-<div class="card01">
-  <div class="card01-content">
-    <p class="card01-title">Key Personnel In-Charge
-    </p><p class="card01-para">Mr Chen Weiguo Jeremy (Ext: 149)<br>Subject Head
-Student Leadership &amp; Student Well-Being</p>
-  </div>
-</div>
-</section></article></div>
-
-
-</div>
-
+   </a>
+			</section>
+			<section>
+				<a href="/our-family/our-staff/staff-wellbeing-committee-activities/physical"><div class="category-card physical">
+            <div class="category-content">
+                <h2 class="category-title">Physical</h2>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21" class="arrow">
+                    <g transform="translate(3 2)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill-rule="evenodd" fill="none">
+                        <circle r="8" cy="8.5" cx="8.5"></circle>
+                        <path d="m9.5 11.5 3-3-3-3"></path>
+                        <path transform="matrix(0 1 -1 0 17 0)" d="m8.5 4.5v8"></path>
+                    </g>
+                </svg>
+            </div>
+	</div></a>
+			</section>
+			<section>
+				<a href="/our-family/our-staff/staff-wellbeing-committee-activities/intellectual"> <div class="category-card intellectual">
+            <div class="category-content">
+                <h2 class="category-title">Intellectual</h2>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21" class="arrow">
+                    <g transform="translate(3 2)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill-rule="evenodd" fill="none">
+                        <circle r="8" cy="8.5" cx="8.5"></circle>
+                        <path d="m9.5 11.5 3-3-3-3"></path>
+                        <path transform="matrix(0 1 -1 0 17 0)" d="m8.5 4.5v8"></path>
+                    </g>
+                </svg>
+            </div>
+				 </div></a>
+			</section>
+			<section>
+				<a href="/our-family/our-staff/staff-wellbeing-committee-activities/emotional"><div class="category-card emotional">
+            <div class="category-content">
+                <h2 class="category-title">Emotional</h2>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21" class="arrow">
+                    <g transform="translate(3 2)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill-rule="evenodd" fill="none">
+                        <circle r="8" cy="8.5" cx="8.5"></circle>
+                        <path d="m9.5 11.5 3-3-3-3"></path>
+                        <path transform="matrix(0 1 -1 0 17 0)" d="m8.5 4.5v8"></path>
+                    </g>
+							</svg>
+					</div>
+        </div>
+				</a></section>
+		</article>
+	</div>
+	</div>
 
 <style>
-	/* ==========================================================================
-   1. Custom Props
-========================================================================= */
-
-:root {
+	:root {
     --font-antique:
         Superclarendon, Bookman Old Style, URW Bookman, URW Bookman L, Georgia Pro, Georgia, serif;
     --font-classical-humanist:
@@ -195,7 +176,7 @@ Student Leadership &amp; Student Well-Being</p>
     --ratio-square: 1;
     --ratio-ultrawide: 18/5;
     --ratio-widescreen: 16/9;
-	
+
     --ease-1: cubic-bezier(.25, 0, .5, 1);
     --ease-2: cubic-bezier(.25, 0, .4, 1);
     --ease-3: cubic-bezier(.25, 0, .3, 1);
@@ -357,15 +338,6 @@ Student Leadership &amp; Student Well-Being</p>
     }
 }
 	
-/* Box Sizing */
-*,
-*::before,
-*::after {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
-
 html {
     font-size: 100%;
 }
@@ -548,242 +520,262 @@ h6,
 .yck-component li ol {
     margin-top: 0;
 }
-	
-/* Key Personnel In-Charge */
-.yck-component .card {
-  font-family: "Georgia", "Lato", "Poppins", sans-serif;
-  width: fit-content;
-  border-radius: 10px;
-  background-image: linear-gradient(to top left, rgba(36, 36, 36, 0.95) 0%, rgba(0, 0, 0, 0.5) 100%);
-  padding:1em 2em 1em 2em;
-  display: flex;
-  flex-direction: column;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-  position: relative;
-  overflow: hidden;
-  cursor: pointer;
+
+/* ================= Text Decorations ======================= */
+
+/* Selection Highlight */
+::selection {
+    background: rgba(255, 255, 0, 0.35);
 }
 
-.yck-component .cls-1 {
-  fill: #fff;
+/* BLOCKQUOTES */
+.yck-component .quote {
+    margin: 1em 1.4em 1em 5em;
+    padding: 1rem;
+    border-left: .35em solid rgba(166, 50, 50, 1);
+    border-radius: var(--yck-rounded-corners);
+    border-bottom: 2px dotted rgba(166, 50, 50, 0.7);
+    box-shadow: var(--inner-shadow-1);
+    transition: box-shadow .7s ease-in-out;
+
+    .blockquote {
+        font-family: var(--font-transitional);
+        font-size: var(--yck-step-0);
+        font-weight: 400;
+        line-height: 1.4em;
+        position: relative;
+    }
+
+    cite {
+        display: block;
+        text-align: right;
+        font-family: var(--font-transitional);
+        font-weight: 500;
+        font-style: oblique;
+        margin-top: 1rem;
+        margin-right: var(--yck-space-s-xl);
+        font-size: var(--yck-step--1);
+    }
+
+    .blockquote::before {
+        font-weight: 800;
+        font-style: oblique;
+        text-shadow: 2px 2px 3px rgba(206, 60, 60, .5), 3px 3px 4px rgba(0, 0, 0, 0.35);
+        content: "\201C";
+        color: rgba(166, 50, 50, 1);
+        font-size: calc(var(--yck-step-4) * 3);
+        position: absolute;
+        left: -0.9em;
+        top: 0.2em;
+    }
+
+    &:hover {
+        box-shadow: var(--inner-shadow-4);
+        transition: box-shadow .7s ease-in-out;
+    }
 }
 
-.yck-component .title {
-  font-size: 32px;
-  font-weight: 600;
-  color: #ffffff;
-  margin-bottom: 1em;
+/* Abbreviations */
+.yck-component abbr[title] {
+    font-family: var(--font-transitional);
+    font-weight: 600;
+    cursor: help;
+    transition: color 0.7s ease-out;
+    text-decoration: underline dotted;
+    color: var(--yck-green800);
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+
+    &:hover,
+    &:active,
+    &:focus {
+        transition: color 0.7s ease-in;
+        color: var(--yck-green600);
+    }
 }
 
-.yck-component .label {
-  font-size: 20px;
-  color: #efefef;
-  opacity: 0.5;
-  line-height: 1.4;
-  font-weight: 200;
-  margin-bottom: 3em;
-  transition: right 0.5s ease-in-out, opacity 0.5s ease;
-  margin-left: 1em;
+/* Dropcaps First Letter */
+.yck-component .dropcap-title {
+    margin-bottom: 0.5em;
+    font-weight: 500;
+    font-size: var(--yck-step-1);
+    font-family: var(--font-antique), serif;
+    color: var(--yck-color-text-primary);
+
+    &::first-letter {
+        float: left;
+        padding-right: 0.1em;
+        font-family: var(--font-antique), serif;
+        font-size: calc(var(--yck-step-5) * 1.65);
+        font-style: oblique;
+        font-weight: bold;
+        line-height: 0.9;
+        color: var(--yck-green700);
+        text-shadow:
+            1px 1px 0 var(--yck-green600),
+            2px 2px 0 var(--yck-green500),
+            3px 3px 4px rgba(0, 0, 0, 0.35);
+    }
 }
 
-.yck-component .ico {
-  position: absolute;
-  color: #efefef;
-  font-family: "Verdana", "Tahoma", "Nunito", "Lato", sans-serif;
-  font-size: 1.25em;
-  font-weight: 500;
-  bottom: 0.25em;
-  left: 72px;
-  display: flex;
-  opacity: 0;
-  transition: left 0.5s ease-in-out, opacity 0.3s ease;
+/* HREF links */
+.yck-component a {
+    transition: color 0.8s ease;
+    text-decoration: none;
+    color: var(--yck-orange600);
 }
 
-.yck-component .card::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0;
-  bottom: 0;
-  width: 10px;
-  background-image: linear-gradient(to bottom, darkorange, yellow, lightyellow);
-  border-radius: 10px 0 0 10px;
-  transition: width 0.5s ease-in-out;
+.yck-component a:hover,
+.yck-component a:active {
+    color: var(--yck-orange500);
 }
 
-.yck-component .card:hover::before {
-  width: 20px;
+.yck-component a:focus {
+    color: currentColor;
 }
 
-.yck-component .card:hover {
-  border-left-width: 18px;
+.yck-component a:visited {
+    color: var(--yck-green500);
 }
 
-.yck-component .title,
-.yck-component .label {
-  transition: transform 0.5s ease-in-out;
+.yck-component a.text-link {
+    position: relative;
+    padding-bottom: 2px;
+    text-decoration: none;
 }
 
-.yck-component .card:hover .title,
-.yck-component .card:hover .label {
-  transform: translateX(20px);
+.yck-component a.text-link img {
+    display: inline-block;
+    width: var(--yck-step-0);
+    height: var(--yck-step-0);
+    object-fit: contain;
+    vertical-align: middle;
 }
 
-.yck-component .card:hover .ico {
-  left: 52px;
-  opacity: 0.8;
+.yck-component a.text-link::after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    content: "";
+    transition: width 1s var(--ease-elastic-in-out-4);
+    background-color: currentColor;
 }
 
-.yck-component .gradient {
-  position: absolute;
-  top: -200px;
-  left: -200px;
-  width: 600px;
-  height: 600px;
-  background: #ffffff;
-  border-radius: 50%;
-  filter: blur(300px);
-  opacity: 0;
-  transition: opacity 0.5s ease-in-out;
+.yck-component a.text-link:hover::after,
+.yck-component a.text-link:active::after,
+.yck-component a.text-link:focus::after {
+    width: 100%;
 }
 
-.yck-component .card:hover .gradient {
-  opacity: 0.4;
-}
-	
-/* --- Carousel --- */
-
-.yck-component .carousel.card {
-  width: 100%;
-  height: 100%;
-  padding: 1em;
-  border: 1px solid #ccc;
-  border-radius: var(--yck-rounded-corners);
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  color: whitesmoke;
-  text-align: center;
+.yck-component a[target="_blank"]:not(.text-link)::before,
+.yck-component a[target="_blank"]:not(.text-link)::after,
+.yck-component a:not(.text-link)::before,
+.yck-component a:not(.text-link)::after {
+    display: none !important;
 }
 
-.yck-component .carousel.card p {
-  font-size: var(--yck-step-0);
-  color: var(--neutral-800);
+
+
+/* --- Category Card Styles --- */
+.yck-component .category-card {
+    position: relative;
+    height: 280px;
+    border-radius: 15px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: transform 0.5s var(--yck-transition-timing), box-shadow 0.5s var(--yck-transition-timing);
+
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    color: white !important;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: calc(var(--yck-spacing-unit)*2);
+    /* MODIFICATION: Removed flex properties to use absolute positioning for the content */
 }
 
-.yck-component .carousel.slider {
-  width: 100%;
-  height: var(--height);
-  overflow: hidden;
-  mask-image: linear-gradient(to right, transparent, #000 10% 90%, transparent);
-}
-.yck-component .carousel.slider .list {
-  display: flex;
-  width: 100%;
-  min-width: calc(var(--width) * var(--quantity));
-  position: relative;
-}
-.yck-component .carousel.slider .list .item {
-  width: var(--width);
-  height: var(--height);
-  position: absolute;
-  left: 100%;
-  animation: autoRun 30s linear infinite;
-  transition: filter 1.5s;
-  animation-delay: calc(
-    (30s / var(--quantity)) * (var(--position) - 1) - 30s
-  ) !important;
-}
-.yck-component .carousel.slider .list .item img {
-  width: 100%;
-}
-@keyframes autoRun {
-  from {
-    left: 100%;
-  }
-  to {
-    left: calc(var(--width) * -1);
-  }
-}
-.yck-component .carousel.slider:hover .item {
-  animation-play-state: paused !important;
-  filter: grayscale(1);
-}
-.yck-component .carousel.slider .item:hover {
-  filter: grayscale(0);
-}
-.yck-component .carousel.slider[reverse="false"] .item {
-  animation: reversePlay 10s linear infinite;
-}
-@keyframes reversePlay {
-  from {
-    left: calc(var(--width) * -1);
-  }
-  to {
-    left: 100%;
-  }
-}
-	
-.card01 {
-  width: fit-content;
-  height: auto;
-  background-color: #FF3CAC;
-  background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
-  color: white;
-  border-radius: var(--yck-rounded-corners);
-  overflow: hidden;
-  position: relative;
-  perspective: 2000px;
-  transition: all 0.5s cubic-bezier(0.23, 1, 0.320, 1);
-  cursor: pointer;
-  padding: 1em !important;
+.yck-component .category-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
 }
 
-.card01-content {
-  padding: 20px;
-  position: relative;
-  z-index: 1;
+/* Dark gradient overlay */
+.yck-component .category-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(45deg, rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.05));
+    z-index: 1;
 }
 
-.card01:hover {
-  transform: scale(1.05);
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+/* --- Background Images for each card --- */
+.yck-component .physical {
+    background-image: url('https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Physical/OliveRun_3a.jpg');
 }
 
-.card01:before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 50%;
-  background-color: rgba(0, 0, 0, 0.1);
-  opacity: 0;
-  transition: all 0.5s cubic-bezier(0.23, 1, 0.320, 1);
-  z-index: 1;
+.yck-component .intellectual {
+    background-image: url('https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Intellectual/i3c_sm.jpg');
 }
 
-.card01:hover:before {
-  opacity: 1;
+.yck-component .emotional {
+    background-image: url('https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Emotional/e6_yellow_sm.jpg');
 }
 
-.card01 .card01-title {
-  font-size: var(--yck-step-2);;
-  font-weight: 700;
-  margin-bottom: ;
-  text-transform: capitalize;
+.yck-component .social {
+    background-image: url('https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2025_durians_kiwi01.jpg');
 }
 
-.card01 .card01-para {
-  font-size: var(--yck-step-0);
-  opacity: 0.8;
+/* Content container */
+.yck-component .category-content {
+    /* MODIFICATION: Using absolute positioning to lock content to the bottom */
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    box-sizing: border-box;
+    /* Ensures padding is included in the element's width */
+
+    z-index: 200;
+    display: flex;
+    justify-content: space-between;
+
+    /* MODIFICATION: Align items to the bottom */
+    align-items: flex-end;
+
+    /* MODIFICATION: Reduced bottom padding to decrease space */
+    padding: 40px 40px 16px;
 }
 
-.card01-content {
-  transform: translateY(60%);
-  transition: all 0.5s cubic-bezier(0.23, 1, 0.320, 1);
+.yck-component .category-title {
+    font-size: 5.5vmin;
+    font-weight: bold;
+    color: white !important;
+    z-index: 200;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
+    padding: 0;
+    margin: 0;
+    text-transform: uppercase;
 }
 
-.card01:hover .card01-content {
-  transform: translateY(0%);
+/* --- Arrow Icon --- */
+.yck-component .arrow {
+    height: 4em;
+    width: 4em;
+    transition: transform 0.5s var(--yck-transition-timing);
+    flex-shrink: 0;
+	color: white;
+
+    /* MODIFICATION: Removed bottom margin and padding to allow for proper alignment */
+    margin-left: 40px;
+    filter: drop-shadow(2px 2px 3px rgba(0, 0, 0, 0.5));
 }
 
+.yck-component .category-card:hover .arrow {
+    transform: scale(1.4);
+}
 </style>
