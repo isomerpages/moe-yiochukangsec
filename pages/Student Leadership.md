@@ -34,23 +34,23 @@ image: /images/YCKLogo.svg
                     <img alt="Leadership Development Image" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/Student%20Leadership/S2.png">
                 </figure>
                 <div class="flex-wrap">
-                    <div class="cards yck__flexitem flex-grow__loose">
+                    <div class="cards yck__flexitem flex-grow justify-start align-start">
                         <h5>Secondary One ... </h5>
-                        <p>students earn about <strong>self-leadership</strong> through their level camp which seeks to help them affirm their strengths, needs and values, and to also apply the skills they learnt to facilitate a smoother transition from primary to secondary school.</p>
+                        <p>students learn about <strong>self-leadership</strong> through their <a class="text-link" href="https://www.yiochukangsec.moe.edu.sg/our-experience/in-our-school/#levelcamp">level camp</a> which seeks to help them affirm their strengths, needs and values, and to also apply the skills they learnt to facilitate a smoother transition from primary to secondary school.</p>
                     </div>
-                    <div class="cards yck__flexitem flex-grow__loose">
+                    <div class="cards yck__flexitem flex-grow justify-start align-start">
                         <h5>Secondary Two ... </h5>
-                        <p>students learn about <strong>peer leadership</strong> through their level camp, where they are taught to appreciate diversity through working with others.&nbsp; This would also help students to foster a better understanding of their peers, sharpening their teamwork, inter-personal skills, and social awareness.</p>
+                        <p>students learn about <strong>peer leadership</strong> through their <a class="text-link" href="https://www.yiochukangsec.moe.edu.sg/our-experience/in-our-school/#levelcamp">level camp</a>, where they are taught to appreciate diversity through working with others.&nbsp; This would also help students to foster a better understanding of their peers, sharpening their teamwork, inter-personal skills, and social awareness.</p>
                     </div>
                 </div>
                 <div class="flex-wrap">
-                    <div class="cards yck__flexitem flex-grow__loose">
+                     <div class="cards yck__flexitem flex-grow justify-start align-start">
                         <h5>Secondary Three ...</h5>
                         <p>students have the opportunity to exercise <strong>peer- and community leadership</strong> through their Service Learning through Issues Investigation project. This requires students to conceptualise, plan and execute a project that can serve the needs of others within the community.</p>
                     </div>
-                    <div class="cards yck__flexitem flex-grow__loose">
-                        <h5><a class="text-link" href="/our-family/our-alumni/"><span class="yck-h5">Our Alumni ...</span></a></h5>
-                        <p>continue to contribute to the school even after graduation. They are grateful for the various opportunities given to them during their schooling days in Yio Chu Kang Secondary School and hence <strong>pay it forward by giving back to the school</strong>. They mentor their juniors and share valuable knowledge to help others in their CCAs, or in the various Student Leadership groups. Some alumni have also been invited to share their experiences through school-wide talks.</p>
+                    <div class="cards yck__flexitem flex-grow justify-start align-start">
+                        <h5>Our Alumni ...</h5>
+                        <p>continue to contribute to the school even after graduation. They are grateful for the various opportunities given to them during their schooling days in Yio Chu Kang Secondary School and hence <strong>pay it forward by giving back to the school</strong>. They mentor their juniors and share valuable knowledge to help others in their CCAs, or in the various Student Leadership groups. Some <strong><a class="text-link" href="/our-family/our-alumni/">alumni</a></strong> have also been invited to share their experiences through school-wide talks.</p>
                     </div>
                 </div>
                 <p>At all levels, students continue to have opportunities to take on informal leadership roles through projects or school events. We firmly believe that all students can be a leader as they demonstrate self-leadership through positive role-modelling.</p>
@@ -74,21 +74,21 @@ image: /images/YCKLogo.svg
                 <p>Students who are identified with the potential and suitability to take on official appointments within the class (i.e. Class Leaders), CCA (i.e. CCA Leaders) or at school-level (i.e. Student Councillors and Sports Leaders) will be given different opportunities and platforms to develop their leadership competencies.</p>
                 <p>The following outlines the key groups of Student Leaders in Yio Chu Kang Secondary School.</p>
                 <details name="studlead">
-                    <summary class="yck-h5">Class Leaders</summary>
+                    <summary class="yck-h6">Class Leaders</summary>
                     <div class="content">
                         <p>Class Leaders play an integral role in forging a strong class spirit while assisting teachers with simple administrative duties. A Class Committee is established in every class and comprises a Class Chairperson, Vice-Chairpersons, as well as Subject Representatives for each subject the class is taking (including non-examinable areas as determined by the teachers).</p>
                         <p>Students will have opportunities to volunteer for an appointment in the Committee or be nominated by the teacher if they are deemed suitable for a specific role (e.g., Class Chairperson).</p>
                     </div>
                 </details>
                 <details name="studlead">
-                    <summary>Peer Support Leaders</summary>
+                   <summary class="yck-h6">Peer Support Leaders</summary>
                     <div class="content">
                         <p>Peer Support will be appointed within each class to actively look out for their peers and promote help-seeking and help-giving behaviour. Students with suitable dispositions or leadership qualities may be nominated by their teachers and appointed as Peer Support Leaders.</p>
                         <p>This group of Student Leaders will play a crucial role in forging a caring school community with strong networks of positive relationships within and beyond the classroom, to ensure members of the school community feel safe and have a sense of belonging.</p>
                     </div>
                 </details>
                 <details name="studlead">
-                    <summary>Student Councillors</summary>
+                 <summary class="yck-h6">Student Councillors</summary>
                     <div class="content">
                         <p>Student Councillors advocate for the student body on general schooling or student matters. Student Councillors work in close partnership with the school management, staff, and students to surface key concerns amongst students and propose suggested solutions. They also have opportunity to plan and implement school-wide activities and serve in key school events.</p>
                         <p>This leadership opportunity is suitable for students who are keen to serve the school and student body. Interested Secondary 1 or 2 students can apply; however, only suitable students will be appointed following several rounds of selections by a team of teachers.</p>
@@ -96,14 +96,14 @@ image: /images/YCKLogo.svg
                     </div>
                 </details>
                 <details name="studlead">
-                    <summary>Sports Leaders</summary>
+                    <summary class="yck-h6">Sports Leaders</summary>
                     <div class="content">
                         <p>Sports Leaders are sports ambassadors and advocates of an active and healthy lifestyle. Similar to their peers in the Student Council, the Sports Leaders work in close partnership with the school management, staff, and students to plan and implement school-wide sporting- and health-related activities. They also have opportunity to support sports events beyond the school-level.</p>
                         <p>This leadership opportunity is suitable for students with a strong passion for sports and sporting-related activities. Interested Secondary 1 or 2 students can apply; however, only suitable students will be appointed following several rounds of selections by a team of teachers.</p>
                     </div>
                 </details>
                 <details name="studlead">
-                    <summary>CCA Leaders</summary>
+                    <summary class="yck-h6">CCA Leaders</summary>
                     <div class="content">
                         <p>CCA Leaders are appointed in each CCA. They work closely with the CCA teachers-in-charge to shape the culture of the CCA, mentor their juniors, as well as role-model positive qualities that are key to achieving success in the various CCAs (e.g., commitment, sportsmanship, discipline).</p>
                         <p>Depending on the needs and profile of the CCA, CCA Leaders are often appointed at Secondary 2 and/ or 3. The appointment of CCA Leader(s) is done by the CCA teachers-in-charge after close discussion and careful deliberation.</p>
@@ -1184,10 +1184,10 @@ h6,
 
 .yck-component .cards.yck__flexitem {
     font-size: var(--yck-step--2);
+	  margin-block: 1rem;
+	  padding-inline: 0.5rem;
     background: linear-gradient(135deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
     flex: 1 0 calc(33% - var(--yck-spacing-unit));
-    justify-content: flex-start;
-    align-content: flex-start;
     transition: all 1s var(--ease-elastic-in-out-4);
 }
 
