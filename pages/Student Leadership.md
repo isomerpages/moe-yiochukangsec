@@ -73,18 +73,25 @@ image: /images/YCKLogo.svg
                 <h3>Additional Student Leadership Opportunities</h3>
                 <p>Students who are identified with the potential and suitability to take on official appointments within the class (i.e. Class Leaders), CCA (i.e. CCA Leaders) or at school-level (i.e. Student Councillors and Sports Leaders) will be given different opportunities and platforms to develop their leadership competencies.</p>
                 <p>The following outlines the key groups of Student Leaders in Yio Chu Kang Secondary School.</p>
-                <details name="studlead">
+                <details open="" name="studlead">
                     <summary class="yck-h6">Class Leaders</summary>
                     <div class="content">
-                        <p>Class Leaders play an integral role in forging a strong class spirit while assisting teachers with simple administrative duties. A Class Committee is established in every class and comprises a Class Chairperson, Vice-Chairpersons, as well as Subject Representatives for each subject the class is taking (including non-examinable areas as determined by the teachers).</p>
-                        <p>Students will have opportunities to volunteer for an appointment in the Committee or be nominated by the teacher if they are deemed suitable for a specific role (e.g., Class Chairperson).</p>
+                        <p>Class Leaders play an integral role in forging a strong class spirit while assisting teachers with simple administrative duties. A Class Committee is established in every class and comprises a Class Chairperson, Vice-Chairpersons, as well as Subject Representatives for each subject the class is taking <i>(including non-examinable areas as determined by the teachers).</i></p>
+                        <p>Students will have opportunities to volunteer for an appointment in the Committee or be nominated by the teacher if they are deemed suitable for a specific role <i>(e.g., Class Chairperson).</i></p>
                     </div>
                 </details>
                 <details name="studlead">
                    <summary class="yck-h6">Peer Support Leaders</summary>
                     <div class="content">
-                        <p>Peer Support will be appointed within each class to actively look out for their peers and promote help-seeking and help-giving behaviour. Students with suitable dispositions or leadership qualities may be nominated by their teachers and appointed as Peer Support Leaders.</p>
+                        <p>Peer Support Leaders will be appointed within each class to actively look out for their peers and promote help-seeking and help-giving behaviour. Students with suitable dispositions or leadership qualities may be nominated by their teachers and appointed as Peer Support Leaders.</p>
                         <p>This group of Student Leaders will play a crucial role in forging a caring school community with strong networks of positive relationships within and beyond the classroom, to ensure members of the school community feel safe and have a sense of belonging.</p>
+                    </div>
+                </details>
+                <details name="studlead">
+                    <summary class="yck-h6">CCA Leaders</summary>
+                    <div class="content">
+                        <p>CCA Leaders are appointed in each CCA. They work closely with the CCA teachers-in-charge to shape the culture of the CCA, mentor their juniors, as well as role-model positive qualities that are key to achieving success in the various CCAs (e.g., commitment, sportsmanship, discipline).</p>
+                        <p>Depending on the needs and profile of the CCA, CCA Leaders are often appointed at Secondary 2 and/ or 3. The appointment of CCA Leader(s) is done by the CCA teachers-in-charge after close discussion and careful deliberation.</p>
                     </div>
                 </details>
                 <details name="studlead">
@@ -100,13 +107,6 @@ image: /images/YCKLogo.svg
                     <div class="content">
                         <p>Sports Leaders are sports ambassadors and advocates of an active and healthy lifestyle. Similar to their peers in the Student Council, the Sports Leaders work in close partnership with the school management, staff, and students to plan and implement school-wide sporting- and health-related activities. They also have opportunity to support sports events beyond the school-level.</p>
                         <p>This leadership opportunity is suitable for students with a strong passion for sports and sporting-related activities. Interested Secondary 1 or 2 students can apply; however, only suitable students will be appointed following several rounds of selections by a team of teachers.</p>
-                    </div>
-                </details>
-                <details name="studlead">
-                    <summary class="yck-h6">CCA Leaders</summary>
-                    <div class="content">
-                        <p>CCA Leaders are appointed in each CCA. They work closely with the CCA teachers-in-charge to shape the culture of the CCA, mentor their juniors, as well as role-model positive qualities that are key to achieving success in the various CCAs (e.g., commitment, sportsmanship, discipline).</p>
-                        <p>Depending on the needs and profile of the CCA, CCA Leaders are often appointed at Secondary 2 and/ or 3. The appointment of CCA Leader(s) is done by the CCA teachers-in-charge after close discussion and careful deliberation.</p>
                     </div>
                 </details>
                 <p>To forge a caring school community where students feel safe and have a sense of belonging, the school has been strengthening its efforts in peer support and relationships.&nbsp; To this end, students with suitable dispositions or leadership qualities have been identified and appointed <strong>Peer Support Ambassadors</strong>.</p>
