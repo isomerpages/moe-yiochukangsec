@@ -4,29 +4,68 @@ permalink: /testpage/
 description: ""
 variant: markdown
 ---
-
-![](/images/Our%20Family/Staff/SWC%20Activities/Physical/5_Physical_Aerobics.jpg)
-![](/images/Our%20Family/Staff/SWC%20Activities/Physical/6_Physical_Aerobics.jpg)
-![](/images/Our%20Family/Staff/SWC%20Activities/Physical/7_Physical_Aerobics.jpg)
-![](/images/Our%20Family/Staff/SWC%20Activities/Physical/8_Physical_Aerobics.jpg)
-![](/images/Our%20Family/Staff/SWC%20Activities/Physical/9_Physical_Aerobics.jpg)
-![](/images/Our%20Family/Staff/SWC%20Activities/Physical/10_Physical_Aerobics.jpg)
-![](/images/Our%20Family/Staff/SWC%20Activities/Physical/11_Physical_Aerobics.jpg)
-![](/images/Our%20Family/Staff/SWC%20Activities/Physical/12_Physical_Aerobics.jpg)
-![](/images/Our%20Family/Staff/SWC%20Activities/Physical/13_Physical_Aerobics.jpg)
-![](/images/Our%20Family/Staff/SWC%20Activities/Physical/14_Physical_Aerobics.jpg)
-![](/images/Our%20Family/Staff/SWC%20Activities/Physical/15_Physical_Aerobics.jpg)
-![](/images/Our%20Family/Staff/SWC%20Activities/Physical/16_Physical_Aerobics.jpg)
-![](/images/Our%20Family/Staff/SWC%20Activities/Physical/17_Physical_Aerobics.jpg)
-![](/images/Our%20Family/Staff/SWC%20Activities/Physical/18_Physical_Aerobics.jpg)
-![](/images/Our%20Family/Staff/SWC%20Activities/Physical/19_Physical_Aerobics.jpg)
-![](/images/Our%20Family/Staff/SWC%20Activities/Physical/1_Physical_ActiveHealthLife.jpg)
-![](/images/Our%20Family/Staff/SWC%20Activities/Physical/2_Physical_ActiveHealthLife.jpg)
-![](/images/Our%20Family/Staff/SWC%20Activities/Physical/3_Physical_ActiveHealthLife.jpg)
-![](/images/Our%20Family/Staff/SWC%20Activities/Physical/4_Physical_ActiveHealthLife.jpg)
 <div class="yck-component">
 	<div class="regular-flow">
 		<article>
+			<section>
+				<figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/5_Physical_Aerobics.jpg">
+</figure>
+<figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/6_Physical_Aerobics.jpg">
+</figure>
+<figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/7_Physical_Aerobics.jpg">
+</figure>
+<figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/8_Physical_Aerobics.jpg">
+</figure>
+<figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/9_Physical_Aerobics.jpg">
+</figure>
+<figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/10_Physical_Aerobics.jpg">
+</figure>
+<figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/11_Physical_Aerobics.jpg">
+</figure>
+<figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/12_Physical_Aerobics.jpg">
+</figure>
+<figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/13_Physical_Aerobics.jpg">
+</figure>
+<figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/14_Physical_Aerobics.jpg">
+</figure>
+<figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/15_Physical_Aerobics.jpg">
+</figure>
+<figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/16_Physical_Aerobics.jpg">
+</figure>
+<figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/17_Physical_Aerobics.jpg">
+</figure>
+<figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/18_Physical_Aerobics.jpg">
+</figure>
+<figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/19_Physical_Aerobics.jpg">
+</figure>
+<figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/1_Physical_ActiveHealthLife.jpg">
+</figure>
+<figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/2_Physical_ActiveHealthLife.jpg">
+</figure>
+<figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/3_Physical_ActiveHealthLife.jpg">
+</figure>
+<figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/4_Physical_ActiveHealthLife.jpg">
+</figure>
+			</section>
 			<section>
 <div class="card">
   <div class="gradient"></div>
@@ -568,6 +607,36 @@ h6,
 .yck-component li ol {
     margin-top: 0;
 }
+	
+/* ====== Figures (Images) & Figcaptions ============ */
+.yck-component figure,
+.yck-component .figure {
+    display: block;
+    border-radius: var(--yck-rounded-corners);
+    padding: 0 !important;
+    overflow: hidden;
+}
+
+.yck-component figure img,
+.yck-component .figure img {
+    width: 100%;
+    background-size: cover;
+    border-radius: var(--yck-rounded-corners);
+    object-fit: cover;
+    overflow: hidden;
+}
+
+.yck-component :is(figcaption, .caption) {
+    display: block;
+    padding: 0.25em !important;
+    margin: 0 auto !important;
+    font-family: var(--font-old-style);
+    font-size: var(--yck-step--1);
+    font-style: oblique;
+    font-weight: 300;
+    text-align: center;
+}
+
 	
 /* Key Personnel In-Charge */
 .yck-component .card {
