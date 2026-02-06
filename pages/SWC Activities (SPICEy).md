@@ -11,6 +11,67 @@ image: /images/YCKLogo.svg
 			<section>
 				<h2>ACTIVITIES FROM THE STAFF WELL-BEING COMMITTEE (SWC)</h2>
 				<p>The Staff Well-being Committee&nbsp;(SWC)&nbsp;adopts the&nbsp;<strong>SPICEy</strong>&nbsp;approach; looking into the&nbsp;<strong>S</strong>ocial, <strong>P</strong>hysical, <strong>I</strong>ntellectual, <strong>C</strong>haracter, <strong>E</strong>motional of the staff. The school aims to develop an engaged staff who care for self and others.</p>
+			</section>
+			<section>
+				<a href="/our-family/our-staff/staff-wellbeing-committee-activities/social/"><div class="category-card social">
+            <div class="category-content">
+                <h2 class="category-title">Social</h2>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21" class="arrow">
+                    <g transform="translate(3 2)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill-rule="evenodd" fill="none">
+                        <circle r="8" cy="8.5" cx="8.5"></circle>
+                        <path d="m9.5 11.5 3-3-3-3"></path>
+                        <path transform="matrix(0 1 -1 0 17 0)" d="m8.5 4.5v8"></path>
+                    </g>
+                </svg>
+            </div>
+        </div>
+   </a>
+			</section>
+			<section>
+				<a href="/our-family/our-staff/staff-wellbeing-committee-activities/physical"><div class="category-card physical">
+            <div class="category-content">
+                <h2 class="category-title">Physical</h2>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21" class="arrow">
+                    <g transform="translate(3 2)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill-rule="evenodd" fill="none">
+                        <circle r="8" cy="8.5" cx="8.5"></circle>
+                        <path d="m9.5 11.5 3-3-3-3"></path>
+                        <path transform="matrix(0 1 -1 0 17 0)" d="m8.5 4.5v8"></path>
+                    </g>
+                </svg>
+            </div>
+	</div></a>
+			</section>
+			<section>
+				<a href="/our-family/our-staff/staff-wellbeing-committee-activities/intellectual"> <div class="category-card intellectual">
+            <div class="category-content">
+                <h2 class="category-title">Intellectual</h2>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21" class="arrow">
+                    <g transform="translate(3 2)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill-rule="evenodd" fill="none">
+                        <circle r="8" cy="8.5" cx="8.5"></circle>
+                        <path d="m9.5 11.5 3-3-3-3"></path>
+                        <path transform="matrix(0 1 -1 0 17 0)" d="m8.5 4.5v8"></path>
+                    </g>
+                </svg>
+            </div>
+				 </div></a>
+			</section>
+			<section>
+				<a href="/our-family/our-staff/staff-wellbeing-committee-activities/emotional"><div class="category-card emotional">
+            <div class="category-content">
+                <h2 class="category-title">Emotional</h2>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21" class="arrow">
+                    <g transform="translate(3 2)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill-rule="evenodd" fill="none">
+                        <circle r="8" cy="8.5" cx="8.5"></circle>
+                        <path d="m9.5 11.5 3-3-3-3"></path>
+                        <path transform="matrix(0 1 -1 0 17 0)" d="m8.5 4.5v8"></path>
+                    </g>
+							</svg>
+					</div>
+        </div>
+				</a></section>
+		</article>
+	</div>
+	</div>
 
 <style>
 	:root {
@@ -717,4 +778,4 @@ h6,
 .yck-component .category-card:hover .arrow {
     transform: scale(1.4);
 }
-</style></section></article></div></div>
+</style>
