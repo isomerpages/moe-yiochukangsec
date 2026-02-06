@@ -9,7 +9,7 @@ image: /images/YCKLogo.svg
 	<div class="regular-class">
 		<article>
 			<section>
-				<h2>ACTIVITIES FROM THE STAFF WELL-BEING COMMITTEE (SWC)</h2>
+				<h2>SPICEy ACTIVITIES FROM THE STAFF WELL-BEING COMMITTEE (SWC)</h2>
 				<p>The Staff Well-being Committee&nbsp;(SWC)&nbsp;adopts the&nbsp;<strong>SPICEy</strong>&nbsp;approach; looking into the&nbsp;<strong>S</strong>ocial, <strong>P</strong>hysical, <strong>I</strong>ntellectual, <strong>C</strong>haracter, <strong>E</strong>motional of the staff. The school aims to develop an engaged staff who care for self and others.</p>
 			</section>
 			<section>
