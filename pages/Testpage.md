@@ -67,67 +67,107 @@ variant: markdown
 </figure>
 			</section>
 			<section>
-<div class="card">
-  <div class="gradient"></div>
-  <p class="title">Key Personnel In-Charge</p>
-  <p class="label">
-    Subject Head<br>Student Leadership &amp; Student Well-Being
-  </p>
-  <div class="ico">
-    <div>
-      Mr Chen Weiguo Jeremy (Ext: 149)
-    </div>
-  </div>
-</div>
-			</section>
-			<section id="carousels">
-    <div style="--width: 240px;
-                                            --height: 320px;
-                                            --quantity: 9;" class="carousel slider">
+<div style="--width: 640px;
+                                            --height: 480px;
+                                            --quantity: 4;" class="carousel slider">
         <div class="carousel list">
             <div style="--position: 1" class="carousel item">
                 <div class="carousel card">
-                    <img src="https://placehold.co/400x300/cccccc/969696.png?font=lato">
+									<figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/1_Physical_ActiveHealthLife.jpg">
+</figure>
                 </div>
             </div>
             <div style="--position: 2" class="carousel item">
                 <div class="carousel card">
-                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA4.png">
+                    <figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/2_Physical_ActiveHealthLife.jpg">
+</figure>
                 </div>
             </div>
             <div style="--position: 3" class="carousel item">
                 <div class="carousel card">
-                    <img src="https://placehold.co/240x320/1DA1F2/ffffff.jpg?text=TwitPost&amp;font=nunito">
+                    <figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/3_Physical_ActiveHealthLife.jpg">
+</figure>
                 </div>
             </div>
             <div style="--position: 4" class="carousel item">
                 <div class="carousel card">
-                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/CA1.png">
+                    <figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/4_Physical_ActiveHealthLife.jpg">
+</figure>
+                </div>
+            </div>
+        </div>
+    </div>
+			</section>
+			<section id="carousels">
+    <div style="--width: 480px;
+                                            --height: 270px;
+                                            --quantity: 15;" class="carousel slider">
+        <div class="carousel list">
+            <div style="--position: 1" class="carousel item">
+                <div class="carousel card">
+                    <figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/5_Physical_Aerobics.jpg">
+</figure>
+                </div>
+            </div>
+            <div style="--position: 2" class="carousel item">
+                <div class="carousel card">
+                    <figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/6_Physical_Aerobics.jpg">
+</figure>
+                </div>
+            </div>
+            <div style="--position: 3" class="carousel item">
+                <div class="carousel card">
+                   <figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/7_Physical_Aerobics.jpg">
+</figure>
+                </div>
+            </div>
+            <div style="--position: 4" class="carousel item">
+                <div class="carousel card">
+                    <figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/8_Physical_Aerobics.jpg">
+</figure>
                 </div>
             </div>
             <div style="--position: 5" class="carousel item">
                 <div class="carousel card">
-                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/CA2.png">
+                    <figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/9_Physical_Aerobics.jpg">
+</figure>
                 </div>
             </div>
             <div style="--position: 6" class="carousel item">
                 <div class="carousel card">
-                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/CA3.png">
+                    <figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/10_Physical_Aerobics.jpg">
+</figure>
                 </div>
             </div>
             <div style="--position: 7" class="carousel item">
                 <div class="carousel card">
-                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA1.png">
+                   <figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/11_Physical_Aerobics.jpg">
+</figure>
                 </div>
             </div>
             <div style="--position: 8" class="carousel item">
                 <div class="carousel card">
-                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA2.png">
+                    <figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/12_Physical_Aerobics.jpg">
+</figure>
                 </div>
             </div>
             <div style="--position: 9" class="carousel item">
                 <div class="carousel card">
-                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/CCA%20Activities/PA3.png">
+                    <figure>
+  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/13_Physical_Aerobics.jpg">
+</figure>
                 </div>
             </div>
         </div>
@@ -715,10 +755,8 @@ h6,
 .yck-component .carousel.card {
   width: 100%;
   height: 100%;
-  padding: 1em;
-  border: 1px solid #ccc;
+	overflow: hidden;
   border-radius: var(--yck-rounded-corners);
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   color: whitesmoke;
   text-align: center;
 }
@@ -745,11 +783,10 @@ h6,
   height: var(--height);
   position: absolute;
   left: 100%;
-  animation: autoRun 30s linear infinite;
-  transition: filter 1.5s;
+  animation: autoRun 35s linear infinite;
+  transition: filter 1s;
   animation-delay: calc(
-    (30s / var(--quantity)) * (var(--position) - 1) - 30s
-  ) !important;
+    (35s / var(--quantity)) * (var(--position) - 1) - 35s) !important;
 }
 .yck-component .carousel.slider .list .item img {
   width: 100%;
