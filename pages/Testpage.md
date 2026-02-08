@@ -138,7 +138,7 @@ variant: markdown
   <div class="card01-content">
     <p class="card01-title">Key Personnel In-Charge
     </p><p class="card01-para">Mr Chen Weiguo Jeremy (Ext: 149)<br>Subject Head
-Student Leadership &amp; Student Well-Being</p>
+Student Leadership &amp; Student Well-Being<br>&nbsp;</p>
   </div>
 </div>
 </section></article></div>
@@ -638,108 +638,78 @@ h6,
 }
 
 	
-/* Key Personnel In-Charge */
-.yck-component .card {
-  font-family: "Georgia", "Lato", "Poppins", sans-serif;
-  width: fit-content;
-  border-radius: 10px;
-  background-image: linear-gradient(to top left, rgba(36, 36, 36, 0.95) 0%, rgba(0, 0, 0, 0.5) 100%);
-  padding:1em 2em 1em 2em;
-  display: flex;
-  flex-direction: column;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-  position: relative;
-  overflow: hidden;
-  cursor: pointer;
+.yck-component .card01 {
+    width: fit-content;
+	  height: 170px;
+    background-color: var(--yck-orange100);
+    background: linear-gradient(0deg, var(--yck-orange400) 5%, var(--yck-orange900) 50%);
+    color: white;
+	  border-radius: var(--yck-rounded-corners);
+    overflow: hidden;
+    position: relative;
+    perspective: 1000px;
+    transition: all 0.65s var(--ease-squish-1);
+    cursor: pointer;
 }
 
-.yck-component .cls-1 {
-  fill: #fff;
+.yck-component .card01-content {
+    position: relative;
+    z-index: 1;
 }
 
-.yck-component .title {
-  font-size: 32px;
-  font-weight: 600;
-  color: #ffffff;
-  margin-bottom: 1em;
+.yck-component .card01:hover,
+	.yck-component .card01:focus,
+	.yck-component .card01:active {
+	  outline: none;
+	  border-radius: var(--yck-rounded-corners);
+    transform: scale(1.04);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.35);
 }
 
-.yck-component .label {
-  font-size: 20px;
-  color: #efefef;
-  opacity: 0.5;
-  line-height: 1.4;
-  font-weight: 200;
-  margin-bottom: 3em;
-  transition: right 0.5s ease-in-out, opacity 0.5s ease;
-  margin-left: 1em;
+.yck-component .card01:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+   background: linear-gradient(0deg, rgb(232, 89, 12, .05) 25%, rgba(0, 0, 0, 0.27) 100%);
+    opacity: 0;
+    transition: all 0.65s var(--ease-squish-1);
+    z-index: 1;
 }
 
-.yck-component .ico {
-  position: absolute;
-  color: #efefef;
-  font-family: "Verdana", "Tahoma", "Nunito", "Lato", sans-serif;
-  font-size: 1.25em;
-  font-weight: 500;
-  bottom: 0.25em;
-  left: 72px;
-  display: flex;
-  opacity: 0;
-  transition: left 0.5s ease-in-out, opacity 0.3s ease;
+.yck-component .card01:hover:before,
+.yck-component .card01:focus:before,
+.yck-component .card01:active:before  {
+    opacity: 1;
+	  background: linear-gradient(0deg, rgb(232, 89, 12, .05) 0%, rgba(0, 0, 0, 0.25) 100%);
+	  height: 80%;
 }
 
-.yck-component .card::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0;
-  bottom: 0;
-  width: 10px;
-  background-image: linear-gradient(to bottom, darkorange, yellow, lightyellow);
-  border-radius: 10px 0 0 10px;
-  transition: width 0.5s ease-in-out;
+.yck-component .card01 .card01-title {
+    font-size: var(--yck-step-1);
+    font-weight: 700;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 3px rgba(206, 60, 60, .5), 3px 3px 4px rgba(0, 0, 0, 0.35);
 }
 
-.yck-component .card:hover::before {
-  width: 20px;
+.yck-component .card01 .card01-para {
+    font-size: var(--yck-step-0);
+    font-weight: 700;
+    opacity: 0.85;
+    text-shadow: 1px 1px 2px rgba(206, 60, 60, .5), 2px 2px 3px rgba(0, 0, 0, 0.35);
 }
 
-.yck-component .card:hover {
-  border-left-width: 18px;
+.yck-component .card01-content {
+    transform: translateY(50%);
+    transition: all 0.65s var(--ease-squish-1);
 }
 
-.yck-component .title,
-.yck-component .label {
-  transition: transform 0.5s ease-in-out;
+.yck-component .card01:hover .card01-content,
+.yck-component .card01:focus .card01-content,
+.yck-component .card01:active .card01-content {
+    transform: translateY(0%);
 }
-
-.yck-component .card:hover .title,
-.yck-component .card:hover .label {
-  transform: translateX(20px);
-}
-
-.yck-component .card:hover .ico {
-  left: 52px;
-  opacity: 0.8;
-}
-
-.yck-component .gradient {
-  position: absolute;
-  top: -200px;
-  left: -200px;
-  width: 600px;
-  height: 600px;
-  background: #ffffff;
-  border-radius: 50%;
-  filter: blur(300px);
-  opacity: 0;
-  transition: opacity 0.5s ease-in-out;
-}
-
-.yck-component .card:hover .gradient {
-  opacity: 0.4;
-}
-	
 /* --- Carousel --- */
 
 .yck-component .carousel.card {
