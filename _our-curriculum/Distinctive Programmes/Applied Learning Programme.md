@@ -72,7 +72,15 @@ variant: markdown
                 </div>
             </section>
 					<section>
-<details>
+						<div class="deadctr-container">
+						<div class="card01">
+							<div class="card01-content">
+								<p class="card01-title">HOD Design &amp; Enterprise</p>
+								<p class="card01-para">Ms Hoon Siew Hui [Ext. 206]</p>
+							</div>
+						</div>
+						</div>
+<details style="display: none">
     <summary style="font-size: 1.5em">HOD Design &amp; Enterprise</summary>
     <ul style="list-style: none;">
         <li>Ms Hoon Siew Hui [ext: 206]</li>
