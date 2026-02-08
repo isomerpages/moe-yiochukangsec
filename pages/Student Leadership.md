@@ -1242,7 +1242,7 @@ h6,
     background-color: var(--yck-orange100);
     background: linear-gradient(0deg, var(--yck-orange400) 5%, var(--yck-orange900) 50%);
     color: white;
-    border-radius: var(--yck-rounded-corners);
+	  border-radius: var(--yck-rounded-corners);
     overflow: hidden;
     position: relative;
     perspective: 1000px;
@@ -1260,6 +1260,7 @@ h6,
 	.yck-component .card01:focus,
 	.yck-component .card01:active {
 	  outline: none;
+	  border-radius: var(--yck-rounded-corners);
     transform: scale(1.04);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.35);
 }
