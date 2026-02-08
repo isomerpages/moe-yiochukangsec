@@ -1236,6 +1236,7 @@ h6,
 
 .yck-component .card01 {
     width: fit-content;
+	  height: 170px;
     background-color: var(--yck-orange100);
     background: linear-gradient(0deg, var(--yck-orange400) 5%, var(--yck-orange900) 50%);
     color: white;
@@ -1278,7 +1279,7 @@ h6,
 }
 
 .yck-component .card01 .card01-title {
-    font-size: var(--yck-step-2);
+    font-size: var(--yck-step-1);
     font-weight: 700;
     margin-bottom: 1.25em;
     text-transform: uppercase;
