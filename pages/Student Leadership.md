@@ -1235,14 +1235,13 @@ h6,
     box-shadow: var(--shadow-6);
 }
 
-
 .yck-component .card01 {
     width: fit-content;
-	  height: 170px;
+    height: 170px;
     background-color: var(--yck-orange100);
     background: linear-gradient(0deg, var(--yck-orange400) 5%, var(--yck-orange900) 50%);
     color: white;
-	  border-radius: var(--yck-rounded-corners);
+    border-radius: var(--yck-rounded-corners);
     overflow: hidden;
     position: relative;
     perspective: 1000px;
@@ -1257,10 +1256,10 @@ h6,
 }
 
 .yck-component .card01:hover,
-	.yck-component .card01:focus,
-	.yck-component .card01:active {
-	  outline: none;
-	  border-radius: var(--yck-rounded-corners);
+.yck-component .card01:focus,
+.yck-component .card01:active {
+    outline: none;
+    border-radius: var(--yck-rounded-corners);
     transform: scale(1.04);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.35);
 }
@@ -1271,7 +1270,7 @@ h6,
     top: 0;
     left: 0;
     width: 100%;
-   background: linear-gradient(0deg, rgb(232, 89, 12, .05) 25%, rgba(0, 0, 0, 0.27) 100%);
+    background: linear-gradient(0deg, rgb(232, 89, 12, .05) 25%, rgba(0, 0, 0, 0.27) 100%);
     opacity: 0;
     transition: all 0.65s var(--ease-squish-1);
     z-index: 1;
@@ -1279,9 +1278,9 @@ h6,
 
 .yck-component .card01:hover:before,
 .yck-component .card01:focus:before,
-.yck-component .card01:active:before  {
+.yck-component .card01:active:before {
     opacity: 1;
-	  height: 80%;
+    height: 80%;
 }
 
 .yck-component .card01 .card01-title {
