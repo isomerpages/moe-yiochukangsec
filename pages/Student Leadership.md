@@ -1228,7 +1228,9 @@ h6,
     justify-content: left;
 }
 
-.yck-component .grid-item:hover {
+.yck-component .grid-item:hover,
+.yck-component .grid-item:focus, 
+.yck-component .grid-item:active {
     transform: scale(1.025);
     box-shadow: var(--shadow-6);
 }
