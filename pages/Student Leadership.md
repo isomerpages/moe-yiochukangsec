@@ -1271,7 +1271,9 @@ h6,
     z-index: 1;
 }
 
-.yck-component .card01:hover:before {
+.yck-component .card01:hover:before,
+.yck-component .card01:focus:before,
+.yck-component .card01:active:before  {
     opacity: 1;
 }
 
@@ -1295,7 +1297,9 @@ h6,
     transition: all 0.65s var(--ease-squish-1);
 }
 
-.yck-component .card01:hover .card01-content {
+.yck-component .card01:hover .card01-content,
+.yck-component .card01:focus .card01-content,
+.yck-component .card01:active .card01-content {
     transform: translateY(0%);
 }
 	
