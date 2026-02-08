@@ -66,10 +66,10 @@ variant: markdown
   <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/4_Physical_ActiveHealthLife.jpg">
 </figure>
 			</section>
-			<section>
-<div style="--width: 640px;
-                                            --height: 480px;
-                                            --quantity: 4;" class="carousel slider">
+			<section style="display: none;">
+<div style="--width: 0
+                                            --height: 0;
+                                            --quantity: 0;" class="carousel slider">
         <div class="carousel list">
             <div style="--position: 1" class="carousel item">
                 <div class="carousel card">
@@ -783,10 +783,10 @@ h6,
   height: var(--height);
   position: absolute;
   left: 100%;
-  animation: autoRun 35s linear infinite;
+  animation: autoRun 50s linear infinite;
   transition: filter 1s;
   animation-delay: calc(
-    (35s / var(--quantity)) * (var(--position) - 1) - 35s) !important;
+    (50s / var(--quantity)) * (var(--position) - 1) - 50s) !important;
 }
 .yck-component .carousel.slider .list .item img {
   width: 100%;
