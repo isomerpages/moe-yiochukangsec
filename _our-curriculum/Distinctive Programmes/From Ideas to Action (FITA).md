@@ -323,18 +323,27 @@ details[open]::details-content {
 }
 
 #reflect-rice {
-    background-color: rgba(246, 196, 198, 0.5);
+    background-color: rgba(246, 196, 198, 0.8);
+	 border-radius: 1000px 1000px 0 1000px;
+	  padding-left: 2em;
 }
 
 #invent-rice {
-    background-color: rgba(255, 239, 201, 0.5);
+    background-color: rgba(255, 239, 201, 0.8);
+	border-radius: 1000px 1000px 1000px 0;
+	  padding-left: 2em;
 }
 
 #critic-rice {
-    background-color: rgba(211, 231, 206, 0.5);
+    background-color: rgba(211, 231, 206, 1);
+	border-radius: 1000px 0 1000px 1000px;
+	  padding-left: 3em;
+	 -top: 1em;
 }
 
 #empath-rice {
-    background-color: rgba(190, 214, 244, 0.5);
+    background-color: rgba(190, 214, 244, 0.9);
+	border-radius: 0 1000px 1000px  1000px;
+	  padding-left: 2em;
 }
 </style>
