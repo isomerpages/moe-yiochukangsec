@@ -71,18 +71,14 @@ variant: markdown
                     </div>
                 </div>
             </section>
-        </article>
-    </div>
-</div>
+					<section>
 <details>
     <summary style="font-size: 1.5em">HOD Design &amp; Enterprise</summary>
     <ul style="list-style: none;">
         <li>Ms Hoon Siew Hui [ext: 206]</li>
     </ul>
 </details>
-<div class="yck-component">
-    <div class="regular-flow">
-        <article>
+					</section>
             <section id="photogallery">
                 <h2>Photo Gallery</h2>
                 <figure>
@@ -1306,20 +1302,20 @@ h6,
 }
 
 .yck-component details[open] {
-    background-color: rgba(255, 233, 193, 0.3);
-    box-shadow: var(--yck-insetopp-shadow);
+    background-color: rgb(250, 250, 250, 0.3);
+    box-shadow: var(--inner-shadow-4);
 }
 
-.yck-component details p,
-.yck-component details div {
-    margin-inline: 1em;
+.yck-component details .content {
+    margin-inline: 1.5em;
+    padding-block: 1em;
 }
 
 .yck-component details summary {
     position: relative;
     padding: 0.75em;
     font-size: var(--yck-step-1);
-    font-weight: 500;
+    font-weight: 800;
     list-style-position: outside;
     cursor: pointer;
     -webkit-user-select: none;
@@ -1328,18 +1324,18 @@ h6,
     transition:
         background-color 0.7s ease-in-out,
         box-shadow 0.7s ease-in-out;
-    box-shadow: var(--yck-insetopp-shadow);
+    box-shadow: var(--inner-shadow-4);
 }
 
 .yck-component details summary:hover,
 .yck-component details summary:active {
     background-color: rgba(255, 233, 193, 0.4);
-    box-shadow: var(--yck-insetopp-shadow);
+    box-shadow: var(--inner-shadow-1);
 }
 
 .yck-component details[open]:hover {
     background-color: rgba(255, 233, 193, 0.3);
-    box-shadow: var(--yck-inset-shadow);
+    box-shadow: var(--inner-shadow-1);
 }
 
 .yck-component details summary::marker {
@@ -1349,7 +1345,7 @@ h6,
 .yck-component details summary::after {
     position: absolute;
     top: 50%;
-    right: 1em;
+    right: 1rem;
     font-size: var(--yck-step-2);
     line-height: 1;
     content: "+";
@@ -1362,9 +1358,10 @@ h6,
 }
 
 .yck-component details[open]>*:not(summary) {
-    animation: fade-in-right 0.8s ease-in-out;
+    animation: fade-in-bloom 0.8s ease-in-out;
     animation-fill-mode: both;
 }
+
 
 @keyframes fade-in {
     from {
@@ -1963,5 +1960,78 @@ details::details-content {
 
 details[open]::details-content {
     opacity: 1;
+}
+	
+.yck-component .card01 {
+    width: fit-content;
+    background-color: var(--yck-orange100);
+    background: linear-gradient(0deg, var(--yck-orange400) 5%, var(--yck-orange900) 50%);
+    color: white;
+    border-radius: var(--yck-rounded-corners);
+    overflow: hidden;
+    position: relative;
+    perspective: 1000px;
+    transition: all 0.65s var(--ease-squish-1);
+    cursor: pointer;
+}
+
+.yck-component .card01-content {
+    padding: 1em;
+    position: relative;
+    z-index: 1;
+}
+
+.yck-component .card01:hover,
+.yck-component .card01:focus,
+.yck-component .card01:active {
+    transform: scale(1.1);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.35);
+}
+
+.yck-component .card01:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    /* height: 45%;
+    background-color: rgba(0, 0, 0, 0.1); */
+    background: linear-gradient(0deg, rgb(232, 89, 12, .05) 10%, rgba(0, 0, 0, 0.3) 100%);
+    opacity: 0;
+    transition: all 0.65s var(--ease-squish-1);
+    z-index: 1;
+}
+
+.yck-component .card01:hover:before,
+.yck-component .card01:focus:before,
+.yck-component .card01:active:before {
+    opacity: 1;
+    height: 50%;
+}
+
+.yck-component .card01 .card01-title {
+    font-size: var(--yck-step-1);
+    font-weight: 700;
+    margin-bottom: 1.25em;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 3px rgba(206, 60, 60, .5), 3px 3px 4px rgba(0, 0, 0, 0.35);
+}
+
+.yck-component .card01 .card01-para {
+    font-size: var(--yck-step-0);
+    font-weight: 700;
+    opacity: 0.85;
+    text-shadow: 1px 1px 2px rgba(206, 60, 60, .5), 2px 2px 3px rgba(0, 0, 0, 0.35);
+}
+
+.yck-component .card01-content {
+    transform: translateY(50%);
+    transition: all 0.65s var(--ease-squish-1);
+}
+
+.yck-component .card01:hover .card01-content,
+.yck-component .card01:focus .card01-content,
+.yck-component .card01:active .card01-content {
+    transform: translateY(0%);
 }
 </style>
