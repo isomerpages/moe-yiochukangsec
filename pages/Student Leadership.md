@@ -1237,7 +1237,6 @@ h6,
 
 .yck-component .card01 {
     width: fit-content;
-    height: 170px;
     background-color: var(--yck-orange100);
     background: linear-gradient(0deg, var(--yck-orange400) 5%, var(--yck-orange900) 50%);
     color: white;
@@ -1258,9 +1257,7 @@ h6,
 .yck-component .card01:hover,
 .yck-component .card01:focus,
 .yck-component .card01:active {
-    outline: none;
-    border-radius: var(--yck-rounded-corners);
-    transform: scale(1.04);
+    transform: scale(1.1);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.35);
 }
 
@@ -1270,7 +1267,9 @@ h6,
     top: 0;
     left: 0;
     width: 100%;
-    background: linear-gradient(0deg, rgb(232, 89, 12, .05) 25%, rgba(0, 0, 0, 0.27) 100%);
+    /* height: 45%;
+    background-color: rgba(0, 0, 0, 0.1); */
+    background: linear-gradient(0deg, rgb(232, 89, 12, .05) 10%, rgba(0, 0, 0, 0.3) 100%);
     opacity: 0;
     transition: all 0.65s var(--ease-squish-1);
     z-index: 1;
@@ -1280,11 +1279,11 @@ h6,
 .yck-component .card01:focus:before,
 .yck-component .card01:active:before {
     opacity: 1;
-    height: 80%;
+    height: 50%;
 }
 
 .yck-component .card01 .card01-title {
-    font-size: var(--yck-step-1);
+    font-size: var(--yck-step-2);
     font-weight: 700;
     margin-bottom: 1.25em;
     text-transform: uppercase;
@@ -1307,8 +1306,7 @@ h6,
 .yck-component .card01:focus .card01-content,
 .yck-component .card01:active .card01-content {
     transform: translateY(0%);
-}
-	
+}	
 /* Layouts - Columns */
 .yck-component :is(.columns2, .columns3, .columns) {
     column-width: 30ch;
