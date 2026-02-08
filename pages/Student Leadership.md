@@ -1254,8 +1254,11 @@ h6,
     z-index: 1;
 }
 
-.yck-component .card01:hover {
-    transform: scale(1.1);
+.yck-component .card01:hover,
+	.yck-component .card01:focus,
+	.yck-component .card01:active {
+	  outline: none;
+    transform: scale(1.04);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.35);
 }
 
@@ -1265,8 +1268,7 @@ h6,
     top: 0;
     left: 0;
     width: 100%;
-    height: 45%;
-    background-color: rgba(0, 0, 0, 0.1);
+   background: linear-gradient(0deg, rgb(232, 89, 12, .05) 25%, rgba(0, 0, 0, 0.27) 100%);
     opacity: 0;
     transition: all 0.65s var(--ease-squish-1);
     z-index: 1;
@@ -1276,6 +1278,7 @@ h6,
 .yck-component .card01:focus:before,
 .yck-component .card01:active:before  {
     opacity: 1;
+	  height: 80%;
 }
 
 .yck-component .card01 .card01-title {
