@@ -73,7 +73,7 @@ image: /images/YCKLogo.svg
             <hr>
             <section id="leadership_opp">
                 <h3>Additional Student Leadership Opportunities</h3>
-                <p>Students who are identified with the potential and suitability to take on official appointments within the class (i.e. Class Leaders), CCA (i.e. CCA Leaders) or at school-level (i.e. Student Councillors and Sports Leaders) will be given different opportunities and platforms to develop their leadership competencies.</p>
+                <p>Students who are identified with the potential and suitability to take on official appointments within the class <i>(i.e. Class Leaders)</i>, CCA <i>(i.e. CCA Leaders)</i> or at school-level <i>(i.e. Student Councillors and Sports Leaders)</i> will be given different opportunities and platforms to develop their leadership competencies.</p>
                 <p>The following outlines the key groups of Student Leaders in Yio Chu Kang Secondary School.</p>
                 <details open="" name="studlead">
                     <summary class="yck-h6">1. Class Leaders</summary>
