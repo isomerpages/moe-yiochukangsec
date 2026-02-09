@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Our Students
 variant: tiptap
 ---
+<p></p>
 <h4><strong>2026 Class Timetable (Semester 1)</strong></h4>
 <p>(Uploaded on 15 Jan 2026)</p>
 <ul data-tight="true" class="tight">
@@ -12,7 +13,12 @@ variant: tiptap
 <p><strong><a href="/files/Students/Class Timetable Schedules/Class_TimeTable_2026_Sem_1_Final_T1W3_.pdf" rel="noopener nofollow" target="_blank">Class Timetable 2026 Semester 1</a></strong>
 </p>
 </li>
+<li>
+<p><strong><a href="/files/Students/Class Timetable Schedules/Sec_4_new_timetable_v2.pdf" rel="noopener nofollow" target="_blank">Sec 4 Timetable (new)</a></strong>
+</p>
+</li>
 </ul>
+<p>(uploaded on 9 Feb 2026)</p>
 <h4><strong>2026 Class Timetable (Semester 1)</strong></h4>
 <p>(Uploaded on 30 Dec 2025)</p>
 <ul data-tight="true" class="tight">
@@ -31,6 +37,8 @@ variant: tiptap
 <li>
 <p><a href="/files/Students/Class Timetable Schedules/YCKSS_Class_Timetable__2026_Sem_1____Sec_4.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sem 1 Sec 4 Timetable</a>
 </p>
+<p></p>
+<p></p>
 </li>
 </ul>
 <hr>

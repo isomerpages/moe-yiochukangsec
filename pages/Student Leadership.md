@@ -8,6 +8,11 @@ image: /images/YCKLogo.svg
 <div class="yck-component">
     <div class="regular-flow">
         <article id="top">
+					<section>
+                <figure>
+                    <img alt="Student Leadership Image" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/Student%20Leadership/S1.jpg">
+                </figure>
+            </section>
             <section id="visionmission">
                 <div class="autofit-grid">
                     <div class="grid-item">
@@ -23,10 +28,7 @@ image: /images/YCKLogo.svg
                         </div>
                     </div>
                 </div>
-                <figure>
-                    <img alt="Student Leadership Image" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/Student%20Leadership/S1.jpg">
-                </figure>
-            </section>
+					</section>
             <section id="dev_lead_capacity">
                 <h2>Developing the Leadership Capacity of our Students</h2>
                 <p>In Yio Chu Kang Secondary School, we seek to nurture each student’s potential by providing them with ample opportunities to anticipate, act and reflect upon their learning through a variety of leadership platforms within and beyond the school context.&nbsp; We adopt a progressive school-wide approach to student leadership development.</p>
@@ -71,7 +73,7 @@ image: /images/YCKLogo.svg
             <hr>
             <section id="leadership_opp">
                 <h3>Additional Student Leadership Opportunities</h3>
-                <p>Students who are identified with the potential and suitability to take on official appointments within the class (i.e. Class Leaders), CCA (i.e. CCA Leaders) or at school-level (i.e. Student Councillors and Sports Leaders) will be given different opportunities and platforms to develop their leadership competencies.</p>
+                <p>Students who are identified with the potential and suitability to take on official appointments within the class <i>(i.e. Class Leaders)</i>, CCA <i>(i.e. CCA Leaders)</i> or at school-level <i>(i.e. Student Councillors and Sports Leaders)</i> will be given different opportunities and platforms to develop their leadership competencies.</p>
                 <p>The following outlines the key groups of Student Leaders in Yio Chu Kang Secondary School.</p>
                 <details open="" name="studlead">
                     <summary class="yck-h6">1. Class Leaders</summary>
@@ -1228,11 +1230,12 @@ h6,
     justify-content: left;
 }
 
-.yck-component .grid-item:hover {
+.yck-component .grid-item:hover,
+.yck-component .grid-item:focus, 
+.yck-component .grid-item:active {
     transform: scale(1.025);
     box-shadow: var(--shadow-6);
 }
-
 
 .yck-component .card01 {
     width: fit-content;
@@ -1253,7 +1256,9 @@ h6,
     z-index: 1;
 }
 
-.yck-component .card01:hover {
+.yck-component .card01:hover,
+.yck-component .card01:focus,
+.yck-component .card01:active {
     transform: scale(1.1);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.35);
 }
@@ -1264,15 +1269,19 @@ h6,
     top: 0;
     left: 0;
     width: 100%;
-    height: 45%;
-    background-color: rgba(0, 0, 0, 0.1);
+    /* height: 45%;
+    background-color: rgba(0, 0, 0, 0.1); */
+    background: linear-gradient(0deg, rgb(232, 89, 12, .05) 10%, rgba(0, 0, 0, 0.3) 100%);
     opacity: 0;
     transition: all 0.65s var(--ease-squish-1);
     z-index: 1;
 }
 
-.yck-component .card01:hover:before {
+.yck-component .card01:hover:before,
+.yck-component .card01:focus:before,
+.yck-component .card01:active:before {
     opacity: 1;
+    height: 50%;
 }
 
 .yck-component .card01 .card01-title {
@@ -1295,10 +1304,11 @@ h6,
     transition: all 0.65s var(--ease-squish-1);
 }
 
-.yck-component .card01:hover .card01-content {
+.yck-component .card01:hover .card01-content,
+.yck-component .card01:focus .card01-content,
+.yck-component .card01:active .card01-content {
     transform: translateY(0%);
-}
-	
+}	
 /* Layouts - Columns */
 .yck-component :is(.columns2, .columns3, .columns) {
     column-width: 30ch;
