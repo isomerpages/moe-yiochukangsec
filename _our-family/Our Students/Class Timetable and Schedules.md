@@ -18,7 +18,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p>(updated on 9 Feb 2026)</p>
+<p>(uploaded on 9 Feb 2026)</p>
 <h4><strong>2026 Class Timetable (Semester 1)</strong></h4>
 <p>(Uploaded on 30 Dec 2025)</p>
 <ul data-tight="true" class="tight">
