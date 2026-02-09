@@ -8,6 +8,11 @@ image: /images/YCKLogo.svg
 <div class="yck-component">
     <div class="regular-flow">
         <article id="top">
+					<section>
+                <figure>
+                    <img alt="Student Leadership Image" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/Student%20Leadership/S1.jpg">
+                </figure>
+            </section>
             <section id="visionmission">
                 <div class="autofit-grid">
                     <div class="grid-item">
@@ -23,10 +28,7 @@ image: /images/YCKLogo.svg
                         </div>
                     </div>
                 </div>
-                <figure>
-                    <img alt="Student Leadership Image" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/Student%20Leadership/S1.jpg">
-                </figure>
-            </section>
+					</section>
             <section id="dev_lead_capacity">
                 <h2>Developing the Leadership Capacity of our Students</h2>
                 <p>In Yio Chu Kang Secondary School, we seek to nurture each student’s potential by providing them with ample opportunities to anticipate, act and reflect upon their learning through a variety of leadership platforms within and beyond the school context.&nbsp; We adopt a progressive school-wide approach to student leadership development.</p>
