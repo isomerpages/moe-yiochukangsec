@@ -46,7 +46,7 @@ programmes are incorporated into CCE lessons:</p>
 experience. [link to NE webpage]</p>
 <p><strong>Key Personnel in charge: Ms Sin Puay San [HOD CCE] (ext: 109)</strong>
 </p>
-<h4>Education Career Guidance&nbsp;(ECG)</h4>
+<h3>Education Career Guidance&nbsp;(ECG)</h3>
 <p>Education and Career Guidance (ECG) is about engaging, inspiring and challenging
 students to develop aspirations and plan proactively for their future.
 The acquisition of knowledge about self and opportunities in education
@@ -68,23 +68,18 @@ to make sound educational and career decisions</p>
 the following three modes:
 <br>
 </p>
-<ol data-tight="true" class="tight">
+<h4><strong>1. ECG Curriculum</strong></h4>
+<ul data-tight="true" class="tight">
 <li>
-<p><strong>ECG Curriculum</strong>
-<br>
-</p>
-</li>
-</ol>
-<p>•&nbsp;Structured ECG Lessons
+<p><strong>Structured ECG Lessons </strong>
 <br>Time in the curriculum is put aside to introduce students to information
 about careers and future education options.&nbsp; We encourage students
 to take ownership of their own learning and development, and understand
 the importance of continued learning as they progress beyond secondary
-school years.
-<br>
-<br>
-</p>
-<p>•&nbsp;MySkillsFuture portal
+school years.</p>
+</li>
+<li>
+<p><strong>MySkillsFuture portal </strong>
 <br>This is an online portal that facilitates education and career development
 among students. Students are introduced to this tool to help them uncover
 their attributes,find out more about different careers that they might
@@ -92,20 +87,13 @@ be interested in and chart their educational pathways to achieve their
 aspirations. Students will have guided lessons on how to use this portal
 and it can be accessed from home.
 <br>
-<br>
-</p>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p><strong>ECG Experience</strong>
-<br>
 </p>
 </li>
-</ol>
+</ul>
+<h4><strong>2. ECG Experience</strong></h4>
 <p>To make the learning real and to equip students with a better understanding
 of the multiple pathways to success, students go through the following
-ECG experiences.
-<br>
-</p>
+ECG experiences.</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -138,7 +126,13 @@ ECG experiences.
 </p>
 </td>
 <td rowspan="1" colspan="4">
-<p>ECG Trail</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;ECG
+Trail</p>
 </td>
 </tr>
 <tr>
@@ -147,7 +141,9 @@ ECG experiences.
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p>WorldSkills Singapore 2018</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;WorldSkills
+Singapore 2018</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Experience ITE Programme</p>
@@ -170,19 +166,27 @@ ECG experiences.
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Polytechnic Attachment</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Polytechnic
+Attachment</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Advanced Elective Modules
-<br>(Polytechnic-based)
+<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Advanced
+Elective Modules
+<br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;(Polytechnic-based)
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Elective Modules
-<br>(school-based and ITE-based)</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;Elective Modules
+<br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(school-based
+and ITE-based)</p>
 </td>
 </tr>
 <tr>
@@ -191,26 +195,36 @@ ECG experiences.
 </p>
 </td>
 <td rowspan="1" colspan="4">
-<p>
-<br>Visit Junior College (JC) Open Houses
-<br>
-<br>Visit Polytechnic (Poly) Open Houses
-<br>
-<br>Personal Grooming and Interview Skills workshop during Sec 4/5 cohort
-camp
-<br>
-<br>Career Seminar during Sec 4/5 cohort camp
-<br>
-<br>Career Advising by Poly lecturers
-<br>
-<br>JC curriculum and DSA Talk by JC lecturers
-<br>
-<br>EAE Poly preparatory workshop conducted by Poly lecturers
-<br>
-<br>EAE ITE preparatory talk conducted by ITE lecturers
+<ul data-tight="true" class="tight">
+<li>
+<p>Visit Junior College (JC) Open Houses</p>
+</li>
+<li>
+<p>Visit Polytechnic (Poly) Open Houses</p>
+</li>
+<li>
+<p>Personal Grooming and Interview Skills workshop during Sec 4/5 cohort
+camp</p>
+</li>
+<li>
+<p>Career Seminar during Sec 4/5 cohort camp</p>
+</li>
+<li>
+<p>Career Advising by Poly lecturers</p>
+</li>
+<li>
+<p>JC curriculum and DSA Talk by JC lecturers</p>
+</li>
+<li>
+<p>EAE Poly preparatory workshop conducted by Poly lecturers</p>
+</li>
+<li>
+<p>EAE ITE preparatory talk conducted by ITE lecturers
 <br>
 <br>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -220,33 +234,24 @@ camp
 </p>
 </td>
 <td rowspan="1" colspan="4">
+<ul data-tight="true" class="tight">
+<li>
 <p>JIE Briefing during GCE N-level exam results release
 <br><a href="/files/ECG/Choosing_JIE_Choices_for_2026_admissions__YCKSS_4MB.pdf" rel="noopener nofollow" target="_blank">Choosing JIE Choices for 2026 admissions</a>
-<br>
-<br>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="4">
-<p>JAE Briefing during GCE O-level exam results release</p>
-<p><a href="/files/ECG/Choosing_JAE_Choices_2026__YCKSS_.pdf" rel="noopener nofollow" target="_blank">Choosing JAE Choices for 2026 admissions</a>
+</li>
+<li>
+<p>JAE Briefing during GCE O-level exam results release
+<br><a href="/files/ECG/Choosing_JAE_Choices_2026__YCKSS_.pdf" rel="noopener nofollow" target="_blank">Choosing JAE Choices for 2026 admissions</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<ol start="3">
-<li>
-<p><strong>ECG Counselling</strong>
-<br>
-<br>Our school’s ECG Counsellor, Mr Isaac Ling, is stationed in our school
+<h4><strong>3. ECG Counselling</strong></h4>
+<p>Our school’s ECG Counsellor, Mr Isaac Ling, is stationed in our school
 every Tuesday, Wednesday and selected Fridays to provide ECG counselling
 and support students in making informed decisions on their education and
 career pathways. Students (and their parents) who would like to find out
@@ -255,17 +260,20 @@ or discover their strengths and interests, can have a chat with our ECG
 Counsellor. Mr Isaac also conducts in house workshops for teachers and
 provides individual and group counselling to students in decision making
 such that they can, in the future, contribute meaningfully to society through
-their future professions.
-<br>To make an appointment, please click here: <a href="https://go.gov.sg/yckssecg" rel="noopener noreferrer nofollow" target="_blank&quot;">https://go.gov.sg/yckssecg</a>
-<br>or scan the QR Code below.</p>
+their future professions.</p>
+<p>
+<br>To make an appointment, please click here: <a href="https://go.gov.sg/yckssecg" rel="noopener noreferrer nofollow" target="_blank&quot;">https://go.gov.sg/yckssecg </a>or scan
+the QR Code within the poster below.</p>
+<ol start="3">
+<li>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Non Academic Programmes/CCE/ECG/YCKSS_Booking_Poster_for_website.jpg">
 </div>
 </li>
 </ol>
-<p>To find out more about post-secondary education and pathways, please click
-on the following resources:</p>
+<p>You can find out more about post-secondary education and pathway via the
+links to the following resources:</p>
 <p>
 <br>Post-Secondary Education:</p>
 <p><a href="https://www.moe.gov.sg/post-secondary" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/post-secondary</a>
@@ -309,6 +317,21 @@ on the following resources:</p>
 <p><a href="https://go.gov.sg/whats-next-olevel" rel="noopener nofollow" target="_blank">https://go.gov.sg/whats-next-olevel</a>
 </p>
 <p>&nbsp;</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<hr>
 <h4><strong>National Education (NE)</strong></h4>
 <p></p>
 <p>National Education is experienced through the 4 key NE celebrations that
@@ -335,9 +358,7 @@ International Students Integration Programme group.
 <div class="isomer-image-wrapper">
 <img style="width:100%;height:50%" height="auto" width="100%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/National%20Education%20(NE)/N2.png">
 </div>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
+<hr>
 <h4><strong>Sexuality Education (SEd)</strong></h4>
 <p><strong>MOE Sexuality Education in Schools</strong>
 </p>
