@@ -15,12 +15,13 @@ image: /images/YCKLogo.svg
                 <p>Held at regular intervals, these activities offer staff a consistent opportunity to pause, recharge, and prioritise their health together, thereby reinforcing the belief that caring for oneself is just as important as caring for others.</p>
             </section>
             <section>
-                <div style="--width: 360px; --height: 240px; --quantity: 4;" class="carousel glider">
+                <div style="--width: 360px; --height: 240px; --quantity: 4;" class="carousel slider">
                     <div class="carousel list">
                         <div style="--position: 1" class="carousel item">
                             <div class="carousel card">
                                 <figure>
-                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Physical/1_Physical_ActiveHealthLife.jpg"> </figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Physical/1_Physical_ActiveHealthLife.jpg">
+                                </figure>
                             </div>
                         </div>
                         <div style="--position: 2" class="carousel item">
@@ -48,7 +49,7 @@ image: /images/YCKLogo.svg
                 </div>
             </section>
             <section>
-                <div style="--width: 360px; --height: 220px; --quantity: 7;" class="carousel slider">
+                <div style="--width: 360px; --height: 220px; --quantity: 7;" class="carousel glider">
                     <div class="carousel list">
                         <div style="--position: 1" class="carousel item">
                             <div class="carousel card">
@@ -103,14 +104,145 @@ image: /images/YCKLogo.svg
                 </div>
             </section>
             <hr>
+            <section id="Physical-Aerobics">
+                <h2>Let's MOVE!</h2>
+                <div class="deadctr-container">
+                    <div class="quote">
+                        <div class="blockquote">
+                            “March on the spot!” “Swing your arms!”
+                            <cite>Annonymous</cite>
+                        </div>
+                    </div>
+                </div>
+                <p>No, it was not a foot drill. It was a way to warm up for aerobics on Friday, 23 January.</p>
+                <p>Gearing up in sports attire and sneakers, the staff hustled one another along to the cavernous hall, simply to seek a reprieve from the whirlwind of settling in at the start of the year. Stepping to the side, punching our arms forward, lifting our knees—we carried out these movements under a professional aerobics instructor’s precise cues onscreen. After an hour, everyone’s heart was palpating not intensely, but steadily. Beads of perspiration became a testament to the rush of adrenaline, the much-needed element to reignite our energy and vitality.
+                </p>
+            </section>
+            <section id="carousels">
+                <div style="--width: 480px;
+                                            --height: 320px;
+                                            --quantity: 15;" class="carousel slider">
+                    <div class="carousel list">
+                        <div style="--position: 1" class="carousel item">
+                            <div class="carousel card">
+                                <figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Physical/5_Physical_Aerobics.jpg">
+                                </figure>
+                            </div>
+                        </div>
+                        <div style="--position: 2" class="carousel item">
+                            <div class="carousel card">
+                                <figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Physical/6_Physical_Aerobics.jpg">
+                                </figure>
+                            </div>
+                        </div>
+                        <div style="--position: 3" class="carousel item">
+                            <div class="carousel card">
+                                <figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Physical/7_Physical_Aerobics.jpg">
+                                </figure>
+                            </div>
+                        </div>
+                        <div style="--position: 4" class="carousel item">
+                            <div class="carousel card">
+                                <figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Physical/8_Physical_Aerobics.jpg">
+                                </figure>
+                            </div>
+                        </div>
+                        <div style="--position: 5" class="carousel item">
+                            <div class="carousel card">
+                                <figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Physical/9_Physical_Aerobics.jpg">
+                                </figure>
+                            </div>
+                        </div>
+                        <div style="--position: 6" class="carousel item">
+                            <div class="carousel card">
+                                <figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Physical/10_Physical_Aerobics.jpg">
+                                </figure>
+                            </div>
+                        </div>
+                        <div style="--position: 7" class="carousel item">
+                            <div class="carousel card">
+                                <figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Physical/11_Physical_Aerobics.jpg">
+                                </figure>
+                            </div>
+                        </div>
+                        <div style="--position: 8" class="carousel item">
+                            <div class="carousel card">
+                                <figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Physical/12_Physical_Aerobics.jpg">
+                                </figure>
+                            </div>
+                        </div>
+                        <div style="--position: 9" class="carousel item">
+                            <div class="carousel card">
+                                <figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Physical/13_Physical_Aerobics.jpg">
+                                </figure>
+                            </div>
+                        </div>
+                        <div style="--position: 10" class="carousel item">
+                            <div class="carousel card">
+                                <figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Physical/14_Physical_Aerobics.jpg">
+                                </figure>
+                            </div>
+                        </div>
+                        <div style="--position: 11" class="carousel item">
+                            <div class="carousel card">
+                                <figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Physical/15_Physical_Aerobics.jpg">
+                                </figure>
+                            </div>
+                        </div>
+                        <div style="--position: 12" class="carousel item">
+                            <div class="carousel card">
+                                <figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Physical/16_Physical_Aerobics.jpg">
+                                </figure>
+                            </div>
+                        </div>
+                        <div style="--position: 13" class="carousel item">
+                            <div class="carousel card">
+                                <figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Physical/17_Physical_Aerobics.jpg">
+                                </figure>
+                            </div>
+                        </div>
+                        <div style="--position: 14" class="carousel item">
+                            <div class="carousel card">
+                                <figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Physical/18_Physical_Aerobics.jpg">
+                                </figure>
+                            </div>
+                        </div>
+                        <div style="--position: 15" class="carousel item">
+                            <div class="carousel card">
+                                <figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Physical/19_Physical_Aerobics.jpg">
+                                </figure>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <hr>
             <section id="others">
                 <details id="run-for-your-life" name="physical">
                     <summary>
                         Run for Your ‘Life’
                     </summary>
                     <div class="content">
-                        <div class="quote">
-                            <div class="blockquote"> ‘Stretch! Swing! Skip! Squat!’ ...</div>
+                        <div class="deadctr-container">
+                            <div class="quote">
+                                <div class="blockquote"> "Stretch! Swing! Skip! Squat!" ...
+                                    <cite>Annonymous</cite></div>
+                            </div>
                         </div>
                         <p>These were some of the warm-up exercises that a group of staff performed before commencing their 14th MOE Olive Run at Singapore Sports Hub, OCBC Square, on 13 July 2024. Whether or not their counterparts were dashing past them toward the finishing line, they remained focused on their personal pace, form, and enjoyment of the scenic beauty around them.</p>
                         <p>Ultimately, their primary goal in joining the activity was to stay fit and healthy. Everything else, such as refreshments, goodie bags, complimentary fitness checks, and lucky draw prizes, was a bonus.</p>
