@@ -11,16 +11,14 @@ variant: tiptap
 <p><strong>Department Vision</strong>
 <br>Every YCKsian is grounded in sound values to serve the nation.&nbsp;</p>
 <p><strong>Department Mission</strong>
-<br>To instil in all students the school's core values embodied in the word
-GROWTH
-<br>Gratitude
-<br>Respect
-<br>Optimism
-<br>Wholeheartedness
-<br>Teamwork
-<br>Honesty</p>
+<br>To instil in all students the school's core values embodied in the word <strong>GROWTH </strong>
+<br><strong>G</strong>ratitude
+<br><strong>R</strong>espect
+<br><strong>O</strong>ptimism
+<br><strong>W</strong>holeheartedness
+<br><strong>T</strong>eamwork
+<br><strong>H</strong>onesty</p>
 <hr>
-<p></p>
 <p>The goal of Character and Citizenship Education (CCE) is to inculcate
 values and build competencies in our students to help them grow to be good
 individuals and useful citizens. In Yio Chu Kang Secondary School, every
@@ -29,19 +27,45 @@ skills and attitude to make informed and responsible choices in their lives.
 This is done through CCE lessons where our teachers facilitate students’
 learning for building positive character and citizenry according to the
 following themes.</p>
-<p>• The Leader Within
-<br>• Family Our Foundation
-<br>• Being a Positive Influence
-<br>• Thinking Hearts, Feeling Minds
-<br>• U &amp; I in the Community
-<br>• This is Home Truly
-<br>• The World in Singapore</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The Leader Within</p>
+</li>
+<li>
+<p>Family Our Foundation</p>
+</li>
+<li>
+<p>Being a Positive Influence</p>
+</li>
+<li>
+<p>Thinking Hearts, Feeling Minds</p>
+</li>
+<li>
+<p>U &amp; I in the Community</p>
+</li>
+<li>
+<p>This is Home Truly</p>
+</li>
+<li>
+<p>The World in Singapore</p>
+</li>
+</ul>
 <p>To develop social and emotional competencies in students, the following
 programmes are incorporated into CCE lessons:</p>
-<p>• Cyber Wellness&nbsp;
-<br>• Education and Career Guidance&nbsp;
-<br>• Sexuality Education&nbsp;
-<br>• Values in Action&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cyber Wellness&nbsp;</p>
+</li>
+<li>
+<p>Education and Career Guidance</p>
+</li>
+<li>
+<p>Sexuality Education</p>
+</li>
+<li>
+<p>Values in Action&nbsp;</p>
+</li>
+</ul>
 <p>CCE lessons are also a platform to deliver the National Education (NE)
 experience. [link to NE webpage]</p>
 <p><strong>Key Personnel in charge: Ms Sin Puay San [HOD CCE] (ext: 109)</strong>
@@ -53,21 +77,21 @@ The acquisition of knowledge about self and opportunities in education
 and work will enable students to apply decision-making skills and develop
 plans to achieve their career aspirations and life goals. Through ECG,
 social emotional competencies such as proactivity, adaptability and resilience
-are developed to prepare students for the 21st Century workforce.
-<br>
-<br>
-</p>
-<p>Through the ECG Curriculum, we aim to:
-<br>
-</p>
-<p>• deepen students’ understanding of self and relate schooling to the different
-education and career pathways
-<br>• enable students to synthesise information gathered from relevant sources
-to make sound educational and career decisions</p>
+are developed to prepare students for the 21st Century workforce.</p>
+<p>Through the ECG Curriculum, we aim to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>deepen students’ understanding of self and relate schooling to the different
+education and career pathways.</p>
+</li>
+<li>
+<p>enable students to synthesise information gathered from relevant sources
+to make sound educational and career decisions.</p>
+</li>
+</ul>
+<p></p>
 <p>At Yio Chu Kang Secondary School, the ECG curriculum is delivered through
-the following three modes:
-<br>
-</p>
+the following three modes:</p>
 <h4><strong>1. ECG Curriculum</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -108,21 +132,21 @@ ECG experiences.</p>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Express</strong>
+<p><strong>EXPRESS</strong>
 </p>
 </th>
 <th rowspan="1" colspan="2">
-<p><strong>Normal Academic</strong>
+<p><strong>NORMAL ACADEMIC</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Normal Technical</strong>
+<p><strong>NORMAL TECHNICAL</strong>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 1</strong>
+<p><strong>SEC 1</strong>
 </p>
 </td>
 <td rowspan="1" colspan="4">
@@ -137,7 +161,7 @@ Trail</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 2</strong>
+<p><strong>SEC 2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="3">
@@ -151,7 +175,7 @@ Singapore 2018</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p><strong>Sec 3</strong>
+<p><strong>SEC 3</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -174,11 +198,10 @@ Attachment</p>
 <tr>
 <td rowspan="1" colspan="2">
 <p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Advanced
-Elective Modules
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advanced Elective
+Modules
 <br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;(Polytechnic-based)
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;(Polytechnic-based)
 <br>
 </p>
 </td>
@@ -191,7 +214,7 @@ and ITE-based)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 4/5</strong>
+<p><strong>SEC 4/5</strong>
 </p>
 </td>
 <td rowspan="1" colspan="4">
@@ -264,14 +287,9 @@ their future professions.</p>
 <p>
 <br>To make an appointment, please click here: <a href="https://go.gov.sg/yckssecg" rel="noopener noreferrer nofollow" target="_blank&quot;">https://go.gov.sg/yckssecg </a>or scan
 the QR Code within the poster below.</p>
-<ol start="3">
-<li>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Non Academic Programmes/CCE/ECG/YCKSS_Booking_Poster_for_website.jpg">
 </div>
-</li>
-</ol>
 <p>You can find out more about post-secondary education and pathway via the
 links to the following resources:</p>
 <p>
