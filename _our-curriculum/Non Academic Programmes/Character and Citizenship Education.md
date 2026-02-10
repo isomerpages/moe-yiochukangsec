@@ -68,8 +68,10 @@ programmes are incorporated into CCE lessons:</p>
 </ul>
 <p>CCE lessons are also a platform to deliver the National Education (NE)
 experience. [link to NE webpage]</p>
+<hr>
 <p><strong>Key Personnel in charge: Ms Sin Puay San [HOD CCE] (ext: 109)</strong>
 </p>
+<hr>
 <h3>Education Career Guidance&nbsp;(ECG)</h3>
 <p>Education and Career Guidance (ECG) is about engaging, inspiring and challenging
 students to develop aspirations and plan proactively for their future.
