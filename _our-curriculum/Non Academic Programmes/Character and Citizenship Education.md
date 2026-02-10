@@ -285,8 +285,7 @@ or discover their strengths and interests, can have a chat with our ECG
 Counsellor. Mr Isaac also conducts in house workshops for teachers and
 provides individual and group counselling to students in decision making
 such that they can, in the future, contribute meaningfully to society through
-their future professions.</p>
-<p>
+their future professions.
 <br>To make an appointment, please click here: <a href="https://go.gov.sg/yckssecg" rel="noopener noreferrer nofollow" target="_blank&quot;">https://go.gov.sg/yckssecg </a>or scan
 the QR Code within the poster below.</p>
 <div class="isomer-image-wrapper">
