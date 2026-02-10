@@ -14,11 +14,10 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Students/Class Timetable Schedules/Sec_4_new_timetable_v2.pdf" rel="noopener nofollow" target="_blank">Sec 4 Timetable (new)</a></strong>
-</p>
+<p><strong><a href="/files/Students/Class Timetable Schedules/Sec_4_new_timetable_v3.pdf" rel="noopener nofollow" target="_blank">Sec 4 Timetable (new)</a> </strong>(Uploaded
+on 10 Feb, 2026)</p>
 </li>
 </ul>
-<p>(uploaded on 9 Feb 2026)</p>
 <h4><strong>2026 Class Timetable (Semester 1)</strong></h4>
 <p>(Uploaded on 30 Dec 2025)</p>
 <ul data-tight="true" class="tight">

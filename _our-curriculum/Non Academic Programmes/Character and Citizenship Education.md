@@ -11,16 +11,14 @@ variant: tiptap
 <p><strong>Department Vision</strong>
 <br>Every YCKsian is grounded in sound values to serve the nation.&nbsp;</p>
 <p><strong>Department Mission</strong>
-<br>To instil in all students the school's core values embodied in the word
-GROWTH
-<br>Gratitude
-<br>Respect
-<br>Optimism
-<br>Wholeheartedness
-<br>Teamwork
-<br>Honesty</p>
+<br>To instil in all students the school's core values embodied in the word <strong>GROWTH </strong>
+<br><strong>G</strong>ratitude
+<br><strong>R</strong>espect
+<br><strong>O</strong>ptimism
+<br><strong>W</strong>holeheartedness
+<br><strong>T</strong>eamwork
+<br><strong>H</strong>onesty</p>
 <hr>
-<p></p>
 <p>The goal of Character and Citizenship Education (CCE) is to inculcate
 values and build competencies in our students to help them grow to be good
 individuals and useful citizens. In Yio Chu Kang Secondary School, every
@@ -29,62 +27,85 @@ skills and attitude to make informed and responsible choices in their lives.
 This is done through CCE lessons where our teachers facilitate students’
 learning for building positive character and citizenry according to the
 following themes.</p>
-<p>• The Leader Within
-<br>• Family Our Foundation
-<br>• Being a Positive Influence
-<br>• Thinking Hearts, Feeling Minds
-<br>• U &amp; I in the Community
-<br>• This is Home Truly
-<br>• The World in Singapore</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The Leader Within</p>
+</li>
+<li>
+<p>Family Our Foundation</p>
+</li>
+<li>
+<p>Being a Positive Influence</p>
+</li>
+<li>
+<p>Thinking Hearts, Feeling Minds</p>
+</li>
+<li>
+<p>U &amp; I in the Community</p>
+</li>
+<li>
+<p>This is Home Truly</p>
+</li>
+<li>
+<p>The World in Singapore</p>
+</li>
+</ul>
 <p>To develop social and emotional competencies in students, the following
 programmes are incorporated into CCE lessons:</p>
-<p>• Cyber Wellness&nbsp;
-<br>• Education and Career Guidance&nbsp;
-<br>• Sexuality Education&nbsp;
-<br>• Values in Action&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cyber Wellness&nbsp;</p>
+</li>
+<li>
+<p>Education and Career Guidance</p>
+</li>
+<li>
+<p>Sexuality Education</p>
+</li>
+<li>
+<p>Values in Action&nbsp;</p>
+</li>
+</ul>
 <p>CCE lessons are also a platform to deliver the National Education (NE)
 experience. [link to NE webpage]</p>
+<hr>
 <p><strong>Key Personnel in charge: Ms Sin Puay San [HOD CCE] (ext: 109)</strong>
 </p>
-<h4>Education Career Guidance&nbsp;(ECG)</h4>
+<hr>
+<h3>Education Career Guidance&nbsp;(ECG)</h3>
 <p>Education and Career Guidance (ECG) is about engaging, inspiring and challenging
 students to develop aspirations and plan proactively for their future.
 The acquisition of knowledge about self and opportunities in education
 and work will enable students to apply decision-making skills and develop
 plans to achieve their career aspirations and life goals. Through ECG,
 social emotional competencies such as proactivity, adaptability and resilience
-are developed to prepare students for the 21st Century workforce.
-<br>
-<br>
-</p>
-<p>Through the ECG Curriculum, we aim to:
-<br>
-</p>
-<p>• deepen students’ understanding of self and relate schooling to the different
-education and career pathways
-<br>• enable students to synthesise information gathered from relevant sources
-to make sound educational and career decisions</p>
-<p>At Yio Chu Kang Secondary School, the ECG curriculum is delivered through
-the following three modes:
-<br>
-</p>
-<ol data-tight="true" class="tight">
+are developed to prepare students for the 21st Century workforce.</p>
+<p>Through the ECG Curriculum, we aim to:</p>
+<ul data-tight="true" class="tight">
 <li>
-<p><strong>ECG Curriculum</strong>
-<br>
-</p>
+<p>deepen students’ understanding of self and relate schooling to the different
+education and career pathways.</p>
 </li>
-</ol>
-<p>•&nbsp;Structured ECG Lessons
+<li>
+<p>enable students to synthesise information gathered from relevant sources
+to make sound educational and career decisions.</p>
+</li>
+</ul>
+<p></p>
+<p>At Yio Chu Kang Secondary School, the ECG curriculum is delivered through
+the following three modes:</p>
+<h4><strong>1. ECG Curriculum</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Structured ECG Lessons </strong>
 <br>Time in the curriculum is put aside to introduce students to information
 about careers and future education options.&nbsp; We encourage students
 to take ownership of their own learning and development, and understand
 the importance of continued learning as they progress beyond secondary
-school years.
-<br>
-<br>
-</p>
-<p>•&nbsp;MySkillsFuture portal
+school years.</p>
+</li>
+<li>
+<p><strong>MySkillsFuture portal </strong>
 <br>This is an online portal that facilitates education and career development
 among students. Students are introduced to this tool to help them uncover
 their attributes,find out more about different careers that they might
@@ -92,20 +113,13 @@ be interested in and chart their educational pathways to achieve their
 aspirations. Students will have guided lessons on how to use this portal
 and it can be accessed from home.
 <br>
-<br>
-</p>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p><strong>ECG Experience</strong>
-<br>
 </p>
 </li>
-</ol>
+</ul>
+<h4><strong>2. ECG Experience</strong></h4>
 <p>To make the learning real and to equip students with a better understanding
 of the multiple pathways to success, students go through the following
-ECG experiences.
-<br>
-</p>
+ECG experiences.</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -120,34 +134,42 @@ ECG experiences.
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Express</strong>
+<p><strong>EXPRESS</strong>
 </p>
 </th>
 <th rowspan="1" colspan="2">
-<p><strong>Normal Academic</strong>
+<p><strong>NORMAL ACADEMIC</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Normal Technical</strong>
+<p><strong>NORMAL TECHNICAL</strong>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 1</strong>
+<p><strong>SEC 1</strong>
 </p>
 </td>
 <td rowspan="1" colspan="4">
-<p>ECG Trail</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;ECG
+Trail</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 2</strong>
+<p><strong>SEC 2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p>WorldSkills Singapore 2018</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;WorldSkills
+Singapore 2018</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Experience ITE Programme</p>
@@ -155,7 +177,7 @@ ECG experiences.
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p><strong>Sec 3</strong>
+<p><strong>SEC 3</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -170,47 +192,64 @@ ECG experiences.
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Polytechnic Attachment</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Polytechnic
+Attachment</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Advanced Elective Modules
-<br>(Polytechnic-based)
+<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advanced Elective
+Modules
+<br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;(Polytechnic-based)
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Elective Modules
-<br>(school-based and ITE-based)</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;Elective Modules
+<br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(school-based
+and ITE-based)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 4/5</strong>
+<p><strong>SEC 4/5</strong>
 </p>
 </td>
 <td rowspan="1" colspan="4">
-<p>
-<br>Visit Junior College (JC) Open Houses
-<br>
-<br>Visit Polytechnic (Poly) Open Houses
-<br>
-<br>Personal Grooming and Interview Skills workshop during Sec 4/5 cohort
-camp
-<br>
-<br>Career Seminar during Sec 4/5 cohort camp
-<br>
-<br>Career Advising by Poly lecturers
-<br>
-<br>JC curriculum and DSA Talk by JC lecturers
-<br>
-<br>EAE Poly preparatory workshop conducted by Poly lecturers
-<br>
-<br>EAE ITE preparatory talk conducted by ITE lecturers
+<ul data-tight="true" class="tight">
+<li>
+<p>Visit Junior College (JC) Open Houses</p>
+</li>
+<li>
+<p>Visit Polytechnic (Poly) Open Houses</p>
+</li>
+<li>
+<p>Personal Grooming and Interview Skills workshop during Sec 4/5 cohort
+camp</p>
+</li>
+<li>
+<p>Career Seminar during Sec 4/5 cohort camp</p>
+</li>
+<li>
+<p>Career Advising by Poly lecturers</p>
+</li>
+<li>
+<p>JC curriculum and DSA Talk by JC lecturers</p>
+</li>
+<li>
+<p>EAE Poly preparatory workshop conducted by Poly lecturers</p>
+</li>
+<li>
+<p>EAE ITE preparatory talk conducted by ITE lecturers
 <br>
 <br>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -220,33 +259,24 @@ camp
 </p>
 </td>
 <td rowspan="1" colspan="4">
+<ul data-tight="true" class="tight">
+<li>
 <p>JIE Briefing during GCE N-level exam results release
 <br><a href="/files/ECG/Choosing_JIE_Choices_for_2026_admissions__YCKSS_4MB.pdf" rel="noopener nofollow" target="_blank">Choosing JIE Choices for 2026 admissions</a>
-<br>
-<br>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="4">
-<p>JAE Briefing during GCE O-level exam results release</p>
-<p><a href="/files/ECG/Choosing_JAE_Choices_2026__YCKSS_.pdf" rel="noopener nofollow" target="_blank">Choosing JAE Choices for 2026 admissions</a>
+</li>
+<li>
+<p>JAE Briefing during GCE O-level exam results release
+<br><a href="/files/ECG/Choosing_JAE_Choices_2026__YCKSS_.pdf" rel="noopener nofollow" target="_blank">Choosing JAE Choices for 2026 admissions</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<ol start="3">
-<li>
-<p><strong>ECG Counselling</strong>
-<br>
-<br>Our school’s ECG Counsellor, Mr Isaac Ling, is stationed in our school
+<h4><strong>3. ECG Counselling</strong></h4>
+<p>Our school’s ECG Counsellor, Mr Isaac Ling, is stationed in our school
 every Tuesday, Wednesday and selected Fridays to provide ECG counselling
 and support students in making informed decisions on their education and
 career pathways. Students (and their parents) who would like to find out
@@ -256,59 +286,71 @@ Counsellor. Mr Isaac also conducts in house workshops for teachers and
 provides individual and group counselling to students in decision making
 such that they can, in the future, contribute meaningfully to society through
 their future professions.
-<br>To make an appointment, please click here: <a href="https://go.gov.sg/yckssecg" rel="noopener noreferrer nofollow" target="_blank&quot;">https://go.gov.sg/yckssecg</a>
-<br>or scan the QR Code below.</p>
-<p></p>
+<br>To make an appointment, please click here: <a href="https://go.gov.sg/yckssecg" rel="noopener noreferrer nofollow" target="_blank&quot;">https://go.gov.sg/yckssecg </a>or scan
+the QR Code within the poster below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Non Academic Programmes/CCE/ECG/YCKSS_Booking_Poster_for_website.jpg">
 </div>
-</li>
-</ol>
-<p>To find out more about post-secondary education and pathways, please click
-on the following resources:</p>
-<p>
-<br>Post-Secondary Education:</p>
-<p><a href="https://www.moe.gov.sg/post-secondary" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/post-secondary</a>
+<p>You can find out more about post-secondary education and pathway via the
+links to the following resources:</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.moe.gov.sg/post-secondary" rel="noopener nofollow" target="_blank">Post-Secondary Education</a></strong>
 </p>
+</td>
+<th rowspan="1" colspan="1">
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener nofollow" target="_blank">My SkillsFuture Student Portal</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">MOE Course Finder</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/schoolfinder" rel="noopener nofollow" target="_blank">MOE School Finder</a>
+</p>
+</th>
+</tr>
+</tbody>
+</table>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://isomer-user-content.by.gov.sg/145/e749bab7-af37-48cd-b099-10ea2eeda530/Admission%20&amp;%20Course%20Information%20Brochure%20for%20GCE%20'N'%20Level%20students.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">JIE ITE Booklet for NT 2025 &amp; NA 2025</div><div class="isomer-card-description">Admission &amp; Course Information Brochure for January 2026 Joint Intake Exercise (JIE) for Full-Time Courses</div><div class="isomer-card-link">Download the PDF here.</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://isomer-user-content.by.gov.sg/145/ff6ade19-0d2d-4996-b513-1abf839ea910/25110056_ITE25_7516%20ITE%20GCE%20O-Level-c2.pdf" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">JIE/JAE ITE Booklet for EXP 2025</div>
+<div class="isomer-card-description">Admission &amp; Course Information Brochure for January 2026 Joint Intake
+Exercise 'O' (JIE 'O') and April 2026 Joint Admissions Exercise (JAE) for
+Full-Time Courses</div>
+<div class="isomer-card-link">Download the PDF here.</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/api/media/c5d92104-5e87-4b87-a989-df661c3aa57b/2026-JAE-Courses.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">JAE Booklet for EXP 2025</div><div class="isomer-card-description">2026 JAE Courses PDF.</div><div class="isomer-card-link">Download the PDF here.</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://isomer-user-content.by.gov.sg/145/49ab6a2a-fbd3-490b-8171-c12f9d3a1fec/ITE%20Course%20Booklet%202026%201.pdf" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">ITE Course Booklet 2026</div>
+<div class="isomer-card-description">ITE provides hands-on career training through Higher Nitec, DPP, and Diploma
+programmes across three colleges, offering multiple pathways to polytechnics
+and universities.</div>
+<div class="isomer-card-link">Download the Course Booklet.</div>
+</div>
+</a>
+</div>
 <p></p>
-<p>My SkillsFuture Student Portal:</p>
-<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary.html</a>
-</p>
-<p>MOE Course Finder:</p>
-<p><a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>
-</p>
-<p>MOE School Finder:</p>
-<p><a href="https://www.moe.gov.sg/schoolfinder" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/schoolfinder</a>
-</p>
-<p>
-<br>ITE Course Booklet 2026:</p>
-<p><a href="https://isomer-user-content.by.gov.sg/145/49ab6a2a-fbd3-490b-8171-c12f9d3a1fec/ITE%20Course%20Booklet%202026%201.pdf" rel="noopener nofollow" target="_blank">https://isomer-user-content.by.gov.sg/145/49ab6a2a-fbd3-490b-8171-c12f9d3a1fec/ITE%20Course%20Booklet%202026%201.pdf</a>
-</p>
-<p></p>
-<p>JIE ITE Booklet for NT 2025:</p>
-<p><a href="https://isomer-user-content.by.gov.sg/145/1e485194-f09b-40d2-8e17-0fbfdf660a26/Admission%20&amp;%20Course%20Information%20Brochure%20for%20GCE%20'N'%20Level%20students.pdf" rel="noopener nofollow" target="_blank">https://isomer-user-content.by.gov.sg/145/1e485194-f09b-40d2-8e17-0fbfdf660a26/Admission%20&amp;%20Course%20Information%20Brochure%20for%20GCE%20'N'%20Level%20students.pdf</a>
-</p>
-<p></p>
-<p>JIE ITE Booklet for NA 2025:</p>
-<p><a href="https://isomer-user-content.by.gov.sg/145/e749bab7-af37-48cd-b099-10ea2eeda530/Admission%20&amp;%20Course%20Information%20Brochure%20for%20GCE%20'N'%20Level%20students.pdf" rel="noopener nofollow" target="_blank">https://isomer-user-content.by.gov.sg/145/e749bab7-af37-48cd-b099-10ea2eeda530/Admission%20&amp;%20Course%20Information%20Brochure%20for%20GCE%20'N'%20Level%20students.pdf</a>
-</p>
-<p></p>
-<p>What's Next after N-Levels 2025:</p>
-<p><a href="https://go.gov.sg/whats-next-nlevel" rel="noopener nofollow" target="_blank">https://go.gov.sg/whats-next-nlevel</a>
-</p>
-<p></p>
-<p>JIE / JAE ITE Booklet for EXP 2025:</p>
-<p><a href="https://isomer-user-content.by.gov.sg/145/ff6ade19-0d2d-4996-b513-1abf839ea910/25110056_ITE25_7516%20ITE%20GCE%20O-Level-c2.pdf" rel="noopener nofollow" target="_blank">https://isomer-user-content.by.gov.sg/145/ff6ade19-0d2d-4996-b513-1abf839ea910/25110056_ITE25_7516%20ITE%20GCE%20O-Level-c2.pdf</a>
-</p>
-<p></p>
-<p>JAE Booklet for EXP 2025:</p>
-<p><a href="https://www.moe.gov.sg/-/media/files/post-secondary/2026-jae/2026-jae-courses.pdf" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/post-secondary/2026-jae/2026-jae-courses.pdf</a>
-</p>
-<p></p>
-<p>What's Next after O-Levels 2025:</p>
-<p><a href="https://go.gov.sg/whats-next-olevel" rel="noopener nofollow" target="_blank">https://go.gov.sg/whats-next-olevel</a>
-</p>
-<p>&nbsp;</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/whats-next-nlevel" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">What's Next after N-Levels 2025?</div><div class="isomer-card-link">Click here to find out ...</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/whats-next-olevel" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">What's Next after O-Levels 2025?</div>
+<div class="isomer-card-link">Click here to find out ...</div>
+</div>
+</a>
+</div>
+<hr>
 <h4><strong>National Education (NE)</strong></h4>
 <p></p>
 <p>National Education is experienced through the 4 key NE celebrations that
@@ -335,9 +377,7 @@ International Students Integration Programme group.
 <div class="isomer-image-wrapper">
 <img style="width:100%;height:50%" height="auto" width="100%" src="/images/Our%20Curriculum/Non%20Academic%20Programmes/CCE/National%20Education%20(NE)/N2.png">
 </div>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
+<hr>
 <h4><strong>Sexuality Education (SEd)</strong></h4>
 <p><strong>MOE Sexuality Education in Schools</strong>
 </p>

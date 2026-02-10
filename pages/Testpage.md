@@ -66,10 +66,10 @@ variant: markdown
   <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/4_Physical_ActiveHealthLife.jpg">
 </figure>
 			</section>
-			<section style="display: none;">
-<div style="--width: 0
-                                            --height: 0;
-                                            --quantity: 0;" class="carousel slider">
+			<section>
+<div style="--width: 480px
+                                            --height: 320px;
+                                            --quantity: 4;" class="carousel slider">
         <div class="carousel list">
             <div style="--position: 1" class="carousel item">
                 <div class="carousel card">
