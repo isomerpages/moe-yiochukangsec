@@ -336,7 +336,28 @@ links to the following resources:</p>
 <p>What's Next after O-Levels 2025:</p>
 <p><a href="https://go.gov.sg/whats-next-olevel" rel="noopener nofollow" target="_blank">https://go.gov.sg/whats-next-olevel</a>
 </p>
-<p>&nbsp;</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://isomer-user-content.by.gov.sg/145/e749bab7-af37-48cd-b099-10ea2eeda530/Admission%20&amp;%20Course%20Information%20Brochure%20for%20GCE%20'N'%20Level%20students.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">JIE ITE Booklet for NT 2025 &amp; NA 2025</div><div class="isomer-card-description">Admission &amp; Course Information Brochure for January 2026 Joint Intake Exercise (JIE) for Full-Time Courses</div><div class="isomer-card-link">Download the PDF here.</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://isomer-user-content.by.gov.sg/145/ff6ade19-0d2d-4996-b513-1abf839ea910/25110056_ITE25_7516%20ITE%20GCE%20O-Level-c2.pdf" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">JIE/JAE ITE Booklet for EXP 2025</div>
+<div class="isomer-card-description">Admission &amp; Course Information Brochure for January 2026 Joint Intake
+Exercise 'O' (JIE 'O') and April 2026 Joint Admissions Exercise (JAE) for
+Full-Time Courses</div>
+<div class="isomer-card-link">Download the PDF here.</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/api/media/c5d92104-5e87-4b87-a989-df661c3aa57b/2026-JAE-Courses.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">JAE Booklet for EXP 2025</div><div class="isomer-card-description">2026 JAE Courses PDF.</div><div class="isomer-card-link">Download the PDF here.</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://isomer-user-content.by.gov.sg/145/49ab6a2a-fbd3-490b-8171-c12f9d3a1fec/ITE%20Course%20Booklet%202026%201.pdf" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">ITE Course Booklet 2026</div>
+<div class="isomer-card-description">ITE provides hands-on career training through Higher Nitec, DPP, and Diploma
+programmes across three colleges, offering multiple pathways to polytechnics
+and universities.</div>
+<div class="isomer-card-link">Download the Course Booklet.</div>
+</div>
+</a>
+</div>
+<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/whats-next-nlevel" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">What's Next after N-Levels 2025?</div><div class="isomer-card-link">Click here to find out ...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/whats-next-olevel" class="isomer-card">
 <div class="isomer-card-body">
