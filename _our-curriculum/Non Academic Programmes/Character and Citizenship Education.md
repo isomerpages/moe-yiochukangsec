@@ -294,49 +294,34 @@ the QR Code within the poster below.</p>
 </div>
 <p>You can find out more about post-secondary education and pathway via the
 links to the following resources:</p>
-<p>
-<br>Post-Secondary Education:</p>
-<p><a href="https://www.moe.gov.sg/post-secondary" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/post-secondary</a>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.moe.gov.sg/post-secondary" rel="noopener nofollow" target="_blank">Post-Secondary Education</a></strong>
 </p>
-<p></p>
-<p>My SkillsFuture Student Portal:</p>
-<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary.html</a>
+</td>
+<th rowspan="1" colspan="1">
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener nofollow" target="_blank">My SkillsFuture Student Portal</a>
 </p>
-<p>MOE Course Finder:</p>
-<p><a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">MOE Course Finder</a>
 </p>
-<p>MOE School Finder:</p>
-<p><a href="https://www.moe.gov.sg/schoolfinder" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/schoolfinder</a>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/schoolfinder" rel="noopener nofollow" target="_blank">MOE School Finder</a>
 </p>
-<p>
-<br>ITE Course Booklet 2026:</p>
-<p><a href="https://isomer-user-content.by.gov.sg/145/49ab6a2a-fbd3-490b-8171-c12f9d3a1fec/ITE%20Course%20Booklet%202026%201.pdf" rel="noopener nofollow" target="_blank">https://isomer-user-content.by.gov.sg/145/49ab6a2a-fbd3-490b-8171-c12f9d3a1fec/ITE%20Course%20Booklet%202026%201.pdf</a>
-</p>
-<p></p>
-<p>JIE ITE Booklet for NT 2025:</p>
-<p><a href="https://isomer-user-content.by.gov.sg/145/1e485194-f09b-40d2-8e17-0fbfdf660a26/Admission%20&amp;%20Course%20Information%20Brochure%20for%20GCE%20'N'%20Level%20students.pdf" rel="noopener nofollow" target="_blank">https://isomer-user-content.by.gov.sg/145/1e485194-f09b-40d2-8e17-0fbfdf660a26/Admission%20&amp;%20Course%20Information%20Brochure%20for%20GCE%20'N'%20Level%20students.pdf</a>
-</p>
-<p></p>
-<p>JIE ITE Booklet for NA 2025:</p>
-<p><a href="https://isomer-user-content.by.gov.sg/145/e749bab7-af37-48cd-b099-10ea2eeda530/Admission%20&amp;%20Course%20Information%20Brochure%20for%20GCE%20'N'%20Level%20students.pdf" rel="noopener nofollow" target="_blank">https://isomer-user-content.by.gov.sg/145/e749bab7-af37-48cd-b099-10ea2eeda530/Admission%20&amp;%20Course%20Information%20Brochure%20for%20GCE%20'N'%20Level%20students.pdf</a>
-</p>
-<p></p>
-<p>What's Next after N-Levels 2025:</p>
-<p><a href="https://go.gov.sg/whats-next-nlevel" rel="noopener nofollow" target="_blank">https://go.gov.sg/whats-next-nlevel</a>
-</p>
-<p></p>
-<p>JIE / JAE ITE Booklet for EXP 2025:</p>
-<p><a href="https://isomer-user-content.by.gov.sg/145/ff6ade19-0d2d-4996-b513-1abf839ea910/25110056_ITE25_7516%20ITE%20GCE%20O-Level-c2.pdf" rel="noopener nofollow" target="_blank">https://isomer-user-content.by.gov.sg/145/ff6ade19-0d2d-4996-b513-1abf839ea910/25110056_ITE25_7516%20ITE%20GCE%20O-Level-c2.pdf</a>
-</p>
-<p></p>
-<p>JAE Booklet for EXP 2025:</p>
-<p><a href="https://www.moe.gov.sg/-/media/files/post-secondary/2026-jae/2026-jae-courses.pdf" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/post-secondary/2026-jae/2026-jae-courses.pdf</a>
-</p>
-<p></p>
-<p>What's Next after O-Levels 2025:</p>
-<p><a href="https://go.gov.sg/whats-next-olevel" rel="noopener nofollow" target="_blank">https://go.gov.sg/whats-next-olevel</a>
-</p>
-<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://isomer-user-content.by.gov.sg/145/e749bab7-af37-48cd-b099-10ea2eeda530/Admission%20&amp;%20Course%20Information%20Brochure%20for%20GCE%20'N'%20Level%20students.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">JIE ITE Booklet for NT 2025 &amp; NA 2025</div><div class="isomer-card-description">Admission &amp; Course Information Brochure for January 2026 Joint Intake Exercise (JIE) for Full-Time Courses</div><div class="isomer-card-link">Download the PDF here.</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://isomer-user-content.by.gov.sg/145/ff6ade19-0d2d-4996-b513-1abf839ea910/25110056_ITE25_7516%20ITE%20GCE%20O-Level-c2.pdf" class="isomer-card">
 <div class="isomer-card-body">
