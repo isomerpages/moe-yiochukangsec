@@ -15,7 +15,7 @@ image: /images/YCKLogo.svg
                 <p>Held at regular intervals, these activities offer staff a consistent opportunity to pause, recharge, and prioritise their health together, thereby reinforcing the belief that caring for oneself is just as important as caring for others.</p>
             </section>
             <section>
-                <div style="--width: 360px; --height: 240px; --quantity: 4;" class="carousel slider">
+                <div style="--width: 360px; --height: 240px; --quantity: 4; --duration: 30s;" class="carousel slider">
                     <div class="carousel list">
                         <div style="--position: 1" class="carousel item">
                             <div class="carousel card">
@@ -49,7 +49,7 @@ image: /images/YCKLogo.svg
                 </div>
             </section>
             <section>
-                <div style="--width: 360px; --height: 220px; --quantity: 7;" class="carousel glider">
+                <div style="--width: 360px; --height: 220px; --quantity: 7; --duration: 50s;" class="carousel glider">
                     <div class="carousel list">
                         <div style="--position: 1" class="carousel item">
                             <div class="carousel card">
@@ -121,7 +121,7 @@ image: /images/YCKLogo.svg
             <section id="carousels">
                 <div style="--width: 480px;
                                             --height: 320px;
-                                            --quantity: 15;" class="carousel slider">
+                                            --quantity: 15; --duration: 100s;" class="carousel slider">
                     <div class="carousel list">
                         <div style="--position: 1" class="carousel item">
                             <div class="carousel card">
@@ -1780,7 +1780,6 @@ h6,
     opacity: 1;
 }
 
-
 .yck-component .carousel.card {
     width: 100%;
     height: 100%;
@@ -1819,21 +1818,21 @@ h6,
     height: var(--height);
     position: absolute;
     left: 100%;
-    animation: autoRun 30s linear infinite;
+    animation: autoRun var(--duration) linear infinite;
     transition: filter 1.5s;
-    animation-delay: calc((30s / var(--quantity)) * (var(--position) - 1) - 30s) !important;
+    animation-delay: calc((var(--duration) / var(--quantity)) * (var(--position) - 1) - var(--duration)) !important;
 }
-	
+    
 .yck-component .carousel.glider .list .item {
     width: var(--width);
     height: var(--height);
     position: absolute;
     left: 100%;
-    animation: reversePlay 30s linear infinite;
+    animation: reversePlay var(--duration) linear infinite;
     transition: filter 1.5s;
-    animation-delay: calc((30s / var(--quantity)) * (var(--position) - 1) - 30s) !important;
+    animation-delay: calc((var(--duration) / var(--quantity)) * (var(--position) - 1) - var(--duration)) !important;
 }
-	
+    
 .yck-component .carousel.slider .list .item img,
 .yck-component .carousel.glider .list .item img {
     width: 100%;
@@ -1861,7 +1860,7 @@ h6,
 }
 
 .yck-component .carousel.glider .item {
-    animation: reversePlay 30s linear infinite;
+    animation: reversePlay var(--duration) linear infinite;
 }
 
 @keyframes reversePlay {
@@ -1883,7 +1882,7 @@ h6,
 
 @supports (animation-timeline: view()) {
     .yck-component :is(.yck__flexitem, .yck__card, .grid-item, .isomer-card) {
-        animation: fade-in-right ease-in-out both;
+        animation: fade-in-bloom ease-in-out both;
         animation-timeline: view();
         animation-range: entry 10% cover 40%;
     }
