@@ -968,6 +968,7 @@ body {
     word-break: break-word;
     overflow-wrap: break-word;
     background-color: inherit;
+ 	 scroll-behavior: smooth;
 }
 
 a {
@@ -1802,6 +1803,8 @@ h6,
     width: 100%;
     height: var(--height);
     overflow: hidden;
+	  overflow-x: auto;
+    overflow-y: hidden;
     mask-image: linear-gradient(to right, transparent, #000 10% 90%, transparent);
 }
 
