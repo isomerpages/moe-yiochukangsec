@@ -22,7 +22,7 @@ on 30 Jan 2026)</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Students/Assessment Information Sche/latestSecondary_3_Weighted_Assessment_Schedule__Term_1__2026updated_0602latest.pdf" rel="noopener nofollow" target="_blank">Sec 3 WA schedule Term 1</a>
+<p><a href="/files/Students/Assessment Information Sche/10FebSecondary_3_Weighted_Assessment_Schedule__Term_1__20261002.pdf" rel="noopener nofollow" target="_blank">Sec 3 WA schedule Term 1  updated on 10 Feb,26</a>
 </p>
 </li>
 <li>
