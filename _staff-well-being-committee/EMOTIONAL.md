@@ -133,11 +133,12 @@ image: /images/YCKLogo.svg
                                     "I enjoyed the potluck session very much. I was able to eat and bond with my colleagues."<cite>Annonymous ...</cite>
                                 </div>
                             </div>
+                            &nbsp;
                             <div class="quote">
                                 <div class="blockquote">
                                     "Everyone was generous in bringing so much food to the table."<cite>Annonymous ...</cite>
                                 </div>
-                            </div>
+                            </div>&nbsp;
                         </div>
                         <figure>
                             <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/SWC%20Activities/Emotional/E10.png"></figure>
