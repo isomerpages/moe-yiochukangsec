@@ -8,58 +8,129 @@ variant: markdown
 	<div class="regular-flow">
 		<article>
 			<section>
-				<figure>
-<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/1_SocialFruitsGalore2026.jpg">
-</figure>
-<figure>
-<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2_SocialFruitsGalore2026.jpg">
-</figure>
-<figure>
-<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/3_SocialFruitsGalore2026.jpg">
-</figure>
-<figure>
-<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/4_SocialFruitsGalore2026.jpg">
-</figure>
-<figure>
-<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/5_SocialFruitsGalore2026.jpg">
-</figure>
-<figure>
-<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/6_SocialFruitsGalore2026.jpg">
-</figure>
-<figure>
-<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/7_SocialFruitsGalore2026.jpg">
-</figure>
-<figure>
-<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/8_SocialFruitsGalore2026.jpg">
-</figure>
-<figure>
-<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/9_SocialFruitsGalore2026.jpg">
-</figure>
-<figure>
-<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/10_SocialFruitsGalore2026.jpg">
-</figure>
-<figure>
-<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/11_SocialFruitsGalore2026.jpg">
-</figure>
-<figure>
-<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/12_SocialFruitsGalore2026.jpg">
-</figure>
-<figure>
-<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/13_SocialFruitsGalore2026.jpg">
-</figure>
-<figure>
-<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/14_SocialFruitsGalore2026.jpg">
-</figure>
-<figure>
-<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/15_SocialFruitsGalore2026.jpg">
-</figure>
-<figure>
-<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/16_SocialFruitsGalore2026.jpg">
-</figure>
-<figure>
-<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/17_SocialFruitsGalore2026.jpg">
-</figure>
-			</section>
+<div style="--width: 480px;  --height: 360px;  --quantity: 17; --duration: 65s;" class="carousel glider">
+    <div class="carousel list">
+        <div style="--position: 1" class="carousel item">
+            <div class="carousel card">
+                <figure>
+                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/1_SocialFruitsGalore2026.jpg">
+                </figure>
+            </div>
+        </div>
+        <div style="--position: 2" class="carousel item">
+            <div class="carousel card">
+                <figure>
+                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2_SocialFruitsGalore2026.jpg">
+                </figure>
+            </div>
+        </div>
+        <div style="--position: 3" class="carousel item">
+            <div class="carousel card">
+                <figure>
+                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/3_SocialFruitsGalore2026.jpg">
+                </figure>
+            </div>
+        </div>
+        <div style="--position: 4" class="carousel item">
+            <div class="carousel card">
+                <figure>
+                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/4_SocialFruitsGalore2026.jpg">
+                </figure>
+            </div>
+        </div>
+        <div style="--position: 5" class="carousel item">
+            <div class="carousel card">
+                <figure>
+                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/5_SocialFruitsGalore2026.jpg">
+                </figure>
+            </div>
+        </div>
+        <div style="--position: 6" class="carousel item">
+            <div class="carousel card">
+                <figure>
+                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/6_SocialFruitsGalore2026.jpg">
+                </figure>
+            </div>
+        </div>
+        <div style="--position: 7" class="carousel item">
+            <div class="carousel card">
+                <figure>
+                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/7_SocialFruitsGalore2026.jpg">
+                </figure>
+            </div>
+        </div>
+        <div style="--position: 8" class="carousel item">
+            <div class="carousel card">
+                <figure>
+                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/8_SocialFruitsGalore2026.jpg">
+                </figure>
+            </div>
+        </div>
+        <div style="--position: 9" class="carousel item">
+            <div class="carousel card">
+                <figure>
+                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/9_SocialFruitsGalore2026.jpg">
+                </figure>
+            </div>
+        </div>
+        <div style="--position: 10" class="carousel item">
+            <div class="carousel card">
+                <figure>
+                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/10_SocialFruitsGalore2026.jpg">
+                </figure>
+            </div>
+        </div>
+        <div style="--position: 11" class="carousel item">
+            <div class="carousel card">
+                <figure>
+                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/11_SocialFruitsGalore2026.jpg">
+                </figure>
+            </div>
+        </div>
+        <div style="--position: 12" class="carousel item">
+            <div class="carousel card">
+                <figure>
+                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/12_SocialFruitsGalore2026.jpg">
+                </figure>
+            </div>
+        </div>
+        <div style="--position: 13" class="carousel item">
+            <div class="carousel card">
+                <figure>
+                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/13_SocialFruitsGalore2026.jpg">
+                </figure>
+            </div>
+        </div>
+        <div style="--position: 14" class="carousel item">
+            <div class="carousel card">
+                <figure>
+                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/14_SocialFruitsGalore2026.jpg">
+                </figure>
+            </div>
+        </div>
+        <div style="--position: 15" class="carousel item">
+            <div class="carousel card">
+                <figure>
+                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/15_SocialFruitsGalore2026.jpg">
+                </figure>
+            </div>
+        </div>
+        <div style="--position: 16" class="carousel item">
+            <div class="carousel card">
+                <figure>
+                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/16_SocialFruitsGalore2026.jpg">
+                </figure>
+            </div>
+        </div>
+        <div style="--position: 17" class="carousel item">
+            <div class="carousel card">
+                <figure>
+                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/17_SocialFruitsGalore2026.jpg">
+                </figure>
+            </div>
+        </div>
+    </div>
+</div>
 			<section id="carousels">
     <div style="--width: 480px;
                                             --height: 270px;
@@ -139,7 +210,7 @@ variant: markdown
 Student Leadership &amp; Student Well-Being<br>&nbsp;</p>
   </div>
 </div>
-</section></article></div>
+</section></section></article></div>
 
 
 </div>
@@ -710,70 +781,103 @@ h6,
 }
 /* --- Carousel --- */
 
+
 .yck-component .carousel.card {
-  width: 100%;
-  height: 100%;
-	overflow: hidden;
-  border-radius: var(--yck-rounded-corners);
-  color: whitesmoke;
-  text-align: center;
+    width: 100%;
+    height: 100%;
+    border-radius: var(--yck-rounded-corners);
+    overflow: hidden;
+    color: whitesmoke;
+    text-align: center;
 }
 
 .yck-component .carousel.card p {
-  font-size: var(--yck-step-0);
-  color: var(--neutral-800);
+    font-size: var(--yck-step-0);
+    color: var(--neutral-800);
 }
 
-.yck-component .carousel.slider {
-  width: 100%;
-  height: var(--height);
-  overflow: hidden;
-  mask-image: linear-gradient(to right, transparent, #000 10% 90%, transparent);
+.yck-component .carousel.slider,
+.yck-component .carousel.glider {
+    margin-bottom: 1em;
+    width: 100%;
+    height: var(--height);
+    overflow: hidden;
+    overflow-x: auto;
+    overflow-y: hidden;
+    mask-image: linear-gradient(to right, transparent, #000 10% 90%, transparent);
 }
-.yck-component .carousel.slider .list {
-  display: flex;
-  width: 100%;
-  min-width: calc(var(--width) * var(--quantity));
-  position: relative;
+
+.yck-component .carousel.slider .list,
+.yck-component .carousel.glider .list {
+    display: flex;
+    width: 100%;
+    min-width: calc(var(--width) * var(--quantity));
+    position: relative;
 }
+
 .yck-component .carousel.slider .list .item {
-  width: var(--width);
-  height: var(--height);
-  position: absolute;
-  left: 100%;
-  animation: autoRun 50s linear infinite;
-  transition: filter 1s;
-  animation-delay: calc(
-    (50s / var(--quantity)) * (var(--position) - 1) - 50s) !important;
+    width: var(--width);
+    height: var(--height);
+    position: absolute;
+    left: 100%;
+    animation: autoRun var(--duration) linear infinite;
+    transition: filter 1.5s;
+    animation-delay: calc((var(--duration) / var(--quantity)) * (var(--position) - 1) - var(--duration)) !important;
 }
-.yck-component .carousel.slider .list .item img {
-  width: 100%;
+
+.yck-component .carousel.slider[reverse="true"] .item {
+    animation: reversePlay var(--duration) linear infinite;
 }
+
+.yck-component .carousel.glider .list .item {
+    width: var(--width);
+    height: var(--height);
+    position: absolute;
+    left: 100%;
+    animation: reversePlay var(--duration) linear infinite;
+    transition: filter 1.5s;
+    animation-delay: calc((var(--duration) / var(--quantity)) * (var(--position) - 1) - var(--duration)) !important;
+}
+
+.yck-component .carousel.slider .list .item img,
+.yck-component .carousel.glider .list .item img {
+    width: 100%;
+}
+
 @keyframes autoRun {
-  from {
-    left: 100%;
-  }
-  to {
-    left: calc(var(--width) * -1);
-  }
+    from {
+        left: 100%;
+    }
+
+    to {
+        left: calc(var(--width) * -1);
+    }
 }
-.yck-component .carousel.slider:hover .item {
-  animation-play-state: paused !important;
-  filter: grayscale(1);
+
+.yck-component .carousel.slider:hover .item,
+.yck-component .carousel.glider:hover .item {
+    animation-play-state: paused !important;
+    filter: grayscale(1);
 }
-.yck-component .carousel.slider .item:hover {
-  filter: grayscale(0);
+
+.yck-component .carousel.slider .item:hover,
+.yck-component .carousel.glider .item:hover {
+    filter: grayscale(0);
+    box-shadow: var(--shadow-4);
 }
-.yck-component .carousel.slider[reverse="false"] .item {
-  animation: reversePlay 10s linear infinite;
+
+.yck-component .carousel.glider .item {
+    animation: reversePlay var(--duration) linear infinite;
 }
+
 @keyframes reversePlay {
-  from {
-    left: calc(var(--width) * -1);
-  }
-  to {
-    left: 100%;
-  }
+    from {
+        left: calc(var(--width) * -1);
+    }
+
+    to {
+        left: 100%;
+    }
 }
 	
 .card01 {
