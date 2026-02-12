@@ -9,98 +9,56 @@ variant: markdown
 		<article>
 			<section>
 				<figure>
-  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/5_Physical_Aerobics.jpg">
+<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/1_SocialFruitsGalore2026.jpg">
 </figure>
 <figure>
-  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/6_Physical_Aerobics.jpg">
+<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/2_SocialFruitsGalore2026.jpg">
 </figure>
 <figure>
-  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/7_Physical_Aerobics.jpg">
+<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/3_SocialFruitsGalore2026.jpg">
 </figure>
 <figure>
-  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/8_Physical_Aerobics.jpg">
+<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/4_SocialFruitsGalore2026.jpg">
 </figure>
 <figure>
-  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/9_Physical_Aerobics.jpg">
+<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/5_SocialFruitsGalore2026.jpg">
 </figure>
 <figure>
-  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/10_Physical_Aerobics.jpg">
+<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/6_SocialFruitsGalore2026.jpg">
 </figure>
 <figure>
-  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/11_Physical_Aerobics.jpg">
+<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/7_SocialFruitsGalore2026.jpg">
 </figure>
 <figure>
-  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/12_Physical_Aerobics.jpg">
+<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/8_SocialFruitsGalore2026.jpg">
 </figure>
 <figure>
-  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/13_Physical_Aerobics.jpg">
+<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/9_SocialFruitsGalore2026.jpg">
 </figure>
 <figure>
-  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/14_Physical_Aerobics.jpg">
+<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/10_SocialFruitsGalore2026.jpg">
 </figure>
 <figure>
-  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/15_Physical_Aerobics.jpg">
+<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/11_SocialFruitsGalore2026.jpg">
 </figure>
 <figure>
-  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/16_Physical_Aerobics.jpg">
+<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/12_SocialFruitsGalore2026.jpg">
 </figure>
 <figure>
-  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/17_Physical_Aerobics.jpg">
+<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/13_SocialFruitsGalore2026.jpg">
 </figure>
 <figure>
-  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/18_Physical_Aerobics.jpg">
+<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/14_SocialFruitsGalore2026.jpg">
 </figure>
 <figure>
-  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/19_Physical_Aerobics.jpg">
+<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/15_SocialFruitsGalore2026.jpg">
 </figure>
 <figure>
-  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/1_Physical_ActiveHealthLife.jpg">
+<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/16_SocialFruitsGalore2026.jpg">
 </figure>
 <figure>
-  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/2_Physical_ActiveHealthLife.jpg">
+<img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Social/17_SocialFruitsGalore2026.jpg">
 </figure>
-<figure>
-  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/3_Physical_ActiveHealthLife.jpg">
-</figure>
-<figure>
-  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/4_Physical_ActiveHealthLife.jpg">
-</figure>
-			</section>
-			<section>
-<div style="--width: 480px
-                                            --height: 320px;
-                                            --quantity: 4;" class="carousel slider">
-        <div class="carousel list">
-            <div style="--position: 1" class="carousel item">
-                <div class="carousel card">
-									<figure>
-  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/1_Physical_ActiveHealthLife.jpg">
-</figure>
-                </div>
-            </div>
-            <div style="--position: 2" class="carousel item">
-                <div class="carousel card">
-                    <figure>
-  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/2_Physical_ActiveHealthLife.jpg">
-</figure>
-                </div>
-            </div>
-            <div style="--position: 3" class="carousel item">
-                <div class="carousel card">
-                    <figure>
-  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/3_Physical_ActiveHealthLife.jpg">
-</figure>
-                </div>
-            </div>
-            <div style="--position: 4" class="carousel item">
-                <div class="carousel card">
-                    <figure>
-  <img src="/images/Our%20Family/Staff/SWC%20Activities/Physical/4_Physical_ActiveHealthLife.jpg">
-</figure>
-                </div>
-            </div>
-        </div>
-    </div>
 			</section>
 			<section id="carousels">
     <div style="--width: 480px;
