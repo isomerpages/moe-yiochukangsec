@@ -419,6 +419,12 @@ image: /images/YCKLogo.svg
                         nostrud exercitation ullamco laboris nisi ut aliquip ex
                         ea commodo consequat.
                     </p>
+									<div class="card01">
+										<div class="card01-content">
+											<p class="card01-title">HOD ICT</p>
+											<p class="card01-para">Mr Chin Pin Chuen, Brandon (Ext. 100)</p>
+										</div>
+									</div>
                     <p>
                         Duis aute irure dolor in reprehenderit in voluptate
                         velit esse cillum dolore eu fugiat nulla pariatur.
@@ -2755,7 +2761,7 @@ button.cta-button:hover::before {
 
 .yck-component .card01 .card01-title {
   font-size: var(--yck-step-2);
-  font-weight: 700;
+  font-weight: 800;
   margin-bottom: ;
   text-transform: uppercase;
   text-shadow: 2px 2px 3px rgba(206, 60, 60, .5), 3px 3px 4px rgba(0, 0, 0, 0.35);
@@ -2763,7 +2769,7 @@ button.cta-button:hover::before {
 
 .yck-component .card01 .card01-para {
   font-size: var(--yck-step-0);
-  font-weight: 500;
+  font-weight: 700;
   opacity: 0.8;
   text-shadow: 2px 2px 3px rgba(206, 60, 60, .5), 3px 3px 4px rgba(0, 0, 0, 0.35);
 }
