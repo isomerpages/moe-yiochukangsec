@@ -23,7 +23,7 @@ image: /images/YCKLogo.svg
                         <div style="--position: 1" class="carousel item">
                             <div class="carousel card">
                                 <figure>
-                                    <img src="https://staging-lite.d3/images/Our%20Family/Staff/SWC%20Activities/Emotional/1_RetailEmo.jpg">
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Emotional/1_RetailEmo.jpg">
                                 </figure>
                             </div>
                         </div>
