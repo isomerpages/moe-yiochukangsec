@@ -34,6 +34,47 @@ image: /images/YCKLogo.svg
                 <div class="video-container">
                     <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/z8gPUctnAF4?si=ZVVVVjbeDJriaFkU" height="315" width="560"></iframe>
                 </div>
+							<div style="--width: 480px;
+        --height: 360px;
+        --quantity: 5; --duration: 40s;" class="carousel slider">
+                    <div class="carousel list">
+                        <div style="--position: 1" class="carousel item">
+                            <div class="carousel card">
+                                <figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Emotional/1_RetailEmo.jpg">
+                                </figure>
+                            </div>
+                        </div>
+                        <div style="--position: 2" class="carousel item">
+                            <div class="carousel card">
+                                <figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Emotional/2_RetailEmo.jpg">
+                                </figure>
+                            </div>
+                        </div>
+                        <div style="--position: 3" class="carousel item">
+                            <div class="carousel card">
+                                <figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Emotional/3_RetailEmo.jpg">
+                                </figure>
+                            </div>
+                        </div>
+                        <div style="--position: 4" class="carousel item">
+                            <div class="carousel card">
+                                <figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Emotional/4_RetailEmo.jpg">
+                                </figure>
+                            </div>
+                        </div>
+                        <div style="--position: 5" class="carousel item">
+                            <div class="carousel card">
+                                <figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/SWC%20Activities/Emotional/5_RetailEmo.jpg">
+                                </figure>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
