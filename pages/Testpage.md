@@ -134,7 +134,7 @@ variant: markdown
 			<section id="carousels">
     <div style="--width: 480px;
                                             --height: 270px;
-                                            --quantity: 15;" class="carousel slider">
+                                            --quantity: 15; --duration: 60s;" class="carousel slider">
         <div class="carousel list">
             <div style="--position: 1" class="carousel item">
                 <div class="carousel card">
