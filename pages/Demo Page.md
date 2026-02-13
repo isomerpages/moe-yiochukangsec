@@ -659,9 +659,8 @@ image: /images/YCKLogo.svg
             </p>
             This is without paragraph.
         </div>
-			</details></section></article></div>
-    
-    <details name="accord" id="sec-accord">
+			</details>
+	<details name="accord" id="sec-accord">
         <summary>Second Accordion ...</summary>
         <div class="content">
             <p>
@@ -685,11 +684,12 @@ image: /images/YCKLogo.svg
                 </p>
             </div>
         </div>
-			</details></div>
-    
-    <details name="accord" id="third-accord">
+			</details>
+	<details name="accord" id="third-accord">
         <summary>Third Accordion ...</summary>
         <div id="insta-frame">
+					<div class="deadctr-container">
+						<div class="content">
             <blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:480px; min-width:240px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 1em);" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/p/DF7cjbKy7bp/?utm_source=ig_embed&amp;utm_campaign=loading" class="instagram-media">
                 <div style="padding:16px;"><a target="_blank" style="background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" href="https://www.instagram.com/p/DF7cjbKy7bp/?utm_source=ig_embed&amp;utm_campaign=loading">
                         <div style="display: flex; flex-direction: row; align-items: center;">
@@ -736,19 +736,19 @@ image: /images/YCKLogo.svg
                     </a>
                     <p style="color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a target="_blank" style="color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" href="https://www.instagram.com/p/DF7cjbKy7bp/?utm_source=ig_embed&amp;utm_campaign=loading">A post shared by TOUCH Community Services (@touchcommunityservices)</a></p>
                 </div>
-            </blockquote>
+					</blockquote></div></div>
             <script src="//www.instagram.com/embed.js" async=""></script>
     </div></details>
-
-            <div class="deadctr-container">
+					</section>
+					<div class="deadctr-container">
                 <button class="buttontotop" href="#top">
                         <img alt="Back to Top" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Icons/svgiconwht.svg" class="svgIcon">
                 </button>
             </div>
-        
-    
-
-
+			</article>
+	</div>
+	</div>
+ 
 <style>
 /* ==========================================================================
    1. Globals and Custom Props
