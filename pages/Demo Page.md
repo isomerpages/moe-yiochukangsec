@@ -421,7 +421,7 @@ image: /images/YCKLogo.svg
                     </p>
 									<div class="card01">
 										<div class="card01-content">
-											<p class="card01-title">HOD ICT</p>
+											<p class="card01-title">HOD <abbr name="Information and Communications Technology" title="Information and Communications Technology">ICT</abbr></p>
 											<p class="card01-para">Mr Chin Pin Chuen, Brandon (Ext. 100)</p>
 										</div>
 									</div>
@@ -1495,13 +1495,11 @@ h6,
 }
 
 /* Abbreviations */
-.yck-component abbr[title] {
-    font-family: var(--font-transitional);
-    font-weight: 600;
+.yck-component abbr[title] {font: inherit;
     cursor: help;
     transition: color 0.7s ease-out;
     text-decoration: underline dotted;
-    color: var(--yck-green800);
+    color: inherit;
     text-decoration-thickness: 2px;
     text-underline-offset: 3px;
 
@@ -2783,7 +2781,55 @@ button.cta-button:hover::before {
   transform: translateY(0%);
 }
 
+/* Tooltip */
+.yck-component .tooltip {
+    position: relative;
+    display: inline-block;
+    font-size: var(--yck-step-0);
+}
 
+.yck-component .tooltip__content {
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    line-height: var(--yck-heading-line-height);
+    font-size: var(--yck-step--1);
+    transform: translateX(-50%) translateY(-5px);
+    padding: 1em;
+    background: linear-gradient(205deg, var(--yck-green400) 0%, var(--yck-green600) 50%, var(--yck-green800) 100%);
+    background-color: rgba(82, 130, 72, 1);
+    color: #fff;
+    border-radius: var(--yck-rounded-corners);
+    opacity: 0;
+    pointer-events: none;
+    margin-block: 5px;
+    min-width: 25ch;
+    box-shadow: var(--shadow-4);
+    text-shadow: 2px 2px 3px rgba(206, 60, 60, .5), 3px 3px 4px rgba(0, 0, 0, 0.35);
+    transition: opacity 0.2s ease, transform 0.2s ease;
+    z-index: 1000;
+}
+
+.yck-component .tooltip__content::after {
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 6px solid transparent;
+    border-top-color: transparent;
+}
+
+.yck-component .tooltip:hover .tooltip__content,
+.yck-component .tooltip:focus-within .tooltip__content {
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateX(-50%) translateY(0);
+}
+
+.yck-component .tooltip a {
+    color: var(--yck-orange900);
+}
 
 .fade-up-and-in {
     opacity: 0;
