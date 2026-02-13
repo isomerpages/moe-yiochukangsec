@@ -638,7 +638,7 @@ image: /images/YCKLogo.svg
 <section>
     <details name="accord" id="first-accord">
         <summary>First Accordion ...</summary>
-        <div>
+        <div class="content">
             <p>
                 Donec ullamcorper nulla non metus auctor fringilla. Sed
                 posuere consectetur est at lobortis.
@@ -659,10 +659,11 @@ image: /images/YCKLogo.svg
             </p>
             This is without paragraph.
         </div>
-    </details>
+			</details></section></article></div>
+    
     <details name="accord" id="sec-accord">
         <summary>Second Accordion ...</summary>
-        <div>
+        <div class="content">
             <p>
                 Donec ullamcorper nulla non metus auctor fringilla. Sed
                 posuere consectetur est at lobortis.
@@ -684,7 +685,8 @@ image: /images/YCKLogo.svg
                 </p>
             </div>
         </div>
-    </details>
+			</details></div>
+    
     <details name="accord" id="third-accord">
         <summary>Third Accordion ...</summary>
         <div id="insta-frame">
@@ -736,17 +738,16 @@ image: /images/YCKLogo.svg
                 </div>
             </blockquote>
             <script src="//www.instagram.com/embed.js" async=""></script>
-        </div>
-    </details>
-</section>
+    </div></details>
+
             <div class="deadctr-container">
                 <button class="buttontotop" href="#top">
                         <img alt="Back to Top" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Icons/svgiconwht.svg" class="svgIcon">
                 </button>
             </div>
-        </article>
-    </div>
-</div>
+        
+    
+
 
 <style>
 /* ==========================================================================
