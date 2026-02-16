@@ -33,7 +33,7 @@ third_nav_title: Physical Sports
                                 <p>Every Monday, <wbr>3.00pm to 5.30pm</p>
                             </td>
                             <td class="yck-td">
-                                <p>Ms Amelia Tew (OIC) (ext 140)</p>
+                                <p>Mdm Toh Lee Wah (OIC) (ext 130)</p>
                             </td>
                             <td class="yck-td">
                                 <p><abbr title="Indoor Sports Hall">ISH</abbr> <wbr>Lvl 1</p>
@@ -44,8 +44,9 @@ third_nav_title: Physical Sports
                                 <p>Every Wednesday, <wbr>3.00pm to 5.30pm</p>
                             </td>
                             <td class="yck-td">
-                                <p>Ms Nurul Ain Bte Kamaldin (ext 176)</p>
-                                <p>Ms Toh Lee Wah (ext 130)</p>
+															<p>Ms Amelia Tew (ext 140)</p>
+															<p>Mdm Annie Mathews (ext 124)</p>
+<p>Ms Teo Hwee Ping (146)</p>
                             </td>
                             <td class="yck-td">
 															<p><abbr title="Indoor Sports Hall">ISH</abbr> <wbr>Lvl 1</p>
