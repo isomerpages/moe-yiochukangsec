@@ -37,7 +37,7 @@ third_nav_title: Physical Sports
                         <p>Ms Anna Leong <i>(OIC)</i> (ext 218)</p>
                         <p>Mr Jude Ang (ext 150)</p>
                         <p>Mr Jeremy Chen (ext 145)</p>
-                        <p>Mdm Chua Sock Huang (ext 133)</p>
+                        <p>Mr Lim Chee Wee (ext 126)</p>
                     </td>
                     <td class="yck-td">
                         <p>ISH Level 2</p>
