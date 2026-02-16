@@ -24,7 +24,7 @@ third_nav_title: Performing Arts
             <tr>
                 <td class="yck-td">Every MONDAY<br>3:00PM to 5:30PM</td>
                 <td class="yck-td">
-                    <p>Mdm Siva (ext 136)</p>
+                    <p>Ms Gauwri (ext 144)</p>
                     <p>Mrs Ilango (ext 175)</p>
                     <p>Mdm Rathidevi (ext 170)</p>
                 </td>
