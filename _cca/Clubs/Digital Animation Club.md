@@ -50,7 +50,7 @@ important values like teamwork, perseverance and gratitude, making this a truly 
                                 <p>Every Monday &amp; Tuesday<br>3.00pm to 5.30pm</p>
                             </td>
                             <td class="yck-td">
-                                <p>Mrs Audrey Yip (ext 140)</p>
+                                <p>Mr Darren Tham (Ext. 127)</p>
                                 <p>Mdm Chong Nyuk Foong (ext 135)</p>
                                 <p>Mr Christopher Tan (ext 172)</p>
                             </td>
