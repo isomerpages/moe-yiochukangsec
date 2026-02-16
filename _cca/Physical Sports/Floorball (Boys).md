@@ -40,7 +40,8 @@ third_nav_title: Physical Sports
                 <td class="yck-td">
                     <p>Ms Wee Poh Lin (OIC) (ext 148)</p>
                     <p>Mr Tan Thiam Boon (ext 143)</p>
-                    <p>Mdm Connie Yeo (ext 124)</p>
+									<p>Ms Lim Li Whey (ext 128)</p>
+<p>Mr V Vijeyaa Kumaran (ext 129)</p>
                 </td>
                 <td class="yck-td">
                     <p>ISH Level 2 (Monday)</p>
