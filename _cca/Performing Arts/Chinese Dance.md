@@ -50,6 +50,7 @@ third_nav_title: Performing Arts
       <td data-th="TEACHERS IN-CHARGE">
         <p>Ms Tan Chun Buei (OIC) (ext 172)</p>
         <p>Ms Teo Hwee Hong (ext 123)</p>
+				<p>Ms Lim Hui Qi (ext 173)</p>
       </td>
       <td data-th="VENUE">
         <p>
