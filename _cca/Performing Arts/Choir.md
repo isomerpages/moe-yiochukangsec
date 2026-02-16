@@ -39,8 +39,8 @@ third_nav_title: Performing Arts
                 <td class="yck-td">
                     <p>Mdm Vijaya (ext 203) - <i>OIC</i></p>
                     <p>Mdm Lee Ching Fong (ext 142)</p>
-                    <p>Ms Michelle Lim (ext 135)</p>
-                    <p>Mr Loke Tuck Luen (ext 131)</p>
+                    <p>Mr Antony Raj ( ext 143)</p>
+                    <p>Ms Foo Lee Lee (ext 149)</p>
                 </td>
                 <td class="yck-td">
                     <p>Music Room, Level 1</p>
