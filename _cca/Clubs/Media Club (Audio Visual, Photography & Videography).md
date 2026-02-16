@@ -65,7 +65,6 @@ image: /images/YCKLogo.svg
                     <p>Ms Xu Xiuhan (ext 174)</p>
                     <p>Ms Melissa Chua (ext 133)</p>
                     <p>Mdm Doreen Ng (ext 134)</p>
-                    <p>Ms Xu Xiaohong (ext 174)</p>
                     <p>Mr Yip Seng Yiam (ext 125)</p>
                 </td>
                 <td class="yck-td">
