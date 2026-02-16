@@ -50,10 +50,10 @@ third_nav_title: Uniformed Groups
             </td>
             <td data-th="TEACHERS-IN-CHARGE">
                 <p>
-                    Ms Goh Yu Fan (ext 174)
+                    Mr Pang Ronnie (ext 148)
                 </p>
                 <p>
-                    Mr Wong Mingwei (ext 141)
+                    Mdm Nurul Syakinah (ext 171)
                 </p>
                 <p>
                     Mr Octave Goh (ext 136)
@@ -62,7 +62,7 @@ third_nav_title: Uniformed Groups
                     Mdm Cindy Ong (ext 139)
                 </p>
                 <p>
-                    Ms Nadia Rachael (ext 218)
+                    Ms Chia Yi Ying (ext 149)
                 </p>
             </td>
             <td data-th="VENUE:">
