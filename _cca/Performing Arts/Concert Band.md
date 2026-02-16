@@ -38,6 +38,7 @@ third_nav_title: Performing Arts
                     <p>Ms Lim Li May (ext 171)</p>
                     <p>Ms Nur Rafizah Bte Safiee (ext 286)</p>
                     <p>Ms Fong Ya Yi (Adele) (ext 122)</p>
+									<p>Mdm Ann Chiam Choon Kwee (ext 144)</p>
                 </td>
                 <td class="yck-td">
                     <p>Band room &amp; some classrooms (Level 2)</p>
