@@ -62,8 +62,8 @@ image: /images/YCKLogo.svg
                     <p>Every Tuesday &amp; Thursday<br>3.00pm to 5.30pm</p>
                 </td>
                 <td class="yck-td">
-                    <p>Mr Ng Mang Chung (ext 143)</p>
-                    <p>Mr Brandon Chin (ext 136)</p>
+                    <p>Ms Xu Xiuhan (ext 174)</p>
+                    <p>Ms Melissa Chua (ext 133)</p>
                     <p>Mdm Doreen Ng (ext 134)</p>
                     <p>Ms Xu Xiaohong (ext 174)</p>
                     <p>Mr Yip Seng Yiam (ext 125)</p>
