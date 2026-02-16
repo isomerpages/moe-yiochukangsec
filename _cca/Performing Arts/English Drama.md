@@ -45,7 +45,8 @@ will carry with the students even after graduation.</p>
 <td rowspan="1" colspan="1">
 <p>Ms Jezreel Lau <em>(OIC)</em> (ext 135)</p>
 <p>Mdm Devi (ext 133)</p>
-<p>Ms Vidya (ext 135)</p>
+<p>Mrs Audrey Chye (ext 140)</p>
+<p>◊Mdm Sarasvathy (ext 136)</p>
 <p><strong>&nbsp;</strong>
 </p>
 </td>
@@ -142,11 +143,11 @@ SYF Opening Ceremony</div>
 <hr>
 <h4>Gallery</h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="720" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRLe-NKCf9VuIjt3si0PFkhKl0AP_QFfYtx_CLGKEvqvZ3ZaK7e1oPiSTQEaHj46bOLDO_dxvYKagPM/pubembed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="720" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRLe-NKCf9VuIjt3si0PFkhKl0AP_QFfYtx_CLGKEvqvZ3ZaK7e1oPiSTQEaHj46bOLDO_dxvYKagPM/pubembed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="480" width="720" allowfullscreen="true" frameborder="0" src="https://www.youtube-nocookie.com/embed/gSzsy84HO2k?si=uObaCglDFtdbbzNn"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="720" allowfullscreen="true" frameborder="0" src="https://www.youtube-nocookie.com/embed/gSzsy84HO2k?si=uObaCglDFtdbbzNn"></iframe>
 </div>
 <p></p>
 <p></p>
