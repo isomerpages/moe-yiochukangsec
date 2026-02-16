@@ -14,7 +14,7 @@ third_nav_title: Uniformed Groups
                     <img alt="NPCC Cadets saluting" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/NPCC/N1.jpg">
                 </figure>
             </section>
-            <section id="NPCC&quot;">
+            <section id="NPCC">
                 <p>
                     Yio Chu Kang Secondary School's National Police Cadet Corps (NPCC) CCA is committed to nurturing selfless
                     individuals who contribute to the safety and security of the community. Through engaging activities and
