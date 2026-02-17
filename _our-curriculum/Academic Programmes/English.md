@@ -1940,10 +1940,17 @@ h6,
     font-style: oblique;
     text-shadow: var(--yck-box-shadow);
 }
-
 @supports (content-visibility: auto) {
     details {
         content-visibility: auto;
+    }
+}
+
+@supports (animation-timeline: view()) {
+    .yck-component :is(.yck__flexitem, .yck__card, .grid-item, .isomer-card) {
+        animation: fade-in-right ease-in-out both;
+        animation-timeline: view();
+        animation-range: entry 10% cover 40%;
     }
 }
 
