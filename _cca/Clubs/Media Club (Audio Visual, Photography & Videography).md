@@ -110,7 +110,7 @@ image: /images/YCKLogo.svg
                     <div class="infocard">
                         <figure><img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Clubs/Media%20Club/Memories_to_be_treasured.jpg">
                         </figure>
-                        <div class="card__header">Our Schools, Our Stories" Photo &amp; Video Contest by MOE</div>
+                        <div class="card__header">"Our Schools, Our Stories" Photo &amp; Video Contest by MOE</div>
                         <div class="card__body">
                             <p><a target="_blank" href="https://www.youtube.com/watch?v=QW_8zmXDZoE&amp;list=PLgBw4fHUtzK0U2xtr3KjxAjelxNLq1kKW&amp;index=5">Memories to be treasured</a>: Best Video Award – "What I Go To School For"<br>
                                 <i>by Yet Yan Shen, Derrick See Kar Xun and Neo Jun Yuan</i></p>
