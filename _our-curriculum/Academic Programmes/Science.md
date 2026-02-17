@@ -218,8 +218,7 @@ variant: markdown
                                 well. One example was the presentation in front of a panel of judges. My
                                 teammates' confidence boosted my morale and helped me deliver my lines
                                 effectively. Without their support, I never would have been able to overcome
-                                my nervousness. <cite>Kim Seulkichan, 4E1</cite>
-                                
+                                my nervousness. <cite>Kim Seulkichan, 4E1</cite>   
                             </div>
                         </div>
                         <div class="cards yck__flexitem flex-grow">
@@ -231,8 +230,7 @@ variant: markdown
                                     back a Silver medal! All in all, I felt that Elementz has allowed me to
                                     apply the concepts that I learnt in Biology to solve problems, other than
                                     the usual class work. Given the chance, I would definitely sign up for a
-                                    research project again.<cite>Dion Kuoh Zixian, 4E1</cite>
-                                    
+                                    research project again.<cite>Dion Kuoh Zixian, 4E1</cite>      
                                 </div>
                             </div>
                             <div class="cards yck__flexitem flex-grow">
@@ -244,7 +242,6 @@ variant: markdown
                                         able to be part of this extraordinary programme. It has encouraged me to
                                         study harder for Biology. I hope future participants can reap as many
                                         benefits as I had from the experiences.<cite>Tan Huey Shin, 4E2</cite>
-                                        
                                     </div>
                                 </div>
                             </div>
