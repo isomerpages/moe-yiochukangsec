@@ -1725,6 +1725,11 @@ h6,
     background-color: #fff;
     margin-bottom: 1em;
 }
+	
+.yck-component details .content {
+    margin-inline: 1.5em;
+    padding-block: 1em;
+}
 
 .yck-component details::details-content {
     opacity: 0;
