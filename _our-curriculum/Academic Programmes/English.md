@@ -1632,7 +1632,7 @@ h6,
   border-radius: var(--yck-rounded-corners);
   overflow: hidden;
   position: relative;
-  perspective: 2000px;
+  perspective: 1000px;
   transition: all 0.5s var(--ease-squish-1);
   cursor: pointer;
   padding: 1em !important;
@@ -1646,8 +1646,8 @@ h6,
 
 .yck-component .card01:hover {
   transform: scale(1.05);
-  filter: brightness(120%);
-}
+  filter: brightness(115%);
+	}
 
 .yck-component .card01:before {
   content: "";
@@ -1666,10 +1666,11 @@ h6,
 .yck-component .card01:hover:before {
   opacity: 1;
   height: 50%;
+	overflow: hidden;
 }
 
 .yck-component .card01 .card01-title {
-  font-size: var(--yck-step-2);
+  font-size: var(--yck-step-1);
   font-weight: 700;
   margin-bottom: ;
   text-transform: uppercase;
