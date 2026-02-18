@@ -25,7 +25,7 @@ image: /images/YCKLogo.svg
                 </p>
             </section>
             <section id="videography">
-                    <h3 class="yck-h3">Media Club - AV &amp; Videography</h3>
+                    <h3 class="yck-h3">AV &amp; Videography</h3>
                 <div class="columns">
                     <p>
                         We offer students a hands-on experience in AV &amp; Videography. Students learn to
@@ -35,13 +35,13 @@ image: /images/YCKLogo.svg
                     <p>We have a comprehensive programme to build their foundation in the artistic and technical
                         aspects of Videography. To create an authentic experience, students are involved
                         in planning and executing the media coverage of large scale school events such
-                        as our school's Speech Day, MOE Singapore-Hong Kong School Exchange, N6 Cluster
+                        as our school's <a class="text-link" href="/our-experience/in-our-school/#speechday">Speech Day</a>, MOE Singapore-Hong Kong School Exchange, N6 Cluster
                         Media and Design Festival.
                     </p>
                 </div>
             </section>
             <section id="photography">
-                    <h3 class="yck-h3">Media Club - Photography</h3>
+                    <h3 class="yck-h3">Photography</h3>
                     <p>
                         Our photography programme offers students structured training that equips them
                         with technical knowledge and skills in photography. Students are given
@@ -50,6 +50,7 @@ image: /images/YCKLogo.svg
                         school events.
                     </p>
             </section>
+					<hr>
             <section id="trainingschdule">
                 <h4 class="yck-h4">Training Schedule</h4>
                 <table class="yck-table">
