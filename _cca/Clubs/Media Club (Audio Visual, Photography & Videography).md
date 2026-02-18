@@ -113,7 +113,7 @@ image: /images/YCKLogo.svg
                         </figure>
                         <div class="card__header">"Our Schools, Our Stories" Photo &amp; Video Contest by MOE</div>
                         <div class="card__body">
-                            <p><a target="_blank" href="https://www.youtube.com/watch?v=QW_8zmXDZoE&amp;list=PLgBw4fHUtzK0U2xtr3KjxAjelxNLq1kKW&amp;index=5">Memories to be treasured</a>: Best Video Award – "What I Go To School For"<br>
+                            <p><a class="text-link" target="_blank" href="https://www.youtube.com/watch?v=QW_8zmXDZoE&amp;list=PLgBw4fHUtzK0U2xtr3KjxAjelxNLq1kKW&amp;index=5">Memories to be treasured</a>: Best Video Award – "What I Go To School For"<br>
                                 <i>by Yet Yan Shen, Derrick See Kar Xun and Neo Jun Yuan</i></p>
                         </div>
                     </div>
@@ -123,7 +123,7 @@ image: /images/YCKLogo.svg
                         <div class="card__header">"Our Schools, Our Stories" Photo &amp; Video Contest by MOE
                         </div>
                         <div class="card__body">
-                            <p><a target="_blank" href="https://www.moe.gov.sg/our-schools-our-stories/winning-stories-2022/our-school-community/youth">A Professional In Our School</a>: Best Photo Story Award – "Our School Community (Youth)"<br>
+                            <p><a class="text-link" target="_blank" href="https://www.moe.gov.sg/our-schools-our-stories/winning-stories-2022/our-school-community/youth">A Professional In Our School</a>: Best Photo Story Award – "Our School Community (Youth)"<br>
                                 <i>by Wirdatul Marsya Binte Mohammad Fazuli, Siti Nurasyirah Binte Mohammad Hery and Sukainah Binte Mohammad Fahrur Razi</i></p>
                         </div>
                     </div>
