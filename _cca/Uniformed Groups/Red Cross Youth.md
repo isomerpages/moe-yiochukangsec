@@ -10,7 +10,6 @@ third_nav_title: Uniformed Groups
         <article>
             <section id="top">
                 <h1 class="yck-h1">Red Cross Youth</h1>
-                <h2 class="yck-h4"><i>Humanity in Our Hands</i></h2>
                 <div class="ken-burns-container">
                     <figure>
                         <img class="kenburns-scale" alt="Red Cross Youth" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/CoCurricular%20Activities/Uniformed%20Groups/Red%20Cross%20Youth/R1.jpg">
@@ -18,6 +17,7 @@ third_nav_title: Uniformed Groups
                 </div>
             </section>
             <section id="intro">
+							<h2 class="yck-h4">Humanity in Our Hands</h2>
                 <p>
                     The primary goal of YCKSS's Red Cross Youth Unit is to instill core values of compassion for humanity and a strong sense of civic responsibility.
                     It also aims to impart skills and knowledge to its cadets to manage emergency scenarios and to make a difference in the lives of those in their community.
