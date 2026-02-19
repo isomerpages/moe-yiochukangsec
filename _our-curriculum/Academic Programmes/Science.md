@@ -269,12 +269,19 @@ variant: markdown
                 <figure>
                     <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Science/S7.png">
                 </figure>
+							<div class="masonry">
                 <figure>
-                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Science/S8.png">
+                    <img src="/images/Our%20Curriculum/Academic%20Programmes/Science/S8a.png">
+									 <figcaption>Students sharing with Dr Koh Poh Koon their research findings.</figcaption>
+                </figure>
+							 <figure>
+                    <img src="/images/Our%20Curriculum/Academic%20Programmes/Science/S8b_Teamwork.png">
+								 <figcaption>Teamwork</figcaption>
                 </figure>
                 <figure>
                     <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Science/S9.png">
                 </figure>
+							</div>
             </section>
             <div class="deadctr-container" id="backtotop">
                 <a href="#top">
