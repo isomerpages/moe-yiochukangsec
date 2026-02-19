@@ -1796,7 +1796,7 @@ h6,
 }
 
 .yck-component .card01-content {
-  transform: translateY(60%);
+  transform: translateY(50%);
   transition: all 0.5s var(--ease-squish-1);
 }
 
