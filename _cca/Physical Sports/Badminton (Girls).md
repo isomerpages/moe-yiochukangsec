@@ -11,12 +11,14 @@ third_nav_title: Physical Sports
 <div class="yck-component">
     <div class="regular-flow">
         <article>
-            <section>
-                <figure class="kenburns-container">
+            <section id="top">
+                <div class="kenburns-container">
+                    <figure>
                     <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20ccas/Badminton/2026badmintongirls1.jpg" alt="" class="kenburns-scale">
                 </figure>
+            </div>
             </section>
-            <section>
+            <section id="intro">
                 <p>
                     The Badminton (Girls) CCA aims to equip students with the fundamentals of the
                     sport as well as develop positive self-esteem and sportsmanship. Through
@@ -34,7 +36,8 @@ third_nav_title: Physical Sports
                     to bring YCKSS Badminton (Girls) to greater heights.
                 </p>
             </section>
-            <section>
+            <hr>
+            <section id="schedule">
                 <h4 class="yck-h4">Training Schedule</h4>
                 <table class="rwd-table">
                     <thead>
@@ -66,16 +69,17 @@ third_nav_title: Physical Sports
                 </table>
                 <div class="warning">Note: This is an all-girls CCA. Recruitment is open only to female students.</div>
             </section>
-            <section>
+            <hr>
+            <section id="downloads">
                 <div class="yck-cards">
                     <div class="yck-card">
-											<div class="yck-card-body">
+                                            <div class="yck-card-body">
                         <p>Download a copy of <a class="text-link" target="_blank" href="/files/Students/Class%20Timetable%20Schedules/2025/2025_Semester_2_CCA_Schedule__Nov_Dec_.pdf">Semester 2's CCA schedule here</a></p>
                     </div>
-									</div>
+                                    </div>
                 </div>
             </section>
-            <section>
+            <section id="achievements">
                 <h4 class="yck-h4">Achievements</h4>
                 <ul>
                     <li>
@@ -95,10 +99,12 @@ third_nav_title: Physical Sports
                     </li>
                 </ul>
             </section>
-            <section>
+            <section id="gallery">
                 <h4>Gallery</h4>
                 <div class="video-container">
+                    <figure>
                     <iframe allowfullscreen="true" height="839" width="1440" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTekBN4fcHgjTSHqEO3L6p1nV4fVlpvgHftiIzgXAL4w1hTxE-ZtjHrMYTR0SIoXmpyq_UKvkKO17Kb/embed?start=true&amp;loop=true&amp;delayms=15000" name="Badminton Photo Gallery"></iframe>
+                </figure>
                 </div>
             </section>
         </article>
