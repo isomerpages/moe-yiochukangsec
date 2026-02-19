@@ -886,7 +886,6 @@ a.button {
 .yck-component {
     padding: 0;
     margin: 0;
-    width: 100%;
     max-width: 1023px;
 }
 
@@ -1739,7 +1738,7 @@ h6,
 
 
 .yck-component .card01 {
-  width: fit-content;
+ min-width: fit-content;
   background-color: var(--yck-orange100);
   background-image: linear-gradient(0deg, var(--yck-orange400) 5%, var(--yck-orange900) 50%);
   color: white;
