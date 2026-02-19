@@ -1778,7 +1778,7 @@ h6,
 
 .yck-component .card01:hover:before {
   opacity: 1;
-  height: 50%;
+  height: 40%;
 }
 
 .yck-component .card01 .card01-title {
