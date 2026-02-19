@@ -67,9 +67,10 @@ third_nav_title: Clubs
                     <p>Mr Wee Daiqi (ext 217)</p>
                     <p>Mr Foo Sian Kok, Simon (ext 142)</p>
                     <p>Mdm Connie Yeo (ext 124)</p>
+									<p>Mr Russell Wang (ext 138)</p>
                 </td>
                 <td class="yck-td">
-                    <p>The Technosphere. <br> Block B, Level 3</p>
+                    <p>The Techno Sphere. <br> Block B, Level 3</p>
                 </td>
             </tr>
         </tbody>
