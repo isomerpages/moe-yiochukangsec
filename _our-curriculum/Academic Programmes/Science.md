@@ -1768,7 +1768,7 @@ h6,
   top: 0;
   left: 0;
   width: 100%;
-  height: 50%;
+  height: 40%;
   background-color: rgba(0, 0, 0, 0.1);
   background: linear-gradient(0deg, rgb(232, 89, 12, .05) 10%, rgba(0, 0, 0, 0.3) 100%);
   opacity: 0;
@@ -1778,13 +1778,12 @@ h6,
 
 .yck-component .card01:hover:before {
   opacity: 1;
-  height: 40%;
+  height: 20%;
 }
 
 .yck-component .card01 .card01-title {
   font-size: var(--yck-step-1);
   font-weight: 700;
-  margin-bottom: ;
   text-transform: uppercase;
   text-shadow: 2px 2px 3px rgba(206, 60, 60, .5), 3px 3px 4px rgba(0, 0, 0, 0.35);
 }
