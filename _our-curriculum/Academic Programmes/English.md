@@ -1624,8 +1624,9 @@ h6,
 }
 
 
+/* === HOD Namecards === */
 .yck-component .card01 {
- min-width: fit-content;
+  min-width: fit-content;
   background-color: var(--yck-orange100);
   background-image: linear-gradient(0deg, var(--yck-orange400) 5%, var(--yck-orange900) 50%);
   color: white;
@@ -1646,8 +1647,8 @@ h6,
 
 .yck-component .card01:hover {
   transform: scale(1.05);
-  filter: brightness(115%);
-	}
+  filter: brightness(120%);
+}
 
 .yck-component .card01:before {
   content: "";
@@ -1665,12 +1666,11 @@ h6,
 
 .yck-component .card01:hover:before {
   opacity: 1;
-  height: 40%;
-	overflow: hidden;
+  height: 45%;
 }
 
 .yck-component .card01 .card01-title {
-  font-size: var(--yck-step-2);
+  font-size: var(--yck-step-1);
   font-weight: 700;
   text-transform: uppercase;
   text-shadow: 2px 2px 3px rgba(206, 60, 60, .5), 3px 3px 4px rgba(0, 0, 0, 0.35);
@@ -1684,14 +1684,13 @@ h6,
 }
 
 .yck-component .card01-content {
-  transform: translateY(40%);
+  transform: translateY(50%);
   transition: all 0.5s var(--ease-squish-1);
 }
 
 .yck-component .card01:hover .card01-content {
   transform: translateY(0%);
 }
-
 
 
 /* Layouts - Columns */
