@@ -1778,7 +1778,7 @@ h6,
 
 .yck-component .card01:hover:before {
   opacity: 1;
-  height: 20%;
+  height: 90%;
 }
 
 .yck-component .card01 .card01-title {
@@ -1796,7 +1796,7 @@ h6,
 }
 
 .yck-component .card01-content {
-  transform: translateY(50%);
+  transform: translateY(45%);
   transition: all 0.5s var(--ease-squish-1);
 }
 
