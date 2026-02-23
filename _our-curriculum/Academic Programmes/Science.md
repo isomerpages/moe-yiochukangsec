@@ -270,7 +270,7 @@ variant: markdown
                                                 </figure>
                                                 <figure>
                                                     <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Science/S4b.png">
-                                                    <figcaption><a href="#mendelsfgarden">Mendel's Garden</a> Research</figcaption>
+                                                    <figcaption>Mendel's Garden Research</figcaption>
                                                 </figure>
                                             </div>
                                             <div class="masonry">
@@ -286,7 +286,6 @@ variant: markdown
                                                     <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Science/S6a.png">
                                                     <figcaption>Outdoor Experimentation</figcaption>
                                                 </figure>
-                                                
                                                 <figure>
                                                     <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Science/S6b.png">
                                                     <figcaption>Science Discussions</figcaption>
