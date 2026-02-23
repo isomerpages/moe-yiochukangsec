@@ -545,4 +545,34 @@ will be communicated to parents at the start of the year and is also available
 or email the school,&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">yckss@moe.edu.sg</a>&nbsp;for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
+<hr>
+<h4><strong>Values in Action (ViA)</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Non Academic Programmes/CCE/via_2025_sec1.jpg">
+</div>
+<p>Our Secondary 1 students had a meaningful opportunity to learn about water
+conservation in an authentic way by participating in Waterway Watch Society’s
+River Monster Programme. As part of the activity, they carried out litter-picking
+along the shores of Marina Reservoir.</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 4 ViA" src="/images/Our Curriculum/Non Academic Programmes/CCE/via_2025_sec4.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+<div class="isomer-card-description">This hands-on experience enabled them to observe the real impacts of litter
+on our waters and reflect on the vital role they can play in conserving
+Singapore’s precious water resources as they learnt that what happens upstream
+affects the downstream areas.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Sec 3 ViA" src="/images/Our Curriculum/Non Academic Programmes/CCE/via_2025_sec3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> </div><div class="isomer-card-description">They brought their learning back to their Geography classrooms where they analysed the water quality through the pH and turbidity of other sites along the Kallang River before coming up with an action plan for the community.</div><div class="isomer-card-link"> </div></div></a>
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Non Academic Programmes/CCE/via_2025_sec2.jpg">
+</div>
 <p></p>
