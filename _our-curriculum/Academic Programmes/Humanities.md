@@ -67,15 +67,6 @@ variant: markdown
                     <div class="infocard">
                         <p>Please <a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Academic%20Programmes/Humanities/Humanities_Department_Programme_and_Subject_Information.pdf">click here</a> for more details on the department programme and subject information.</p>
                     </div>
-                    <div style="display:none;" class="contact-card">
-                        <div class="line1">
-                            <span class="role">Key Personnel In-charge</span>
-                        </div>
-                        <div class="line2">
-                            <span class="name">Mr Chen WeiGuo, Jeremy</span><br>
-                            <span class="ext">(ext. 113)</span>
-                        </div>
-                    </div>
                     <div class="contact-card">
                         <div class="line1">
                             <span class="role">HOD</span>
