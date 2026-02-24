@@ -5,11 +5,14 @@ description: ""
 third_nav_title: Non Academic Programmes
 variant: markdown
 ---
-**Vision**&nbsp;
+
+<div class="yck-component">
+	<div class="regular-flow">
+		<h2>Vision</h2>
 
 Every YCKSian is a Confident Leader
 
-**Mission**
+<h2>Mission</h2>
 
 Growing students who are empowered to lead the self to serve their peers and the community through the provision of voice, choice, and space.
 
@@ -2358,4 +2361,4 @@ h6,
         animation-range: entry 10% cover 40%;
     }
 }
-</style>
+</style></div></div>
