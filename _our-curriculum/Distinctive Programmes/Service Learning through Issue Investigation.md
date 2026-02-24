@@ -58,10 +58,10 @@ variant: markdown
                 <hr>
                 <div class="columns">
                     <div class="flex-wrap">
-                        <div class="cards yck__flexitem">
+                        <div class="card yck__flexitem">
                             <p>They will then proceed to gather data and evaluate what are the crucial needs of the selected sector in community. Working with an external organisation, the teams embark on a project to address the need that was identified.</p>
                         </div>
-                        <div class="cards yck__flexitem flex-grow">
+                        <div class="card yck__flexitem flex-grow">
                             <div class="contact-card" id="keypersonnel">
                                 <div class="line1">
                                     <span class="role">Key Personnel In-Charge</span>
