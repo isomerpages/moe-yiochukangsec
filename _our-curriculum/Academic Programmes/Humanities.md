@@ -49,7 +49,7 @@ variant: markdown
                         <h4>Issue Investigation</h4>
                     </summary>
                     <div class="content">
-                        <p>In collaboration with the CCE department, Secondary Three students explore various societal issues during Social Studies lessons and they get to do their part to contribute to the good of the society as they plan and execute their Service Learning projects to address the issue.</p>
+                        <p>In collaboration with the <a class="text-link" target="_blank" href="/our-curriculum/Non-Academic-Programmes/Character-and-Citizenship-Education/">CCE department</a>, Secondary Three students explore various societal issues during Social Studies lessons and they get to do their part to contribute to the good of the society as they plan and execute their Service Learning projects to address the issue.</p>
                     </div>
                 </details>
                 <details name="keyprog">
