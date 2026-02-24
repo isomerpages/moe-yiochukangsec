@@ -943,6 +943,12 @@ a.button {
 .yck-component section {
     margin-block: var(--yck-space-s-xl);
 }
+	
+hr,
+.yck-component hr,
+ .yck-component .hr {
+    margin-top: 1em;
+}
 
 /* Centering GRID */
 .yck-component .deadctr-container {
