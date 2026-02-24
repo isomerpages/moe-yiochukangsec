@@ -57,11 +57,11 @@ variant: markdown
                 </div>
                 <hr>
                 <div class="columns">
-                    <div class="info-container">
-                        <div class="yck__flexitem">
+                    <div class="flex-wrap">
+                        <div class="cards yck__flexitem">
                             <p>They will then proceed to gather data and evaluate what are the crucial needs of the selected sector in community. Working with an external organisation, the teams embark on a project to address the need that was identified.</p>
                         </div>
-                        <div class="yck__flexitem flex-grow">
+                        <div class="cards yck__flexitem flex-grow">
                             <div class="contact-card" id="keypersonnel">
                                 <div class="line1">
                                     <span class="role">Key Personnel In-Charge</span>
