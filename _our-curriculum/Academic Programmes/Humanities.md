@@ -49,7 +49,7 @@ variant: markdown
                         <h4>Issue Investigation</h4>
                     </summary>
                     <div class="content">
-                        <p>In collaboration with the <a class="text-link" target="_blank" href="/our-curriculum/Non-Academic-Programmes/Character-and-Citizenship-Education/">CCE department</a>, Secondary Three students explore various societal issues during Social Studies lessons and they get to do their part to contribute to the good of the society as they plan and execute their Service Learning projects to address the issue.</p>
+                        <p>In collaboration with the <a class="text-link" target="_blank" href="/our-curriculum/Non-Academic-Programmes/Character-and-Citizenship-Education/">CCE department</a>, Secondary Three students explore various societal issues during Social Studies lessons and they get to do their part to contribute to the good of the society as they plan and execute their <a class="text-link" target="_blank" href="/our-curriculum/Distinctive-Programmes/Service-Learning-through-Issue-Investigation/">Service Learning </a>projects to address the issue.</p>
                     </div>
                 </details>
                 <details name="keyprog">
@@ -140,8 +140,8 @@ variant: markdown
                     <img alt="Back to Top" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Icons/svgiconwht.svg" class="svgIcon">
                 </button>
             </div>
-        </article>
-    </div>
+    </article></div>
+    
 </div>
 
 <style>
@@ -1179,7 +1179,7 @@ h6,
 
 /* Dropcaps First Letter */
 .yck-component .dropcap-title {
-    margin-bottom: 0.5em;
+    margin-bottom: 0.7em;
     font-weight: 500;
     font-size: var(--yck-step-1);
     font-family: var(--font-antique), serif;
@@ -1187,7 +1187,7 @@ h6,
 
     &::first-letter {
         float: left;
-        padding-right: 0.1em;
+        padding-right: 0.12em;
         font-family: var(--font-antique), serif;
         font-size: calc(var(--yck-step-5) * 1.65);
         font-style: oblique;
@@ -1564,11 +1564,13 @@ h6,
     line-height: var(--yck-heading-line-height);
 }
 
+
 /* === Contact Card - Staff === */
 .yck-component .contact-card * {
     margin: 0;
     padding: 0;
 }
+
 .yck-component .contact-card {
     display: flex;
     flex: 1 0;
@@ -1581,12 +1583,11 @@ h6,
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
     cursor: pointer;
     position: relative;
-    overflow: hidden;
     flex-direction: column;
-    justify-content: ;
+    justify-content: center;
     filter: saturate(15%);
     min-width: fit-content;
-    min-height:120px;
+    min-height: 120px;
 }
 
 .yck-component .contact-card:hover {
@@ -1626,7 +1627,7 @@ h6,
     top: 100%;
     transform: translateY(-50%);
     opacity: 0;
-    line-height: 1.2;
+    line-height: 1.25;
 }
 
 /* Hover animations */
@@ -1644,7 +1645,7 @@ h6,
 
 /* Line 1 styles */
 .yck-component .contact-card .role {
-    font-size: var(--yck-step-2);
+    font-size: calc(var(--yck-step-2)*.9);
     font-weight: 300;
     color: #ffffff;
     text-transform: uppercase;
@@ -1653,7 +1654,7 @@ h6,
     padding: 0.25rem 0.5rem;
     border-radius: 4px;
     text-shadow: 2px 2px 3px rgba(206, 60, 60, .5), 3px 3px 4px rgba(0, 0, 0, 0.35);
-    transition: all 0.3s ease;
+    transition: all 0.5s ease;
 }
 
 .yck-component .contact-card:hover .role {
@@ -1671,8 +1672,8 @@ h6,
 /* Line 2 styles */
 .yck-component .contact-card .name {
     font-family: var(--font-transitional);
-    font-size: var(--yck-step-3);
-    font-weight: 600;
+    font-size: calc(var(--yck-step-3)*.95);
+    font-weight: 700;
     color: var(--neutral-100);
     line-height: .9;
     display: inline-block;
@@ -1682,8 +1683,8 @@ h6,
 
 .yck-component .contact-card abbr {
     font-family: var(--font-transitional);
-    font-weight: 600;
-    font-size: var(--yck-step-3);
+    font-weight: 700;
+    font-size: calc(var(--yck-step-3)*.95);
     cursor: help;
     transition: color 0.7s ease;
     text-decoration: underline dotted;
@@ -1721,7 +1722,7 @@ h6,
 
     .yck-component .line1,
     .yck-component .line2 {
-        transition: opacity 0.3s ease;
+        transition: all 0.5s ease;
     }
 
     .yck-component .contact-card:hover .line1,
@@ -1753,7 +1754,7 @@ h6,
     bottom: 0;
     background: linear-gradient(135deg, rgba(73, 139, 90, 0.04) 0%, rgba(73, 139, 90, 0.09) 100%);
     opacity: 0;
-    transition: opacity 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
     z-index: 10;
 }
 
@@ -1769,6 +1770,11 @@ h6,
     flex-wrap: wrap;
     gap: 1em;
     margin: 0 auto;
+}
+
+.yck-component .info-container * {
+    margin: 0;
+    padding: 0;
 }
 
 .yck-component .infocard {
@@ -1798,7 +1804,7 @@ h6,
     }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 420px) {
     .yck-component .infocard {
         flex: 1 0 calc(50% - .5em);
         min-width: 100%;
@@ -1881,21 +1887,6 @@ h6,
     justify-content: center;
 }
 
-.yck-component .flexgrow01 {
-    flex-grow: 1;
-}
-
-.yck-component .flexgrow00 {
-    flex-grow: 0;
-}
-
-.yck-component .flexshrink01 {
-    flex-shrink: 1;
-}
-
-.yck-component .flexshrink00 {
-    flex-shrink: 0;
-}
 
 /* === CARD MODIFIERS (Replace Original Classes) === */
 .yck-component .cards.yck__card {
@@ -2047,20 +2038,12 @@ h6,
 
 .yck-component .masonry {
     column-width: 240px;
-    column-gap: .65em;
+    column-gap: .85em;
     margin-bottom: var(--yck-space-s-xl);
 
     img {
         margin-bottom: .5em;
     }
-}
-
-.yck-component .masonry figure {
-    transform: translateY(0%);
-}
-
-.yck-component .masonry:hover figure {
-    transform: translateY(5px): transition: transform 0.75s ease;
 }
 
 /* --- Details Summary --- */
@@ -2192,7 +2175,7 @@ h6,
 
 .yck-component .buttontotop:hover,
 .yck-component .buttontotop:active,
-.yck-component .buttontotop:focus {
+.yck-component .buttontotop:focus-visible {
     width: 13ch;
     transition: .5s var(--ease-elastic-in-out-4);
     border-radius: 60px;
@@ -2202,7 +2185,7 @@ h6,
 
 .yck-component .buttontotop:hover .svgIcon,
 .yck-component .buttontotop:active .svgIcon,
-.yck-component .buttontotop:focus .svgIcon {
+.yck-component .buttontotop:focus-visible .svgIcon {
     width: var(--yck-step--1);
     transition: .5s var(--ease-elastic-in-out-4);
     transform: translateY(-200%);
@@ -2219,7 +2202,7 @@ h6,
 
 .yck-component .buttontotop:hover::before,
 .yck-component .buttontotop:active::before,
-.yck-component .buttontotop:focus::before {
+.yck-component .buttontotop:focus-visible::before {
     bottom: unset;
     font-size: var(--yck-step--1);
     /* transform: translateY(30px); */
