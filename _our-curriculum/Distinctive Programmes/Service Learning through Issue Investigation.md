@@ -38,22 +38,39 @@ variant: markdown
             </section>
             <section id="key-programmes">
                 <h2>Key Programmes</h2>
-                <p>This project involves all Secondary Three students across the three courses. Using the skills in data collection and interpretation that are integral in Social Studies Issue Investigation, teams select an issue that they would like to investigate and address. To allow students to have a voice and choice, they are given four comprehensive areas of societal issues to investigate on and impact. They are:</p>
                 <div class="columns">
-                    <ol>
-                        <li>Environmental and Animal Welfare</li>
-                        <li>Cyber Wellness and Literacy</li>
-                        <li>Mental and Physical Wellness</li>
-                        <li>Social Inclusivity and Awareness</li>
-                    </ol>
-                    <p>They will then proceed to gather data and evaluate what are the crucial needs of the selected sector in community. Working with an external organisation, the teams embark on a project to address the need that was identified.</p>
-                    <div class="contact-card" id="keypersonnel">
-                        <div class="line1">
-                            <span class="role">Key Personnel In-Charge</span>
+                    <div class="info-container">
+                        <div class="yck__flexitem">
+                            <p>This project involves all Secondary Three students across the three courses. Using the skills in data collection and interpretation that are integral in Social Studies Issue Investigation, teams select an issue that they would like to investigate and address. To allow students to have a voice and choice, they are given four comprehensive areas of societal issues to investigate on and impact. They are:</p>
                         </div>
-                        <div class="line2">
-                            <span class="name">Mdm Chen Huijun</span><br>
-                            <span class="ext">(HOD Humanities)</span>
+                        <div class="yck__flexitem">
+                            <div class="card__body">
+                                <ol>
+                                    <li>Environmental and Animal Welfare</li>
+                                    <li>Cyber Wellness and Literacy</li>
+                                    <li>Mental and Physical Wellness</li>
+                                    <li>Social Inclusivity and Awareness</li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <hr>
+                <div class="columns">
+                    <div class="info-container">
+                        <div class="yck__flexitem">
+                            <p>They will then proceed to gather data and evaluate what are the crucial needs of the selected sector in community. Working with an external organisation, the teams embark on a project to address the need that was identified.</p>
+                        </div>
+                        <div class="yck__flexitem flex-grow">
+                            <div class="contact-card" id="keypersonnel">
+                                <div class="line1">
+                                    <span class="role">Key Personnel In-Charge</span>
+                                </div>
+                                <div class="line2">
+                                    <span class="name">Mdm Chen Huijun</span><br>
+                                    <span class="ext">(HOD Humanities)</span>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -924,6 +941,12 @@ i[class*=" icon-"]:before {
 
 .yck-component section {
     margin-block: var(--yck-space-s-xl);
+}
+
+hr,
+.yck-component hr,
+.yck-component .hr {
+    margin-top: 1em;
 }
 
 /* Centering GRID */
@@ -2373,6 +2396,33 @@ h6,
     to {
         transform: scale(1.35);
     }
+}
+
+.yck-component .masthead {
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+	flex-direction: row;
+	text-align: center;
+	width: 100%;
+	height: 40vh;
+	overflow: hidden;
+	background-size: cover !important;
+}
+
+#distinct-slii {
+background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 61%, rgba(0, 0, 0, 0.65) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/S1.jpg) no-repeat center center scroll;
+}
+
+.yck-component .masthead h2 {
+	font-style: normal;
+	font-weight: bold;
+	color: #eee !important;
+	font-size: 5.7vmin;
+	letter-spacing: 0.03em;
+	line-height: 1;
+	text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.8);
+	margin-bottom: 40px;
 }
 
 @supports (content-visibility: auto) {
