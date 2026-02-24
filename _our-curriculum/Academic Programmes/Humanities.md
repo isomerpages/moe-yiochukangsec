@@ -135,11 +135,11 @@ variant: markdown
                     </figure>
                 </div>
             </section>
-            <div class="deadctr-container">
-                <button class="buttontotop" href="#top">
-                    <img alt="Back to Top" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Icons/svgiconwht.svg" class="svgIcon">
-                </button>
-            </div>
+            <div class="deadctr-container" id="backtotop">
+                                        <a href="#top"><button class="buttontotop">
+                                                <img alt="Back to Top" src="https://www.yiochukangsec.moe.edu.sg/images/Icons/svgiconwht.svg" class="svgIcon">
+                                            </button></a>
+                                    </div>
     </article></div>
     
 </div>
