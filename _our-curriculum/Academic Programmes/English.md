@@ -145,16 +145,57 @@ image: /images/YCKLogo.svg
                             <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YCKSS English Department" src="https://www.youtube.com/embed/P4EIoNB00jQ" height="315" width="560"></iframe>
                         </figure>
                     </div>
-                    <div class="deadctr-container">
-                        <figure>
-                            <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/English/E2.png">
-                        </figure>
-                        <figure>
-                            <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/English/E3.png">
-                        </figure>
-                        <figure>
-                            <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/English/E4.png">
-                        </figure>
+                    <div style="--width: 420px; --height: 400px; --quantity: 6; --duration: 30s;" class="carousel slider" id="pic_carousel">
+                        <div class="carousel list">
+                            <div style="--position: 1" class="carousel item">
+                                <div class="carousel card">
+                                    <figure>
+                                        <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/English/e2a.jpg">
+                                        <figcaption class="caption">1<sup>st</sup> runner-up at the National Schools Literature Festival choral speaking competition</figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+                            <div style="--position: 2" class="carousel item">
+                                <div class="carousel card">
+                                    <figure>
+                                        <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/English/e2b.jpg">
+                                        <figcaption>English/Effective Reading Programme</figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+                            <div style="--position: 3" class="carousel item">
+                                <div class="carousel card">
+                                    <figure>
+                                        <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/English/e3a.jpg">
+                                        <figcaption>A reader's theatre presentation at our inaugural Reading Week assembly programme</figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+                            <div style="--position: 4" class="carousel item">
+                                <div class="carousel card">
+                                    <figure>
+                                        <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/English/e3b.jpg">
+                                        <figcaption>Showing appreciation to the reading mentors for a year-long journey</figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+                            <div style="--position: 5" class="carousel item">
+                                <div class="carousel card">
+                                    <figure>
+                                        <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/English/e4a.jpg">
+                                        <figcaption>Reading Mentors</figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+                            <div style="--position: 6" class="carousel item">
+                                <div class="carousel card">
+                                    <figure>
+                                        <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/English/e4b.jpg">
+                                        <figcaption>This is fun!</figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+                        </div>
                     </div>
             </div></section>
             <div class="deadctr-container">
@@ -703,17 +744,17 @@ image: /images/YCKLogo.svg
 }
 
 /* ----------------------------------------------
-	 * Generated by Animista on 2025-12-22 9:21:49
-	 * Licensed under FreeBSD License.
-	 * See http://animista.net/license for more info. 
-	 * w: http://animista.net, t: @cssanimista
-	 * ---------------------------------------------- */
+     * Generated by Animista on 2025-12-22 9:21:49
+     * Licensed under FreeBSD License.
+     * See http://animista.net/license for more info. 
+     * w: http://animista.net, t: @cssanimista
+     * ---------------------------------------------- */
 
 /**
-	 * -----------------------------------------------------------------
-	 * animation bg-pan-top bg-pan-bottom bg-pan-left bg-pan-right
-	 * -----------------------------------------------------------------
-	 */
+     * -----------------------------------------------------------------
+     * animation bg-pan-top bg-pan-bottom bg-pan-left bg-pan-right
+     * -----------------------------------------------------------------
+     */
 @keyframes bg-pan-top {
     0% {
         background-position: 50% 100%;
@@ -755,10 +796,10 @@ image: /images/YCKLogo.svg
 }
 
 /**
-	 * ----------------------------------------
-	 * animation fade-in-right
-	 * ----------------------------------------
-	 */
+     * ----------------------------------------
+     * animation fade-in-right
+     * ----------------------------------------
+     */
 
 
 @keyframes fade-in-right {
@@ -908,8 +949,8 @@ image: /images/YCKLogo.svg
 }
 
 /* * { 
-	    outline: 1px dashed red; 
-	} */
+        outline: 1px dashed red; 
+    } */
 
 html {
     font-size: 100%;
@@ -2432,31 +2473,130 @@ h6,
     }
 }
 
+/* --- Carousel --- */
+.yck-component .carousel.card {
+    width: 100%;
+    height: 100%;
+    border-radius: var(--yck-rounded-corners);
+    overflow: hidden;
+    margin-block: 1em;
+    color: var(--neutral-400);
+    text-align: center;
+}
+
+.yck-component .carousel.card p {
+    font-size: var(--yck-step-0);
+    color: var(--neutral-800);
+}
+
+.yck-component .carousel.slider,
+.yck-component .carousel.glider {
+    margin-bottom: 1em;
+    width: 100%;
+    height: var(--height);
+    overflow: hidden;
+    overflow-x: auto;
+    overflow-y: hidden;
+    mask-image: linear-gradient(to right, transparent, #000 10% 90%, transparent);
+}
+
+.yck-component .carousel.slider .list,
+.yck-component .carousel.glider .list {
+    display: flex;
+    width: 100%;
+    min-width: calc(var(--width) * var(--quantity));
+    position: relative;
+}
+
+.yck-component .carousel.slider .list .item {
+    width: var(--width);
+    height: var(--height);
+    position: absolute;
+    left: 100%;
+    animation: autoRun var(--duration) linear infinite;
+    transition: filter 1.5s;
+    animation-delay: calc((var(--duration) / var(--quantity)) * (var(--position) - 1) - var(--duration)) !important;
+}
+
+.yck-component .carousel.slider[reverse="true"] .item {
+    animation: reversePlay var(--duration) linear infinite;
+}
+
+.yck-component .carousel.glider .list .item {
+    width: var(--width);
+    height: var(--height);
+    position: absolute;
+    left: 100%;
+    animation: reversePlay var(--duration) linear infinite;
+    transition: filter 1.5s;
+    animation-delay: calc((var(--duration) / var(--quantity)) * (var(--position) - 1) - var(--duration)) !important;
+}
+
+.yck-component .carousel.slider .list .item img,
+.yck-component .carousel.glider .list .item img {
+    width: 100%;
+}
+
+@keyframes autoRun {
+    from {
+        left: 100%;
+    }
+
+    to {
+        left: calc(var(--width) * -1);
+    }
+}
+
+.yck-component .carousel.slider:hover .item,
+.yck-component .carousel.glider:hover .item {
+    animation-play-state: paused !important;
+    filter: grayscale(1);
+}
+
+.yck-component .carousel.slider .item:hover,
+.yck-component .carousel.glider .item:hover {
+    filter: grayscale(0);
+}
+
+.yck-component .carousel.glider .item {
+    animation: reversePlay var(--duration) linear infinite;
+}
+
+@keyframes reversePlay {
+    from {
+        left: calc(var(--width) * -1);
+    }
+
+    to {
+        left: 100%;
+    }
+}
+
 .yck-component .masthead {
-	display: flex;
-	justify-content: center;
-	align-items: flex-end;
-	flex-direction: row;
-	text-align: center;
-	width: 100%;
-	height: 40vh;
-	overflow: hidden;
-	background-size: cover !important;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-direction: row;
+    text-align: center;
+    width: 100%;
+    height: 40vh;
+    overflow: hidden;
+    background-size: cover !important;
 }
 
 #distinct-slii {
-background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 61%, rgba(0, 0, 0, 0.65) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/S1.jpg) no-repeat center center scroll;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 61%, rgba(0, 0, 0, 0.65) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/S1.jpg) no-repeat center center scroll;
 }
 
 .yck-component .masthead h2 {
-	font-style: normal;
-	font-weight: bold;
-	color: #eee;
-	font-size: 5.7vmin;
-	letter-spacing: 0.03em;
-	line-height: 1;
-	text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.8);
-	margin-bottom: 40px;
+    font-style: normal;
+    font-weight: bold;
+    color: #eee;
+    font-size: 5.7vmin;
+    letter-spacing: 0.03em;
+    line-height: 1;
+    text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.8);
+    margin-bottom: 40px;
 }
 
 @supports (content-visibility: auto) {
