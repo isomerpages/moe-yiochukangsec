@@ -180,32 +180,26 @@ variant: markdown
             </div></section>
             <hr>
             <section id="download&amp;hod">
-                <div class="flex-wrap">
-                    <div class="cards yck__card flexgrow">
-                        <div class="card__header"></div>
-                        <div class="card__body">
-                            <p>
-                                Please
-                                <mark>
-                                    <a class="text-link" href="https://www.yiochukangsec.moe.edu.sg/files/Academic%20Programmes/Science/Science_Department_Programme_and_Subject_Information.pdf">tap/click here to download (PDF)</a> </mark>our Programme and Subject Information for more details.
-                            </p>
-                            <div class="card__footer"></div>
-                        </div>
-                    </div>
-                    <div class="cards yck__flexitem flexgrow">
-                        <div class="deadctr-container">
-                            <div class="card01">
-                                <div class="card01-content">
-                                    <p class="card01-title">HOD Science (Covering)</p>
-                                    <p class="card01-para">
-                                        Mr Wong Mingwei
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
+                                            <div class="autofit-grid">
+                                                <div class="infocard">
+                                                    <p>
+                                                            Please
+                                                            <mark>
+                                                                <a class="text-link" href="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/files/Academic%20Programmes/Science/Science_Department_Programme_and_Subject_Information.pdf">tap/click here to download (PDF)</a> </mark>our Programme and Subject Information for more details.
+                                                        </p>
+                                                </div>
+                                                <div class="contact-card">
+                                                    <div class="line1">
+                                                        <span class="role">HOD</span>
+                                                        <span class="dept">Science (Covering)</span>
+                                                    </div>
+                                                    <div class="line2">
+                                                        <span class="name">Mr Wong Mingwei</span><br>
+                                                        <span class="ext">(ext. 123)</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
             <hr>
             <section id="voices">
                 <h3 class="yck-h3">Voices of Science</h3>
@@ -247,42 +241,87 @@ variant: markdown
                             </div>
             </div></div></div></section>
             <section id="gallery">
-                <h3 class="yck-h3">Photo Gallery</h3>
-                <div class="video-container">
-                    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nZCKqhtKvpw?si=z-SAlXSSvO_9uQC_" height="315" width="560"></iframe>
-                </div>
-                <figure>
-                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Science/S2.png">
-                </figure>
-                <figure>
-                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Science/S3.png">
-                </figure>
-                <figure>
-                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Science/S4.png">
-                </figure>
-                <figure>
-                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Science/S5.png">
-                </figure>
-                <figure>
-                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Science/S6.png">
-                </figure>
-                <figure>
-                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Science/S7.png">
-                </figure>
-                <figure>
-                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Science/S8.png">
-                </figure>
-                <figure>
-                    <img src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Academic%20Programmes/Science/S9.png">
-                </figure>
-            </section>
-            <div class="deadctr-container" id="backtotop">
-                <a href="#top">
-                    <button class="buttontotop">
-                        <img alt="Back to Top" src="https://www.yiochukangsec.moe.edu.sg/images/Icons/svgiconwht.svg" class="svgIcon">
-                    </button></a>
-            </div>
-            <style></style>
+                                            <h3 class="yck-h3">Photo Gallery</h3>
+                                            <div class="video-container">
+                                                <figure>
+                                                    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nZCKqhtKvpw?si=z-SAlXSSvO_9uQC_" height="315" width="560"></iframe>
+                                                </figure>
+                                            </div>
+                                            <div class="masonry">
+                                                <figure>
+                                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Science/S2a.png">
+                                                    <figcaption>Sec 1 students harvesting plants from Mendel's Garden</figcaption>
+                                                </figure>
+                                                <figure>
+                                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Science/S2b.png">
+                                                    <figcaption>Science Sharing with the community</figcaption>
+                                                </figure>
+                                                <figure>
+                                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Science/S3a.png">
+                                                    <figcaption>Teachers and students @ Da Vinci Programme</figcaption>
+                                                </figure>
+                                                <figure>
+                                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Science/S3b.png">
+                                                    <figcaption>Bronze Award Team presenting at Elementz</figcaption>
+                                                </figure>
+                                                <figure>
+                                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Science/S4a.png">
+                                                    <figcaption>Constructing Test-beds</figcaption>
+                                                </figure>
+                                                <figure>
+                                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Science/S4b.png">
+                                                    <figcaption>Mendel's Garden Research</figcaption>
+                                                </figure>
+                                            </div>
+                                            <div class="masonry">
+                                                <figure>
+                                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Science/S5a.png">
+                                                    <figcaption>Sec 1 research work in Mendel's Garden</figcaption>
+                                                </figure>
+                                                <figure>
+                                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Science/S5b.png">
+                                                    <figcaption>North Zone Elementz Science Research Conference and Exhibition</figcaption>
+                                                </figure>
+                                                <figure>
+                                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Science/S6a.png">
+                                                    <figcaption>Outdoor Experimentation</figcaption>
+                                                </figure>
+                                                <figure>
+                                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Science/S6b.png">
+                                                    <figcaption>Science Discussions</figcaption>
+                                                </figure>
+                                                <figure>
+                                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Science/S7a.png">
+                                                    <figcaption>Science Team innovating with the environment.</figcaption>
+                                                </figure>
+                                                <figure>
+                                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Science/S7b.png">
+                                                    <figcaption>Silver Award Team presenting at Elementz</figcaption>
+                                                </figure>
+                                                <figure>
+                                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Science/S8a.png">
+                                                    <figcaption>Students sharing with Dr Koh Poh Koon their research findings.</figcaption>
+                                                </figure>
+                                                <figure>
+                                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Science/S8b_Teamwork.png">
+                                                    <figcaption>Teamwork</figcaption>
+                                                </figure>
+                                                <figure>
+                                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Science/S9a.png">
+                                                    <figcaption>Presenting Science Ideas</figcaption>
+                                                </figure>
+                                                <figure>
+                                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Science/S9b.png">
+                                                    <figcaption>Science Investigation at Sungei Buloh</figcaption>
+                                                </figure>
+                                            </div>
+                                        </section>
+                                        <div class="deadctr-container" id="backtotop">
+                                            <a href="#top">
+                                                <button class="buttontotop">
+                                                    <img alt="Back to Top" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Icons/svgiconwht.svg" class="svgIcon">
+                                                </button></a>
+                                        </div>
     </article></div>
 </div>
 
@@ -886,7 +925,6 @@ a.button {
 .yck-component {
     padding: 0;
     margin: 0;
-    width: 100%;
     max-width: 1023px;
 }
 
@@ -904,6 +942,12 @@ a.button {
 
 .yck-component section {
     margin-block: var(--yck-space-s-xl);
+}
+	
+hr,
+.yck-component hr,
+ .yck-component .hr {
+    margin-top: 1em;
 }
 
 /* Centering GRID */
@@ -1738,8 +1782,9 @@ h6,
 }
 
 
+/* === HOD Namecards === */
 .yck-component .card01 {
-  width: fit-content;
+  min-width: fit-content;
   background-color: var(--yck-orange100);
   background-image: linear-gradient(0deg, var(--yck-orange400) 5%, var(--yck-orange900) 50%);
   color: white;
@@ -1760,7 +1805,7 @@ h6,
 
 .yck-component .card01:hover {
   transform: scale(1.05);
-  filter: brightness(115%);
+  filter: brightness(120%);
 }
 
 .yck-component .card01:before {
@@ -1779,13 +1824,12 @@ h6,
 
 .yck-component .card01:hover:before {
   opacity: 1;
-  height: 50%;
+  height: 45%;
 }
 
 .yck-component .card01 .card01-title {
   font-size: var(--yck-step-1);
   font-weight: 700;
-  margin-bottom: ;
   text-transform: uppercase;
   text-shadow: 2px 2px 3px rgba(206, 60, 60, .5), 3px 3px 4px rgba(0, 0, 0, 0.35);
 }
@@ -1798,15 +1842,13 @@ h6,
 }
 
 .yck-component .card01-content {
-  transform: translateY(60%);
+  transform: translateY(50%);
   transition: all 0.5s var(--ease-squish-1);
 }
 
 .yck-component .card01:hover .card01-content {
   transform: translateY(0%);
 }
-
-
 
 /* Layouts - Columns */
 .yck-component :is(.columns2, .columns3, .columns) {
@@ -2054,6 +2096,248 @@ h6,
     font-style: oblique;
     text-shadow: var(--yck-box-shadow);
 }
+/* === Contact Card - Staff === */
+/* === Correct version === */
+.yck-component .contact-card * {
+    margin: 0;
+    padding: 0;
+}
+
+.yck-component .contact-card {
+    display: flex;
+    flex: 1 0;
+    background: #ffffff;
+    background: linear-gradient(to right, rgba(255, 180, 10, 0.8) 3%, rgba(255, 180, 10, 0.6) 23%, rgba(255, 200, 10, 0.4) 53%, rgba(255, 200, 10, 0.2) 70%, rgba(255, 255, 255, 0.8) 85%, rgba(255, 255, 255, 0.1));
+    border: 1px solid #e0e0e0;
+    border-radius: 25px 0;
+    padding: calc(var(--yck-step-5)*1.35);
+    transition: all 0.5s ease-in-out;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
+    cursor: pointer;
+    position: relative;
+    flex-direction: column;
+    justify-content: center;
+    filter: saturate(15%);
+    min-width: fit-content;
+    min-height: 120px;
+}
+
+.yck-component .contact-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    border: 1px dotted #ffccaa;
+    background: #ffffff;
+    background: linear-gradient(to right, rgba(255, 180, 10, 0.8) 3%, rgba(255, 180, 10, 0.6) 23%, rgba(255, 200, 10, 0.4) 53%, rgba(255, 200, 10, 0.2) 70%, rgba(255, 255, 255, 0.8) 85%, rgba(255, 255, 255, 0.1));
+    filter: saturate(100%);
+}
+
+.yck-component .contact-card:focus-visible {
+    outline: 2px solid #007acc;
+    outline-offset: 2px;
+}
+
+.yck-component .line1,
+.yck-component .line2 {
+    position: absolute;
+    left: 1.25em;
+    right: 1.05em;
+    background: transparent;
+    transition: all 1s var(--ease-squish-3);
+}
+
+.yck-component .line1 {
+    top: 50%;
+    transform: translateY(-50%);
+    opacity: 1;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.5rem;
+}
+
+.yck-component .line2 {
+    top: 100%;
+    transform: translateY(-50%);
+    opacity: 0;
+    line-height: 1.25;
+}
+
+/* Hover animations */
+.yck-component .contact-card:hover .line1,
+.yck-component .contact-card:focus-visible .line1 {
+    top: -20%;
+    opacity: 0;
+}
+
+.yck-component .contact-card:hover .line2,
+.yck-component .contact-card:focus-visible .line2 {
+    top: 50%;
+    opacity: 1;
+}
+
+/* Line 1 styles */
+.yck-component .contact-card .role {
+    font-size: calc(var(--yck-step-2)*.9);
+    font-weight: 300;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    background: rgba(204, 143, 0, 0.8);
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    text-shadow: 2px 2px 3px rgba(206, 60, 60, .5), 3px 3px 4px rgba(0, 0, 0, 0.35);
+    transition: all 0.5s ease;
+}
+
+.yck-component .contact-card:hover .role {
+    background: transparent;
+}
+
+.yck-component .contact-card .dept {
+    font-size: var(--yck-step-3);
+    font-weight: 700;
+    color: #555;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 3px rgba(206, 60, 60, .5), 3px 3px 4px rgba(0, 0, 0, 0.35);
+}
+
+/* Line 2 styles */
+.yck-component .contact-card .name {
+    font-family: var(--font-transitional);
+    font-size: calc(var(--yck-step-3)*.95);
+    font-weight: 700;
+    color: var(--neutral-100);
+    line-height: .9;
+    display: inline-block;
+    text-shadow: 2px 2px 3px rgba(206, 60, 60, .5), 3px 3px 4px rgba(0, 0, 0, 0.35);
+    transition: all 0.5s ease;
+}
+
+.yck-component .contact-card abbr {
+    font-family: var(--font-transitional);
+    font-weight: 700;
+    font-size: calc(var(--yck-step-3)*.95);
+    cursor: help;
+    transition: color 0.7s ease;
+    text-decoration: underline dotted;
+    color: currentColor;
+    text-decoration-thickness: 2px;
+    text-shadow: 2px 2px 3px rgba(206, 60, 60, .5), 3px 3px 4px rgba(0, 0, 0, 0.35);
+    text-underline-offset: 3px;
+}
+
+.yck-component .contact-card:hover .name,
+.yck-component .contact-card:focus-visible .name {
+    color: var(--yck-orange900);
+    transition: all 0.5s ease;
+    font-weight: 700;
+}
+
+.yck-component .contact-card .ext {
+    font-family: var(--font-transitional);
+    font-size: var(--yck-step-1);
+    font-weight: 300;
+    padding: 0.25rem 0.5rem;
+    color: #ffffff;
+    font-style: oblique;
+    text-transform: capitalize;
+    display: inline-block;
+    letter-spacing: 0.1px;
+    background: rgba(204, 143, 0, 0.7);
+    border-radius: 0 8px;
+    text-shadow: 2px 2px 3px rgba(206, 60, 60, .5), 3px 3px 4px rgba(0, 0, 0, 0.35);
+    transition: all 0.5s ease;
+}
+
+/* Accessibility improvements */
+@media (prefers-reduced-motion: reduce) {
+
+    .yck-component .line1,
+    .yck-component .line2 {
+        transition: all 0.5s ease;
+    }
+
+    .yck-component .contact-card:hover .line1,
+    .yck-component .contact-card:focus .line1 {
+        top: 50%;
+        transform: translateY(-50%);
+    }
+
+    .yck-component .contact-card:hover .line2,
+    .yck-component .contact-card:focus .line2 {
+        top: 50%;
+        transform: translateY(-50%);
+    }
+}
+
+/* Enhanced focus styles for keyboard navigation */
+.yck-component .contact-card:focus-visible {
+    outline: 3px solid #007acc;
+    outline-offset: 2px;
+}
+
+/* Optional: Add a subtle background animation */
+.yck-component .contact-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(135deg, rgba(73, 139, 90, 0.04) 0%, rgba(73, 139, 90, 0.09) 100%);
+    opacity: 0;
+    transition: all 0.5s ease-in-out;
+    z-index: 10;
+}
+
+.yck-component .contact-card:hover::before,
+.yck-component .contact-card:focus::before {
+    opacity: 1;
+}
+
+	
+    /* === BASE CARD FOUNDATION === */
+    .yck-component .info-container {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 1em;
+        margin: 0 auto;
+    }
+
+    .yck-component .infocard {
+        flex: 1 0;
+        min-width: 280px;
+        background: linear-gradient(205deg, var(--neutral-100, .2) -10%, rgba(255, 255, 255, .3) 65%, var(--neutral-100, .1) 100%);
+        border-radius: var(--yck-rounded-corners);
+        padding: 1.15em;
+        box-shadow: var(--shadow-1);
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+        display: flex;
+        flex-direction: column;
+        border: 1px dashed #999;
+    }
+
+    .yck-component .infocard:hover,
+    .yck-component .infocard:focus-visible,
+    .yck-component .infocard:active {
+        transform: translateY(-4px);
+        box-shadow: var(--shadow-4);
+    }
+
+    @media (max-width: 576px) {
+        .yck-component .infocard {
+            flex: 1 0 calc(33.333% - 0.75em);
+            min-width: 320px;
+        }
+    }
+
+    @media (max-width: 480px) {
+        .yck-component .infocard {
+            flex: 1 0 calc(50% - .5em);
+            min-width: 100%;
+        }
+    }
 
 @supports (content-visibility: auto) {
     details {
