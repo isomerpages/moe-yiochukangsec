@@ -26,7 +26,7 @@ image: /images/Icons/robotics.png
 	
 <p>Download the <a href="/files/Academic%20Programmes/Design%20and%20Enterprise/Curriculum_and_Assessment_Briefing__HOD____2025__for_parents_.pdf">Curriculum and Assessment Briefing for parents (PDF, 2.23MB)</a></p>
 		
- <img alt="" src="/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D_Tframework.png">
+ <img alt="" src="/images/Our%20Curriculum/Academic%20Programmes/Design%20and%20Enterprise/D_Tframework_L.png">
 </div>
 
 <div class="yck-component">
