@@ -2405,7 +2405,7 @@ h6,
 	flex-direction: row;
 	text-align: center;
 	width: 100%;
-	height: 40vh;
+	height: 60vh;
 	overflow: hidden;
 	background-size: cover !important;
 }
