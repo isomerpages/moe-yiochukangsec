@@ -1046,6 +1046,9 @@ hr,
 .yck-component .content {
     margin-inline: 1.5em;
     padding-block: 1em;
+	  line-height: var(--yck-text-line-height);
+    letter-spacing: normal;
+    text-wrap: pretty;
 }
 
 /* QRCode Container */
@@ -1061,7 +1064,7 @@ hr,
 }
 
 /* ============ Base Typography ==================== */
-.yck-component :is(div, p, li, td, .content) {
+.yck-component :is(div, p, li, td) {
     padding: 0;
     margin: 0;
     line-height: var(--yck-text-line-height);
