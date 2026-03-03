@@ -163,14 +163,14 @@ variant: markdown
                         </div>
                     </div>
                 </div>
-    </section></article></div>
-    
+    </section>   
     <div class="deadctr-container">
         <a href="#top"><button class="buttontotop">
                 <img alt="Back to Top" src="https://www.yiochukangsec.moe.edu.sg/images/Icons/svgiconwht.svg" class="svgIcon">
             </button></a>
     </div>
-    
+</article>
+</div>
 </div>
 
 
