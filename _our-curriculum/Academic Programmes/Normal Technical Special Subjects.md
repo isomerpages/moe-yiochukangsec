@@ -48,7 +48,8 @@ variant: markdown
                 <details name="keyprog">
                     <summary id="ebs">Elements of Business Skills (EBS)</summary>
                     <div class="content">
-                        <p>EBS is offered as an upper secondary <strong>elective subject</strong> in the Normal Technical course. The subject offers students an introduction to business through an understanding of business activities, focusing on basic marketing and customer relations. These are learnt in the context of businesses in the local travel and tourism, hospitality and retail industries, which offer employment opportunities accessible to the students.</p> <p>Through EBS, students are equipped with the foundation for further studies at institutes of higher learning. Students will also have the opportunity to go on work attachment, where it makes learning authentic and relevant and where they gain awareness of the prospects and challenges of a career in the services sector.</p>
+                        <p>EBS is offered as an upper secondary <strong>elective subject</strong> in the Normal Technical course. The subject offers students an introduction to business through an understanding of business activities, focusing on basic marketing and customer relations. These are learnt in the context of businesses in the local travel and tourism, hospitality and retail industries, which offer employment opportunities accessible to the students.</p>
+                        <p>Through EBS, students are equipped with the foundation for further studies at institutes of higher learning. Students will also have the opportunity to go on work attachment, where it makes learning authentic and relevant and where they gain awareness of the prospects and challenges of a career in the services sector.</p>
                     </div>
                 </details>
                 <details name="keyprog">
@@ -61,7 +62,9 @@ variant: markdown
                             <li>Experiencing the Present (Secondary 2)</li>
                             <li>Charting our Future (Secondary 3 and 4).</li>
                         </ol>
-                        <p>Syllabus objectives from curriculum subjects such as <a class="text-link" href="/our-curriculum/Academic-Programmes/Humanities/">Social Studies</a>, Elements of Business Skills and <a class="text-link" href="/our-curriculum/academic-programmes/english/">English Language</a> are also incorporated in the learning journeys.</p> <p>Subject teachers design tasks for the learning journey venues so that students are able to make connections between their learning in school with real-world experiences. The learning journeys are also aligned to the CCE outcomes, especially in the area of <a class="text-link" href="/our-curriculum/Non-Academic-Programmes/Character-and-Citizenship-Education/">Education and Career Guidance (ECG)</a> for our Secondary three and four students.</p> <p>The students are given various tasks and questions to complete for every learning journey. Students develop critical thinking through reflective questions posed in the NTLJ tasks for each venue. These questions and tasks are framed using Elements of Thought (e.g. point of view, implications and consequences) and aim to grow students to become reflective thinkers and learners.</p>
+                        <p>Syllabus objectives from curriculum subjects such as <a class="text-link" href="/our-curriculum/Academic-Programmes/Humanities/">Social Studies</a>, Elements of Business Skills and <a class="text-link" href="/our-curriculum/academic-programmes/english/">English Language</a> are also incorporated in the learning journeys.</p>
+                        <p>Subject teachers design tasks for the learning journey venues so that students are able to make connections between their learning in school with real-world experiences. The learning journeys are also aligned to the CCE outcomes, especially in the area of <a class="text-link" href="/our-curriculum/Non-Academic-Programmes/Character-and-Citizenship-Education/">Education and Career Guidance (ECG)</a> for our Secondary three and four students.</p>
+                        <p>The students are given various tasks and questions to complete for every learning journey. Students develop critical thinking through reflective questions posed in the NTLJ tasks for each venue. These questions and tasks are framed using Elements of Thought (e.g. point of view, implications and consequences) and aim to grow students to become reflective thinkers and learners.</p>
                     </div>
                 </details>
             </section>
@@ -80,7 +83,7 @@ variant: markdown
             <hr>
             <section id="gallery">
                 <div style="--width: 420px; --height: 430px;" class="carousel slider" id="pic_carousel">
-                    <div style="--quantity: 9; --duration: 60s;" class="list">
+                    <div style="--quantity: 9; --duration: 50s;" class="list">
                         <div style="--position: 1" class="item">
                             <div class="carousel card">
                                 <figure>
@@ -283,7 +286,10 @@ variant: markdown
     --ratio-square: 1;
     --ratio-ultrawide: 18/5;
     --ratio-widescreen: 16/9;
+}
 
+/* EASINGS */
+:where(html) {
     --ease-1: cubic-bezier(.25, 0, .5, 1);
     --ease-2: cubic-bezier(.25, 0, .4, 1);
     --ease-3: cubic-bezier(.25, 0, .3, 1);
@@ -399,6 +405,7 @@ variant: markdown
     --ease-sine-out: cubic-bezier(.39, .575, .565, 1);
 }
 
+/* SHADOWS */
 :where(html) {
     --shadow-color: 220 3% 15%;
     --shadow-strength: 1%;
@@ -442,6 +449,7 @@ variant: markdown
     --inner-shadow-4: inset 0 2px 14px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 9%)), var(--inner-shadow-highlight);
 }
 
+/* ANIMATION */
 :where(html) {
     --animation-fade-in: fade-in .5s var(--ease-3);
     --animation-fade-in-bloom: fade-in-bloom 2s var(--ease-3);
@@ -717,17 +725,17 @@ variant: markdown
 }
 
 /* ----------------------------------------------
-     * Generated by Animista on 2025-12-22 9:21:49
-     * Licensed under FreeBSD License.
-     * See http://animista.net/license for more info. 
-     * w: http://animista.net, t: @cssanimista
-     * ---------------------------------------------- */
+ * Generated by Animista on 2025-12-22 9:21:49
+ * Licensed under FreeBSD License.
+ * See http://animista.net/license for more info. 
+ * w: http://animista.net, t: @cssanimista
+ * ---------------------------------------------- */
 
 /**
-     * -----------------------------------------------------------------
-     * animation bg-pan-top bg-pan-bottom bg-pan-left bg-pan-right
-     * -----------------------------------------------------------------
-     */
+ * -----------------------------------------------------------------
+ * animation bg-pan-top bg-pan-bottom bg-pan-left bg-pan-right
+ * -----------------------------------------------------------------
+ */
 @keyframes bg-pan-top {
     0% {
         background-position: 50% 100%;
@@ -769,10 +777,10 @@ variant: markdown
 }
 
 /**
-     * ----------------------------------------
-     * animation fade-in-right
-     * ----------------------------------------
-     */
+ * ----------------------------------------
+ * animation fade-in-right
+ * ----------------------------------------
+ */
 
 
 @keyframes fade-in-right {
@@ -921,9 +929,6 @@ variant: markdown
     box-sizing: border-box;
 }
 
-/* * { 
-        outline: 1px dashed red; 
-    } */
 
 html {
     font-size: 100%;
@@ -931,12 +936,16 @@ html {
 
 body {
     min-height: 100dvh;
-    font-family: inherit;
     line-height: var(--yck-text-line-height);
     word-break: break-word;
     overflow-wrap: break-word;
-    background-color: inherit;
     scroll-behavior: smooth;
+}
+
+img,
+svg {
+    width: 100%;
+    object-fit: cover;
 }
 
 a {
@@ -967,6 +976,31 @@ i[class*=" icon-"]:before {
     margin: 0;
 }
 
+sub,
+sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+
+sup {
+    top: -0.5em;
+}
+
+sub {
+    bottom: -0.25em;
+}
+
+b,
+strong {
+    font-weight: bold;
+}
+
+dfn {
+    font-style: italic;
+}
+
 /* Containers & Wrappers - div, article, main, section */
 .yck-component {
     padding: 0;
@@ -993,8 +1027,9 @@ i[class*=" icon-"]:before {
 hr,
 .yck-component hr,
 .yck-component .hr {
-    margin-top: 1em;
+    margin-top: 1rem;
 }
+
 
 /* Centering GRID */
 .yck-component .deadctr-container {
@@ -1002,7 +1037,6 @@ hr,
     margin: 0 auto;
     padding: 0;
     justify-items: center;
-    /* align-content: space-around; */
     place-items: center;
 }
 
@@ -1442,7 +1476,6 @@ h6,
 
     .yck-component .rwd-table {
         background: transparent;
-        /* color: var(--neutral-800); */
         border-radius: var(--yck-rounded-corners);
         overflow: hidden;
         width: 100%;
@@ -1463,7 +1496,6 @@ h6,
 
     .yck-component .rwd-table th,
     .yck-component .rwd-table td::before {
-        /* color: var(--neutral-700); */
         color: #fff;
     }
 }
@@ -1590,10 +1622,7 @@ h6,
 
 .yck-component figure img,
 .yck-component .figure img {
-    width: 100%;
-    background-size: cover;
     border-radius: var(--yck-rounded-corners);
-    object-fit: cover;
     overflow: hidden;
 }
 
@@ -1605,6 +1634,7 @@ h6,
     font-size: var(--yck-step--1);
     font-style: oblique;
     font-weight: 300;
+    color: #444;
     text-align: center;
     line-height: var(--yck-heading-line-height);
 }
@@ -1809,6 +1839,7 @@ h6,
     opacity: 1;
 }
 
+
 /* === BASE CARD FOUNDATION === */
 .yck-component .info-container {
     display: flex;
@@ -1922,7 +1953,7 @@ h6,
 }
 
 .yck-component .align-center {
-    align-items: center;
+    align-content: center;
 }
 
 .yck-component .justify-start {
@@ -1931,6 +1962,18 @@ h6,
 
 .yck-component .justify-center {
     justify-content: center;
+}
+
+.yck-component .flex-3 {
+    flex: 3;
+}
+
+.yck-component .flex-2 {
+    flex: 2;
+}
+
+.yck-component .flex-1 {
+    flex: 1;
 }
 
 
@@ -2404,67 +2447,10 @@ h6,
     font-weight: 400;
     font-style: oblique;
     text-shadow: var(--yck-box-shadow);
-}
-
-.kenburns-right {
-    animation: kenburns-right 40s ease-in-out infinite alternate;
-}
-
-@keyframes kenburns-right {
-    0% {
-        -webkit-transform: scale(1) translate(0, 0);
-        transform: scale(1) translate(0, 0);
-        -webkit-transform-origin: 84% 50%;
-        transform-origin: 84% 50%;
-    }
-
-    100% {
-        -webkit-transform: scale(1.25) translateX(20px);
-        transform: scale(1.25) translateX(20px);
-        -webkit-transform-origin: right;
-        transform-origin: right;
-    }
-}
-
-.kenburns-container {
-    max-width: 100%;
-    overflow: hidden;
-    position: relative;
-}
-
-.kenburns-scale {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    animation: kenBurns 45s var(--ease-elastic-in-out-4) infinite alternate;
-}
-
-@keyframes kenBurns {
-    from {
-        transform: scale(1);
-    }
-
-    to {
-        transform: scale(1.35);
-    }
+    background-color: var(--yck-orange200);
 }
 
 /* --- Carousel --- */
-.yck-component .carousel.card {
-    width: 100%;
-    height: 100%;
-    border-radius: var(--yck-rounded-corners);
-    overflow: hidden;
-    margin-block: 1em;
-    color: var(--neutral-400);
-    text-align: center;
-}
-
-.yck-component .carousel.card p {
-    font-size: var(--yck-step-0);
-    color: var(--neutral-800);
-}
-
 .yck-component .carousel.slider,
 .yck-component .carousel.glider {
     margin-bottom: 1em;
@@ -2548,31 +2534,39 @@ h6,
     }
 }
 
-.yck-component .masthead {
-    display: flex;
-    justify-content: center;
-    align-items: flex-end;
-    flex-direction: row;
-    text-align: center;
-    width: 100%;
-    height: 40vh;
+.yck-component .slider-card {
+    background: linear-gradient(45deg, rgba(33, 74, 44, .65) 0%, rgba(82, 130, 72, .85) 35%, rgba(153, 182, 116, 1.00) 85%, rgba(33, 74, 44, .8) 100%);
+    border-radius: var(--yck-rounded-corners);
     overflow: hidden;
-    background-size: cover !important;
+    height: 100%;
 }
 
-#distinct-slii {
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 61%, rgba(0, 0, 0, 0.65) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/S1.jpg) no-repeat center center scroll;
+.yck-component .slider-card figcaption {
+    color: #e5e7eb;
+    font-size: var(--yck-step--1);
+    padding: var(--yck-space-s-xl);
+    margin: 1.5em;
+    text-align: center;
 }
 
-.yck-component .masthead h2 {
-    font-style: normal;
-    font-weight: bold;
-    color: #eee;
-    font-size: 5.7vmin;
-    letter-spacing: 0.03em;
-    line-height: 1;
-    text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.8);
-    margin-bottom: 40px;
+.yck-component .carousel.card {
+    width: 100%;
+    height: 87%;
+    background: linear-gradient(45deg, rgba(240,240,240, .65) 0%, rgba(255, 255, 255, .85) 35%, rgba(250,250,250, 1.00) 85%, rgba(200, 200, 200, .8) 100%);
+    border-radius: var(--yck-rounded-corners);
+    backdrop-filter: blur(20px);
+    overflow: hidden;
+    margin-block: .5em;
+    text-align: center;
+    vertical-align: baseline;
+}
+
+.yck-component .carousel.card p {
+    font-size: var(--yck-step-0);
+    line-height: 1.2;
+    margin-top: 0.5rem;
+    padding-inline: 1rem;
+    color: var(--neutral-700);
 }
 
 /* === Highlighted text in neon red, yellow and green in CSS only === */
@@ -2618,7 +2612,49 @@ h6,
   --mark-bg-angle: 110deg; /* Variation: Sets fade angle */
 }
 
+.kenburns-right {
+    animation: kenburns-right 40s ease-in-out infinite alternate;
+}
 
+@keyframes kenburns-right {
+    0% {
+        -webkit-transform: scale(1) translate(0, 0);
+        transform: scale(1) translate(0, 0);
+        -webkit-transform-origin: 84% 50%;
+        transform-origin: 84% 50%;
+    }
+
+    100% {
+        -webkit-transform: scale(1.25) translateX(20px);
+        transform: scale(1.25) translateX(20px);
+        -webkit-transform-origin: right;
+        transform-origin: right;
+    }
+}
+
+.kenburns-container {
+    max-width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.kenburns-scale {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    animation: kenBurns 45s var(--ease-elastic-in-out-4) infinite alternate;
+}
+
+@keyframes kenBurns {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.35);
+    }
+}
+	
 #set {
     background: url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Icons/set.svg) no-repeat right center scroll;
     background-size: contain;
