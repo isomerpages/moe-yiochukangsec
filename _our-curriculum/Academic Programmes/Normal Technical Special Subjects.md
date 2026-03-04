@@ -79,7 +79,7 @@ variant: markdown
             </section>
             <hr>
             <section id="gallery">
-                <div style="--width: 420px; --height: 430px;" class="carousel slider" id="pic_carousel">
+                <div style="--width: 420px; --height: 480px;" class="carousel slider" id="pic_carousel">
                     <div style="--quantity: 9; --duration: 60s;" class="list">
                         <div style="--position: 1" class="item">
                             <div class="carousel card">
@@ -104,7 +104,7 @@ variant: markdown
                         <div style="--position: 3" class="item">
                             <div class="carousel card">
                                 <figure>
-                                    <img alt="NT Special Subjects Photo Gallery" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/NT%20Special%20Subjects/N3.jpg">
+                                    <img style="object-fit: contain" alt="NT Special Subjects Photo Gallery" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/NT%20Special%20Subjects/N3.jpg">
                                 </figure>
                             </div>
                         </div>
