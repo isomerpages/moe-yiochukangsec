@@ -29,7 +29,7 @@ variant: markdown
                 <h2>Key Programmes</h2>
                 <details name="keyprog">
                     <summary id="cpa">Computer Applications (CPA)</summary>
-                    <div class="content">
+                    <div class="content" id="stem">
                         <p>CPA is offered to all students in the Normal Technical course from Secondary one to four. It promotes <strong>digital literacy</strong> in students, developing them to be responsible, confident and creative users of technology who can participate and thrive in a digital world.</p>
                         <p>The subject engages students and prepares them for future studies through <strong>authentic tasks and hands-on activities</strong>. Students are equipped with a wide range of necessary ICT skills that prepare them to meet the demands of other subjects in secondary school and at post-secondary institutes.</p>
                         <p>Through CPA, students acquire 21st century competencies such as critical thinking, information processing and effective communication. Students also learn basic computational thinking skills such as algorithmic thinking and decomposition through creating animations and games.</p>
@@ -48,7 +48,7 @@ variant: markdown
                 <details name="keyprog">
                     <summary id="ebs">Elements of Business Skills (EBS)</summary>
                     <div class="content">
-                        <p>EBS is offered as an upper secondary <strong>elective subject</strong> in the Normal Technical course. The subject offers students an introduction to business through an understanding of business activities, focusing on basic marketing and customer relations. These are learnt in the context of businesses in the local travel and tourism, hospitality and retail industries, which offer employment opportunities accessible to the students. Through EBS, students are equipped with the foundation for further studies at institutes of higher learning. Students will also have the opportunity to go on work attachment, where it makes learning authentic and relevant and where they gain awareness of the prospects and challenges of a career in the services sector.</p>
+                        <p>EBS is offered as an upper secondary <strong>elective subject</strong> in the Normal Technical course. The subject offers students an introduction to business through an understanding of business activities, focusing on basic marketing and customer relations. These are learnt in the context of businesses in the local travel and tourism, hospitality and retail industries, which offer employment opportunities accessible to the students.</p> <p>Through EBS, students are equipped with the foundation for further studies at institutes of higher learning. Students will also have the opportunity to go on work attachment, where it makes learning authentic and relevant and where they gain awareness of the prospects and challenges of a career in the services sector.</p>
                     </div>
                 </details>
                 <details name="keyprog">
@@ -61,7 +61,7 @@ variant: markdown
                             <li>Experiencing the Present (Secondary 2)</li>
                             <li>Charting our Future (Secondary 3 and 4).</li>
                         </ol>
-                        <p>Syllabus objectives from curriculum subjects such as Social Studies, Elements of Business Skills and English Language are also incorporated in the learning journeys. Subject teachers design tasks for the learning journey venues so that students are able to make connections between their learning in school with real-world experiences. The learning journeys are also aligned to the CCE outcomes, especially in the area of Education and Career Guidance (ECG) for our Secondary three and four students. The students are given various tasks and questions to complete for every learning journey. Students develop critical thinking through reflective questions posed in the NTLJ tasks for each venue. These questions and tasks are framed using Elements of Thought (e.g. point of view, implications and consequences) and aim to grow students to become reflective thinkers and learners.</p>
+                        <p>Syllabus objectives from curriculum subjects such as <a class="text-link" href="/our-curriculum/Academic-Programmes/Humanities/">Social Studies</a>, Elements of Business Skills and <a class="text-link" href="/our-curriculum/academic-programmes/english/">English Language</a> are also incorporated in the learning journeys.</p> <p>Subject teachers design tasks for the learning journey venues so that students are able to make connections between their learning in school with real-world experiences. The learning journeys are also aligned to the CCE outcomes, especially in the area of <a class="text-link" href="/our-curriculum/Non-Academic-Programmes/Character-and-Citizenship-Education/">Education and Career Guidance (ECG)</a> for our Secondary three and four students.</p> <p>The students are given various tasks and questions to complete for every learning journey. Students develop critical thinking through reflective questions posed in the NTLJ tasks for each venue. These questions and tasks are framed using Elements of Thought (e.g. point of view, implications and consequences) and aim to grow students to become reflective thinkers and learners.</p>
                     </div>
                 </details>
             </section>
@@ -79,7 +79,7 @@ variant: markdown
             </section>
             <hr>
             <section id="gallery">
-                <div style="--width: 420px; --height: 480px;" class="carousel slider" id="pic_carousel">
+                <div style="--width: 420px; --height: 430px;" class="carousel slider" id="pic_carousel">
                     <div style="--quantity: 9; --duration: 60s;" class="list">
                         <div style="--position: 1" class="item">
                             <div class="carousel card">
@@ -104,7 +104,7 @@ variant: markdown
                         <div style="--position: 3" class="item">
                             <div class="carousel card">
                                 <figure>
-                                    <img style="object-fit: contain" alt="NT Special Subjects Photo Gallery" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/NT%20Special%20Subjects/N3.jpg">
+                                    <img alt="NT Special Subjects Photo Gallery" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/NT%20Special%20Subjects/N3.jpg">
                                 </figure>
                             </div>
                         </div>
@@ -2573,6 +2573,62 @@ h6,
     line-height: 1;
     text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.8);
     margin-bottom: 40px;
+}
+
+/* === Highlighted text in neon red, yellow and green in CSS only === */
+.yck-component .text {
+  width: fit-content;
+  padding: 3px 6px;
+  position: relative;
+  font-size: var(--yck-step-0);
+  user-select: none;
+  white-space: nowrap;
+}
+.yck-component .text:before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: 3px 5px 3px 5px;
+  background: conic-gradient(at 0 100%, rgb(var(--mark-color)/100%) 1%, #fff0 3%) no-repeat 0 0/auto 120%, conic-gradient(from 180deg at 100% 0, #fff0, rgb(var(--mark-color)/100%) 1%, #fff0 4%) no-repeat 100% 100%/auto 120%, linear-gradient(var(--mark-bg-angle), rgb(var(--mark-color)/60%), rgb(var(--mark-color)/20%) 75%, rgb(var(--mark-color)/55%)) no-repeat center/auto;
+}
+.yck-component .text.yellow-mark:before {
+  rotate: 1deg;
+  scale: 1.1;
+  transform: skew(-5deg);
+  --mark-color: 255 232 62;
+  --mark-bg-angle: 50deg;
+}
+.yck-component .text.green-mark:before {
+  scale: 0.92;
+  transform: skew(7deg);
+  --mark-color: 91 233 92;
+  --mark-bg-angle: 30deg;
+}
+.yck-component .text.red-mark:before {
+  rotate: 0.5deg;
+  transform: skew(5deg);
+  --mark-color: 255 100 185;
+  --mark-bg-angle: 150deg;
+}
+.yck-component .text.blue-mark:before {
+  rotate: -1deg; /* Variation: Tilts slightly opposite */
+  transform: skew(3deg); /* Variation: Slants gently */
+  --mark-color: 50 150 255; /* Variation: Sets blue color */
+  --mark-bg-angle: 110deg; /* Variation: Sets fade angle */
+}
+
+
+#set {
+    background: url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Icons/set.svg) no-repeat right center scroll;
+    background-size: contain;
+    backdrop-filter: blur(10px);
+}
+
+#stem {
+    background: url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Icons/stem.svg) no-repeat right center scroll;
+    background-size: contain;
+    backdrop-filter: blur(10px);
 }
 
 @supports (content-visibility: auto) {
