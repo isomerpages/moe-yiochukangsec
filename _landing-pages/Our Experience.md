@@ -8,6 +8,44 @@ image: /images/YCKLogo.svg
 <div class="yck-component">
     <div class="regular-flow">
         <article>
+            <section id="tabbed-example">
+                <div class="tabs three ui-standard-tabs">
+                    <input checked="" id="tab1-1" name="tab-group-1" type="radio">
+                    <label for="tab1-1">Our School</label>
+                    <input id="tab1-2" name="tab-group-1" type="radio">
+                    <label for="tab1-2">Our Community</label>
+                    <input id="tab1-3" name="tab-group-1" type="radio">
+                    <label for="tab1-3">Connecting Globally</label>
+                    <div class="row">
+                        <div class="content">
+                            <ol class="nolist-style">
+                                <li><a class="text-link" href="/our-experience/in-our-school/#natday2025">National Day Celebrations</a></li>
+                                <li><a href="/our-experience/in-our-school/#levelcamp">Level Camps</a></li>
+                                <li><a class="text-link" href="/our-experience/in-our-school/#healthfiesta">Health Fiesta</a></li>
+                                <li><a class="text-link" href="/our-experience/in-our-school/#earcandy"><em>Ear<sup>Candy</sup>! </em></a></li>
+                                <li><a class="text-link" href="/our-experience/in-our-school/#speechday">Speech and Prize Giving Day</a></li>
+                                <li><a class="text-link" href="/our-experience/in-our-school/#syf">Singapore Youth Festival (SYF)</a></li>
+                                <li><a class="text-link" href="/our-experience/in-our-school/#cantabile">Cantabile!</a></li>
+                                <li><a class="text-link" href="/our-experience/in-our-school/#sscwc">Singapore Schools Cyberwellness Challenge (SSCWC)</a></li>
+                            </ol>
+                        </div>
+                        <div class="content">
+                            <ul class="nolist-style">
+                                <li><a class="text-link" href="/our-experience/in-our-community/#natday2023">National Day Parade 2023 - Onward as One</a></li>
+                                <li><a class="text-link" href="/our-experience/in-our-community/#commevents">Community Events</a></li>
+                                <li><a class="text-link" href="/our-experience/in-our-community/#clusterevents">Cluster Events</a></li>
+                            </ul>
+                        </div>
+                        <div class="content">
+                            <ul class="nolist-style">
+                                <li>Jakarta, Indonesia - SMPK Penabur Gading Serpong</li>
+                                <li>Hong Kong - Kiangsu-Chekiang College (Kwai Chung)</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <hr>
             <section id="top">
                 <div class="info-container">
                     <div class="infocard">
@@ -2315,6 +2353,127 @@ h6,
     font-style: oblique;
     text-shadow: var(--yck-box-shadow);
     background-color: var(--yck-orange200);
+}
+
+.yck-component .tabs {
+    position: relative;
+    overflow: hidden;
+
+    &>.row {
+        width: calc(100% + 2 * 0.6em);
+        display: table;
+        table-layout: fixed;
+        margin-left: 0;
+        /* margin-bottom: 0.1em; */
+        position: relative;
+        padding-left: 0;
+        transition: all 0.5s;
+        border-spacing: 0;
+
+        /* margin: 0.6em 0; */
+        &:before,
+        &:after {
+            display: none;
+        }
+
+        &>*,
+        & img {
+            display: table-cell;
+            vertical-align: top;
+            margin: 0;
+            width: 100%;
+        }
+    }
+
+    &>input {
+        display: none;
+
+        &+* {
+            width: 100%;
+        }
+
+        &+label {
+            width: auto;
+        }
+    }
+
+    &.two {
+        .row {
+            width: 200%;
+            left: -100%;
+        }
+
+        input:nth-of-type(1):checked~.row {
+            margin-left: 100%;
+        }
+    }
+
+    &.three {
+        .row {
+            width: 300%;
+            left: -200%;
+        }
+
+        input:nth-of-type(1):checked~.row {
+            margin-left: 200%;
+        }
+
+        input:nth-of-type(2):checked~.row {
+            margin-left: 100%;
+        }
+    }
+
+    &.four {
+        .row {
+            width: 400%;
+            left: -300%;
+        }
+
+        input:nth-of-type(1):checked~.row {
+            margin-left: 300%;
+        }
+
+        input:nth-of-type(2):checked~.row {
+            margin-left: 200%;
+        }
+
+        input:nth-of-type(3):checked~.row {
+            margin-left: 100%;
+        }
+    }
+}
+
+/* 1. Standard Tabs (Easiest) */
+.yck-component .ui-standard-tabs>label {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #e4e4e7;
+    cursor: pointer;
+    border-radius: 6px 6px 0 0;
+    margin-right: 5px;
+    font-weight: bold;
+    transition: all 1s ease;
+}
+
+.yck-component .ui-standard-tabs>label:hover {
+	background: linear-gradient(to bottom right, rgba(44, 97, 57, .9), rgba(44, 97, 57, .15));
+	color: #e4e4e7;
+	transition: all 1s ease;
+}
+
+.yck-component .ui-standard-tabs>input:checked+label {
+    background: rgba(44, 97, 57, .9);
+    color: white;
+    transition: all 1s ease;
+}
+
+.yck-component .ui-standard-tabs>.row>div {
+    background: rgba(255,255,255,.5);
+    padding: calc(var(--yck-spacing-unit)*2);
+    border: 1px dotted rgba(200,200,200,.5);
+    border-radius: 0 6px 6px 6px;
+    backdrop-filter: blur(20px);
+    box-shadow: var(--inner-shadow-3);
 }
 
 .kenburns-right {
