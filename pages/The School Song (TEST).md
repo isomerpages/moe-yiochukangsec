@@ -9,24 +9,24 @@ image: /images/Icons/MusicalNote.svg
     <figure>
         <div class="masthead">
             <h2 class="yck-h2">YCKSS School Song</h2>
-            <p>Our School is Yio Chu Kang.<br>
+            <p id="stanza01">Our School is Yio Chu Kang.<br>
                 Together we learn and grow.<br>
                 Pursuit of knowledge, service to all,<br>
                 With gratitude and character, we show.<br>
                 Wholeheartedly, our Home.</p>
-            <p>Through our hopes and dreams,<br>
+            <p id="stanza02">Through our hopes and dreams,<br>
                 We see the best in all.<br>
                 With heart and soul, we lead<br>
                 And strive for excellence.<br>
                 Wholeheartedly, our School.<br>
                 Wholeheartedly, our Home.</p>
-            <figcaption>Musics &amp; Lyrics by: Mr Michael William Cartwright &amp; Ms Lio Dan Wei
+            <figcaption id="credits">Musics &amp; Lyrics by: Mr Michael William Cartwright &amp; Ms Lio Dan Wei
             </figcaption>
         </div>
     </figure>
 
 
-<h3>About the School Song</h3>
+<h3 id="abt_schoolsong">About the School Song</h3>
 
 
 <p>In 2018, Music teachers, Miss Dan Wei Lio and Mr Michael Cartwright began work on composing the music and writing the lyrics to a new song to represent the newly merged school. The song was officially launched during the 2019 Speech and Prize Giving Day.</p>
@@ -842,19 +842,19 @@ blockquote div {
 
 body {
   margin: 0;
-  padding: 0;
+  padding: 20px;
   min-height: 100vh;
   background: 
     radial-gradient(
       ellipse at center, 
-      rgba(255, 255, 255, 0) 0%, 
-      rgba(255, 255, 255, 0.8) 7%, 
-      rgba(250, 250, 250, 0.95) 100%
-    ), 
+      rgba(255, 248, 240, 0.2) 0%,
+      rgba(255, 255, 255, 0.6) 30%,
+      rgba(245, 245, 250, 0.9) 80%,
+      rgba(230, 240, 255, 0.95) 100%
+    ),
     url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Story/School%20Song/Sch_SongBG.png) 
-    no-repeat center center fixed;
-  background-size: cover;
-  font-family: 'Arial', sans-serif;
+    repeat center top fixed;
+  background-size: auto;
 }
 
 .masthead h2 {
