@@ -841,20 +841,8 @@ blockquote div {
 } */
 
 body {
-  margin: 0;
-  padding: 20px;
-  min-height: 100vh;
-  background: 
-    radial-gradient(
-      ellipse at center, 
-      rgba(255, 248, 240, 0.2) 0%,
-      rgba(255, 255, 255, 0.6) 30%,
-      rgba(245, 245, 250, 0.9) 80%,
-      rgba(230, 240, 255, 0.95) 100%
-    ),
-    url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Story/School%20Song/Sch_SongBG.png) 
-    repeat center top fixed;
-  background-size: auto;
+  background: radial-gradient(circle, rgba(20,20,30,0.6) 0%, rgba(10,10,15,0.95) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Story/School%20Song/Sch_SongBG.png) no-repeat center center fixed;
+ background-size: cover;o;
 }
 
 .masthead h2 {
