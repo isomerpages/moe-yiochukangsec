@@ -9,9 +9,11 @@ image: /images/YCKLogo.svg
     <div class="regular-flow">
         <article id="top">
 					<section>
+						<div class="kenburns-container">
                 <figure>
-                    <img alt="Student Leadership Image" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/Student%20Leadership/S1.jpg">
+                    <img class="kenburns-scale" alt="Student Leadership Image" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Non%20Academic%20Programmes/Student%20Leadership/S1.jpg">
                 </figure>
+						</div>
             </section>
             <section id="visionmission">
                 <div class="autofit-grid">
@@ -1487,7 +1489,7 @@ h6,
 }
 
 @supports (animation-timeline: view()) {
-    .yck-component :is(.yck__flexitem, .yck__card, .grid-item, .isomer-card) {
+    .yck-component :is(.yck__flexitem, .yck__card, .grid-item, .isomer-card, img, figure) {
         animation: fade-in-bloom ease-in-out both;
         animation-timeline: view();
         animation-range: entry 10% cover 40%;
