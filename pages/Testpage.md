@@ -8,6 +8,14 @@ variant: markdown
 	<div class="regular-flow">
 		<article>
 			<section>
+    <aside>
+        <img style="width: 50%" alt="" src="/images/Our%20Curriculum/f1boy.png">
+    </aside>
+    <div>
+        <img alt="" src="/images/Our%20Curriculum/f1girl.png">
+    </div>
+</section>
+			<section>
 <div style="--width: 480px;  --height: 360px;  --quantity: 17; --duration: 65s;" class="carousel glider">
     <div class="carousel list">
         <div style="--position: 1" class="carousel item">
