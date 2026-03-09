@@ -9,13 +9,9 @@ image: /images/YCKLogo.svg
     <div class="regular-flow">
         <article>
             <section id="top">
-                <figure>
-                    <div class="masthead" id="distinct-slii">
-                        <h2>Service Learning through Issue Investigation</h2>
-                    </div>
-                </figure>
-                <figure style="display: none">
-                    <img alt="Service Learning Investigation" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/S1.jpg"></figure>
+                <div class="masthead" id="distinct-slii">
+                    <h2>Service Learning through Issue Investigation</h2>
+                </div>
             </section>
             <section id="intro">
                 <p>The Service Learning through Issue Investigation programme develops an inclusive student who <strong>cares</strong> and <strong>takes action</strong> to make a difference to the community. Service Learning is a platform that allows the Social Studies Issue Investigation project to take on a real world application. Through this project, students gain an experience on how to make a difference to the community and to address the issue which they have identified.</p>
@@ -25,38 +21,114 @@ image: /images/YCKLogo.svg
                 <ul>
                     <li>To develop an inclusive student who <strong>cares</strong> and <strong>takes action</strong> to make a difference to the community.</li>
                     <li>To provide <strong>opportunities</strong> for students to address the societal issue which they have identified.</li>
-                    <li>To nurture students that demonstrate the <strong>school values</strong>, namely Gratitude, Respect, Optimism, Wholeheartedness, Teamwork and Honesty.</li>
+                    <li>To nurture students that demonstrate the <strong>school values</strong>, namely:</li>
                 </ul>
+                <div class="flex-wrap">
+                    <div class="infocard">
+                        <div class="content center-text">
+                            <p>
+                                <span class="dropcap-title">Gratitude</span>,
+                                <span class="dropcap-title">Respect</span>,
+                                <span class="dropcap-title">Optimism</span>, <wbr>
+                                <span class="dropcap-title">Wholeheartedness</span>, <br>
+                                <span class="dropcap-title">Teamwork</span> and <span class="dropcap-title">Honesty</span></p>
+                        </div>
+                    </div>
+                </div>
             </section>
             <section id="key-programmes">
                 <h2>Key Programmes</h2>
-                <p>This project involves all Secondary Three students across the three courses. Using the skills in data collection and interpretation that are integral in Social Studies Issue Investigation, teams select an issue that they would like to investigate and address. To allow students to have a voice and choice, they are given four comprehensive areas of societal issues to investigate on and impact. They are:</p>
-                <ol>
-                    <li>Environmental and Animal Welfare</li>
-                    <li>Cyber Wellness and Literacy</li>
-                    <li>Mental and Physical Wellness</li>
-                    <li>Social Inclusivity and Awareness</li>
-                </ol>
-                <p>They will then proceed to gather data and evaluate what are the crucial needs of the selected sector in community. Working with an external organisation, the teams embark on a project to address the need that was identified.</p>
-            </section>
-            <section id="kpic">
-                <div class="deadctr-container">
-                    <div class="card01">
-                        <div class="card01-content">
-                            <p class="card01-title">Key Personnel IC</p>
-                            <p class="card01-para">Ms Chen Huijun<br>(HOD Humanities)</p>
+                <div class="columns">
+                    <div class="info-container">
+                        <div class="yck__flexitem">
+                            <p>This project involves all Secondary Three students across the three courses. Using the skills in data collection and interpretation that are integral in Social Studies Issue Investigation, teams select an issue that they would like to investigate and address. To allow students to have a voice and choice, they are given four comprehensive areas of societal issues to investigate on and impact. They are:</p>
+                        </div>
+                        <div class="yck__flexitem">
+                            <div class="card__body">
+                                <ol>
+                                    <li>Environmental and Animal Welfare</li>
+                                    <li>Cyber Wellness and Literacy</li>
+                                    <li>Mental and Physical Wellness</li>
+                                    <li>Social Inclusivity and Awareness</li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <hr>
+                <div class="columns">
+                    <div class="flex-wrap">
+                        <div class="card yck__flexitem">
+                            <p>They will then proceed to gather data and evaluate what are the crucial needs of the selected sector in community. Working with an external organisation, the teams embark on a project to address the need that was identified.</p>
+                        </div>
+                        <div class="card yck__flexitem flex-grow">
+                            <div class="contact-card" id="keypersonnel">
+                                <div class="line1">
+                                    <span class="role">Key Personnel In-Charge</span>
+                                </div>
+                                <div class="line2">
+                                    <span class="name">Mdm Chen Huijun</span><br>
+                                    <span class="ext">(HOD Humanities)</span>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </section>
             <section id="gallery">
                 <h3>Photo Gallery</h3>
-                <img alt="Service Learning Photo 2" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/S2.png">
-                <img alt="Service Learning Photo 3" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/S3.png">
-                <img alt="Service Learning Photo 4" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/S4.png">
-                <img alt="Service Learning Photo 5" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/S5.png">
-                <img alt="Service Learning Photo 6" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/S6.png">
+                <div class="masonry">
+                    <figure>
+                        <img alt="Service Learning Photo 2" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/s2a.png">
+                        <figcaption>Dishing out food</figcaption>
+                    </figure>
+                    <figure>
+                        <img alt="Service Learning Photo 2" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/s2b.png">
+                        <figcaption>Earth Hour 3</figcaption>
+                    </figure>
+                    <figure>
+                        <img alt="Service Learning Photo 3" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/s3a.png">
+                        <figcaption>Communicating with the elderly</figcaption>
+                    </figure>
+                    <figure>
+                        <img alt="Service Learning Photo 3" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/s3b.png">
+                        <figcaption>3T1 all ready for the seniors from Thye Hwa Kuan</figcaption>
+                    </figure>
+                    <figure>
+                        <img alt="Service Learning Photo 4" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/s4a.png">
+                        <figcaption>Earth Hour 2</figcaption>
+                    </figure>
+                    <figure>
+                        <img alt="Service Learning Photo 4" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/s4b.png">
+                        <figcaption>3E3</figcaption>
+                    </figure>
+                    <figure>
+                        <img alt="Service Learning Photo 5" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/s5a.png">
+                        <figcaption>Photobooth for the elderly</figcaption>
+                    </figure>
+                    <figure>
+                        <img alt="Service Learning Photo 5" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/s5b.png">
+                        <figcaption>Earth Hour 1</figcaption>
+                    </figure>
+                    <figure>
+                        <img alt="Service Learning Photo 6" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/s6a.png">
+                        <figcaption>Simple English for Elderly 1</figcaption>
+                    </figure>
+                    <figure>
+                        <img alt="Service Learning Photo 6" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/s6b.png">
+                        <figcaption>Simple English for Elderly 2</figcaption>
+                    </figure>
+                    <figure>
+                        <img alt="Service Learning Photo 6" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/s6c.png">
+                        <figcaption>Thank you for coming</figcaption>
+                    </figure>
+                </div>
             </section>
+            <div class="deadctr-container" id="backtotop">
+                <a href="#top"><button class="buttontotop">
+                        <img alt="Back to Top" src="https://www.yiochukangsec.moe.edu.sg/images/Icons/svgiconwht.svg" class="svgIcon">
+                    </button></a>
+            </div>
         </article>
     </div>
 </div>
@@ -598,17 +670,17 @@ image: /images/YCKLogo.svg
 }
 
 /* ----------------------------------------------
- * Generated by Animista on 2025-12-22 9:21:49
- * Licensed under FreeBSD License.
- * See http://animista.net/license for more info. 
- * w: http://animista.net, t: @cssanimista
- * ---------------------------------------------- */
+	 * Generated by Animista on 2025-12-22 9:21:49
+	 * Licensed under FreeBSD License.
+	 * See http://animista.net/license for more info. 
+	 * w: http://animista.net, t: @cssanimista
+	 * ---------------------------------------------- */
 
 /**
- * -----------------------------------------------------------------
- * animation bg-pan-top bg-pan-bottom bg-pan-left bg-pan-right
- * -----------------------------------------------------------------
- */
+	 * -----------------------------------------------------------------
+	 * animation bg-pan-top bg-pan-bottom bg-pan-left bg-pan-right
+	 * -----------------------------------------------------------------
+	 */
 @keyframes bg-pan-top {
     0% {
         background-position: 50% 100%;
@@ -648,6 +720,78 @@ image: /images/YCKLogo.svg
         background-position: 100% 50%;
     }
 }
+
+/**
+	 * ----------------------------------------
+	 * animation fade-in-right
+	 * ----------------------------------------
+	 */
+
+
+@keyframes fade-in-right {
+    0% {
+        transform: translateX(50px);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+.fade-up-and-in {
+    opacity: 0;
+    animation:
+        var(--animation-fade-in) forwards,
+        var(--animation-slide-in-up) forwards;
+    animation-delay: 0.3s, 0s;
+    animation-duration: 0.7s, 1s;
+}
+
+.kenburns-right {
+    animation: kenburns-right 40s ease-in-out infinite alternate;
+}
+
+@keyframes kenburns-right {
+    0% {
+        -webkit-transform: scale(1) translate(0, 0);
+        transform: scale(1) translate(0, 0);
+        -webkit-transform-origin: 84% 50%;
+        transform-origin: 84% 50%;
+    }
+
+    100% {
+        -webkit-transform: scale(1.25) translateX(20px);
+        transform: scale(1.25) translateX(20px);
+        -webkit-transform-origin: right;
+        transform-origin: right;
+    }
+}
+
+.kenburns-container {
+    max-width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.kenburns-scale {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    animation: kenBurns 45s var(--ease-elastic-in-out-4) infinite alternate;
+}
+
+@keyframes kenBurns {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.35);
+    }
+}
+
 
 @media (--OSdark) {
     @keyframes fade-in-bloom {
@@ -730,6 +874,10 @@ image: /images/YCKLogo.svg
     box-sizing: border-box;
 }
 
+/* * { 
+	    outline: 1px dashed red; 
+	} */
+
 html {
     font-size: 100%;
 }
@@ -741,6 +889,7 @@ body {
     word-break: break-word;
     overflow-wrap: break-word;
     background-color: inherit;
+    scroll-behavior: smooth;
 }
 
 a {
@@ -757,12 +906,25 @@ a.button {
     background-color: transparent;
 }
 
+label {
+    cursor: pointer;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+    margin: 0 0.6em 0 0;
+}
+
+i[class^="icon-"]:before,
+i[class*=" icon-"]:before {
+    margin: 0;
+}
+
 /* Containers & Wrappers - div, article, main, section */
 .yck-component {
     padding: 0;
     margin: 0;
-    width: 100%;
-    max-width: 1023px;
+    max-width: 845px;
 }
 
 .yck-component * {
@@ -781,18 +943,38 @@ a.button {
     margin-block: var(--yck-space-s-xl);
 }
 
+hr,
+.yck-component hr,
+.yck-component .hr {
+    margin-top: 1em;
+}
+
 /* Centering GRID */
 .yck-component .deadctr-container {
     display: grid;
     margin: 0 auto;
     padding: 0;
     justify-items: center;
-    align-content: space-around;
+    /* align-content: space-around; */
     place-items: center;
 }
 
-.yck-component .regular-flow>*+* {
-    margin-top: 1.125em;
+/* Content container */
+.yck-component .content {
+    margin-inline: 1.5em;
+    padding-block: 1em;
+}
+
+/* QRCode Container */
+.yck-component .qr-container {
+    display: flex;
+    gap: var(--yck-space-s-xl);
+    height: 350px;
+
+    .qr-img {
+        max-width: 60%;
+        min-width: 100px;
+    }
 }
 
 /* ============ Base Typography ==================== */
@@ -802,6 +984,10 @@ a.button {
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
     text-wrap: pretty;
+}
+
+.yck-component .regular-flow>*+* {
+    margin-top: 1.125em;
 }
 
 /* ================= Headings ==================== */
@@ -920,6 +1106,53 @@ h6,
     background: rgba(255, 255, 0, 0.35);
 }
 
+/* BLOCKQUOTES */
+.yck-component .quote {
+    margin: 1em 1.4em 1em 5em;
+    padding: 2rem;
+    border-left: .35em solid rgba(166, 50, 50, 1);
+    border-radius: var(--yck-rounded-corners);
+    border-bottom: 2px dotted rgba(166, 50, 50, 0.7);
+    box-shadow: var(--inner-shadow-1);
+    transition: box-shadow .7s ease-in-out;
+
+    .blockquote {
+        font-family: var(--font-transitional);
+        font-size: var(--yck-step-0);
+        font-weight: 400;
+        line-height: 1.4em;
+        position: relative;
+    }
+
+    cite {
+        display: block;
+        text-align: right;
+        font-family: var(--font-transitional);
+        font-weight: 500;
+        font-style: oblique;
+        margin-top: 1rem;
+        margin-right: var(--yck-space-s-xl);
+        font-size: var(--yck-step--1);
+    }
+
+    .blockquote::before {
+        font-weight: 800;
+        font-style: oblique;
+        text-shadow: 2px 2px 3px rgba(206, 60, 60, .5), 3px 3px 4px rgba(0, 0, 0, 0.35);
+        content: "\201C";
+        color: rgba(166, 50, 50, 1);
+        font-size: calc(var(--yck-step-4) * 3);
+        position: absolute;
+        left: -0.9em;
+        top: 0.2em;
+    }
+
+    &:hover {
+        box-shadow: var(--inner-shadow-4);
+        transition: box-shadow .7s ease-in-out;
+    }
+}
+
 /* Abbreviations */
 .yck-component abbr[title] {
     font-family: var(--font-transitional);
@@ -933,7 +1166,7 @@ h6,
 
     &:hover,
     &:active,
-    &:focus {
+    &:focus-visible {
         transition: color 0.7s ease-in;
         color: var(--yck-green600);
     }
@@ -941,7 +1174,7 @@ h6,
 
 /* Dropcaps First Letter */
 .yck-component .dropcap-title {
-    margin-bottom: 0.5em;
+    margin-bottom: 0.7em;
     font-weight: 500;
     font-size: var(--yck-step-1);
     font-family: var(--font-antique), serif;
@@ -949,7 +1182,7 @@ h6,
 
     &::first-letter {
         float: left;
-        padding-right: 0.1em;
+        padding-right: 0.12em;
         font-family: var(--font-antique), serif;
         font-size: calc(var(--yck-step-5) * 1.65);
         font-style: oblique;
@@ -961,6 +1194,64 @@ h6,
             2px 2px 0 var(--yck-green500),
             3px 3px 4px rgba(0, 0, 0, 0.35);
     }
+}
+
+/* Tooltips - Basic one */
+.yck-component .tooltip {
+    position: relative;
+    display: inline-block;
+    font: inherit;
+    text-decoration: underline dotted;
+    text-underline-offset: 5px;
+}
+
+.yck-component .tooltip__content {
+    position: absolute;
+    bottom: 125%;
+    left: 50%;
+    line-height: var(--yck-heading-line-height);
+    font-size: var(--yck-step--1);
+    transform: translateX(-50%) translateY(-5px);
+    padding: 1em;
+    background: linear-gradient(205deg, var(--neutral-400, .2) -10%, rgba(255, 255, 255, .3) 65%, var(--neutral-400, .1) 100%);
+    background-color: rgba(255, 255, 255, .7);
+    color: var(--neutral-600);
+    border-radius: var(--yck-rounded-corners);
+    opacity: 0;
+    pointer-events: none;
+    margin-block: 5px;
+    min-width: 25ch;
+    backdrop-filter: blur(6px) saturate(150%);
+    box-shadow: var(--shadow-6);
+    text-shadow:
+        /*2px 2px 3px rgba(206, 60, 60, .5), */
+        3px 3px 4px rgba(0, 0, 0, 0.35);
+    transition: opacity 0.7s ease, transform 0.7s ease;
+    z-index: 1000;
+    border: 1px solid var(--neutral-300);
+}
+
+.yck-component .tooltip__content::after {
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 16px solid transparent;
+    border-top-color: rgba(255, 255, 255, .7);
+    filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.35)) drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));
+}
+
+.yck-component .tooltip:hover .tooltip__content,
+.yck-component .tooltip:focus-within .tooltip__content {
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateX(-50%) translateY(0);
+}
+
+.yck-component .tooltip a {
+    color: var(--neutral-000);
+    font: inherit;
 }
 
 /* HREF links & Text Links */
@@ -1021,6 +1312,222 @@ h6,
     display: none !important;
 }
 
+
+/* RWD TABLES - Responsive Table */
+/* Responsive Tables Style */
+.yck-component .rwd-table {
+    margin-top: 1.5em;
+    margin-bottom: var(--yck-space-s-xl);
+    min-width: 360px;
+}
+
+.yck-component .rwd-table tr {
+    border: 1px solid var(--neutral-600);
+    transition: background-color 0.7s ease-in-out;
+}
+
+/* INSERT NEW RULES HERE: Row striping & hover */
+.yck-component .rwd-table tbody tr:nth-child(odd) {
+    background-color: var(--neutral-100);
+    transition: background-color 0.7s ease-in-out;
+}
+
+.yck-component .rwd-table tbody tr:hover {
+    background-color: var(--yck-orange000);
+    transition: background-color 0.7s ease-in-out;
+}
+
+.yck-component .rwd-table th {
+    display: none;
+}
+
+.yck-component .rwd-table td {
+    display: block;
+    border-color: transparent;
+}
+
+.yck-component .rwd-table td::before {
+    content: attr(data-th) ": ";
+    font-size: var(--yck-step-0);
+    font-weight: bold;
+    display: inline-block;
+}
+
+@media (min-width: 480px) {
+    .yck-component .rwd-table td::before {
+        display: none;
+    }
+}
+
+.yck-component .rwd-table th,
+.yck-component .rwd-table td {
+    text-align: left;
+    margin: 0;
+    padding: 1em !important;
+}
+
+.yck-component .rwd-table th {
+    background-color: var(--neutral-800);
+    color: #fff;
+    font: inherit;
+}
+
+@media (min-width: 480px) {
+
+    .yck-component .rwd-table th,
+    .yck-component .rwd-table td {
+        display: table-cell;
+        border: 1px solid var(--neutral-600);
+    }
+
+    .yck-component .rwd-table th:first-child,
+    .yck-component .rwd-table td:first-child {
+        padding-left: 0;
+    }
+
+    .yck-component .rwd-table th:last-child,
+    .yck-component .rwd-table td:last-child {
+        padding-right: 0;
+    }
+
+    .yck-component .rwd-table {
+        background: transparent;
+        /* color: var(--neutral-800); */
+        border-radius: var(--yck-rounded-corners);
+        overflow: hidden;
+        width: 100%;
+    }
+
+    .yck-component .rwd-table th,
+    .yck-component .rwd-table td {
+        border-color: var(--neutral-200);
+    }
+
+    @media (min-width: 480px) {
+
+        .yck-component .rwd-table th,
+        .yck-component .rwd-table td {
+            padding: 1em !important;
+        }
+    }
+
+    .yck-component .rwd-table th,
+    .yck-component .rwd-table td::before {
+        /* color: var(--neutral-700); */
+        color: #fff;
+    }
+}
+
+/* --- YCK-Tables --- */
+.yck-component .yck-table,
+.yck-component table {
+    display: table;
+    border-collapse: collapse;
+    table-layout: auto;
+    max-width: 100%;
+    min-width: 480px;
+    margin-top: 1.5em;
+    margin-bottom: var(--yck-space-s-xl);
+    overflow: hidden;
+    border: 1px dotted lightgrey;
+    border-radius: var(--yck-rounded-corners);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.yck-component .yck-table .yck-th,
+.yck-component table th,
+.yck-component .yck-table .yck-td,
+.yck-component table td {
+    display: table-cell;
+    min-width: 150px;
+    padding: 1em;
+    vertical-align: top;
+}
+
+.yck-component .yck-table .yck-th,
+.yck-component .yck-table th {
+    background-color: #cfcfcf;
+    border-bottom: 1px dotted #ddd;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 1.3;
+    letter-spacing: 0.05em;
+    text-wrap: balance;
+}
+
+.yck-component .yck-td :is(p, li),
+.yck-component td :is(p, li) {
+    line-height: 1.4;
+    text-wrap: pretty;
+    word-wrap: break-word;
+}
+
+.yck-component .yck-td *,
+.yck-component .yck-td p,
+.yck-component .yck-td ul,
+.yck-component .yck-td ol {
+    margin-block: var(--yck-step--2);
+}
+
+.yck-component .yck-th:nth-child(1),
+.yck-component .yck-td:nth-child(1) {
+    font-weight: 700;
+}
+
+.yck-component .yck-td:nth-child(n + 2) {
+    text-align: left;
+}
+
+.yck-component .yck-td li {
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+    line-height: 1.4;
+}
+
+.yck-component .yck-td>*:last-child,
+.yck-component .yck-td>p:last-child,
+.yck-component .yck-td>ul:last-child,
+.yck-component .yck-td>ol:last-child {
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+}
+
+.yck-component .yck-td ul:last-child li:last-child,
+.yck-component .yck-td ol:last-child li:last-child {
+    margin-bottom: calc(var(--yck-spacing-unit) * 0.5);
+}
+
+.yck-component .yck-table tbody tr:last-child .yck-td>*:last-child {
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component .yck-table tr {
+    transition: background-color 0.8s ease;
+    background-color: inherit;
+}
+
+.yck-component .yck-table tr:hover,
+.yck-component .yck-table tr:nth-child(even):hover {
+    background-color: #fffbf2;
+    transition: background-color 0.8s ease;
+}
+
+.yck-component .yck-table tbody tr:nth-child(even) {
+    transition: background-color 0.8s ease;
+    background-color: #f3f3f3;
+}
+
+/* Responsive adjustments */
+@media (max-width: 620px) {
+
+    .yck-component .yck-th,
+    .yck-component th,
+    .yck-component .yck-td,
+    .yck-component td {
+        min-width: 7ch;
+        padding: calc(var(--yck-spacing-unit) * 0.25);
+        line-height: 1.3em;
+    }
+}
+
 /* ====== Figures (Images) & Figcaptions ============ */
 .yck-component figure,
 .yck-component .figure {
@@ -1042,115 +1549,895 @@ h6,
 
 .yck-component :is(figcaption, .caption) {
     display: block;
-    padding: 0.25em !important;
+    padding-bottom: 0.75em !important;
     margin: 0 auto !important;
     font-family: var(--font-old-style);
     font-size: var(--yck-step--1);
     font-style: oblique;
     font-weight: 300;
     text-align: center;
+    line-height: var(--yck-heading-line-height);
 }
 
-.yck-component .card01 {
-    width: fit-content;
-    background-color: var(--yck-orange100);
-    background: linear-gradient(0deg, var(--yck-orange400) 5%, var(--yck-orange900) 50%);
-    color: white;
-    border-radius: var(--yck-rounded-corners);
-    overflow: hidden;
-    position: relative;
-    perspective: 1000px;
-    transition: all 0.65s var(--ease-squish-1);
+
+/* === Contact Card - Staff === */
+.yck-component .contact-card * {
+    margin: 0;
+    padding: 0;
+}
+
+.yck-component .contact-card {
+    display: flex;
+    flex: 1 0;
+    background: #ffffff;
+    background: linear-gradient(to right, rgba(255, 180, 10, 0.8) 3%, rgba(255, 180, 10, 0.6) 23%, rgba(255, 200, 10, 0.4) 53%, rgba(255, 200, 10, 0.2) 70%, rgba(255, 255, 255, 0.8) 85%, rgba(255, 255, 255, 0.1));
+    border: 1px solid #e0e0e0;
+    border-radius: 25px 0;
+    padding: calc(var(--yck-step-5)*1.35);
+    transition: all 0.5s ease-in-out;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
     cursor: pointer;
-}
-
-.yck-component .card01-content {
     position: relative;
-    z-index: 1;
+    flex-direction: column;
+    justify-content: center;
+    filter: saturate(15%);
+    min-width: fit-content;
+    min-height: 120px;
 }
 
-.yck-component .card01:hover,
-.yck-component .card01:focus,
-.yck-component .card01:active {
-    outline: none;
-    transform: scale(1.04);
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.35);
+.yck-component .contact-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    border: 1px dotted #ffccaa;
+    background: #ffffff;
+    background: linear-gradient(to right, rgba(255, 180, 10, 0.8) 3%, rgba(255, 180, 10, 0.6) 23%, rgba(255, 200, 10, 0.4) 53%, rgba(255, 200, 10, 0.2) 70%, rgba(255, 255, 255, 0.8) 85%, rgba(255, 255, 255, 0.1));
+    filter: saturate(100%);
 }
 
-.yck-component .card01:before {
-    content: "";
+.yck-component .contact-card:focus-visible {
+    outline: 2px solid #007acc;
+    outline-offset: 2px;
+}
+
+.yck-component .line1,
+.yck-component .line2 {
     position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    background: linear-gradient(0deg, rgb(232, 89, 12, .05) 10%, rgba(0, 0, 0, 0.3) 100%);
-    opacity: 0;
-    transition: all 0.65s var(--ease-squish-1);
-    z-index: 1;
+    left: 1.25em;
+    right: 1.05em;
+    background: transparent;
+    transition: all 1s var(--ease-squish-3);
 }
 
-.yck-component .card01:hover:before,
-.yck-component .card01:focus:before,
-.yck-component .card01:active:before {
+.yck-component .line1 {
+    top: 50%;
+    transform: translateY(-50%);
     opacity: 1;
-    height: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.5rem;
 }
 
-.yck-component .card01 .card01-title {
-    font-size: var(--yck-step-2);
-    font-weight: 700;
-    margin-bottom: 1em;
+.yck-component .line2 {
+    top: 100%;
+    transform: translateY(-50%);
+    opacity: 0;
+    line-height: 1.25;
+}
+
+/* Hover animations */
+.yck-component .contact-card:hover .line1,
+.yck-component .contact-card:focus-visible .line1 {
+    top: -20%;
+    opacity: 0;
+}
+
+.yck-component .contact-card:hover .line2,
+.yck-component .contact-card:focus-visible .line2 {
+    top: 50%;
+    opacity: 1;
+}
+
+/* Line 1 styles */
+.yck-component .contact-card .role {
+    font-size: calc(var(--yck-step-2)*.9);
+    font-weight: 300;
+    color: #ffffff;
     text-transform: uppercase;
+    letter-spacing: 0.5px;
+    background: rgba(204, 143, 0, 0.8);
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    text-shadow: 2px 2px 3px rgba(206, 60, 60, .5), 3px 3px 4px rgba(0, 0, 0, 0.35);
+    transition: all 0.5s ease;
+}
+
+.yck-component .contact-card:hover .role {
+    background: transparent;
+}
+
+.yck-component .contact-card .dept {
+    font-size: var(--yck-step-3);
+    font-weight: 700;
+    color: #555;
+    text-transform: capitalize;
     text-shadow: 2px 2px 3px rgba(206, 60, 60, .5), 3px 3px 4px rgba(0, 0, 0, 0.35);
 }
 
-.yck-component .card01 .card01-para {
-    font-size: var(--yck-step-0);
+/* Line 2 styles */
+.yck-component .contact-card .name {
+    font-family: var(--font-transitional);
+    font-size: calc(var(--yck-step-3)*.95);
     font-weight: 700;
-    margin-bottom: .5em;
-    opacity: 0.85;
-    text-shadow: 1px 1px 2px rgba(206, 60, 60, .5), 2px 2px 3px rgba(0, 0, 0, 0.35);
+    color: var(--neutral-100);
+    line-height: .9;
+    display: inline-block;
+    text-shadow: 2px 2px 3px rgba(206, 60, 60, .5), 3px 3px 4px rgba(0, 0, 0, 0.35);
+    transition: all 0.5s ease;
 }
 
-.yck-component .card01-content {
+.yck-component .contact-card abbr {
+    font-family: var(--font-transitional);
+    font-weight: 700;
+    font-size: calc(var(--yck-step-3)*.95);
+    cursor: help;
+    transition: color 0.7s ease;
+    text-decoration: underline dotted;
+    color: currentColor;
+    text-decoration-thickness: 2px;
+    text-shadow: 2px 2px 3px rgba(206, 60, 60, .5), 3px 3px 4px rgba(0, 0, 0, 0.35);
+    text-underline-offset: 3px;
+}
+
+.yck-component .contact-card:hover .name,
+.yck-component .contact-card:focus-visible .name {
+    color: var(--yck-orange900);
+    transition: all 0.5s ease;
+    font-weight: 700;
+}
+
+.yck-component .contact-card .ext {
+    font-family: var(--font-transitional);
+    font-size: var(--yck-step-1);
+    font-weight: 300;
+    padding: 0.25rem 0.5rem;
+    color: #ffffff;
+    font-style: oblique;
+    text-transform: capitalize;
+    display: inline-block;
+    letter-spacing: 0.1px;
+    background: rgba(204, 143, 0, 0.7);
+    border-radius: 0 8px;
+    text-shadow: 2px 2px 3px rgba(206, 60, 60, .5), 3px 3px 4px rgba(0, 0, 0, 0.35);
+    transition: all 0.5s ease;
+}
+
+/* Accessibility improvements */
+@media (prefers-reduced-motion: reduce) {
+
+    .yck-component .line1,
+    .yck-component .line2 {
+        transition: all 0.5s ease;
+    }
+
+    .yck-component .contact-card:hover .line1,
+    .yck-component .contact-card:focus .line1 {
+        top: 50%;
+        transform: translateY(-50%);
+    }
+
+    .yck-component .contact-card:hover .line2,
+    .yck-component .contact-card:focus .line2 {
+        top: 50%;
+        transform: translateY(-50%);
+    }
+}
+
+/* Enhanced focus styles for keyboard navigation */
+.yck-component .contact-card:focus-visible {
+    outline: 3px solid #007acc;
+    outline-offset: 2px;
+}
+
+/* Optional: Add a subtle background animation */
+.yck-component .contact-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(135deg, rgba(73, 139, 90, 0.04) 0%, rgba(73, 139, 90, 0.09) 100%);
+    opacity: 0;
+    transition: all 0.5s ease-in-out;
+    z-index: 10;
+}
+
+.yck-component .contact-card:hover::before,
+.yck-component .contact-card:focus::before {
+    opacity: 1;
+}
+
+/* === BASE CARD FOUNDATION === */
+.yck-component .info-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1em;
+    margin: 0 auto;
+}
+
+.yck-component .info-container * {
+    margin: 0;
+    padding: 0;
+}
+
+.yck-component .infocard {
+    flex: 1 0;
+    min-width: 280px;
+    background: linear-gradient(205deg, var(--neutral-100, .2) -10%, rgba(255, 255, 255, .3) 65%, var(--neutral-100, .1) 100%);
+    border-radius: var(--yck-rounded-corners);
+    padding: 1.15em;
+    box-shadow: var(--shadow-1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    display: flex;
+    flex-direction: column;
+    border: 1px dashed #999;
+}
+
+.yck-component .infocard:hover,
+.yck-component .infocard:focus-visible,
+.yck-component .infocard:active {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-4);
+}
+
+@media (max-width: 576px) {
+    .yck-component .infocard {
+        flex: 1 0 calc(33.333% - 0.75em);
+        min-width: 320px;
+    }
+}
+
+@media (max-width: 420px) {
+    .yck-component .infocard {
+        flex: 1 0 calc(50% - .5em);
+        min-width: 100%;
+    }
+}
+
+.yck-component .cards {
+    display: flex;
+    flex-direction: column;
+    background: transparent;
+    overflow: hidden;
+    min-width: 280px;
+    border-radius: var(--yck-rounded-corners);
+    backdrop-filter: blur(50px) brightness(1.7) saturate(1.4);
+}
+
+.yck-component .card__header {
+    font-size: var(--yck-step-1);
+    font-weight: 900;
+    text-transform: uppercase;
+    padding-block: 0.5em !important;
+    padding-inline: 0.75em !important;
+    color: var(--neutral-900);
+}
+
+.yck-component .card__body {
     padding-inline: 1em !important;
-    transform: translateY(70%);
-    transition: all 0.65s var(--ease-squish-1);
+    color: #333;
+    flex: 1;
 }
 
-.yck-component .card01:hover .card01-content,
-.yck-component .card01:focus .card01-content,
-.yck-component .card01:active .card01-content {
-    transform: translateY(0%);
+.yck-component .card__footer {
+    padding-bottom: 0.75em !important;
+    font-size: var(--yck-step--1);
+    font-style: oblique;
+    font-weight: 300;
+    text-align: center;
+    color: var(--neutral-700);
+}
+
+/* === UTILITY CLASSES FOR LAYOUT === */
+.yck-component .flex-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--yck-spacing-unit);
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-block: 1em !important;
+}
+
+.yck-component .flex-grow {
+    flex: 1 0 calc(33% - var(--yck-spacing-unit));
+}
+
+.yck-component .flex-grow__tight {
+    flex: 1 0 calc(22% - var(--yck-spacing-unit));
+}
+
+.yck-component .flex-grow__loose {
+    flex: 1 0 calc(66% - var(--yck-spacing-unit));
+}
+
+.yck-component .center-text {
+    text-align: center;
+}
+
+.yck-component .align-start {
+    align-items: flex-start;
+}
+
+.yck-component .align-center {
+    align-items: center;
+}
+
+.yck-component .justify-start {
+    justify-content: flex-start;
+}
+
+.yck-component .justify-center {
+    justify-content: center;
+}
+
+
+/* === CARD MODIFIERS (Replace Original Classes) === */
+.yck-component .cards.yck__card {
+    flex: 1 0 calc(22% - var(--yck-spacing-unit));
+    border: 1px solid var(--yck-orange300);
+    background: linear-gradient(145deg, rgba(255, 255, 255, 0) 0%, rgba(255, 233, 193, 0.8) 100%);
+}
+
+.yck-component .cards.yck__flexitem {
+    font-size: var(--yck-step--2);
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
+    flex: 1 0 calc(33% - var(--yck-spacing-unit));
+    justify-content: flex-start;
+    align-content: flex-start;
+    transition: all 1s var(--ease-elastic-in-out-4);
+}
+
+
+/* 2. Auto-Fit Responsive Grid */
+.yck-component .autofit-grid {
+    display: grid;
+    gap: var(--yck-spacing-unit);
+    margin-inline: auto;
+    margin-top: 1.5em;
+    margin-bottom: var(--yck-space-s-xl);
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
+
+.yck-component .grid-item {
+    display: flex;
+    /* flex-direction: row; */
+    gap: 0.5em;
+    padding: var(--yck-spacing-unit);
+    font-size: var(--yck-step-0);
+    font-weight: 400;
+    box-shadow: var(--shadow-1);
+    transition:
+        transform 0.5s,
+        box-shadow 0.8s var(--ease-elastic-in-out-4);
+    text-align: left;
+    color: var(--neutral-700);
+    border-radius: var(--yck-rounded-corners);
+    outline: 1px solid #ccc;
+    background: linear-gradient(135deg,
+        rgba(255, 255, 255, .95) 0%,
+        rgba(255, 255, 255, 0) 100%);
+    align-items: flex-start;
+    justify-content: left;
+}
+
+.yck-component .flexrow {
+    flex-direction: row;
+}
+
+.yck-component .flexcol {
+    flex-direction: column;
+}
+
+.yck-component .grid-item:hover {
+    transform: scale(1.025);
+    box-shadow: var(--shadow-6);
+}
+
+/* --- Isomer Cards --- */
+.yck-component .isomer-card-grid {
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 1em;
+    border-radius: var(--yck-rounded-corners);
+}
+
+.yck-component .isomer-card {
+    padding: 0;
+    margin: 0 auto;
+    overflow: hidden;
+    box-shadow: var(--shadow-1);
+    transition:
+        transform 0.8s var(--yck-transition-timing),
+        box-shadow 0.8s var(--yck-transition-timing);
+    text-decoration: none;
+    border: 1px solid rgba(224, 224, 224, 0.15);
+    border-radius: var(--yck-rounded-corners);
+}
+
+.yck-component .isomer-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-3);
+}
+
+.yck-component .isomer-card:hover .isomer-card-body .isomer-card-link {
+    color: var(--yck-orange700);
+}
+
+.yck-component .isomer-card:has(img) {
+    transition: filter 0.8s var(--yck-transition-timing);
+    filter: brightness(100%);
+}
+
+.yck-component .isomer-card:has(img):hover,
+.yck-component .isomer-card:has(img):active,
+.yck-component .isomer-card:has(img):focus {
+    filter: brightness(110%) saturate(110%);
+}
+
+.yck-component .isomer-card .isomer-card-image {
+    width: 100%;
+    object-fit: cover;
+}
+
+.yck-component .isomer-card .isomer-card-body {
+    padding: var(--yck-spacing-unit);
+}
+
+.yck-component .isomer-card .isomer-card-body .isomer-card-title {
+    font-size: var(--yck-step-1);
+    font-weight: 700;
+    text-wrap: balance;
+    color: var(--neutral-900);
+    overflow-wrap: break-word;
+}
+
+.yck-component .isomer-card .isomer-card-body .isomer-card-description {
+    font-size: var(--yck-step-0);
+}
+
+.yck-component .isomer-card .isomer-card-body .isomer-card-link {
+    display: inline-block;
+    font-size: var(--yck-step-0);
+    text-decoration: none;
+    color: var(--yck-orange600);
+}
+
+.yck-component .isomer-card .isomer-card-body .isomer-card-title:has(+ .isomer-card-description) {
+    margin-bottom: 0.75rem;
+}
+
+
+/* Layouts - Columns */
+.yck-component :is(.columns2, .columns3, .columns) {
+    column-width: 30ch;
+    column-gap: 1.5em;
+    margin-top: 1em;
+    margin-bottom: var(--yck-space-s-xl);
+    column-rule: 1px dotted lightgrey;
+    column-fill: balance;
+    break-inside: avoid;
+    page-break-inside: avoid;
+}
+
+.yck-component .masonry {
+    column-width: 240px;
+    column-gap: .85em;
+    margin-bottom: var(--yck-space-s-xl);
+
+    img {
+        margin-bottom: .5em;
+    }
+}
+
+/* --- Details Summary --- */
+.yck-component details {
+    overflow: hidden;
+    transition:
+        background-color 0.7s ease-in-out,
+        box-shadow 0.7s ease-in-out;
+    border-radius: var(--yck-rounded-corners);
+    background-color: #fff;
+    margin-bottom: 1em;
+}
+
+.yck-component details .content {
+    margin-inline: 1.5em;
+    padding-block: 1em;
+}
+
+.yck-component details::details-content {
+    opacity: 0;
+    transition:
+        opacity 600ms,
+        content-visibility 600ms allow-discrete;
+}
+
+.yck-component details[open]::details-content {
+    opacity: 1;
+}
+
+.yck-component details[open] {
+    background-color: rgb(250, 250, 250, 0.3);
+    box-shadow: var(--inner-shadow-4);
+}
+
+.yck-component details summary {
+    position: relative;
+    padding: 0.75em;
+    font-size: var(--yck-step-1);
+    font-weight: 800;
+    list-style-position: outside;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    outline: none;
+    transition:
+        background-color 0.7s ease-in-out,
+        box-shadow 0.7s ease-in-out;
+    box-shadow: var(--inner-shadow-4);
+}
+
+.yck-component details summary:hover,
+.yck-component details summary:active {
+    background-color: rgba(255, 233, 193, 0.4);
+    box-shadow: var(--inner-shadow-1);
+}
+
+.yck-component details[open]:hover {
+    background-color: rgba(255, 233, 193, 0.3);
+    box-shadow: var(--inner-shadow-1);
+}
+
+.yck-component details summary::marker {
+    content: "";
+}
+
+.yck-component details summary::after {
+    position: absolute;
+    top: 50%;
+    right: 1rem;
+    font-size: var(--yck-step-2);
+    line-height: 1;
+    content: "+";
+    transition: transform 0.7s ease-in-out;
+    transform: translateY(-50%) rotate(0deg);
+}
+
+.yck-component details[open]>summary::after {
+    transform: translateY(-50%) rotate(135deg);
+}
+
+.yck-component details[open]>*:not(summary) {
+    animation: fade-in-bloom 0.8s ease-in-out;
+    animation-fill-mode: both;
+}
+
+/* --- LAyouts - Video Containers --- */
+.yck-component .video-container {
+    position: relative;
+    width: 100%;
+    margin-bottom: var(--yck-space-s-xl);
+    overflow: hidden;
+}
+
+.yck-component .video-container iframe,
+.yck-component .video-container object,
+.yck-component .video-container embed {
+    aspect-ratio: var(--ratio-widescreen);
+    width: 100%;
+    height: 100%;
+}
+
+/* Buttons */
+/* From Uiverse.io by vinodjangid07 */
+.yck-component .buttontotop {
+    position: relative;
+    display: flex;
+    width: var(--yck-step-3);
+    height: var(--yck-step-3);
+    overflow: hidden;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all .5s var(--ease-elastic-in-out-4);
+    border: none;
+    border-radius: 50%;
+    background-color: var(--yck-orange500);
+    box-shadow: 0 0 0 4px var(--yck-orange200);
+    align-items: center;
+    justify-content: center;
+}
+
+.yck-component .svgIcon {
+    width: var(--yck-step--1);
+    transition: .5s var(--ease-elastic-in-out-4);
+}
+
+.yck-component .svgIcon path {
+    fill: white;
+}
+
+.yck-component .buttontotop:hover,
+.yck-component .buttontotop:active,
+.yck-component .buttontotop:focus-visible {
+    width: 13ch;
+    transition: .5s var(--ease-elastic-in-out-4);
+    border-radius: 60px;
+    background-color: var(--yck-orange600);
+    align-items: center;
+}
+
+.yck-component .buttontotop:hover .svgIcon,
+.yck-component .buttontotop:active .svgIcon,
+.yck-component .buttontotop:focus-visible .svgIcon {
+    width: var(--yck-step--1);
+    transition: .5s var(--ease-elastic-in-out-4);
+    transform: translateY(-200%);
+}
+
+.yck-component .buttontotop::before {
+    position: absolute;
+    /*    bottom: -30px; */
+    font-size: 0;
+    content: "Back to Top";
+    transition: .5s var(--ease-elastic-in-out-4);
+    color: white;
+}
+
+.yck-component .buttontotop:hover::before,
+.yck-component .buttontotop:active::before,
+.yck-component .buttontotop:focus-visible::before {
+    bottom: unset;
+    font-size: var(--yck-step--1);
+    /* transform: translateY(30px); */
+    transition: .5s var(--ease-elastic-in-out-4);
+    opacity: 1;
+}
+
+/*** Animation classes from hover.css ***/
+/* Forward */
+.yck-component .hvr-forward {
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    display: inline-block;
+    vertical-align: baseline;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+
+.yck-component .hvr-forward:hover,
+.yck-component .hvr-forward:focus,
+.yck-component .hvr-forward:active {
+    -webkit-transform: translateX(8px);
+    transform: translateX(8px);
+}
+
+/* Backward */
+.yck-component .hvr-backward {
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    display: inline-block;
+    vertical-align: baseline;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+
+.yck-component .hvr-backward:hover,
+.yck-component .hvr-backward:focus,
+.yck-component .hvr-backward:active {
+    -webkit-transform: translateX(-8px);
+    transform: translateX(-8px);
+}
+
+/* Pulse */
+@-webkit-keyframes hvr-pulse {
+    25% {
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+    }
+
+    75% {
+        -webkit-transform: scale(0.9);
+        transform: scale(0.9);
+    }
+}
+
+@keyframes hvr-pulse {
+    25% {
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+    }
+
+    75% {
+        -webkit-transform: scale(0.9);
+        transform: scale(0.9);
+    }
+}
+
+.yck-component .hvr-pulse {
+    display: inline-block;
+    vertical-align: baseline;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+
+.yck-component .hvr-pulse:hover,
+.yck-component .hvr-pulse:focus,
+.yck-component .hvr-pulse:active {
+    -webkit-animation-name: hvr-pulse;
+    animation-name: hvr-pulse;
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-timing-function: linear;
+    animation-timing-function: linear;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+}
+
+
+/*** Misc items of interest ... ***/
+/* Utilities */
+.yck-component .nolist-style {
+    list-style: none;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.yck-component .isoblique {
+    font-style: oblique;
+}
+
+.yck-component .isstrong {
+    font-weight: 900;
+}
+
+.yck-component :is(.visually-hidden, .sr-only) {
+    inline-size: 0;
+    block-size: 0;
+    overflow: hidden;
+}
+
+.yck-component .truncate {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.yck-component .ultrawide {
+    aspect-ratio: var(--ratio-ultrawide);
+}
+
+.yck-component .widescreen {
+    aspect-ratio: var(--ratio-widescreen);
+}
+
+.yck-component .landscape {
+    aspect-ratio: var(--ratio-landscape);
+}
+
+.yck-component .portrait {
+    aspect-ratio: var(--ratio-portrait);
+}
+
+.yck-component .square {
+    aspect-ratio: var(--ratio-square);
+}
+
+.yck-component .warning {
+    font-size: var(--yck-step-1);
+    color: red;
+    font-weight: 700;
+    text-shadow: 2px 2px 3px rgba(206, 60, 60, .5), 3px 3px 4px rgba(0, 0, 0, 0.35);
+}
+
+.yck-component .notice {
+    color: var(--yck-orange700);
+    font-weight: 400;
+    font-style: oblique;
+    text-shadow: var(--yck-box-shadow);
+}
+
+.kenburns-right {
+    animation: kenburns-right 40s ease-in-out infinite alternate;
+}
+
+@keyframes kenburns-right {
+    0% {
+        -webkit-transform: scale(1) translate(0, 0);
+        transform: scale(1) translate(0, 0);
+        -webkit-transform-origin: 84% 50%;
+        transform-origin: 84% 50%;
+    }
+
+    100% {
+        -webkit-transform: scale(1.25) translateX(20px);
+        transform: scale(1.25) translateX(20px);
+        -webkit-transform-origin: right;
+        transform-origin: right;
+    }
+}
+
+.kenburns-container {
+    max-width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.kenburns-scale {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    animation: kenBurns 45s var(--ease-elastic-in-out-4) infinite alternate;
+}
+
+@keyframes kenBurns {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.35);
+    }
 }
 
 .yck-component .masthead {
-    display: flex;
-    justify-content: center;
-    align-items: flex-end;
-    flex-direction: row;
-    text-align: center;
-    width: 100%;
-    height: 60vh;
-    /* if you don't want it to take up the full screen, reduce this number */
-    overflow: hidden;
-    background-size: cover !important;
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+	flex-direction: row;
+	text-align: center;
+	width: 100%;
+	height: 60vh;
+	overflow: hidden;
+	background-size: cover !important;
 }
 
 #distinct-slii {
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 61%, rgba(0, 0, 0, 0.65) 100%), url(https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/S1.jpg) no-repeat center center scroll;
+background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 61%, rgba(0, 0, 0, 0.65) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/S1.jpg) no-repeat center center scroll;
+	border-radius: var(--yck-rounded-corners);
+	overflow: hidden;
 }
 
 .yck-component .masthead h2 {
-    font-style: normal;
-    font-weight: bold;
-    color: #eee !important;
-    font-size: var(--yck-step-5);
-    letter-spacing: 0.03em;
-    line-height: 1;
-    text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.8);
-    margin-bottom: 40px;
-    width: 26ch;
-    text-decoration: none !important;
+	font-style: normal;
+	font-weight: bold;
+	color: #eee !important;
+	font-size: 5.7vmin;
+	letter-spacing: 0.03em;
+	line-height: 1;
+	text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.8);
+	margin-bottom: 40px;
+}
+
+@supports (content-visibility: auto) {
+    details {
+        content-visibility: auto;
+    }
+}
+
+@supports (animation-timeline: view()) {
+    .yck-component :is(.yck__flexitem, .yck__card, .grid-item, .isomer-card) {
+        animation: fade-in-right ease-in-out both;
+        animation-timeline: view();
+        animation-range: entry 10% cover 40%;
+    }
 }
 </style>
