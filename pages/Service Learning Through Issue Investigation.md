@@ -9,9 +9,11 @@ image: /images/YCKLogo.svg
     <div class="regular-flow">
         <article>
             <section id="top">
+							<figure>
                 <div class="masthead" id="distinct-slii">
                     <h2>Service Learning through Issue Investigation</h2>
                 </div>
+							</figure>
             </section>
             <section id="intro">
                 <p>The Service Learning through Issue Investigation programme develops an inclusive student who <strong>cares</strong> and <strong>takes action</strong> to make a difference to the community. Service Learning is a platform that allows the Social Studies Issue Investigation project to take on a real world application. Through this project, students gain an experience on how to make a difference to the community and to address the issue which they have identified.</p>
