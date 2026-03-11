@@ -39,7 +39,7 @@ image: /images/Icons/MusicalNote.svg
                                 <span class="yck-h5">Aspect of Full SBB</span>
                             </th>
                             <th class="yck-th">
-                                <h4 class="yck-h5">How will this aspect be implemented?</h4>
+                                <span class="yck-h5">How will this aspect be implemented?</span>
                             </th>
                         </tr>
                     </thead>
