@@ -36,22 +36,24 @@ image: /images/Icons/MusicalNote.svg
                     <thead>
                         <tr>
                             <th class="yck-th">
-                                <span class="yck-h5">Aspect of Full SBB</span>
+                                <span class="yck-h5 content">Aspect of Full SBB</span>
                             </th>
                             <th class="yck-th">
-                                <span class="yck-h5">How will this aspect be implemented?</span>
+                                <span class="yck-h5 content">How will this aspect be implemented?</span>
                             </th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
                             <td class="yck-td">
-                                <p>Offering of Humanities subjects at a more demanding level from Secondary 2</p>
+															<div class="content">
+                                <p>Offering of Humanities subjects at a more demanding level from Secondary 2</p></div>
                             </td>
                             <td class="yck-td">
+															<div class="content">
                                 <p>Currently, secondary school students can offer <strong>English Language, Mother Tongue Languages, Mathematics and Science</strong> at a more demanding level from the start of Secondary One based on students’ PSLE Achievement Level (AL) for each subject. Beyond the start of Secondary 1, students may also offer these subjects at a more demanding level based on their performance in secondary school.</p>
                                 <p><strong>Our school will also provide Secondary 2 students the opportunity to take Geography at a more demanding level, if they meet subject-specific criteria.</strong> This is applicable to students who are in the Secondary 2 Normal (Academic) course from 2023, and students who are in the Secondary 2 Normal (Technical) course from 2024.</p>
-                                <p>The criteria for taking Geography at a more demanding level will be based on students’ aptitude for and interest in these subjects at Secondary 1. They should also possess a positive attitude towards learning and strong commitment to offer the subject at a more demanding level.</p>
+                                <p>The criteria for taking Geography at a more demanding level will be based on students’ aptitude for and interest in these subjects at Secondary 1. They should also possess a positive attitude towards learning and strong commitment to offer the subject at a more demanding level.</p></div>
                             </td>
                         </tr>
                     </tbody>
