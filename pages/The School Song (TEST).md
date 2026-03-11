@@ -9,7 +9,6 @@ image: /images/Icons/MusicalNote.svg
     <div class="regular-flow">
         <article>
             <section id="custom-fsbb">
-                
                 <div class="section-header">
                     <h2>Full Subject-Based Banding (FSBB)</h2>
                     <div class="intro-box">
@@ -32,6 +31,31 @@ image: /images/Icons/MusicalNote.svg
                 </div>
             </section>
             <section>
+                <h2>Full SBB in Yio Chu Kang Secondary School in 2023</h2>
+                <table class="yck-table">
+                    <thead>
+                        <tr>
+                            <th class="yck-th">
+                                <span class="yck-h5">Aspect of Full SBB</span>
+                            </th>
+                            <th class="yck-th">
+                                <h4 class="yck-h5">How will this aspect be implemented?</h4>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="yck-td">
+                                <p>Offering of Humanities subjects at a more demanding level from Secondary 2</p>
+                            </td>
+                            <td class="yck-td">
+                                <p>Currently, secondary school students can offer <strong>English Language, Mother Tongue Languages, Mathematics and Science</strong> at a more demanding level from the start of Secondary One based on students’ PSLE Achievement Level (AL) for each subject. Beyond the start of Secondary 1, students may also offer these subjects at a more demanding level based on their performance in secondary school.</p>
+                                <p><strong>Our school will also provide Secondary 2 students the opportunity to take Geography at a more demanding level, if they meet subject-specific criteria.</strong> This is applicable to students who are in the Secondary 2 Normal (Academic) course from 2023, and students who are in the Secondary 2 Normal (Technical) course from 2024.</p>
+                                <p>The criteria for taking Geography at a more demanding level will be based on students’ aptitude for and interest in these subjects at Secondary 1. They should also possess a positive attitude towards learning and strong commitment to offer the subject at a more demanding level.</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
                 <table class="rwd-table">
                     <thead>
                         <tr>
@@ -86,11 +110,14 @@ image: /images/Icons/MusicalNote.svg
                 </div>
             </section>
             <div class="deadctr-container">
-                <a href="#top"><button class="buttontotop">
+                <a href="#top">
+                    <button class="buttontotop">
                         <img alt="Back to Top" src="https://www.yiochukangsec.moe.edu.sg/images/Icons/svgiconwht.svg" class="svgIcon">
-                    </button></a>
+                    </button>
+                </a>
             </div>
-    </article></div>
+        </article>
+    </div>
 </div>
 
 <style>
