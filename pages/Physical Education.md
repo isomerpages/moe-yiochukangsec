@@ -38,28 +38,28 @@ image: /images/YCKLogo.svg
         <section id="learning-tri">
             <h3>The Powerful Learning Triangle</h3>
             <div class="autofit-grid" id="learn-tri">
-                <div class="grid-item">
+                <div style="border: none; box-shadow: 0 0 0 0" class="grid-item">
                     <figure>
                         <img alt="Powerful Learning Triangle" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/learning_tri.png">
                     </figure>
                 </div>
-                <div class="grid-item">
+                <div style="border: none; box-shadow: 0 0 0 0" class="grid-item">
                     <div class="info-container">
-                        <div class="infocard">
+                        <div style="border: none; box-shadow: 0 0 0 0" class="infocard">
                             <h4>Excellence</h4>
                             <p>
                                 We want our students to aim for excellence in the things they engage
                                 in.
                             </p>
                         </div>
-                        <div class="infocard">
+                        <div style="border: none; box-shadow: 0 0 0 0" class="infocard">&gt;
                             <h4>Experience</h4>
                             <p>
                                 We want our students to experience over a period of time to gain the
                                 relevant knowledge and skills.
                             </p>
                         </div>
-                        <div class="infocard">
+                        <div style="border: none; box-shadow: 0 0 0 0" class="infocard">
                             <h4>Exposure</h4>
                             <p>
                                 We want our students to seize every opportunity to try out and take
