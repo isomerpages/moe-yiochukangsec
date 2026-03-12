@@ -7,13 +7,19 @@ variant: markdown
 <div class="yck-component">
 	<div class="regular-flow">
 		<article>
-			<section>
-    <aside>
-        <img style="width: 50%" alt="" src="/images/Our%20Curriculum/f1boy.png">
-    </aside>
-    <div>
-        <img alt="" src="/images/Our%20Curriculum/f1girl.png">
-    </div>
+		<section id="Our-CCAs-Youtube">
+                                        <h2>Health Fiesta Week<br>And Sports Carnival</h2>
+                                        <p class="subline">Annual School Event — 10 May 2024</p>
+                                        <div class="video-wrapper">
+                                            <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/_xV05iVB5Yk?si=MXlvrxK9nGJxXJgC" height="315" width="560"></iframe>
+                                            <div class="video-overlay">
+                                                <span class="tag">About this event</span>
+                                                <p>
+                                                    Health Fiesta, which culminates in Sports Carnival Day, is a week-long event much anticipated by students. It enhances engagement in physical robustness and healthy lifestyle through a variety of fun and simple activities. There is no better medium than Sports to enhance social cohesion and interaction for students from all levels.
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <p class="caption">Watch on YouTube →</p>
 </section>
 			<section>
 <div style="--width: 480px;  --height: 360px;  --quantity: 17; --duration: 65s;" class="carousel glider">
@@ -951,5 +957,96 @@ h6,
 .card01:hover .card01-content {
   transform: translateY(0%);
 }
+    .yck-component {
+        width: 100%;
+        max-width: 1000px;
+    }
 
+    .yck-component .heading {
+        font-family: 'Bebas Neue', sans-serif;
+        font-size: var(--yck-step-4);
+        letter-spacing: 0.04em;
+        color: #1a1a1a;
+        line-height: 1;
+        margin-bottom: 6px;
+        text-transform: uppercase;
+    }
+
+    .yck-component .subline {
+        font-size: 0.8rem;
+        font-weight: 300;
+        letter-spacing: 0.2em;
+        text-transform: uppercase;
+        color: #6a7c5b;
+        margin-bottom: 28px;
+    }
+
+    .yck-component .video-wrapper {
+        position: relative;
+        width: 100%;
+        padding-bottom: 56.25%;
+        /* 16:9 */
+        background: #111;
+        overflow: hidden;
+        border-radius: 4px;
+        box-shadow: 0 12px 48px rgba(0, 0, 0, 0.22);
+    }
+
+    .yck-component .video-wrapper iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: none;
+        display: block;
+    }
+
+    .yck-component .video-overlay {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        padding: 0px 0px 28px 32px;
+        background: linear-gradient(to top,
+            rgba(0, 0, 0, 1) 0%,
+	           rgba(0, 0, 0, 9) 30%,
+            rgba(0, 0, 0, 0.6) 65%,
+            rgba(0, 0, 0, 0.05) 100%);
+        opacity: 0;
+        transition: all 0.35s ease;
+        pointer-events: none;
+        /* backdrop-filter: blur(2px) saturate(55%); */
+    }
+
+    .yck-component .video-wrapper:hover .video-overlay {
+        opacity: 1;
+	      backdrop-filter: blur(12px) saturate(110%);
+    }
+
+    .yck-component .video-overlay p {
+        color: #ffffff;
+        font-size: var(--yck-step-0);
+        font-weight: 400;
+        line-height: 1.65;
+        max-width: 60ch;
+    }
+
+    .yck-component .video-overlay .tag {
+        display: inline-block;
+        font-size: 0.68rem;
+        font-weight: 500;
+        letter-spacing: 0.18em;
+        text-transform: uppercase;
+        color: #a8cc88;
+        margin-bottom: 10px;
+    }
+
+    .yck-component .caption {
+        margin-top: 16px;
+        font-size: 0.78rem;
+        color: #888;
+        letter-spacing: 0.05em;
+        text-align: right;
+    }
 </style>
