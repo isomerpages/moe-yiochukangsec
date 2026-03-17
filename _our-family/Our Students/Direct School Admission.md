@@ -28,10 +28,9 @@ special talents in the following areas:</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">M.A.R.s Club</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">Find us at ...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/cca/clubs/media-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Media club member using a spotlight" src="/images/Our ccas/Media club/MediaClub2026_02.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Lights, Camera, Action!</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/cca/clubs/media-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Media club member using a spotlight" src="/images/Our ccas/Media club/MediaClub2026_02.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Media Club (AV, Photography &amp; Videography)</div><div class="isomer-card-link">Lights, Camera, Action!</div></div></a>
 </div>
 <table style="minWidth: 25px">
 <colgroup>
