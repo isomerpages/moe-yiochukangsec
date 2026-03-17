@@ -192,7 +192,7 @@ image: /images/Our Curriculum/Academic Programmes/Physical Education/learning_tr
             <hr>
             <section id="gallery">
                 <h3>Photo Gallery</h3>
-                <div style="--width: 420px; --height: 450px;" class="carousel slider" id="pic_carousel">
+                <div style="--width: 420px; --height: 420px;" class="carousel slider" id="pic_carousel">
                     <div style="--quantity: 10; --duration: 35s;" class="list">
                         <div style="--position: 1" class="item">
                             <div class="carousel card">
@@ -392,15 +392,15 @@ image: /images/Our Curriculum/Academic Programmes/Physical Education/learning_tr
     --yck-step-4: clamp(1.5552rem, 1.1118rem + 2.2171vw, 3.0518rem);
     --yck-step-5: clamp(1.8662rem, 1.2889rem + 2.8866vw, 3.8147rem);
     /* Fluid spacing */
-    --yck-space-s-xl: clamp(1rem, -0.239rem + 4.32vw, 3rem);
+    --yck-space-s-xl: clamp(1rem, -0.239rem + 4.32vw, 3rem);/* 
     --yck-orange-shadow: 0 2px 4px rgba(255, 233, 193, 1);
     --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
-    --yck-box-shadow1: 0 1px 2px rgba(0, 0, 0, 0.15);
+    --yck-box-shadow1: 0 1px 2px rgba(0, 0, 0, 0.15); */
     --yck-rounded-corners: 10px;
     --yck-heading-letter-spacing: -0.02em;
     --yck-heading-line-height: 1.2em;
     --yck-text-line-height: 1.6em;
-    --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
+    /* --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1); */
     --yck-spacing-unit: 1rem;
     interpolate-size: allow-keywords;
     scroll-behavior: smooth;
@@ -1170,8 +1170,8 @@ hr,
 }
 
 /* Content container */
-.yck-component .content {
-    padding: 0.75rem;
+.yck-component div.content {
+    padding: 0.65rem;
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
     text-wrap: pretty;
@@ -1290,19 +1290,19 @@ h6,
 .yck-component ol,
 .yck-component ul {
     padding: 0;
-    margin-block: 0.5em;
-    margin-left: 1.5em;
+    margin-block: 0.5rem;
+    margin-left: 1.5rem;
 }
 
 .yck-component ul li,
 .yck-component ol li {
-    padding-left: 0.25em;
+    padding-left: 0.25rem;
     line-height: 1.5;
 }
 
 .yck-component ul li:last-child,
 .yck-component ol li:last-child {
-    margin-bottom: 1.25em;
+    margin-bottom: 1.25rem;
 }
 
 /* Removes the gap between nested lists (list within a list). */
@@ -1712,6 +1712,7 @@ h6,
     border-radius: var(--yck-rounded-corners);
     padding: 0 !important;
     margin: 0 !important;
+    margin-bottom: var(--yck-spacing-unit);
     overflow: hidden;
 }
 
@@ -1719,6 +1720,8 @@ h6,
 .yck-component .figure img {
     border-radius: var(--yck-rounded-corners);
     overflow: hidden;
+    width: 100%;
+    object-fit: contain;
 }
 
 .yck-component :is(figcaption, .caption) {
@@ -2149,7 +2152,7 @@ h6,
 
 .yck-component .card {
     margin: 0 auto;
-    background: rgba(255, 255, 255, .65);
+    background: rgba(255,255,255,.65);
     border-radius: var(--yck-rounded-corners);
     overflow: hidden;
     box-shadow: var(--inner-shadow-3);
@@ -2361,6 +2364,88 @@ h6,
     height: 100%;
 }
 
+/* === Text Overlay over image/video === */
+.yck-component .subline {
+    font-size: 0.8rem;
+    font-weight: 300;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #6a7c5b;
+    margin-bottom: 28px;
+}
+
+.yck-component .video-wrapper {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    border-radius: var(--yck-rounded-corners);
+    margin-bottom: 1rem;
+}
+
+.yck-component .video-wrapper iframe {
+    position: absolute;
+    /* top: 0;
+    left: 0; */
+    width: 100%;
+    height: 100%;
+    border: none;
+    display: block;
+}
+
+.yck-component .video-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 0 0 20px 32px;
+    background: linear-gradient(to top,
+        rgba(0, 0, 0, 1) 0%,
+        rgba(0, 0, 0, .85) 30%,
+        rgba(0, 0, 0, 0.6) 65%,
+        rgba(0, 0, 0, 0.02) 100%);
+    opacity: 0;
+    transition: all 0.5s ease;
+    pointer-events: none;
+    text-align: left;
+}
+
+.yck-component .video-wrapper:hover,
+.yck-component .video-wrapper:hover .video-overlay {
+    opacity: 1;
+    filter: grayscale(75%) saturate(150%);
+    backdrop-filter: blur(10px);
+}
+
+.yck-component .video-overlay p {
+    color: #ffffff;
+    font-size: calc(var(--yck-step-0)*.85);
+    font-weight: 400;
+    line-height: 1.6;
+    max-width: 50ch;
+}
+
+.yck-component .video-overlay .tag {
+    display: inline-block;
+    font-size: calc(var(--yck-step-0)*.65);
+    font-weight: 600;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: #a8cc88;
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component .caption {
+    padding-bottom: 0.75em !important;
+    margin-block: .5em !important;
+    font-family: var(--font-old-style);
+    font-size: calc(var(--yck-step-0)*.9);
+    font-style: oblique;
+    font-weight: 300;
+    color: #444;
+    text-align: center;
+    line-height: var(--yck-heading-line-height);
+}
+
 /* Buttons */
 /* From Uiverse.io by vinodjangid07 */
 .yck-component .buttontotop {
@@ -2457,6 +2542,7 @@ h6,
     transform: translateX(-8px);
 }
 
+/* Pulse */
 @keyframes hvr-pulse {
     25% {
         transform: scale(1.1);
@@ -2493,7 +2579,7 @@ h6,
 /* Utilities */
 .yck-component .nolist-style {
     list-style: none;
-    margin: 0 auto;
+    margin: 0;
     padding: 0;
 }
 
@@ -2604,7 +2690,7 @@ h6,
 }
 
 @supports (animation-timeline: view()) {
-    .yck-component :is(.yck__flexitem, .yck__card, .isomer-card) {
+    .yck-component :is(.yck__flexitem, .yck__card,  .isomer-card) {
         animation: fade-in-right ease-in-out both;
         animation-timeline: view();
         animation-range: entry 10% cover 40%;
@@ -2617,7 +2703,7 @@ h6,
     overflow: hidden;
 
     &>.row {
-        width: calc(100% + 2 * 0.6em);
+        width: calc(100% + 2 * .6em);
         display: table;
         table-layout: fixed;
         margin-left: 0;
@@ -2647,7 +2733,6 @@ h6,
 
         &+* {
             width: 100%;
-            transition: all 1s var(--ease-squish-5);
         }
 
         &+label {
@@ -2659,7 +2744,6 @@ h6,
         .row {
             width: 200%;
             left: -100%;
-            transition: all 1s var(--ease-squish-5);
         }
 
         input:nth-of-type(1):checked~.row {
@@ -2671,7 +2755,6 @@ h6,
         .row {
             width: 300%;
             left: -200%;
-            transition: all 1s var(--ease-squish-5);
         }
 
         input:nth-of-type(1):checked~.row {
@@ -2687,7 +2770,6 @@ h6,
         .row {
             width: 400%;
             left: -300%;
-            transition: all 1s var(--ease-squish-5);
         }
 
         input:nth-of-type(1):checked~.row {
@@ -2708,33 +2790,40 @@ h6,
 .yck-component .ui-standard-tabs>label {
     display: inline-block;
     padding: 10px 20px;
-    background: #e4e4e7;
+   /*  background-color: var(--yck-orange100); */ /* linear-gradient(to bottom, rgba(255, 216, 168, 1) 0%; rgba(255, 232, 204, 1) 100%); */
     cursor: pointer;
     border-radius: 6px 6px 0 0;
     margin-right: 5px;
     font-weight: bold;
-    transition: all 1s ease;
+    color: var(--neutral-700);
+    /* transition: background 1s ease-in-out; */
+    transition: all 1s ease-in-out;
 }
 
-.yck-component .ui-standard-tabs>label:hover {
-    background: linear-gradient(to bottom right, rgba(44, 97, 57, .9), rgba(44, 97, 57, .15));
-    color: #e4e4e7;
-    transition: all 1s ease;
+.yck-component .ui-standard-tabs:hover {
+    background-color: var(--yck-orange100);
+   /*  background: linear-gradient(to bottom, rgb(255, 169, 77) 0%, rgb(255, 232, 204) 100%); */
+    /* transition: background 1s ease-in-out, color 1s ease-in-out; */
+    transition: all 1s ease-in-out;
 }
+
+ .yck-component .ui-standard-tabs>label:hover {
+    background-color: var(--yck-orange100);
+    transition: all 1s ease-in-out;
+} 
 
 .yck-component .ui-standard-tabs>input:checked+label {
-    background: rgba(44, 97, 57, .9);
+    /* background: linear-gradient(to bottom, rgb(232, 89, 12) 0%, rgb(255, 232, 204) 100%); */
     color: white;
-    transition: all 1s ease;
+    /* transition: background 1s ease-in-out, color 1s ease-in-out; */
+    transition: all 1s ease-in-out;
 }
 
 .yck-component .ui-standard-tabs>.row>div {
-    background: rgba(255, 255, 255, .5);
+    background-color: var(--yck-orange000); /* linear-gradient(to bottom, rgb(255, 232, 204) 2%, rgba(255, 232, 204, .3) 30%, rgba(255, 232, 204, .4) 50%, rgba(255, 232, 204, .75) 85%, rgb(255, 232, 204) 100%); */
     padding: calc(var(--yck-spacing-unit)*2);
-    border: 1px dotted rgba(200, 200, 200, .5);
     border-radius: 0 6px 6px 6px;
     backdrop-filter: blur(20px);
-    box-shadow: var(--inner-shadow-3);
 }
 
 /* --- Carousel --- */
@@ -2828,17 +2917,8 @@ h6,
     height: 100%;
 }
 
-.yck-component .slider-card figcaption {
-    color: #e5e7eb;
-    font-size: var(--yck-step--1);
-    padding: var(--yck-space-s-xl);
-    margin: 1.5em;
-    text-align: center;
-}
-
 .yck-component .carousel.card {
     width: 100%;
-    height: 87%;
     background: linear-gradient(45deg, rgba(240, 240, 240, .65) 0%, rgba(255, 255, 255, .85) 35%, rgba(250, 250, 250, 1.00) 85%, rgba(200, 200, 200, .8) 100%);
     border-radius: var(--yck-rounded-corners);
     backdrop-filter: blur(20px);
@@ -2851,9 +2931,17 @@ h6,
 .yck-component .carousel.card p {
     font-size: var(--yck-step-0);
     line-height: 1.2;
-    margin-top: 0.5rem;
+    margin-top: 0.65rem;
     padding-inline: 1rem;
     color: var(--neutral-700);
+}
+
+.yck-component .carousel.card figcaption {
+    color: #e5e7eb;
+    font-size: var(--yck-step--1);
+    padding: var(--yck-space-s-xl);
+    margin: 1.5em;
+    text-align: center;
 }
 
 
@@ -2866,7 +2954,6 @@ h6,
     text-align: center;
     width: 100%;
     height: 65vh;
-    /* if you don't want it to take up the full screen, reduce this number */
     overflow: hidden;
     background-size: cover !important;
 }
@@ -2882,6 +2969,7 @@ h6,
     margin-bottom: 16px;
 }
 
+/* === FSBB Specific === */
 /* ── TOP SECTION: title + mascot ── */
 .yck-component .section-header {
     display: grid;
@@ -2986,8 +3074,8 @@ h6,
         transform: translateX(25px);
     }
 }
-	
-	/* === Customization for Learning Triangle in YCKSS-PE === */
+
+/* === Customization for Learning Triangle in YCKSS-PE === */
 #learn-tri {
     border: none;
     box-shadow: none;
@@ -3012,8 +3100,8 @@ h6,
     }
 }
 
-#learn-tri :is(.grid-item, .info-container, .infocard) {
-    border: none !important;
+#learn-tri :is(.grid-item, .infocard) {
+    border: none;
     margin: 0;
     padding: .5rem;
     text-align: center;
