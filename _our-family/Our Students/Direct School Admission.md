@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Students
 variant: tiptap
 ---
-<h4><strong>DSA-SEC Home</strong></h4>
+<h2><strong>DSA-SEC Home</strong></h2>
 <p>Yio Chu Kang Secondary School believes in a well-rounded education and
 is committed to providing learning opportunities beyond the core academic
 and student development programmes.</p>
@@ -19,46 +19,19 @@ related to the talent they are selected for from year 1 to 4.</p>
 or students not studying in MOE mainstream primary schools who demonstrate
 special talents in the following areas:</p>
 <h5><a href="/files/Students/Direct School Admission/2_DIRECT_SCHOOL_ADMISSION___Clubs_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Clubs</a></h5>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-link"></div>
+</div>
+</div>
+</div>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/cca/clubs/digital-animation-club/" rel="noopener noreferrer nofollow" target="_blank">Digital Animation</a>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/cca/clubs/media-club-audio-visual-photography-videography/" rel="noopener noreferrer nofollow" target="_blank">Media Club (Audio Visual, Photography &amp; Videography)</a>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/cca/clubs/mars-club-mechatronics-aeronautics-and-robotics/" rel="noopener noreferrer nofollow" target="_blank">MARS Club (Mechatronics, Aeronautics and Robotics)</a>
-</p>
-</li>
-</ul>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><em>Digital Animation and Media Club are closely tied to our Visual Arts, Media and Design in <a href="/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/" rel="noopener noreferrer nofollow" target="_blank">Learning for Life Programme</a></em>
@@ -73,6 +46,7 @@ special talents in the following areas:</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <h5><a href="/files/Students/Direct School Admission/3__DIRECT_SCHOOL_ADMISSION____Performing_Arts_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Performing Arts</a></h5>
 <table style="minWidth: 25px">
 <colgroup>
