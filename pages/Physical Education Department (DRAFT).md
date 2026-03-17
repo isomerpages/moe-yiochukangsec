@@ -192,8 +192,8 @@ image: /images/Our Curriculum/Academic Programmes/Physical Education/learning_tr
             <hr>
             <section id="gallery">
                 <h3>Photo Gallery</h3>
-                <div style="--width: 420px; --height: 420px;" class="carousel slider" id="pic_carousel">
-                    <div style="--quantity: 10; --duration: 35s;" class="list">
+                <div style="--width: 420px; --height: 320px;" class="carousel slider" id="pic_carousel">
+                    <div style="--quantity: 10; --duration: 30s;" class="list">
                         <div style="--position: 1" class="item">
                             <div class="carousel card">
                                 <figure>
