@@ -33,7 +33,7 @@ special talents in the following areas:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Digital Animation and Media Club are closely tied to our Visual Arts, Media and Design in <a href="/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/" rel="noopener noreferrer nofollow" target="_blank">Learning for Life Programme</a></em>
+<p><em>Digital Animation and Media Club are closely tied to our Visual Arts, Media and Design in <a href="/our-curriculum/distinctive-programmes/learning-for-life-programme/" rel="noopener noreferrer nofollow" target="_blank">Learning for Life Programme</a></em>
 </p>
 </td>
 </tr>
