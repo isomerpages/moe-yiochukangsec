@@ -52,7 +52,7 @@ special talents in the following areas:</p>
 </tbody>
 </table>
 <hr>
-<h5><a href="/files/Students/Direct School Admission/3__DIRECT_SCHOOL_ADMISSION____Performing_Arts_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Performing Arts</a></h5>
+<h3><a href="/files/Students/Direct School Admission/3__DIRECT_SCHOOL_ADMISSION____Performing_Arts_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Performing Arts</a></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -131,17 +131,13 @@ special talents in the following areas:</p>
 </tr>
 </tbody>
 </table>
-<h5><a href="/files/Students/Direct School Admission/4_DIRECT_SCHOOL_ADMISSION___Sports_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Sports</a></h5>
+<hr>
+<h3><a href="/files/Students/Direct School Admission/4_DIRECT_SCHOOL_ADMISSION___Sports_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Sports</a></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -182,24 +178,15 @@ special talents in the following areas:</p>
 </ul>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
-<h5><a href="/files/Students/Direct School Admission/5_DIRECT_SCHOOL_ADMISSION___UGs_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniformed Groups</a></h5>
+<hr>
+<h3><a href="/files/Students/Direct School Admission/5_DIRECT_SCHOOL_ADMISSION___UGs_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniformed Groups</a></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -222,8 +209,8 @@ special talents in the following areas:</p>
 </tr>
 </tbody>
 </table>
-<p>Click on the <strong>respective category</strong> to access the specific
-DSA talent areas application procedure.</p>
+<p>Click on the <strong>respective category headings</strong>  <em>(eg. Clubs, Performing Arts, Sports or Uniform Groups)</em> to
+access the specific DSA talent areas application procedure.</p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
