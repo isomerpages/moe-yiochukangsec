@@ -8,310 +8,310 @@ image: /images/YCKLogo.svg
 <div class="yck-component">
     <div class="regular-flow">
         <article>
-        <section id="top">
-            <h1>Physical Education Department</h1>
-            <div class="autofit-grid">
-                <div class="grid-item">
-                    <div class="card__body" id="vision">
-                        <h2 class="yck-h2">Vision</h2>
-                        <p>Physically educated YCKSians who practise a healthy lifestyle.</p>
-                    </div>
-                </div>
-                <div class="grid-item" id="mission">
-                    <div class="card__body">
-                        <h2 class="yck-h2">Mission</h2>
-                        <p>To educate minds, develop healthy bodies and promote positive attitudes towards lifelong pursuit of good health and fitness as well as enjoyment of physical activities</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <section id="sphere3">
-            <div class="info-container">
-                <div class="yck__flexitem flex-2">
-                    <img alt="Powerful Learning Triangle" style="width: 680px" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/Sphere3_txt.png">
-                </div>
-                <div class="yck__flexitem flex-1">
-                    <img alt="Powerful Learning Triangle" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/YCKSS_PE.png">
-                </div>
-            </div>
-        </section>
-        <section id="learning-tri">
-            <h3>The Powerful Learning Triangle</h3>
-            <div class="autofit-grid" id="learn-tri">
-                <div style="border: none; box-shadow: 0 0 0 0" class="grid-item">
-                    <figure>
-                        <img alt="Powerful Learning Triangle" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/learning_tri.png">
-                    </figure>
-                </div>
-                <div style="border: none; box-shadow: 0 0 0 0" class="grid-item">
-                    <div class="info-container">
-                        <div style="border: none; box-shadow: 0 0 0 0" class="infocard">
-                            <h4>Excellence</h4>
-                            <p>
-                                We want our students to aim for excellence in the things they engage
-                                in.
-                            </p>
+            <section id="top">
+                <h1>Physical Education Department</h1>
+                <div class="autofit-grid">
+                    <div class="grid-item">
+                        <div class="card__body" id="vision">
+                            <h2 class="yck-h2">Vision</h2>
+                            <p>Physically educated YCKSians who practise a healthy lifestyle.</p>
                         </div>
-                        <div style="border: none; box-shadow: 0 0 0 0" class="infocard">&gt;
-                            <h4>Experience</h4>
-                            <p>
-                                We want our students to experience over a period of time to gain the
-                                relevant knowledge and skills.
-                            </p>
-                        </div>
-                        <div style="border: none; box-shadow: 0 0 0 0" class="infocard">
-                            <h4>Exposure</h4>
-                            <p>
-                                We want our students to seize every opportunity to try out and take
-                                part in as many physical activities as possible.
-                            </p>
+                    </div>
+                    <div class="grid-item" id="mission">
+                        <div class="card__body">
+                            <h2 class="yck-h2">Mission</h2>
+                            <p>To educate minds, develop healthy bodies and promote positive attitudes towards lifelong pursuit of good health and fitness as well as enjoyment of physical activities</p>
                         </div>
                     </div>
                 </div>
-        </div></section>
-        <hr>
-        <section class="program-section">
-            <h2>Key Programmes</h2>
-            <h3>Physical Education Programmes</h3>
-            <details name="PEProgrammes">
-                <summary id="seprog">Sports Education Modules</summary>
-                <div class="content">
-                    <div class="columns">
-                        <p>Sports and games are integral part of a student's life. Students should play sports and games to enjoy the health and vigour of life. Games and sports help to shape character, build a sense of cooperation and team-spirit in an individual and also recognise the collective efforts of all the members of the team.</p>
-                        <p>The students in each level will learn about two games each year. Games related concepts such as the use of space, maintaining possession, creating attack, organising defence, and defending space and running to bases are consciously weaved into the lessons with an emphasis on the learning and demonstration of values like integrity, respect and sportsmanship.</p>
+            </section>
+            <section id="sphere3">
+                <div class="info-container">
+                    <div class="yck__flexitem flex-2">
+                        <img alt="Powerful Learning Triangle" style="width: 680px" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/Sphere3_txt.png">
                     </div>
-                    <table class="yck-table">
-                        <thead>
-                            <tr>
-                                <th class="yck-th">LEVEL</th>
-                                <th class="yck-th">GAME 1</th>
-                                <th class="yck-th">GAME 2</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td class="yck-td">Sec 1</td>
-                                <td class="yck-td">Basketball</td>
-                                <td class="yck-td">Netball</td>
-                            </tr>
-                            <tr>
-                                <td class="yck-td">Sec 2</td>
-                                <td class="yck-td">Floorball</td>
-                                <td class="yck-td">Ultimate Frisbee</td>
-                            </tr>
-                            <tr>
-                                <td class="yck-td">Sec 3</td>
-                                <td class="yck-td">Football</td>
-                                <td class="yck-td">Volleyball</td>
-                            </tr>
-                            <tr>
-                                <td class="yck-td">Sec 4</td>
-                                <td class="yck-td">Handball</td>
-                                <td class="yck-td">Softball</td>
-                            </tr>
-                            <tr>
-                                <td class="yck-td">Sec 5</td>
-                                <td class="yck-td">Pickleball</td>
-                                <td class="yck-td">Creative games</td>
-                            </tr>
-                        </tbody>
-                    </table>
+                    <div class="yck__flexitem flex-1">
+                        <img alt="Powerful Learning Triangle" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/YCKSS_PE.png">
+                    </div>
                 </div>
-            </details>
-            <details name="PEProgrammes">
-                <summary id="feprog">Fitness Education Module</summary>
-                <div class="content">
-                    <p>The module seeks to help stimulates our students' interest in physical activity by making meaningful connections in health concepts, fitness principles and practical applications through experiential learning.</p>
-                    <table class="yck-table">
-                        <thead>
-                            <tr>
-                                <th class="yck-th">Level</th>
-                                <th class="yck-th">Fitness</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td class="yck-td">Sec 1 and 3</td>
-                                <td class="yck-td">Alternative Assessment on Fitness</td>
-                            </tr>
-                            <tr>
-                                <td class="yck-td">Sec 2, 4 and 5</td>
-                                <td class="yck-td">NAPFA Assessment</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
-            </details>
-            <details name="PEProgrammes">
-                <summary id="oeprog">Outdoor Education Modules</summary>
-                <div class="content">
-                    <p><strong>Sec 3 MOE-OBS Camp</strong> Secondary Three students will participate in the MOE-OBS Camp. The programme seeks to provide students from different schools the opportunities to work together and overcome various challenges through outdoor adventure learning. They also create opportunities for students to develop Social Emotional Competencies of Self-Awareness, Self-Management, Social Awareness, Relationship Management and Responsible Decision making through various team-building activities.</p>
-                </div>
-            </details>
-        </section>
-        <section id="party-programme">
-            <h3>Sports Participation Programme</h3>
-            <div class="columns">
-                <details>
-                    <summary>Health Fiesta Week</summary>
+            </section>
+            <section id="learning-tri">
+                <h3>The Powerful Learning Triangle</h3>
+                <div class="autofit-grid" id="learn-tri">
+                    <div class="grid-item">
+                        <figure>
+                            <img alt="Powerful Learning Triangle" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/learning_tri.png">
+                        </figure>
+                    </div>
+                    <div class="grid-item">
+                        <div class="info-container">
+                            <div class="infocard">
+                                <h4>Excellence</h4>
+                                <p>
+                                    We want our students to aim for excellence in the things they engage
+                                    in.
+                                </p>
+                            </div>
+                            <div class="infocard">
+                                <h4>Experience</h4>
+                                <p>
+                                    We want our students to experience over a period of time to gain the
+                                    relevant knowledge and skills.
+                                </p>
+                            </div>
+                            <div class="infocard">
+                                <h4>Exposure</h4>
+                                <p>
+                                    We want our students to seize every opportunity to try out and take
+                                    part in as many physical activities as possible.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+            </div></section>
+            <hr>
+            <section class="program-section">
+                <h2>Key Programmes</h2>
+                <h3>Physical Education Programmes</h3>
+                <details name="PEProgrammes">
+                    <summary id="seprog">Sports Education Modules</summary>
                     <div class="content">
-                        <p><a class="text-link" target="_blank" href="/our-experience/in-our-school/#healthfiesta">Health Fiesta</a> is a week long programme aimed to create awareness on health issues and enhanced students' engagement in physical robustness through a variety of fun and simple activities.</p>
-                        <div class="highlights">
-                            <p><strong>The highlights include:</strong></p>
-                            <ul>
-                                <li>Reading of health articles</li>
-                                <li>Inter-class competitions</li>
-                                <li>Interactive games e.g. Amazing race</li>
-                            </ul>
+                        <div class="columns">
+                            <p>Sports and games are integral part of a student's life. Students should play sports and games to enjoy the health and vigour of life. Games and sports help to shape character, build a sense of cooperation and team-spirit in an individual and also recognise the collective efforts of all the members of the team.</p>
+                            <p>The students in each level will learn about two games each year. Games related concepts such as the use of space, maintaining possession, creating attack, organising defence, and defending space and running to bases are consciously weaved into the lessons with an emphasis on the learning and demonstration of values like integrity, respect and sportsmanship.</p>
                         </div>
+                        <table class="yck-table">
+                            <thead>
+                                <tr>
+                                    <th class="yck-th">LEVEL</th>
+                                    <th class="yck-th">GAME 1</th>
+                                    <th class="yck-th">GAME 2</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td class="yck-td">Sec 1</td>
+                                    <td class="yck-td">Basketball</td>
+                                    <td class="yck-td">Netball</td>
+                                </tr>
+                                <tr>
+                                    <td class="yck-td">Sec 2</td>
+                                    <td class="yck-td">Floorball</td>
+                                    <td class="yck-td">Ultimate Frisbee</td>
+                                </tr>
+                                <tr>
+                                    <td class="yck-td">Sec 3</td>
+                                    <td class="yck-td">Football</td>
+                                    <td class="yck-td">Volleyball</td>
+                                </tr>
+                                <tr>
+                                    <td class="yck-td">Sec 4</td>
+                                    <td class="yck-td">Handball</td>
+                                    <td class="yck-td">Softball</td>
+                                </tr>
+                                <tr>
+                                    <td class="yck-td">Sec 5</td>
+                                    <td class="yck-td">Pickleball</td>
+                                    <td class="yck-td">Creative games</td>
+                                </tr>
+                            </tbody>
+                        </table>
                     </div>
                 </details>
-                <details>
-                    <summary>Sports Carnival</summary>
+                <details name="PEProgrammes">
+                    <summary id="feprog">Fitness Education Module</summary>
                     <div class="content">
-                        <p>The culminating event for Health Fiesta week will be the key highlight of our <a class="text-link" target="_blank" href="/our-experience/in-our-school/#healthfiesta">annual Sports Carnival</a> which has the objectives of promoting healthy lifestyle, school values, fair play and good sportsmanship.</p>
-                        <p>A wide array of sporting activities ranging from Parachute Volleyball, Captain Hoopball, Street Basketball, Water Soccer, Bubble Soccer, Tag Archery, Inline Skating, mass Hip Hop dance, etc will be organised.</p>
-                        <p>This is to enrich the sporting experiences of our students, staff and parents and in turn influence them to pick up something they enjoy and pursue an active and healthy lifestyle.</p>
+                        <p>The module seeks to help stimulates our students' interest in physical activity by making meaningful connections in health concepts, fitness principles and practical applications through experiential learning.</p>
+                        <table class="yck-table">
+                            <thead>
+                                <tr>
+                                    <th class="yck-th">Level</th>
+                                    <th class="yck-th">Fitness</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td class="yck-td">Sec 1 and 3</td>
+                                    <td class="yck-td">Alternative Assessment on Fitness</td>
+                                </tr>
+                                <tr>
+                                    <td class="yck-td">Sec 2, 4 and 5</td>
+                                    <td class="yck-td">NAPFA Assessment</td>
+                                </tr>
+                            </tbody>
+                        </table>
                     </div>
                 </details>
-            </div>
-        </section>
-        <hr>
-        <section id="keypersonnel">
-            <div class="contact-card">
-                <div class="line1">
-                    <span class="role">HOD</span>
-                    <span class="dept">Physical Education &amp; CCA</span>
+                <details name="PEProgrammes">
+                    <summary id="oeprog">Outdoor Education Modules</summary>
+                    <div class="content">
+                        <p><strong>Sec 3 MOE-OBS Camp</strong> Secondary Three students will participate in the MOE-OBS Camp. The programme seeks to provide students from different schools the opportunities to work together and overcome various challenges through outdoor adventure learning. They also create opportunities for students to develop Social Emotional Competencies of Self-Awareness, Self-Management, Social Awareness, Relationship Management and Responsible Decision making through various team-building activities.</p>
+                    </div>
+                </details>
+            </section>
+            <section id="party-programme">
+                <h3>Sports Participation Programme</h3>
+                <div class="columns">
+                    <details>
+                        <summary>Health Fiesta Week</summary>
+                        <div class="content">
+                            <p><a class="text-link" target="_blank" href="/our-experience/in-our-school/#healthfiesta">Health Fiesta</a> is a week long programme aimed to create awareness on health issues and enhanced students' engagement in physical robustness through a variety of fun and simple activities.</p>
+                            <div class="highlights">
+                                <p><strong>The highlights include:</strong></p>
+                                <ul>
+                                    <li>Reading of health articles</li>
+                                    <li>Inter-class competitions</li>
+                                    <li>Interactive games e.g. Amazing race</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </details>
+                    <details>
+                        <summary>Sports Carnival</summary>
+                        <div class="content">
+                            <p>The culminating event for Health Fiesta week will be the key highlight of our <a class="text-link" target="_blank" href="/our-experience/in-our-school/#healthfiesta">annual Sports Carnival</a> which has the objectives of promoting healthy lifestyle, school values, fair play and good sportsmanship.</p>
+                            <p>A wide array of sporting activities ranging from Parachute Volleyball, Captain Hoopball, Street Basketball, Water Soccer, Bubble Soccer, Tag Archery, Inline Skating, mass Hip Hop dance, etc will be organised.</p>
+                            <p>This is to enrich the sporting experiences of our students, staff and parents and in turn influence them to pick up something they enjoy and pursue an active and healthy lifestyle.</p>
+                        </div>
+                    </details>
                 </div>
-                <div class="line2">
-                    <span class="name">Ms Irene Heng</span><br>
-                    <span class="ext">(Ext: 116)</span>
-                </div>
-            </div>
-        </section>
-        <hr>
-        <section id="gallery">
-            <h3>Photo Gallery</h3>
-            <div style="--width: 420px; --height: 450px;" class="carousel slider" id="pic_carousel">
-                <div style="--quantity: 10; --duration: 35s;" class="list">
-                    <div style="--position: 1" class="item">
-                        <div class="carousel card">
-                            <figure>
-                                <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/p5a.png">
-                                <figcaption>
-                                    <p>N6 Cluster Health Fiesta event</p>
-                                </figcaption>
-                            </figure>
-                        </div>
+            </section>
+            <hr>
+            <section id="keypersonnel">
+                <div class="contact-card">
+                    <div class="line1">
+                        <span class="role">HOD</span>
+                        <span class="dept">Physical Education &amp; CCA</span>
                     </div>
-                    <div style="--position: 2" class="item">
-                        <div class="carousel card">
-                            <figure>
-                                <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/p5b.png">
-                                <figcaption>
-                                    <p>Outdoor Education Lesson a identifying hazards</p>
-                                </figcaption>
-                            </figure>
-                        </div>
-                    </div>
-                    <div style="--position: 3" class="item">
-                        <div class="carousel card">
-                            <figure>
-                                <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/p5c.png">
-                                <figcaption>
-                                    <p>Outdoor Education Lesson on Pacing</p>
-                                </figcaption>
-                            </figure>
-                        </div>
-                    </div>
-                    <div style="--position: 4" class="item">
-                        <div class="carousel card">
-                            <figure>
-                                <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/p6a.png">
-                                <figcaption>
-                                    <p>Outdoor Education lesson on rope tying</p>
-                                </figcaption>
-                            </figure>
-                        </div>
-                    </div>
-                    <div style="--position: 5" class="item">
-                        <div class="carousel card">
-                            <figure>
-                                <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/p6b.png">
-                                <figcaption>
-                                    <p>Sec 1 Netball Lesson</p>
-                                </figcaption>
-                            </figure>
-                        </div>
-                    </div>
-                    <div style="--position: 6" class="item">
-                        <div class="carousel card">
-                            <figure>
-                                <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/p6c.png">
-                                <figcaption>
-                                    <p>Sec 1 Netball Lesson</p>
-                                </figcaption>
-                            </figure>
-                        </div>
-                    </div>
-                    <div style="--position: 7" class="item">
-                        <div class="carousel card">
-                            <figure>
-                                <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/p7a.png">
-                                <figcaption>
-                                    <p>Sec 1 Netball Lesson display of sportsmanship</p>
-                                </figcaption>
-                            </figure>
-                        </div>
-                    </div>
-                    <div style="--position: 8" class="item">
-                        <div class="carousel card">
-                            <figure>
-                                <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/p8a.png">
-                                <figcaption>
-                                    <p>Sec 4 Handball lesson</p>
-                                </figcaption>
-                            </figure>
-                        </div>
-                    </div>
-                    <div style="--position: 9" class="item">
-                        <div class="carousel card">
-                            <figure>
-                                <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/p8b.png">
-                                <figcaption>
-                                    <p>Sec 4 Handball lesson</p>
-                                </figcaption>
-                            </figure>
-                        </div>
-                    </div>
-                    <div style="--position: 10" class="item">
-                        <div class="carousel card">
-                            <figure>
-                                <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/p8c.png">
-                                <figcaption>
-                                    <p>Sec 4 Handball lesson</p>
-                                </figcaption>
-                            </figure>
-                        </div>
+                    <div class="line2">
+                        <span class="name">Ms Irene Heng</span><br>
+                        <span class="ext">(Ext: 116)</span>
                     </div>
                 </div>
+            </section>
+            <hr>
+            <section id="gallery">
+                <h3>Photo Gallery</h3>
+                <div style="--width: 420px; --height: 400px;" class="carousel slider" id="pic_carousel">
+                    <div style="--quantity: 10; --duration: 35s;" class="list">
+                        <div style="--position: 1" class="item">
+                            <div class="video-wrapper carousel card landscape">
+                                <figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/p5a.png">
+                                    <figcaption>
+                                        <p>N6 Cluster Health Fiesta event</p>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                        </div>
+                        <div style="--position: 2" class="item">
+                            <div class="video-wrapper carousel card landscape">
+                                <figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/p5b.png">
+                                    <figcaption>
+                                        <p>Lesson about Identifying hazards</p>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                        </div>
+                        <div style="--position: 3" class="item">
+                            <div class="video-wrapper carousel card widescreen">
+                                <figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/p5c.png">
+                                    <figcaption>
+                                        <p>Lesson on Pacing</p>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                        </div>
+                        <div style="--position: 4" class="item">
+                            <div class="video-wrapper carousel card landscape">
+                                <figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/p6a.png">
+                                    <figcaption>
+                                        <p>Lesson on Rope Tying</p>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                        </div>
+                        <div style="--position: 5" class="item">
+                            <div class="video-wrapper carousel card landscape">
+                                <figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/p6b.png">
+                                    <figcaption>
+                                        <p>Sec 1 Netball Lesson</p>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                        </div>
+                        <div style="--position: 6" class="item">
+                            <div class="video-wrapper carousel card landscape">
+                                <figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/p6c.png">
+                                    <figcaption>
+                                        <p>Sec 1 Netball Lesson</p>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                        </div>
+                        <div style="--position: 7" class="item">
+                            <div class="video-wrapper carousel card landscape">
+                                <figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/p7a.png">
+                                    <figcaption>
+                                        <p>Sec 1 Netball Lesson display of sportsmanship</p>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                        </div>
+                        <div style="--position: 8" class="item">
+                            <div class="video-wrapper carousel card landscape">
+                                <figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/p8a.png">
+                                    <figcaption>
+                                        <p>Sec 4 Handball lesson</p>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                        </div>
+                        <div style="--position: 9" class="item">
+                            <div class="video-wrapper carousel card landscape">
+                                <figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/p8b.png">
+                                    <figcaption>
+                                        <p>Sec 4 Handball lesson</p>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                        </div>
+                        <div style="--position: 10" class="item">
+                            <div class="video-wrapper carousel card landscape">
+                                <figure>
+                                    <img src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Academic%20Programmes/Physical%20Education/p8c.png">
+                                    <figcaption>
+                                        <p>Sec 4 Handball lesson</p>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <div class="deadctr-container">
+                <a href="#top">
+                    <button class="buttontotop">
+                        <img alt="Back to Top" src="https://www.yiochukangsec.moe.edu.sg/images/Icons/svgiconwht.svg" class="svgIcon">
+                    </button>
+                </a>
             </div>
-        </section>
-        <div class="deadctr-container">
-            <a href="#top">
-                <button class="buttontotop">
-                    <img alt="Back to Top" src="https://www.yiochukangsec.moe.edu.sg/images/Icons/svgiconwht.svg" class="svgIcon">
-                </button>
-            </a>
-        </div>
         </article>
     </div>
 </div>
 
 <style>
 /* ==========================================================================
-	   1. Globals and Custom Props
-	========================================================================= */
+   1. Globals and Custom Props
+========================================================================= */
 
 :root {
     --font-antique:
@@ -393,14 +393,15 @@ image: /images/YCKLogo.svg
     --yck-step-5: clamp(1.8662rem, 1.2889rem + 2.8866vw, 3.8147rem);
     /* Fluid spacing */
     --yck-space-s-xl: clamp(1rem, -0.239rem + 4.32vw, 3rem);
+    /* 
     --yck-orange-shadow: 0 2px 4px rgba(255, 233, 193, 1);
     --yck-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
-    --yck-box-shadow1: 0 1px 2px rgba(0, 0, 0, 0.15);
+    --yck-box-shadow1: 0 1px 2px rgba(0, 0, 0, 0.15); */
     --yck-rounded-corners: 10px;
     --yck-heading-letter-spacing: -0.02em;
     --yck-heading-line-height: 1.2em;
     --yck-text-line-height: 1.6em;
-    --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
+    /* --yck-transition-timing: cubic-bezier(0.4, 0, 0.2, 1); */
     --yck-spacing-unit: 1rem;
     interpolate-size: allow-keywords;
     scroll-behavior: smooth;
@@ -854,17 +855,17 @@ image: /images/YCKLogo.svg
 }
 
 /* ----------------------------------------------
-	 * Generated by Animista on 2025-12-22 9:21:49
-	 * Licensed under FreeBSD License.
-	 * See http://animista.net/license for more info. 
-	 * w: http://animista.net, t: @cssanimista
-	 * ---------------------------------------------- */
+ * Generated by Animista on 2025-12-22 9:21:49
+ * Licensed under FreeBSD License.
+ * See http://animista.net/license for more info. 
+ * w: http://animista.net, t: @cssanimista
+ * ---------------------------------------------- */
 
 /**
-	 * -----------------------------------------------------------------
-	 * animation bg-pan-top bg-pan-bottom bg-pan-left bg-pan-right
-	 * -----------------------------------------------------------------
-	 */
+ * -----------------------------------------------------------------
+ * animation bg-pan-top bg-pan-bottom bg-pan-left bg-pan-right
+ * -----------------------------------------------------------------
+ */
 @keyframes bg-pan-top {
     0% {
         background-position: 50% 100%;
@@ -906,10 +907,10 @@ image: /images/YCKLogo.svg
 }
 
 /**
-	 * ----------------------------------------
-	 * animation fade-in-right
-	 * ----------------------------------------
-	 */
+ * ----------------------------------------
+ * animation fade-in-right
+ * ----------------------------------------
+ */
 
 
 @keyframes fade-in-right {
@@ -1072,7 +1073,10 @@ body {
 }
 
 img,
-svg {
+svg,
+iframe,
+embed,
+object {
     width: 100%;
     object-fit: cover;
 }
@@ -1170,8 +1174,8 @@ hr,
 }
 
 /* Content container */
-.yck-component .content {
-    padding: 0.5rem;
+.yck-component div.content {
+    padding: 0.65rem;
     line-height: var(--yck-text-line-height);
     letter-spacing: normal;
     text-wrap: pretty;
@@ -1290,19 +1294,19 @@ h6,
 .yck-component ol,
 .yck-component ul {
     padding: 0;
-    margin-block: 0.5em;
-    margin-left: 1.5em;
+    margin-block: 0.5rem;
+    margin-left: 1.5rem;
 }
 
 .yck-component ul li,
 .yck-component ol li {
-    padding-left: 0.25em;
+    padding-left: 0.25rem;
     line-height: 1.5;
 }
 
 .yck-component ul li:last-child,
 .yck-component ol li:last-child {
-    margin-bottom: 1.25em;
+    margin-bottom: 1.25rem;
 }
 
 /* Removes the gap between nested lists (list within a list). */
@@ -1712,6 +1716,7 @@ h6,
     border-radius: var(--yck-rounded-corners);
     padding: 0 !important;
     margin: 0 !important;
+    margin-bottom: var(--yck-spacing-unit);
     overflow: hidden;
 }
 
@@ -1719,14 +1724,16 @@ h6,
 .yck-component .figure img {
     border-radius: var(--yck-rounded-corners);
     overflow: hidden;
+    width: 100%;
+    object-fit: contain;
 }
 
 .yck-component :is(figcaption, .caption) {
     display: block;
-    padding-bottom: 0.75em !important;
-    margin: 0 auto !important;
+    padding-top: 0.35rem !important;
+    margin-bottom: var(--yck-space-s-xl);
     font-family: var(--font-old-style);
-    font-size: var(--yck-step--1);
+    font-size: var(--yck-step-0);
     font-style: oblique;
     font-weight: 300;
     color: #444;
@@ -2023,8 +2030,6 @@ h6,
     display: flex;
     flex-wrap: wrap;
     gap: var(--yck-spacing-unit);
-    margin-left: auto !important;
-    margin-right: auto !important;
     margin-block: 1em !important;
 }
 
@@ -2351,6 +2356,7 @@ h6,
     width: 100%;
     margin-bottom: var(--yck-space-s-xl);
     overflow: hidden;
+    border-radius: var(--yck-rounded-corners);
 }
 
 .yck-component .video-container iframe,
@@ -2359,6 +2365,86 @@ h6,
     aspect-ratio: var(--ratio-widescreen);
     width: 100%;
     height: 100%;
+}
+
+/* === Text Overlay over image/video === */
+.yck-component .subline {
+    font-size: 0.8rem;
+    font-weight: 300;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #6a7c5b;
+    margin-bottom: 28px;
+}
+
+.yck-component .video-wrapper {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    border-radius: var(--yck-rounded-corners);
+}
+
+.yck-component .video-wrapper iframe {
+    position: absolute;
+    /* top: 0;
+    left: 0; */
+    width: 100%;
+    height: 100%;
+    border: none;
+    display: block;
+}
+
+.yck-component .video-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 0 0 20px 32px;
+    background: linear-gradient(to top,
+        rgba(0, 0, 0, 1) 0%,
+        rgba(0, 0, 0, .85) 30%,
+        rgba(0, 0, 0, 0.6) 65%,
+        rgba(0, 0, 0, 0.02) 100%);
+    opacity: 0;
+    transition: all 0.5s ease;
+    pointer-events: none;
+    text-align: left;
+}
+
+.yck-component .video-wrapper:hover .video-overlay {
+    opacity: 1;
+    filter: grayscale(75%) saturate(150%);
+    backdrop-filter: blur(10px);
+}
+
+.yck-component .video-overlay p {
+    color: #ffffff;
+    font-size: calc(var(--yck-step-0)*.85);
+    font-weight: 400;
+    line-height: 1.6;
+    max-width: 50ch;
+}
+
+.yck-component .video-overlay .tag {
+    display: inline-block;
+    font-size: calc(var(--yck-step-0)*.65);
+    font-weight: 600;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: #a8cc88;
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component .caption {
+    padding-bottom: 0.75em !important;
+    margin-block: .5em !important;
+    font-family: var(--font-old-style);
+    font-size: calc(var(--yck-step-0)*.9);
+    font-style: oblique;
+    font-weight: 300;
+    color: #444;
+    text-align: center;
+    line-height: var(--yck-heading-line-height);
 }
 
 /* Buttons */
@@ -2457,6 +2543,7 @@ h6,
     transform: translateX(-8px);
 }
 
+/* Pulse */
 @keyframes hvr-pulse {
     25% {
         transform: scale(1.1);
@@ -2493,7 +2580,7 @@ h6,
 /* Utilities */
 .yck-component .nolist-style {
     list-style: none;
-    margin: 0 auto;
+    margin: 0;
     padding: 0;
 }
 
@@ -2617,7 +2704,7 @@ h6,
     overflow: hidden;
 
     &>.row {
-        width: calc(100% + 2 * 0.6em);
+        width: calc(100% + 2 * .6em);
         display: table;
         table-layout: fixed;
         margin-left: 0;
@@ -2647,7 +2734,6 @@ h6,
 
         &+* {
             width: 100%;
-            transition: all 1s var(--ease-squish-5);
         }
 
         &+label {
@@ -2659,7 +2745,6 @@ h6,
         .row {
             width: 200%;
             left: -100%;
-            transition: all 1s var(--ease-squish-5);
         }
 
         input:nth-of-type(1):checked~.row {
@@ -2671,7 +2756,6 @@ h6,
         .row {
             width: 300%;
             left: -200%;
-            transition: all 1s var(--ease-squish-5);
         }
 
         input:nth-of-type(1):checked~.row {
@@ -2687,7 +2771,6 @@ h6,
         .row {
             width: 400%;
             left: -300%;
-            transition: all 1s var(--ease-squish-5);
         }
 
         input:nth-of-type(1):checked~.row {
@@ -2704,10 +2787,68 @@ h6,
     }
 }
 
+/* 1. Standard Tabs (Easiest) */
+.yck-component .ui-standard-tabs>label {
+    display: inline-block;
+    padding: 10px 20px;
+    background: transparent;
+    cursor: pointer;
+    border-radius: var(--yck-rounded-corners);
+    margin-right: 5px;
+    font-weight: bold;
+    transition: all .7s ease;
+}
+
+.yck-component .ui-standard-tabs>input:checked+label {
+    background: var(--yck-orange500);
+    color: white;
+    transition: all .7s ease;
+}
+
+.yck-component .ui-standard-tabs>input:not(:checked)+label:hover {
+    color: var(--yck-orange600);
+    background-color: var(--yck-orange000);
+    transition: all 0.7s ease;
+}
+
+.yck-component .ui-standard-tabs>.row>div {
+    background: white;
+    padding: 20px;
+    border-radius: 0 var(--yck-rounded-corners) var(--yck-rounded-corners) 6px;
+}
+
+/* 1. Standard Tabs (Easiest) */
+/* .yck-component .ui-standard-tabs>label {
+    display: inline-block;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 6px 6px 0 0;
+    margin-right: 5px;
+    font-weight: bold;
+    color: var(--neutral-700);
+    transition: all 1s ease-in-out;
+}
+
+.yck-component .ui-standard-tabs>label:hover {
+    background-color: var(--yck-orange000);
+    transition: all 1s ease-in-out;
+}
+
+.yck-component .ui-standard-tabs>input:checked+label {
+    color: var(--yck-orange900);
+    background-color: var(--yck-orange100);
+    transition: all 1s ease-in-out;
+}
+
+.yck-component .ui-standard-tabs>.row>div {
+    padding: calc(var(--yck-spacing-unit)*1.5);
+    border-radius: 0 6px 6px 6px;
+    backdrop-filter: blur(20px);
+} */
+
 /* --- Carousel --- */
 .yck-component .carousel.slider,
 .yck-component .carousel.glider {
-    margin-bottom: 1em;
     width: 100%;
     height: var(--height);
     overflow: hidden;
@@ -2751,6 +2892,11 @@ h6,
 .yck-component .carousel.slider .list .item img,
 .yck-component .carousel.glider .list .item img {
     width: 100%;
+    height: auto;
+    object-fit: contain;
+    object-position: center center;
+    border-radius: var(--yck-rounded-corners);
+    overflow: hidden;
 }
 
 @keyframes autoRun {
@@ -2795,66 +2941,30 @@ h6,
     height: 100%;
 }
 
-.yck-component .slider-card figcaption {
-    color: #e5e7eb;
-    font-size: var(--yck-step--1);
-    padding: var(--yck-space-s-xl);
-    margin: 1.5em;
-    text-align: center;
-}
-
 .yck-component .carousel.card {
     width: 100%;
-    height: 87%;
+    height: auto;
     background: linear-gradient(45deg, rgba(240, 240, 240, .65) 0%, rgba(255, 255, 255, .85) 35%, rgba(250, 250, 250, 1.00) 85%, rgba(200, 200, 200, .8) 100%);
     border-radius: var(--yck-rounded-corners);
     backdrop-filter: blur(20px);
     overflow: hidden;
-    margin-block: .5em;
     text-align: center;
-    vertical-align: baseline;
+    vertical-align: top;
 }
 
 .yck-component .carousel.card p {
     font-size: var(--yck-step-0);
     line-height: 1.2;
-    margin-top: 0.5rem;
     padding-inline: 1rem;
     color: var(--neutral-700);
 }
 
-/* 1. Standard Tabs (Easiest) */
-.yck-component .ui-standard-tabs>label {
-    display: inline-block;
-    padding: 10px 20px;
-    background: #e4e4e7;
-    cursor: pointer;
-    border-radius: 6px 6px 0 0;
-    margin-right: 5px;
-    font-weight: bold;
-    transition: all 1s ease;
+.yck-component .carousel.card figcaption {
+    color: #e5e7eb;
+    font-size: var(--yck-step--1);
+    text-align: center;
 }
 
-.yck-component .ui-standard-tabs>label:hover {
-    background: linear-gradient(to bottom right, rgba(44, 97, 57, .9), rgba(44, 97, 57, .15));
-    color: #e4e4e7;
-    transition: all 1s ease;
-}
-
-.yck-component .ui-standard-tabs>input:checked+label {
-    background: rgba(44, 97, 57, .9);
-    color: white;
-    transition: all 1s ease;
-}
-
-.yck-component .ui-standard-tabs>.row>div {
-    background: rgba(255, 255, 255, .5);
-    padding: calc(var(--yck-spacing-unit)*2);
-    border: 1px dotted rgba(200, 200, 200, .5);
-    border-radius: 0 6px 6px 6px;
-    backdrop-filter: blur(20px);
-    box-shadow: var(--inner-shadow-3);
-}
 
 /* === HERO/MASTHEAD sections for Distinctive Programs === */
 .yck-component .masthead {
@@ -2865,7 +2975,6 @@ h6,
     text-align: center;
     width: 100%;
     height: 65vh;
-    /* if you don't want it to take up the full screen, reduce this number */
     overflow: hidden;
     background-size: cover !important;
 }
@@ -2879,6 +2988,154 @@ h6,
     line-height: 1;
     text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.8);
     margin-bottom: 16px;
+}
+
+/* === FSBB Specific === */
+/* ── TOP SECTION: title + mascot ── */
+.yck-component .section-header {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    /* text | mascot */
+    grid-template-rows: auto auto;
+    column-gap: var(--yck-spacing-unit);
+    align-items: start;
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component .section-header h2 {
+    grid-column: 1;
+    grid-row: 1;
+    font-size: var(--yck-step-3);
+    font-weight: 800;
+}
+
+.yck-component .intro-box {
+    grid-column: 1;
+    grid-row: 2;
+    background: #f9d0f0;
+    border-radius: 16px;
+    padding: var(--yck-spacing-unit);
+    font-size: var(--yck-step-0);
+    line-height: 1.6;
+    align-self: start;
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+.yck-component .mascot-girl {
+    grid-column: 2;
+    grid-row: 1 / 3;
+    /* spans both rows */
+    width: clamp(80px, 14vw, 160px);
+    align-self: center;
+    transform: translateX(-45px) translateY(30px);
+    filter: saturate(125%) brightness(110%) contrast(90%);
+}
+
+/* ── PURPOSE SECTION ── */
+.yck-component .purpose-title {
+    font-size: var(--yck-step-3);
+    font-weight: 800;
+    margin-bottom: var(--yck-spacing-unit);
+}
+
+/* ── PURPOSE BODY: mascot + text box ── */
+.yck-component .purpose-body {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    /* mascot | content */
+    column-gap: var(--yck-spacing-unit);
+    align-items: center;
+}
+
+.yck-component .mascot-boy {
+    width: clamp(90px, 18vw, 180px);
+    align-self: center;
+    transform: translateX(40px) translateY(-60px);
+    filter: saturate(125%) brightness(110%) contrast(90%);
+}
+
+.yck-component .purpose-box {
+    background: #fffde7;
+    border-radius: 16px;
+    padding: var(--yck-spacing-unit);
+    font-size: var(--yck-step-0);
+    line-height: 1.6;
+    align-self: flex-end;
+}
+
+.yck-component .purpose-box p+p {
+    margin-top: calc(var(--yck-spacing-unit) * 0.5);
+}
+
+/* ── RESPONSIVE BREAKPOINT ── */
+@media (max-width: 560px) {
+    .yck-component .section-header {
+        grid-template-columns: 1fr;
+        /* stack vertically */
+    }
+
+    .yck-component .mascot-girl {
+        grid-column: 1;
+        grid-row: 3;
+        justify-self: center;
+        margin-top: calc(var(--yck-spacing-unit) * 0.5);
+        display: none;
+        transform: translateX(-50px);
+    }
+
+    .yck-component .purpose-body {
+        grid-template-columns: 1fr;
+        /* stack vertically */
+    }
+
+    .yck-component .mascot-boy {
+        justify-self: center;
+        margin-bottom: 0.8rem;
+        display: none;
+        transform: translateX(25px);
+    }
+}
+
+/* === Customization for Learning Triangle in YCKSS-PE === */
+#learn-tri {
+    border: none;
+    box-shadow: none;
+}
+
+#learn-tri.autofit-grid {
+    grid-template-columns: 1fr;
+    font-size: var(--yck-step-0);
+}
+
+@media (min-width: 768px) {
+    #learn-tri.autofit-grid {
+        grid-template-columns: 3fr 1fr;
+    }
+
+    #learn-tri .infocard p {
+        font-size: var(--yck-step--1);
+    }
+
+    #learn-tri .infocard h4 {
+        font-size: var(--yck-step-0);
+    }
+}
+
+#learn-tri :is(.grid-item, .infocard) {
+    border: none;
+    margin: 0;
+    padding: .5rem;
+    text-align: center;
+    align-items: center;
+    justify-items: stretch;
+    background: #fff;
+    box-shadow: none;
+}
+
+#learn-tri .grid-item:hover,
+#learn-tri .grid-item:active,
+#learn-tri .grid-item:focus-visible {
+    box-shadow: none;
 }
 
 /* === Design and Enterprise === */
@@ -2915,78 +3172,35 @@ h6,
 /* === Service Learning ...  Specific customizations === */
 #distinct-slii {
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 61%, rgba(0, 0, 0, 0.65) 100%), url(https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/S1.jpg) no-repeat center center scroll;
+}
 
-    /* === FITA Specific customizations === */
-    #distinct-fita {
-        background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 37%, rgba(0, 0, 0, 0.65) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/fita01.jpg) no-repeat center center scroll;
-    }
+/* === FITA Specific customizations === */
+#distinct-fita {
+    background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 37%, rgba(0, 0, 0, 0.65) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/fita01.jpg) no-repeat center center scroll;
+}
 
-    #reflect-rice {
-        background-color: rgba(246, 196, 198, 0.8);
-        border-radius: 1000px 1000px 0 1000px;
-        padding-left: 2em;
-    }
+#reflect-rice {
+    background-color: rgba(246, 196, 198, 0.8);
+    border-radius: 1000px 1000px 0 1000px;
+    padding-left: 2em;
+}
 
-    #invent-rice {
-        background-color: rgba(255, 239, 201, 0.8);
-        border-radius: 1000px 1000px 1000px 0;
-        padding-left: 2em;
-    }
+#invent-rice {
+    background-color: rgba(255, 239, 201, 0.8);
+    border-radius: 1000px 1000px 1000px 0;
+    padding-left: 2em;
+}
 
-    #critic-rice {
-        background-color: rgba(211, 231, 206, 1);
-        border-radius: 1000px 0 1000px 1000px;
-        padding-left: 3em;
-        -top: 1em;
-    }
+#critic-rice {
+    background-color: rgba(211, 231, 206, 1);
+    border-radius: 1000px 0 1000px 1000px;
+    padding-left: 3em;
+    -top: 1em;
+}
 
-    #empath-rice {
-        background-color: rgba(190, 214, 244, 0.9);
-        border-radius: 0 1000px 1000px 1000px;
-        padding-left: 2em;
-    }
-
-    /* === Customization for Learning Triangle in YCKSS-PE === */
-    #learn-tri {
-        border: none !important;
-	      outline: none !important;
-        box-shadow: none;
-    }
-
-    #learn-tri.autofit-grid {
-        grid-template-columns: 1fr;
-        font-size: var(--yck-step-0);
-    }
-
-    @media (min-width: 768px) {
-        #learn-tri.autofit-grid {
-            grid-template-columns: 3fr 1fr;
-        }
-
-        #learn-tri .infocard p {
-            font-size: var(--yck-step--1);
-        }
-
-        #learn-tri .infocard h4 {
-            font-size: var(--yck-step-0);
-        }
-    }
-
-    #learn-tri :is(.grid-item, .info-container, .infocard) {
-        border: 0 dotted #fff;
-	      outline: 1px dashed red;
-        margin: 0;
-        padding: .5rem;
-        text-align: center;
-        align-items: center;
-        justify-items: stretch;
-        background: #fff;
-        box-shadow: none;
-    }
-
-    #learn-tri .grid-item:hover,
-    #learn-tri .grid-item:active,
-    #learn-tri .grid-item:focus-visible {
-        box-shadow: none;
-    }
+#empath-rice {
+    background-color: rgba(190, 214, 244, 0.9);
+    border-radius: 0 1000px 1000px 1000px;
+    padding-left: 2em;
+}
 </style>
