@@ -2145,12 +2145,14 @@ cite {
 .yck-component .ui-standard-tabs>label {
     display: inline-block;
     padding: 10px 20px;
-    background: transparent;
+    background: #fff;
     cursor: pointer;
-    border-radius: var(--yck-rounded-corners);
+    border-radius: 10px;
     margin-right: 5px;
+	  margin-bottom: var(--yck-spacing-unit);
     font-weight: bold;
     transition: all .7s ease;
+    overflow: hidden;
 }
 
 .yck-component .ui-standard-tabs>input:checked+label {
@@ -2168,8 +2170,8 @@ cite {
 .yck-component .ui-standard-tabs>.row>div {
     background: white;
     padding: 20px;
-    border-radius: 0 var(--yck-rounded-corners) var(--yck-rounded-corners) 6px;
 }
+	
 .yck-component .carousel.glider,
 .yck-component .carousel.slider {
   width: 100%;
