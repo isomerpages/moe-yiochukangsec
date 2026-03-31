@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Students
 variant: tiptap
 ---
-<h4><strong>DSA-SEC Home</strong></h4>
+<h2><strong>DSA-SEC Home</strong></h2>
 <p>Yio Chu Kang Secondary School believes in a well-rounded education and
 is committed to providing learning opportunities beyond the core academic
 and student development programmes.</p>
@@ -18,50 +18,28 @@ related to the talent they are selected for from year 1 to 4.</p>
 <p>In DSA-Sec Exercise 2025, we are looking for promising Primary Six students
 or students not studying in MOE mainstream primary schools who demonstrate
 special talents in the following areas:</p>
-<h5><a href="/files/Students/Direct School Admission/2_DIRECT_SCHOOL_ADMISSION___Clubs_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Clubs</a></h5>
+<h3><a href="/files/Students/Direct School Admission/2_DIRECT_SCHOOL_ADMISSION___Clubs_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Clubs</a></h3>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/clubs/digital-animation-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Member of the Digital Animation Club" src="/images/Our Curriculum/Non Academic Programmes/CoCurricular Activities/Clubs/Digital Animation Club/DigitalAnimateClub.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Animation Club</div><div class="isomer-card-link">Find out more ...</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/cca/clubs/mars-club-mechatronics-aeronautics-and-robotics/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Stand-in for MARs Club Logo" src="/images/Our Curriculum/Non Academic Programmes/CoCurricular Activities/Clubs/MARs Club/stem.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">M.A.R.s Club</div>
+<div class="isomer-card-link">Find us at ...</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/cca/clubs/media-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Media club member using a spotlight" src="/images/Our ccas/Media club/MediaClub2026_02.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Media Club (AV, Photography &amp; Videography)</div><div class="isomer-card-link">Lights, Camera, Action!</div></div></a>
+</div>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/cca/clubs/digital-animation-club/" rel="noopener noreferrer nofollow" target="_blank">Digital Animation</a>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/cca/clubs/media-club-audio-visual-photography-videography/" rel="noopener noreferrer nofollow" target="_blank">Media Club (Audio Visual, Photography &amp; Videography)</a>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/cca/clubs/mars-club-mechatronics-aeronautics-and-robotics/" rel="noopener noreferrer nofollow" target="_blank">MARS Club (Mechatronics, Aeronautics and Robotics)</a>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em>Digital Animation and Media Club are closely tied to our Visual Arts, Media and Design in <a href="/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/" rel="noopener noreferrer nofollow" target="_blank">Learning for Life Programme</a></em>
+<p><em>Digital Animation and Media Club are closely tied to our Visual Arts, Media and Design in <a href="/our-curriculum/distinctive-programmes/learning-for-life-programme/" rel="noopener noreferrer nofollow" target="_blank">Learning for Life Programme</a></em>
 </p>
 </td>
 </tr>
@@ -73,7 +51,8 @@ special talents in the following areas:</p>
 </tr>
 </tbody>
 </table>
-<h5><a href="/files/Students/Direct School Admission/3__DIRECT_SCHOOL_ADMISSION____Performing_Arts_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Performing Arts</a></h5>
+<hr>
+<h3><a href="/files/Students/Direct School Admission/3__DIRECT_SCHOOL_ADMISSION____Performing_Arts_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Performing Arts</a></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -152,17 +131,13 @@ special talents in the following areas:</p>
 </tr>
 </tbody>
 </table>
-<h5><a href="/files/Students/Direct School Admission/4_DIRECT_SCHOOL_ADMISSION___Sports_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Sports</a></h5>
+<hr>
+<h3><a href="/files/Students/Direct School Admission/4_DIRECT_SCHOOL_ADMISSION___Sports_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Sports</a></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -203,24 +178,15 @@ special talents in the following areas:</p>
 </ul>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
-<h5><a href="/files/Students/Direct School Admission/5_DIRECT_SCHOOL_ADMISSION___UGs_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniformed Groups</a></h5>
+<hr>
+<h3><a href="/files/Students/Direct School Admission/5_DIRECT_SCHOOL_ADMISSION___UGs_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniformed Groups</a></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -243,8 +209,8 @@ special talents in the following areas:</p>
 </tr>
 </tbody>
 </table>
-<p>Click on the <strong>respective category</strong> to access the specific
-DSA talent areas application procedure.</p>
+<p>Click on the <strong>respective category headings</strong>  <em>(eg. Clubs, Performing Arts, Sports or Uniform Groups)</em> to
+access the specific DSA talent areas application procedure.</p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop

@@ -1,0 +1,2520 @@
+---
+title: In Our School (DRAFT)
+permalink: /in-our-school-draft/
+variant: markdown
+description: ""
+image: /images/YCKLogo.svg
+---
+<div class="yck-component">
+    <div class="regular-flow">
+        <article>
+            <section id="top">
+                <h1>In Our School</h1>
+                <p>
+                    YCKSS provides students with a rich range of activities outside the classroom to expose, engage and enrich students’ experiences in the school. Here are some of the activities that students look forward to. Please visit our <a class="text-link" rel="noopener noreferrer nofollow" target="_blank" href="https://www.facebook.com/yiochukangsec">YCKSS Facebook</a> and <a class="text-link" rel="noopener noreferrer nofollow" target="_blank" href="https://www.instagram.com/yiochukang_sec/">Instagram</a> for the more information.
+                </p>
+            </section>
+            <hr>
+            <section id="navigation">
+                <h2>Take a look at our ...</h2>
+                <nav class="yck-nav-bar">
+                    <ul>
+                        <li><a class="active" href="#natday2025">National Day Celebrations</a></li>
+                        <li><a class="text-link" href="#levelcamp">Level Camps</a></li>
+                        <li><a class="text-link" href="#healthfiesta">Health Fiesta &amp; Sports Carnival</a></li>
+                        <li><a href="#earcandy">Ear<sup>Candy</sup>!</a></li>
+                        <li><a class="text-link" href="#speechday">Annual Speech and Prize Giving Day</a></li>
+                        <li><a href="#syf">Our Singapore Youth Festival (SYF) Journey</a></li>
+                        <li><a class="text-link" href="#safety">Commitment to a Safe Campus</a></li>
+                        <li><a class="text-link" href="#cantabile">Cantabile!</a></li>
+                        <li><a class="text-link" href="#sscwc">Singapore Schools Cyberwellness Challenge (SSCWC)</a></li>
+                    </ul>
+                </nav>
+            </section>
+            <hr>
+            <section id="natday2025">
+                <h2>National Day Celebrations</h2>
+                <div class="tabs four ui-standard-tabs" id="NDPtabs">
+                    <input checked="" id="tab1-1" name="tab-group-1" type="radio">
+                    <label for="tab1-1" class="text-link">NDP 2025</label>
+                    <input id="tab1-2" name="tab-group-1" type="radio">
+                    <label for="tab1-2" class="text-link">NDP 2024</label>
+                    <input id="tab1-3" name="tab-group-1" type="radio">
+                    <label for="tab1-3" class="text-link">NDP 2023</label>
+                    <input id="tab1-4" name="tab-group-1" type="radio">
+                    <label for="tab1-4" class="text-link">NDP 2022</label>
+                    <div class="row">
+                        <div class="flex-wrap flexcol">
+                            <h3>YCKSS celebrates our Nation's Birthday on 8 August 2025</h3>
+                            <div class="video-wrapper widescreen">
+                                <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/NQ6ENBgdD4M?si=mmUQcv8YflWT9VVE"></iframe>
+                            </div>
+                            <figcaption>Video taken by: Sky, Danish and Yu Zhe</figcaption>
+                            <div class="infocard">
+                                <h4>Song Credits:</h4>
+                                <ul class="nolist-style">
+                                    <li><span class="yck-h5">Song:</span> <a class="text-link" target="_blank" href="https://youtu.be/Dp2luZ0bK0Y?si=HhS0y9yECbkZnGny">Here We Are (Dance of the Nation Remix)</a></li>
+                                    <li><span class="yck-h5">Artist:</span>
+                                        <ul>
+                                            <li>NDPeeps,</li>
+                                            <li>Charlie Lim,</li>
+                                            <li>The Island Voices</li>
+                                        </ul>
+                                    </li>
+                                    <li><span class="yck-h5">Album:</span> Here We Are</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div>
+                            <h3>YCKSS celebrates our Nation's Birthday on 8 August 2024</h3>
+                            <div class="video-wrapper widescreen">
+                                <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/wX_PwaoilWU?si=Kh2p7lC5UyRUuzom" height="315" width="560"></iframe>
+                            </div>
+                            <figcaption>Video taken by: Glenda Quek, Tharini and Jing Yan</figcaption>
+                        </div>
+                        <div>
+                            <h3>YCKSS celebrates our Nation's Birthday on 8 August 2023</h3>
+                            <div class="video-wrapper widescreen">
+                                <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/SOf5anmZWBg?si=XoO0agOWnsh5hONz" height="315" width="560"></iframe>
+                            </div>
+                            <figcaption>Video taken by: Shailesh and Dong Zhe</figcaption>
+                            <div class="columns">
+                                <h4>Our NDP Journeys (Part 1)</h4>
+                                <div class="video-wrapper widescreen">
+                                    <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/HR4seEKIgT4?si=WBC574-dEjCLUGdn" height="315" width="560"></iframe>
+                                </div>
+                                <div class="content">
+                                    <p>Highlights of YCKSS's participation in NDP 2023, showcasing our students and staff's journey as they strived towards their final performance on National Day Parade.</p>
+                                </div>
+                                <h4>Our NDP Journeys (Part 2)</h4>
+                                <div class="video-wrapper widescreen">
+                                    <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/s0mj9fKE9dU?si=YnI19j7RWLw_yEmR" height="315" width="560"></iframe>
+                                </div>
+                                <div class="content">
+                                    <p>Part 2 shows the highlights of YCKSS's participation in the National Day Parade on 9 August 2023</p>
+                                </div>
+                            </div>
+                            <p class="notice">Many thanks to Ms Irene Heng, Ms Nurul and our Media Club students who covered these series of events.</p>
+                        </div>
+                        <div>
+                            <div class="video-wrapper widescreen">
+                                <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/ckgD13T8wF8?si=bPxxB51P-i-gJ_Pw" height="315" width="560"></iframe>
+                            </div>
+                            <figcaption>National Day 2022</figcaption>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <hr>
+            <section id="levelcamp">
+                <h2>Level Camps</h2>
+                <div class="ken-burns-container">
+                    <figure>
+                        <img alt="Students engaged in activities during the Level Camp" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Experience/In%20Our%20School/LevelCamp2025.jpg" class="kenburns-scale">
+                    </figure>
+                </div>
+                <div class="content">
+                    <p> The Level Camps aim to bond the Form Teachers and the class through out of classroom experiences. Held over 2-3 days, the camps create a common experience for all students, and strengthen school's identity and belonging. They also build positive Teacher-Student Relationship. Through these activities, we help students discover the joy of learning.
+                    </p>
+                </div>
+                <div class="deadctr-container">
+                    <a href="#top">
+                        <button class="buttontotop">
+                            <img alt="Back to Top" src="https://www.yiochukangsec.moe.edu.sg/images/Icons/svgiconwht.svg" class="svgIcon">
+                        </button>
+                    </a>
+                </div>
+            </section>
+            <hr>
+            <section id="healthfiesta">
+                <h2>Health Fiesta Week and Sports Carnival</h2>
+                <div class="video-wrapper widescreen">
+                    <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/_xV05iVB5Yk?si=MXlvrxK9nGJxXJgC" height="315" width="560"></iframe>
+                    <div class="video-overlay">
+                        <span class="tag">About this event</span>
+                        <p>
+                            Health Fiesta, which culminates in Sports Carnival Day, is a week-long event much anticipated by students. It enhances engagement in physical robustness and healthy lifestyle through a variety of fun and simple activities. There is no better medium than Sports to enhance social cohesion and interaction for students from all levels.
+                        </p>
+                    </div>
+                </div>
+                <figcaption>Sports Carnival 2024</figcaption>
+                <div class="video-wrapper widescreen">
+                    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_xV05iVB5Yk?si=GEB8WjDn1szyTe1J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+                </div>
+                <div class="content">
+                    <p>
+                        Health Fiesta, which culminates in Sports Carnival Day, is a week‑long event that is much anticipated by the students. It enhances students’ engagement in physical robustness and healthy lifestyle through a variety of fun and simple activities. There is no better medium than Sports to enhance social cohesion and interaction for students from all levels to interact.
+                    </p>
+                </div>
+            </section>
+            <hr>
+            <section id="earcandy">
+                <h2 class="yck-h2">Ear<sup><i>Candy</i></sup>!</h2>
+                <div class="ken-burns-container">
+                    <figure>
+                        <img class="kenburns-scale" alt="It's EarCandy! time at YCKSS" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Experience/In%20Our%20School/S3.jpg">
+                    </figure>
+                </div>
+                <div class="content">
+                    <p>
+                        <em>Ear<sup>Candy</sup>! </em> gives students an avenue for self‑expression because of the talents emerging from the school’s <a class="text-link" href="/our-curriculum/distinctive-programmes/learning-for-life-programme/">Arts, Media and Design Programme</a>. <em>Ear<sup>Candy</sup>! </em> provides a conducive space for students after school to entertain their peers, performing in an informal setting with full technical facilities. It is held twice a year, with one <em>Ear<sup>Candy</sup>! </em>each semester.
+                    </p>
+                </div>
+                <div class="deadctr-container">
+                    <a href="#top">
+                        <button class="buttontotop">
+                            <img alt="Back to Top" src="https://www.yiochukangsec.moe.edu.sg/images/Icons/svgiconwht.svg" class="svgIcon">
+                        </button>
+                    </a>
+                </div>
+            </section>
+            <hr>
+            <section id="speechday">
+                <h2>Speech and Prize‑Giving Day</h2>
+                <div class="video-wrapper widescreen">
+                    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/xWxW7cRhwfM?si=WnKIMnhkggsrkzKp" height="315" width="560"></iframe>
+                </div>
+                <figcaption>60th Speech and Prize Giving Day</figcaption>
+                <p> Our annual <a class="text-link" rel="noopener noreferrer nofollow" target="_blank" href="https://www.yiochukangsec.moe.edu.sg/yckss-60th-speech-and-prize-giving-day/">Speech and Prize Giving Day</a> is a time to recognise the good work by the school and our graduating cohort of students. In addition, it is also a celebration of our students’ talents as all the performing arts groups such as the <a class="text-link" href="/our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/">Dances</a>, <a class="text-link" href="/our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/">Choir</a>, <a class="text-link" href="/our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/">Band</a> and <a class="text-link" href="/our-curriculum/Non-Academic-Programmes/Co-Curricular-Activities/">Drama</a> will put up an <a class="text-link" rel="noopener noreferrer nofollow" target="_blank" href="https://youtu.be/Ztbsf0cNbQQ?si=JM352ScDkzir8m3r">amazing concert</a> that always leaves the audience asking for more. </p>
+                <h3>Previous Speech &amp; Prize Giving Days</h3>
+                <details>
+                    <summary>Full Performances and Highlight Reels by Year</summary>
+                    <ul>
+                        <li>59<sup>th</sup> <a target="_blank" href="https://www.youtube.com/embed/iivxaYHg7HY?si=7M-KsfLRj1pHsKkC">Full Performance</a> and <a target="_blank" href="https://www.youtube.com/embed/vXqtR-VJkn4?si=WgK1sTAJ9A8mm625">Highlights</a> in 2024.</li>
+                        <li>58<sup>th</sup> <a target="_blank" href="https://www.youtube.com/watch?v=UpBOuxauBJw">Full Performance</a> and <a target="_blank" href="-&quot;https://youtu.be/Rcnx3RyomJY?si=y43ZPzAwE4kYAwGa&quot;">Highlights</a> in 2023.</li>
+                        <li>57<sup>th</sup> <a target="_blank" href="https://youtu.be/_WaoEa4PJzU?si=SlCGwDYyb1-1vMNV">Speech and Prize Giving Day</a> in 2022.</li>
+                        <li>56<sup>th</sup> <a target="_blank" href="https://youtu.be/aHeeaGQKlwQ?si=3NTF35l5j1FPa63M">Speech and Prize Giving Day</a> in 2021.</li>
+                    </ul>
+                </details>
+                <div class="deadctr-container">
+                    <a href="#top">
+                        <button class="buttontotop">
+                            <img alt="Back to Top" src="https://www.yiochukangsec.moe.edu.sg/images/Icons/svgiconwht.svg" class="svgIcon">
+                        </button>
+                    </a>
+                </div>
+            </section>
+            <hr>
+            <section id="syf">
+                <h2>Singapore Youth Festival</h2>
+                <div style="--width: 560px; --height: 400px" class="carousel slider" id="video_carousel">
+                    <div style="--quantity: 5; --duration: 40s" class="list">
+                        <div style="--position: 1" class="item">
+                            <div class="carousel card">
+                                <div class="video-wrapper widescreen">
+                                    <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/Y0GbggmgiHM?si=167_etr9Ds0GfyFV" height="315" width="560"></iframe>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="--position: 2" class="item">
+                            <div class="carousel card">
+                                <div class="video-wrapper widescreen">
+                                    <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/MGZ82cclYXk?si=jOOoTyIaC-0O_slv" height="315" width="560"></iframe>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="--position: 3" class="item">
+                            <div class="carousel card">
+                                <div class="video-wrapper widescreen">
+                                    <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/PxkxoMZpPoI?si=7IGxVTUpjh66VUt1" height="315" width="560"></iframe>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="--position: 4" class="item">
+                            <div class="carousel card">
+                                <div class="video-wrapper widescreen">
+                                    <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/eMlGkZWOsdo?si=K-L4P96MGRZsyihp" height="315" width="560"></iframe>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="--position: 5" class="item">
+                            <div class="carousel card">
+                                <div class="video-wrapper widescreen">
+                                    <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/mgOTUdk4Wog?si=GgNgeswG_Qia0-XJ" height="315" width="560"></iframe>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <p>
+                    The <a class="text-link" rel="noopener noreferrer nofollow" target="_blank" href="https://www.syf.gov.sg/arts-presentation/about-the-arts-presentation">Singapore Youth Festival (SYF)</a> is an annual event <a class="text-link" rel="noopener noreferrer nofollow" target="_blank" href="https://www.moe.gov.sg/news/press-releases/20250321-singapore-youth-festival-2025-students-to-showcase-aspirations-for-our-nations-future-through-diverse-art-forms">organised by the Ministry of Education</a> to celebrate the vitality of our youth and their diverse artistic talents. Our performing arts groups are always excited to be a part of this celebration and though it entails many months of intense training and practices, the students find it a joy to finally showcase their works of excellence. </p>
+                <p>Watch the highlights of their journey in the video or visit <a class="text-link" href="https://www.youtube.com/@yiochukangsecondaryschoolo9342">our official Youtube channel</a> for their full performances. </p>
+                <div class="video-wrapper widescreen">
+                    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/8xYmUrqATb4?si=GYCSmdKhjXknE0Ip" height="315" width="560"></iframe>
+                </div>
+                <figcaption>YCKSS SYF JOURNEY (2025)</figcaption>
+                <div class="deadctr-container">
+                    <a href="#top">
+                        <button class="buttontotop">
+                            <img alt="Back to Top" src="https://www.yiochukangsec.moe.edu.sg/images/Icons/svgiconwht.svg" class="svgIcon">
+                        </button>
+                    </a>
+                </div>
+            </section>
+            <hr>
+            <section id="safety">
+                <h2>Safety and Security Exercises</h2>
+                <p> School safety, security and care are taken seriously. Security exercises and fire drills are conducted regularly so that staff and students can respond with confidence and calm in an emergency. </p>
+            </section>
+            <hr>
+            <section id="cantabile">
+                <h2>Cantabile!</h2>
+                <div class="video-wrapper widescreen">
+                    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wid1s6MvMKs?si=42dbLqLmDi5pkX-Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+                </div>
+                <div class="content">
+                    <p>Highlights from Cantabile Concert 2024 held in Yio Chu Kang Secondary on 15 November. Watch the <a href="https://youtu.be/31CTJ73HnCc?si=RELAl8yLgHWnm25m" target="_blank">full concert</a> on our Youtube Channel.</p>
+                </div>
+                <h3>Cantabile! 2023 - Highlights and Full Concert</h3>
+                <div class="yck-flexbox-grid">
+                    <div class="video-wrapper widescreen">
+                        <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/_wZY_deUv54?si=_Kt3CGD72sIr0JHJ" height="315" width="560"></iframe>
+                    </div>
+                    <figcaption></figcaption>
+                    <div class="video-wrapper widescreen">
+                        <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/jFYMISLZt2w?si=DDaqYcY1zJJYFuYV" height="315" width="560"></iframe>
+                    </div>
+                </div>
+            </section>
+            <hr>
+            <section id="sscwc">
+                <h2>Singapore Schools Cyberwellness Challenge (SSCWC)</h2>
+                <div class="video-wrapper widescreen">
+                    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0gMIm58tj8A?si=x8pENslcE8YBkoLD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+                </div>
+                <img src="https://www.yiochukangsec.moe.edu.sg/images/Top_Banner.png">
+                <div class="content">
+                    <p>The Singapore Schools Cyber Wellness Challenge (SSCWC) is a national film competition where secondary students mentor primary school peers to champion digital citizenship. Supported by the <a href="https://www.mlc.sg/" target="_blank">Media Literacy Council</a> and guided by experts from <a href="https://www.touch.org.sg/get-assistance/cyber-wellness.html" target="_blank">TOUCH Cyber Wellness</a> and Apple, teams collaborate to produce impactful films on iPads. This unique partnership cultivates leadership in older students while empowering younger ones to become safe, responsible digital creators..</p>
+                </div>
+            </section>
+            <div class="deadctr-container">
+                <a href="#top">
+                    <button class="buttontotop">
+                        <img alt="Back to Top" src="https://www.yiochukangsec.moe.edu.sg/images/Icons/svgiconwht.svg" class="svgIcon">
+                    </button>
+                </a>
+            </div>
+        </article>
+    </div>
+</div>
+
+<style>
+:root {
+  --font-antique: Superclarendon,Bookman Old Style,URW Bookman,URW Bookman L,Georgia Pro,Georgia,serif;
+  --font-classical-humanist: Optima,Candara,Noto Sans,source-sans-pro,sans-serif;
+  --font-didone: Didot,Bodoni MT,Noto Serif Display,URW Palladio L,P052,Sylfaen,serif;
+  --font-geometric-humanist: Avenir,Montserrat,Corbel,URW Gothic,source-sans-pro,sans-serif;
+  --font-handwritten: Segoe Print,Bradley Hand,Chilanka,TSCu_Comic,casual,cursive;
+  --font-humanist: Seravek,Gill Sans Nova,Ubuntu,Calibri,DejaVu Sans,source-sans-pro,sans-serif;
+  --font-industrial: Bahnschrift,DIN Alternate,Franklin Gothic Medium,Nimbus Sans Narrow,sans-serif-condensed,sans-serif;
+  --font-monospace-code: Dank Mono,Operator Mono,Inconsolata,Fira Mono,ui-monospace,SF Mono,Monaco,Droid Sans Mono,Source Code Pro,Cascadia Code,Menlo,Consolas,DejaVu Sans Mono,monospace;
+  --font-monospace-slab-serif: Nimbus Mono PS,Courier New,monospace;
+  --font-neo-grotesque: Inter,Roboto,Helvetica Neue,Arial Nova,Nimbus Sans,Arial,sans-serif;
+  --font-old-style: Iowan Old Style,Palatino Linotype,URW Palladio L,P052,serif;
+  --font-rounded-sans: ui-rounded,Hiragino Maru Gothic ProN,Quicksand,Comfortaa,Manjari,Arial Rounded MT,Arial Rounded MT Bold,Calibri,source-sans-pro,sans-serif;
+  --font-slab-serif: Rockwell,Rockwell Nova,Roboto Slab,DejaVu Serif,Sitka Small,serif;
+  --font-system-ui: system-ui,sans-serif;
+  --font-transitional: Charter,Bitstream Charter,Sitka Text,Cambria,serif;
+  --neutral-100: #fcfcfa;
+  --neutral-200: #eae8e4;
+  --neutral-300: #d7d3ce;
+  --neutral-400: #c5bfb9;
+  --neutral-500: #b3aba4;
+  --neutral-600: #8f8883;
+  --neutral-700: #6c6663;
+  --neutral-800: #494442;
+  --neutral-900: #262322;
+  --yck-green100: #f2fffb;
+  --yck-green200: #bcfee6;
+  --yck-green300: #83f8c7;
+  --yck-green400: #4ae79d;
+  --yck-green500: #16c768;
+  --yck-green600: #079f45;
+  --yck-green700: #02772b;
+  --yck-green800: #004e17;
+  --yck-green900: #002609;
+  --yck-orange000: #fff4e6;
+  --yck-orange100: #ffe8cc;
+  --yck-orange200: #ffd8a8;
+  --yck-orange300: #ffc078;
+  --yck-orange400: #ffa94d;
+  --yck-orange500: #ff922b;
+  --yck-orange600: #fd7e14;
+  --yck-orange700: #f76707;
+  --yck-orange800: #e8590c;
+  --yck-orange900: #d9480f;
+  --yck-orange110: #bf400d;
+  --yck-orange120: #99330b;
+  --yck-orange130: #802b09;
+  --yck-step--1: clamp(0.625rem, 0.5139rem + 0.5556vw, 1rem);
+  --yck-step--2: clamp(0.5208rem, 0.4381rem + 0.4136vw, 0.8rem);
+  --yck-step-0: clamp(0.75rem, 0.6019rem + 0.7407vw, 1.25rem);
+  --yck-step-1: clamp(0.9rem, 0.7037rem + 0.9815vw, 1.5625rem);
+  --yck-step-2: clamp(1.08rem, 0.8213rem + 1.2935vw, 1.9531rem);
+  --yck-step-3: clamp(1.296rem, 0.9566rem + 1.6969vw, 2.4414rem);
+  --yck-step-4: clamp(1.5552rem, 1.1118rem + 2.2171vw, 3.0518rem);
+  --yck-step-5: clamp(1.8662rem, 1.2889rem + 2.8866vw, 3.8147rem);
+  --yck-space-s-xl: clamp(1rem, -0.239rem + 4.32vw, 3rem);
+  --yck-rounded-corners: 10px;
+  --yck-heading-letter-spacing: -0.02em;
+  --yck-heading-line-height: 1.2em;
+  --yck-text-line-height: 1.6em;
+  --yck-spacing-unit: 1rem;
+  interpolate-size: allow-keywords;
+  scroll-behavior: smooth;
+  text-rendering: optimizeSpeed
+}
+:where(html) {
+  --ratio-golden: 1.618/1;
+  --ratio-landscape: 4/3;
+  --ratio-portrait: 3/4;
+  --ratio-square: 1;
+  --ratio-ultrawide: 18/5;
+  --ratio-widescreen: 16/9;
+  --ease-1: cubic-bezier(.25, 0, .5, 1);
+  --ease-2: cubic-bezier(.25, 0, .4, 1);
+  --ease-3: cubic-bezier(.25, 0, .3, 1);
+  --ease-4: cubic-bezier(.25, 0, .2, 1);
+  --ease-5: cubic-bezier(.25, 0, .1, 1);
+  --ease-in-1: cubic-bezier(.25, 0, 1, 1);
+  --ease-in-2: cubic-bezier(.50, 0, 1, 1);
+  --ease-in-3: cubic-bezier(.70, 0, 1, 1);
+  --ease-in-4: cubic-bezier(.90, 0, 1, 1);
+  --ease-in-5: cubic-bezier(1, 0, 1, 1);
+  --ease-out-1: cubic-bezier(0, 0, .75, 1);
+  --ease-out-2: cubic-bezier(0, 0, .50, 1);
+  --ease-out-3: cubic-bezier(0, 0, .3, 1);
+  --ease-out-4: cubic-bezier(0, 0, .1, 1);
+  --ease-out-5: cubic-bezier(0, 0, 0, 1);
+  --ease-in-out-1: cubic-bezier(.1, 0, .9, 1);
+  --ease-in-out-2: cubic-bezier(.3, 0, .7, 1);
+  --ease-in-out-3: cubic-bezier(.5, 0, .5, 1);
+  --ease-in-out-4: cubic-bezier(.7, 0, .3, 1);
+  --ease-in-out-5: cubic-bezier(.9, 0, .1, 1);
+  --ease-elastic-out-1: cubic-bezier(.5, .75, .75, 1.25);
+  --ease-elastic-out-2: cubic-bezier(.5, 1, .75, 1.25);
+  --ease-elastic-out-3: cubic-bezier(.5, 1.25, .75, 1.25);
+  --ease-elastic-out-4: cubic-bezier(.5, 1.5, .75, 1.25);
+  --ease-elastic-out-5: cubic-bezier(.5, 1.75, .75, 1.25);
+  --ease-elastic-in-1: cubic-bezier(.5, -0.25, .75, 1);
+  --ease-elastic-in-2: cubic-bezier(.5, -0.50, .75, 1);
+  --ease-elastic-in-3: cubic-bezier(.5, -0.75, .75, 1);
+  --ease-elastic-in-4: cubic-bezier(.5, -1.00, .75, 1);
+  --ease-elastic-in-5: cubic-bezier(.5, -1.25, .75, 1);
+  --ease-elastic-in-out-1: cubic-bezier(.5, -.1, .1, 1.5);
+  --ease-elastic-in-out-2: cubic-bezier(.5, -.3, .1, 1.5);
+  --ease-elastic-in-out-3: cubic-bezier(.5, -.5, .1, 1.5);
+  --ease-elastic-in-out-4: cubic-bezier(.5, -.7, .1, 1.5);
+  --ease-elastic-in-out-5: cubic-bezier(.5, -.9, .1, 1.5);
+  --ease-step-1: steps(2);
+  --ease-step-2: steps(3);
+  --ease-step-3: steps(4);
+  --ease-step-4: steps(7);
+  --ease-step-5: steps(10);
+  --ease-elastic-1: var(--ease-elastic-out-1);
+  --ease-elastic-2: var(--ease-elastic-out-2);
+  --ease-elastic-3: var(--ease-elastic-out-3);
+  --ease-elastic-4: var(--ease-elastic-out-4);
+  --ease-elastic-5: var(--ease-elastic-out-5);
+  --ease-squish-1: var(--ease-elastic-in-out-1);
+  --ease-squish-2: var(--ease-elastic-in-out-2);
+  --ease-squish-3: var(--ease-elastic-in-out-3);
+  --ease-squish-4: var(--ease-elastic-in-out-4);
+  --ease-squish-5: var(--ease-elastic-in-out-5);
+  --ease-spring-1: linear(0, 0.006, 0.025 2.8%, 0.101 6.1%, 0.539 18.9%, 0.721 25.3%, 0.849 31.5%,
+        0.937 38.1%, 0.968 41.8%, 0.991 45.7%, 1.006 50.1%, 1.015 55%, 1.017 63.9%,
+        1.001);
+  --ease-spring-2: linear(0, 0.007, 0.029 2.2%, 0.118 4.7%, 0.625 14.4%, 0.826 19%, 0.902, 0.962,
+        1.008 26.1%, 1.041 28.7%, 1.064 32.1%, 1.07 36%, 1.061 40.5%, 1.015 53.4%,
+        0.999 61.6%, 0.995 71.2%, 1);
+  --ease-spring-3: linear(0, 0.009, 0.035 2.1%, 0.141 4.4%, 0.723 12.9%, 0.938 16.7%, 1.017, 1.077,
+        1.121, 1.149 24.3%, 1.159, 1.163, 1.161, 1.154 29.9%, 1.129 32.8%,
+        1.051 39.6%, 1.017 43.1%, 0.991, 0.977 51%, 0.974 53.8%, 0.975 57.1%,
+        0.997 69.8%, 1.003 76.9%, 1);
+  --ease-spring-4: linear(0, 0.009, 0.037 1.7%, 0.153 3.6%, 0.776 10.3%, 1.001, 1.142 16%, 1.185,
+        1.209 19%, 1.215 19.9% 20.8%, 1.199, 1.165 25%, 1.056 30.3%, 1.008 33%, 0.973,
+        0.955 39.2%, 0.953 41.1%, 0.957 43.3%, 0.998 53.3%, 1.009 59.1% 63.7%,
+        0.998 78.9%, 1);
+  --ease-spring-5: linear(0, 0.01, 0.04 1.6%, 0.161 3.3%, 0.816 9.4%, 1.046, 1.189 14.4%, 1.231,
+        1.254 17%, 1.259, 1.257 18.6%, 1.236, 1.194 22.3%, 1.057 27%, 0.999 29.4%,
+        0.955 32.1%, 0.942, 0.935 34.9%, 0.933, 0.939 38.4%, 1 47.3%, 1.011,
+        1.017 52.6%, 1.016 56.4%, 1 65.2%, 0.996 70.2%, 1.001 87.2%, 1);
+  --ease-bounce-1: linear(0, 0.004, 0.016, 0.035, 0.063, 0.098, 0.141, 0.191, 0.25, 0.316, 0.391 36.8%,
+        0.563, 0.766, 1 58.8%, 0.946, 0.908 69.1%, 0.895, 0.885, 0.879, 0.878, 0.879,
+        0.885, 0.895, 0.908 89.7%, 0.946, 1);
+  --ease-bounce-2: linear(0, 0.004, 0.016, 0.035, 0.063, 0.098, 0.141 15.1%, 0.25, 0.391, 0.562, 0.765,
+        1, 0.892 45.2%, 0.849, 0.815, 0.788, 0.769, 0.757, 0.753, 0.757, 0.769, 0.788,
+        0.815, 0.85, 0.892 75.2%, 1 80.2%, 0.973, 0.954, 0.943, 0.939, 0.943, 0.954,
+        0.973, 1);
+  --ease-bounce-3: linear(0, 0.004, 0.016, 0.035, 0.062, 0.098, 0.141 11.4%, 0.25, 0.39, 0.562, 0.764,
+        1 30.3%, 0.847 34.8%, 0.787, 0.737, 0.699, 0.672, 0.655, 0.65, 0.656, 0.672,
+        0.699, 0.738, 0.787, 0.847 61.7%, 1 66.2%, 0.946, 0.908, 0.885 74.2%, 0.879,
+        0.878, 0.879, 0.885 79.5%, 0.908, 0.946, 1 87.4%, 0.981, 0.968, 0.96, 0.957,
+        0.96, 0.968, 0.981, 1);
+  --ease-bounce-4: linear(0, 0.004, 0.016 3%, 0.062, 0.141, 0.25, 0.391, 0.562 18.2%, 1 24.3%, 0.81,
+        0.676 32.3%, 0.629, 0.595, 0.575, 0.568, 0.575, 0.595, 0.629, 0.676 48.2%,
+        0.811, 1 56.2%, 0.918, 0.86, 0.825, 0.814, 0.825, 0.86, 0.918, 1 77.2%,
+        0.94 80.6%, 0.925, 0.92, 0.925, 0.94 87.5%, 1 90.9%, 0.974, 0.965, 0.974, 1);
+  --ease-bounce-5: linear(0, 0.004, 0.016 2.5%, 0.063, 0.141, 0.25 10.1%, 0.562, 1 20.2%, 0.783, 0.627,
+        0.534 30.9%, 0.511, 0.503, 0.511, 0.534 38%, 0.627, 0.782, 1 48.7%, 0.892,
+        0.815, 0.769 56.3%, 0.757, 0.753, 0.757, 0.769 61.3%, 0.815, 0.892, 1 68.8%,
+        0.908 72.4%, 0.885, 0.878, 0.885, 0.908 79.4%, 1 83%, 0.954 85.5%, 0.943,
+        0.939, 0.943, 0.954 90.5%, 1 93%, 0.977, 0.97, 0.977, 1);
+  --ease-circ-in: cubic-bezier(.6, .04, .98, .335);
+  --ease-circ-in-out: cubic-bezier(.785, .135, .15, .86);
+  --ease-circ-out: cubic-bezier(.075, .82, .165, 1);
+  --ease-cubic-in: cubic-bezier(.55, .055, .675, .19);
+  --ease-cubic-in-out: cubic-bezier(.645, .045, .355, 1);
+  --ease-cubic-out: cubic-bezier(.215, .61, .355, 1);
+  --ease-expo-in: cubic-bezier(.95, .05, .795, .035);
+  --ease-expo-in-out: cubic-bezier(1, 0, 0, 1);
+  --ease-expo-out: cubic-bezier(.19, 1, .22, 1);
+  --ease-quad-in: cubic-bezier(.55, .085, .68, .53);
+  --ease-quad-in-out: cubic-bezier(.455, .03, .515, .955);
+  --ease-quad-out: cubic-bezier(.25, .46, .45, .94);
+  --ease-quart-in: cubic-bezier(.895, .03, .685, .22);
+  --ease-quart-in-out: cubic-bezier(.77, 0, .175, 1);
+  --ease-quart-out: cubic-bezier(.165, .84, .44, 1);
+  --ease-quint-in: cubic-bezier(.755, .05, .855, .06);
+  --ease-quint-in-out: cubic-bezier(.86, 0, .07, 1);
+  --ease-quint-out: cubic-bezier(.23, 1, .32, 1);
+  --ease-sine-in: cubic-bezier(.47, 0, .745, .715);
+  --ease-sine-in-out: cubic-bezier(.445, .05, .55, .95);
+  --ease-sine-out: cubic-bezier(.39, .575, .565, 1);
+  --shadow-color: 220 3% 15%;
+  --shadow-strength: 1%;
+  --inner-shadow-highlight: inset 0 -.5px 0 0 #fff,inset 0 .5px 0 0 #0001;
+  --shadow-1: 0 1px 2px -1px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 9%));
+  --shadow-2: 0 3px 5px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 3%)),0 7px 14px -5px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 5%));
+  --shadow-3: 0 -1px 3px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 2%)),0 1px 2px -5px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 2%)),0 2px 5px -5px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 4%)),0 4px 12px -5px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 5%)),0 12px 15px -5px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 7%));
+  --shadow-4: 0 -2px 5px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 2%)),0 1px 1px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 3%)),0 2px 2px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 3%)),0 5px 5px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 4%)),0 9px 9px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 5%)),0 16px 16px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 6%));
+  --shadow-5: 0 -1px 2px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 2%)),0 2px 1px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 3%)),0 5px 5px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 3%)),0 10px 10px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 4%)),0 20px 20px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 5%)),0 40px 40px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 7%));
+  --shadow-6: 0 -1px 2px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 2%)),0 3px 2px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 3%)),0 7px 5px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 3%)),0 12px 10px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 4%)),0 22px 18px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 5%)),0 41px 33px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 6%)),0 100px 80px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 7%));
+  --inner-shadow-0: inset 0 0 0 1px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 9%));
+  --inner-shadow-1: inset 0 1px 2px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 9%)),var(--inner-shadow-highlight);
+  --inner-shadow-2: inset 0 1px 4px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 9%)),var(--inner-shadow-highlight);
+  --inner-shadow-3: inset 0 2px 8px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 9%)),var(--inner-shadow-highlight);
+  --inner-shadow-4: inset 0 2px 14px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 9%)),var(--inner-shadow-highlight);
+  --animation-fade-in: fade-in .5s var(--ease-3);
+  --animation-fade-in-bloom: fade-in-bloom 2s var(--ease-3);
+  --animation-fade-out: fade-out .5s var(--ease-3);
+  --animation-fade-out-bloom: fade-out-bloom 2s var(--ease-3);
+  --animation-scale-up: scale-up .5s var(--ease-3);
+  --animation-scale-down: scale-down .5s var(--ease-3);
+  --animation-slide-out-up: slide-out-up .5s var(--ease-3);
+  --animation-slide-out-down: slide-out-down .5s var(--ease-3);
+  --animation-slide-out-right: slide-out-right .5s var(--ease-3);
+  --animation-slide-out-left: slide-out-left .5s var(--ease-3);
+  --animation-slide-in-up: slide-in-up .5s var(--ease-3);
+  --animation-slide-in-down: slide-in-down .5s var(--ease-3);
+  --animation-slide-in-right: slide-in-right .5s var(--ease-3);
+  --animation-slide-in-left: slide-in-left .5s var(--ease-3);
+  --animation-shake-x: shake-x .75s var(--ease-out-5);
+  --animation-shake-y: shake-y .75s var(--ease-out-5);
+  --animation-shake-z: shake-z 1s var(--ease-in-out-3);
+  --animation-spin: spin 2s linear infinite;
+  --animation-ping: ping 5s var(--ease-out-3) infinite;
+  --animation-blink: blink 1s var(--ease-out-3) infinite;
+  --animation-float: float 3s var(--ease-in-out-3) infinite;
+  --animation-bounce: bounce 2s var(--ease-squish-2) infinite;
+  --animation-pulse: pulse 2s var(--ease-out-3) infinite;
+  --bganimation-pantop: bg-pan-top 15s infinite alternate both;
+  --bganimation-panbtm: bg-pan-bottom 15s;
+  --bganimation-panleft: bg-pan-left 15s infinite alternate both;
+  --bganimation-panright: bg-pan-right 15s infinite alternate both
+}
+@keyframes fade-in {
+  to {
+    opacity: 1
+  }
+}
+@keyframes fade-in-bloom {
+  0% {
+    opacity: 0;
+    filter: brightness(1) blur(35px)
+  }
+  10% {
+    opacity: .4;
+    filter: brightness(2) blur(20px)
+  }
+  50% {
+    opacity: .7;
+    filter: brightness(3) blur(10px)
+  }
+  80% {
+    opacity: .9;
+    filter: brightness(2) blur(7px)
+  }
+  100% {
+    opacity: 1;
+    filter: brightness(1) blur(0)
+  }
+}
+@keyframes fade-out {
+  to {
+    opacity: 0
+  }
+}
+@keyframes fade-out-bloom {
+  100% {
+    opacity: 0;
+    filter: brightness(1) blur(20px)
+  }
+  10% {
+    opacity: 1;
+    filter: brightness(2) blur(10px)
+  }
+  0% {
+    opacity: 1;
+    filter: brightness(1) blur(0)
+  }
+}
+@keyframes scale-up {
+  to {
+    transform: scale(1.25)
+  }
+}
+@keyframes scale-down {
+  to {
+    transform: scale(.75)
+  }
+}
+@keyframes slide-out-up {
+  to {
+    transform: translateY(-100%)
+  }
+}
+@keyframes slide-out-down {
+  to {
+    transform: translateY(100%)
+  }
+}
+@keyframes slide-out-right {
+  to {
+    transform: translateX(100%)
+  }
+}
+@keyframes slide-out-left {
+  to {
+    transform: translateX(-100%)
+  }
+}
+@keyframes slide-in-up {
+  from {
+    transform: translateY(100%)
+  }
+}
+@keyframes slide-in-down {
+  from {
+    transform: translateY(-100%)
+  }
+}
+@keyframes slide-in-right {
+  from {
+    transform: translateX(-100%)
+  }
+}
+@keyframes slide-in-left {
+  from {
+    transform: translateX(100%)
+  }
+}
+@keyframes shake-x {
+  0%,
+  100% {
+    transform: translateX(0)
+  }
+  20%,
+  60% {
+    transform: translateX(-5%)
+  }
+  40%,
+  80% {
+    transform: translateX(5%)
+  }
+}
+@keyframes shake-y {
+  0%,
+  100% {
+    transform: translateY(0)
+  }
+  20%,
+  60% {
+    transform: translateY(-5%)
+  }
+  40%,
+  80% {
+    transform: translateY(5%)
+  }
+}
+@keyframes shake-z {
+  0%,
+  100% {
+    transform: rotate(0)
+  }
+  20%,
+  60% {
+    transform: rotate(-2deg)
+  }
+  40%,
+  80% {
+    transform: rotate(2deg)
+  }
+}
+@keyframes spin {
+  to {
+    transform: rotate(1turn)
+  }
+}
+@keyframes ping {
+  100%,
+  90% {
+    transform: scale(2);
+    opacity: 0
+  }
+}
+@keyframes blink {
+  0%,
+  100% {
+    opacity: 1
+  }
+  50% {
+    opacity: .5
+  }
+}
+@keyframes float {
+  50% {
+    transform: translateY(-25%)
+  }
+}
+@keyframes bounce {
+  25% {
+    transform: translateY(-20%)
+  }
+  40% {
+    transform: translateY(-3%)
+  }
+  0%,
+  100%,
+  60% {
+    transform: translateY(0)
+  }
+}
+@keyframes pulse {
+  50% {
+    transform: scale(.9,.9)
+  }
+}
+@keyframes bg-pan-top {
+  0% {
+    background-position: 50% 100%
+  }
+  100% {
+    background-position: 50% 0
+  }
+}
+@keyframes bg-pan-bottom {
+  0% {
+    background-position: 50% 0
+  }
+  100% {
+    background-position: 50% 100%
+  }
+}
+@keyframes bg-pan-left {
+  0% {
+    background-position: 100% 50%
+  }
+  100% {
+    background-position: 0 50%
+  }
+}
+@keyframes bg-pan-right {
+  0% {
+    background-position: 0 50%
+  }
+  100% {
+    background-position: 100% 50%
+  }
+}
+@keyframes fade-in-right {
+  0% {
+    transform: translateX(50px);
+    opacity: 0
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1
+  }
+}
+.fade-up-and-in {
+  opacity: 0;
+  animation: var(--animation-fade-in) forwards,var(--animation-slide-in-up) forwards;
+  animation-delay: .3s,0s;
+  animation-duration: .7s,1s
+}
+@media (--OSdark) {
+  @keyframes fade-in-bloom {
+    0% {
+      opacity: 0;
+      filter: brightness(1) blur(20px)
+    }
+    10% {
+      opacity: 1;
+      filter: brightness(.5) blur(10px)
+    }
+    100% {
+      opacity: 1;
+      filter: brightness(1) blur(0)
+    }
+  }
+  @keyframes fade-out-bloom {
+    100% {
+      opacity: 0;
+      filter: brightness(1) blur(20px)
+    }
+    10% {
+      opacity: 1;
+      filter: brightness(.5) blur(10px)
+    }
+    0% {
+      opacity: 1;
+      filter: brightness(1) blur(0)
+    }
+  }
+  :where(html) {
+    --shadow-color: 220 40% 2%;
+    --shadow-strength: 25%;
+    --inner-shadow-highlight: inset 0 -.5px 0 0 #fff1,inset 0 .5px 0 0 #0007
+  }
+}
+@custom-media --motionOK (prefers-reduced-motion: no-preference);
+@custom-media --motionNotOK (prefers-reduced-motion: reduce);
+@custom-media --opacityOK (prefers-reduced-transparency: no-preference);
+@custom-media --opacityNotOK (prefers-reduced-transparency: reduce);
+@custom-media --useDataOK (prefers-reduced-data: no-preference);
+@custom-media --useDataNotOK (prefers-reduced-data: reduce);
+@custom-media --OSdark (prefers-color-scheme: dark);
+@custom-media --OSlight (prefers-color-scheme: light);
+@custom-media --highContrast (prefers-contrast: more);
+@custom-media --lowContrast (prefers-contrast: less);
+@custom-media --invertedColors (inverted-colors: inverted);
+@custom-media --forcedColors (forced-colors: active);
+@custom-media --portrait (orientation: portrait);
+@custom-media --landscape (orientation: landscape);
+@custom-media --HDcolor (dynamic-range: high) or (color-gamut: p3);
+@custom-media --touch (hover: none) and (pointer: coarse);
+@custom-media --stylus (hover: none) and (pointer: fine);
+@custom-media --pointer (hover) and (pointer: coarse);
+@custom-media --mouse (hover) and (pointer: fine);
+*,
+::after,
+::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box
+}
+html {
+  font-size: 100%
+}
+body {
+  min-height: 100dvh;
+  line-height: var(--yck-text-line-height);
+  word-break: break-word;
+  overflow-wrap: break-word;
+  scroll-behavior: smooth
+}
+embed,
+iframe,
+img,
+object,
+svg {
+  width: 100%;
+  object-fit: cover
+}
+a {
+  color: inherit;
+  text-decoration: none
+}
+a.button,
+button {
+  padding: 0;
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  background-color: transparent
+}
+label {
+  cursor: pointer
+}
+[class*=" icon-"]:before,
+[class^=icon-]:before {
+  margin: 0 .6em 0 0
+}
+i[class*=" icon-"]:before,
+i[class^=icon-]:before {
+  margin: 0
+}
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline
+}
+sup {
+  top: -.5em
+}
+sub {
+  bottom: -.25em
+}
+b,
+strong {
+  font-weight: 700
+}
+dfn {
+  font-style: italic
+}
+.yck-component {
+  padding: 0;
+  margin: 0;
+  max-width: 845px
+}
+.yck-component * {
+  font-size: var(--yck-step-0)
+}
+.yck-component :is(article,section) {
+  width: 100%
+}
+.yck-component article {
+  margin-block: 1em
+}
+.yck-component section {
+  margin-block: var(--yck-space-s-xl)
+}
+.yck-component .hr,
+.yck-component hr,
+hr {
+  margin-top: 1rem
+}
+.yck-component .deadctr-container {
+  display: grid;
+  margin: 0 auto;
+  padding: 0;
+  justify-items: center;
+  place-items: center
+}
+.yck-component div.content {
+  padding: .65rem;
+  line-height: var(--yck-text-line-height);
+  letter-spacing: normal;
+  text-wrap: pretty
+}
+.yck-component .qr-container {
+  display: flex;
+  gap: var(--yck-space-s-xl);
+  height: 350px;
+  min-width: 100px
+}
+.yck-component .regular-flow > * + * {
+  margin-top: 1.125em
+}
+.yck-component :is(h1,.yck-h1,h2,.yck-h2,h3,.yck-h3,h4,.yck-h4,h5,.yck-h5,h6,.yck-h6,p) {
+  overflow-wrap: break-word
+}
+.yck-component :is(heading,nav,h1,.yck-h1,h2,.yck-h2,h3,.yck-h3,h4,.yck-h4,h5,.yck-h5,h6,.yck-h6) {
+  text-wrap: balance
+}
+.yck-component .yck-h1,
+.yck-component h1 {
+  font-size: var(--yck-step-5);
+  font-weight: 800;
+  line-height: var(--yck-heading-line-height)
+}
+.yck-component .yck-h2,
+.yck-component h2 {
+  font-size: var(--yck-step-4);
+  font-weight: 700;
+  line-height: var(--yck-heading-line-height)
+}
+.yck-component .yck-h3,
+.yck-component h3 {
+  font-size: var(--yck-step-3);
+  font-weight: 600;
+  line-height: var(--yck-heading-line-height)
+}
+.yck-component .yck-h4,
+.yck-component h4 {
+  font-size: var(--yck-step-2);
+  font-weight: 500;
+  line-height: var(--yck-heading-line-height)
+}
+.yck-component .yck-h5,
+.yck-component h5 {
+  font-size: var(--yck-step-1);
+  font-weight: 500;
+  line-height: var(--yck-heading-line-height);
+  text-transform: uppercase
+}
+.yck-component .yck-h6,
+.yck-component h6 {
+  font-size: var(--yck-step-0);
+  line-height: var(--yck-heading-line-height);
+  text-transform: uppercase
+}
+.yck-component .small,
+.yck-component .yck-small,
+.yck-component small {
+  font-size: var(--yck-step--2);
+  line-height: calc(var(--yck-text-line-height) * .75)
+}
+.yck-component ol,
+.yck-component ul {
+  padding: 0;
+  margin-block: 0.5rem;
+  margin-left: 1.5rem
+}
+.yck-component ol li,
+.yck-component ul li {
+  padding-left: .25rem;
+  line-height: 1.5
+}
+.yck-component ol li:last-child,
+.yck-component ul li:last-child {
+  margin-bottom: 1.25rem
+}
+.yck-component li ol,
+.yck-component li ul {
+  margin-top: 0
+}
+::selection {
+  background: rgba(255,255,0,.35)
+}
+.yck-component .quote {
+  margin: 1em 1.4em 1em 5em;
+  padding: 2rem;
+  border-left: .35em solid #a63232;
+  border-radius: var(--yck-rounded-corners);
+  border-bottom: 2px dotted rgba(166,50,50,.7);
+  box-shadow: var(--inner-shadow-1);
+  transition: box-shadow .7s ease-in-out;
+  font-size: var(--yck-step-0);
+  font-weight: 400;
+  line-height: 1.4em;
+  position: relative
+}
+cite {
+  display: block;
+  text-align: right;
+  font-family: var(--font-transitional);
+  font-weight: 500;
+  font-style: oblique;
+  margin-top: 1rem;
+  margin-right: var(--yck-space-s-xl);
+  font-size: var(--yck-step--1)
+}
+.blockquote::before {
+  font-weight: 800;
+  font-style: oblique;
+  text-shadow: 2px 2px 3px rgba(206,60,60,.5),3px 3px 4px rgba(0,0,0,.35);
+  content: "\201C";
+  color: #a63232;
+  font-size: calc(var(--yck-step-4) * 3);
+  position: absolute;
+  left: -.9em;
+  top: .2em
+}
+&:hover {
+  box-shadow: var(--inner-shadow-4);
+  transition: box-shadow .7s ease-in-out
+}
+.yck-component .dropcap-title {
+  margin-bottom: .7em;
+  font-weight: 500;
+  font-size: var(--yck-step-1);
+  font-family: var(--font-antique),serif;
+  color: var(--yck-color-text-primary)
+}
+.yck-component .tooltip {
+  position: relative;
+  display: inline-block;
+  font: inherit;
+  text-decoration: underline dotted;
+  text-underline-offset: 5px
+}
+.yck-component .tooltip__content {
+  position: absolute;
+  bottom: 125%;
+  left: 50%;
+  line-height: var(--yck-heading-line-height);
+  font-size: var(--yck-step--1);
+  transform: translateX(-50%) translateY(-5px);
+  padding: 1em;
+  background: linear-gradient(205deg,var(--neutral-400,.2) -10%,rgba(255,255,255,.3) 65%,var(--neutral-400,.1) 100%);
+  background-color: rgba(255,255,255,.7);
+  color: var(--neutral-600);
+  border-radius: var(--yck-rounded-corners);
+  opacity: 0;
+  pointer-events: none;
+  margin-block: 5px;
+  min-width: 25ch;
+  backdrop-filter: blur(6px) saturate(150%);
+  box-shadow: var(--shadow-6);
+  text-shadow: 3px 3px 4px rgba(0,0,0,.35);
+  transition: opacity .7s,transform .7s;
+  z-index: 1000;
+  border: 1px solid var(--neutral-300)
+}
+.yck-component .tooltip__content::after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 16px solid transparent;
+  border-top-color: rgba(255,255,255,.7);
+  filter: drop-shadow(0 4px 6px rgba(0, 0, 0, .35)) drop-shadow(0 2px 4px rgba(0, 0, 0, .2))
+}
+.yck-component .tooltip:focus-within .tooltip__content,
+.yck-component .tooltip:hover .tooltip__content {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateX(-50%) translateY(0)
+}
+.yck-component .tooltip a {
+  color: var(--neutral-000);
+  font: inherit
+}
+.yck-component a {
+  transition: color .8s;
+  text-decoration: none;
+  color: var(--yck-orange600)
+}
+.yck-component a:active,
+.yck-component a:hover {
+  color: var(--yck-orange500)
+}
+.yck-component a:focus {
+  color: currentColor
+}
+.yck-component a:visited {
+  color: var(--yck-green500)
+}
+.yck-component a.text-link {
+  position: relative;
+  padding-bottom: 2px;
+  text-decoration: none
+}
+.yck-component a.text-link img {
+  display: inline-block;
+  width: var(--yck-step-0);
+  height: var(--yck-step-0);
+  object-fit: contain;
+  vertical-align: middle
+}
+.yck-component a.text-link::after {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 2px;
+  content: "";
+  transition: width 1s var(--ease-elastic-in-out-4);
+  background-color: currentColor
+}
+.yck-component a.text-link:active::after,
+.yck-component a.text-link:focus::after,
+.yck-component a.text-link:hover::after {
+  width: 100%
+}
+.yck-component a:not(.text-link)::after,
+.yck-component a:not(.text-link)::before,
+.yck-component a[target="_blank"]:not(.text-link)::after,
+.yck-component a[target="_blank"]:not(.text-link)::before {
+  display: none!important
+}
+.yck-component .rwd-table {
+  margin-top: 1.5em;
+  margin-bottom: var(--yck-space-s-xl);
+  min-width: 360px
+}
+.yck-component .rwd-table tr {
+  border: 1px solid var(--neutral-600);
+  transition: background-color .7s ease-in-out
+}
+.yck-component .rwd-table tbody tr:nth-child(odd) {
+  background-color: var(--neutral-100);
+  transition: background-color .7s ease-in-out
+}
+.yck-component .rwd-table tbody tr:hover {
+  background-color: var(--yck-orange000);
+  transition: background-color .7s ease-in-out
+}
+.yck-component .rwd-table th {
+  display: none;
+  background-color: var(--neutral-800);
+  color: #fff;
+  font: inherit
+}
+.yck-component .rwd-table td {
+  display: block;
+  border-color: transparent
+}
+.yck-component .rwd-table td::before {
+  content: attr(data-th) ": ";
+  font-size: var(--yck-step-0);
+  font-weight: 700;
+  display: inline-block
+}
+.yck-component .rwd-table td,
+.yck-component .rwd-table th {
+  text-align: left;
+  margin: 0;
+  padding: 1em!important
+}
+@media (min-width:480px) {
+  .yck-component .rwd-table td::before {
+    display: none
+  }
+  .yck-component .rwd-table td,
+  .yck-component .rwd-table th {
+    display: table-cell;
+    border: 1px solid var(--neutral-600);
+    border-color: var(--neutral-200)
+  }
+  .yck-component .rwd-table td:first-child,
+  .yck-component .rwd-table th:first-child {
+    padding-left: 0
+  }
+  .yck-component .rwd-table td:last-child,
+  .yck-component .rwd-table th:last-child {
+    padding-right: 0
+  }
+  .yck-component .rwd-table {
+    background: 0 0;
+    border-radius: var(--yck-rounded-corners);
+    overflow: hidden;
+    width: 100%
+  }
+  @media (min-width:480px) {
+    .yck-component .rwd-table td,
+    .yck-component .rwd-table th {
+      padding: 1em!important
+    }
+  }
+  .yck-component .rwd-table td::before,
+  .yck-component .rwd-table th {
+    color: #fff
+  }
+}
+.yck-component :is(.yck-table,table) {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1.5em;
+  margin-bottom: var(--yck-space-s-xl);
+  overflow: hidden;
+  border: 1px solid var(--neutral-200);
+  border-radius: var(--yck-rounded-corners)
+}
+.yck-component :is(.yck-table,table) :is(th,td) {
+  min-width: 11ch;
+  padding: 1em;
+  vertical-align: top;
+  border: 1px solid var(--neutral-200)
+}
+.yck-component :is(.yck-table,table) th {
+  background: var(--neutral-800);
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 700;
+  line-height: 1.3;
+  letter-spacing: .05em;
+  text-wrap: balance
+}
+.yck-component :is(.yck-table,table) tbody tr {
+  border: 1px solid var(--neutral-600);
+  transition: background-color .7s ease-in-out
+}
+.yck-component :is(.yck-table,table) tbody tr:nth-child(odd) {
+  background: var(--neutral-100)
+}
+.yck-component :is(.yck-table,table) tbody tr:hover {
+  background: var(--yck-orange000)
+}
+.yck-component :is(.yck-table,table) :is(th,td):first-child {
+  font-weight: 700
+}
+.yck-component .yck-td :is(p,li),
+.yck-component td :is(p,li) {
+  line-height: 1.4;
+  text-wrap: pretty;
+  word-wrap: break-word
+}
+.yck-component .yck-td :is(p,ul,ol),
+.yck-component td :is(p,ul,ol) {
+  margin-block: var(--yck-step--2)
+}
+.yck-component .yck-td li,
+.yck-component td li {
+  margin-bottom: calc(var(--yck-spacing-unit) * .5)
+}
+@media (max-width:620px) {
+  .yck-component :is(.yck-table,table) :is(th,td) {
+    padding: calc(var(--yck-spacing-unit) * .25);
+    line-height: 1.3
+  }
+}
+.yck-component .figure,
+.yck-component figure {
+  display: block;
+  border-radius: var(--yck-rounded-corners);
+  padding: 0!important;
+  margin: 0!important;
+  margin-bottom: var(--yck-spacing-unit);
+  overflow: hidden
+}
+.yck-component .figure img,
+.yck-component figure img {
+  border-radius: var(--yck-rounded-corners);
+  overflow: hidden;
+  width: 100%;
+  object-fit: contain
+}
+.yck-component :is(figcaption,.caption) {
+  display: block;
+  padding-top: .35rem!important;
+  margin-bottom: var(--yck-space-s-xl);
+  font-family: var(--font-old-style);
+  font-size: var(--yck-step-0);
+  font-style: oblique;
+  font-weight: 300;
+  color: #444;
+  text-align: center;
+  line-height: var(--yck-heading-line-height)
+}
+.yck-component .contact-card * {
+  margin: 0;
+  padding: 0
+}
+.yck-component .contact-card {
+  display: flex;
+  flex: 1 0;
+  background: #fff;
+  background: linear-gradient(to right,rgba(255,180,10,.8) 3%,rgba(255,180,10,.6) 23%,rgba(255,200,10,.4) 53%,rgba(255,200,10,.2) 70%,rgba(255,255,255,.8) 85%,rgba(255,255,255,.1));
+  border: 1px solid #e0e0e0;
+  border-radius: 25px 0;
+  padding: calc(var(--yck-step-5)*1.35);
+  transition: .5s ease-in-out;
+  box-shadow: 0 2px 4px rgba(0,0,0,.08);
+  cursor: pointer;
+  position: relative;
+  flex-direction: column;
+  justify-content: center;
+  filter: saturate(15%);
+  min-width: fit-content;
+  min-height: 120px
+}
+.yck-component .contact-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0,0,0,.15);
+  border: 1px dotted #fca;
+  background: #fff;
+  background: linear-gradient(to right,rgba(255,180,10,.8) 3%,rgba(255,180,10,.6) 23%,rgba(255,200,10,.4) 53%,rgba(255,200,10,.2) 70%,rgba(255,255,255,.8) 85%,rgba(255,255,255,.1));
+  filter: saturate(100%)
+}
+.yck-component .contact-card:focus-visible {
+  outline-offset: 2px;
+  outline: #007acc solid 3px;
+  outline-offset: 2px
+}
+.yck-component .line1,
+.yck-component .line2 {
+  position: absolute;
+  left: 1.25em;
+  right: 1.05em;
+  background: 0 0;
+  transition: all 1s var(--ease-squish-3)
+}
+.yck-component .line1 {
+  top: 50%;
+  transform: translateY(-50%);
+  opacity: 1;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: .5rem
+}
+.yck-component .line2 {
+  top: 100%;
+  transform: translateY(-50%);
+  opacity: 0;
+  line-height: 1.25
+}
+.yck-component .contact-card:focus-visible .line1,
+.yck-component .contact-card:hover .line1 {
+  top: -20%;
+  opacity: 0
+}
+.yck-component .contact-card:focus-visible .line2,
+.yck-component .contact-card:hover .line2 {
+  top: 50%;
+  opacity: 1
+}
+.yck-component .contact-card .role {
+  font-size: calc(var(--yck-step-2)*.9);
+  font-weight: 300;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: .5px;
+  background: rgba(204,143,0,.8);
+  padding: .25rem .5rem;
+  border-radius: 4px;
+  text-shadow: 2px 2px 3px rgba(206,60,60,.5),3px 3px 4px rgba(0,0,0,.35);
+  transition: .5s
+}
+.yck-component .contact-card:hover .role {
+  background: 0 0
+}
+.yck-component .contact-card .dept {
+  font-size: var(--yck-step-3);
+  font-weight: 700;
+  color: #555;
+  text-transform: capitalize;
+  text-shadow: 2px 2px 3px rgba(206,60,60,.5),3px 3px 4px rgba(0,0,0,.35)
+}
+.yck-component .contact-card .name {
+  font-family: var(--font-transitional);
+  font-size: calc(var(--yck-step-3)*.95);
+  font-weight: 700;
+  color: var(--neutral-100);
+  line-height: .9;
+  display: inline-block;
+  text-shadow: 2px 2px 3px rgba(206,60,60,.5),3px 3px 4px rgba(0,0,0,.35);
+  transition: .5s
+}
+.yck-component .contact-card abbr {
+  font-family: var(--font-transitional);
+  font-weight: 700;
+  font-size: calc(var(--yck-step-3)*.95);
+  cursor: help;
+  transition: color .7s;
+  text-decoration: underline dotted;
+  color: currentColor;
+  text-decoration-thickness: 2px;
+  text-shadow: 2px 2px 3px rgba(206,60,60,.5),3px 3px 4px rgba(0,0,0,.35);
+  text-underline-offset: 3px
+}
+.yck-component .contact-card:focus-visible .name,
+.yck-component .contact-card:hover .name {
+  color: var(--yck-orange900);
+  transition: .5s;
+  font-weight: 700
+}
+.yck-component .contact-card .ext {
+  font-family: var(--font-transitional);
+  font-size: var(--yck-step-1);
+  font-weight: 300;
+  padding: .25rem .5rem;
+  color: #fff;
+  font-style: oblique;
+  text-transform: capitalize;
+  display: inline-block;
+  letter-spacing: .1px;
+  background: rgba(204,143,0,.7);
+  border-radius: 0 8px;
+  text-shadow: 2px 2px 3px rgba(206,60,60,.5),3px 3px 4px rgba(0,0,0,.35);
+  transition: .5s
+}
+@media (prefers-reduced-motion:reduce) {
+  .yck-component .line1,
+  .yck-component .line2 {
+    transition: .5s
+  }
+  .yck-component .contact-card:focus .line1,
+  .yck-component .contact-card:focus .line2,
+  .yck-component .contact-card:hover .line1,
+  .yck-component .contact-card:hover .line2 {
+    top: 50%;
+    transform: translateY(-50%)
+  }
+}
+.yck-component .contact-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(135deg,rgba(73,139,90,.04) 0,rgba(73,139,90,.09) 100%);
+  opacity: 0;
+  transition: .5s ease-in-out;
+  z-index: 10
+}
+.yck-component .contact-card:focus::before,
+.yck-component .contact-card:hover::before {
+  opacity: 1
+}
+.yck-component .info-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 1em;
+  margin: 0 auto
+}
+.yck-component .info-container * {
+  margin: 0;
+  padding: 0
+}
+.yck-component .infocard {
+  flex: 1 0;
+  min-width: 280px;
+  background: linear-gradient(205deg,var(--neutral-100,.2) -10%,rgba(255,255,255,.3) 65%,var(--neutral-100,.1) 100%);
+  border-radius: var(--yck-rounded-corners);
+  padding: 1.15em;
+  box-shadow: var(--shadow-1);
+  transition: transform .2s,box-shadow .2s;
+  display: flex;
+  align-content: stretch;
+  flex-direction: column;
+  border: 1px dashed #999
+}
+.yck-component .infocard:active,
+.yck-component .infocard:focus-visible,
+.yck-component .infocard:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-4)
+}
+@media (max-width:576px) {
+  .yck-component .infocard {
+    flex: 1 0 calc(33.333% - 0.75em);
+    min-width: 320px
+  }
+}
+@media (max-width:420px) {
+  .yck-component .infocard {
+    flex: 1 0 calc(50% - .5em);
+    min-width: 100%
+  }
+}
+.yck-component .cards {
+  display: flex;
+  flex-direction: column;
+  background: 0 0;
+  overflow: hidden;
+  min-width: 280px;
+  border-radius: var(--yck-rounded-corners);
+  backdrop-filter: blur(50px) brightness(1.7) saturate(1.4)
+}
+.yck-component .card__header {
+  font-size: var(--yck-step-1);
+  font-weight: 900;
+  text-transform: uppercase;
+  padding-block: 0.5em!important;
+  padding-inline: 0.75em!important;
+  color: var(--neutral-900)
+}
+.yck-component .card__body {
+  padding-inline: 1em!important;
+  color: #333;
+  flex: 1
+}
+.yck-component .card__footer {
+  padding-bottom: .75em!important;
+  font-size: var(--yck-step--1);
+  font-style: oblique;
+  font-weight: 300;
+  text-align: center;
+  color: var(--neutral-700)
+}
+.yck-component .flex-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--yck-spacing-unit);
+  margin-block: 1em!important
+}
+.yck-component .flex-grow {
+  flex: 1 0 calc(33% - var(--yck-spacing-unit))
+}
+.yck-component .flex-grow__tight {
+  flex: 1 1 calc(22% - 0.5em)
+}
+.yck-component .flex-grow__loose {
+  flex: 1 0 calc(66% - var(--yck-spacing-unit))
+}
+.yck-component .center-text {
+  text-align: center
+}
+.yck-component .align-start {
+  align-items: flex-start
+}
+.yck-component .align-center {
+  align-content: center
+}
+.yck-component .justify-start {
+  justify-content: flex-start
+}
+.yck-component .justify-center {
+  justify-content: center
+}
+.yck-component .flex-3 {
+  flex: 3
+}
+.yck-component .flex-2 {
+  flex: 2
+}
+.yck-component .flex-1 {
+  flex: 1
+}
+.yck-component .cards.yck__card {
+  flex: 1 0 calc(22% - var(--yck-spacing-unit));
+  border: 1px solid var(--yck-orange300);
+  background: linear-gradient(145deg,rgba(255,255,255,0) 0,rgba(255,233,193,.8) 100%)
+}
+.yck-component .cards.yck__flexitem {
+  font-size: var(--yck-step--2);
+  background: linear-gradient(135deg,rgba(255,255,255,0) 0,#fff 100%);
+  flex: 1 0 calc(33% - var(--yck-spacing-unit));
+  justify-content: flex-start;
+  align-content: flex-start;
+  transition: all 1s var(--ease-elastic-in-out-4)
+}
+.yck-component .autofit-grid {
+  display: grid;
+  gap: var(--yck-spacing-unit);
+  margin-inline: auto;
+  margin-top: 1.5em;
+  margin-bottom: var(--yck-space-s-xl);
+  grid-template-columns: repeat(auto-fit,minmax(280px,2fr))
+}
+.yck-component .grid-item {
+  display: flex;
+  gap: .5em;
+  padding: var(--yck-spacing-unit);
+  font-size: var(--yck-step-0);
+  font-weight: 400;
+  box-shadow: var(--shadow-1);
+  transition: transform .5s,box-shadow .8s var(--ease-elastic-in-out-4);
+  text-align: left;
+  color: var(--neutral-700);
+  border-radius: var(--yck-rounded-corners);
+  border: 1px solid #ccc;
+  background: linear-gradient(135deg,rgba(255,255,255,.95) 0,rgba(255,255,255,0) 100%);
+  align-items: stretch;
+  align-content: stretch;
+  justify-content: left
+}
+.yck-component .flexrow {
+  flex-direction: row
+}
+.yck-component .flexcol {
+  flex-direction: column
+}
+.yck-component .grid-item:hover {
+  transform: scale(1.025);
+  box-shadow: var(--shadow-6)
+}
+.yck-component .grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px
+}
+@media (min-width:640px) {
+  .yck-component .grid {
+    grid-template-columns: 1fr 1fr
+  }
+}
+.yck-component .card {
+  margin: 0 auto;
+  background: rgba(255,255,255,.65);
+  border-radius: var(--yck-rounded-corners);
+  overflow: hidden;
+  box-shadow: var(--inner-shadow-3)
+}
+.yck-component .photos {
+  display: grid;
+  grid-template-columns: 1fr 1fr
+}
+.yck-component .photos img {
+  width: 100%;
+  aspect-ratio: 3/4;
+  object-fit: cover;
+  display: block
+}
+.yck-component .isomer-card-grid {
+  margin: 0 auto;
+  overflow: hidden;
+  padding: 1em;
+  border-radius: var(--yck-rounded-corners)
+}
+.yck-component .isomer-card {
+  padding: 0;
+  margin: 0 auto;
+  overflow: hidden;
+  box-shadow: var(--shadow-1);
+  transition: transform .8s var(--yck-transition-timing),box-shadow .8s var(--yck-transition-timing);
+  text-decoration: none;
+  border: 1px solid rgba(224,224,224,.15);
+  border-radius: var(--yck-rounded-corners)
+}
+.yck-component .isomer-card:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--shadow-3)
+}
+.yck-component .isomer-card:hover .isomer-card-body .isomer-card-link {
+  color: var(--yck-orange700)
+}
+.yck-component .isomer-card:has(img) {
+  transition: filter .8s var(--yck-transition-timing);
+  filter: brightness(100%)
+}
+.yck-component .isomer-card:has(img):active,
+.yck-component .isomer-card:has(img):focus,
+.yck-component .isomer-card:has(img):hover {
+  filter: brightness(110%) saturate(110%)
+}
+.yck-component .isomer-card .isomer-card-image {
+  width: 100%;
+  object-fit: cover
+}
+.yck-component .isomer-card .isomer-card-body {
+  padding: var(--yck-spacing-unit)
+}
+.yck-component .isomer-card .isomer-card-body .isomer-card-title {
+  font-size: var(--yck-step-1);
+  font-weight: 700;
+  text-wrap: balance;
+  color: var(--neutral-900);
+  overflow-wrap: break-word
+}
+.yck-component .isomer-card .isomer-card-body .isomer-card-description {
+  font-size: var(--yck-step-0)
+}
+.yck-component .isomer-card .isomer-card-body .isomer-card-link {
+  display: inline-block;
+  font-size: var(--yck-step-0);
+  text-decoration: none;
+  color: var(--yck-orange600)
+}
+.yck-component .isomer-card .isomer-card-body .isomer-card-title:has(+ .isomer-card-description) {
+  margin-bottom: .75rem
+}
+.yck-component :is(.columns2,.columns3,.columns) {
+  column-width: 30ch;
+  column-gap: 1.5em;
+  margin-top: 1em;
+  margin-bottom: var(--yck-space-s-xl);
+  column-rule: 1px dotted lightgrey;
+  column-fill: balance;
+  break-inside: avoid;
+  page-break-inside: avoid
+}
+.yck-component .masonry {
+  column-width: 240px;
+  column-gap: .85em;
+  margin-bottom: var(--yck-space-s-xl)
+}
+.yck-component details .content {
+  margin-inline: 1.5em;
+  padding-block: 1em
+}
+.yck-component details::details-content {
+  opacity: 0
+}
+.yck-component details[open]::details-content {
+  opacity: 1
+}
+.yck-component details[open] {
+  background-color: rgb(250,250,250,.3);
+  box-shadow: var(--inner-shadow-4)
+}
+.yck-component details summary {
+  position: relative;
+  padding: .75em;
+  font-size: var(--yck-step-1);
+  font-weight: 800;
+  list-style-position: outside;
+  cursor: pointer;
+  user-select: none;
+  outline: 0;
+  transition: background-color .7s ease-in-out,box-shadow .7s ease-in-out;
+  box-shadow: var(--inner-shadow-4)
+}
+.yck-component details summary:active,
+.yck-component details summary:hover {
+  background-color: rgba(255,233,193,.4);
+  box-shadow: var(--inner-shadow-1)
+}
+.yck-component details[open]:hover {
+  background-color: rgba(255,233,193,.3);
+  box-shadow: var(--inner-shadow-1)
+}
+.yck-component details summary::marker {
+  content: ""
+}
+.yck-component details summary::after {
+  position: absolute;
+  top: 50%;
+  right: 1rem;
+  font-size: var(--yck-step-2);
+  line-height: 1;
+  content: "+";
+  transition: transform .7s ease-in-out;
+  transform: translateY(-50%) rotate(0)
+}
+.yck-component details[open] > summary::after {
+  transform: translateY(-50%) rotate(135deg)
+}
+.yck-component details[open] > :not(summary) {
+  animation: .8s ease-in-out both fade-in-bloom
+}
+.yck-component .video-container {
+  position: relative;
+  width: 100%;
+  margin-bottom: var(--yck-space-s-xl);
+  overflow: hidden;
+  border-radius: var(--yck-rounded-corners)
+}
+.yck-component .video-container embed,
+.yck-component .video-container iframe,
+.yck-component .video-container object {
+  aspect-ratio: var(--ratio-widescreen);
+  width: 100%;
+  height: 100%
+}
+.yck-component .subline {
+  font-size: .8rem;
+  font-weight: 300;
+  letter-spacing: .2em;
+  text-transform: uppercase;
+  color: #6a7c5b;
+  margin-bottom: 28px
+}
+.yck-component .video-wrapper {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  border-radius: var(--yck-rounded-corners)
+}
+.yck-component .video-wrapper iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border: none;
+  display: block
+}
+.yck-component .video-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 0 0 20px 32px;
+  background: linear-gradient(to top,#000 0,rgba(0,0,0,.85) 30%,rgba(0,0,0,.6) 65%,rgba(0,0,0,.02) 100%);
+  opacity: 0;
+  transition: .5s;
+  pointer-events: none;
+  text-align: left
+}
+.yck-component .video-wrapper:hover .video-overlay {
+  opacity: 1;
+  filter: grayscale(75%) saturate(150%);
+  backdrop-filter: blur(10px)
+}
+.yck-component .video-overlay p {
+  color: #fff;
+  font-size: calc(var(--yck-step-0)*.85);
+  font-weight: 400;
+  line-height: 1.6;
+  max-width: 50ch
+}
+.yck-component .video-overlay .tag {
+  display: inline-block;
+  font-size: calc(var(--yck-step-0)*.65);
+  font-weight: 600;
+  letter-spacing: .18em;
+  text-transform: uppercase;
+  color: #a8cc88;
+  margin-bottom: var(--yck-spacing-unit)
+}
+.yck-component .caption {
+  padding-bottom: .75em!important;
+  margin-block: .5em!important;
+  font-family: var(--font-old-style);
+  font-size: calc(var(--yck-step-0)*.9);
+  font-style: oblique;
+  font-weight: 300;
+  color: #444;
+  text-align: center;
+  line-height: var(--yck-heading-line-height)
+}
+.yck-component .buttontotop {
+  position: relative;
+  display: flex;
+  width: var(--yck-step-3);
+  height: var(--yck-step-3);
+  overflow: hidden;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all .5s var(--ease-elastic-in-out-4);
+  border: none;
+  border-radius: 50%;
+  background-color: var(--yck-orange500);
+  box-shadow: 0 0 0 4px var(--yck-orange200);
+  align-items: center;
+  justify-content: center
+}
+.yck-component .svgIcon {
+  width: var(--yck-step--1);
+  transition: .5s var(--ease-elastic-in-out-4)
+}
+.yck-component .svgIcon path {
+  fill: white
+}
+.yck-component .buttontotop:active,
+.yck-component .buttontotop:focus-visible,
+.yck-component .buttontotop:hover {
+  width: 13ch;
+  transition: .5s var(--ease-elastic-in-out-4);
+  border-radius: 60px;
+  background-color: var(--yck-orange600);
+  align-items: center
+}
+.yck-component .buttontotop:active .svgIcon,
+.yck-component .buttontotop:focus-visible .svgIcon,
+.yck-component .buttontotop:hover .svgIcon {
+  width: var(--yck-step--1);
+  transition: .5s var(--ease-elastic-in-out-4);
+  transform: translateY(-200%)
+}
+.yck-component .buttontotop::before {
+  position: absolute;
+  font-size: 0;
+  content: "Back to Top";
+  transition: .5s var(--ease-elastic-in-out-4);
+  color: #fff
+}
+.yck-component .buttontotop:active::before,
+.yck-component .buttontotop:focus-visible::before,
+.yck-component .buttontotop:hover::before {
+  bottom: unset;
+  font-size: var(--yck-step--1);
+  transition: .5s var(--ease-elastic-in-out-4);
+  opacity: 1
+}
+.yck-component .hvr-forward {
+  transition-duration: .3s;
+  transition-property: transform;
+  display: inline-block;
+  vertical-align: baseline;
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent
+}
+.yck-component .hvr-forward:active,
+.yck-component .hvr-forward:focus-visible,
+.yck-component .hvr-forward:hover {
+  transform: translateX(8px)
+}
+.yck-component .hvr-backward {
+  transition-duration: .3s;
+  transition-property: transform;
+  display: inline-block;
+  vertical-align: baseline;
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent
+}
+.yck-component .hvr-backward:active,
+.yck-component .hvr-backward:focus-visible,
+.yck-component .hvr-backward:hover {
+  transform: translateX(-8px)
+}
+@keyframes hvr-pulse {
+  25% {
+    transform: scale(1.1)
+  }
+  75% {
+    transform: scale(.9)
+  }
+}
+.yck-component .hvr-pulse {
+  display: inline-block;
+  vertical-align: baseline;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent
+}
+.yck-component .hvr-pulse:active,
+.yck-component .hvr-pulse:focus-visible,
+.yck-component .hvr-pulse:hover {
+  -webkit-animation-name: hvr-pulse;
+  animation-name: hvr-pulse;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-timing-function: linear;
+  animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite
+}
+.yck-component .nolist-style {
+  list-style: none;
+  margin: 0;
+  padding: 0
+}
+.yck-component .isoblique {
+  font-style: oblique
+}
+.yck-component .isstrong {
+  font-weight: 900
+}
+.yck-component :is(.visually-hidden,.sr-only) {
+  inline-size: 0;
+  block-size: 0;
+  overflow: hidden
+}
+.yck-component .truncate {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis
+}
+.yck-component .ultrawide {
+  aspect-ratio: var(--ratio-ultrawide)
+}
+.yck-component .widescreen {
+  aspect-ratio: var(--ratio-widescreen)
+}
+.yck-component .landscape {
+  aspect-ratio: var(--ratio-landscape)
+}
+.yck-component .portrait {
+  aspect-ratio: var(--ratio-portrait)
+}
+.yck-component .square {
+  aspect-ratio: var(--ratio-square)
+}
+.yck-component .warning {
+  font-size: var(--yck-step-0);
+  color: red;
+  font-weight: 700;
+  text-shadow: 1px 1px 2px rgba(206,60,60,.5),2px 2px 3px rgba(0,0,0,.25)
+}
+.yck-component .notice {
+  color: var(--yck-orange700);
+  font-weight: 400;
+  font-style: oblique;
+  text-shadow: var(--yck-box-shadow);
+  background-color: var(--yck-orange200);
+  border-left: 3px solid var(--yck-orange500);
+  padding-left: 2em
+}
+.kenburns-right {
+  animation: 40s ease-in-out infinite alternate kenburns-right
+}
+@keyframes kenburns-right {
+  0% {
+    -webkit-transform: scale(1) translate(0,0);
+    transform: scale(1) translate(0,0);
+    -webkit-transform-origin: 84% 50%;
+    transform-origin: 84% 50%
+  }
+  100% {
+    -webkit-transform: scale(1.25) translateX(20px);
+    transform: scale(1.25) translateX(20px);
+    -webkit-transform-origin: right;
+    transform-origin: right
+  }
+}
+.kenburns-container {
+  max-width: 100%;
+  overflow: hidden;
+  position: relative
+}
+.kenburns-scale {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  animation: kenBurns 45s var(--ease-elastic-in-out-4) infinite alternate
+}
+@keyframes kenBurns {
+  from {
+    transform: scale(1)
+  }
+  to {
+    transform: scale(1.35)
+  }
+}
+@supports (content-visibility:auto) {
+  details {
+    content-visibility: auto
+  }
+}
+@supports (animation-timeline:view()) {
+  .yck-component :is(.yck__flexitem,.yck__card,.isomer-card) {
+    animation: ease-in-out both fade-in-right;
+    animation-timeline: view();
+    animation-range: entry 10% cover 40%
+  }
+}
+/* === Standard Tabs === */
+.yck-component .tabs {
+    position: relative;
+    overflow: hidden;
+
+    &>.row {
+        width: calc(100% + 2 * .6em);
+        display: table;
+        table-layout: fixed;
+        margin-left: 0;
+        /* margin-bottom: 0.1em; */
+        position: relative;
+        padding-left: 0;
+        transition: all 0.5s;
+        border-spacing: 0;
+
+        /* margin: 0.6em 0; */
+        &:before,
+        &:after {
+            display: none;
+        }
+
+        &>*,
+        & img {
+            display: table-cell;
+            vertical-align: top;
+            margin: 0;
+            width: 100%;
+        }
+    }
+
+    &>input {
+        display: none;
+
+        &+* {
+            width: 100%;
+        }
+
+        &+label {
+            width: auto;
+        }
+    }
+
+    &.two {
+        .row {
+            width: 200%;
+            left: -100%;
+        }
+
+        input:nth-of-type(1):checked~.row {
+            margin-left: 100%;
+        }
+    }
+
+    &.three {
+        .row {
+            width: 300%;
+            left: -200%;
+        }
+
+        input:nth-of-type(1):checked~.row {
+            margin-left: 200%;
+        }
+
+        input:nth-of-type(2):checked~.row {
+            margin-left: 100%;
+        }
+    }
+
+    &.four {
+        .row {
+            width: 400%;
+            left: -300%;
+        }
+
+        input:nth-of-type(1):checked~.row {
+            margin-left: 300%;
+        }
+
+        input:nth-of-type(2):checked~.row {
+            margin-left: 200%;
+        }
+
+        input:nth-of-type(3):checked~.row {
+            margin-left: 100%;
+        }
+    }
+}
+
+/* 1. Standard Tabs (Easiest) */
+.yck-component .ui-standard-tabs>label {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #fff;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-right: 5px;
+	  margin-bottom: var(--yck-spacing-unit);
+    font-weight: bold;
+    transition: all .7s ease;
+    overflow: hidden;
+}
+
+.yck-component .ui-standard-tabs>input:checked+label {
+    background: var(--yck-orange500);
+    color: white;
+    transition: all .7s ease;
+}
+
+.yck-component .ui-standard-tabs > input:not(:checked) + label:hover {
+    color: var(--yck-orange600);
+    background-color: var(--yck-orange000);
+    transition: all 0.7s ease;
+}
+
+.yck-component .ui-standard-tabs>.row>div {
+    background: white;
+    padding: 20px;
+}
+	
+.yck-component .carousel.glider,
+.yck-component .carousel.slider {
+  width: 100%;
+  height: var(--height);
+  overflow: hidden;
+  overflow-x: auto;
+  overflow-y: hidden;
+  mask-image: linear-gradient(to right,transparent,#000 10% 90%,transparent)
+}
+.yck-component .carousel.glider .list,
+.yck-component .carousel.slider .list {
+  display: flex;
+  width: 100%;
+  min-width: calc(var(--width) * var(--quantity));
+  position: relative
+}
+.yck-component .carousel.slider .list .item {
+  width: var(--width);
+  height: var(--height);
+  position: absolute;
+  left: 100%;
+  animation: autoRun var(--duration) linear infinite;
+  transition: filter 1.5s;
+  animation-delay: calc((var(--duration) / var(--quantity)) * (var(--position) - 1) - var(--duration))!important
+}
+.yck-component .carousel.slider[reverse=true] .item {
+  animation: reversePlay var(--duration) linear infinite
+}
+.yck-component .carousel.glider .list .item {
+  width: var(--width);
+  height: var(--height);
+  position: absolute;
+  left: 100%;
+  animation: reversePlay var(--duration) linear infinite;
+  transition: filter 1.5s;
+  animation-delay: calc((var(--duration) / var(--quantity)) * (var(--position) - 1) - var(--duration))!important
+}
+.yck-component .carousel.glider .list .item img,
+.yck-component .carousel.slider .list .item img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  object-position: center center;
+  border-radius: var(--yck-rounded-corners);
+  overflow: hidden
+}
+@keyframes autoRun {
+  from {
+    left: 100%
+  }
+  to {
+    left: calc(var(--width) * -1)
+  }
+}
+.yck-component .carousel.glider:hover .item,
+.yck-component .carousel.slider:hover .item {
+  animation-play-state: paused!important;
+  filter: grayscale(1)
+}
+.yck-component .carousel.glider .item:hover,
+.yck-component .carousel.slider .item:hover {
+  filter: grayscale(0)
+}
+.yck-component .carousel.glider .item {
+  animation: reversePlay var(--duration) linear infinite
+}
+@keyframes reversePlay {
+  from {
+    left: calc(var(--width) * -1)
+  }
+  to {
+    left: 100%
+  }
+}
+.yck-component .slider-card {
+  background: linear-gradient(45deg,rgba(33,74,44,.65) 0,rgba(82,130,72,.85) 35%,#99b674 85%,rgba(33,74,44,.8) 100%);
+  border-radius: var(--yck-rounded-corners);
+  overflow: hidden;
+  height: 100%
+}
+.yck-component .carousel.card {
+  width: 100%;
+  height: auto;
+  background: linear-gradient(45deg,rgba(240,240,240,.65) 0,rgba(255,255,255,.85) 35%,#fafafa 85%,rgba(200,200,200,.8) 100%);
+  border-radius: var(--yck-rounded-corners);
+  backdrop-filter: blur(20px);
+  overflow: hidden;
+  text-align: center;
+  vertical-align: top
+}
+.yck-component .carousel.card p {
+  font-size: var(--yck-step-0);
+  line-height: 1.2;
+  padding-inline: 1rem;
+  color: var(--neutral-700)
+}
+.yck-component .carousel.card figcaption {
+  color: #e5e7eb;
+  font-size: var(--yck-step--1);
+  text-align: center
+}
+.yck-component .masthead {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  flex-direction: row;
+  text-align: center;
+  width: 100%;
+  height: 65vh;
+  overflow: hidden;
+  background-size: cover!important
+}
+.yck-component .masthead h2 {
+  font-style: normal;
+  font-weight: 700;
+  color: #eee!important;
+  font-size: 5.7vmin;
+  letter-spacing: .03em;
+  line-height: 1;
+  text-shadow: 1px 2px 4px rgba(0,0,0,.8);
+  margin-bottom: 16px
+}
+.yck-component .section-header {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  grid-template-rows: auto auto;
+  column-gap: var(--yck-spacing-unit);
+  align-items: start;
+  margin-bottom: var(--yck-spacing-unit)
+}
+.yck-component .section-header h2 {
+  grid-column: 1;
+  grid-row: 1;
+  font-size: var(--yck-step-3);
+  font-weight: 800
+}
+.yck-component .intro-box {
+  grid-column: 1;
+  grid-row: 2;
+  background: #f9d0f0;
+  border-radius: 16px;
+  padding: var(--yck-spacing-unit);
+  font-size: var(--yck-step-0);
+  line-height: 1.6;
+  align-self: start;
+  margin-bottom: var(--yck-spacing-unit)
+}
+.yck-component .mascot-girl {
+  grid-column: 2;
+  grid-row: 1/3;
+  width: clamp(80px,14vw,160px);
+  align-self: center;
+  transform: translateX(-45px) translateY(30px);
+  filter: saturate(125%) brightness(110%) contrast(90%)
+}
+.yck-component .purpose-title {
+  font-size: var(--yck-step-3);
+  font-weight: 800;
+  margin-bottom: var(--yck-spacing-unit)
+}
+.yck-component .purpose-body {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  column-gap: var(--yck-spacing-unit);
+  align-items: center
+}
+.yck-component .mascot-boy {
+  width: clamp(90px,18vw,180px);
+  align-self: center;
+  transform: translateX(40px) translateY(-60px);
+  filter: saturate(125%) brightness(110%) contrast(90%)
+}
+.yck-component .purpose-box {
+  background: #fffde7;
+  border-radius: 16px;
+  padding: var(--yck-spacing-unit);
+  font-size: var(--yck-step-0);
+  line-height: 1.6;
+  align-self: flex-end
+}
+.yck-component .purpose-box p + p {
+  margin-top: calc(var(--yck-spacing-unit) * .5)
+}
+@media (max-width:560px) {
+  .yck-component .section-header {
+    grid-template-columns: 1fr
+  }
+  .yck-component .mascot-girl {
+    grid-column: 1;
+    grid-row: 3;
+    justify-self: center;
+    margin-top: calc(var(--yck-spacing-unit) * .5);
+    display: none;
+    transform: translateX(-50px)
+  }
+  .yck-component .purpose-body {
+    grid-template-columns: 1fr
+  }
+  .yck-component .mascot-boy {
+    justify-self: center;
+    margin-bottom: .8rem;
+    display: none;
+    transform: translateX(25px)
+  }
+}
+.yck-component .yck-nav-bar > * {
+  margin: 0;
+  padding: 0
+}
+.yck-component .yck-nav-bar ul {
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill,minmax(240px,1fr));
+  list-style: none;
+  background-color: #fff;
+  border-radius: var(--yck-rounded-corners);
+  box-shadow: var(--yck-inset-shadow2);
+  justify-content: space-evenly;
+  align-content: start;
+  justify-items: center;
+  align-items: start
+}
+.yck-component .yck-nav-bar a {
+  display: block;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-weight: 500;
+  font-size: var(--yck-step-0);
+  transition: all .3s var(--ease-bounce-4);
+  margin: calc(var(--yck-spacing-unit) * .1);
+  padding: .5rem;
+  border-radius: 1.5rem;
+  text-align: center;
+  text-wrap: balance;
+  overflow-wrap: break-word;
+  color: #4a5568;
+  position: relative
+}
+.yck-component .yck-nav-bar a::after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 2px;
+  bottom: -5px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #4299e1;
+  transition: width .7s var(--ease-bounce-4),background-color .7s var(--ease-bounce-4)
+}
+.yck-component .yck-nav-bar a.active {
+  color: #2b6cb0
+}
+.yck-component .yck-nav-bar a.active::after {
+  width: 100%;
+  background-color: #4299e1
+}
+.yck-component .yck-nav-bar a:hover {
+  color: #e37f2a
+}
+.yck-component .yck-nav-bar a:hover::after {
+  background-color: #e37f2a;
+  width: 90%
+}
+#learn-tri {
+  border: none;
+  box-shadow: none
+}
+#learn-tri.autofit-grid {
+  grid-template-columns: 1fr;
+  font-size: var(--yck-step-0)
+}
+@media (min-width:768px) {
+  #learn-tri.autofit-grid {
+    grid-template-columns: 3fr 1fr
+  }
+  #learn-tri .infocard p {
+    font-size: var(--yck-step--1)
+  }
+  #learn-tri .infocard h4 {
+    font-size: var(--yck-step-0)
+  }
+}
+#learn-tri :is(.grid-item,.infocard) {
+  border: none;
+  margin: 0;
+  padding: .5rem;
+  text-align: center;
+  align-items: center;
+  justify-items: stretch;
+  background: #fff;
+  box-shadow: none
+}
+#learn-tri .grid-item:active,
+#learn-tri .grid-item:focus-visible,
+#learn-tri .grid-item:hover {
+  box-shadow: none
+}
+#music {
+  background: url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Icons/trebleclef.svg) right center/contain no-repeat;
+  backdrop-filter: blur(10px)
+}
+#art {
+  background: url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Icons/art.svg) right center/contain no-repeat;
+  backdrop-filter: blur(10px)
+}
+#set {
+  background: url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Icons/set.svg) right center/contain no-repeat;
+  backdrop-filter: blur(10px)
+}
+#stem {
+  background: url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Icons/stem.svg) right center/contain no-repeat;
+  backdrop-filter: blur(10px)
+}
+#foodnutri {
+  background: url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Icons/FoodNutri.svg) right center/contain no-repeat;
+  backdrop-filter: blur(10px)
+}
+#distinct-slii {
+  background: linear-gradient(to bottom,rgba(0,0,0,0) 0,rgba(0,0,0,0) 61%,rgba(0,0,0,.65) 100%),url(https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/S1.jpg) center center no-repeat
+}
+#distinct-fita {
+  background: radial-gradient(ellipse at center,rgba(0,0,0,0) 0,rgba(0,0,0,0) 37%,rgba(0,0,0,.65) 100%),url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/fita01.jpg) center center no-repeat
+}
+#reflect-rice {
+  background-color: rgba(246,196,198,.8);
+  border-radius: 1000px 1000px 0;
+  padding-left: 2em
+}
+#invent-rice {
+  background-color: rgba(255,239,201,.8);
+  border-radius: 1000px 1000px 1000px 0;
+  padding-left: 2em
+}
+#critic-rice {
+  background-color: #d3e7ce;
+  border-radius: 1000px 0 1000px 1000px;
+  padding-left: 3em;
+  -top: 1em
+}
+#empath-rice {
+  background-color: rgba(190,214,244,.9);
+  border-radius: 0 1000px 1000px;
+  padding-left: 2em
+}
+</style>

@@ -911,10 +911,10 @@ abbr:hover {
 
 .yck-component .yck-nav-bar ul {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
     list-style: none;
     background-color: #ffffff;
-    border-radius: 0.75rem;
+   border-radius: var(--yck-rounded-corners);
     box-shadow: var(--yck-inset-shadow2);
 
     justify-content: space-evenly;
@@ -931,8 +931,8 @@ abbr:hover {
     font-size: var(--yck-step-0);
     transition: all 0.3s var(--yck-transition-timing);
     margin: calc(var(--yck-spacing-unit) * 0.1);
-    padding: 1rem;
-    border-radius: 0.5rem;
+    padding: .5rem;
+    border-radius: 1.5rem;
     text-align: center;
     text-wrap: balance;
     overflow-wrap: break-word;
@@ -945,7 +945,7 @@ abbr:hover {
     position: absolute;
     width: 0;
     height: 2px;
-    bottom: 10px;
+    bottom: 0px;
     left: 50%;
     transform: translateX(-50%);
     background-color: #4299e1;
