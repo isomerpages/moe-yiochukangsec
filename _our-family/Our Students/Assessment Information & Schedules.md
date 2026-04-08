@@ -39,7 +39,7 @@ on 30 Jan 2026)</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Students/Assessment Information Sche/Secondary_1A_B_C_Weighted_Assessment_Term_2__Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1D, 1E, 1F WA Schedule and Subject Information Term2</a>
+<p><a href="/files/Students/Assessment Information Sche/Secondary_1A_B_C_Weighted_Assessment_Term_2__Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1A, 1B, 1C WA Schedule and Subject Information Term2</a>
 </p>
 </li>
 </ul>
