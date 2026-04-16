@@ -31,7 +31,7 @@ sections:
         6456 0669.
       button: Click Book Now!
       url: https://go.gov.sg/2026ycksecguidedtour
-      image: /images/2026_Guided_Sch_Tour.png
+      image: /images/2026_Sch_Tour.png
       alt: https://tinyurl.com/yck4nbwc
       subtitle: It's back again!
   - infopic:
