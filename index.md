@@ -24,15 +24,16 @@ sections:
       title: Home Heart Hope
       subtitle: asefas
   - infopic:
-      title: YCKSS SEC 1 INFORMATION
+      title: YCKSS Guided School Tour
       id: infopic
-      description: Dear Parents, Guardians and Secondary 1 YCKSians of 2026. Yio Chu
-        Kang Secondary School welcomes our Secondary 1 YCKSians to our YCKSS
-        Family!
-      button: Click for more info
-      url: https://sites.google.com/moe.edu.sg/yckss-sec-1-information-2026/
-      image: /images/Homepage/yckss_sec1_info_2026.png
-      alt: YCKSS Sec 1 Info Microsite
+      description: Strictly on appointment basis only. Book your appointment by 20th
+        November to avoid disappointment. You may also contact the school at
+        6456 0669.
+      button: Click Book Now!
+      url: https://go.gov.sg/2026ycksecguidedtour
+      image: /images/2026_Guided_Sch_Tour.png
+      alt: https://tinyurl.com/yck4nbwc
+      subtitle: It's back again!
   - infopic:
       title: YCKSS e-Open House
       subtitle: A Unique Way to Experience
