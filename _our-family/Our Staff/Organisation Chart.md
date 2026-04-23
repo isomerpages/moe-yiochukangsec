@@ -18,12 +18,14 @@ third_nav_title: Our Staff
 </div>
 <div class="wrapper"><div class="org-chart">
   <div id="School-Leaders" class="section-title">School Leaders</div>
+	
   <div class="person-container school-leaders">
     <div class="person" id="mrschowbettychang">
       <div class="person-name">Mdm Betty Chang</div>
       <div class="person-title">PRINCIPAL</div>
       <details name="schlead">
         <summary>Email Address:</summary>
+				
         betty_chang<wbr>@moe.edu.sg
       </details>
     </div>
