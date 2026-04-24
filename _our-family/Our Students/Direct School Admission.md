@@ -18,7 +18,7 @@ related to the talent they are selected for from year 1 to 4.</p>
 <p>In DSA-Sec Exercise 2026, we are looking for promising Primary Six students
 or students not studying in MOE mainstream primary schools who demonstrate
 special talents in the following areas:</p>
-<h3><a href="/files/Students/Direct School Admission/2__DIRECT_SCHOOL_ADMISSION___Clubs_2026.pdf" rel="noopener nofollow" target="_blank">Clubs</a></h3>
+<h3><strong><a href="/files/Students/Direct School Admission/2__DIRECT_SCHOOL_ADMISSION___Clubs_2026.pdf" rel="noopener nofollow" target="_blank">Clubs</a></strong></h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/clubs/digital-animation-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Members of the Digital Animation Club" src="/images/Our Curriculum/Non Academic Programmes/CoCurricular Activities/Clubs/Digital Animation Club/DigitalAnimateClub.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Animation Club</div><div class="isomer-card-link">Visit Us</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/clubs/media-club/" class="isomer-card">
 <div class="isomer-card-image">
@@ -52,7 +52,7 @@ special talents in the following areas:</p>
 </tbody>
 </table>
 <hr>
-<h3><a href="/files/Students/Direct School Admission/3__DIRECT_SCHOOL_ADMISSION____Performing_Arts_2026.pdf" rel="noopener nofollow" target="_blank">Performing Arts</a></h3>
+<h3><strong><a href="/files/Students/Direct School Admission/3__DIRECT_SCHOOL_ADMISSION____Performing_Arts_2026.pdf" rel="noopener nofollow" target="_blank">Performing Arts</a></strong></h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/Performing-Arts/Concert-Band/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Members of the Band" src="/images/Our Curriculum/Non Academic Programmes/CoCurricular Activities/Performing Arts/Concert Band/C1NEW1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Concert Band</div><div class="isomer-card-link">Our Musicians</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/Performing-Arts/Choir/" class="isomer-card">
 <div class="isomer-card-image">
@@ -66,7 +66,6 @@ special talents in the following areas:</p>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/cca/Performing-Arts/English-Drama/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="English Drama club members ... being dramatic" src="/images/Our Curriculum/Non Academic Programmes/CoCurricular Activities/Performing Arts/English Drama/E1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">English Drama</div><div class="isomer-card-link">Our Actors</div></div></a>
 </div>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/Performing-Arts/Indian-Dance/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Indian dancers at Gardens by the Bay" src="/images/Our Curriculum/Non Academic Programmes/CoCurricular Activities/Performing Arts/Indian Dance/indian_dance_2025_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Indian Dance</div><div class="isomer-card-link">About our Indian Dance</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/Performing-Arts/Malay-Dance/" class="isomer-card">
 <div class="isomer-card-image">
@@ -94,8 +93,7 @@ special talents in the following areas:</p>
 </tbody>
 </table>
 <hr>
-<h3><a href="/files/Students/Direct School Admission/4_DIRECT_SCHOOL_ADMISSION___Sports_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Sports</a></h3>
-<p></p>
+<h3><strong><a href="/files/Students/Direct School Admission/4__DIRECT_SCHOOL_ADMISSION___Sports_2026.pdf" rel="noopener nofollow" target="_blank">Sports</a></strong></h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/physical-sports/badminton/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Badminton Girls" src="/images/Our ccas/Badminton/2026badmintongirls1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Badminton (Girls)</div><div class="isomer-card-link">About Us</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/Physical-Sports/Basketball-Boys/" class="isomer-card">
 <div class="isomer-card-image">
@@ -123,8 +121,7 @@ special talents in the following areas:</p>
 </a>
 </div>
 <hr>
-<h3><a href="/files/Students/Direct School Admission/5_DIRECT_SCHOOL_ADMISSION___UGs_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniformed Groups</a></h3>
-<p></p>
+<h3><strong><a href="/files/Students/Direct School Admission/5__DIRECT_SCHOOL_ADMISSION___UGs_2026.pdf" rel="noopener nofollow" target="_blank">Uniformed Groups</a></strong></h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/Uniformed-Groups/NPCC/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NPCC members" src="/images/Our Curriculum/Non Academic Programmes/CoCurricular Activities/Uniformed Groups/NPCC/N1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">National Police Cadet Corps</div><div class="isomer-card-link">About Us</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/Uniformed-Groups/Red-Cross-Youth/" class="isomer-card">
 <div class="isomer-card-image">
@@ -262,4 +259,3 @@ of supporting documents for non-school based activities at the trial/interview.<
 <p></p>
 <p><sup>1.</sup> Direct School Admission for Secondary Schools Portal: <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
-<p></p>
