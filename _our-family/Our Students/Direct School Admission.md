@@ -52,7 +52,7 @@ special talents in the following areas:</p>
 </tbody>
 </table>
 <hr>
-<h3><a href="/files/Students/Direct School Admission/3__DIRECT_SCHOOL_ADMISSION____Performing_Arts_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Performing Arts</a></h3>
+<h3><a href="/files/Students/Direct School Admission/3__DIRECT_SCHOOL_ADMISSION____Performing_Arts_2026.pdf" rel="noopener nofollow" target="_blank">Performing Arts</a></h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/Performing-Arts/Concert-Band/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Members of the Band" src="/images/Our Curriculum/Non Academic Programmes/CoCurricular Activities/Performing Arts/Concert Band/C1NEW1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Concert Band</div><div class="isomer-card-link">Our Musicians</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/Performing-Arts/Choir/" class="isomer-card">
 <div class="isomer-card-image">
