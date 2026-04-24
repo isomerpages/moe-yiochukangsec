@@ -122,82 +122,22 @@ special talents in the following areas:</p>
 </div>
 </a>
 </div>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/cca/physical-sports/badminton/" rel="noopener noreferrer nofollow" target="_blank">Badminton</a>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/cca/Physical-Sports/Basketball-Boys/" rel="noopener noreferrer nofollow" target="_blank">Basketball (Boys)</a>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/cca/Physical-Sports/Floorball-Boys/" rel="noopener noreferrer nofollow" target="_blank">Floorball (Boys)</a>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/cca/Physical-Sports/Netball/" rel="noopener noreferrer nofollow" target="_blank">Netball</a>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
 <hr>
 <h3><a href="/files/Students/Direct School Admission/5_DIRECT_SCHOOL_ADMISSION___UGs_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniformed Groups</a></h3>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/cca/Uniformed-Groups/NPCC/" rel="noopener noreferrer nofollow" target="_blank">National Police Cadet Corps</a>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/cca/Uniformed-Groups/Red-Cross-Youth/" rel="noopener noreferrer nofollow" target="_blank">Red Cross Youth</a>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/Uniformed-Groups/NPCC/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NPCC members" src="/images/Our Curriculum/Non Academic Programmes/CoCurricular Activities/Uniformed Groups/NPCC/N1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">National Police Cadet Corps</div><div class="isomer-card-link">About Us</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/cca/Uniformed-Groups/Red-Cross-Youth/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Members of the Red Cross Youth" src="/images/Our Curriculum/Non Academic Programmes/CoCurricular Activities/Uniformed Groups/Red Cross Youth/R1.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Red Cross Youth</div>
+<div class="isomer-card-link">About Us</div>
+</div>
+</a>
+</div>
 <p>Click on the <strong>respective category headings</strong>  <em>(eg. Clubs, Performing Arts, Sports or Uniform Groups)</em> to
 access the specific DSA talent areas application procedure.</p>
 <p><strong><em>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</em></strong>
