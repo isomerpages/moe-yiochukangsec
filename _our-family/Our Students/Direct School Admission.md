@@ -215,7 +215,7 @@ access the specific DSA talent areas application procedure.</p>
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
-<h4>2025 DSA-SEC Timeline</h4>
+<h4>2026 DSA-SEC Timeline</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -239,12 +239,11 @@ the area of talent.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 May to 3 Jun
-<br>(by 3pm)</p>
+<p>6 May (11am) to
+<br>2 Jun (4.30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Application opens on 7 May and
-<br>closes on 3 June (by 3pm)</p>
+<p>Application opens on 6 May and closes on 2 June</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -253,7 +252,7 @@ the area of talent.</p>
 </p>
 </li>
 <li>
-<p>MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/secondary/dsa</a>
+<p>MOE website – <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
 </li>
 <li>
@@ -265,11 +264,10 @@ the area of talent.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 Jun to 4 Sep</p>
+<p>29 Jun to 28 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Audition and interview for
-<br>short-listed applicants</p>
+<p>Audition and interview for short-listed applicants</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -286,7 +284,7 @@ of supporting documents for non-school based activities at the trial/interview.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Between 25 Aug and 4 Sep</p>
+<p>17 Aug to 28 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Issuance of letters to all applicants</p>
@@ -301,7 +299,7 @@ of supporting documents for non-school based activities at the trial/interview.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 to 31 Oct</p>
+<p>19 Oct (9am) to 23 Oct (4.30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Preference Submission</p>
