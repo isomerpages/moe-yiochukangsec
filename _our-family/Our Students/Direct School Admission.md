@@ -18,7 +18,7 @@ related to the talent they are selected for from year 1 to 4.</p>
 <p>In DSA-Sec Exercise 2026, we are looking for promising Primary Six students
 or students not studying in MOE mainstream primary schools who demonstrate
 special talents in the following areas:</p>
-<h3><a href="/files/Students/Direct School Admission/2_DIRECT_SCHOOL_ADMISSION___Clubs_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Clubs</a></h3>
+<h3><a href="/files/Students/Direct School Admission/2__DIRECT_SCHOOL_ADMISSION___Clubs_2026.pdf" rel="noopener nofollow" target="_blank">Clubs</a></h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/clubs/digital-animation-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Members of the Digital Animation Club" src="/images/Our Curriculum/Non Academic Programmes/CoCurricular Activities/Clubs/Digital Animation Club/DigitalAnimateClub.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Animation Club</div><div class="isomer-card-link">Visit Us</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/clubs/media-club/" class="isomer-card">
 <div class="isomer-card-image">
