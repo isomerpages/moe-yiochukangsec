@@ -9,13 +9,13 @@ variant: tiptap
 <p>Yio Chu Kang Secondary School believes in a well-rounded education and
 is committed to providing learning opportunities beyond the core academic
 and student development programmes.</p>
-<p>The school has vacancies for up to 20% of our Secondary 1 cohort in 2026
+<p>The school has vacancies for up to 20% of our Secondary 1 cohort in 2027
 for the DSA-Sec programme. Interested students can apply through the DSA
 process.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from year 1 to 4.</p>
-<p>In DSA-Sec Exercise 2025, we are looking for promising Primary Six students
+<p>In DSA-Sec Exercise 2026, we are looking for promising Primary Six students
 or students not studying in MOE mainstream primary schools who demonstrate
 special talents in the following areas:</p>
 <h3><a href="/files/Students/Direct School Admission/2_DIRECT_SCHOOL_ADMISSION___Clubs_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Clubs</a></h3>
