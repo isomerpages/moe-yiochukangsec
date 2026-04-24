@@ -95,6 +95,33 @@ special talents in the following areas:</p>
 </table>
 <hr>
 <h3><a href="/files/Students/Direct School Admission/4_DIRECT_SCHOOL_ADMISSION___Sports_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Sports</a></h3>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/physical-sports/badminton/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Badminton Girls" src="/images/Our ccas/Badminton/2026badmintongirls1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Badminton (Girls)</div><div class="isomer-card-link">About Us</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/cca/Physical-Sports/Basketball-Boys/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Boys of the school basketball team" src="/images/Our Curriculum/Non Academic Programmes/CoCurricular Activities/Physical Sports/Basketball (Boys)/B1.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Basketball (Boys)</div>
+<div class="isomer-card-link">About Us</div>
+</div>
+</a>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/Physical-Sports/Floorball-Boys/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Floorball boys after a practise session" src="/images/Our Curriculum/Non Academic Programmes/CoCurricular Activities/Physical Sports/Floorball (Boys)/F1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Floorball (Boys)</div><div class="isomer-card-link">About Us</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/cca/Physical-Sports/Netball/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Netball members after a practise session" src="/images/Our Curriculum/Non Academic Programmes/CoCurricular Activities/Physical Sports/Netball/N1.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Netball</div>
+<div class="isomer-card-link">About Us</div>
+</div>
+</a>
+</div>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
