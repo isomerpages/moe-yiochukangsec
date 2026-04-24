@@ -30,7 +30,7 @@ special talents in the following areas:</p>
 <div class="isomer-card-title">Media Club (PA, Photography and Videography)</div>
 <div class="isomer-card-link">Lights, Camera, Action!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/cca/clubs/mars-club-mechatronics-aeronautics-and-robotics/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Stand-in for MARs Club Logo" src="/images/Our Curriculum/Non Academic Programmes/CoCurricular Activities/Clubs/MARs Club/stem.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mechatronics, Aeronautics and Robotics (MARs) </div><div class="isomer-card-link">Join the Innovation</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/cca/clubs/mars-club-mechatronics-aeronautics-and-robotics/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Stand-in for MARs Club Logo" src="/images/Our Curriculum/Non Academic Programmes/CoCurricular Activities/Clubs/MARs Club/stem.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mechatronics, Aeronautics and Robotics (MARs)</div><div class="isomer-card-link">Join the Innovation</div></div></a>
 </div>
 <table style="minWidth: 25px">
 <colgroup>
@@ -45,7 +45,7 @@ special talents in the following areas:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>MARs is closely tied to our <a href="/our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/" rel="noopener noreferrer nofollow" target="_blank">Applied Learning Programme (STEM)</a></em>
+<p><em>MARs is closely tied to our <a href="/our-curriculum/Distinctive-Programmes/Applied-Learning-Programme/#dsa" rel="noopener noreferrer nofollow" target="_blank">Applied Learning Programme (STEM)</a></em>
 </p>
 </td>
 </tr>
