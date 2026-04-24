@@ -53,79 +53,41 @@ special talents in the following areas:</p>
 </table>
 <hr>
 <h3><a href="/files/Students/Direct School Admission/3__DIRECT_SCHOOL_ADMISSION____Performing_Arts_20250506.pdf" rel="noopener noreferrer nofollow" target="_blank">Performing Arts</a></h3>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/Performing-Arts/Concert-Band/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Members of the Band" src="/images/Our Curriculum/Non Academic Programmes/CoCurricular Activities/Performing Arts/Concert Band/C1NEW1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Concert Band</div><div class="isomer-card-link">Our Musicians</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/cca/Performing-Arts/Choir/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Choir members in the school garden" src="/images/Our Curriculum/Non Academic Programmes/CoCurricular Activities/Performing Arts/Choir/C1.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Choir</div>
+<div class="isomer-card-link">Our Choristers</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/cca/Performing-Arts/English-Drama/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="English Drama club members ... being dramatic" src="/images/Our Curriculum/Non Academic Programmes/CoCurricular Activities/Performing Arts/English Drama/E1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">English Drama</div><div class="isomer-card-link">Our Actors</div></div></a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/Performing-Arts/Indian-Dance/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Indian dancers at Gardens by the Bay" src="/images/Our Curriculum/Non Academic Programmes/CoCurricular Activities/Performing Arts/Indian Dance/indian_dance_2025_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Indian Dance</div><div class="isomer-card-link">About our Indian Dance</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/cca/Performing-Arts/Malay-Dance/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Malay Dancers in the garden" src="/images/Our Curriculum/Non Academic Programmes/CoCurricular Activities/Performing Arts/Malay Dance/M2_2025.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Malay Dance</div>
+<div class="isomer-card-link">About our Malay Dance</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/cca/Performing-Arts/Chinese-Dance/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chinese Dancers in the garden" src="/images/Our Curriculum/Non Academic Programmes/CoCurricular Activities/Performing Arts/Chinese Dance/C1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chinese Dance</div><div class="isomer-card-link">About our Chinese Dance</div></div></a>
+</div>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/cca/Performing-Arts/Concert-Band/" rel="noopener noreferrer nofollow" target="_blank">Concert Band</a>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/cca/Performing-Arts/Choir/" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/cca/Performing-Arts/English-Drama/" rel="noopener noreferrer nofollow" target="_blank">English Drama</a>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/cca/Performing-Arts/Chinese-Dance/" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance</a>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/cca/Performing-Arts/Indian-Dance/" rel="noopener noreferrer nofollow" target="_blank">Indian Dance</a>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/cca/Performing-Arts/Malay-Dance/" rel="noopener noreferrer nofollow" target="_blank">Malay Dance</a>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em>All the CCAs above are closely tied to our <a href="/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/" rel="noopener noreferrer nofollow" target="_blank">Learning for Life Programme</a></em>
+<p><em>All the CCAs above are closely tied to our <a href="/our-curriculum/Distinctive-Programmes/Learning-for-Life-Programme/#dsa" rel="noopener noreferrer nofollow" target="_blank">Learning for Life Programme</a></em>
 </p>
 </td>
 </tr>
@@ -211,10 +173,9 @@ special talents in the following areas:</p>
 </table>
 <p>Click on the <strong>respective category headings</strong>  <em>(eg. Clubs, Performing Arts, Sports or Uniform Groups)</em> to
 access the specific DSA talent areas application procedure.</p>
-<p>Parents and students are encouraged to choose schools wisely based on
-the student’s aptitudes and strengths, bearing in mind the schools’ academic
-and non-academic requirements, and the programmes available to develop
-the area of talent.</p>
+<p><strong><em>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</em></strong>
+</p>
+<hr>
 <h4>2026 DSA-SEC Timeline</h4>
 <table style="minWidth: 75px">
 <colgroup>
