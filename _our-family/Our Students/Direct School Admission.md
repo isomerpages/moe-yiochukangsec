@@ -140,7 +140,7 @@ access the specific DSA talent areas application procedure.</p>
 <p><strong><em>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</em></strong>
 </p>
 <hr>
-<h4>2026 DSA-SEC Timeline</h4>
+<h4><strong>2026 DSA-SEC Timeline</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
