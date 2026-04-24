@@ -45,7 +45,7 @@ In Secondary Two and Three, students who are keen can further hone their talents
 
   
 
-Successful DSA applicants through AMD are expected to enrol in the relevant performing arts and media-related CCAs to help develop their talents progressively. The students will be involved in performances, workshops with arts practitioners and competitions in order to gain greater exposure and hone their skills. They also attend a variety of external performances so as to develop their critical understanding of the art form.
+Successful [DSA](https://www.yiochukangsec.moe.edu.sg/our-family/Students/Direct-School-Admission/) applicants through AMD are expected to enrol in the relevant performing arts and media-related CCAs to help develop their talents progressively. The students will be involved in performances, workshops with arts practitioners and competitions in order to gain greater exposure and hone their skills. They also attend a variety of external performances so as to develop their critical understanding of the art form.
 
   
 
