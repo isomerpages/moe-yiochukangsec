@@ -239,8 +239,7 @@ the area of talent.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 May (11am) to
-<br>2 Jun (4.30pm)</p>
+<p>6 May (11am) to 2 Jun (4.30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application opens on 6 May and closes on 2 June</p>
@@ -256,7 +255,7 @@ the area of talent.</p>
 </p>
 </li>
 <li>
-<p>Submit via <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">DSA-Sec Portal</a>. <em>(Require SingPass to login.)</em>
+<p>Submit via <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">DSA-Sec Portal</a>.<sup>1</sup>  <em>(Require SingPass to login.)</em>
 </p>
 </li>
 </ul>
@@ -264,7 +263,8 @@ the area of talent.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>29 Jun to 28 Aug</p>
+<p>29 Jun to
+<br>28 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Audition and interview for short-listed applicants</p>
@@ -284,7 +284,8 @@ of supporting documents for non-school based activities at the trial/interview.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17 Aug to 28 Aug</p>
+<p>17 Aug to
+<br>28 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Issuance of letters to all applicants</p>
@@ -330,7 +331,7 @@ of supporting documents for non-school based activities at the trial/interview.<
 </tr>
 </tbody>
 </table>
-<p>Direct School Admission for Secondary Schools Portal (DSA-Sec Portal):
-<a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+<p></p>
+<p><sup>1.</sup> Direct School Admission for Secondary Schools Portal: <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
 <p></p>
