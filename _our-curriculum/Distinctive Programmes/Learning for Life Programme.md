@@ -41,7 +41,7 @@ In Secondary Two and Three, students who are keen can further hone their talents
 ![](/images/Our%20Curriculum/Distinctive%20Programmes/Learning%20for%20Life%20Programme/Learning%20for%20Life%20Programme/L3.jpg)
   
 
-**Direct School Admission (DSA)**  
+<strong><span id="dsa">Direct School Admission (DSA)</span></strong>
 
   
 
