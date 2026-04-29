@@ -477,14 +477,6 @@ third_nav_title: Our Staff
             Ann_Chiam_Choon_Kwee<wbr>@moe.edu.sg
           </details>
         </div>
-        <div class="person" id="chiayiying">
-          <div class="person-name">Ms Chia Yi Ying</div>
-          <div class="person-title">FAJT - Mathematics</div>
-          <details name="maths">
-            <summary>Email Address:</summary>
-            Chia_Yi_Ying_a<wbr>@moe.edu.sg
-          </details>
-        </div>
         <div class="person" id="teoengkiatjulian">
           <div class="person-name">Mr Teo Eng Kiat Julian</div>
           <div class="person-title">FAJT - Mathematics</div>
