@@ -360,14 +360,6 @@ third_nav_title: Our Staff
             ng_wan_hwee_doreen<wbr>@moe.edu.sg
           </details>
         </div>
-        <div class="person" id="nirmaladevis">
-          <div class="person-name">Mdm Nirmala Devi S Tasiveran</div>
-          <div class="person-title">Senior Teacher, Social Studies</div>
-          <details name="human">
-            <summary>Email Address:</summary>
-            nirmala_devi_s_tasiveran<wbr>@moe.edu.sg
-          </details>
-        </div>
         <div class="person" id="tewtjinlianamelia">
           <div class="person-name">Ms Tew Tjin Lian Amelia</div>
           <div class="person-title">Social Studies</div>
@@ -570,14 +562,6 @@ third_nav_title: Our Staff
           <details>
             <summary>Email Address:</summary>
             nur_rafizah_safiee<wbr>@moe.edu.sg
-          </details>
-        </div>
-        <div class="person" id="muhammadfarhanbinzailani">
-          <div class="person-name">Mr Muhammad Farhan Bin Zailani</div>
-          <div class="person-title">Malay Language</div>
-          <details>
-            <summary>Email Address:</summary>
-            muhammad_farhan_zailani@moe.edu.sg
           </details>
         </div>
         <div class="person" id="rathidebishanmugam">
