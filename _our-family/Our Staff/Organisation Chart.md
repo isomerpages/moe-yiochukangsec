@@ -1118,8 +1118,10 @@ third_nav_title: Our Staff
 }
 
 body {
-    min-height: 100vh;
-}
+        background: radial-gradient(circle, rgba(204,204,204,0.6) 0%, rgba(250,250,250,0.95) 100%), url(https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/School%20Song/Sch_SongBG.png) no-repeat center center fixed;
+        background-size: cover;
+	min-height: 100vh;
+        }
 
 ::selection {
     text-shadow: none;
