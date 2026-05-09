@@ -9,24 +9,29 @@ image: /images/YCKLogo.svg
 <div class="yck-component">
     <div class="regular-flow">
 			<article>
-            <section id="intro">
-                <p class="dropcap-title">YCKSS nurtures a growth mind set in our staff, as well as advance our collective capacity by sharpening the professional knowledge and technical competencies of our varied roles. Professional development sessions improve and increase the range of opportunities for teachers to develop their professional capabilities.</p>
-            </section>
+<section id="intro">
+    <p class="dropcap-title">YCKSS nurtures a growth mind set in our staff, <span style="font-size: var(--yck-step-0)">as well as advance our collective capacity by sharpening the professional knowledge and technical competencies of our varied roles. Professional development sessions improve and increase the range of opportunities for teachers to develop their professional capabilities.</span></p>
+</section>
             <hr>
-            <section id="staffretreat2025">
-                <h2>Staff Retreat 2025</h2>
-                <div class="ken-burns-container">
-                    <figure class="ken-burns-image">
-                        <img alt="Staff of Yio Chu Kang Secondary School were at Changi Jewel for our annual Staff Retreat" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/Staff_Retreat_2024_Banner.jpg">
-                    </figure>
-                </div>
-                <p>Staff of Yio Chu Kang Secondary School were at Changi Jewel for our annual Staff Retreat on <strong>28 May 2024</strong>.</p>
-                <p>In teams, our staff embarked on the <strong>Changi Airport and Jewel Quest</strong> to uncover clues and conquer challenges across Jewel and the Changi Experience Studio. While racing one another through the quest, we discovered fun facts about Changi Airport, and gained a deeper understanding of the role Changi Airport plays in Singapore's economic development and how it continues to redefine travel and maintains its status as one of the world's best airports.</p>
-                <p>The experience not only allowed our staff to acquire skills in effective teamwork and problem-solving, but also to build rapport and bond as Team YCKSS!</p>
-                <figure>
-                    <img alt="Background Image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/Staff_Retreat2024_Rw01L_shade.jpg">
-                </figure>
-            </section>
+<section id="staffretreat2025">
+    <h2>Staff Retreat cum Learning Journey 2025!</h2>
+    <div class="ken-burns-container">
+        <div class="ken-burns-image">
+            <img alt="Group of staff in red aprons posing behind a kitchen counter with fresh ingredients and woks." src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/01_Staff_Retreat_cum_Learning_Journey_2026.jpg">
+        </div>
+    </div>
+    <p>Staff of Yio Chu Kang Secondary School participate in the <strong>Staff Retreat cum Learning Journey</strong> annually.</p>
+    <p>In past retreats, staff have embarked on the Changi Airport and Jewel Quest, uncovering clues and conquering challenges while discovering fun facts about Changi Airport and its role in Singapore's economic development. In another retreat, staff took part in friendly cooking competitions at the SSA Culinary Institute, preparing dishes such as Thai Basil Chicken, Chicken Green Curry, and Puteri Salat, developing skills in communication, creativity, and teamwork along the way.
+    </p>
+    <p>These experiences have strengthened our staff's ability to collaborate and problem-solve, while deepening the bonds that make us Team YCKSS!
+    </p>
+    <figure>
+        <img alt="Two staff members in red aprons carefully chopping vegetables and prepping herbs in a kitchen." src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/02_Staff_Retreat_cum_Learning_Journey_2026.jpg">
+    </figure>
+    <figure>
+        <img alt="A man in a red apron and oven mitts proudly holding a tray of freshly baked golden pastries.." src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/03_Staff_Retreat_cum_Learning_Journey_2026.jpg">
+    </figure>
+</section>
             <section id="staffretreat2024">
                 <h2>Staff Retreat 2024</h2>
                 <div class="ken-burns-container">
