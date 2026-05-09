@@ -56,14 +56,12 @@ image: /images/YCKLogo.svg
                     <summary>
                         Celebration of Learning
                     </summary>
-                    <div>
+                    <div class="content">
                         <div class="quote">
                             <div class="blockquote">The purpose of staff development is not just to implement isolated instructional innovations; its central purpose is to build strong collaborative work cultures that will develop the long-term capacity for change.<cite>Michael Fullan. 2009</cite>
                             </div>
                         </div>
-                    </div>
-                    <div>
-                        <p>We continue to celebrate and affirm the work done by our Professional Learning Teams (PLTs) during our annual Celebration of Learning Day. The teachers worked on improving their lesson designs and gathered feedback on how to refine their hybrid lessons to better engage the students.</p>
+											<p>We continue to celebrate and affirm the work done by our Professional Learning Teams (PLTs) during our annual Celebration of Learning Day. The teachers worked on improving their lesson designs and gathered feedback on how to refine their hybrid lessons to better engage the students.</p>
                         <figure><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P2.png"></figure>
                         <figure>
                             <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P3.png"></figure>
@@ -74,6 +72,7 @@ image: /images/YCKLogo.svg
                     <summary>
                         Supporting Students with Special Needs (SEN)
                     </summary>
+									<div class="content">
                     <h5>Quotes from participants:</h5>
                     <div class="yck-flexbox-grid">
                         <div class="quote">
@@ -86,9 +85,9 @@ image: /images/YCKLogo.svg
                                 I will make an effort to cater to the different learning needs of the students by incorporating some of the DI strategies.</div>
                         </div>
                     </div>
-                    <h5>Knowledge with the staff by our Allied Educators:</h5>
+										<h5>Knowledge with the staff by our Allied Educators:</h5>
                     <figure><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P5.png"></figure>
-                </details>
+                </div></details>
                 <hr>
                 <details name="pda">
                     <summary>
@@ -105,10 +104,12 @@ image: /images/YCKLogo.svg
                     <summary>
                         Professional Sharing (External)
                     </summary>
+									<div class="content">
                     <p>YCKSS&nbsp;ensures the transfer of professional learning through a cycle of application and reflection refinement.&nbsp;We also develop the capacity of staff through external sharing at cluster, national and international platforms.</p>
                     <h5>Our teacher's reflection:</h5>
                     <figure><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P9.png"></figure>
                     <figure><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P10.png"></figure>
+									</div>
                 </details>
             </section>
         </article>
