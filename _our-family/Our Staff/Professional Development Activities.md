@@ -8,88 +8,101 @@ image: /images/YCKLogo.svg
 ---
 <div class="yck-component">
     <div class="regular-flow">
-        <p class="dropcap-title">YCKSS nurtures a growth mind set in our staff, as well as advance our collective capacity by sharpening the professional knowledge and technical competencies of our varied roles. Professional development sessions improve and increase the range of opportunities for teachers to develop their professional capabilities.</p>
-        <hr>
-        <h2>Staff Retreat 2024</h2>
-        <div class="ken-burns-container">
-            <div class="ken-burns-image">
-                <img alt="Staff of Yio Chu Kang Secondary School were at Changi Jewel for our annual Staff Retreat" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/Staff_Retreat_2024_Banner.jpg">
-            </div>
-        </div>
-        <p>Staff of Yio Chu Kang Secondary School were at Changi Jewel for our annual Staff Retreat on <strong>28 May 2024</strong>.</p>
-        <p>In teams, our staff embarked on the <strong>Changi Airport and Jewel Quest</strong> to uncover clues and conquer challenges across Jewel and the Changi Experience Studio. While racing one another through the quest, we discovered fun facts about Changi Airport, and gained a deeper understanding of the role Changi Airport plays in Singapore's economic development and how it continues to redefine travel and maintains its status as one of the world's best airports.</p>
-        <p>The experience not only allowed our staff to acquire skills in effective teamwork and problem-solving, but also to build rapport and bond as Team YCKSS!</p>
-        <figure>
-            <img alt="Background Image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/Staff_Retreat2024_Rw01L_shade.jpg">
-        </figure>
-        <hr>
-        <details name="pda">
-            <summary>
-                Celebration of Learning
-            </summary>
-					<div>
-            <div class="quote">
-                <div class="blockquote">The purpose of staff development is not just to implement isolated instructional innovations; its central purpose is to build strong collaborative work cultures that will develop the long-term capacity for change.<cite>Michael Fullan. 2009</cite>
+			<article>
+            <section id="intro">
+                <p class="dropcap-title">YCKSS nurtures a growth mind set in our staff, as well as advance our collective capacity by sharpening the professional knowledge and technical competencies of our varied roles. Professional development sessions improve and increase the range of opportunities for teachers to develop their professional capabilities.</p>
+            </section>
+            <hr>
+            <section id="staffretreat2025">
+                <h2>Staff Retreat 2025</h2>
+                <div class="ken-burns-container">
+                    <figure class="ken-burns-image">
+                        <img alt="Staff of Yio Chu Kang Secondary School were at Changi Jewel for our annual Staff Retreat" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/Staff_Retreat_2024_Banner.jpg">
+                    </figure>
                 </div>
-            </div>
-					</div>
-					<div>
-            <p>We continue to celebrate and affirm the work done by our Professional Learning Teams (PLTs) during our annual Celebration of Learning Day. The teachers worked on improving their lesson designs and gathered feedback on how to refine their hybrid lessons to better engage the students.</p>
-            <figure><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P2.png"></figure>
-            <figure>
-                <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P3.png"></figure>
-        </div></details>
-        <hr>
-        <details name="pda">
-            <summary>
-                Supporting Students with Special Needs (SEN)
-            </summary>
-            <h5>Quotes from participants:</h5>
-            <div class="yck-flexbox-grid">
-							<div class="quote">
-                <div class="blockquote">
-                    I have learnt strategies to support students with diverse learning needs.
+                <p>Staff of Yio Chu Kang Secondary School were at Changi Jewel for our annual Staff Retreat on <strong>28 May 2024</strong>.</p>
+                <p>In teams, our staff embarked on the <strong>Changi Airport and Jewel Quest</strong> to uncover clues and conquer challenges across Jewel and the Changi Experience Studio. While racing one another through the quest, we discovered fun facts about Changi Airport, and gained a deeper understanding of the role Changi Airport plays in Singapore's economic development and how it continues to redefine travel and maintains its status as one of the world's best airports.</p>
+                <p>The experience not only allowed our staff to acquire skills in effective teamwork and problem-solving, but also to build rapport and bond as Team YCKSS!</p>
+                <figure>
+                    <img alt="Background Image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/Staff_Retreat2024_Rw01L_shade.jpg">
+                </figure>
+            </section>
+            <section id="staffretreat2024">
+                <h2>Staff Retreat 2024</h2>
+                <div class="ken-burns-container">
+                    <div class="ken-burns-image">
+                        <img alt="Staff of Yio Chu Kang Secondary School were at Changi Jewel for our annual Staff Retreat" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/Staff_Retreat_2024_Banner.jpg">
+                    </div>
                 </div>
-							</div>
-							<div class="quote">
-								<div class="blockquote">
-                    I will make an effort to cater to the different learning needs of the students by incorporating some of the DI strategies.</div>
-							</div>
-            </div>
-            <h5>Knowledge with the staff by our Allied Educators:</h5>
-            <figure><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P5.png"></figure>
-        </details>
-        <hr>
-        <details name="pda">
-            <summary>
-                Preparing for National Digital Literacy Programme (NDLP)
-            </summary>
-            <p>Our teachers went through a series of workshops conducted by Apple Education Specialists to prepare for the roll out of the devices to the students.</p>
-            <figure><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P6.png"></figure>
-            <figure><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P7.png"><p></p>
-            </figure>
-        </details>
-        <hr>
-        <details name="pda">
-            <summary>
-                Professional Sharing (External)
-            </summary>
-            <p>YCKSS&nbsp;ensures the transfer of professional learning through a cycle of application and reflection refinement.&nbsp;We also develop the capacity of staff through external sharing at cluster, national and international platforms.</p>
-            <h5>Our teacher's reflection:</h5>
-            <figure><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P9.png"></figure>
-            <figure><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P10.png"></figure>
-        </details>
-    </div>
-</div>
-<div class="yck-component">
-    <div class="button-container">
-                                        <a href="#top">
-                                            <button class="buttontotop">
-                                                <svg viewBox="0 0 384 512" class="svgIcon">
-                                                    <path d="M214.6 41.4c-12.5-12.5-32.8-12.5-45.3 0l-160 160c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L160 141.2V448c0 17.7 14.3 32 32 32s32-14.3 32-32V141.2L329.4 246.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3l-160-160z"></path>
-                                                </svg>
-                                            </button>
-                                        </a>
+                <p>Staff of Yio Chu Kang Secondary School were at Changi Jewel for our annual Staff Retreat on <strong>28 May 2024</strong>.</p>
+                <p>In teams, our staff embarked on the <strong>Changi Airport and Jewel Quest</strong> to uncover clues and conquer challenges across Jewel and the Changi Experience Studio. While racing one another through the quest, we discovered fun facts about Changi Airport, and gained a deeper understanding of the role Changi Airport plays in Singapore's economic development and how it continues to redefine travel and maintains its status as one of the world's best airports.</p>
+                <p>The experience not only allowed our staff to acquire skills in effective teamwork and problem-solving, but also to build rapport and bond as Team YCKSS!</p>
+                <figure>
+                    <img alt="Background Image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/Staff_Retreat2024_Rw01L_shade.jpg">
+                </figure>
+            </section>
+            <hr>
+            <section>
+                <details name="pda">
+                    <summary>
+                        Celebration of Learning
+                    </summary>
+                    <div>
+                        <div class="quote">
+                            <div class="blockquote">The purpose of staff development is not just to implement isolated instructional innovations; its central purpose is to build strong collaborative work cultures that will develop the long-term capacity for change.<cite>Michael Fullan. 2009</cite>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <p>We continue to celebrate and affirm the work done by our Professional Learning Teams (PLTs) during our annual Celebration of Learning Day. The teachers worked on improving their lesson designs and gathered feedback on how to refine their hybrid lessons to better engage the students.</p>
+                        <figure><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P2.png"></figure>
+                        <figure>
+                            <img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P3.png"></figure>
+                    </div>
+                </details>
+                <hr>
+                <details name="pda">
+                    <summary>
+                        Supporting Students with Special Needs (SEN)
+                    </summary>
+                    <h5>Quotes from participants:</h5>
+                    <div class="yck-flexbox-grid">
+                        <div class="quote">
+                            <div class="blockquote">
+                                I have learnt strategies to support students with diverse learning needs.
+                            </div>
+                        </div>
+                        <div class="quote">
+                            <div class="blockquote">
+                                I will make an effort to cater to the different learning needs of the students by incorporating some of the DI strategies.</div>
+                        </div>
+                    </div>
+                    <h5>Knowledge with the staff by our Allied Educators:</h5>
+                    <figure><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P5.png"></figure>
+                </details>
+                <hr>
+                <details name="pda">
+                    <summary>
+                        Preparing for National Digital Literacy Programme (NDLP)
+                    </summary>
+                    <p>Our teachers went through a series of workshops conducted by Apple Education Specialists to prepare for the roll out of the devices to the students.</p>
+                    <figure><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P6.png"></figure>
+                    <figure><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P7.png">
+                        <p></p>
+                    </figure>
+                </details>
+                <hr>
+                <details name="pda">
+                    <summary>
+                        Professional Sharing (External)
+                    </summary>
+                    <p>YCKSS&nbsp;ensures the transfer of professional learning through a cycle of application and reflection refinement.&nbsp;We also develop the capacity of staff through external sharing at cluster, national and international platforms.</p>
+                    <h5>Our teacher's reflection:</h5>
+                    <figure><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P9.png"></figure>
+                    <figure><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P10.png"></figure>
+                </details>
+            </section>
+        </article>
                                     </div>
 </div>
 
