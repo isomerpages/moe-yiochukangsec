@@ -850,6 +850,8 @@ body {
     word-break: break-word;
     overflow-wrap: break-word;
     scroll-behavior: smooth;
+	background: radial-gradient(circle, rgba(204,204,204,0.6) 0%, rgba(250,250,250,0.95) 100%), url(https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/School%20Song/Sch_SongBG.png) no-repeat center center fixed;
+        background-size: cover;
 }
 
 img,
@@ -2915,5 +2917,71 @@ h6,
 #learn-tri .grid-item:active,
 #learn-tri .grid-item:focus-visible {
     box-shadow: none;
+}
+
+/* === Design and Enterprise === */
+#music {
+    background: url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Icons/trebleclef.svg) no-repeat right center scroll;
+    background-size: contain;
+    backdrop-filter: blur(10px);
+}
+
+#art {
+    background: url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Icons/art.svg) no-repeat right center scroll;
+    background-size: contain;
+    backdrop-filter: blur(10px);
+}
+
+#set {
+    background: url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Icons/set.svg) no-repeat right center scroll;
+    background-size: contain;
+    backdrop-filter: blur(10px);
+}
+
+#stem {
+    background: url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Icons/stem.svg) no-repeat right center scroll;
+    background-size: contain;
+    backdrop-filter: blur(10px);
+}
+
+#foodnutri {
+    background: url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Icons/FoodNutri.svg) no-repeat right center scroll;
+    background-size: contain;
+    backdrop-filter: blur(10px);
+}
+
+/* === Service Learning ...  Specific customizations === */
+#distinct-slii {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 61%, rgba(0, 0, 0, 0.65) 100%), url(https://www.yiochukangsec.moe.edu.sg/images/Our%20Curriculum/Distinctive%20Programmes/Service%20Learning%20Investigation/S1.jpg) no-repeat center center scroll;
+}
+
+/* === FITA Specific customizations === */
+#distinct-fita {
+    background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 37%, rgba(0, 0, 0, 0.65) 100%), url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Curriculum/Distinctive%20Programmes/fita01.jpg) no-repeat center center scroll;
+}
+
+#reflect-rice {
+    background-color: rgba(246, 196, 198, 0.8);
+    border-radius: 1000px 1000px 0 1000px;
+    padding-left: 2em;
+}
+
+#invent-rice {
+    background-color: rgba(255, 239, 201, 0.8);
+    border-radius: 1000px 1000px 1000px 0;
+    padding-left: 2em;
+}
+
+#critic-rice {
+    background-color: rgba(211, 231, 206, 1);
+    border-radius: 1000px 0 1000px 1000px;
+    padding-left: 3em;
+    -top: 1em;
+}
+
+#empath-rice {
+    background-color: rgba(190, 214, 244, 0.9);
+    border-radius: 0 1000px 1000px 1000px;
+    padding-left: 2em;
 }
 </style>
