@@ -19,6 +19,7 @@ image: /images/YCKLogo.svg
         <figure>
             <img class="kenburns-scale" alt="Group of staff in red aprons posing behind a kitchen counter with fresh ingredients and woks." src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/01_Staff_Retreat_cum_Learning_Journey_2026.jpg">
         </figure>
+			<figcaption></figcaption>
     </div>
     <p>Staff of Yio Chu Kang Secondary School participate in the <strong>Staff Retreat cum Learning Journey</strong> annually.</p>
     <p>In past retreats, staff have embarked on the Changi Airport and Jewel Quest, uncovering clues and conquering challenges while discovering fun facts about Changi Airport and its role in Singapore's economic development. In another retreat, staff took part in friendly cooking competitions at the SSA Culinary Institute, preparing dishes such as Thai Basil Chicken, Chicken Green Curry, and Puteri Salat, developing skills in communication, creativity, and teamwork along the way.
@@ -32,7 +33,7 @@ image: /images/YCKLogo.svg
     <figure>
         <img alt="A man in a red apron and oven mitts proudly holding a tray of freshly baked golden pastries.." src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/03_Staff_Retreat_cum_Learning_Journey_2026.jpg">
     </figure>
-	<figcaption>Participants proudly display a tray of freshly baked golden-brown pastries at the end of their retreat session.</figcaption>
+	<figcaption>Participants proudly display their <strong><i>Magnum Opus</i></strong>. </figcaption>
 </section>
             <section id="staffretreat2024">
                 <h2>Staff Retreat 2024</h2>
