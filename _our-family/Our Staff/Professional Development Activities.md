@@ -17,7 +17,7 @@ image: /images/YCKLogo.svg
     <h2>Staff Retreat cum Learning Journey 2025!</h2>
     <div class="ken-burns-container">
         <figure>
-            <img class="ken-burns-image" alt="Group of staff in red aprons posing behind a kitchen counter with fresh ingredients and woks." src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/01_Staff_Retreat_cum_Learning_Journey_2026.jpg">
+            <img class="kenburns-scale" alt="Group of staff in red aprons posing behind a kitchen counter with fresh ingredients and woks." src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/01_Staff_Retreat_cum_Learning_Journey_2026.jpg">
         </figure>
     </div>
     <p>Staff of Yio Chu Kang Secondary School participate in the <strong>Staff Retreat cum Learning Journey</strong> annually.</p>
