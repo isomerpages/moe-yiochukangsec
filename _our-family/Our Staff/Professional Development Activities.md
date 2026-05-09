@@ -28,16 +28,18 @@ image: /images/YCKLogo.svg
     <figure>
         <img alt="Two staff members in red aprons carefully chopping vegetables and prepping herbs in a kitchen." src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/02_Staff_Retreat_cum_Learning_Journey_2026.jpg">
     </figure>
+	<figcaption>Putting teamwork into practice: focus on precise food preparation, from chopping aromatics to prepping fresh herbs.</figcaption>
     <figure>
         <img alt="A man in a red apron and oven mitts proudly holding a tray of freshly baked golden pastries.." src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/03_Staff_Retreat_cum_Learning_Journey_2026.jpg">
     </figure>
+	<figcaption>Participants proudly display a tray of freshly baked golden-brown pastries at the end of their retreat session.</figcaption>
 </section>
             <section id="staffretreat2024">
                 <h2>Staff Retreat 2024</h2>
                 <div class="ken-burns-container">
-                    <div class="ken-burns-image">
-                        <img alt="Staff of Yio Chu Kang Secondary School were at Changi Jewel for our annual Staff Retreat" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/Staff_Retreat_2024_Banner.jpg">
-                    </div>
+                    <figure>
+                        <img class="kenburns-scale" alt="Staff of Yio Chu Kang Secondary School were at Changi Jewel for our annual Staff Retreat" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/Staff_Retreat_2024_Banner.jpg">
+                    </figure>
                 </div>
                 <p>Staff of Yio Chu Kang Secondary School were at Changi Jewel for our annual Staff Retreat on <strong>28 May 2024</strong>.</p>
                 <p>In teams, our staff embarked on the <strong>Changi Airport and Jewel Quest</strong> to uncover clues and conquer challenges across Jewel and the Changi Experience Studio. While racing one another through the quest, we discovered fun facts about Changi Airport, and gained a deeper understanding of the role Changi Airport plays in Singapore's economic development and how it continues to redefine travel and maintains its status as one of the world's best airports.</p>
