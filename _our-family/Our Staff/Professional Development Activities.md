@@ -93,11 +93,13 @@ image: /images/YCKLogo.svg
                     <summary>
                         Preparing for National Digital Literacy Programme (NDLP)
                     </summary>
+									<div class="content">
                     <p>Our teachers went through a series of workshops conducted by Apple Education Specialists to prepare for the roll out of the devices to the students.</p>
                     <figure><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P6.png"></figure>
                     <figure><img alt="" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/P7.png">
                         <p></p>
                     </figure>
+									</div>
                 </details>
                 <hr>
                 <details name="pda">
