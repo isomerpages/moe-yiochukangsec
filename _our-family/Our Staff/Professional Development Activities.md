@@ -35,9 +35,10 @@ image: /images/YCKLogo.svg
     </figure>
 	<figcaption>Participants proudly display their <strong><i>Magnum Opus</i></strong>. </figcaption>
 </section>
-				<hr>
-            <section id="staffretreat2024">
-                <h2>Staff Retreat 2024</h2>
+				<section id="staffretreat2024">
+					<details name="pda">
+                <summary>Staff Retreat 2024</summary>
+								<div class="content">
                 <div class="ken-burns-container">
                     <figure>
                         <img class="kenburns-scale" alt="Staff of Yio Chu Kang Secondary School were at Changi Jewel for our annual Staff Retreat" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/Staff_Retreat_2024_Banner.jpg">
@@ -49,10 +50,9 @@ image: /images/YCKLogo.svg
                 <figure>
                     <img alt="Background Image" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Family/Staff/Professional%20Dvlp%20Activities/Staff_Retreat2024_Rw01L_shade.jpg">
                 </figure>
-            </section>
-            <hr>
-            <section>
-                <details name="pda">
+								</div>
+							</details>
+					<details name="pda">
                     <summary>
                         Celebration of Learning
                     </summary>
