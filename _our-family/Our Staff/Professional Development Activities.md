@@ -35,6 +35,7 @@ image: /images/YCKLogo.svg
     </figure>
 	<figcaption>Participants proudly display their <strong><i>Magnum Opus</i></strong>. </figcaption>
 </section>
+				<hr>
             <section id="staffretreat2024">
                 <h2>Staff Retreat 2024</h2>
                 <div class="ken-burns-container">
