@@ -9,6 +9,9 @@ variant: tiptap
 <p>Yio Chu Kang Secondary School believes in a well-rounded education and
 is committed to providing learning opportunities beyond the core academic
 and student development programmes.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube-nocookie.com/embed/m5ynvRl3NOA?si=TVKZN6sYEEOtVEou"></iframe>
+</div>
 <p>The school has vacancies for up to 20% of our Secondary 1 cohort in 2027
 for the DSA-Sec programme. Interested students can apply through the DSA
 process.</p>
