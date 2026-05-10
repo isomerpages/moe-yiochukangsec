@@ -875,7 +875,7 @@ body {
     word-break: break-word;
     overflow-wrap: break-word;
     scroll-behavior: smooth;
-	background: linear-gradient(to right, rgba(204,204,204,0.6) 0%, rgba(250,250,250,0.95) 100%), url(https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/School%20Song/Sch_SongBG.png) no-repeat center center fixed;
+	background: linear-gradient(to top, rgba(204,204,204,0.6) 15%, rgba(250,250,250,0.95) 95%), url(https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/School%20Song/Sch_SongBG.png) no-repeat center center fixed;
         background-size: cover;
 }
 
