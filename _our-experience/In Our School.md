@@ -160,22 +160,32 @@ image: /images/YCKLogo.svg
             <section id="healthfiesta">
                 <h2>Health Fiesta Week and Sports Carnival</h2>
                 <div class="video-wrapper widescreen">
-                    <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/_xV05iVB5Yk?si=MXlvrxK9nGJxXJgC" height="315" width="560"></iframe>
+                    <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/1FPKqp4qn6E?si=oZ08Z6d0ciiEvAuH" height="315" width="560"></iframe>
                     <div class="video-overlay">
                         <span class="tag">About this event</span>
                         <p>
-                            Health Fiesta, which culminates in Sports Carnival Day, is a week-long event much anticipated by students. It enhances engagement in physical robustness and healthy lifestyle through a variety of fun and simple activities. There is no better medium than Sports to enhance social cohesion and interaction for students from all levels.
+                            Highlights from the Sports Carnival held in Yio Chu Kang Secondary School on 30 April 2026.<br>
+Videos taken by Clarice &amp; Aaliyya<br>
+Music by: "All We Are" by Richello  
                         </p>
                     </div>
                 </div>
-                <figcaption>Sports Carnival 2024</figcaption>
-                <div class="video-wrapper widescreen">
-                    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_xV05iVB5Yk?si=GEB8WjDn1szyTe1J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-                </div>
+                <figcaption>Sports Carnival 2026</figcaption>
                 <div class="content">
                     <p>
                         Health Fiesta, which culminates in Sports Carnival Day, is a week‑long event that is much anticipated by the students. It enhances students’ engagement in physical robustness and healthy lifestyle through a variety of fun and simple activities. There is no better medium than Sports to enhance social cohesion and interaction for students from all levels to interact.
                     </p>
+									<h3>Previous Sports Carnivals</h3>
+                <details>
+                    <summary>Full Performances and Highlight Reels by Year</summary>
+                    <ul>
+                        <li>60<sup>th</sup> <a target="_blank" href="https://youtu.be/Ztbsf0cNbQQ?si=CBDuXHO9yAgTJwGB">Full Performance</a> and <a target="_blank" href="https://youtu.be/xWxW7cRhwfM?si=s6r7DZ6CBxiiDZG8">Highlights</a> in 2025.</li>
+                        <li>59<sup>th</sup> <a target="_blank" href="https://www.youtube.com/embed/iivxaYHg7HY?si=7M-KsfLRj1pHsKkC">Full Performance</a> and <a target="_blank" href="https://www.youtube.com/embed/vXqtR-VJkn4?si=WgK1sTAJ9A8mm625">Highlights</a> in 2024.</li>
+                        <li>58<sup>th</sup> <a target="_blank" href="https://www.youtube.com/watch?v=UpBOuxauBJw">Full Performance</a> and <a target="_blank" href="-&quot;https://youtu.be/Rcnx3RyomJY?si=y43ZPzAwE4kYAwGa&quot;">Highlights</a> in 2023.</li>
+                        <li>57<sup>th</sup> <a target="_blank" href="https://youtu.be/_WaoEa4PJzU?si=SlCGwDYyb1-1vMNV">Speech and Prize Giving Day</a> in 2022.</li>
+                        <li>56<sup>th</sup> <a target="_blank" href="https://youtu.be/aHeeaGQKlwQ?si=3NTF35l5j1FPa63M">Speech and Prize Giving Day</a> in 2021.</li>
+                    </ul>
+                </details>
                 </div>
             </section>
             <hr>
