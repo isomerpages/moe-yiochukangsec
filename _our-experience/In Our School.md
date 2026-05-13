@@ -177,7 +177,7 @@ Music by: "All We Are" by Richello
                     </p>
 									<h3>Previous Sports Carnivals</h3>
                 <details>
-                    <summary>Highlights of our previous Health Fiesta and Sports Carnival</summary>
+                    <summary>Highlights of past Health Fiesta and Sports Carnival</summary>
                     <ul>
                         <li>60<sup>th</sup> <a target="_blank" href="https://youtu.be/Ztbsf0cNbQQ?si=CBDuXHO9yAgTJwGB">Full Performance</a> and <a target="_blank" href="https://youtu.be/xWxW7cRhwfM?si=s6r7DZ6CBxiiDZG8">Highlights</a> in 2025.</li>
                         <li>59<sup>th</sup> <a target="_blank" href="https://www.youtube.com/embed/iivxaYHg7HY?si=7M-KsfLRj1pHsKkC">Full Performance</a> and <a target="_blank" href="https://www.youtube.com/embed/vXqtR-VJkn4?si=WgK1sTAJ9A8mm625">Highlights</a> in 2024.</li>
