@@ -18,21 +18,21 @@ image: /images/YCKLogo.svg
             <section id="navigation">
                 <h2>Take a look at our ...</h2>
                 <nav class="yck-nav-bar">
-									<div class="columns">
-                    <ul class="nolist-style">
-                        <li><a class="active" href="#natday2025">National Day Celebrations</a></li>
-                        <li><a class="text-link" href="#levelcamp">Level Camps</a></li>
-                        <li><a class="text-link" href="#healthfiesta">Health Fiesta &amp; Sports Carnival</a></li>
-                        <li><a href="#earcandy">Ear<sup>Candy</sup>!</a></li>
-                        <li><a class="text-link" href="#speechday">Annual Speech and Prize Giving Day</a></li>
-									</ul>
-									<ul class="nolist-style">
-                        <li><a href="#syf">Our Singapore Youth Festival (SYF) Journey</a></li>
-                        <li><a class="text-link" href="#safety">Commitment to a Safe Campus</a></li>
-                        <li><a class="text-link" href="#cantabile">Cantabile!</a></li>
-                        <li><a class="text-link" href="#sscwc">Singapore Schools Cyberwellness Challenge (SSCWC)</a></li>
-                    </ul>
-									</div>
+                    <div class="columns">
+                        <ul class="nolist-style">
+                            <li><a class="active" href="#natday2025">National Day Celebrations</a></li>
+                            <li><a class="text-link" href="#levelcamp">Level Camps</a></li>
+                            <li><a class="text-link" href="#healthfiesta">Health Fiesta &amp; Sports Carnival</a></li>
+                            <li><a href="#earcandy">Ear<sup>Candy</sup>!</a></li>
+                            <li><a class="text-link" href="#speechday">Annual Speech and Prize Giving Day</a></li>
+                        </ul>
+                        <ul class="nolist-style">
+                            <li><a href="#syf">Our Singapore Youth Festival (SYF) Journey</a></li>
+                            <li><a class="text-link" href="#safety">Commitment to a Safe Campus</a></li>
+                            <li><a class="text-link" href="#cantabile">Cantabile!</a></li>
+                            <li><a class="text-link" href="#sscwc">Singapore Schools Cyberwellness Challenge (SSCWC)</a></li>
+                        </ul>
+                    </div>
                 </nav>
             </section>
             <hr>
@@ -160,22 +160,44 @@ image: /images/YCKLogo.svg
             <section id="healthfiesta">
                 <h2>Health Fiesta Week and Sports Carnival</h2>
                 <div class="video-wrapper widescreen">
-                    <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/_xV05iVB5Yk?si=MXlvrxK9nGJxXJgC" height="315" width="560"></iframe>
+                    <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/1FPKqp4qn6E?si=oZ08Z6d0ciiEvAuH" height="315" width="560"></iframe>
                     <div class="video-overlay">
                         <span class="tag">About this event</span>
                         <p>
-                            Health Fiesta, which culminates in Sports Carnival Day, is a week-long event much anticipated by students. It enhances engagement in physical robustness and healthy lifestyle through a variety of fun and simple activities. There is no better medium than Sports to enhance social cohesion and interaction for students from all levels.
+                            Highlights from the Sports Carnival held in Yio Chu Kang Secondary School on 30 April 2026.<br>
+                            Videos taken by Clarice &amp; Aaliyya<br>
+                            Music by: "All We Are" by Richello
                         </p>
                     </div>
                 </div>
-                <figcaption>Sports Carnival 2024</figcaption>
-                <div class="video-wrapper widescreen">
-                    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_xV05iVB5Yk?si=GEB8WjDn1szyTe1J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-                </div>
+                <figcaption>Sports Carnival 2026</figcaption>
                 <div class="content">
                     <p>
                         Health Fiesta, which culminates in Sports Carnival Day, is a week‑long event that is much anticipated by the students. It enhances students’ engagement in physical robustness and healthy lifestyle through a variety of fun and simple activities. There is no better medium than Sports to enhance social cohesion and interaction for students from all levels to interact.
                     </p>
+                    <h3>Previous Sports Carnivals</h3>
+                    <details>
+                        <summary>Highlights of past Health Fiesta and Sports Carnival</summary>
+                        <div class="content">
+                            <ul>
+                                <li>Highlights from the <a class="text-link" target="_blank" href="https://youtu.be/_xV05iVB5Yk?si=e9MbuIFRWvAWKs7N">Sports Carnival held in Yio Chu Kang Secondary School</a> on 10 May 2024.<br>
+                                    Videos taken by Mavis, Kye Feng, Sky, Kok Hao &amp; Elise<br>
+                                    Photos taken by Samie, Kristy, Eunice, Haoxuan, Kayden &amp; Izabelle<br>
+                                    Music credit: When We Were Young - David Guetta &amp; Kim Petras
+                                </li>
+                                <li>Highlights from the <a class="text-link" target="_blank" href="https://youtu.be/h-oHl2GOpbg?si=7asK1HyjWD9u4o0N">Sports Carnival held in Yio Chu Kang Secondary School</a> on 19 May 2023.<br>
+                                    Videos taken by Sky, Carissa, Shailesh, Daryl Quek and Dong Zhe<br>
+                                    Music credit: Someone To You - BANNERS
+                                </li>
+                                <li>Highlights from the <a class="text-link" target="_blank" href="https://youtu.be/Qh4SWgR0O6I?si=T3kGTe6HA8vzA2y7">Sports Carnival held in Yio Chu Kang Secondary School</a> on 25 March 2022.<br>
+                                    Videos taken by Yet Yan Shen, Neo Jun Yuan and Derrick See.
+                                </li>
+                                <li>Highlights from the <a class="text-link" target="_blank" href="https://youtu.be/NbaJdCwfqZs?si=B6xnjwhMOEPIDNYH">Sports Carnival held in Yio Chu Kang Secondary School</a> on 26 March 2021.<br>
+                                    Song: ( Energetic Rock ) By : Anwar Amr<br>
+                                </li>
+                            </ul>
+                        </div>
+                    </details>
                 </div>
             </section>
             <hr>
