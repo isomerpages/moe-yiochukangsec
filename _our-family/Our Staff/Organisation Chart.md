@@ -398,14 +398,6 @@ third_nav_title: Our Staff
                             <summary>Email Address:</summary>bernard_roy_sanjay_nair_c<wbr>@moe.edu.sg
                         </details>
                     </div>
-                    <div class="person" id="sivaroobinikalaimani">
-                        <div class="person-name">Ms Sivaroobini Kalaimani</div>
-                        <div class="person-title">SRE - History</div>
-                        <details name="hums">
-                            <summary>Email Address:</summary>
-                            SIVAROOBINI_KALAIMANI<wbr>@moe.edu.sg
-                        </details>
-                    </div>
                     <div class="person" id="andrewyuantahyong">
                         <div class="person-name">Mr Andrew Yuan Tah Yong</div>
                         <div class="person-title">SRE - History</div>
@@ -591,14 +583,6 @@ third_nav_title: Our Staff
                         <details name="mtl">
                             <summary>Email Address:</summary>
                             rathidevi_shanmugam<wbr>@moe.edu.sg
-                        </details>
-                    </div>
-                    <div class="person" id="malikadayalan">
-                        <div class="person-name">Mrs Malika Dayalan</div>
-                        <div class="person-title">FAJT - Tamil Language</div>
-                        <details name="mtl">
-                            <summary>Email Address:</summary>
-                            Malika_A<wbr>@moe.edu.sg
                         </details>
                     </div>
                     <div class="person" id="annamalaijayalakshimi">
