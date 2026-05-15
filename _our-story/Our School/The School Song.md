@@ -804,8 +804,18 @@ body {
     word-break: break-word;
     overflow-wrap: break-word;
     scroll-behavior: smooth;
-}
-
+	background: radial-gradient(ellipse at center right,
+            rgba(255, 255, 255, 0.9) 0%,
+            rgba(250, 250, 250, 0.8) 25%,
+            rgba(245, 245, 245, 0.5) 50%,
+            rgba(240, 240, 240, 0.3) 75%,
+            rgba(250, 250, 250, 0.1) 90%,
+            rgba(255, 255, 255, 0.05) 100%),
+            url(https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Our%20Story/School%20Song/Sch_SongBG.png) no-repeat center right fixed;
+        background-size: cover;
+        margin-top: calc(var(--yck-step-5) + var(--yck-spacing-s-xl));
+    }
+	
 img,
 svg,
 iframe,
