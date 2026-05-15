@@ -8,7 +8,7 @@ third_nav_title: Our School
 ---
 <div class="yck-component">
     <div class="regular-flow">
-        <article style="backdrop-filter: blur(20px) brightness(110%); padding-top: 50px; border-radius: var(--yck-rounded-corners);" id="schsongbg">
+        <article style="backdrop-filter: blur(20px) brightness(110%); padding-top: 50px; padding-left: 15px; padding-right: 50px; border-radius: var(--yck-rounded-corners);" id="schsongbg">
             <section id="top">
                 <div class="content">
                     <h2 class="yck-h2">YCKSS School Song</h2>
