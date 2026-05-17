@@ -244,7 +244,7 @@ third_nav_title: Our School
                         </div>
                     </details>
                     <details>
-                        <summary> A Brand New Design for a New Beginning - The Circle Design (1982-2017)</summary>
+                        <summary>New Design for a New Beginning - The Circle Design (1982-2017)</summary>
                         <div class="content">
                             <p>A new design was introduced by Principal Mdm So Bie Leng to mark the transition of the school to its new premises in Ang Mo Kio. It celebrates the transformation story of a rural school to a large campus with contemporary and full facilities. It also reflects the core ideas of the school motto, which was not changed.</p>
                         </div>
