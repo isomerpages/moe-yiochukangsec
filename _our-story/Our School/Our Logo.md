@@ -237,7 +237,7 @@ third_nav_title: Our School
                         <div class="content">
                             <div class="columns">
                                 <figure>
-                                    <img style="width:30%;height:50%" src="/images/Our%20Story/School%20Logo/The%20Story%20Original%20YCKSS%20Sch/original.PNG">
+                                    <img style="width:30%;height:50%" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/School%20Logo/The%20Story%20Original%20YCKSS%20Sch/original.PNG">
                                 </figure>
                                 <p>The first school logo was introduced when the school was established in 1965 by the founding Principal, Mr Cyril Jensen. The badge was white and brown.</p>
                             </div>
