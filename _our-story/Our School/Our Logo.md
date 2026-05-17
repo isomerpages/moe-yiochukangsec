@@ -233,36 +233,46 @@ third_nav_title: Our School
                 <h2>The Story of the Original YCKSS School Logo</h2>
                 <div class="cards">
                     <details name="schoolstory">
-                        <summary id="inthebegin">In the Beginning - The Shield Design</summary>
+                        <summary id="inthebegin">In the Beginning - The Shield Design (1965-1981)</summary>
                         <div class="content">
                             <div class="columns">
                                 <figure>
-                                    <img style="width:30%;height:50%" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/School%20Logo/The%20Story%20Original%20YCKSS%20Sch/original.PNG">
+                                    <img style="width:50%;height:auto" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/School%20Logo/The%20Story%20Original%20YCKSS%20Sch/original.PNG">
                                 </figure>
                                 <p>The first school logo was introduced when the school was established in 1965 by the founding Principal, Mr Cyril Jensen. The badge was white and brown.</p>
                             </div>
                         </div>
                     </details>
                     <details>
-                        <summary>&nbsp;A&nbsp;Brand&nbsp;New&nbsp;Design&nbsp;for&nbsp;a&nbsp;New&nbsp;Beginning&nbsp;-&nbsp;The&nbsp;Circle&nbsp;Design</summary>
+                        <summary> A Brand New Design for a New Beginning - The Circle Design (1982-2017)</summary>
                         <div class="content">
                             <p>A new design was introduced by Principal Mdm So Bie Leng to mark the transition of the school to its new premises in Ang Mo Kio. It celebrates the transformation story of a rural school to a large campus with contemporary and full facilities. It also reflects the core ideas of the school motto, which was not changed.</p>
                         </div>
                     </details>
                     <details>
-                        <summary>&nbsp;The&nbsp;Chong&nbsp;Boon&nbsp;School&nbsp;Logo&nbsp;-&nbsp;The&nbsp;Golden&nbsp;Tree&nbsp;Design</summary>
+                        <summary> The Chong Boon School Logo - The Golden Tree Design (1994-2005)</summary>
                         <div class="content">
-                            <p>Chong Boon Secondary School was established in 1994. The school crest, introduced by founding Principal Mrs Cecilia Lee, featured a golden flaming tree set in a brown background. It displays the values of Compassion, Benevolence and Steadfastness, which form an acronym that resembles the school's name, CBS.</p>
+                            <div class="columns">
+                                <p>Chong Boon Secondary School was established in 1994. The school crest, introduced by founding Principal Mrs Cecilia Lee, featured a golden flaming tree set in a brown background. It displays the values of Compassion, Benevolence and Steadfastness, which form an acronym that resembles the school's name, CBS.</p>
+                                <figure>
+                                    <img style="width:50%;height:auto" alt="Chong Boon Sec Sch Golden Tree Logo" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/School%20Logo/The%20CBSL%20%20%20The%20Golden%20Tree/s1cbss.PNG">
+                                </figure>
+                            </div>
                         </div>
                     </details>
                     <details>
-                        <summary>The&nbsp;Chong&nbsp;Boon&nbsp;School&nbsp;Logo&nbsp;-&nbsp;The&nbsp;Scenic&nbsp;Tree&nbsp;Design</summary>
+                        <summary>The Chong Boon School Logo - The Scenic Tree Design (2006 – 2017)</summary>
                         <div class="content">
-                            <p>In 2006, the school adopted the metaphor of "Chong Boon, Our Garden of Growth" and a new school emblem. Subsequently, the school's programmes lead to efforts in developing environmental education. In 2009, the school became the first to be conferred niche status in Environmental Education. Through its continued commitment and national achievements in this field, the school developed this niche into its distinctive Applied Learning Programme in Sustainable Technologies. The school logo reflects this deep inclination of the school in environmental causes.</p>
+                            <div class="columns">
+                                <figure>
+                                    <img style="width:50%;height:auto" alt="Chong Boon Sec Sch - The Scenic Tree Logo" src="https://www.yiochukangsec.moe.edu.sg/images/Our%20Story/School%20Logo/The%20CBSL%20%20%20The%20Scenic%20Tree/cbsslogo.PNG">
+                                </figure>
+                                <p>In 2006, the school adopted the metaphor of "Chong Boon, Our Garden of Growth" and a new school emblem. Subsequently, the school's programmes lead to efforts in developing environmental education. In 2009, the school became the first to be conferred niche status in Environmental Education. Through its continued commitment and national achievements in this field, the school developed this niche into its distinctive Applied Learning Programme in Sustainable Technologies. The school logo reflects this deep inclination of the school in environmental causes.</p>
+                            </div>
                         </div>
                     </details>
                     <details>
-                        <summary>Merged&nbsp;School&nbsp;-&nbsp;The&nbsp;Circle&nbsp;Design&nbsp;with&nbsp;Fresh&nbsp;Interpretation</summary>
+                        <summary>Merged School - The Circle Design with Fresh Interpretation</summary>
                         <div class="content">
                             <div class="columns">
                                 <svg height="100%" width="30%" viewBox="0 0 320 320" xmlns="http://www.w3.org/2000/svg">
@@ -276,6 +286,13 @@ third_nav_title: Our School
                     </details>
                 </div>
             </section>
+            <div class="deadctr-container">
+                <a href="#top">
+                    <button class="buttontotop">
+                        <img class="svgIcon" alt="Back to Top" src="https://staging-lite.d3o5f2eggdqz6.amplifyapp.com/images/Icons/svgiconwht.svg">
+                    </button>
+                </a>
+            </div>
         </article>
     </div>
 </div>
