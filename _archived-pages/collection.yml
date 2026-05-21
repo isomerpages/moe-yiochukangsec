@@ -2,6 +2,7 @@ collections:
   archived-pages:
     output: true
     order:
+      - Student Leadership.md
       - Service Learning Through Issue Investigation.md
       - NDP 2023.md
       - In Our School (DRAFT).md
