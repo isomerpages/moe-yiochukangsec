@@ -2,6 +2,7 @@ collections:
   archived-pages:
     output: true
     order:
+      - NDP 2023.md
       - In Our School (DRAFT).md
       - Character and Citizenship Education.md
       - Our Experience (Archive)/In Our School (Archive).md
