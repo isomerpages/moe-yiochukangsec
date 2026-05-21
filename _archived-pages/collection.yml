@@ -2,6 +2,7 @@ collections:
   archived-pages:
     output: true
     order:
+      - Physical Education.md
       - Sexuality Education (SEd).md
       - Education Career Guidance.md
       - Values in Action (ViA).md
