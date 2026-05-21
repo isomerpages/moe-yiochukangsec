@@ -2,6 +2,7 @@ collections:
   archived-pages:
     output: true
     order:
+      - Character and Citizenship Education.md
       - Our Experience (Archive)/In Our School (Archive).md
       - Our Experience (Archive)/.keep
       - Our Students/Useful Links (Archive).md
