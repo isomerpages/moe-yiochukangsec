@@ -2,6 +2,7 @@ collections:
   archived-pages:
     output: true
     order:
+      - Values in Action (ViA).md
       - National Education (NE).md
       - Student Leadership.md
       - Service Learning Through Issue Investigation.md
