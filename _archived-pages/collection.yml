@@ -2,6 +2,16 @@ collections:
   archived-pages:
     output: true
     order:
+      - Physical Education.md
+      - Sexuality Education (SEd).md
+      - Education Career Guidance.md
+      - Values in Action (ViA).md
+      - National Education (NE).md
+      - Student Leadership.md
+      - Service Learning Through Issue Investigation.md
+      - NDP 2023.md
+      - In Our School (DRAFT).md
+      - Character and Citizenship Education.md
       - Our Experience (Archive)/In Our School (Archive).md
       - Our Experience (Archive)/.keep
       - Our Students/Useful Links (Archive).md
@@ -25,6 +35,7 @@ collections:
       - Our CCAs/Digital Animation Club.md
       - Our CCAs/Media Club (Audio Visual, Photography & Videography).md
       - Our CCAs/.keep
+      - Our Staff/SWC Activities (SPICEy).md
       - Our Staff/OrgChart.md
       - Our Staff/SWC Activities (archived).md
       - Our Staff/Key Personnel.md

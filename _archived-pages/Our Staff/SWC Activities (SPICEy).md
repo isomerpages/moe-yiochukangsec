@@ -4,6 +4,7 @@ permalink: /swc-activities-spicey/
 variant: markdown
 description: ""
 image: /images/YCKLogo.svg
+third_nav_title: Our Staff
 ---
 <div class="yck-component">
 	<div class="regular-class">
