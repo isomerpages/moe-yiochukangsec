@@ -9,11 +9,11 @@ variant: tiptap
 <p>(Uploaded on 7 July 2026)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Students/Class Timetable Schedules/Sem_2_Special_Timetable_Sec_3___4.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sem 2 Sec 3 &amp; 4 Special Timetable</a>
+<p><a href="/files/Students/Class Timetable Schedules/Sem_2_Special_Timetable_Sec_3_and_4_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sem 2 Sec 3 &amp; 4 Special Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Students/Class Timetable Schedules/Sem_2_Special_Timetable_Sec_1___2.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sem 2 Sec 1 &amp; 2 Special Timetable</a>
+<p><a href="/files/Students/Class Timetable Schedules/Sem_2_Special_Timetable_Sec_1_and_2_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sem 2 Sec 1 &amp; 2 Special Timetable</a>
 </p>
 </li>
 </ul>
