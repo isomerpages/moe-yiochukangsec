@@ -5,11 +5,23 @@ description: ""
 third_nav_title: Our Students
 variant: tiptap
 ---
+<h4><strong>2026 Special Timetable (Semester 2)</strong></h4>
+<p>(Uploaded on 7 July 2026)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Students/Class Timetable Schedules/Sem_2_Special_Timetable_Sec_3___4.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sem 2 Sec 3 &amp; 4 Special Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Class Timetable Schedules/Sem_2_Special_Timetable_Sec_1___2.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sem 2 Sec 1 &amp; 2 Special Timetable</a>
+</p>
+</li>
+</ul>
 <h4><strong>2026 Class Timetable (Semester 2)</strong></h4>
 <p>(Uploaded on 25 June 2026)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Students/Class Timetable Schedules/2026_Sem_2_Sec_4_Timetable.pdf" rel="noopener nofollow" target="_blank">2026 Sem 2 Sec4 Timetable</a>
+<p><a href="/files/Students/Class Timetable Schedules/2026_Sem_2_Sec_4_Timetable.pdf" rel="noopener nofollow" target="_blank">2026 Sem 2 Sec 4 Timetable</a>
 </p>
 </li>
 <li>
