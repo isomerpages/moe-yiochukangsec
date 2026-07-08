@@ -14,17 +14,17 @@ and level.</p>
 <h3><strong>Assessment Rules &amp; Regulations</strong></h3>
 <p><a href="/files/Students/Assessment Information Sche/YCKSS_Weighted_Assessment_Rules_and_Regulations.pdf" rel="noopener nofollow" target="_blank">Weighted Assessment Rules and Regulations </a>(updated
 on 30 Jan 2026)</p>
-<h4><strong>N Level Preliminary Examination Schedule 2026 </strong></h4>
-<p>(updated on 3 July, 2026)</p>
+<h4><strong>N Level Preliminary Examination Schedule 2026</strong></h4>
+<p>(updated on 8 July, 2026)</p>
 <p><a href="/files/Students/Assessment Information Sche/Exam_Rules___Regulations_2026.pdf" rel="noopener nofollow" target="_blank">Examination Rules &amp; Regulations 2026</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Students/Assessment Information Sche/Sec_4NT_Prelim_2026.pdf" rel="noopener nofollow" target="_blank">Sec 4NT Preliminary Examination 2026</a>
+<p><a href="/files/Students/Assessment Information Sche/Sec_4NT_Prelim_2026_updated_080726.pdf" rel="noopener nofollow" target="_blank">Sec 4NT Preliminary Examination 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Students/Assessment Information Sche/Sec_4NA_Prelim_2026.pdf" rel="noopener nofollow" target="_blank">Sec 4NA Preliminary Examination  2026</a>
+<p><a href="/files/Students/Assessment Information Sche/Sec_4NA_Prelim_2026.pdf" rel="noopener nofollow" target="_blank">Sec 4NA Preliminary Examination 2026</a>
 </p>
 </li>
 </ul>
