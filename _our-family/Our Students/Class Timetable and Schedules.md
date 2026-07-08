@@ -26,8 +26,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Students/Class Timetable Schedules/2026_Sem_2_Sec_3_Timetable_updated_v3_1.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sem 2 Sec 3 Timetable</a>
-</p>
+<p>2026 Sem 2 Sec 3 Timetable</p>
 </li>
 <li>
 <p><a href="/files/Students/Class Timetable Schedules/2026_Sem_2_Sec_2_Timetable_updated.pdf" rel="noopener nofollow" target="_blank">2026 Sem 2 Sec 2 Timetable</a>
