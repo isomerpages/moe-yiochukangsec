@@ -20,11 +20,8 @@ variant: tiptap
 </ul>
 <h4><strong>2026 Class Timetable (Semester 2)</strong></h4>
 <p>(Uploaded on 8 July 2026)</p>
+<p></p>
 <ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Students/Class Timetable Schedules/2026_Sem_2_Sec_4_Timetable_updated.pdf" rel="noopener nofollow" target="_blank">2026 Sem 2 Sec 4 Timetable</a>
-</p>
-</li>
 <li>
 <p><a href="/files/Students/Class Timetable Schedules/2026_Sem_2_Sec_3_Timetable_updated_v3_2.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sem 2 Sec 3 Timetable</a>
 </p>
