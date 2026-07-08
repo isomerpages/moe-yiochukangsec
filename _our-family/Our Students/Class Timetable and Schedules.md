@@ -6,6 +6,39 @@ third_nav_title: Our Students
 variant: tiptap
 ---
 <h4><strong>2026 Special Timetable (Semester 2)</strong></h4>
+<p>(Uploaded on 8 July 2026)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Students/Class Timetable Schedules/Sem_2_Special_Timetable_Sec_3___4_v3.pdf" rel="noopener nofollow" target="_blank">2026 Sem 2 Sec 3 &amp; 4 Special Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Class Timetable Schedules/Sem_2_Special_Timetable_Sec_1___2_v3.pdf" rel="noopener nofollow" target="_blank">2026 Sem 2 Sec 1 &amp; 2 Special Timetable</a>
+</p>
+</li>
+</ul>
+<h4><strong>2026 Class Timetable (Semester 2)</strong></h4>
+<p>(Uploaded on 8 July 2026)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Students/Class Timetable Schedules/2026_Sem_2_Sec_4_Timetable_updated.pdf" rel="noopener nofollow" target="_blank">2026 Sem 2 Sec 4 Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Class Timetable Schedules/2026_Sem_2_Sec_3_Timetable_updated.pdf" rel="noopener nofollow" target="_blank">2026 Sem 2 Sec 3 Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Class Timetable Schedules/2026_Sem_2_Sec_2_Timetable_updated.pdf" rel="noopener nofollow" target="_blank">2026 Sem 2 Sec 2 Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Class Timetable Schedules/2026_Sem_2_Sec_1_Timetable_updated.pdf" rel="noopener nofollow" target="_blank">2026 Sem 2 Sec 1 Timetable</a>
+</p>
+</li>
+</ul>
+<p></p>
+<h4><strong>2026 Special Timetable (Semester 2)</strong></h4>
 <p>(Uploaded on 7 July 2026)</p>
 <ul data-tight="true" class="tight">
 <li>
