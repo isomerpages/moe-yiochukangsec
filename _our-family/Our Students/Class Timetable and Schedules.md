@@ -7,12 +7,9 @@ variant: tiptap
 ---
 <h4><strong>2026 Special Timetable (Semester 2)</strong></h4>
 <p>(Uploaded on 8 July 2026)</p>
-<p><a href="/files/Students/Class Timetable Schedules/Sem_2_Special_Timetable_Sec_3___4_v3_1.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sem 2 Sec 3 &amp; 4 Special Timetable v1</a>
-</p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Students/Class Timetable Schedules/Sem_2_Special_Timetable_Sec_3___4_v3.pdf" rel="noopener nofollow" target="_blank">2026 Sem 2 Sec 3 &amp; 4 Special Timetable</a>
+<p><a href="/files/Students/Class Timetable Schedules/Sem_2_Special_Timetable_Sec_3___4_v3_1.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sem 2 Sec 3 &amp; 4 Special Timetable</a>
 </p>
 </li>
 <li>
@@ -29,7 +26,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Students/Class Timetable Schedules/2026_Sem_2_Sec_3_Timetable_updated.pdf" rel="noopener nofollow" target="_blank">2026 Sem 2 Sec 3 Timetable</a>
+<p><a href="/files/Students/Class Timetable Schedules/2026_Sem_2_Sec_3_Timetable_updated_v3_1.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sem 2 Sec 3 Timetable</a>
 </p>
 </li>
 <li>
