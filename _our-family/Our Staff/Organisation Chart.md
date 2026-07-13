@@ -242,6 +242,22 @@ third_nav_title: Our Staff
                     alvina_loganathan<wbr>@moe.edu.sg
                 </details>
             </div>
+                                                        <div class="person" id="weedaiqi">
+                                                            <div class="person-name">Mr Wee Daiqi</div>
+                                                            <div class="person-title">Subject Head for Digital Learning</div>
+                                                            <details name="key">
+                                                                <summary>Email Address:</summary>
+                                                                wee_daiqi<wbr>@moe.edu.sg
+                                                            </details>
+                                                        </div>
+                                                        <div class="person" id="weedaiqi">
+                                                            <div class="person-name">Ms Lim Sing Liean (Dawn)</div>
+                                                            <div class="person-title">Subject Head for Design &amp; Technology</div>
+                                                            <details name="key">
+                                                                <summary>Email Address:</summary>
+                                                                lim_sing_liean<wbr>@moe.edu.sg
+                                                            </details>
+                                                        </div>
         </div>
         <div class="yck-component">
             <div class="deadctr-container">
@@ -604,14 +620,6 @@ third_nav_title: Our Staff
             <div class="department">
                 <div class="department-name">Physical Education Department</div>
                 <div class="people-grid">
-                    <div class="person" id="weedaiqi">
-                        <div class="person-name">Mr Wee Daiqi</div>
-                        <div class="person-title">Teacher</div>
-                        <details name="pe">
-                            <summary>Email Address:</summary>
-                            wee_daiqi<wbr>@moe.edu.sg
-                        </details>
-                    </div>
                     <div class="person" id="leongngannyunanna">
                         <div class="person-name">Ms Leong Ngan Nyun Anna</div>
                         <div class="person-title">Teacher</div>
