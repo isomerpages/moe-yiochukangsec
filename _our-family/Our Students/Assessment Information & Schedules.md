@@ -14,6 +14,38 @@ and level.</p>
 <h3><strong>Assessment Rules &amp; Regulations</strong></h3>
 <p><a href="/files/Students/Assessment Information Sche/YCKSS_Weighted_Assessment_Rules_and_Regulations.pdf" rel="noopener nofollow" target="_blank">Weighted Assessment Rules and Regulations </a>(updated
 on 30 Jan 2026)</p>
+<h4><strong>Weighted Assessment 2026 (Term 3)</strong></h4>
+<p>(updated on 20July, 2026)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Students/Assessment Information Sche/Secondary_3_Weighted_Assessment_Schedule__Term_3__2026.pdf" rel="noopener nofollow" target="_blank">Sec 3 Weighted Assessment Schedule &amp; Subject Information 2026</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/Secondary_2D_E_F_Weighted_Assessment_Term3__Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 2D 2E 2F Weighted Assessment Schedule &amp; Subject Information 2026</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/Secondary_2A_B_C_Weighted_Assessment_Term3__Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 2A 2B 2C Weighted Assessment Schedule &amp; Subject Information 2026</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/Secondary_1D_E_F_Weighted_Assessment_Term_3__Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1D 1E 1F Weighted Assessment Schedule &amp; Subject Information 2026</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/Secondary_1A_B_C_Weighted_Assessment_Term_3__Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1A 1B 1C Weighted Assessment Schedule &amp; Subject Information 2026</a>
+</p>
+</li>
+</ul>
+<h4><strong>O Level Preliminary Examination Schedule 2026</strong></h4>
+<p>(updated on 20 July, 2026)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Students/Assessment Information Sche/Sec_4E5N__Prelim2026.pdf" rel="noopener nofollow" target="_blank">Sec 4E5N Preliminary Examination 2026</a>
+</p>
+</li>
+</ul>
 <h4><strong>N Level Preliminary Examination Schedule 2026</strong></h4>
 <p>(updated on 8 July, 2026)</p>
 <p><a href="/files/Students/Assessment Information Sche/Exam_Rules___Regulations_2026.pdf" rel="noopener nofollow" target="_blank">Examination Rules &amp; Regulations 2026</a>
