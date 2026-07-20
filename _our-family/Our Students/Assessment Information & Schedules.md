@@ -15,7 +15,7 @@ and level.</p>
 <p><a href="/files/Students/Assessment Information Sche/YCKSS_Weighted_Assessment_Rules_and_Regulations.pdf" rel="noopener nofollow" target="_blank">Weighted Assessment Rules and Regulations </a>(updated
 on 30 Jan 2026)</p>
 <h4><strong>Weighted Assessment 2026 (Term 3)</strong></h4>
-<p>(updated on 20July, 2026)</p>
+<p>(updated on 20 July, 2026)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Students/Assessment Information Sche/Secondary_3_Weighted_Assessment_Schedule__Term_3__2026.pdf" rel="noopener nofollow" target="_blank">Sec 3 Weighted Assessment Schedule &amp; Subject Information 2026</a>
