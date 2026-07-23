@@ -375,14 +375,6 @@ third_nav_title: Our Staff
                             ng_wan_hwee_doreen<wbr>@moe.edu.sg
                         </details>
                     </div>
-                    <div class="person" id="tewtjinlianamelia">
-                        <div class="person-name">Ms Tew Tjin Lian Amelia</div>
-                        <div class="person-title">Social Studies</div>
-                        <details name="hums">
-                            <summary>Email Address:</summary>
-                            tew_tjin_lian_amelia<wbr>@moe.edu.sg
-                        </details>
-                    </div>
                     <div class="person" id="laujieruijezreel">
                         <div class="person-name">Ms Lau Jie Rui Jezreel</div>
                         <div class="person-title">Geography</div>
