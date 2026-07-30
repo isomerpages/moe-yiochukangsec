@@ -21,6 +21,11 @@ image: /images/YCKLogo.svg
             </div></section>
 					<section>
 						<h3>Alumni Mid-Autumn Festival Celebration</h3>
+						<div class="content">
+                    <figure>
+                        <img src="/images/Our%20Family/Alumni/Alumni_mid_autuum_poster.png">
+                    </figure>
+									</div>
 					</section>
             <section>
                 <details name="alumni" id="reunion">
