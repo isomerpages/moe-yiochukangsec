@@ -19,6 +19,9 @@ image: /images/YCKLogo.svg
                 </ol>
                 <p><span class="hvr-backward">Drop us an <a class="text-link" href="mailto:yckss@moe.edu.sg?subject=Interest%20in%20Alumni%20involvement">email at yckss@moe.edu.sg</a></span> if <i>you have any enquiries and will like to find out more from the school</i> or simply ... <span class="hvr-forward yck-h5"><a class="hvr-pulse" href="https://tinyurl.com/YCKalumniform"><button class="cta-button">Sign up now! 😀</button></a></span></p>
             </div></section>
+					<section>
+						<h3>Alumni Mid-Autumn Festival Celebration</h3>
+					</section>
             <section>
                 <details name="alumni" id="reunion">
                     <summary>Alumni Reunion Invitation</summary>
