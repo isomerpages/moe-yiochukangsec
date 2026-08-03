@@ -14,6 +14,47 @@ and level.</p>
 <h3><strong>Assessment Rules &amp; Regulations</strong></h3>
 <p><a href="/files/Students/Assessment Information Sche/YCKSS_Weighted_Assessment_Rules_and_Regulations.pdf" rel="noopener nofollow" target="_blank">Weighted Assessment Rules and Regulations </a>(updated
 on 30 Jan 2026)</p>
+<h4><strong>Sec 1-3 End of Year Examination Subject Information 2026</strong></h4>
+<p>(updated on 3 August, 2026)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Students/Assessment Information Sche/Sec_3G1_EOY_Exam_Subject_Information_2026.pdf" rel="noopener nofollow" target="_blank">Sec 3G1 EOY 2026 Subject Information</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/Sec_3G2_EOY_Exam_Subject_Information_2026.pdf" rel="noopener nofollow" target="_blank">Sec 3G2 EOY 2026 Subject Information</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/Sec_3G3_EOY_Exam_Subject_Information_2026.pdf" rel="noopener nofollow" target="_blank">Sec 3G3 EOY 2026 Subject Information</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/Sec_2G1_EOY_Exam_Subject_Information_2026.pdf" rel="noopener nofollow" target="_blank">Sec 2G1 EOY 2026 Subject Information</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/Sec_2G2_EOY_Exam_Subject_Information_2026.pdf" rel="noopener nofollow" target="_blank">Sec 2G2 EOY 2026 Subject Information</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/Sec_2G3_EOY_Exam_Subject_Information_2026.pdf" rel="noopener nofollow" target="_blank">Sec 2G3 EOY 2026 Subject Information</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/Sec_1G1_EOY_Exam_Subject_Information_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1G1 EOY 2026 Subject Information</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/Sec_1G2_EOY_Exam_Subject_Information_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1G2 EOY 2026 Subject Information</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/Sec_1G3_EOY_Exam_Subject_Information_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1G3 EOY 2026 Subject Information</a>
+</p>
+</li>
+</ul>
+<p></p>
 <h4><strong>Weighted Assessment 2026 (Term 3)</strong></h4>
 <p>(updated on 20 July, 2026)</p>
 <ul data-tight="true" class="tight">
