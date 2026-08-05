@@ -24,6 +24,17 @@ sections:
       title: Home Heart Hope
       subtitle: asefas
   - infopic:
+      title: Once upon a Mid-Autumn Festival ...
+      subtitle: YCK Secondary presents
+      id: infopic
+      description: We invite our alumni & family to join us this coming 25 September,
+        Friday evening at Yio Chu Kang Secondary from 6:30PM to 8:30PM. Scan the
+        QRCode to register.
+      button: Join Us!
+      url: https://www.yiochukangsec.moe.edu.sg/our-family/our-alumni/
+      image: /images/Homepage/Invitation_for_alumni_for_25_Sep_2026_School_Website.png
+      alt: Image alt text
+  - infopic:
       title: YCKSS Guided School Tour
       id: infopic
       description: Strictly on appointment basis only. Book your appointment by 20th
