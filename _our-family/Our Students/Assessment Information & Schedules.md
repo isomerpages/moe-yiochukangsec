@@ -14,6 +14,22 @@ and level.</p>
 <h3><strong>Assessment Rules &amp; Regulations</strong></h3>
 <p><a href="/files/Students/Assessment Information Sche/YCKSS_Weighted_Assessment_Rules_and_Regulations.pdf" rel="noopener nofollow" target="_blank">Weighted Assessment Rules and Regulations </a>(updated
 on 30 Jan 2026)</p>
+<h4><strong>Sec 1-3 End of Year Examination Schedule 2026</strong></h4>
+<p>(updated on 19 August, 2026)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Students/Assessment Information Sche/Sec_3_EOY_Timetable2026.pdf" rel="noopener nofollow" target="_blank">Sec 3 EOY 2026 Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/2026_Sec_2_EOY_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 2 EOY 2026 Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/Assessment Information Sche/2026_Sec_1_EOY_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 1 EOY 2026 Timetable</a>
+</p>
+</li>
+</ul>
 <h4><strong>Sec 1-3 End of Year Examination Subject Information 2026</strong></h4>
 <p>(updated on 3 August, 2026)</p>
 <ul data-tight="true" class="tight">
